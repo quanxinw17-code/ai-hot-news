@@ -1,0 +1,70 @@
+name: Fetch AI News
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      summary_method:
+        description: "Summarization method (extractive or ai)"
+        required: true
+        default: "extractive"
+        type: choice
+        options:
+          - extractive
+          - ai
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch news & generate summaries
+        env:
+          SUMMARY_METHOD: ${{ inputs.summary_method || 'extractive' }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          python scripts/fetch_news.py
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "auto: update AI news data [skip ci]"
+          file_pattern: data/news.json
+          commit_user_name: "AI News Bot"
+          commit_user_email: "bot@ai-hot-news.github.io"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

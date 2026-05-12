@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 热点 · 每日智能摘要</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header & Hero -->
+    <header class="hero">
+        <div class="hero-bg"></div>
+        <div class="hero-content">
+            <h1 class="hero-title">
+                <span class="gradient-text">AI 热点</span>
+                <span class="hero-sub">每日智能摘要</span>
+            </h1>
+            <p class="hero-desc">聚合 AI 前沿资讯 · 智能摘要 · 一站式追踪</p>
+            <div class="search-box">
+                <svg class="search-icon" viewBox="0 0 24 24" width="20" height="20">
+                    <path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z" fill="currentColor"/>
+                </svg>
+                <input type="text" id="searchInput" placeholder="搜索 AI 热点…" autocomplete="off">
+                <button id="searchBtn" class="search-btn">搜索</button>
+            </div>
+            <div class="filter-bar">
+                <button class="filter-btn active" data-filter="all">全部</button>
+                <button class="filter-btn" data-filter="trending">🔥 热门</button>
+                <button class="filter-btn" data-filter="llm">LLM</button>
+                <button class="filter-btn" data-filter="vision">多模态</button>
+                <button class="filter-btn" data-filter="agent">Agent</button>
+                <button class="filter-btn" data-filter="tool">工具</button>
+                <button class="filter-btn" data-filter="paper">论文</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Status Bar -->
+    <div class="status-bar" id="statusBar">
+        <span id="statusText">正在加载最新 AI 资讯…</span>
+        <span id="updateTime"></span>
+    </div>
+
+    <!-- News Grid -->
+    <main class="container">
+        <div class="news-grid" id="newsGrid">
+            <!-- Cards rendered by JS -->
+        </div>
+        <div class="empty-state" id="emptyState">
+            <svg viewBox="0 0 120 120" width="120" height="120">
+                <circle cx="60" cy="60" r="50" fill="none" stroke="currentColor" stroke-width="2" opacity="0.3"/>
+                <path d="M60 35 L60 60 L80 70" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+            </svg>
+            <h3>未找到相关内容</h3>
+            <p>试试其他关键词或筛选条件</p>
+        </div>
+    </main>
+
+    <!-- Detail Modal -->
+    <div class="modal-overlay" id="modal">
+        <div class="modal-content">
+            <button class="modal-close" id="modalClose">&times;</button>
+            <div class="modal-body" id="modalBody"></div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>数据来源：Hacker News · Reddit · Timelines · 自动采集</p>
+        <p>AI 摘要由算法生成，仅供参考 · <a href="#" id="refreshLink">手动刷新数据</a></p>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

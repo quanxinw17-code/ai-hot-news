@@ -80,8 +80,8 @@
                     </span>
                     <span class="news-date">${formatDate(item.published_at)}</span>
                 </div>
-                <h3>${escapeHtml(item.title)}</h3>
-                <p class="news-summary">${escapeHtml(item.summary)}</p>
+                <h3>${escapeHtml(item.title_zh || item.title)}</h3>
+                <p class="news-summary">${escapeHtml(item.summary_zh || item.summary)}</p>
                 <div class="news-card-footer">
                     <div class="news-tags">
                         ${(item.tags || []).slice(0, 3).map(t =>
@@ -127,8 +127,9 @@
         if (searchQuery.trim()) {
             const q = searchQuery.trim().toLowerCase();
             data = data.filter(item =>
+                (item.title_zh || item.title || '').toLowerCase().includes(q) ||
+                (item.summary_zh || item.summary || '').toLowerCase().includes(q) ||
                 (item.title || '').toLowerCase().includes(q) ||
-                (item.summary || '').toLowerCase().includes(q) ||
                 (item.tags || []).some(t => t.toLowerCase().includes(q))
             );
         }
@@ -140,8 +141,12 @@
     // ---------- Modal ----------
     function openModal(item) {
         document.body.style.overflow = 'hidden';
+        const titleDisplay = item.title_zh || item.title;
+        const summaryDisplay = item.summary_zh || item.summary;
+        const hasTranslation = item.title_zh && item.title_zh !== item.title;
+
         modalBody.innerHTML = `
-            <h2>${escapeHtml(item.title)}</h2>
+            <h2>${escapeHtml(titleDisplay)}</h2>
             <div class="modal-meta">
                 <span class="news-source ${sourceClass(item.source)}">${sourceLabel(item.source)}</span>
                 <span>${new Date(item.published_at).toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
@@ -149,8 +154,14 @@
             </div>
             <div class="modal-section">
                 <h4>AI 摘要</h4>
-                <p>${escapeHtml(item.summary)}</p>
+                <p>${escapeHtml(summaryDisplay)}</p>
+                ${hasTranslation && item.summary ? `<p style="color:var(--text-muted);font-size:0.85rem;margin-top:8px;border-top:1px solid var(--border);padding-top:8px">原文：${escapeHtml(item.summary)}</p>` : ''}
             </div>
+            ${hasTranslation ? `
+            <div class="modal-section">
+                <h4>英文标题</h4>
+                <p style="color:var(--text-secondary)">${escapeHtml(item.title)}</p>
+            </div>` : ''}
             ${item.full_text ? `
             <div class="modal-section">
                 <h4>全文概览</h4>
@@ -233,8 +244,10 @@
     function getSampleData() {
         return [
             {
-                title: 'OpenAI 发布 GPT-5：推理能力大幅提升，支持多模态',
+                title: 'OpenAI Releases GPT-5 with Major Reasoning and Multimodal Improvements',
+                title_zh: 'OpenAI 发布 GPT-5：推理能力大幅提升，支持多模态',
                 summary: 'OpenAI 发布了 GPT-5 模型，在数学推理、代码生成和多模态理解方面取得了显著进步。新模型支持文本、图像和音频输入，在多个基准测试中超越了前代产品。',
+                summary_zh: 'OpenAI 发布了 GPT-5 模型，在数学推理、代码生成和多模态理解方面取得了显著进步。新模型支持文本、图像和音频输入，在多个基准测试中超越了前代产品。',
                 source: 'newsapi',
                 url: 'https://openai.com',
                 published_at: new Date().toISOString(),
@@ -243,8 +256,10 @@
                 score: '🔥 12.3k',
             },
             {
-                title: 'Claude 3.5 Opus 发布：Anthropic 最强模型登场',
+                title: 'Claude 3.5 Opus Launch: Anthropic\'s Most Powerful Model',
+                title_zh: 'Claude 3.5 Opus 发布：Anthropic 最强模型登场',
                 summary: 'Anthropic 发布了 Claude 3.5 Opus，在编程、推理和长文本理解方面达到业界领先水平。支持 200K token 上下文窗口，在 SWE-bench 上取得最高分。',
+                summary_zh: 'Anthropic 发布了 Claude 3.5 Opus，在编程、推理和长文本理解方面达到业界领先水平。支持 200K token 上下文窗口，在 SWE-bench 上取得最高分。',
                 source: 'hacker news',
                 url: 'https://anthropic.com',
                 published_at: new Date(Date.now() - 3600000).toISOString(),
@@ -253,8 +268,10 @@
                 score: '🔥 8.7k',
             },
             {
-                title: 'Google DeepMind 推出 Gemini 2.0：原生多模态 Agent 框架',
+                title: 'Google DeepMind Unveils Gemini 2.0: Native Multimodal Agent Framework',
+                title_zh: 'Google DeepMind 推出 Gemini 2.0：原生多模态 Agent 框架',
                 summary: 'Google DeepMind 发布了 Gemini 2.0，这是首个原生多模态 Agent 框架。该模型能够自主规划、执行复杂任务，并支持工具调用和实时交互。',
+                summary_zh: 'Google DeepMind 发布了 Gemini 2.0，这是首个原生多模态 Agent 框架。该模型能够自主规划、执行复杂任务，并支持工具调用和实时交互。',
                 source: 'reddit',
                 url: 'https://deepmind.google',
                 published_at: new Date(Date.now() - 7200000).toISOString(),
@@ -263,8 +280,10 @@
                 score: '🔥 6.5k',
             },
             {
-                title: 'Meta 开源 Llama 4：高效的小型语言模型系列',
+                title: 'Meta Open Sources Llama 4: Efficient Small Language Model Series',
+                title_zh: 'Meta 开源 Llama 4：高效的小型语言模型系列',
                 summary: 'Meta 发布了 Llama 4 系列模型，包括 8B 和 70B 参数版本。这些模型在推理效率方面进行了优化，可在消费级 GPU 上运行，同时保持了强大的性能。',
+                summary_zh: 'Meta 发布了 Llama 4 系列模型，包括 8B 和 70B 参数版本。这些模型在推理效率方面进行了优化，可在消费级 GPU 上运行，同时保持了强大的性能。',
                 source: 'reddit',
                 url: 'https://meta.com',
                 published_at: new Date(Date.now() - 14400000).toISOString(),
@@ -273,8 +292,10 @@
                 score: '🔥 4.2k',
             },
             {
-                title: 'AI Agent 框架对比：LangGraph vs CrewAI vs AutoGen',
+                title: 'AI Agent Framework Comparison: LangGraph vs CrewAI vs AutoGen',
+                title_zh: 'AI Agent 框架对比：LangGraph vs CrewAI vs AutoGen',
                 summary: '本文深入对比了当前主流的 AI Agent 框架，从架构设计、多 Agent 协作、工具集成和部署便利性等方面进行了全面评估，帮助开发者选择合适的框架。',
+                summary_zh: '本文深入对比了当前主流的 AI Agent 框架，从架构设计、多 Agent 协作、工具集成和部署便利性等方面进行了全面评估，帮助开发者选择合适的框架。',
                 source: 'timelines',
                 url: 'https://example.com/langgraph-vs-crewai',
                 published_at: new Date(Date.now() - 21600000).toISOString(),
@@ -283,8 +304,10 @@
                 score: '📝 3.1k',
             },
             {
-                title: 'LLM 量化技术最新进展：4-bit 推理达到全精度 99%',
+                title: 'LLM Quantization Breakthrough: 4-bit Inference Reaches 99% of Full Precision',
+                title_zh: 'LLM 量化技术最新进展：4-bit 推理达到全精度 99%',
                 summary: '研究人员提出了新的量化方法，使得 4-bit 量化的大语言模型在推理任务上达到了接近全精度模型的性能。这项突破将大幅降低 LLM 部署成本，使在边缘设备上运行成为可能。',
+                summary_zh: '研究人员提出了新的量化方法，使得 4-bit 量化的大语言模型在推理任务上达到了接近全精度模型的性能。这项突破将大幅降低 LLM 部署成本，使在边缘设备上运行成为可能。',
                 source: 'arxiv',
                 url: 'https://arxiv.org',
                 published_at: new Date(Date.now() - 28800000).toISOString(),
@@ -293,8 +316,10 @@
                 score: '📄 2.8k',
             },
             {
-                title: 'Stability AI 发布 Stable Diffusion 4：视频生成重大突破',
-                summary: 'Stability AI 发布了 Stable Diffusion 4，实现了高质量的视频生成能力。新模型支持文本到视频、图像到视频，以及视频编辑功能，在一致性和质量上超越了之前的开源模型。',
+                title: 'Stability AI Releases Stable Diffusion 4: Major Video Generation Breakthrough',
+                title_zh: 'Stability AI 发布 Stable Diffusion 4：视频生成重大突破',
+                summary: 'Stability AI 发布了 Stable Diffusion 4，实现了高质量的视频生成能力。新模型支持文本到视频、图像到视频，以及视频编辑功能。',
+                summary_zh: 'Stability AI 发布了 Stable Diffusion 4，实现了高质量的视频生成能力。新模型支持文本到视频、图像到视频，以及视频编辑功能。',
                 source: 'reddit',
                 url: 'https://stability.ai',
                 published_at: new Date(Date.now() - 36000000).toISOString(),
@@ -303,8 +328,10 @@
                 score: '🔥 5.6k',
             },
             {
-                title: 'RAG 技术演进：从简单检索到 Agentic RAG',
-                summary: '检索增强生成（RAG）技术正在快速演进。本文介绍了从基础的向量检索到 Agentic RAG 的演变路径，包括多跳检索、自适应检索和工具增强等最新进展。',
+                title: 'RAG Evolution: From Simple Retrieval to Agentic RAG',
+                title_zh: 'RAG 技术演进：从简单检索到 Agentic RAG',
+                summary: '检索增强生成（RAG）技术正在快速演进。本文介绍了从基础的向量检索到 Agentic RAG 的演变路径，包括多跳检索和工具增强等最新进展。',
+                summary_zh: '检索增强生成（RAG）技术正在快速演进。本文介绍了从基础的向量检索到 Agentic RAG 的演变路径，包括多跳检索和工具增强等最新进展。',
                 source: 'timelines',
                 url: 'https://example.com/rag-evolution',
                 published_at: new Date(Date.now() - 43200000).toISOString(),

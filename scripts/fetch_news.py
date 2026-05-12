@@ -396,6 +396,154 @@ def _summarize_with_hf(items, api_key):
     return items
 
 
+# ---------- Translation ----------
+
+def translate_items(items, method="extractive"):
+    """Add Chinese translations (title_zh, summary_zh) to all items.
+
+    When AI API is available (method='ai'), translates using the API.
+    Otherwise copies originals as fallback.
+    """
+    if method == "ai" and (
+        os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("OPENAI_API_KEY")
+    ):
+        try:
+            return _translate_with_ai(items)
+        except Exception as e:
+            print(f"[WARN] AI translation failed: {e}", file=sys.stderr)
+
+    # Fallback: copy originals
+    for item in items:
+        item["title_zh"] = item.get("title", "")
+        item["summary_zh"] = item.get("summary", "")
+    print(f"  -> {len(items)} items copied as-is (no AI translation)", file=sys.stderr)
+    return items
+
+
+def _translate_with_ai(items):
+    """Translate titles & summaries to Chinese using AI API (batched)."""
+    api_key = os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("OPENAI_API_KEY")
+    if not api_key:
+        raise Exception("No API key")
+
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        return _translate_with_claude(items, api_key)
+    else:
+        return _translate_with_openai(items, api_key)
+
+
+def _translate_with_claude(items, api_key):
+    """Batch-translate titles and summaries via Claude."""
+    import json as _json
+    batch = []
+    for i, item in enumerate(items):
+        batch.append({
+            "id": i,
+            "title": item["title"],
+            "summary": item.get("summary", "")[:300],
+        })
+
+    prompt = _json.dumps({
+        "model": "claude-sonnet-4-20250514",
+        "max_tokens": 4000,
+        "messages": [{
+            "role": "user",
+            "content": (
+                "Translate each AI news item below to Chinese. "
+                "For each item, provide:\n"
+                "- title_zh: Chinese translation of the title (keep technical terms in English)\n"
+                "- summary_zh: Chinese summary (2 sentences)\n\n"
+                f"Return ONLY valid JSON array, each element has 'id', 'title_zh', 'summary_zh':\n"
+                + _json.dumps(batch, ensure_ascii=False)
+            )
+        }]
+    })
+
+    req = urllib.request.Request(
+        "https://api.anthropic.com/v1/messages",
+        data=prompt.encode("utf-8"),
+        headers={
+            "Content-Type": "application/json",
+            "x-api-key": api_key,
+            "anthropic-version": "2023-06-01",
+        }
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            result = _json.loads(resp.read())
+            content = result["content"][0]["text"]
+            # Extract JSON from response
+            json_match = re.search(r"\[.*\]", content, re.DOTALL)
+            if json_match:
+                translations = _json.loads(json_match.group(0))
+                for t in translations:
+                    idx = t["id"]
+                    items[idx]["title_zh"] = t.get("title_zh", items[idx]["title"])
+                    items[idx]["summary_zh"] = t.get("summary_zh", items[idx].get("summary", ""))
+                print(f"  -> {len(translations)} items translated via Claude", file=sys.stderr)
+    except Exception as e:
+        print(f"  [WARN] Batch translation failed: {e}, falling back", file=sys.stderr)
+        for item in items:
+            item["title_zh"] = item.get("title", "")
+            item["summary_zh"] = item.get("summary", "")
+    return items
+
+
+def _translate_with_openai(items, api_key):
+    """Batch-translate titles and summaries via OpenAI."""
+    import json as _json
+    batch = []
+    for i, item in enumerate(items):
+        batch.append({
+            "id": i,
+            "title": item["title"],
+            "summary": item.get("summary", "")[:300],
+        })
+
+    prompt = _json.dumps({
+        "model": "gpt-4o-mini",
+        "max_tokens": 4000,
+        "messages": [{
+            "role": "user",
+            "content": (
+                "Translate each AI news item below to Chinese. "
+                "For each item, provide:\n"
+                "- title_zh: Chinese translation of the title\n"
+                "- summary_zh: Chinese summary (2 sentences)\n\n"
+                f"Return ONLY valid JSON array, each element has 'id', 'title_zh', 'summary_zh':\n"
+                + _json.dumps(batch, ensure_ascii=False)
+            )
+        }]
+    })
+
+    req = urllib.request.Request(
+        "https://api.openai.com/v1/chat/completions",
+        data=prompt.encode("utf-8"),
+        headers={
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {api_key}",
+        }
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            result = _json.loads(resp.read())
+            content = result["choices"][0]["message"]["content"]
+            json_match = re.search(r"\[.*\]", content, re.DOTALL)
+            if json_match:
+                translations = _json.loads(json_match.group(0))
+                for t in translations:
+                    idx = t["id"]
+                    items[idx]["title_zh"] = t.get("title_zh", items[idx]["title"])
+                    items[idx]["summary_zh"] = t.get("summary_zh", items[idx].get("summary", ""))
+                print(f"  -> {len(translations)} items translated via OpenAI", file=sys.stderr)
+    except Exception as e:
+        print(f"  [WARN] Batch translation failed: {e}, falling back", file=sys.stderr)
+        for item in items:
+            item["title_zh"] = item.get("title", "")
+            item["summary_zh"] = item.get("summary", "")
+    return items
+
+
 # ---------- Main ----------
 
 def main():
@@ -443,6 +591,10 @@ def main():
     print("\n[Summary] Generating summaries...", file=sys.stderr)
     summarization_method = os.environ.get("SUMMARY_METHOD", "extractive")
     unique_items = generate_summaries(unique_items, method=summarization_method)
+
+    # Translate to Chinese
+    print("\n[Translate] Adding Chinese translations...", file=sys.stderr)
+    unique_items = translate_items(unique_items, method=summarization_method)
 
     # Sort by score/recency
     def sort_key(item):

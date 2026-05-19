@@ -1,7 +1,151 @@
 {
-  "updated_at": "2026-05-19T11:44:04.440813+00:00",
+  "updated_at": "2026-05-19T18:28:21.831238+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Graduates are booing pep talks on AI at college commencements",
+      "summary": "Graduates are booing pep talks on AI at college commencements",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://apnews.com/article/ai-college-commencement-anxiety-boo-35aec9bac660eaeb05c5b8d392db2cac",
+      "published_at": "2026-05-19T17:42:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "73",
+      "item_id": "hn:48196546",
+      "summary_type": "extractive",
+      "title_zh": "Graduates are booing pep talks on AI at college commencements",
+      "summary_zh": "Graduates are booing pep talks on AI at college commencements"
+    },
+    {
+      "title": "Google I/O",
+      "summary": "Google I/O",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://io.google/2026/",
+      "published_at": "2026-05-19T17:01:25+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "130",
+      "item_id": "hn:48196020",
+      "summary_type": "extractive",
+      "title_zh": "Google I/O",
+      "summary_zh": "Google I/O"
+    },
+    {
+      "title": "KV Sharing, MHC, and Compressed Attention",
+      "summary": "KV Sharing, MHC, and Compressed Attention",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+      "published_at": "2026-05-19T16:40:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "7",
+      "item_id": "hn:48195706",
+      "summary_type": "extractive",
+      "title_zh": "KV Sharing, MHC, and Compressed Attention",
+      "summary_zh": "KV Sharing, MHC, and Compressed Attention"
+    },
+    {
+      "title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
+      "summary": "Hey HN, we’re Nico and Arseniy, co-founders of Superlog (https:&#x2F;&#x2F;superlog.sh). We&#x27;re building a self-installing, self healing observability tool meant not to be opened. It has a wizard that daily sets up proper logging and an agent that investigates errors and opens PRs.Super short demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=xFhU9Mk247M.In our earlier startups, we tried Sentry, Datadog, Grafana, Dash0, and nothing was good enough.",
+      "full_text": "Hey HN, we’re Nico and Arseniy, co-founders of Superlog (https:&#x2F;&#x2F;superlog.sh). We&#x27;re building a self-installing, self healing observability tool meant not to be opened. It has a wizard that daily sets up proper logging and an agent that investigates errors and opens PRs.Super short demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=xFhU9Mk247M.In our earlier startups, we tried Sentry, Datadog, Grafana, Dash0, and nothing was good enough.  Proper telemetry and alerting still requ",
+      "source": "hacker news",
+      "url": "https://superlog.sh/",
+      "published_at": "2026-05-19T15:54:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "27",
+      "item_id": "hn:48195021",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
+      "summary_zh": "Hey HN, we’re Nico and Arseniy, co-founders of Superlog (https:&#x2F;&#x2F;superlog.sh). We&#x27;re building a self-installing, self healing observability tool meant not to be opened. It has a wizard that daily sets up proper logging and an agent that investigates errors and opens PRs.Super short demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=xFhU9Mk247M.In our earlier startups, we tried Sentry, Datadog, Grafana, Dash0, and nothing was good enough."
+    },
+    {
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "summary": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://virtualosmuseum.org/",
+      "published_at": "2026-05-19T15:53:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "269",
+      "item_id": "hn:48195009",
+      "summary_type": "extractive",
+      "title_zh": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "summary_zh": "I’ve built a virtual museum with nearly every operating system you can think of"
+    },
+    {
+      "title": "Show HN: I made a 3D pose maker for artists",
+      "summary": "Show HN: I made a 3D pose maker for artists",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://setpose.com/",
+      "published_at": "2026-05-19T14:04:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "51",
+      "item_id": "hn:48193474",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: I made a 3D pose maker for artists",
+      "summary_zh": "Show HN: I made a 3D pose maker for artists"
+    },
+    {
+      "title": "OpenBSD 7.9",
+      "summary": "OpenBSD 7.9",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.openbsd.org/79.html",
+      "published_at": "2026-05-19T13:11:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "279",
+      "item_id": "hn:48192882",
+      "summary_type": "extractive",
+      "title_zh": "OpenBSD 7.9",
+      "summary_zh": "OpenBSD 7.9"
+    },
+    {
+      "title": "Colonization of Venus",
+      "summary": "Colonization of Venus",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://en.wikipedia.org/wiki/Colonization_of_Venus",
+      "published_at": "2026-05-19T12:26:45+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "102",
+      "item_id": "hn:48192410",
+      "summary_type": "extractive",
+      "title_zh": "Colonization of Venus",
+      "summary_zh": "Colonization of Venus"
+    },
+    {
+      "title": "Apple unveils new accessibility features",
+      "summary": "Apple unveils new accessibility features",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "published_at": "2026-05-19T12:04:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "430",
+      "item_id": "hn:48192224",
+      "summary_type": "extractive",
+      "title_zh": "Apple unveils new accessibility features",
+      "summary_zh": "Apple unveils new accessibility features"
+    },
     {
       "title": "Gaussian Splat of a Strawberry",
       "summary": "Gaussian Splat of a Strawberry",
@@ -12,11 +156,27 @@
       "tags": [
         "ai"
       ],
-      "score": "65",
+      "score": "383",
       "item_id": "hn:48191602",
       "summary_type": "extractive",
       "title_zh": "Gaussian Splat of a Strawberry",
       "summary_zh": "Gaussian Splat of a Strawberry"
+    },
+    {
+      "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+      "summary": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "published_at": "2026-05-19T07:45:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "268",
+      "item_id": "hn:48190454",
+      "summary_type": "extractive",
+      "title_zh": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+      "summary_zh": "CISA Admin Leaked AWS GovCloud Keys on GitHub"
     },
     {
       "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
@@ -28,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "125",
+      "score": "307",
       "item_id": "hn:48189368",
       "summary_type": "extractive",
       "title_zh": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
@@ -44,75 +204,59 @@
       "tags": [
         "ai"
       ],
-      "score": "50",
+      "score": "88",
       "item_id": "hn:48189178",
       "summary_type": "extractive",
       "title_zh": "PyTorch Landscape",
       "summary_zh": "PyTorch Landscape"
     },
     {
-      "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
-      "summary": "Hey everyone! I&#x27;ve been working on hsrs, a type-safe Haskell Bindings Generator for Rust.I couldn&#x27;t really find any bindings generator that would create type-safe, rich bindings for Haskell from Rust. Naturally, both languages have rich type systems, so I was amazed that no awesome bindings generator already existed, hence I decided to write my own.",
-      "full_text": "Hey everyone! I&#x27;ve been working on hsrs, a type-safe Haskell Bindings Generator for Rust.I couldn&#x27;t really find any bindings generator that would create type-safe, rich bindings for Haskell from Rust. Naturally, both languages have rich type systems, so I was amazed that no awesome bindings generator already existed, hence I decided to write my own. hsrs feels very similar to pyo3 and napi-rs, and if you&#x27;ve used those, hsrs will feel right at home.What&#x27;s unique about hsrs as ",
-      "source": "hacker news",
-      "url": "https://github.com/harmont-dev/hsrs",
-      "published_at": "2026-05-19T04:06:09+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "36",
-      "item_id": "hn:48189044",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
-      "summary_zh": "Hey everyone! I&#x27;ve been working on hsrs, a type-safe Haskell Bindings Generator for Rust.I couldn&#x27;t really find any bindings generator that would create type-safe, rich bindings for Haskell from Rust. Naturally, both languages have rich type systems, so I was amazed that no awesome bindings generator already existed, hence I decided to write my own."
-    },
-    {
       "title": "Peter Neumann has died",
-      "summary": "Peter Neumann has died",
-      "full_text": "",
+      "summary": "https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Peter_G._Neumann",
+      "full_text": "https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Peter_G._Neumann",
       "source": "hacker news",
       "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
       "published_at": "2026-05-19T03:17:45+00:00",
       "tags": [
         "ai"
       ],
-      "score": "151",
+      "score": "279",
       "item_id": "hn:48188787",
       "summary_type": "extractive",
       "title_zh": "Peter Neumann has died",
-      "summary_zh": "Peter Neumann has died"
+      "summary_zh": "https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Peter_G._Neumann"
     },
     {
-      "title": "Peter Salus has died",
-      "summary": "Peter Salus has died",
+      "title": "War game exposed U.S. vulnerability to low-tech warfare",
+      "summary": "War game exposed U.S. vulnerability to low-tech warfare",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
-      "published_at": "2026-05-19T02:56:42+00:00",
+      "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
+      "published_at": "2026-05-19T02:25:29+00:00",
       "tags": [
         "ai"
       ],
-      "score": "145",
-      "item_id": "hn:48188665",
+      "score": "66",
+      "item_id": "hn:48188506",
       "summary_type": "extractive",
-      "title_zh": "Peter Salus has died",
-      "summary_zh": "Peter Salus has died"
+      "title_zh": "War game exposed U.S. vulnerability to low-tech warfare",
+      "summary_zh": "War game exposed U.S. vulnerability to low-tech warfare"
     },
     {
-      "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
-      "summary": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+      "title": "An Apple (II) for Teacher",
+      "summary": "An Apple (II) for Teacher",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-      "published_at": "2026-05-18T23:18:10+00:00",
+      "url": "https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/",
+      "published_at": "2026-05-19T00:25:50+00:00",
       "tags": [
         "ai"
       ],
-      "score": "241",
-      "item_id": "hn:48187201",
+      "score": "44",
+      "item_id": "hn:48187752",
       "summary_type": "extractive",
-      "title_zh": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
-      "summary_zh": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25"
+      "title_zh": "An Apple (II) for Teacher",
+      "summary_zh": "An Apple (II) for Teacher"
     },
     {
       "title": "Click (2016)",
@@ -124,7 +268,7 @@
       "tags": [
         "ai"
       ],
-      "score": "317",
+      "score": "355",
       "item_id": "hn:48187054",
       "summary_type": "extractive",
       "title_zh": "Click (2016)",
@@ -140,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "166",
+      "score": "184",
       "item_id": "hn:48184322",
       "summary_type": "extractive",
       "title_zh": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
@@ -156,7 +300,7 @@
       "tags": [
         "ai"
       ],
-      "score": "279",
+      "score": "344",
       "item_id": "hn:48183301",
       "summary_type": "extractive",
       "title_zh": "We let AIs run radio stations",
@@ -170,9 +314,9 @@
       "url": "http://arxiv.org/abs/2605.18753v1",
       "published_at": "2026-05-18T17:59:52Z",
       "tags": [
-        "tool",
         "paper",
-        "llm"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.18753v1",
@@ -189,8 +333,8 @@
       "published_at": "2026-05-18T17:59:03Z",
       "tags": [
         "agent",
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.18747v1",
@@ -223,8 +367,8 @@
       "url": "http://arxiv.org/abs/2605.18743v1",
       "published_at": "2026-05-18T17:58:51Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.18743v1",
@@ -241,8 +385,8 @@
       "published_at": "2026-05-18T17:57:04Z",
       "tags": [
         "vision",
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.18740v1",
@@ -258,9 +402,9 @@
       "url": "http://arxiv.org/abs/2605.18738v1",
       "published_at": "2026-05-18T17:56:13Z",
       "tags": [
-        "tool",
         "paper",
-        "llm"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.18738v1",
@@ -320,6 +464,38 @@
       "summary_zh": "Unified multimodal models (UMMs) strive to consolidate visual understanding and visual generation within a single architecture. However, prevailing training paradigms independently optimize understanding via sparse text signals and generation through dense pixel objectives. Such a decoupled strategy yields misaligned representation spaces, isolating visual understanding from generation and hindering their mutual reinforcement."
     },
     {
+      "title": "Hanoi’s humble beer glass and the memory of a nation",
+      "summary": "Hanoi’s humble beer glass and the memory of a nation",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
+      "published_at": "2026-05-18T17:45:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "82",
+      "item_id": "hn:48182872",
+      "summary_type": "extractive",
+      "title_zh": "Hanoi’s humble beer glass and the memory of a nation",
+      "summary_zh": "Hanoi’s humble beer glass and the memory of a nation"
+    },
+    {
+      "title": "Show HN: Haystack – Review the PRs that need human attention",
+      "summary": "Hey HN! We&#x27;re building Haystack (https:&#x2F;&#x2F;haystackeditor.com&#x2F;) to help teams deal with the explosion in the number of pull requests that need to be reviewed due to the rise of coding agents.Haystack replaces the GitHub PR review system with a queue that triages each PR before a human has to read any diffs. It looks at the diffs, the codebase, and the coding-agent conversation that produced the PR.",
+      "full_text": "Hey HN! We&#x27;re building Haystack (https:&#x2F;&#x2F;haystackeditor.com&#x2F;) to help teams deal with the explosion in the number of pull requests that need to be reviewed due to the rise of coding agents.Haystack replaces the GitHub PR review system with a queue that triages each PR before a human has to read any diffs. It looks at the diffs, the codebase, and the coding-agent conversation that produced the PR. Haystack then routes it into one of three buckets:1. Safe to merge. This means t",
+      "source": "hacker news",
+      "url": "https://haystackeditor.com/",
+      "published_at": "2026-05-18T17:44:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "10",
+      "item_id": "hn:48182856",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Haystack – Review the PRs that need human attention",
+      "summary_zh": "Hey HN! We&#x27;re building Haystack (https:&#x2F;&#x2F;haystackeditor.com&#x2F;) to help teams deal with the explosion in the number of pull requests that need to be reviewed due to the rise of coding agents.Haystack replaces the GitHub PR review system with a queue that triages each PR before a human has to read any diffs. It looks at the diffs, the codebase, and the coding-agent conversation that produced the PR."
+    },
+    {
       "title": "Distilling Tabular Foundation Models for Structured Health Data",
       "summary": "Tabular foundation models (TFMs) achieve strong performance on health datasets, but their inference cost and infrastructure requirements limit practical use. We study whether their predictive behavior can be transferred to lightweight tabular models through knowledge distillation. Since in-context TFMs condition on the training set at inference time, naive distillation can introduce context leakage; we address this with stratified out-of-fold teacher labeling.",
       "full_text": "",
@@ -327,9 +503,9 @@
       "url": "http://arxiv.org/abs/2605.18702v1",
       "published_at": "2026-05-18T17:37:28Z",
       "tags": [
-        "tool",
+        "paper",
         "llm",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.18702v1",
@@ -345,8 +521,8 @@
       "url": "http://arxiv.org/abs/2605.18697v1",
       "published_at": "2026-05-18T17:33:50Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.18697v1",
@@ -362,8 +538,8 @@
       "url": "http://arxiv.org/abs/2605.18696v1",
       "published_at": "2026-05-18T17:32:57Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.18696v1",
@@ -379,8 +555,8 @@
       "url": "http://arxiv.org/abs/2605.18693v1",
       "published_at": "2026-05-18T17:28:36Z",
       "tags": [
-        "llm",
         "agent",
+        "llm",
         "paper"
       ],
       "score": "📄",
@@ -397,9 +573,9 @@
       "url": "http://arxiv.org/abs/2605.18692v1",
       "published_at": "2026-05-18T17:28:25Z",
       "tags": [
-        "tool",
-        "llm",
         "agent",
+        "llm",
+        "tool",
         "paper"
       ],
       "score": "📄",
@@ -416,8 +592,8 @@
       "url": "http://arxiv.org/abs/2605.18684v1",
       "published_at": "2026-05-18T17:23:13Z",
       "tags": [
-        "tool",
         "agent",
+        "tool",
         "paper"
       ],
       "score": "📄",
@@ -434,8 +610,8 @@
       "url": "http://arxiv.org/abs/2605.18681v1",
       "published_at": "2026-05-18T17:21:48Z",
       "tags": [
-        "tool",
         "vision",
+        "tool",
         "paper"
       ],
       "score": "📄",
@@ -454,7 +630,7 @@
       "tags": [
         "ai"
       ],
-      "score": "167",
+      "score": "260",
       "item_id": "hn:48182516",
       "summary_type": "extractive",
       "title_zh": "Cursor Introduces Composer 2.5",
@@ -485,8 +661,8 @@
       "url": "http://arxiv.org/abs/2605.18675v1",
       "published_at": "2026-05-18T17:15:27Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.18675v1",
@@ -519,9 +695,9 @@
       "url": "http://arxiv.org/abs/2605.18672v1",
       "published_at": "2026-05-18T17:13:41Z",
       "tags": [
-        "tool",
-        "llm",
         "agent",
+        "llm",
+        "tool",
         "paper"
       ],
       "score": "📄",
@@ -529,22 +705,6 @@
       "summary_type": "extractive",
       "title_zh": "Position: A Three-Layer Probabilistic Assume-Guarantee Architecture Is Structurally Required for Safe LLM Agent Deployment",
       "summary_zh": "This position paper argues that enforcing LLM agent safety within a single abstraction layer is not merely suboptimal but categorically insufficient for deployed LLM agents -- a structural consequence of how agent execution works, not a contingent limitation of current systems. The three dimensions that jointly constitute safe operation -- semantic intent and policy compliance, environmental validity, and dynamical feasibility -- each depend on a strictly distinct set of information that becomes"
-    },
-    {
-      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://archestra.ai/blog/only-responsible-ai",
-      "published_at": "2026-05-18T15:24:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "472",
-      "item_id": "hn:48181125",
-      "summary_type": "extractive",
-      "title_zh": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary_zh": "We stopped AI bot spam in our GitHub repo using Git's –author flag"
     },
     {
       "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
@@ -556,59 +716,11 @@
       "tags": [
         "ai"
       ],
-      "score": "149",
+      "score": "174",
       "item_id": "hn:48180204",
       "summary_type": "extractive",
       "title_zh": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
       "summary_zh": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries"
-    },
-    {
-      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "summary": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/zakirullin/files.md",
-      "published_at": "2026-05-18T13:33:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "644",
-      "item_id": "hn:48179677",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "summary_zh": "Show HN: Files.md – Open-source alternative to Obsidian"
-    },
-    {
-      "title": "AI eats the world (Spring 26) [pdf]",
-      "summary": "AI eats the world (Spring 26) [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
-      "published_at": "2026-05-18T12:49:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "248",
-      "item_id": "hn:48179021",
-      "summary_type": "extractive",
-      "title_zh": "AI eats the world (Spring 26) [pdf]",
-      "summary_zh": "AI eats the world (Spring 26) [pdf]"
-    },
-    {
-      "title": "Energy return in running shoes explained (2025)",
-      "summary": "Energy return in running shoes explained (2025)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://runrepeat.com/guides/energy-return-in-running-shoes",
-      "published_at": "2026-05-17T19:12:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:48172234",
-      "summary_type": "extractive",
-      "title_zh": "Energy return in running shoes explained (2025)",
-      "summary_zh": "Energy return in running shoes explained (2025)"
     },
     {
       "title": "Photo GIMP – A Patch for GIMP 3 for Photoshop Users",
@@ -620,27 +732,11 @@
       "tags": [
         "ai"
       ],
-      "score": "24",
+      "score": "180",
       "item_id": "hn:48167890",
       "summary_type": "extractive",
       "title_zh": "Photo GIMP – A Patch for GIMP 3 for Photoshop Users",
       "summary_zh": "Photo GIMP – A Patch for GIMP 3 for Photoshop Users"
-    },
-    {
-      "title": "When can the C++ compiler devirtualize a call?",
-      "summary": "When can the C++ compiler devirtualize a call?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
-      "published_at": "2026-05-17T08:58:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "68",
-      "item_id": "hn:48167187",
-      "summary_type": "extractive",
-      "title_zh": "When can the C++ compiler devirtualize a call?",
-      "summary_zh": "When can the C++ compiler devirtualize a call?"
     },
     {
       "title": "Polypad",
@@ -652,27 +748,11 @@
       "tags": [
         "ai"
       ],
-      "score": "95",
+      "score": "189",
       "item_id": "hn:48166744",
       "summary_type": "extractive",
       "title_zh": "Polypad",
       "summary_zh": "Polypad"
-    },
-    {
-      "title": "Anyone on the Internet Can Ring Your Doorbell",
-      "summary": "Anyone on the Internet Can Ring Your Doorbell",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
-      "published_at": "2026-05-17T03:59:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "107",
-      "item_id": "hn:48165944",
-      "summary_type": "extractive",
-      "title_zh": "Anyone on the Internet Can Ring Your Doorbell",
-      "summary_zh": "Anyone on the Internet Can Ring Your Doorbell"
     },
     {
       "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
@@ -684,7 +764,7 @@
       "tags": [
         "ai"
       ],
-      "score": "95",
+      "score": "219",
       "item_id": "hn:48165797",
       "summary_type": "extractive",
       "title_zh": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
@@ -700,59 +780,11 @@
       "tags": [
         "ai"
       ],
-      "score": "46",
+      "score": "88",
       "item_id": "hn:48165283",
       "summary_type": "extractive",
       "title_zh": "The lasting influence of Netscape Time",
       "summary_zh": "The lasting influence of Netscape Time"
-    },
-    {
-      "title": "Make ZIP files smaller with ZIP Shrinker",
-      "summary": "Make ZIP files smaller with ZIP Shrinker",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/",
-      "published_at": "2026-05-17T00:26:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "34",
-      "item_id": "hn:48165030",
-      "summary_type": "extractive",
-      "title_zh": "Make ZIP files smaller with ZIP Shrinker",
-      "summary_zh": "Make ZIP files smaller with ZIP Shrinker"
-    },
-    {
-      "title": "The quiet renovation at Bitwarden",
-      "summary": "The quiet renovation at Bitwarden",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-      "published_at": "2026-05-16T20:13:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "646",
-      "item_id": "hn:48163389",
-      "summary_type": "extractive",
-      "title_zh": "The quiet renovation at Bitwarden",
-      "summary_zh": "The quiet renovation at Bitwarden"
-    },
-    {
-      "title": "The Fil-C Optimized Calling Convention",
-      "summary": "The Fil-C Optimized Calling Convention",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://fil-c.org/calling_convention",
-      "published_at": "2026-05-16T19:10:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "138",
-      "item_id": "hn:48162876",
-      "summary_type": "extractive",
-      "title_zh": "The Fil-C Optimized Calling Convention",
-      "summary_zh": "The Fil-C Optimized Calling Convention"
     },
     {
       "title": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
@@ -764,43 +796,11 @@
       "tags": [
         "ai"
       ],
-      "score": "101",
+      "score": "154",
       "item_id": "hn:48161772",
       "summary_type": "extractive",
       "title_zh": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
       "summary_zh": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone"
-    },
-    {
-      "title": "Why is it called Kent House?",
-      "summary": "Why is it called Kent House?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://diamondgeezer.blogspot.com/2026/05/kent-house.html",
-      "published_at": "2026-05-16T10:19:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "36",
-      "item_id": "hn:48158780",
-      "summary_type": "extractive",
-      "title_zh": "Why is it called Kent House?",
-      "summary_zh": "Why is it called Kent House?"
-    },
-    {
-      "title": "Two computers, one monitor, zero fiddling (2025)",
-      "summary": "Two computers, one monitor, zero fiddling (2025)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://alexplescan.com/posts/2025/08/16/kvm/",
-      "published_at": "2026-05-16T02:13:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "228",
-      "item_id": "hn:48156186",
-      "summary_type": "extractive",
-      "title_zh": "Two computers, one monitor, zero fiddling (2025)",
-      "summary_zh": "Two computers, one monitor, zero fiddling (2025)"
     },
     {
       "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
@@ -812,7 +812,7 @@
       "tags": [
         "ai"
       ],
-      "score": "138",
+      "score": "165",
       "item_id": "hn:48136909",
       "summary_type": "extractive",
       "title_zh": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
@@ -828,7 +828,7 @@
       "tags": [
         "ai"
       ],
-      "score": "168",
+      "score": "222",
       "item_id": "hn:48123359",
       "summary_type": "extractive",
       "title_zh": "Show HN: Number Gacha, a gacha game distilled to its essence",

@@ -1,38 +1,503 @@
 {
-  "updated_at": "2026-05-26T19:35:24.992139+00:00",
+  "updated_at": "2026-05-27T12:38:25.514168+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Stop Advertising in Your Commits",
-      "summary": "Stop Advertising in Your Commits",
+      "title": "I'm Tired of Talking to AI",
+      "summary": "I'm Tired of Talking to AI",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
-      "published_at": "2026-05-26T18:37:07+00:00",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "published_at": "2026-05-27T10:43:25+00:00",
       "tags": [
         "ai"
       ],
-      "score": "58",
-      "item_id": "hn:48283914",
+      "score": "379",
+      "item_id": "hn:48292224",
       "summary_type": "extractive",
-      "title_zh": "Stop Advertising in Your Commits",
-      "summary_zh": "Stop Advertising in Your Commits"
+      "title_zh": "I'm Tired of Talking to AI",
+      "summary_zh": "I'm Tired of Talking to AI"
     },
     {
-      "title": "Stack Overflow’s forum is dead but the company’s still kicking",
-      "summary": "Stack Overflow’s forum is dead but the company’s still kicking",
+      "title": "Mini Micro Fantasy Computer",
+      "summary": "Mini Micro Fantasy Computer",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news/",
-      "published_at": "2026-05-26T17:17:12+00:00",
+      "url": "https://miniscript.org/MiniMicro/index.html#about",
+      "published_at": "2026-05-27T09:56:02+00:00",
       "tags": [
         "ai"
       ],
       "score": "80",
-      "item_id": "hn:48282709",
+      "item_id": "hn:48291947",
       "summary_type": "extractive",
-      "title_zh": "Stack Overflow’s forum is dead but the company’s still kicking",
-      "summary_zh": "Stack Overflow’s forum is dead but the company’s still kicking"
+      "title_zh": "Mini Micro Fantasy Computer",
+      "summary_zh": "Mini Micro Fantasy Computer"
+    },
+    {
+      "title": "Go: Support for Generic Methods",
+      "summary": "Go: Support for Generic Methods",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/golang/go/issues/77273",
+      "published_at": "2026-05-27T09:02:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:48291575",
+      "summary_type": "extractive",
+      "title_zh": "Go: Support for Generic Methods",
+      "summary_zh": "Go: Support for Generic Methods"
+    },
+    {
+      "title": "All of human cooking compressed into 2 megabytes",
+      "summary": "All of human cooking compressed into 2 megabytes",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arxiv.org/abs/2605.22391",
+      "published_at": "2026-05-27T08:14:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "52",
+      "item_id": "hn:48291225",
+      "summary_type": "extractive",
+      "title_zh": "All of human cooking compressed into 2 megabytes",
+      "summary_zh": "All of human cooking compressed into 2 megabytes"
+    },
+    {
+      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "summary": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "published_at": "2026-05-27T05:13:39+00:00",
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": "121",
+      "item_id": "hn:48289950",
+      "summary_type": "extractive",
+      "title_zh": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "summary_zh": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs"
+    },
+    {
+      "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+      "summary": "Introducing Posthorn, a self hosted email gateway. One docker container (or Go binary) between every self hosted app on your VPS and your transactional email provider. Set up Posthorn once, point your apps to it, done.I was trying to deploy Ghost on a DigitalOcean droplet and found that DO and many different VPS services have started to block the default SMTP ports to try to combat the various types of abuse they get.",
+      "full_text": "Introducing Posthorn, a self hosted email gateway. One docker container (or Go binary) between every self hosted app on your VPS and your transactional email provider. Set up Posthorn once, point your apps to it, done.I was trying to deploy Ghost on a DigitalOcean droplet and found that DO and many different VPS services have started to block the default SMTP ports to try to combat the various types of abuse they get. To actually configure my app, I had to hack together a Postfix relay.In anothe",
+      "source": "hacker news",
+      "url": "https://github.com/craigmccaskill/posthorn",
+      "published_at": "2026-05-27T04:26:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "49",
+      "item_id": "hn:48289624",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Posthorn, self-hosted mail without the mail server",
+      "summary_zh": "Introducing Posthorn, a self hosted email gateway. One docker container (or Go binary) between every self hosted app on your VPS and your transactional email provider. Set up Posthorn once, point your apps to it, done.I was trying to deploy Ghost on a DigitalOcean droplet and found that DO and many different VPS services have started to block the default SMTP ports to try to combat the various types of abuse they get."
+    },
+    {
+      "title": "Tunecat: Simple Internet Radio",
+      "summary": "Tunecat: Simple Internet Radio",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://codeberg.org/lindenii/tunecat/",
+      "published_at": "2026-05-27T01:08:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "57",
+      "item_id": "hn:48288174",
+      "summary_type": "extractive",
+      "title_zh": "Tunecat: Simple Internet Radio",
+      "summary_zh": "Tunecat: Simple Internet Radio"
+    },
+    {
+      "title": "Cloudflare Flagship",
+      "summary": "Cloudflare Flagship",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://developers.cloudflare.com/flagship/",
+      "published_at": "2026-05-26T23:36:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "257",
+      "item_id": "hn:48287468",
+      "summary_type": "extractive",
+      "title_zh": "Cloudflare Flagship",
+      "summary_zh": "Cloudflare Flagship"
+    },
+    {
+      "title": "The worst job interview I ever had",
+      "summary": "The worst job interview I ever had",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+      "published_at": "2026-05-26T20:11:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "403",
+      "item_id": "hn:48285344",
+      "summary_type": "extractive",
+      "title_zh": "The worst job interview I ever had",
+      "summary_zh": "The worst job interview I ever had"
+    },
+    {
+      "title": "That Methyl Methacrylate Tank",
+      "summary": "That Methyl Methacrylate Tank",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "published_at": "2026-05-26T19:25:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "352",
+      "item_id": "hn:48284712",
+      "summary_type": "extractive",
+      "title_zh": "That Methyl Methacrylate Tank",
+      "summary_zh": "That Methyl Methacrylate Tank"
+    },
+    {
+      "title": "The Melancholy of Slaying Monsters",
+      "summary": "The Melancholy of Slaying Monsters",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+      "published_at": "2026-05-26T19:25:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "150",
+      "item_id": "hn:48284711",
+      "summary_type": "extractive",
+      "title_zh": "The Melancholy of Slaying Monsters",
+      "summary_zh": "The Melancholy of Slaying Monsters"
+    },
+    {
+      "title": "Algorithmic Monocultures in Hiring",
+      "summary": "Many employers screen job applicants with algorithms built by the same few algorithm vendors. We hypothesize that algorithmic monoculture leads to the same individuals and members of the same racial groups facing rejection. We acquire and analyze a novel dataset of 3 million applicants submitting 4 million applications where all the applications are screened by algorithms built by the same vendor.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27371v1",
+      "published_at": "2026-05-26T17:59:55Z",
+      "tags": [
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27371v1",
+      "summary_type": "extractive",
+      "title_zh": "Algorithmic Monocultures in Hiring",
+      "summary_zh": "Many employers screen job applicants with algorithms built by the same few algorithm vendors. We hypothesize that algorithmic monoculture leads to the same individuals and members of the same racial groups facing rejection. We acquire and analyze a novel dataset of 3 million applicants submitting 4 million applications where all the applications are screened by algorithms built by the same vendor."
+    },
+    {
+      "title": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
+      "summary": "Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability, reliability, and long-term improvement. We propose MUSE-Autoskill Agent (Memory-Utilizing Skill Evolution), a skill-centric agent framework that lets agents continuously improve their task-solving capability by creating, reusing, and refining skills under a unified lifecycle (creation, memory, mana",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27366v1",
+      "published_at": "2026-05-26T17:59:19Z",
+      "tags": [
+        "tool",
+        "llm",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27366v1",
+      "summary_type": "extractive",
+      "title_zh": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
+      "summary_zh": "Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability, reliability, and long-term improvement. We propose MUSE-Autoskill Agent (Memory-Utilizing Skill Evolution), a skill-centric agent framework that lets agents continuously improve their task-solving capability by creating, reusing, and refining skills under a unified lifecycle (creation, memory, mana"
+    },
+    {
+      "title": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
+      "summary": "Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded largely independently. This token-by-token decoding mismatches the coupled structure of box geometry and creates a practical inference bottleneck due to strictly sequential generation. We introduce LocateAnything, a unified generative grounding and detection framework based on Parallel Box Decoding (",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27365v1",
+      "published_at": "2026-05-26T17:59:12Z",
+      "tags": [
+        "tool",
+        "llm",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27365v1",
+      "summary_type": "extractive",
+      "title_zh": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
+      "summary_zh": "Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded largely independently. This token-by-token decoding mismatches the coupled structure of box geometry and creates a practical inference bottleneck due to strictly sequential generation. We introduce LocateAnything, a unified generative grounding and detection framework based on Parallel Box Decoding ("
+    },
+    {
+      "title": "Natural Language Query to Configuration for Retrieval Agents",
+      "summary": "Modern retrieval agents expose many configuration choices -- LLM, retriever, number of documents, number of hops, and synthesis strategy -- each shaping both answer quality and serving cost. Today, these pipelines are typically hand-tuned once per workload, leaving substantial per-query optimization untapped. We formulate the problem: given a natural-language query and either an accuracy or a budget target, select from a predefined pipeline catalog the configuration that minimizes cost or maximi",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27361v1",
+      "published_at": "2026-05-26T17:58:47Z",
+      "tags": [
+        "tool",
+        "llm",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27361v1",
+      "summary_type": "extractive",
+      "title_zh": "Natural Language Query to Configuration for Retrieval Agents",
+      "summary_zh": "Modern retrieval agents expose many configuration choices -- LLM, retriever, number of documents, number of hops, and synthesis strategy -- each shaping both answer quality and serving cost. Today, these pipelines are typically hand-tuned once per workload, leaving substantial per-query optimization untapped. We formulate the problem: given a natural-language query and either an accuracy or a budget target, select from a predefined pipeline catalog the configuration that minimizes cost or maximi"
+    },
+    {
+      "title": "GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing",
+      "summary": "Cellular research and development (R&amp;D) is throttled by six structural processes that each consume months of manual engineering work per iteration: (i) synthesizing new features from standards or research papers into production code; (ii) conformance and interoperability testing; (iii) hardening against field anomalies and diverse deployment environments; (iv) data-driven optimization of network functionalities; (v) discovering and prototyping novel waveforms, functionalities, and capabiliti",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27360v1",
+      "published_at": "2026-05-26T17:58:43Z",
+      "tags": [
+        "tool",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27360v1",
+      "summary_type": "extractive",
+      "title_zh": "GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing",
+      "summary_zh": "Cellular research and development (R&amp;D) is throttled by six structural processes that each consume months of manual engineering work per iteration: (i) synthesizing new features from standards or research papers into production code; (ii) conformance and interoperability testing; (iii) hardening against field anomalies and diverse deployment environments; (iv) data-driven optimization of network functionalities; (v) discovering and prototyping novel waveforms, functionalities, and capabiliti"
+    },
+    {
+      "title": "MobileMoE: Scaling On-Device Mixture of Experts",
+      "summary": "Mixture-of-Experts (MoE) has become the de facto architecture for hundred-billion-parameter language models, yet its advantages at sub-billion scales for on-device deployment remain largely unexplored. To close this gap, we present MobileMoE, a family of on-device MoE language models with sub-billion active parameters (0.3-0.9B active and 1.3-5.3B total) that establish a new Pareto frontier for on-device LLMs. We first formulate an on-device MoE scaling law that jointly optimizes MoE architectur",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27358v1",
+      "published_at": "2026-05-26T17:58:24Z",
+      "tags": [
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27358v1",
+      "summary_type": "extractive",
+      "title_zh": "MobileMoE: Scaling On-Device Mixture of Experts",
+      "summary_zh": "Mixture-of-Experts (MoE) has become the de facto architecture for hundred-billion-parameter language models, yet its advantages at sub-billion scales for on-device deployment remain largely unexplored. To close this gap, we present MobileMoE, a family of on-device MoE language models with sub-billion active parameters (0.3-0.9B active and 1.3-5.3B total) that establish a new Pareto frontier for on-device LLMs. We first formulate an on-device MoE scaling law that jointly optimizes MoE architectur"
+    },
+    {
+      "title": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
+      "summary": "Reinforcement Learning from Human Feedback (RLHF) is the standard method to align Large Language Models (LLMs) with human preferences. In this work, we introduce alignment tampering, a potential vulnerability where the LLM undergoing alignment influences the preference dataset, causing RLHF to amplify undesired behaviors. This arises from core limitations of RLHF: (1) preference datasets are constructed from the LLM's own outputs, allowing it to influence them, and (2) pairwise comparisons only ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27355v1",
+      "published_at": "2026-05-26T17:57:04Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27355v1",
+      "summary_type": "extractive",
+      "title_zh": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
+      "summary_zh": "Reinforcement Learning from Human Feedback (RLHF) is the standard method to align Large Language Models (LLMs) with human preferences. In this work, we introduce alignment tampering, a potential vulnerability where the LLM undergoing alignment influences the preference dataset, causing RLHF to amplify undesired behaviors. This arises from core limitations of RLHF: (1) preference datasets are constructed from the LLM's own outputs, allowing it to influence them, and (2) pairwise comparisons only "
+    },
+    {
+      "title": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
+      "summary": "Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich intrinsic signals lying in model internals. We propose SAERL, a data engineering framework for LLM reinforcement learning (RL). It models three intrinsic data properties: diversity, difficulty, and quality, using model internals extracted with Sparse Autoencoder (SAE), an advanced mechanistic interp",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27354v1",
+      "published_at": "2026-05-26T17:55:59Z",
+      "tags": [
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27354v1",
+      "summary_type": "extractive",
+      "title_zh": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
+      "summary_zh": "Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich intrinsic signals lying in model internals. We propose SAERL, a data engineering framework for LLM reinforcement learning (RL). It models three intrinsic data properties: diversity, difficulty, and quality, using model internals extracted with Sparse Autoencoder (SAE), an advanced mechanistic interp"
+    },
+    {
+      "title": "When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection",
+      "summary": "Recent generative models have largely closed the gap on low-level artifacts - pixel fingerprints, frequency anomalies, upsampling traces - particularly in person-centric and partial-edit settings where the manipulated region is small and surrounded by photometrically authentic content. We introduce Social Gaze Consistency, a high-level semantic cue defined as the mutual coherence of gaze direction, head-eye alignment, and pupil placement between interacting individuals, and show that it constitu",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27348v1",
+      "published_at": "2026-05-26T17:50:17Z",
+      "tags": [
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27348v1",
+      "summary_type": "extractive",
+      "title_zh": "When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection",
+      "summary_zh": "Recent generative models have largely closed the gap on low-level artifacts - pixel fingerprints, frequency anomalies, upsampling traces - particularly in person-centric and partial-edit settings where the manipulated region is small and surrounded by photometrically authentic content. We introduce Social Gaze Consistency, a high-level semantic cue defined as the mutual coherence of gaze direction, head-eye alignment, and pupil placement between interacting individuals, and show that it constitu"
+    },
+    {
+      "title": "2-ASP(Q) programs with weak constraints: Complexity and efficient implementation",
+      "summary": "ASP(Q) extends Answer Set Programming (ASP) with Quantifiers over answer sets. In this paper we focus on the class of ASP(Q) programs with two quantifiers and weak constraints, denoted as 2-ASP(Q)^w. 2-ASP(Q)^w is a practically relevant fragment of ASP(Q) that is expressive enough to capture optimization problems up to the class Delta_3^P.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27338v1",
+      "published_at": "2026-05-26T17:44:39Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27338v1",
+      "summary_type": "extractive",
+      "title_zh": "2-ASP(Q) programs with weak constraints: Complexity and efficient implementation",
+      "summary_zh": "ASP(Q) extends Answer Set Programming (ASP) with Quantifiers over answer sets. In this paper we focus on the class of ASP(Q) programs with two quantifiers and weak constraints, denoted as 2-ASP(Q)^w. 2-ASP(Q)^w is a practically relevant fragment of ASP(Q) that is expressive enough to capture optimization problems up to the class Delta_3^P."
+    },
+    {
+      "title": "EdgeFlow: Edge-Map Augmented VLM-Based Flowchart Processing for Industrial Requirements Engineering",
+      "summary": "Flowcharts are widely used in industrial requirements, but usually remain embedded as static images. Vision Language Models (VLMs) show promise in the conversion of these flowcharts into machine-readable models for RE activities, yet, when directly applied to flowchart conversion, they often fail on topology-critical visual details. To address this, we propose EdgeFlow that augments a VLM's original input with a deterministically extracted Canny edge map-acting as a structural prior-to improve f",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27332v1",
+      "published_at": "2026-05-26T17:40:47Z",
+      "tags": [
+        "llm",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27332v1",
+      "summary_type": "extractive",
+      "title_zh": "EdgeFlow: Edge-Map Augmented VLM-Based Flowchart Processing for Industrial Requirements Engineering",
+      "summary_zh": "Flowcharts are widely used in industrial requirements, but usually remain embedded as static images. Vision Language Models (VLMs) show promise in the conversion of these flowcharts into machine-readable models for RE activities, yet, when directly applied to flowchart conversion, they often fail on topology-critical visual details. To address this, we propose EdgeFlow that augments a VLM's original input with a deterministically extracted Canny edge map-acting as a structural prior-to improve f"
+    },
+    {
+      "title": "Maat: The Agentic Legal Research Assistant for Competition Protection",
+      "summary": "Competition law experts conducting legal research must review extensive volumes of cases, decisions, and judicial reports to identify precedents and assess key elements in competition and merger cases. Although general research assistants such as Claude and ChatGPT and legal assistants such as SaulLM-7B and LegalGPT are increasingly used to assist legal research, they remain inadequate for competition law analysis: they lack specialized domain expertise, provide insufficient official citations, ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27331v1",
+      "published_at": "2026-05-26T17:38:26Z",
+      "tags": [
+        "llm",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27331v1",
+      "summary_type": "extractive",
+      "title_zh": "Maat: The Agentic Legal Research Assistant for Competition Protection",
+      "summary_zh": "Competition law experts conducting legal research must review extensive volumes of cases, decisions, and judicial reports to identify precedents and assess key elements in competition and merger cases. Although general research assistants such as Claude and ChatGPT and legal assistants such as SaulLM-7B and LegalGPT are increasingly used to assist legal research, they remain inadequate for competition law analysis: they lack specialized domain expertise, provide insufficient official citations, "
+    },
+    {
+      "title": "Governed Evolution of Agent Runtimes through Executable Operational Cognition",
+      "summary": "Recent advances in agentic systems increasingly treat code as an executable operational substrate rather than as a disposable output artifact. Prior work such as \\emph{Code as Agent Harness} frames validated agent-generated artifacts as runtime entities that can be created, executed, revised, persisted, and reused within long-running cognitive loops. However, the governance, lifecycle management, and operational evolution of such artifacts remain under-specified.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27328v1",
+      "published_at": "2026-05-26T17:36:48Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27328v1",
+      "summary_type": "extractive",
+      "title_zh": "Governed Evolution of Agent Runtimes through Executable Operational Cognition",
+      "summary_zh": "Recent advances in agentic systems increasingly treat code as an executable operational substrate rather than as a disposable output artifact. Prior work such as \\emph{Code as Agent Harness} frames validated agent-generated artifacts as runtime entities that can be created, executed, revised, persisted, and reused within long-running cognitive loops. However, the governance, lifecycle management, and operational evolution of such artifacts remain under-specified."
+    },
+    {
+      "title": "Modeling Agentic Technical Debt and Stochastic Tax: A Standalone Framework for Measurement, Simulation, and Dashboarding",
+      "summary": "Agentic AI systems combine probabilistic reasoning with delegated action through tools, context, memory, orchestration, and external workflow integration. This note develops a formal and managerially usable model that distinguishes Agentic Technical Debt from Stochastic Tax. Agentic Technical Debt is a stock of accumulated design and governance liability.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27320v1",
+      "published_at": "2026-05-26T17:28:30Z",
+      "tags": [
+        "tool",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27320v1",
+      "summary_type": "extractive",
+      "title_zh": "Modeling Agentic Technical Debt and Stochastic Tax: A Standalone Framework for Measurement, Simulation, and Dashboarding",
+      "summary_zh": "Agentic AI systems combine probabilistic reasoning with delegated action through tools, context, memory, orchestration, and external workflow integration. This note develops a formal and managerially usable model that distinguishes Agentic Technical Debt from Stochastic Tax. Agentic Technical Debt is a stock of accumulated design and governance liability."
+    },
+    {
+      "title": "Risk Averse Alert Prioritization for IDS Using Subnormal Gaussian Fuzzy Models",
+      "summary": "Modern intrusion detection systems generate thousands of alerts daily, but alert fatigue severely limits security operations effectiveness due to too many false positives or low-impact events. We address this by proposing a principled framework for alert prioritization based on subnormal Gaussian fuzzy numbers, explicitly modeling three sources of uncertainty: threat severity, detection confidence, and organizational risk attitude. Each alert is represented as a fuzzy number with the core indica",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27299v1",
+      "published_at": "2026-05-26T17:11:21Z",
+      "tags": [
+        "tool",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27299v1",
+      "summary_type": "extractive",
+      "title_zh": "Risk Averse Alert Prioritization for IDS Using Subnormal Gaussian Fuzzy Models",
+      "summary_zh": "Modern intrusion detection systems generate thousands of alerts daily, but alert fatigue severely limits security operations effectiveness due to too many false positives or low-impact events. We address this by proposing a principled framework for alert prioritization based on subnormal Gaussian fuzzy numbers, explicitly modeling three sources of uncertainty: threat severity, detection confidence, and organizational risk attitude. Each alert is represented as a fuzzy number with the core indica"
+    },
+    {
+      "title": "It's Not Always Sycophancy: Measuring LLM Conformity as a Function of Epistemic Uncertainty",
+      "summary": "Large language models (LLMs) are known to abandon their initial stance to conform to user pushback. While prior research largely attributes this behavior to sycophancy learned during reinforcement learning from human feedback, we hypothesize that conformity is also driven by a model's epistemic uncertainty at inference time. In this paper, we introduce MUSE, a two-stage evaluation framework to disentangle the mechanisms driving LLM conformity.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27288v1",
+      "published_at": "2026-05-26T17:04:11Z",
+      "tags": [
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27288v1",
+      "summary_type": "extractive",
+      "title_zh": "It's Not Always Sycophancy: Measuring LLM Conformity as a Function of Epistemic Uncertainty",
+      "summary_zh": "Large language models (LLMs) are known to abandon their initial stance to conform to user pushback. While prior research largely attributes this behavior to sycophancy learned during reinforcement learning from human feedback, we hypothesize that conformity is also driven by a model's epistemic uncertainty at inference time. In this paper, we introduce MUSE, a two-stage evaluation framework to disentangle the mechanisms driving LLM conformity."
+    },
+    {
+      "title": "Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling",
+      "summary": "Time series foundation models (TSFMs) are transforming the forecasting paradigm through large-scale cross-domain pretraining. However, most existing TSFMs remain univariate, and recent efforts to enable cross-variate modeling still operate directly within the raw variate space. This design introduces fundamental limitations in semantic alignment and relational expressivity.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27286v1",
+      "published_at": "2026-05-26T17:03:21Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27286v1",
+      "summary_type": "extractive",
+      "title_zh": "Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling",
+      "summary_zh": "Time series foundation models (TSFMs) are transforming the forecasting paradigm through large-scale cross-domain pretraining. However, most existing TSFMs remain univariate, and recent efforts to enable cross-variate modeling still operate directly within the raw variate space. This design introduces fundamental limitations in semantic alignment and relational expressivity."
+    },
+    {
+      "title": "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies",
+      "summary": "Vision-Language-Action (VLA) models are increasingly expected to not only complete robot tasks, but also follow human instructions about how those tasks should be executed. However, existing robot datasets usually pair trajectories with coarse goal-level language, leaving execution-critical details such as active arm, approach direction, and contact region unspecified. This limits steerable policy learning and robotic video understanding.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27284v1",
+      "published_at": "2026-05-26T17:01:10Z",
+      "tags": [
+        "tool",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27284v1",
+      "summary_type": "extractive",
+      "title_zh": "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies",
+      "summary_zh": "Vision-Language-Action (VLA) models are increasingly expected to not only complete robot tasks, but also follow human instructions about how those tasks should be executed. However, existing robot datasets usually pair trajectories with coarse goal-level language, leaving execution-critical details such as active arm, approach direction, and contact region unspecified. This limits steerable policy learning and robotic video understanding."
     },
     {
       "title": "Sage Care (YC S24) Is Hiring Software Engineers",
@@ -51,6 +516,42 @@
       "summary_zh": "Sage Care (YC S24) Is Hiring Software Engineers"
     },
     {
+      "title": "SIA: Self Improving AI with Harness &amp; Weight Updates",
+      "summary": "Humans are the bottleneck in building and improving AI. Both the models and the agents that wrap them are written, tuned, and corrected by people. The long-horizon goal of an AI that can figure out how to improve itself remains open.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27276v1",
+      "published_at": "2026-05-26T16:55:46Z",
+      "tags": [
+        "tool",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27276v1",
+      "summary_type": "extractive",
+      "title_zh": "SIA: Self Improving AI with Harness &amp; Weight Updates",
+      "summary_zh": "Humans are the bottleneck in building and improving AI. Both the models and the agents that wrap them are written, tuned, and corrected by people. The long-horizon goal of an AI that can figure out how to improve itself remains open."
+    },
+    {
+      "title": "Lost in Sampling: Assessing Lexical Reachability in LLMs via the Word Coverage Score (WCS)",
+      "summary": "Modern Large Language Models (LLMs) are often criticized for producing repetitive and homogeneous text, despite possessing vast latent vocabularies. While previous research has focused on model knowledge and training data, we investigate the role of decoding mechanics in suppressing linguistic diversity. We introduce the Word Coverage Score (WCS), a metric that quantifies the extent to which contextually appropriate human vocabulary is mathematically pruned by standard sampling filters (e.g., To",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2605.27268v1",
+      "published_at": "2026-05-26T16:44:25Z",
+      "tags": [
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2605.27268v1",
+      "summary_type": "extractive",
+      "title_zh": "Lost in Sampling: Assessing Lexical Reachability in LLMs via the Word Coverage Score (WCS)",
+      "summary_zh": "Modern Large Language Models (LLMs) are often criticized for producing repetitive and homogeneous text, despite possessing vast latent vocabularies. While previous research has focused on model knowledge and training data, we investigate the role of decoding mechanics in suppressing linguistic diversity. We introduce the Word Coverage Score (WCS), a metric that quantifies the extent to which contextually appropriate human vocabulary is mathematically pruned by standard sampling filters (e.g., To"
+    },
+    {
       "title": "The real cost of owning a home",
       "summary": "The real cost of owning a home",
       "full_text": "",
@@ -60,95 +561,31 @@
       "tags": [
         "ai"
       ],
-      "score": "98",
+      "score": "381",
       "item_id": "hn:48281611",
       "summary_type": "extractive",
       "title_zh": "The real cost of owning a home",
       "summary_zh": "The real cost of owning a home"
     },
     {
-      "title": "Is \"colorectal cancer\" rising in \"young people\"?",
-      "summary": "Is \"colorectal cancer\" rising in \"young people\"?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://dynomight.net/crc-rates/",
-      "published_at": "2026-05-26T16:00:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "93",
-      "item_id": "hn:48281539",
-      "summary_type": "extractive",
-      "title_zh": "Is \"colorectal cancer\" rising in \"young people\"?",
-      "summary_zh": "Is \"colorectal cancer\" rising in \"young people\"?"
-    },
-    {
-      "title": "What color is your function? (2015)",
-      "summary": "What color is your function? (2015)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
-      "published_at": "2026-05-26T15:58:32+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "56",
-      "item_id": "hn:48281515",
-      "summary_type": "extractive",
-      "title_zh": "What color is your function? (2015)",
-      "summary_zh": "What color is your function? (2015)"
-    },
-    {
-      "title": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
-      "summary": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/",
-      "published_at": "2026-05-26T15:58:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "212",
-      "item_id": "hn:48281509",
-      "summary_type": "extractive",
-      "title_zh": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
-      "summary_zh": "Uber, Lyft drivers in Massachusetts form first US ride-share union"
-    },
-    {
-      "title": "The Ballad of TIGIT",
-      "summary": "The Ballad of TIGIT",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
-      "published_at": "2026-05-26T15:47:32+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "66",
-      "item_id": "hn:48281367",
-      "summary_type": "extractive",
-      "title_zh": "The Ballad of TIGIT",
-      "summary_zh": "The Ballad of TIGIT"
-    },
-    {
       "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
-      "summary": "Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly build scalable desktop RPAs. Demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cwWe were working on non-RPA integrations when a customer promised to sign a deal in 2 days if we could unblock a sale of theirs that involved integrating with a clinic’s Windows based medical record system. We didn’t know it at the time but it turns out that building desktop RPAs",
-      "full_text": "Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly build scalable desktop RPAs. Demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cwWe were working on non-RPA integrations when a customer promised to sign a deal in 2 days if we could unblock a sale of theirs that involved integrating with a clinic’s Windows based medical record system. We didn’t know it at the time but it turns out that building desktop RPAs",
+      "summary": "Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly build scalable desktop RPAs. Demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cwEdit: RPA is an acronym for Robotic Process Automation - things like triggering mouse clicks and key strokes to perform tasks programmatically. Sorry if this wasn&#x27;t clear!We were working on non-RPA integrations when a customer promised to sign a deal in 2 days if we could u",
+      "full_text": "Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly build scalable desktop RPAs. Demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cwEdit: RPA is an acronym for Robotic Process Automation - things like triggering mouse clicks and key strokes to perform tasks programmatically. Sorry if this wasn&#x27;t clear!We were working on non-RPA integrations when a customer promised to sign a deal in 2 days if we could u",
       "source": "hacker news",
       "url": "https://www.minicor.com/",
       "published_at": "2026-05-26T14:57:27+00:00",
       "tags": [
         "ai"
       ],
-      "score": "50",
+      "score": "93",
       "item_id": "hn:48280729",
       "summary_type": "extractive",
       "title_zh": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
-      "summary_zh": "Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly build scalable desktop RPAs. Demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cwWe were working on non-RPA integrations when a customer promised to sign a deal in 2 days if we could unblock a sale of theirs that involved integrating with a clinic’s Windows based medical record system. We didn’t know it at the time but it turns out that building desktop RPAs"
+      "summary_zh": "Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly build scalable desktop RPAs. Demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cwEdit: RPA is an acronym for Robotic Process Automation - things like triggering mouse clicks and key strokes to perform tasks programmatically. Sorry if this wasn&#x27;t clear!We were working on non-RPA integrations when a customer promised to sign a deal in 2 days if we could u"
     },
     {
-      "title": "C64 Basic: Game Map Overhead \"Camera View\"",
-      "summary": "C64 Basic: Game Map Overhead \"Camera View\"",
+      "title": "C64 Basic: Game Map Overhead “Camera View”",
+      "summary": "C64 Basic: Game Map Overhead “Camera View”",
       "full_text": "",
       "source": "hacker news",
       "url": "https://retrogamecoders.com/overhead-camera-view/",
@@ -156,27 +593,27 @@
       "tags": [
         "ai"
       ],
-      "score": "51",
+      "score": "90",
       "item_id": "hn:48279842",
       "summary_type": "extractive",
-      "title_zh": "C64 Basic: Game Map Overhead \"Camera View\"",
-      "summary_zh": "C64 Basic: Game Map Overhead \"Camera View\""
+      "title_zh": "C64 Basic: Game Map Overhead “Camera View”",
+      "summary_zh": "C64 Basic: Game Map Overhead “Camera View”"
     },
     {
       "title": "Dropbox CEO Drew Houston to step down",
-      "summary": "https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-u...",
-      "full_text": "https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-u...",
+      "summary": "https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-u...https:&#x2F;&#x2F;twitter.com&#x2F;drewhouston&#x2F;status&#x2F;2059275240065425474?s...",
+      "full_text": "https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-u...https:&#x2F;&#x2F;twitter.com&#x2F;drewhouston&#x2F;status&#x2F;2059275240065425474?s...",
       "source": "hacker news",
       "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
       "published_at": "2026-05-26T13:18:33+00:00",
       "tags": [
         "ai"
       ],
-      "score": "138",
+      "score": "357",
       "item_id": "hn:48279453",
       "summary_type": "extractive",
       "title_zh": "Dropbox CEO Drew Houston to step down",
-      "summary_zh": "https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-u..."
+      "summary_zh": "https:&#x2F;&#x2F;blog.dropbox.com&#x2F;topics&#x2F;company&#x2F;dropbox-leadership-u...https:&#x2F;&#x2F;twitter.com&#x2F;drewhouston&#x2F;status&#x2F;2059275240065425474?s..."
     },
     {
       "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
@@ -188,7 +625,7 @@
       "tags": [
         "ai"
       ],
-      "score": "494",
+      "score": "978",
       "item_id": "hn:48279316",
       "summary_type": "extractive",
       "title_zh": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
@@ -204,172 +641,75 @@
       "tags": [
         "ai"
       ],
-      "score": "167",
+      "score": "298",
       "item_id": "hn:48278610",
       "summary_type": "extractive",
       "title_zh": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
       "summary_zh": "Outsourcing plus local AI will soon become more economical vs. frontier labs"
     },
     {
-      "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
-      "summary": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
+      "title": "Raft Consensus with a Minority of Nodes",
+      "summary": "Raft Consensus with a Minority of Nodes",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
-      "published_at": "2026-05-26T11:46:10+00:00",
+      "url": "https://padhye.org/raft-minority/",
+      "published_at": "2026-05-26T10:30:25+00:00",
       "tags": [
-        "llm",
-        "tool"
+        "ai"
       ],
       "score": "61",
-      "item_id": "hn:48278407",
+      "item_id": "hn:48277723",
       "summary_type": "extractive",
-      "title_zh": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
-      "summary_zh": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team"
+      "title_zh": "Raft Consensus with a Minority of Nodes",
+      "summary_zh": "Raft Consensus with a Minority of Nodes"
     },
     {
-      "title": "Netherlands blocks US takeover of vital digital supplier",
-      "summary": "Netherlands blocks US takeover of vital digital supplier",
+      "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+      "summary": "https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;05&#x2F;milli...",
+      "full_text": "https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;05&#x2F;milli...",
+      "source": "hacker news",
+      "url": "https://badhost.org/",
+      "published_at": "2026-05-26T09:07:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "79",
+      "item_id": "hn:48277107",
+      "summary_type": "extractive",
+      "title_zh": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+      "summary_zh": "https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;05&#x2F;milli..."
+    },
+    {
+      "title": "A portentous reunion",
+      "summary": "A portentous reunion",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-      "published_at": "2026-05-26T11:46:08+00:00",
+      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+      "published_at": "2026-05-26T05:57:45+00:00",
       "tags": [
         "ai"
       ],
-      "score": "421",
-      "item_id": "hn:48278406",
+      "score": "109",
+      "item_id": "hn:48275564",
       "summary_type": "extractive",
-      "title_zh": "Netherlands blocks US takeover of vital digital supplier",
-      "summary_zh": "Netherlands blocks US takeover of vital digital supplier"
+      "title_zh": "A portentous reunion",
+      "summary_zh": "A portentous reunion"
     },
     {
-      "title": "Incident with Actions and Pages",
-      "summary": "Incident with Actions and Pages",
+      "title": "What Is a Direct Attach Copper (DAC) Cable",
+      "summary": "What Is a Direct Attach Copper (DAC) Cable",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.githubstatus.com/incidents/gnftqj9htp0g",
-      "published_at": "2026-05-26T11:10:19+00:00",
+      "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
+      "published_at": "2026-05-25T22:43:39+00:00",
       "tags": [
         "ai"
       ],
-      "score": "78",
-      "item_id": "hn:48278090",
+      "score": "30",
+      "item_id": "hn:48272763",
       "summary_type": "extractive",
-      "title_zh": "Incident with Actions and Pages",
-      "summary_zh": "Incident with Actions and Pages"
-    },
-    {
-      "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "summary": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://dynip.dev/",
-      "published_at": "2026-05-26T07:35:20+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "276",
-      "item_id": "hn:48276363",
-      "summary_type": "extractive",
-      "title_zh": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "summary_zh": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD"
-    },
-    {
-      "title": "The user is visibly frustrated",
-      "summary": "The user is visibly frustrated",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://pscanf.com/s/354/",
-      "published_at": "2026-05-26T04:39:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "237",
-      "item_id": "hn:48275059",
-      "summary_type": "extractive",
-      "title_zh": "The user is visibly frustrated",
-      "summary_zh": "The user is visibly frustrated"
-    },
-    {
-      "title": "Performance of Rust Language [pdf]",
-      "summary": "Performance of Rust Language [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/yugr/rust-slides/",
-      "published_at": "2026-05-25T23:37:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "97",
-      "item_id": "hn:48273147",
-      "summary_type": "extractive",
-      "title_zh": "Performance of Rust Language [pdf]",
-      "summary_zh": "Performance of Rust Language [pdf]"
-    },
-    {
-      "title": "Using AI to write better code more slowly",
-      "summary": "Using AI to write better code more slowly",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "published_at": "2026-05-25T23:16:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.0k",
-      "item_id": "hn:48272984",
-      "summary_type": "extractive",
-      "title_zh": "Using AI to write better code more slowly",
-      "summary_zh": "Using AI to write better code more slowly"
-    },
-    {
-      "title": "How Shamir's Secret Sharing Works",
-      "summary": "How Shamir's Secret Sharing Works",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
-      "published_at": "2026-05-25T22:37:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "348",
-      "item_id": "hn:48272715",
-      "summary_type": "extractive",
-      "title_zh": "How Shamir's Secret Sharing Works",
-      "summary_zh": "How Shamir's Secret Sharing Works"
-    },
-    {
-      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "summary": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "published_at": "2026-05-25T22:30:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "546",
-      "item_id": "hn:48272670",
-      "summary_type": "extractive",
-      "title_zh": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "summary_zh": "Taking a walk may lead to more creativity than sitting, study finds (2014)"
-    },
-    {
-      "title": "Ferrari Luce",
-      "summary": "https:&#x2F;&#x2F;www.topgear.com&#x2F;car-news&#x2F;electric&#x2F;its-finally-here-m...",
-      "full_text": "https:&#x2F;&#x2F;www.topgear.com&#x2F;car-news&#x2F;electric&#x2F;its-finally-here-m...",
-      "source": "hacker news",
-      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
-      "published_at": "2026-05-25T21:00:38+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "453",
-      "item_id": "hn:48271629",
-      "summary_type": "extractive",
-      "title_zh": "Ferrari Luce",
-      "summary_zh": "https:&#x2F;&#x2F;www.topgear.com&#x2F;car-news&#x2F;electric&#x2F;its-finally-here-m..."
+      "title_zh": "What Is a Direct Attach Copper (DAC) Cable",
+      "summary_zh": "What Is a Direct Attach Copper (DAC) Cable"
     },
     {
       "title": "A few interesting modern pixel fonts",
@@ -381,405 +721,111 @@
       "tags": [
         "ai"
       ],
-      "score": "60",
+      "score": "377",
       "item_id": "hn:48271448",
       "summary_type": "extractive",
       "title_zh": "A few interesting modern pixel fonts",
       "summary_zh": "A few interesting modern pixel fonts"
     },
     {
-      "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
-      "summary": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+      "title": "C array types are weird",
+      "summary": "C array types are weird",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
-      "published_at": "2026-05-25T19:43:45+00:00",
+      "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+      "published_at": "2026-05-25T05:05:11+00:00",
       "tags": [
         "ai"
       ],
-      "score": "223",
-      "item_id": "hn:48270812",
+      "score": "99",
+      "item_id": "hn:48263560",
       "summary_type": "extractive",
-      "title_zh": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
-      "summary_zh": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft"
+      "title_zh": "C array types are weird",
+      "summary_zh": "C array types are weird"
     },
     {
-      "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
-      "summary": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two capabilities previously out of reach for everyday apps: verifiable outcome signals through deterministic state-based judging over structured JSON state, and scalable online RL through low-cost parallel rollouts. The full environment state is captured, configured, forked, and compared as structured JSON",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26114v1",
-      "published_at": "2026-05-25T17:59:49Z",
-      "tags": [
-        "agent",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26114v1",
-      "summary_type": "extractive",
-      "title_zh": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
-      "summary_zh": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two capabilities previously out of reach for everyday apps: verifiable outcome signals through deterministic state-based judging over structured JSON state, and scalable online RL through low-cost parallel rollouts. The full environment state is captured, configured, forked, and compared as structured JSON"
-    },
-    {
-      "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
-      "summary": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation models. We refer to this shift as scaling the harness: treating the structured execution layer around a foundation model as a first-class object of design, evaluation, and optimization. Although recent large language models enable agents to use tools, retrieve information, maintain memory, and execute lo",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26112v1",
-      "published_at": "2026-05-25T17:59:36Z",
-      "tags": [
-        "llm",
-        "tool",
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26112v1",
-      "summary_type": "extractive",
-      "title_zh": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
-      "summary_zh": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation models. We refer to this shift as scaling the harness: treating the structured execution layer around a foundation model as a first-class object of design, evaluation, and optimization. Although recent large language models enable agents to use tools, retrieve information, maintain memory, and execute lo"
-    },
-    {
-      "title": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
-      "summary": "Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference images separately. This limits cross-modal reasoning abilities and causes copy-paste artifacts.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26111v1",
-      "published_at": "2026-05-25T17:59:35Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26111v1",
-      "summary_type": "extractive",
-      "title_zh": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
-      "summary_zh": "Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference images separately. This limits cross-modal reasoning abilities and causes copy-paste artifacts."
-    },
-    {
-      "title": "Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models",
-      "summary": "Code review is a critical practice in software engineering, yet the growing scale and frequency of code patches in modern projects, together with the widespread adoption of AI code assistants, make manual review increasingly challenging. Identifying the types of changes within a patch, such as renames, moves, or logic modifications, can substantially improve review efficiency by enabling prioritization, filtering, and automation. However, existing LLM-based approaches to code review have largely",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26100v1",
-      "published_at": "2026-05-25T17:56:46Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26100v1",
-      "summary_type": "extractive",
-      "title_zh": "Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models",
-      "summary_zh": "Code review is a critical practice in software engineering, yet the growing scale and frequency of code patches in modern projects, together with the widespread adoption of AI code assistants, make manual review increasingly challenging. Identifying the types of changes within a patch, such as renames, moves, or logic modifications, can substantially improve review efficiency by enabling prioritization, filtering, and automation. However, existing LLM-based approaches to code review have largely"
-    },
-    {
-      "title": "Language Models Need Sleep",
-      "summary": "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consolidation mechanism in which a model periodically converts recent context into persistent fast weights before clearing its key-value cache. During sleep, the model performs $N$ offline recurrent passes over the accumulated context and updates the fast weights in its state-space model (SSM) blocks thro",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26099v1",
-      "published_at": "2026-05-25T17:55:39Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26099v1",
-      "summary_type": "extractive",
-      "title_zh": "Language Models Need Sleep",
-      "summary_zh": "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consolidation mechanism in which a model periodically converts recent context into persistent fast weights before clearing its key-value cache. During sleep, the model performs $N$ offline recurrent passes over the accumulated context and updates the fast weights in its state-space model (SSM) blocks thro"
-    },
-    {
-      "title": "OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization",
-      "summary": "The deployment of Large Language Models (LLMs) and Vision Transformers (ViTs) on edge devices is significantly constrained by memory limitations and the critical timing bottlenecks introduced by dense Multiply-Accumulate (MAC) arrays. In the ultra-low bit regime, logarithmic Power-of-Two (PoT) quantization provides a hardware-efficient alternative by replacing MAC operations with bit-shifts. However, the non-uniform exponential lattice is inherently limited by a \\textbf{Low Angular Resolution Re",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26092v1",
-      "published_at": "2026-05-25T17:52:46Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26092v1",
-      "summary_type": "extractive",
-      "title_zh": "OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization",
-      "summary_zh": "The deployment of Large Language Models (LLMs) and Vision Transformers (ViTs) on edge devices is significantly constrained by memory limitations and the critical timing bottlenecks introduced by dense Multiply-Accumulate (MAC) arrays. In the ultra-low bit regime, logarithmic Power-of-Two (PoT) quantization provides a hardware-efficient alternative by replacing MAC operations with bit-shifts. However, the non-uniform exponential lattice is inherently limited by a \\textbf{Low Angular Resolution Re"
-    },
-    {
-      "title": "Channel-wise Vector Quantization",
-      "summary": "We present Channel-wise Vector Quantization (CVQ), a novel image tokenization paradigm that replaces patch-wise tokens with channel-wise tokens. Unlike conventional vector quantization, which assigns a discrete token to each patch feature vector, CVQ quantizes each channel of the feature map. This formulation represents an image as discrete levels of visual details, rather than as a grid of spatial patches.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26089v1",
-      "published_at": "2026-05-25T17:52:08Z",
-      "tags": [
-        "tool",
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26089v1",
-      "summary_type": "extractive",
-      "title_zh": "Channel-wise Vector Quantization",
-      "summary_zh": "We present Channel-wise Vector Quantization (CVQ), a novel image tokenization paradigm that replaces patch-wise tokens with channel-wise tokens. Unlike conventional vector quantization, which assigns a discrete token to each patch feature vector, CVQ quantizes each channel of the feature map. This formulation represents an image as discrete levels of visual details, rather than as a grid of spatial patches."
-    },
-    {
-      "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World",
-      "summary": "Large language model agents are increasingly envisioned as always-on personal assistants with access to anything relevant in the user's digital world. Yet current systems operate over only narrow slices of that world, limiting context-sensitive reasoning and effective assistance. Existing benchmarks similarly provide only partial user state and therefore fail to capture performance in such a broad, always-on setting.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26086v1",
-      "published_at": "2026-05-25T17:50:04Z",
-      "tags": [
-        "llm",
-        "agent",
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26086v1",
-      "summary_type": "extractive",
-      "title_zh": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World",
-      "summary_zh": "Large language model agents are increasingly envisioned as always-on personal assistants with access to anything relevant in the user's digital world. Yet current systems operate over only narrow slices of that world, limiting context-sensitive reasoning and effective assistance. Existing benchmarks similarly provide only partial user state and therefore fail to capture performance in such a broad, always-on setting."
-    },
-    {
-      "title": "VeriTrace: Evolving Mental Models for Deep Research Agents",
-      "summary": "Deep research agents face vast, interdependent, and pervasively uncertain information. Existing systems explore what evolving intermediate representations should look like, but leave their evolution to the LLM's implicit reasoning. Without explicit regulation, the intermediate layer is easily contaminated by mixed-quality information and propagates errors along its dependencies, so model scale often ends up substituting for absent regulation.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26081v1",
-      "published_at": "2026-05-25T17:46:57Z",
-      "tags": [
-        "llm",
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26081v1",
-      "summary_type": "extractive",
-      "title_zh": "VeriTrace: Evolving Mental Models for Deep Research Agents",
-      "summary_zh": "Deep research agents face vast, interdependent, and pervasively uncertain information. Existing systems explore what evolving intermediate representations should look like, but leave their evolution to the LLM's implicit reasoning. Without explicit regulation, the intermediate layer is easily contaminated by mixed-quality information and propagates errors along its dependencies, so model scale often ends up substituting for absent regulation."
-    },
-    {
-      "title": "StakeBench: Evaluating Language Understanding Grounded in Market Commitment",
-      "summary": "Existing financial NLP benchmarks often rely on labels supplied by outside observers, measuring how language is perceived rather than what speakers have committed to in the market. We introduce StakeBench, an evaluation framework for language understanding grounded in market commitment. StakeBench links 560,876 comments from 2,261 resolved markets to verified position, action, and market-odds records across Polymarket and Manifold.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26074v1",
-      "published_at": "2026-05-25T17:38:30Z",
-      "tags": [
-        "tool",
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26074v1",
-      "summary_type": "extractive",
-      "title_zh": "StakeBench: Evaluating Language Understanding Grounded in Market Commitment",
-      "summary_zh": "Existing financial NLP benchmarks often rely on labels supplied by outside observers, measuring how language is perceived rather than what speakers have committed to in the market. We introduce StakeBench, an evaluation framework for language understanding grounded in market commitment. StakeBench links 560,876 comments from 2,261 resolved markets to verified position, action, and market-odds records across Polymarket and Manifold."
-    },
-    {
-      "title": "Rethinking Weak Supervision in Anomaly Detection: A Comprehensive Benchmark",
-      "summary": "Weakly supervised anomaly detection (WSAD) has developed in three primary directions: incomplete, inexact, and inaccurate supervision. However, these directions remain isolated, lacking a unified framework to assess whether they address unique challenges or share fundamental mechanics. This paper introduces WSADBench, the first benchmark that unifies evaluation across distinct weakly supervised scenarios, benchmarking diverse approaches from specialized WSAD methods to advanced tabular foundatio",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26068v1",
-      "published_at": "2026-05-25T17:32:58Z",
-      "tags": [
-        "tool",
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26068v1",
-      "summary_type": "extractive",
-      "title_zh": "Rethinking Weak Supervision in Anomaly Detection: A Comprehensive Benchmark",
-      "summary_zh": "Weakly supervised anomaly detection (WSAD) has developed in three primary directions: incomplete, inexact, and inaccurate supervision. However, these directions remain isolated, lacking a unified framework to assess whether they address unique challenges or share fundamental mechanics. This paper introduces WSADBench, the first benchmark that unifies evaluation across distinct weakly supervised scenarios, benchmarking diverse approaches from specialized WSAD methods to advanced tabular foundatio"
-    },
-    {
-      "title": "Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding",
-      "summary": "Conditionally positive definite (CPD) kernels are defined with respect to a function class $\\mathcal{F}$. It is well known that such a kernel $K$ is associated with its native space (defined analogously to an RKHS), which in turn gives rise to a learning method -- called conditional kernel ridge regression (conditional KRR) due to its analogy with KRR -- where the estimated regression function is penalized by the square of its native space norm. This method is of interest because it can be viewe",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26067v1",
-      "published_at": "2026-05-25T17:31:54Z",
-      "tags": [
-        "ai",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26067v1",
-      "summary_type": "extractive",
-      "title_zh": "Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding",
-      "summary_zh": "Conditionally positive definite (CPD) kernels are defined with respect to a function class $\\mathcal{F}$. It is well known that such a kernel $K$ is associated with its native space (defined analogously to an RKHS), which in turn gives rise to a learning method -- called conditional kernel ridge regression (conditional KRR) due to its analogy with KRR -- where the estimated regression function is penalized by the square of its native space norm. This method is of interest because it can be viewe"
-    },
-    {
-      "title": "Neuronal Stochastic Attention Circuit (NSAC) for Probabilistic Representation Learning",
-      "summary": "Reliable quantification of uncertainty estimates in continuous-time (CT) representation learning remains nascent, particularly within CT attention architectures. We introduce the Neuronal Stochastic Attention Circuit (NSAC), a novel biologically-inspired CT attention architecture that reformulates attention logit computation as the solution of an Ornstein-Uhlenbeck stochastic differential equation modulated by input-dependent, nonlinear interlinked gates derived from repurposed C.elegans Neurona",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26061v1",
-      "published_at": "2026-05-25T17:19:14Z",
-      "tags": [
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26061v1",
-      "summary_type": "extractive",
-      "title_zh": "Neuronal Stochastic Attention Circuit (NSAC) for Probabilistic Representation Learning",
-      "summary_zh": "Reliable quantification of uncertainty estimates in continuous-time (CT) representation learning remains nascent, particularly within CT attention architectures. We introduce the Neuronal Stochastic Attention Circuit (NSAC), a novel biologically-inspired CT attention architecture that reformulates attention logit computation as the solution of an Ornstein-Uhlenbeck stochastic differential equation modulated by input-dependent, nonlinear interlinked gates derived from repurposed C.elegans Neurona"
-    },
-    {
-      "title": "Retrying vs Resampling in AI Control",
-      "summary": "AI coding scaffolds like Claude Code and Codex use \\textit{retrying}: blocking actions flagged as risky and continuing the trajectory. We study retrying from an AI control perspective, which treats the model as potentially adversarial. We find that while retrying reduces honest suspicion scores, the untrusted model can exploit monitor rationale to construct sneakier attacks, negating safety gains.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26047v1",
-      "published_at": "2026-05-25T17:10:41Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26047v1",
-      "summary_type": "extractive",
-      "title_zh": "Retrying vs Resampling in AI Control",
-      "summary_zh": "AI coding scaffolds like Claude Code and Codex use \\textit{retrying}: blocking actions flagged as risky and continuing the trajectory. We study retrying from an AI control perspective, which treats the model as potentially adversarial. We find that while retrying reduces honest suspicion scores, the untrusted model can exploit monitor rationale to construct sneakier attacks, negating safety gains."
-    },
-    {
-      "title": "When Gradients Collide: Failure Modes of Multi-Objective Prompt Optimization for LLM Judges",
-      "summary": "Customizing an LLM judge to a specific task or domain often involves optimizing its prompt across multiple evaluation criteria simultaneously. Textual gradient methods automate this for a single judge criterion, however they produce natural-language critiques, not numerical vectors. Thus, the conflict-resolution toolkit of multi-task learning (PCGrad, MGDA) doesn't apply to the multi-objective textual gradient setting.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26046v1",
-      "published_at": "2026-05-25T17:08:55Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26046v1",
-      "summary_type": "extractive",
-      "title_zh": "When Gradients Collide: Failure Modes of Multi-Objective Prompt Optimization for LLM Judges",
-      "summary_zh": "Customizing an LLM judge to a specific task or domain often involves optimizing its prompt across multiple evaluation criteria simultaneously. Textual gradient methods automate this for a single judge criterion, however they produce natural-language critiques, not numerical vectors. Thus, the conflict-resolution toolkit of multi-task learning (PCGrad, MGDA) doesn't apply to the multi-objective textual gradient setting."
-    },
-    {
-      "title": "Confidence and Calibration of Activation Oracles for Reliable Interpretation of Language Model Internals",
-      "summary": "Activation oracles aim to make the activations of other models legible to humans and yield promising results compared to white-box interpretability techniques. However, uncertainty quantification (UQ) for the natural-language outputs of such activation oracles is so far understudied. Here, we investigate 6 different methods for estimating the confidence of activation oracles and evaluate how well-calibrated their confidence scores are.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26045v1",
-      "published_at": "2026-05-25T17:08:47Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26045v1",
-      "summary_type": "extractive",
-      "title_zh": "Confidence and Calibration of Activation Oracles for Reliable Interpretation of Language Model Internals",
-      "summary_zh": "Activation oracles aim to make the activations of other models legible to humans and yield promising results compared to white-box interpretability techniques. However, uncertainty quantification (UQ) for the natural-language outputs of such activation oracles is so far understudied. Here, we investigate 6 different methods for estimating the confidence of activation oracles and evaluate how well-calibrated their confidence scores are."
-    },
-    {
-      "title": "L2IR: Revealing Latent Intent in Graph Fraud Detection",
-      "summary": "Graph fraud detection has long depended on Graph Neural Networks (GNNs) to propagate and aggregate information across relational data. A critical obstacle in practice, however, is that fraudsters frequently disguise themselves by forging numerous connections with benign users, causing fraud signals to be progressively diluted during neighborhood aggregation and undermining detection reliability. While recent efforts have used Large Language Models (LLMs) to provide rich semantic cues for fraud d",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26040v1",
-      "published_at": "2026-05-25T17:06:13Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26040v1",
-      "summary_type": "extractive",
-      "title_zh": "L2IR: Revealing Latent Intent in Graph Fraud Detection",
-      "summary_zh": "Graph fraud detection has long depended on Graph Neural Networks (GNNs) to propagate and aggregate information across relational data. A critical obstacle in practice, however, is that fraudsters frequently disguise themselves by forging numerous connections with benign users, causing fraud signals to be progressively diluted during neighborhood aggregation and undermining detection reliability. While recent efforts have used Large Language Models (LLMs) to provide rich semantic cues for fraud d"
-    },
-    {
-      "title": "DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision Language Models",
-      "summary": "Lightweight vision-language models perform competitively on standard benchmarks yet fail systematically in dense-scene reasoning, where multiple objects, attributes, and relations must be jointly grounded and resolved through multi-step inference. Such capability is critical for real-world applications where models must reliably interpret cluttered environments. Yet existing training signals provide no explicit grounding between reasoning steps and the underlying visual entities and relations, l",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26038v1",
-      "published_at": "2026-05-25T17:05:52Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26038v1",
-      "summary_type": "extractive",
-      "title_zh": "DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision Language Models",
-      "summary_zh": "Lightweight vision-language models perform competitively on standard benchmarks yet fail systematically in dense-scene reasoning, where multiple objects, attributes, and relations must be jointly grounded and resolved through multi-step inference. Such capability is critical for real-world applications where models must reliably interpret cluttered environments. Yet existing training signals provide no explicit grounding between reasoning steps and the underlying visual entities and relations, l"
-    },
-    {
-      "title": "CITYREP: A Unified Benchmark for Urban Representations Across Cities, Tasks, and Modalities",
-      "summary": "Urban representation learning encodes complex urban environments into general-purpose embeddings for diverse downstream tasks and emerging urban foundation models. However, current evaluations are limited, typically focusing on one or two cities and tasks and relying on random splits that introduce spatial leakage, leading to inflated performance and weak support for cross-location generalization and fair comparison. To address this, we propose CityRep, a unified benchmark that evaluates urban r",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26036v1",
-      "published_at": "2026-05-25T17:03:46Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26036v1",
-      "summary_type": "extractive",
-      "title_zh": "CITYREP: A Unified Benchmark for Urban Representations Across Cities, Tasks, and Modalities",
-      "summary_zh": "Urban representation learning encodes complex urban environments into general-purpose embeddings for diverse downstream tasks and emerging urban foundation models. However, current evaluations are limited, typically focusing on one or two cities and tasks and relying on random splits that introduce spatial leakage, leading to inflated performance and weak support for cross-location generalization and fair comparison. To address this, we propose CityRep, a unified benchmark that evaluates urban r"
-    },
-    {
-      "title": "Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution",
-      "summary": "Creating images from noise is image generation; reconstructing fine details from coarse inputs is super-resolution. Despite their practical differences, both can be understood as reversing information loss across scales. We introduce $\\textbf{SKILD}$, a $\\textbf{S}$cale-invariant $\\textbf{K}$-Space $\\textbf{I}$mage $\\textbf{L}$earning $\\textbf{D}$iffusion model that unifies generation and continuous super-resolution within a single unconditional framework.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2605.26032v1",
-      "published_at": "2026-05-25T17:01:21Z",
-      "tags": [
-        "tool",
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2605.26032v1",
-      "summary_type": "extractive",
-      "title_zh": "Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution",
-      "summary_zh": "Creating images from noise is image generation; reconstructing fine details from coarse inputs is super-resolution. Despite their practical differences, both can be understood as reversing information loss across scales. We introduce $\\textbf{SKILD}$, a $\\textbf{S}$cale-invariant $\\textbf{K}$-Space $\\textbf{I}$mage $\\textbf{L}$earning $\\textbf{D}$iffusion model that unifies generation and continuous super-resolution within a single unconditional framework."
-    },
-    {
-      "title": "Opaque Types in Python",
-      "summary": "Opaque Types in Python",
+      "title": "We are Poles, so, of course, we print in Latin",
+      "summary": "We are Poles, so, of course, we print in Latin",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
-      "published_at": "2026-05-23T13:17:39+00:00",
+      "url": "https://www.ustc.ac.uk/news/we-are-poles-so-of-course-we-print-in-latin",
+      "published_at": "2026-05-24T12:29:42+00:00",
       "tags": [
         "ai"
       ],
-      "score": "83",
-      "item_id": "hn:48247416",
+      "score": "45",
+      "item_id": "hn:48256733",
       "summary_type": "extractive",
-      "title_zh": "Opaque Types in Python",
-      "summary_zh": "Opaque Types in Python"
+      "title_zh": "We are Poles, so, of course, we print in Latin",
+      "summary_zh": "We are Poles, so, of course, we print in Latin"
     },
     {
-      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-      "summary": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
+      "summary": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
+      "published_at": "2026-05-24T10:17:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "69",
+      "item_id": "hn:48256053",
+      "summary_type": "extractive",
+      "title_zh": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
+      "summary_zh": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift"
+    },
+    {
+      "title": "Seeking a Language in Mathematics 1523-1571",
+      "summary": "Seeking a Language in Mathematics 1523-1571",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tyndale.org/journals/reformj01/bmarsden.html",
+      "published_at": "2026-05-24T05:56:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:48254795",
+      "summary_type": "extractive",
+      "title_zh": "Seeking a Language in Mathematics 1523-1571",
+      "summary_zh": "Seeking a Language in Mathematics 1523-1571"
+    },
+    {
+      "title": "The Steinwinter Supercargo",
+      "summary": "The Steinwinter Supercargo",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
+      "published_at": "2026-05-23T21:28:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "79",
+      "item_id": "hn:48251709",
+      "summary_type": "extractive",
+      "title_zh": "The Steinwinter Supercargo",
+      "summary_zh": "The Steinwinter Supercargo"
+    },
+    {
+      "title": "The Forgotten Art of the LAN Party (2023)",
+      "summary": "The Forgotten Art of the LAN Party (2023)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+      "published_at": "2026-05-23T19:01:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "148",
+      "item_id": "hn:48250300",
+      "summary_type": "extractive",
+      "title_zh": "The Forgotten Art of the LAN Party (2023)",
+      "summary_zh": "The Forgotten Art of the LAN Party (2023)"
+    },
+    {
+      "title": "I built a Git-tracked book production pipeline",
+      "summary": "I built a Git-tracked book production pipeline",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
@@ -787,59 +833,11 @@
       "tags": [
         "ai"
       ],
-      "score": "28",
+      "score": "255",
       "item_id": "hn:48238703",
       "summary_type": "extractive",
-      "title_zh": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-      "summary_zh": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline"
-    },
-    {
-      "title": "Phantasy Star IV – 1993 Developer Interviews",
-      "summary": "Phantasy Star IV – 1993 Developer Interviews",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://shmuplations.com/phantasystariv/",
-      "published_at": "2026-05-22T13:46:56+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "120",
-      "item_id": "hn:48235812",
-      "summary_type": "extractive",
-      "title_zh": "Phantasy Star IV – 1993 Developer Interviews",
-      "summary_zh": "Phantasy Star IV – 1993 Developer Interviews"
-    },
-    {
-      "title": "How do you build a semiconductor company on something that's free?",
-      "summary": "How do you build a semiconductor company on something that's free?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.siliconimist.com/p/the-open-source-silicon-business",
-      "published_at": "2026-05-22T11:49:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "68",
-      "item_id": "hn:48234574",
-      "summary_type": "extractive",
-      "title_zh": "How do you build a semiconductor company on something that's free?",
-      "summary_zh": "How do you build a semiconductor company on something that's free?"
-    },
-    {
-      "title": "Are we self-sovereign PKI yet?",
-      "summary": "Are we self-sovereign PKI yet?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/",
-      "published_at": "2026-05-21T22:49:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "43",
-      "item_id": "hn:48229776",
-      "summary_type": "extractive",
-      "title_zh": "Are we self-sovereign PKI yet?",
-      "summary_zh": "Are we self-sovereign PKI yet?"
+      "title_zh": "I built a Git-tracked book production pipeline",
+      "summary_zh": "I built a Git-tracked book production pipeline"
     }
   ]
 }

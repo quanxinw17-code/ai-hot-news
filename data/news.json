@@ -1,7 +1,392 @@
 {
-  "updated_at": "2026-05-29T12:28:25.123232+00:00",
+  "updated_at": "2026-05-29T22:54:33.692867+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+      "summary": "Hey everyone,I previously introduced an open source private home security camera in 2024, which uses OpenMLS for end-to-end encryption: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42284412.It was called Privastead then and it&#x27;s now renamed to Secluso.John Kaczman found my project from here and has been working on it with me over the last year and half. We&#x27;ve made a lot of improvements to the software, which we would like to share with you:- You can now set this up on your Raspb",
+      "full_text": "Hey everyone,I previously introduced an open source private home security camera in 2024, which uses OpenMLS for end-to-end encryption: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42284412.It was called Privastead then and it&#x27;s now renamed to Secluso.John Kaczman found my project from here and has been working on it with me over the last year and half. We&#x27;ve made a lot of improvements to the software, which we would like to share with you:- You can now set this up on your Raspb",
+      "source": "hacker news",
+      "url": "https://github.com/secluso/core",
+      "published_at": "2026-05-29T22:32:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "9",
+      "item_id": "hn:48330192",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+      "summary_zh": "Hey everyone,I previously introduced an open source private home security camera in 2024, which uses OpenMLS for end-to-end encryption: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=42284412.It was called Privastead then and it&#x27;s now renamed to Secluso.John Kaczman found my project from here and has been working on it with me over the last year and half. We&#x27;ve made a lot of improvements to the software, which we would like to share with you:- You can now set this up on your Raspb"
+    },
+    {
+      "title": "Free full BGP feed. IPv4 and IPv6",
+      "summary": "Free full BGP feed. IPv4 and IPv6",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
+      "published_at": "2026-05-29T22:21:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:48330088",
+      "summary_type": "extractive",
+      "title_zh": "Free full BGP feed. IPv4 and IPv6",
+      "summary_zh": "Free full BGP feed. IPv4 and IPv6"
+    },
+    {
+      "title": "EV Stupidity Checklist",
+      "summary": "EV Stupidity Checklist",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
+      "published_at": "2026-05-29T21:29:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "70",
+      "item_id": "hn:48329549",
+      "summary_type": "extractive",
+      "title_zh": "EV Stupidity Checklist",
+      "summary_zh": "EV Stupidity Checklist"
+    },
+    {
+      "title": "Why I collect DLES",
+      "summary": "Why I collect DLES",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dles.gg/blog/dles-gg-manifesto",
+      "published_at": "2026-05-29T20:40:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:48328932",
+      "summary_type": "extractive",
+      "title_zh": "Why I collect DLES",
+      "summary_zh": "Why I collect DLES"
+    },
+    {
+      "title": "The Last Technical Interview",
+      "summary": "The Last Technical Interview",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+      "published_at": "2026-05-29T19:58:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:48328405",
+      "summary_type": "extractive",
+      "title_zh": "The Last Technical Interview",
+      "summary_zh": "The Last Technical Interview"
+    },
+    {
+      "title": "The California state assembly has passed the 'Protect Our Games Act'",
+      "summary": "The California state assembly has passed the 'Protect Our Games Act'",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
+      "published_at": "2026-05-29T19:55:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "145",
+      "item_id": "hn:48328365",
+      "summary_type": "extractive",
+      "title_zh": "The California state assembly has passed the 'Protect Our Games Act'",
+      "summary_zh": "The California state assembly has passed the 'Protect Our Games Act'"
+    },
+    {
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "summary": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "published_at": "2026-05-29T19:38:27+00:00",
+      "tags": [
+        "tool",
+        "llm"
+      ],
+      "score": "56",
+      "item_id": "hn:48328184",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "summary_zh": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA"
+    },
+    {
+      "title": "Shift will clean homes for free to train future robots",
+      "summary": "Shift will clean homes for free to train future robots",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "published_at": "2026-05-29T19:16:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "49",
+      "item_id": "hn:48327962",
+      "summary_type": "extractive",
+      "title_zh": "Shift will clean homes for free to train future robots",
+      "summary_zh": "Shift will clean homes for free to train future robots"
+    },
+    {
+      "title": "On Rendering Diffs",
+      "summary": "On Rendering Diffs",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://pierre.computer/writing/on-rendering-diffs",
+      "published_at": "2026-05-29T19:04:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "118",
+      "item_id": "hn:48327809",
+      "summary_type": "extractive",
+      "title_zh": "On Rendering Diffs",
+      "summary_zh": "On Rendering Diffs"
+    },
+    {
+      "title": "Rothko for your current weather conditions",
+      "summary": "Rothko for your current weather conditions",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://rothko.joonas.wtf/",
+      "published_at": "2026-05-29T18:31:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "99",
+      "item_id": "hn:48327367",
+      "summary_type": "extractive",
+      "title_zh": "Rothko for your current weather conditions",
+      "summary_zh": "Rothko for your current weather conditions"
+    },
+    {
+      "title": "SQLite is all you need for durable workflows",
+      "summary": "SQLite is all you need for durable workflows",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "published_at": "2026-05-29T17:54:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "275",
+      "item_id": "hn:48326802",
+      "summary_type": "extractive",
+      "title_zh": "SQLite is all you need for durable workflows",
+      "summary_zh": "SQLite is all you need for durable workflows"
+    },
+    {
+      "title": "Letter from the Duke of Wellington to the British Foreign Office (1809)",
+      "summary": "Slightly more readable link: https:&#x2F;&#x2F;cns.gatech.edu&#x2F;CNS&#x2F;GTaccountProcs.pdf",
+      "full_text": "Slightly more readable link: https:&#x2F;&#x2F;cns.gatech.edu&#x2F;CNS&#x2F;GTaccountProcs.pdf",
+      "source": "hacker news",
+      "url": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
+      "published_at": "2026-05-29T17:39:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "42",
+      "item_id": "hn:48326561",
+      "summary_type": "extractive",
+      "title_zh": "Letter from the Duke of Wellington to the British Foreign Office (1809)",
+      "summary_zh": "Slightly more readable link: https:&#x2F;&#x2F;cns.gatech.edu&#x2F;CNS&#x2F;GTaccountProcs.pdf"
+    },
+    {
+      "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+      "summary": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tvexplorer.live",
+      "published_at": "2026-05-29T16:39:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "84",
+      "item_id": "hn:48325624",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+      "summary_zh": "Show HN: TV Explorer. Adding advanced UI to free online TV"
+    },
+    {
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "summary": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "published_at": "2026-05-29T16:19:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "124",
+      "item_id": "hn:48325306",
+      "summary_type": "extractive",
+      "title_zh": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "summary_zh": "Liquid AI reveals 8B-A1B MoE trained on 38T"
+    },
+    {
+      "title": "You can just say it",
+      "summary": "You can just say it",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://noperator.dev/posts/you-can-just-say-it/",
+      "published_at": "2026-05-29T15:54:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "13",
+      "item_id": "hn:48324853",
+      "summary_type": "extractive",
+      "title_zh": "You can just say it",
+      "summary_zh": "You can just say it"
+    },
+    {
+      "title": "The dead economy theory",
+      "summary": "The dead economy theory",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "published_at": "2026-05-29T15:46:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "554",
+      "item_id": "hn:48324712",
+      "summary_type": "extractive",
+      "title_zh": "The dead economy theory",
+      "summary_zh": "The dead economy theory"
+    },
+    {
+      "title": "GTA 6 Developers Unionize",
+      "summary": "GTA 6 Developers Unionize",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "published_at": "2026-05-29T15:32:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "519",
+      "item_id": "hn:48324499",
+      "summary_type": "extractive",
+      "title_zh": "GTA 6 Developers Unionize",
+      "summary_zh": "GTA 6 Developers Unionize"
+    },
+    {
+      "title": "Bijou64: A variable-length integer encoding",
+      "summary": "Bijou64: A variable-length integer encoding",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.inkandswitch.com/tangents/bijou64/",
+      "published_at": "2026-05-29T15:03:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "195",
+      "item_id": "hn:48323992",
+      "summary_type": "extractive",
+      "title_zh": "Bijou64: A variable-length integer encoding",
+      "summary_zh": "Bijou64: A variable-length integer encoding"
+    },
+    {
+      "title": "I am retiring from tech to live offline",
+      "summary": "I am retiring from tech to live offline",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+      "published_at": "2026-05-29T14:40:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "722",
+      "item_id": "hn:48323683",
+      "summary_type": "extractive",
+      "title_zh": "I am retiring from tech to live offline",
+      "summary_zh": "I am retiring from tech to live offline"
+    },
+    {
+      "title": "Expertise in the age of AI",
+      "summary": "Expertise in the age of AI",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+      "published_at": "2026-05-29T13:35:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "98",
+      "item_id": "hn:48322929",
+      "summary_type": "extractive",
+      "title_zh": "Expertise in the age of AI",
+      "summary_zh": "Expertise in the age of AI"
+    },
+    {
+      "title": "Someone used my open source project to phish people",
+      "summary": "Someone used my open source project to phish people",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
+      "published_at": "2026-05-29T13:18:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "84",
+      "item_id": "hn:48322753",
+      "summary_type": "extractive",
+      "title_zh": "Someone used my open source project to phish people",
+      "summary_zh": "Someone used my open source project to phish people"
+    },
+    {
+      "title": "Local Git remotes",
+      "summary": "Local Git remotes",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://cblgh.org/posts/local-git-remotes/",
+      "published_at": "2026-05-29T12:45:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "80",
+      "item_id": "hn:48322389",
+      "summary_type": "extractive",
+      "title_zh": "Local Git remotes",
+      "summary_zh": "Local Git remotes"
+    },
+    {
+      "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
+      "summary": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
+      "published_at": "2026-05-29T12:30:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "141",
+      "item_id": "hn:48322241",
+      "summary_type": "extractive",
+      "title_zh": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
+      "summary_zh": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building"
+    },
+    {
+      "title": "We should be more tired than the model",
+      "summary": "We should be more tired than the model",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+      "published_at": "2026-05-29T12:12:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "137",
+      "item_id": "hn:48322118",
+      "summary_type": "extractive",
+      "title_zh": "We should be more tired than the model",
+      "summary_zh": "We should be more tired than the model"
+    },
     {
       "title": "Cedana (YC S23) Is Hiring",
       "summary": "Cedana (YC S23) Is Hiring",
@@ -19,24 +404,8 @@
       "summary_zh": "Cedana (YC S23) Is Hiring"
     },
     {
-      "title": "Tulip mania: when a single flower was worth more than a house",
-      "summary": "Tulip mania: when a single flower was worth more than a house",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
-      "published_at": "2026-05-29T11:51:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "3",
-      "item_id": "hn:48321956",
-      "summary_type": "extractive",
-      "title_zh": "Tulip mania: when a single flower was worth more than a house",
-      "summary_zh": "Tulip mania: when a single flower was worth more than a house"
-    },
-    {
-      "title": "Is AI causing a repeat of Front end's Lost Decade?",
-      "summary": "Is AI causing a repeat of Front end's Lost Decade?",
+      "title": "Is AI causing a repeat of frontend’s lost decade?",
+      "summary": "Is AI causing a repeat of frontend’s lost decade?",
       "full_text": "",
       "source": "hacker news",
       "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
@@ -44,43 +413,11 @@
       "tags": [
         "ai"
       ],
-      "score": "53",
+      "score": "262",
       "item_id": "hn:48321631",
       "summary_type": "extractive",
-      "title_zh": "Is AI causing a repeat of Front end's Lost Decade?",
-      "summary_zh": "Is AI causing a repeat of Front end's Lost Decade?"
-    },
-    {
-      "title": "Digital Identity Management in Norway Is a Catastrophe",
-      "summary": "Digital Identity Management in Norway Is a Catastrophe",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html",
-      "published_at": "2026-05-29T10:42:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "12",
-      "item_id": "hn:48321421",
-      "summary_type": "extractive",
-      "title_zh": "Digital Identity Management in Norway Is a Catastrophe",
-      "summary_zh": "Digital Identity Management in Norway Is a Catastrophe"
-    },
-    {
-      "title": "Is This Sustainable?",
-      "summary": "Is This Sustainable?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
-      "published_at": "2026-05-29T10:14:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "27",
-      "item_id": "hn:48321264",
-      "summary_type": "extractive",
-      "title_zh": "Is This Sustainable?",
-      "summary_zh": "Is This Sustainable?"
+      "title_zh": "Is AI causing a repeat of frontend’s lost decade?",
+      "summary_zh": "Is AI causing a repeat of frontend’s lost decade?"
     },
     {
       "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
@@ -90,206 +427,14 @@
       "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
       "published_at": "2026-05-29T09:47:23+00:00",
       "tags": [
-        "llm",
-        "tool"
+        "tool",
+        "llm"
       ],
-      "score": "51",
+      "score": "193",
       "item_id": "hn:48321076",
       "summary_type": "extractive",
       "title_zh": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
       "summary_zh": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request"
-    },
-    {
-      "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
-      "summary": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/",
-      "published_at": "2026-05-29T09:34:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "46",
-      "item_id": "hn:48320985",
-      "summary_type": "extractive",
-      "title_zh": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
-      "summary_zh": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival"
-    },
-    {
-      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
-      "summary": "Volkswagen blocks Home Assistant by requiring client assertion",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-      "published_at": "2026-05-29T05:45:36+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "239",
-      "item_id": "hn:48319509",
-      "summary_type": "extractive",
-      "title_zh": "Volkswagen blocks Home Assistant by requiring client assertion",
-      "summary_zh": "Volkswagen blocks Home Assistant by requiring client assertion"
-    },
-    {
-      "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
-      "summary": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/HeidiSQL/HeidiSQL",
-      "published_at": "2026-05-29T03:14:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "48",
-      "item_id": "hn:48318568",
-      "summary_type": "extractive",
-      "title_zh": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
-      "summary_zh": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager"
-    },
-    {
-      "title": "Let's compile Quake like it's 1997",
-      "summary": "Let's compile Quake like it's 1997",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://fabiensanglard.net/compile_like_1997/",
-      "published_at": "2026-05-29T03:07:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "66",
-      "item_id": "hn:48318522",
-      "summary_type": "extractive",
-      "title_zh": "Let's compile Quake like it's 1997",
-      "summary_zh": "Let's compile Quake like it's 1997"
-    },
-    {
-      "title": "Cars collect a startling amount of data about you",
-      "summary": "Cars collect a startling amount of data about you",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-      "published_at": "2026-05-29T03:01:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "388",
-      "item_id": "hn:48318481",
-      "summary_type": "extractive",
-      "title_zh": "Cars collect a startling amount of data about you",
-      "summary_zh": "Cars collect a startling amount of data about you"
-    },
-    {
-      "title": "Italians and Dutch share the same gestural instinct for teaching",
-      "summary": "Italians and Dutch share the same gestural instinct for teaching",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
-      "published_at": "2026-05-29T02:33:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "85",
-      "item_id": "hn:48318313",
-      "summary_type": "extractive",
-      "title_zh": "Italians and Dutch share the same gestural instinct for teaching",
-      "summary_zh": "Italians and Dutch share the same gestural instinct for teaching"
-    },
-    {
-      "title": "Blue Origin's New Glenn blows up during static fire test",
-      "summary": "https:&#x2F;&#x2F;twitter.com&#x2F;nasaspaceflight&#x2F;status&#x2F;20601649284728548...https:&#x2F;&#x2F;xcancel.com&#x2F;nasaspaceflight&#x2F;status&#x2F;20601649284728548...https:&#x2F;&#x2F;twitter.com&#x2F;SawyerMerritt&#x2F;status&#x2F;2060174287563116696...https:&#x2F;&#x2F;xcancel.com&#x2F;SawyerMerritt&#x2F;status&#x2F;2060174287563116696...https:&#x2F;&#x2F;arstechnica.com&#x2F;space&#x2F;2026&#x2F;05&#x2F;blue-origins-new-glenn...",
-      "full_text": "https:&#x2F;&#x2F;twitter.com&#x2F;nasaspaceflight&#x2F;status&#x2F;20601649284728548...https:&#x2F;&#x2F;xcancel.com&#x2F;nasaspaceflight&#x2F;status&#x2F;20601649284728548...https:&#x2F;&#x2F;twitter.com&#x2F;SawyerMerritt&#x2F;status&#x2F;2060174287563116696...https:&#x2F;&#x2F;xcancel.com&#x2F;SawyerMerritt&#x2F;status&#x2F;2060174287563116696...https:&#x2F;&#x2F;arstechnica.com&#x2F;space&#x2F;2026&#x2F;05&#x2F;blue-origins-new-glenn...",
-      "source": "hacker news",
-      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-      "published_at": "2026-05-29T01:16:38+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "318",
-      "item_id": "hn:48317774",
-      "summary_type": "extractive",
-      "title_zh": "Blue Origin's New Glenn blows up during static fire test",
-      "summary_zh": "https:&#x2F;&#x2F;twitter.com&#x2F;nasaspaceflight&#x2F;status&#x2F;20601649284728548...https:&#x2F;&#x2F;xcancel.com&#x2F;nasaspaceflight&#x2F;status&#x2F;20601649284728548...https:&#x2F;&#x2F;twitter.com&#x2F;SawyerMerritt&#x2F;status&#x2F;2060174287563116696...https:&#x2F;&#x2F;xcancel.com&#x2F;SawyerMerritt&#x2F;status&#x2F;2060174287563116696...https:&#x2F;&#x2F;arstechnica.com&#x2F;space&#x2F;2026&#x2F;05&#x2F;blue-origins-new-glenn..."
-    },
-    {
-      "title": "Garnix (A Nix CI) is shutting down",
-      "summary": "Garnix (A Nix CI) is shutting down",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
-      "published_at": "2026-05-28T23:36:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "69",
-      "item_id": "hn:48317043",
-      "summary_type": "extractive",
-      "title_zh": "Garnix (A Nix CI) is shutting down",
-      "summary_zh": "Garnix (A Nix CI) is shutting down"
-    },
-    {
-      "title": "I made a million dollar product from my dorm room (2025)",
-      "summary": "I made a million dollar product from my dorm room (2025)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nick.winans.io/blog/nice-nano/",
-      "published_at": "2026-05-28T20:25:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "464",
-      "item_id": "hn:48314951",
-      "summary_type": "extractive",
-      "title_zh": "I made a million dollar product from my dorm room (2025)",
-      "summary_zh": "I made a million dollar product from my dorm room (2025)"
-    },
-    {
-      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "summary": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "published_at": "2026-05-28T19:24:09+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.0k",
-      "item_id": "hn:48314136",
-      "summary_type": "extractive",
-      "title_zh": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "summary_zh": "Bricks and Minifigs Stole a Man's $200k Lego Collection"
-    },
-    {
-      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "summary": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "published_at": "2026-05-28T19:15:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "272",
-      "item_id": "hn:48314002",
-      "summary_type": "extractive",
-      "title_zh": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "summary_zh": "Nitpicking the shell history scene in 'Tron: Legacy'"
-    },
-    {
-      "title": "Building durable workflows on Postgres",
-      "summary": "Building durable workflows on Postgres",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "published_at": "2026-05-28T18:41:46+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "330",
-      "item_id": "hn:48313530",
-      "summary_type": "extractive",
-      "title_zh": "Building durable workflows on Postgres",
-      "summary_zh": "Building durable workflows on Postgres"
     },
     {
       "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
@@ -300,10 +445,10 @@
       "published_at": "2026-05-28T17:59:59Z",
       "tags": [
         "vision",
-        "paper",
-        "llm",
         "agent",
-        "tool"
+        "tool",
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30353v1",
@@ -336,9 +481,9 @@
       "url": "http://arxiv.org/abs/2605.30348v1",
       "published_at": "2026-05-28T17:59:53Z",
       "tags": [
-        "llm",
+        "tool",
         "paper",
-        "tool"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30348v1",
@@ -354,8 +499,8 @@
       "url": "http://arxiv.org/abs/2605.30345v1",
       "published_at": "2026-05-28T17:59:50Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30345v1",
@@ -371,9 +516,9 @@
       "url": "http://arxiv.org/abs/2605.30344v1",
       "published_at": "2026-05-28T17:59:50Z",
       "tags": [
-        "llm",
         "vision",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30344v1",
@@ -389,8 +534,8 @@
       "url": "http://arxiv.org/abs/2605.30343v1",
       "published_at": "2026-05-28T17:59:49Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30343v1",
@@ -406,9 +551,9 @@
       "url": "http://arxiv.org/abs/2605.30341v1",
       "published_at": "2026-05-28T17:59:26Z",
       "tags": [
-        "llm",
         "vision",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30341v1",
@@ -424,9 +569,9 @@
       "url": "http://arxiv.org/abs/2605.30335v1",
       "published_at": "2026-05-28T17:58:55Z",
       "tags": [
-        "llm",
+        "agent",
         "paper",
-        "agent"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30335v1",
@@ -442,9 +587,9 @@
       "url": "http://arxiv.org/abs/2605.30334v1",
       "published_at": "2026-05-28T17:58:53Z",
       "tags": [
-        "llm",
         "vision",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30334v1",
@@ -460,8 +605,8 @@
       "url": "http://arxiv.org/abs/2605.30327v1",
       "published_at": "2026-05-28T17:57:32Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30327v1",
@@ -477,9 +622,9 @@
       "url": "http://arxiv.org/abs/2605.30326v1",
       "published_at": "2026-05-28T17:57:15Z",
       "tags": [
+        "tool",
         "agent",
-        "paper",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30326v1",
@@ -512,9 +657,9 @@
       "url": "http://arxiv.org/abs/2605.30323v1",
       "published_at": "2026-05-28T17:56:54Z",
       "tags": [
-        "llm",
+        "tool",
         "paper",
-        "tool"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30323v1",
@@ -530,10 +675,10 @@
       "url": "http://arxiv.org/abs/2605.30322v1",
       "published_at": "2026-05-28T17:56:18Z",
       "tags": [
-        "llm",
-        "agent",
         "tool",
-        "paper"
+        "agent",
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30322v1",
@@ -549,8 +694,8 @@
       "url": "http://arxiv.org/abs/2605.30319v1",
       "published_at": "2026-05-28T17:55:23Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30319v1",
@@ -567,8 +712,8 @@
       "published_at": "2026-05-28T17:55:09Z",
       "tags": [
         "vision",
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30318v1",
@@ -584,9 +729,9 @@
       "url": "http://arxiv.org/abs/2605.30311v1",
       "published_at": "2026-05-28T17:53:27Z",
       "tags": [
-        "llm",
         "vision",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30311v1",
@@ -619,8 +764,8 @@
       "url": "http://arxiv.org/abs/2605.30295v1",
       "published_at": "2026-05-28T17:42:43Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2605.30295v1",
@@ -646,196 +791,52 @@
       "summary_zh": "Self-improvement at scale has been a longstanding goal for reasoning models, and there are two natural places to do it: at test time, through verification-refinement (V-R) loops; and at training time, through self-training methods. Both are gated by the same bottleneck: the verifier. V-R loops stall when verifier scores inflate while accuracy stagnates, and when feedback is too generic to act on; self-training fails similarly when bad self-generated data are added to training."
     },
     {
-      "title": "Endive: A JVM native WebAssembly runtime",
-      "summary": "Endive: A JVM native WebAssembly runtime",
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "summary": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/bytecodealliance/endive",
-      "published_at": "2026-05-28T16:40:33+00:00",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "published_at": "2026-05-28T14:13:00+00:00",
       "tags": [
         "ai"
       ],
-      "score": "98",
-      "item_id": "hn:48311490",
+      "score": "417",
+      "item_id": "hn:48309233",
       "summary_type": "extractive",
-      "title_zh": "Endive: A JVM native WebAssembly runtime",
-      "summary_zh": "Endive: A JVM native WebAssembly runtime"
+      "title_zh": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "summary_zh": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM"
     },
     {
-      "title": "The Permanent Upper Crow",
-      "summary": "The Permanent Upper Crow",
+      "title": "Finding Miscompiles for Fun, Not Profit",
+      "summary": "Finding Miscompiles for Fun, Not Profit",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://permanent-upper-crow.jasonwu.ink/",
-      "published_at": "2026-05-28T15:23:04+00:00",
+      "url": "https://newsletter.semianalysis.com/p/finding-miscompiles-for-fun-not-profit",
+      "published_at": "2026-05-28T01:10:39+00:00",
       "tags": [
         "ai"
       ],
-      "score": "194",
-      "item_id": "hn:48310280",
+      "score": "5",
+      "item_id": "hn:48302997",
       "summary_type": "extractive",
-      "title_zh": "The Permanent Upper Crow",
-      "summary_zh": "The Permanent Upper Crow"
+      "title_zh": "Finding Miscompiles for Fun, Not Profit",
+      "summary_zh": "Finding Miscompiles for Fun, Not Profit"
     },
     {
-      "title": "Franklin Pierce by David W. Blight",
-      "summary": "Franklin Pierce by David W. Blight",
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "summary": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://inpursuit.substack.com/p/franklin-pierce-by-david-w-blight",
-      "published_at": "2026-05-27T07:17:14+00:00",
+      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "published_at": "2026-05-26T18:05:42+00:00",
       "tags": [
         "ai"
       ],
-      "score": "10",
-      "item_id": "hn:48290805",
+      "score": "26",
+      "item_id": "hn:48283410",
       "summary_type": "extractive",
-      "title_zh": "Franklin Pierce by David W. Blight",
-      "summary_zh": "Franklin Pierce by David W. Blight"
-    },
-    {
-      "title": "Phloto for My Photo Flow",
-      "summary": "Phloto for My Photo Flow",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://cceckman.com/writing/phloto/",
-      "published_at": "2026-05-26T21:11:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "40",
-      "item_id": "hn:48286028",
-      "summary_type": "extractive",
-      "title_zh": "Phloto for My Photo Flow",
-      "summary_zh": "Phloto for My Photo Flow"
-    },
-    {
-      "title": "Barthelme, the Houstonian",
-      "summary": "Barthelme, the Houstonian",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.theparisreview.org/blog/2026/05/22/barthelme-the-houstonian/",
-      "published_at": "2026-05-26T19:19:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "14",
-      "item_id": "hn:48284604",
-      "summary_type": "extractive",
-      "title_zh": "Barthelme, the Houstonian",
-      "summary_zh": "Barthelme, the Houstonian"
-    },
-    {
-      "title": "Indoor Wi-Fi Roaming with OpenWRT",
-      "summary": "Indoor Wi-Fi Roaming with OpenWRT",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-      "published_at": "2026-05-26T16:41:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "252",
-      "item_id": "hn:48282180",
-      "summary_type": "extractive",
-      "title_zh": "Indoor Wi-Fi Roaming with OpenWRT",
-      "summary_zh": "Indoor Wi-Fi Roaming with OpenWRT"
-    },
-    {
-      "title": "Avoid Using \"< [Cdata[ ]]>\" in RSS",
-      "summary": "Avoid Using \"< [Cdata[ ]]>\" in RSS",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
-      "published_at": "2026-05-26T15:15:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "21",
-      "item_id": "hn:48280967",
-      "summary_type": "extractive",
-      "title_zh": "Avoid Using \"< [Cdata[ ]]>\" in RSS",
-      "summary_zh": "Avoid Using \"< [Cdata[ ]]>\" in RSS"
-    },
-    {
-      "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
-      "summary": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://coalton-lang.github.io/",
-      "published_at": "2026-05-26T14:36:20+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "168",
-      "item_id": "hn:48280451",
-      "summary_type": "extractive",
-      "title_zh": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
-      "summary_zh": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml"
-    },
-    {
-      "title": "Show HN: Compile-time model-id validation with declared capability",
-      "summary": "Show HN: Compile-time model-id validation with declared capability",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/yujonglee/openrouter-toolkit",
-      "published_at": "2026-05-26T14:20:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "4",
-      "item_id": "hn:48280231",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Compile-time model-id validation with declared capability",
-      "summary_zh": "Show HN: Compile-time model-id validation with declared capability"
-    },
-    {
-      "title": "News about Raspberry Pi 6 and Microcontroller Development",
-      "summary": "News about Raspberry Pi 6 and Microcontroller Development",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-      "published_at": "2026-05-26T08:02:52+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "210",
-      "item_id": "hn:48276598",
-      "summary_type": "extractive",
-      "title_zh": "News about Raspberry Pi 6 and Microcontroller Development",
-      "summary_zh": "News about Raspberry Pi 6 and Microcontroller Development"
-    },
-    {
-      "title": "Orchestrating AI code review at scale",
-      "summary": "Orchestrating AI code review at scale",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.cloudflare.com/ai-code-review/",
-      "published_at": "2026-05-26T07:06:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "31",
-      "item_id": "hn:48276152",
-      "summary_type": "extractive",
-      "title_zh": "Orchestrating AI code review at scale",
-      "summary_zh": "Orchestrating AI code review at scale"
-    },
-    {
-      "title": "Ten Basic Clouds",
-      "summary": "https:&#x2F;&#x2F;thebrowser.com&#x2F;r&#x2F;9bf16d80?m=c6bf87ab-387d-49ae-9584-...",
-      "full_text": "https:&#x2F;&#x2F;thebrowser.com&#x2F;r&#x2F;9bf16d80?m=c6bf87ab-387d-49ae-9584-...",
-      "source": "hacker news",
-      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-      "published_at": "2026-05-24T21:52:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "138",
-      "item_id": "hn:48261377",
-      "summary_type": "extractive",
-      "title_zh": "Ten Basic Clouds",
-      "summary_zh": "https:&#x2F;&#x2F;thebrowser.com&#x2F;r&#x2F;9bf16d80?m=c6bf87ab-387d-49ae-9584-..."
+      "title_zh": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "summary_zh": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer"
     }
   ]
 }

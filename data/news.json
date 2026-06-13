@@ -1,7 +1,103 @@
 {
-  "updated_at": "2026-06-13T09:28:17.497416+00:00",
+  "updated_at": "2026-06-13T14:18:45.443985+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Nearly Everyone, Everywhere, Veers Left When Walking",
+      "summary": "Nearly Everyone, Everywhere, Veers Left When Walking",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.nytimes.com/2026/06/10/science/humans-walking-veer-left-counterclockwise.html",
+      "published_at": "2026-06-13T12:34:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:48516672",
+      "summary_type": "extractive",
+      "title_zh": "Nearly Everyone, Everywhere, Veers Left When Walking",
+      "summary_zh": "Nearly Everyone, Everywhere, Veers Left When Walking"
+    },
+    {
+      "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+      "summary": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
+      "published_at": "2026-06-13T12:20:05+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "24",
+      "item_id": "hn:48516573",
+      "summary_type": "extractive",
+      "title_zh": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+      "summary_zh": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director"
+    },
+    {
+      "title": "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
+      "summary": "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal",
+      "published_at": "2026-06-13T12:17:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "21",
+      "item_id": "hn:48516558",
+      "summary_type": "extractive",
+      "title_zh": "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
+      "summary_zh": "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case"
+    },
+    {
+      "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+      "summary": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://hallucinate.site/gallery",
+      "published_at": "2026-06-13T12:11:35+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "42",
+      "item_id": "hn:48516510",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+      "summary_zh": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery"
+    },
+    {
+      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "summary": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+      "published_at": "2026-06-13T11:55:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "102",
+      "item_id": "hn:48516379",
+      "summary_type": "extractive",
+      "title_zh": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "summary_zh": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages"
+    },
+    {
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "summary": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable with custom views, fields, and a WASM-based plugin architecture. My team uses it daily for our own development, so it will be continuously maintained and completely free forever",
+      "full_text": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable with custom views, fields, and a WASM-based plugin architecture. My team uses it daily for our own development, so it will be continuously maintained and completely free forever",
+      "source": "hacker news",
+      "url": "https://github.com/Paca-AI/paca",
+      "published_at": "2026-06-13T09:44:25+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "61",
+      "item_id": "hn:48515385",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "summary_zh": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable with custom views, fields, and a WASM-based plugin architecture. My team uses it daily for our own development, so it will be continuously maintained and completely free forever"
+    },
     {
       "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
       "summary": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
@@ -12,44 +108,11 @@
       "tags": [
         "ai"
       ],
-      "score": "104",
+      "score": "316",
       "item_id": "hn:48514560",
       "summary_type": "extractive",
       "title_zh": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
       "summary_zh": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes"
-    },
-    {
-      "title": "Ask HN: What Are You Working On?",
-      "summary": "It&#x27;s been a while since the last thread, and I am a curious bee.",
-      "full_text": "It&#x27;s been a while since the last thread, and I am a curious bee.",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=48514461",
-      "published_at": "2026-06-13T07:30:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "15",
-      "item_id": "hn:48514461",
-      "summary_type": "extractive",
-      "title_zh": "Ask HN: What Are You Working On?",
-      "summary_zh": "It&#x27;s been a while since the last thread, and I am a curious bee."
-    },
-    {
-      "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
-      "summary": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/vladignatyev/brain-map-skill",
-      "published_at": "2026-06-13T06:43:42+00:00",
-      "tags": [
-        "vision",
-        "agent"
-      ],
-      "score": "6",
-      "item_id": "hn:48514124",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
-      "summary_zh": "Show HN: Skill for your agent to visualize your gbrain and Obsidian"
     },
     {
       "title": "Leaving Mozilla",
@@ -61,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "142",
+      "score": "356",
       "item_id": "hn:48513806",
       "summary_type": "extractive",
       "title_zh": "Leaving Mozilla",
@@ -77,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "83",
+      "score": "115",
       "item_id": "hn:48513728",
       "summary_type": "extractive",
       "title_zh": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
@@ -93,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "228",
+      "score": "360",
       "item_id": "hn:48513536",
       "summary_type": "extractive",
       "title_zh": "There is a shadow hanging over this Fable thing",
@@ -109,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "41",
+      "score": "56",
       "item_id": "hn:48513222",
       "summary_type": "extractive",
       "title_zh": "On CPU Physics and CPU Cycles",
@@ -125,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "887",
+      "score": "🔥 1.2k",
       "item_id": "hn:48511908",
       "summary_type": "extractive",
       "title_zh": "Open source AI must win",
@@ -141,7 +204,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 2.2k",
+      "score": "🔥 2.7k",
       "item_id": "hn:48511072",
       "summary_type": "extractive",
       "title_zh": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
@@ -157,7 +220,7 @@
       "tags": [
         "ai"
       ],
-      "score": "172",
+      "score": "226",
       "item_id": "hn:48510341",
       "summary_type": "extractive",
       "title_zh": "Show HN: Putt.day a daily mini golf game",
@@ -173,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "201",
+      "score": "249",
       "item_id": "hn:48510046",
       "summary_type": "extractive",
       "title_zh": "Twenty One Zero-Days in FFmpeg",
@@ -189,43 +252,11 @@
       "tags": [
         "ai"
       ],
-      "score": "441",
+      "score": "573",
       "item_id": "hn:48510010",
       "summary_type": "extractive",
       "title_zh": "Electric motors with no rare earths",
       "summary_zh": "Electric motors with no rare earths"
-    },
-    {
-      "title": "SkillSpector",
-      "summary": "SkillSpector",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "published_at": "2026-06-12T21:49:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "40",
-      "item_id": "hn:48509844",
-      "summary_type": "extractive",
-      "title_zh": "SkillSpector",
-      "summary_zh": "SkillSpector"
-    },
-    {
-      "title": "Palantir loses legal challenge against Swiss investigative magazine",
-      "summary": "Palantir loses legal challenge against Swiss investigative magazine",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-      "published_at": "2026-06-12T20:39:36+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "338",
-      "item_id": "hn:48509182",
-      "summary_type": "extractive",
-      "title_zh": "Palantir loses legal challenge against Swiss investigative magazine",
-      "summary_zh": "Palantir loses legal challenge against Swiss investigative magazine"
     },
     {
       "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
@@ -237,7 +268,7 @@
       "tags": [
         "ai"
       ],
-      "score": "198",
+      "score": "218",
       "item_id": "hn:48508726",
       "summary_type": "extractive",
       "title_zh": "Swift at Apple: Migrating the TrueType hinting interpreter",
@@ -253,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "260",
+      "score": "293",
       "item_id": "hn:48506659",
       "summary_type": "extractive",
       "title_zh": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
@@ -269,7 +300,7 @@
       "tags": [
         "ai"
       ],
-      "score": "815",
+      "score": "884",
       "item_id": "hn:48505231",
       "summary_type": "extractive",
       "title_zh": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
@@ -285,7 +316,7 @@
       "tags": [
         "ai"
       ],
-      "score": "193",
+      "score": "209",
       "item_id": "hn:48504912",
       "summary_type": "extractive",
       "title_zh": "Slightly reducing the sloppiness of AI generated front end",
@@ -301,7 +332,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.5k",
+      "score": "🔥 1.6k",
       "item_id": "hn:48497609",
       "summary_type": "extractive",
       "title_zh": "If you are asking for human attention, demonstrate human effort",
@@ -317,27 +348,11 @@
       "tags": [
         "ai"
       ],
-      "score": "387",
+      "score": "425",
       "item_id": "hn:48495928",
       "summary_type": "extractive",
       "title_zh": "Malware developers added nuclear and biological weapons text to to their spyware",
       "summary_zh": "https:&#x2F;&#x2F;socket.dev&#x2F;blog&#x2F;mini-shai-hulud-miasma-and-hades-wor..."
-    },
-    {
-      "title": "Fudgetown, USA (2024)",
-      "summary": "Fudgetown, USA (2024)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://tastecooking.com/fudgetown-usa/",
-      "published_at": "2026-06-11T19:14:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "4",
-      "item_id": "hn:48495077",
-      "summary_type": "extractive",
-      "title_zh": "Fudgetown, USA (2024)",
-      "summary_zh": "Fudgetown, USA (2024)"
     },
     {
       "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
@@ -347,8 +362,8 @@
       "url": "http://arxiv.org/abs/2606.13680v1",
       "published_at": "2026-06-11T17:59:52Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -365,8 +380,8 @@
       "url": "http://arxiv.org/abs/2606.13677v1",
       "published_at": "2026-06-11T17:59:49Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "agent"
       ],
       "score": "📄",
@@ -383,10 +398,10 @@
       "url": "http://arxiv.org/abs/2606.13673v1",
       "published_at": "2026-06-11T17:59:36Z",
       "tags": [
-        "agent",
         "tool",
-        "vision",
         "paper",
+        "vision",
+        "agent",
         "llm"
       ],
       "score": "📄",
@@ -420,9 +435,9 @@
       "url": "http://arxiv.org/abs/2606.13669v1",
       "published_at": "2026-06-11T17:58:35Z",
       "tags": [
-        "llm",
         "paper",
-        "agent"
+        "agent",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13669v1",
@@ -438,9 +453,9 @@
       "url": "http://arxiv.org/abs/2606.13662v1",
       "published_at": "2026-06-11T17:56:35Z",
       "tags": [
-        "llm",
         "paper",
-        "agent"
+        "agent",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13662v1",
@@ -456,8 +471,8 @@
       "url": "http://arxiv.org/abs/2606.13658v1",
       "published_at": "2026-06-11T17:54:59Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13658v1",
@@ -473,8 +488,8 @@
       "url": "http://arxiv.org/abs/2606.13647v1",
       "published_at": "2026-06-11T17:50:06Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13647v1",
@@ -490,8 +505,8 @@
       "url": "http://arxiv.org/abs/2606.13629v1",
       "published_at": "2026-06-11T17:41:09Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -542,10 +557,10 @@
       "url": "http://arxiv.org/abs/2606.13608v1",
       "published_at": "2026-06-11T17:23:54Z",
       "tags": [
-        "llm",
-        "tool",
         "paper",
-        "agent"
+        "tool",
+        "agent",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13608v1",
@@ -578,8 +593,8 @@
       "url": "http://arxiv.org/abs/2606.13604v1",
       "published_at": "2026-06-11T17:21:20Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "agent"
       ],
       "score": "📄",
@@ -596,8 +611,8 @@
       "url": "http://arxiv.org/abs/2606.13603v1",
       "published_at": "2026-06-11T17:21:16Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -614,9 +629,9 @@
       "url": "http://arxiv.org/abs/2606.13602v1",
       "published_at": "2026-06-11T17:20:29Z",
       "tags": [
-        "llm",
         "paper",
-        "agent"
+        "agent",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13602v1",
@@ -632,10 +647,10 @@
       "url": "http://arxiv.org/abs/2606.13598v1",
       "published_at": "2026-06-11T17:16:24Z",
       "tags": [
-        "agent",
         "tool",
-        "vision",
         "paper",
+        "vision",
+        "agent",
         "llm"
       ],
       "score": "📄",
@@ -669,9 +684,9 @@
       "url": "http://arxiv.org/abs/2606.13580v1",
       "published_at": "2026-06-11T17:04:08Z",
       "tags": [
-        "tool",
         "paper",
-        "vision"
+        "vision",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13580v1",
@@ -697,38 +712,6 @@
       "summary_zh": "Scientific laboratories increasingly rely on AI systems to reason about experiments, but the physical act of doing science remains largely outside their reach. AI can help read literature, generate hypotheses, and plan protocols, yet the execution of those protocols at the bench still requires a human operator. Vision-Language-Action (VLA) models provide one possible interface between written protocols and robot execution, but existing policies are trained mostly on household and tabletop demons"
     },
     {
-      "title": "Using the Epson Perfection V39 II Scanner on Ubuntu",
-      "summary": "Using the Epson Perfection V39 II Scanner on Ubuntu",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://patches.joao.town/using-epson-perfection-v39ii-scanner-ubuntu/",
-      "published_at": "2026-06-11T10:23:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:48488463",
-      "summary_type": "extractive",
-      "title_zh": "Using the Epson Perfection V39 II Scanner on Ubuntu",
-      "summary_zh": "Using the Epson Perfection V39 II Scanner on Ubuntu"
-    },
-    {
-      "title": "The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)",
-      "summary": "The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://medium.com/@Arcaarcana/the-extraordinary-story-of-girolamo-segato-03d8dae30758",
-      "published_at": "2026-06-11T00:06:36+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "8",
-      "item_id": "hn:48484555",
-      "summary_type": "extractive",
-      "title_zh": "The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)",
-      "summary_zh": "The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)"
-    },
-    {
       "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
       "summary": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
       "full_text": "",
@@ -738,27 +721,27 @@
       "tags": [
         "ai"
       ],
-      "score": "212",
+      "score": "241",
       "item_id": "hn:48484496",
       "summary_type": "extractive",
       "title_zh": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
       "summary_zh": "H.R. 6028 would fundamentally change the U.S. Copyright Office"
     },
     {
-      "title": "A key remapping daemon for Linux",
-      "summary": "A key remapping daemon for Linux",
+      "title": "The state of building user interfaces in Rust",
+      "summary": "The state of building user interfaces in Rust",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/rvaiya/keyd",
-      "published_at": "2026-06-10T17:27:56+00:00",
+      "url": "https://areweguiyet.com/#ecosystem",
+      "published_at": "2026-06-10T16:44:23+00:00",
       "tags": [
         "ai"
       ],
-      "score": "51",
-      "item_id": "hn:48479652",
+      "score": "61",
+      "item_id": "hn:48479008",
       "summary_type": "extractive",
-      "title_zh": "A key remapping daemon for Linux",
-      "summary_zh": "A key remapping daemon for Linux"
+      "title_zh": "The state of building user interfaces in Rust",
+      "summary_zh": "The state of building user interfaces in Rust"
     },
     {
       "title": "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
@@ -770,7 +753,7 @@
       "tags": [
         "ai"
       ],
-      "score": "33",
+      "score": "54",
       "item_id": "hn:48476202",
       "summary_type": "extractive",
       "title_zh": "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
@@ -786,7 +769,7 @@
       "tags": [
         "ai"
       ],
-      "score": "86",
+      "score": "140",
       "item_id": "hn:48470152",
       "summary_type": "extractive",
       "title_zh": "The computer science degree isn’t dead",
@@ -802,11 +785,27 @@
       "tags": [
         "ai"
       ],
-      "score": "52",
+      "score": "76",
       "item_id": "hn:48467697",
       "summary_type": "extractive",
       "title_zh": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
       "summary_zh": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine"
+    },
+    {
+      "title": "Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires",
+      "summary": "Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.motor1.com/news/798011/route-66-missouri-musical-road/",
+      "published_at": "2026-06-09T20:14:42+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:48467028",
+      "summary_type": "extractive",
+      "title_zh": "Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires",
+      "summary_zh": "Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires"
     },
     {
       "title": "Automating Myself Out of Development",
@@ -818,7 +817,7 @@
       "tags": [
         "ai"
       ],
-      "score": "21",
+      "score": "49",
       "item_id": "hn:48465890",
       "summary_type": "extractive",
       "title_zh": "Automating Myself Out of Development",
@@ -834,7 +833,7 @@
       "tags": [
         "ai"
       ],
-      "score": "24",
+      "score": "33",
       "item_id": "hn:48465634",
       "summary_type": "extractive",
       "title_zh": "The Future of wasi-gfx and wasi:webgpu",

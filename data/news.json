@@ -1,10 +1,74 @@
 {
-  "updated_at": "2026-06-14T04:58:44.730163+00:00",
+  "updated_at": "2026-06-14T09:50:20.748248+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Software Architecture Guide",
-      "summary": "Software Architecture Guide",
+      "title": "Don't trust large context windows",
+      "summary": "Don't trust large context windows",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+      "published_at": "2026-06-14T06:07:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "87",
+      "item_id": "hn:48524620",
+      "summary_type": "extractive",
+      "title_zh": "Don't trust large context windows",
+      "summary_zh": "Don't trust large context windows"
+    },
+    {
+      "title": "Tribblix: The retro Illumos distribution",
+      "summary": "Tribblix: The retro Illumos distribution",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "http://tribblix.org/",
+      "published_at": "2026-06-14T05:23:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "36",
+      "item_id": "hn:48524434",
+      "summary_type": "extractive",
+      "title_zh": "Tribblix: The retro Illumos distribution",
+      "summary_zh": "Tribblix: The retro Illumos distribution"
+    },
+    {
+      "title": "Phoenix LiveView 1.2 Released",
+      "summary": "Phoenix LiveView 1.2 Released",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+      "published_at": "2026-06-14T04:53:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "109",
+      "item_id": "hn:48524293",
+      "summary_type": "extractive",
+      "title_zh": "Phoenix LiveView 1.2 Released",
+      "summary_zh": "Phoenix LiveView 1.2 Released"
+    },
+    {
+      "title": "Pac-Man, but you're the ghost",
+      "summary": "Pac-Man, but you're the ghost",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+      "published_at": "2026-06-14T04:18:45+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "90",
+      "item_id": "hn:48524135",
+      "summary_type": "extractive",
+      "title_zh": "Pac-Man, but you're the ghost",
+      "summary_zh": "Pac-Man, but you're the ghost"
+    },
+    {
+      "title": "Software Architecture Guide (2019)",
+      "summary": "Software Architecture Guide (2019)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://martinfowler.com/architecture/",
@@ -12,27 +76,11 @@
       "tags": [
         "ai"
       ],
-      "score": "3",
+      "score": "66",
       "item_id": "hn:48524084",
       "summary_type": "extractive",
-      "title_zh": "Software Architecture Guide",
-      "summary_zh": "Software Architecture Guide"
-    },
-    {
-      "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
-      "summary": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
-      "published_at": "2026-06-14T02:59:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "57",
-      "item_id": "hn:48523773",
-      "summary_type": "extractive",
-      "title_zh": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
-      "summary_zh": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]"
+      "title_zh": "Software Architecture Guide (2019)",
+      "summary_zh": "Software Architecture Guide (2019)"
     },
     {
       "title": "Weave: Merging based on language structure and not lines",
@@ -44,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "10",
+      "score": "42",
       "item_id": "hn:48523705",
       "summary_type": "extractive",
       "title_zh": "Weave: Merging based on language structure and not lines",
@@ -60,27 +108,11 @@
       "tags": [
         "ai"
       ],
-      "score": "10",
+      "score": "32",
       "item_id": "hn:48523615",
       "summary_type": "extractive",
       "title_zh": "Building a serial and VGA \"everything console\"",
       "summary_zh": "Building a serial and VGA \"everything console\""
-    },
-    {
-      "title": "Quadratic funding democratizes allocation by rewarding projects w/ broad support",
-      "summary": "Quadratic funding democratizes allocation by rewarding projects w/ broad support",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://internetfreedom.torproject.org/funding-distribution/",
-      "published_at": "2026-06-14T02:30:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "5",
-      "item_id": "hn:48523612",
-      "summary_type": "extractive",
-      "title_zh": "Quadratic funding democratizes allocation by rewarding projects w/ broad support",
-      "summary_zh": "Quadratic funding democratizes allocation by rewarding projects w/ broad support"
     },
     {
       "title": "Apt Encounters of the Third Kind",
@@ -92,75 +124,27 @@
       "tags": [
         "ai"
       ],
-      "score": "15",
+      "score": "24",
       "item_id": "hn:48523550",
       "summary_type": "extractive",
       "title_zh": "Apt Encounters of the Third Kind",
       "summary_zh": "Apt Encounters of the Third Kind"
     },
     {
-      "title": "4 things to know about the new sunscreen ingredient the FDA approved",
-      "summary": "4 things to know about the new sunscreen ingredient the FDA approved",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
-      "published_at": "2026-06-14T01:10:46+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "66",
-      "item_id": "hn:48523203",
-      "summary_type": "extractive",
-      "title_zh": "4 things to know about the new sunscreen ingredient the FDA approved",
-      "summary_zh": "4 things to know about the new sunscreen ingredient the FDA approved"
-    },
-    {
-      "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-      "summary": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-      "full_text": "",
+      "title": "Honda Civics and the Evil Valet",
+      "summary": "Previously: Show HN: Honda Civic Infotainment Reverse-Engineering - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753 - May 2023 (43 comments)",
+      "full_text": "Previously: Show HN: Honda Civic Infotainment Reverse-Engineering - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753 - May 2023 (43 comments)",
       "source": "hacker news",
       "url": "https://juniperspring.org/posts/honda-evil-valet/",
       "published_at": "2026-06-14T00:49:46+00:00",
       "tags": [
         "ai"
       ],
-      "score": "125",
+      "score": "266",
       "item_id": "hn:48523080",
       "summary_type": "extractive",
-      "title_zh": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-      "summary_zh": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys"
-    },
-    {
-      "title": "Ancient genome duplications laid the foundations of complex brains",
-      "summary": "Ancient genome duplications laid the foundations of complex brains",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
-      "published_at": "2026-06-13T22:54:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "25",
-      "item_id": "hn:48522310",
-      "summary_type": "extractive",
-      "title_zh": "Ancient genome duplications laid the foundations of complex brains",
-      "summary_zh": "Ancient genome duplications laid the foundations of complex brains"
-    },
-    {
-      "title": "Human Routers of Machine Words",
-      "summary": "Human Routers of Machine Words",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://borretti.me/article/human-routers-of-machine-words",
-      "published_at": "2026-06-13T21:35:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "50",
-      "item_id": "hn:48521709",
-      "summary_type": "extractive",
-      "title_zh": "Human Routers of Machine Words",
-      "summary_zh": "Human Routers of Machine Words"
+      "title_zh": "Honda Civics and the Evil Valet",
+      "summary_zh": "Previously: Show HN: Honda Civic Infotainment Reverse-Engineering - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753 - May 2023 (43 comments)"
     },
     {
       "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
@@ -172,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "270",
+      "score": "321",
       "item_id": "hn:48520807",
       "summary_type": "extractive",
       "title_zh": "Police officer investigated for using AI to 'create evidence' in multiple cases",
@@ -188,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "84",
+      "score": "95",
       "item_id": "hn:48520080",
       "summary_type": "extractive",
       "title_zh": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
@@ -204,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "173",
+      "score": "188",
       "item_id": "hn:48519552",
       "summary_type": "extractive",
       "title_zh": "GameBoy Workboy",
@@ -220,7 +204,7 @@
       "tags": [
         "ai"
       ],
-      "score": "102",
+      "score": "112",
       "item_id": "hn:48519011",
       "summary_type": "extractive",
       "title_zh": "The adder at the heart of Intel's 8087 floating-point chip",
@@ -236,7 +220,7 @@
       "tags": [
         "ai"
       ],
-      "score": "265",
+      "score": "289",
       "item_id": "hn:48518969",
       "summary_type": "extractive",
       "title_zh": "AI coding at home without going broke",
@@ -252,27 +236,11 @@
       "tags": [
         "ai"
       ],
-      "score": "442",
+      "score": "579",
       "item_id": "hn:48518684",
       "summary_type": "extractive",
       "title_zh": "GLM 5.2 Is Out",
       "summary_zh": "https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn"
-    },
-    {
-      "title": "Orthodox C++ (2016)",
-      "summary": "Orthodox C++ (2016)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
-      "published_at": "2026-06-13T13:58:46+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "93",
-      "item_id": "hn:48517412",
-      "summary_type": "extractive",
-      "title_zh": "Orthodox C++ (2016)",
-      "summary_zh": "Orthodox C++ (2016)"
     },
     {
       "title": "Noise infusion banned from statistical products published by Census Bureau",
@@ -284,7 +252,7 @@
       "tags": [
         "ai"
       ],
-      "score": "775",
+      "score": "823",
       "item_id": "hn:48517377",
       "summary_type": "extractive",
       "title_zh": "Noise infusion banned from statistical products published by Census Bureau",
@@ -300,7 +268,7 @@
       "tags": [
         "ai"
       ],
-      "score": "329",
+      "score": "361",
       "item_id": "hn:48517199",
       "summary_type": "extractive",
       "title_zh": "Treating pancreatic tumours may have revealed cancer's master switch",
@@ -316,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "212",
+      "score": "228",
       "item_id": "hn:48516710",
       "summary_type": "extractive",
       "title_zh": "The experience of rendering Arabic typography and its technical debt",
@@ -332,7 +300,7 @@
       "tags": [
         "ai"
       ],
-      "score": "631",
+      "score": "711",
       "item_id": "hn:48516251",
       "summary_type": "extractive",
       "title_zh": "Every Frame Perfect",
@@ -348,7 +316,7 @@
       "tags": [
         "ai"
       ],
-      "score": "216",
+      "score": "249",
       "item_id": "hn:48515454",
       "summary_type": "extractive",
       "title_zh": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
@@ -364,7 +332,7 @@
       "tags": [
         "ai"
       ],
-      "score": "604",
+      "score": "644",
       "item_id": "hn:48514560",
       "summary_type": "extractive",
       "title_zh": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
@@ -380,11 +348,27 @@
       "tags": [
         "ai"
       ],
-      "score": "21",
+      "score": "55",
       "item_id": "hn:48503009",
       "summary_type": "extractive",
       "title_zh": "Python 3.14 garbage collection rigamarole",
       "summary_zh": "Python 3.14 garbage collection rigamarole"
+    },
+    {
+      "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
+      "summary": "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
+      "published_at": "2026-06-12T02:58:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "14",
+      "item_id": "hn:48499348",
+      "summary_type": "extractive",
+      "title_zh": "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
+      "summary_zh": "500-year-old monasteries outperform at digital transformation (U. of Zurich)"
     },
     {
       "title": "Codex for open source",
@@ -396,11 +380,43 @@
       "tags": [
         "ai"
       ],
-      "score": "200",
+      "score": "230",
       "item_id": "hn:48497195",
       "summary_type": "extractive",
       "title_zh": "Codex for open source",
       "summary_zh": "Codex for open source"
+    },
+    {
+      "title": "Cooling in Space",
+      "summary": "Cooling in Space",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://guille.site/posts/space-cooling/",
+      "published_at": "2026-06-11T20:43:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "4",
+      "item_id": "hn:48496156",
+      "summary_type": "extractive",
+      "title_zh": "Cooling in Space",
+      "summary_zh": "Cooling in Space"
+    },
+    {
+      "title": "Beagle: Git, URIs and all the dirty words",
+      "summary": "Beagle: Git, URIs and all the dirty words",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://replicated.wiki/blog/uris.html",
+      "published_at": "2026-06-11T18:05:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:48494135",
+      "summary_type": "extractive",
+      "title_zh": "Beagle: Git, URIs and all the dirty words",
+      "summary_zh": "Beagle: Git, URIs and all the dirty words"
     },
     {
       "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
@@ -411,8 +427,8 @@
       "published_at": "2026-06-11T17:59:52Z",
       "tags": [
         "llm",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13680v1",
@@ -429,8 +445,8 @@
       "published_at": "2026-06-11T17:59:49Z",
       "tags": [
         "agent",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13677v1",
@@ -446,10 +462,10 @@
       "url": "http://arxiv.org/abs/2606.13673v1",
       "published_at": "2026-06-11T17:59:36Z",
       "tags": [
-        "agent",
         "vision",
-        "tool",
+        "agent",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -466,8 +482,8 @@
       "url": "http://arxiv.org/abs/2606.13670v1",
       "published_at": "2026-06-11T17:58:36Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13670v1",
@@ -483,9 +499,9 @@
       "url": "http://arxiv.org/abs/2606.13669v1",
       "published_at": "2026-06-11T17:58:35Z",
       "tags": [
-        "agent",
+        "paper",
         "llm",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13669v1",
@@ -501,9 +517,9 @@
       "url": "http://arxiv.org/abs/2606.13662v1",
       "published_at": "2026-06-11T17:56:35Z",
       "tags": [
-        "agent",
         "llm",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13662v1",
@@ -519,8 +535,8 @@
       "url": "http://arxiv.org/abs/2606.13658v1",
       "published_at": "2026-06-11T17:54:59Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13658v1",
@@ -536,8 +552,8 @@
       "url": "http://arxiv.org/abs/2606.13647v1",
       "published_at": "2026-06-11T17:50:06Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13647v1",
@@ -553,9 +569,9 @@
       "url": "http://arxiv.org/abs/2606.13629v1",
       "published_at": "2026-06-11T17:41:09Z",
       "tags": [
+        "paper",
         "llm",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13629v1",
@@ -571,8 +587,8 @@
       "url": "http://arxiv.org/abs/2606.13621v1",
       "published_at": "2026-06-11T17:35:40Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13621v1",
@@ -588,8 +604,8 @@
       "url": "http://arxiv.org/abs/2606.13610v1",
       "published_at": "2026-06-11T17:24:14Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13610v1",
@@ -605,10 +621,10 @@
       "url": "http://arxiv.org/abs/2606.13608v1",
       "published_at": "2026-06-11T17:23:54Z",
       "tags": [
-        "agent",
+        "paper",
         "llm",
         "tool",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13608v1",
@@ -624,8 +640,8 @@
       "url": "http://arxiv.org/abs/2606.13607v1",
       "published_at": "2026-06-11T17:23:10Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13607v1",
@@ -642,8 +658,8 @@
       "published_at": "2026-06-11T17:21:20Z",
       "tags": [
         "agent",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13604v1",
@@ -660,8 +676,8 @@
       "published_at": "2026-06-11T17:21:16Z",
       "tags": [
         "llm",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13603v1",
@@ -677,9 +693,9 @@
       "url": "http://arxiv.org/abs/2606.13602v1",
       "published_at": "2026-06-11T17:20:29Z",
       "tags": [
-        "agent",
+        "paper",
         "llm",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13602v1",
@@ -695,10 +711,10 @@
       "url": "http://arxiv.org/abs/2606.13598v1",
       "published_at": "2026-06-11T17:16:24Z",
       "tags": [
-        "agent",
         "vision",
-        "tool",
+        "agent",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -715,8 +731,8 @@
       "url": "http://arxiv.org/abs/2606.13591v1",
       "published_at": "2026-06-11T17:12:11Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13591v1",
@@ -732,9 +748,9 @@
       "url": "http://arxiv.org/abs/2606.13580v1",
       "published_at": "2026-06-11T17:04:08Z",
       "tags": [
+        "paper",
         "vision",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13580v1",
@@ -750,8 +766,8 @@
       "url": "http://arxiv.org/abs/2606.13578v1",
       "published_at": "2026-06-11T17:03:53Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.13578v1",
@@ -760,52 +776,36 @@
       "summary_zh": "Scientific laboratories increasingly rely on AI systems to reason about experiments, but the physical act of doing science remains largely outside their reach. AI can help read literature, generate hypotheses, and plan protocols, yet the execution of those protocols at the bench still requires a human operator. Vision-Language-Action (VLA) models provide one possible interface between written protocols and robot execution, but existing policies are trained mostly on household and tabletop demons"
     },
     {
-      "title": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)",
-      "summary": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)",
+      "title": "LaserWriter seeds",
+      "summary": "LaserWriter seeds",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://jerrylparker.com/blogs/posts/sx-64.html",
-      "published_at": "2026-06-11T15:46:27+00:00",
+      "url": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
+      "published_at": "2026-06-10T22:47:46+00:00",
       "tags": [
         "ai"
       ],
-      "score": "23",
-      "item_id": "hn:48491968",
+      "score": "18",
+      "item_id": "hn:48483841",
       "summary_type": "extractive",
-      "title_zh": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)",
-      "summary_zh": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)"
+      "title_zh": "LaserWriter seeds",
+      "summary_zh": "LaserWriter seeds"
     },
     {
-      "title": "(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]",
-      "summary": "(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]",
+      "title": "The Neat Little Vehicles That Run a Cemetery",
+      "summary": "The Neat Little Vehicles That Run a Cemetery",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/AnalogCyberNuke/RE-Verse-2026-Slides/blob/main/Reverse26.pdf",
-      "published_at": "2026-06-11T15:06:28+00:00",
+      "url": "https://www.thedrive.com/news/meet-the-neat-little-vehicles-that-run-a-cemetery",
+      "published_at": "2026-06-10T02:48:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "3",
-      "item_id": "hn:48491376",
+      "score": "9",
+      "item_id": "hn:48470746",
       "summary_type": "extractive",
-      "title_zh": "(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]",
-      "summary_zh": "(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]"
-    },
-    {
-      "title": "The Field Guide to CSS Grid Lanes",
-      "summary": "The Field Guide to CSS Grid Lanes",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://gridlanes.webkit.org/",
-      "published_at": "2026-06-10T09:01:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:48473509",
-      "summary_type": "extractive",
-      "title_zh": "The Field Guide to CSS Grid Lanes",
-      "summary_zh": "The Field Guide to CSS Grid Lanes"
+      "title_zh": "The Neat Little Vehicles That Run a Cemetery",
+      "summary_zh": "The Neat Little Vehicles That Run a Cemetery"
     },
     {
       "title": "Appreciating Exif",
@@ -817,7 +817,7 @@
       "tags": [
         "ai"
       ],
-      "score": "143",
+      "score": "160",
       "item_id": "hn:48467437",
       "summary_type": "extractive",
       "title_zh": "Appreciating Exif",
@@ -833,7 +833,7 @@
       "tags": [
         "ai"
       ],
-      "score": "100",
+      "score": "127",
       "item_id": "hn:48462759",
       "summary_type": "extractive",
       "title_zh": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",

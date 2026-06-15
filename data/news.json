@@ -1,26 +1,330 @@
 {
-  "updated_at": "2026-06-15T12:35:30.239747+00:00",
+  "updated_at": "2026-06-15T21:13:39.345075+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "summary": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "title": "B-52 bomber crashes shortly after takeoff at California's Edwards Air Force Base",
+      "summary": "B-52 bomber crashes shortly after takeoff at California's Edwards Air Force Base",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/themartiano/luz",
-      "published_at": "2026-06-15T09:34:10+00:00",
+      "url": "https://www.cnn.com/2026/06/15/us/b-52-crash-edwards-california",
+      "published_at": "2026-06-15T20:34:51+00:00",
       "tags": [
         "ai"
       ],
-      "score": "28",
-      "item_id": "hn:48538833",
+      "score": "7",
+      "item_id": "hn:48546697",
       "summary_type": "extractive",
-      "title_zh": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "summary_zh": "Show HN: I wrote a C++ ray tracer from scratch without AI"
+      "title_zh": "B-52 bomber crashes shortly after takeoff at California's Edwards Air Force Base",
+      "summary_zh": "B-52 bomber crashes shortly after takeoff at California's Edwards Air Force Base"
     },
     {
-      "title": "What the Fuck Happened to Nerds",
-      "summary": "What the Fuck Happened to Nerds",
+      "title": "US battery manufacturing output continues to break records",
+      "summary": "US battery manufacturing output continues to break records",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://fred.stlouisfed.org/series/IPG33591S",
+      "published_at": "2026-06-15T20:28:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "34",
+      "item_id": "hn:48546616",
+      "summary_type": "extractive",
+      "title_zh": "US battery manufacturing output continues to break records",
+      "summary_zh": "US battery manufacturing output continues to break records"
+    },
+    {
+      "title": "I Love the Computer",
+      "summary": "I Love the Computer",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://michaelenger.com/blog/i-love-the-computer/",
+      "published_at": "2026-06-15T20:14:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "37",
+      "item_id": "hn:48546441",
+      "summary_type": "extractive",
+      "title_zh": "I Love the Computer",
+      "summary_zh": "I Love the Computer"
+    },
+    {
+      "title": "US Government Reportedly Allowing Federal Data Center Rules to Expire",
+      "summary": "US Government Reportedly Allowing Federal Data Center Rules to Expire",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083",
+      "published_at": "2026-06-15T20:06:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "22",
+      "item_id": "hn:48546358",
+      "summary_type": "extractive",
+      "title_zh": "US Government Reportedly Allowing Federal Data Center Rules to Expire",
+      "summary_zh": "US Government Reportedly Allowing Federal Data Center Rules to Expire"
+    },
+    {
+      "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+      "summary": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
+      "published_at": "2026-06-15T20:02:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "49",
+      "item_id": "hn:48546306",
+      "summary_type": "extractive",
+      "title_zh": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+      "summary_zh": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says"
+    },
+    {
+      "title": "A backdoor in a LinkedIn job offer",
+      "summary": "A backdoor in a LinkedIn job offer",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "published_at": "2026-06-15T20:00:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "184",
+      "item_id": "hn:48546294",
+      "summary_type": "extractive",
+      "title_zh": "A backdoor in a LinkedIn job offer",
+      "summary_zh": "A backdoor in a LinkedIn job offer"
+    },
+    {
+      "title": "The Alaska Server",
+      "summary": "The Alaska Server",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://serialport.org/blog/the-alaska-server/",
+      "published_at": "2026-06-15T18:37:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:48545293",
+      "summary_type": "extractive",
+      "title_zh": "The Alaska Server",
+      "summary_zh": "The Alaska Server"
+    },
+    {
+      "title": "How TimescaleDB compresses time-series data",
+      "summary": "How TimescaleDB compresses time-series data",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+      "published_at": "2026-06-15T17:29:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "81",
+      "item_id": "hn:48544451",
+      "summary_type": "extractive",
+      "title_zh": "How TimescaleDB compresses time-series data",
+      "summary_zh": "How TimescaleDB compresses time-series data"
+    },
+    {
+      "title": "Typst 0.15.0",
+      "summary": "Typst 0.15.0",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://typst.app/docs/changelog/0.15.0/",
+      "published_at": "2026-06-15T17:24:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "212",
+      "item_id": "hn:48544396",
+      "summary_type": "extractive",
+      "title_zh": "Typst 0.15.0",
+      "summary_zh": "Typst 0.15.0"
+    },
+    {
+      "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+      "summary": "I’m Nick, founder of Drafted (https:&#x2F;&#x2F;www.drafted.ai). We’re training models that generate residential architecture from structured design constraints.Product demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8QkJ7jNU9y4Residential architecture is still one of the most expensive, slow, and inaccessible creative processes in the world. Designing a custom home typically costs $10,000–$50,000 or more, takes months, and requires making major decisions before most people can even visuali",
+      "full_text": "I’m Nick, founder of Drafted (https:&#x2F;&#x2F;www.drafted.ai). We’re training models that generate residential architecture from structured design constraints.Product demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8QkJ7jNU9y4Residential architecture is still one of the most expensive, slow, and inaccessible creative processes in the world. Designing a custom home typically costs $10,000–$50,000 or more, takes months, and requires making major decisions before most people can even visuali",
+      "source": "hacker news",
+      "url": "https://news.ycombinator.com/item?id=48543908",
+      "published_at": "2026-06-15T16:47:21+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "30",
+      "item_id": "hn:48543908",
+      "summary_type": "extractive",
+      "title_zh": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+      "summary_zh": "I’m Nick, founder of Drafted (https:&#x2F;&#x2F;www.drafted.ai). We’re training models that generate residential architecture from structured design constraints.Product demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8QkJ7jNU9y4Residential architecture is still one of the most expensive, slow, and inaccessible creative processes in the world. Designing a custom home typically costs $10,000–$50,000 or more, takes months, and requires making major decisions before most people can even visuali"
+    },
+    {
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "summary": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tinywind.io",
+      "published_at": "2026-06-15T16:15:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "455",
+      "item_id": "hn:48543475",
+      "summary_type": "extractive",
+      "title_zh": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "summary_zh": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)"
+    },
+    {
+      "title": "How memory safety CVEs differ between Rust and C/C++",
+      "summary": "How memory safety CVEs differ between Rust and C/C++",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+      "published_at": "2026-06-15T16:11:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "78",
+      "item_id": "hn:48543392",
+      "summary_type": "extractive",
+      "title_zh": "How memory safety CVEs differ between Rust and C/C++",
+      "summary_zh": "How memory safety CVEs differ between Rust and C/C++"
+    },
+    {
+      "title": "Boot Naked Linux",
+      "summary": "Boot Naked Linux",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nick.zoic.org/art/boot-naked-linux/",
+      "published_at": "2026-06-15T16:03:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "64",
+      "item_id": "hn:48543269",
+      "summary_type": "extractive",
+      "title_zh": "Boot Naked Linux",
+      "summary_zh": "Boot Naked Linux"
+    },
+    {
+      "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
+      "summary": "Hi HN! Excited to launch machine0, a CLI that makes it easy to create, provision and snapshot persistent NixOS (&amp; Ubuntu) VMs.You can think of machine0 as a modern VPS provider. VMs stay on unless switched-off (with 99.99% uptime), they have static IPs and HTTPS endpoints, 1-60 vCPU, up to 240GB RAM and optionally GPUs.",
+      "full_text": "Hi HN! Excited to launch machine0, a CLI that makes it easy to create, provision and snapshot persistent NixOS (&amp; Ubuntu) VMs.You can think of machine0 as a modern VPS provider. VMs stay on unless switched-off (with 99.99% uptime), they have static IPs and HTTPS endpoints, 1-60 vCPU, up to 240GB RAM and optionally GPUs. The CLI provides commands to manage lifecycle, snapshots and also provision the VMs using Nix flakes or Ansible playbooks. VMs are priced by the minute of usage.What makes ma",
+      "source": "hacker news",
+      "url": "https://machine0.io",
+      "published_at": "2026-06-15T16:01:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "58",
+      "item_id": "hn:48543245",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
+      "summary_zh": "Hi HN! Excited to launch machine0, a CLI that makes it easy to create, provision and snapshot persistent NixOS (&amp; Ubuntu) VMs.You can think of machine0 as a modern VPS provider. VMs stay on unless switched-off (with 99.99% uptime), they have static IPs and HTTPS endpoints, 1-60 vCPU, up to 240GB RAM and optionally GPUs."
+    },
+    {
+      "title": "Iroh 1.0",
+      "summary": "Iroh 1.0",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.iroh.computer/blog/v1",
+      "published_at": "2026-06-15T15:13:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "775",
+      "item_id": "hn:48542480",
+      "summary_type": "extractive",
+      "title_zh": "Iroh 1.0",
+      "summary_zh": "Iroh 1.0"
+    },
+    {
+      "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+      "summary": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
+      "published_at": "2026-06-15T14:48:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "196",
+      "item_id": "hn:48542132",
+      "summary_type": "extractive",
+      "title_zh": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+      "summary_zh": "Copper transport drug restores memory and clears toxic Alzheimer's proteins"
+    },
+    {
+      "title": "Can Europe train a frontier AI model on the compute it owns?",
+      "summary": "Can Europe train a frontier AI model on the compute it owns?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/sammysltd/euromesh",
+      "published_at": "2026-06-15T13:31:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "101",
+      "item_id": "hn:48541014",
+      "summary_type": "extractive",
+      "title_zh": "Can Europe train a frontier AI model on the compute it owns?",
+      "summary_zh": "Can Europe train a frontier AI model on the compute it owns?"
+    },
+    {
+      "title": "Hetzner Price Adjustment",
+      "summary": "https:&#x2F;&#x2F;www.hetzner.com&#x2F;pressroom&#x2F;standardization-and-price-...",
+      "full_text": "https:&#x2F;&#x2F;www.hetzner.com&#x2F;pressroom&#x2F;standardization-and-price-...",
+      "source": "hacker news",
+      "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+      "published_at": "2026-06-15T13:19:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "231",
+      "item_id": "hn:48540844",
+      "summary_type": "extractive",
+      "title_zh": "Hetzner Price Adjustment",
+      "summary_zh": "https:&#x2F;&#x2F;www.hetzner.com&#x2F;pressroom&#x2F;standardization-and-price-..."
+    },
+    {
+      "title": "Fox to buy Roku",
+      "summary": "Fox to buy Roku",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
+      "published_at": "2026-06-15T12:50:03+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "219",
+      "item_id": "hn:48540499",
+      "summary_type": "extractive",
+      "title_zh": "Fox to buy Roku",
+      "summary_zh": "Fox to buy Roku"
+    },
+    {
+      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
+      "summary": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+      "published_at": "2026-06-15T12:08:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "247",
+      "item_id": "hn:48540126",
+      "summary_type": "extractive",
+      "title_zh": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
+      "summary_zh": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B"
+    },
+    {
+      "title": "What happened to nerds?",
+      "summary": "What happened to nerds?",
       "full_text": "",
       "source": "hacker news",
       "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
@@ -28,11 +332,11 @@
       "tags": [
         "ai"
       ],
-      "score": "339",
+      "score": "682",
       "item_id": "hn:48538229",
       "summary_type": "extractive",
-      "title_zh": "What the Fuck Happened to Nerds",
-      "summary_zh": "What the Fuck Happened to Nerds"
+      "title_zh": "What happened to nerds?",
+      "summary_zh": "What happened to nerds?"
     },
     {
       "title": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
@@ -51,8 +355,8 @@
       "summary_zh": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany"
     },
     {
-      "title": "Successful Psilocybin Treatment of Alzheimer",
-      "summary": "Successful Psilocybin Treatment of Alzheimer",
+      "title": "Improvement in advanced Alzheimer’s disease following high-dose psilocybin",
+      "summary": "Improvement in advanced Alzheimer’s disease following high-dose psilocybin",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full",
@@ -60,27 +364,11 @@
       "tags": [
         "ai"
       ],
-      "score": "8",
+      "score": "186",
       "item_id": "hn:48537512",
       "summary_type": "extractive",
-      "title_zh": "Successful Psilocybin Treatment of Alzheimer",
-      "summary_zh": "Successful Psilocybin Treatment of Alzheimer"
-    },
-    {
-      "title": "Curl will not accept vulnerability reports during July 2026",
-      "summary": "Curl will not accept vulnerability reports during July 2026",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-      "published_at": "2026-06-15T06:02:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "507",
-      "item_id": "hn:48537165",
-      "summary_type": "extractive",
-      "title_zh": "Curl will not accept vulnerability reports during July 2026",
-      "summary_zh": "Curl will not accept vulnerability reports during July 2026"
+      "title_zh": "Improvement in advanced Alzheimer’s disease following high-dose psilocybin",
+      "summary_zh": "Improvement in advanced Alzheimer’s disease following high-dose psilocybin"
     },
     {
       "title": "Even more batteries included with Emacs",
@@ -92,235 +380,43 @@
       "tags": [
         "ai"
       ],
-      "score": "249",
+      "score": "338",
       "item_id": "hn:48535886",
       "summary_type": "extractive",
       "title_zh": "Even more batteries included with Emacs",
       "summary_zh": "Even more batteries included with Emacs"
     },
     {
-      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
-      "summary": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+      "title": "Making glass-to-metal seals for home­made vacuum tubes",
+      "summary": "Making glass-to-metal seals for home­made vacuum tubes",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
-      "published_at": "2026-06-15T00:07:32+00:00",
+      "url": "https://maurycyz.com/projects/glass/1/",
+      "published_at": "2026-06-14T15:52:09+00:00",
       "tags": [
         "ai"
       ],
-      "score": "100",
-      "item_id": "hn:48534628",
+      "score": "107",
+      "item_id": "hn:48528587",
       "summary_type": "extractive",
-      "title_zh": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
-      "summary_zh": "21 years and counting of 'eight fallacies of distributed computing' (2025)"
+      "title_zh": "Making glass-to-metal seals for home­made vacuum tubes",
+      "summary_zh": "Making glass-to-metal seals for home­made vacuum tubes"
     },
     {
-      "title": "Your ePub Is fine",
-      "summary": "Your ePub Is fine",
+      "title": "What every coder should know about Gamma Correction",
+      "summary": "What every coder should know about Gamma Correction",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "published_at": "2026-06-14T22:54:55+00:00",
+      "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
+      "published_at": "2026-06-13T22:01:29+00:00",
       "tags": [
         "ai"
       ],
-      "score": "693",
-      "item_id": "hn:48533848",
+      "score": "11",
+      "item_id": "hn:48521925",
       "summary_type": "extractive",
-      "title_zh": "Your ePub Is fine",
-      "summary_zh": "Your ePub Is fine"
-    },
-    {
-      "title": "Windows 11 users are tired of MS account requirements creeping into everything",
-      "summary": "Windows 11 users are tired of MS account requirements creeping into everything",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
-      "published_at": "2026-06-14T21:42:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "417",
-      "item_id": "hn:48533101",
-      "summary_type": "extractive",
-      "title_zh": "Windows 11 users are tired of MS account requirements creeping into everything",
-      "summary_zh": "Windows 11 users are tired of MS account requirements creeping into everything"
-    },
-    {
-      "title": "Chaosnet (1981)",
-      "summary": "https:&#x2F;&#x2F;bitsavers.trailing-edge.com&#x2F;pdf&#x2F;mit&#x2F;ai&#x2F;AIM-628_chaos...",
-      "full_text": "https:&#x2F;&#x2F;bitsavers.trailing-edge.com&#x2F;pdf&#x2F;mit&#x2F;ai&#x2F;AIM-628_chaos...",
-      "source": "hacker news",
-      "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
-      "published_at": "2026-06-14T19:14:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "91",
-      "item_id": "hn:48531449",
-      "summary_type": "extractive",
-      "title_zh": "Chaosnet (1981)",
-      "summary_zh": "https:&#x2F;&#x2F;bitsavers.trailing-edge.com&#x2F;pdf&#x2F;mit&#x2F;ai&#x2F;AIM-628_chaos..."
-    },
-    {
-      "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
-      "summary": "Show HN: Discover Wikipedia articles popular on Hacker News",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.orangecrumbs.com/",
-      "published_at": "2026-06-14T17:54:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "125",
-      "item_id": "hn:48530382",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Discover Wikipedia articles popular on Hacker News",
-      "summary_zh": "Show HN: Discover Wikipedia articles popular on Hacker News"
-    },
-    {
-      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-      "summary": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/tamnd/kage",
-      "published_at": "2026-06-14T17:25:38+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "595",
-      "item_id": "hn:48529990",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-      "summary_zh": "Show HN: Kage – Shadow any website to a single binary for offline viewing"
-    },
-    {
-      "title": "Ask HN: What are you working on? (June 2026)",
-      "summary": "What are you working on? Any new ideas that you&#x27;re thinking about?",
-      "full_text": "What are you working on? Any new ideas that you&#x27;re thinking about?",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=48528779",
-      "published_at": "2026-06-14T16:05:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "257",
-      "item_id": "hn:48528779",
-      "summary_type": "extractive",
-      "title_zh": "Ask HN: What are you working on? (June 2026)",
-      "summary_zh": "What are you working on? Any new ideas that you&#x27;re thinking about?"
-    },
-    {
-      "title": "Perlisisms (1982)",
-      "summary": "Perlisisms (1982)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-      "published_at": "2026-06-14T14:56:56+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "125",
-      "item_id": "hn:48527820",
-      "summary_type": "extractive",
-      "title_zh": "Perlisisms (1982)",
-      "summary_zh": "Perlisisms (1982)"
-    },
-    {
-      "title": "FarOutCompany",
-      "summary": "FarOutCompany",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://faroutcompany.com/",
-      "published_at": "2026-06-14T14:09:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "120",
-      "item_id": "hn:48527360",
-      "summary_type": "extractive",
-      "title_zh": "FarOutCompany",
-      "summary_zh": "FarOutCompany"
-    },
-    {
-      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-      "summary": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://su3.io/posts/zeroserve-caddy-compat",
-      "published_at": "2026-06-14T13:43:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "199",
-      "item_id": "hn:48527145",
-      "summary_type": "extractive",
-      "title_zh": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-      "summary_zh": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
-    },
-    {
-      "title": "Formal methods and the future of programming",
-      "summary": "Formal methods and the future of programming",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-      "published_at": "2026-06-14T12:35:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "287",
-      "item_id": "hn:48526633",
-      "summary_type": "extractive",
-      "title_zh": "Formal methods and the future of programming",
-      "summary_zh": "Formal methods and the future of programming"
-    },
-    {
-      "title": "How to earn a billion dollars",
-      "summary": "How to earn a billion dollars",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://paulgraham.com/earn.html",
-      "published_at": "2026-06-14T11:50:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "656",
-      "item_id": "hn:48526360",
-      "summary_type": "extractive",
-      "title_zh": "How to earn a billion dollars",
-      "summary_zh": "How to earn a billion dollars"
-    },
-    {
-      "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
-      "summary": "I&#x27;m the developer of Trace, a non-intrusive, shortcut-driven Mac app that records and transcribes your meetings on-device. I know, another meeting transcription app. Please bear with me though, I&#x27;m confident that this is at least a little novel.I primarily built Trace for myself.",
-      "full_text": "I&#x27;m the developer of Trace, a non-intrusive, shortcut-driven Mac app that records and transcribes your meetings on-device. I know, another meeting transcription app. Please bear with me though, I&#x27;m confident that this is at least a little novel.I primarily built Trace for myself. I&#x27;d been using MacWhisper, but there was enough fiddling before each call that I&#x27;d forget to start it and walk out of an hour-long meeting with nothing written down. So the things I cared about most ",
-      "source": "hacker news",
-      "url": "https://traceapp.info",
-      "published_at": "2026-06-13T20:41:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "179",
-      "item_id": "hn:48521236",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
-      "summary_zh": "I&#x27;m the developer of Trace, a non-intrusive, shortcut-driven Mac app that records and transcribes your meetings on-device. I know, another meeting transcription app. Please bear with me though, I&#x27;m confident that this is at least a little novel.I primarily built Trace for myself."
-    },
-    {
-      "title": "Being an old school web-based sports sim dev in the era of vibe coded games",
-      "summary": "Being an old school web-based sports sim dev in the era of vibe coded games",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://zengm.com/blog/2026/06/vibecoded-games/",
-      "published_at": "2026-06-12T18:52:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "38",
-      "item_id": "hn:48508021",
-      "summary_type": "extractive",
-      "title_zh": "Being an old school web-based sports sim dev in the era of vibe coded games",
-      "summary_zh": "Being an old school web-based sports sim dev in the era of vibe coded games"
+      "title_zh": "What every coder should know about Gamma Correction",
+      "summary_zh": "What every coder should know about Gamma Correction"
     },
     {
       "title": "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
@@ -330,8 +426,8 @@
       "url": "http://arxiv.org/abs/2606.14697v1",
       "published_at": "2026-06-12T17:58:38Z",
       "tags": [
-        "vision",
         "llm",
+        "vision",
         "paper"
       ],
       "score": "📄",
@@ -348,8 +444,8 @@
       "url": "http://arxiv.org/abs/2606.14693v1",
       "published_at": "2026-06-12T17:55:28Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14693v1",
@@ -365,8 +461,8 @@
       "url": "http://arxiv.org/abs/2606.14688v1",
       "published_at": "2026-06-12T17:52:24Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14688v1",
@@ -382,10 +478,10 @@
       "url": "http://arxiv.org/abs/2606.14686v1",
       "published_at": "2026-06-12T17:50:23Z",
       "tags": [
-        "vision",
-        "tool",
         "llm",
-        "paper"
+        "vision",
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14686v1",
@@ -401,9 +497,9 @@
       "url": "http://arxiv.org/abs/2606.14672v1",
       "published_at": "2026-06-12T17:39:29Z",
       "tags": [
-        "agent",
         "llm",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14672v1",
@@ -412,24 +508,8 @@
       "summary_zh": "Large language models increasingly serve as execution engines for agentic systems, yet they still consume context through a sequential text interface. This creates a mismatch with modern structured agent workflows, in which independent branches explore subtasks, retrieve evidence, or generate candidate solutions before a final synthesis step. Existing systems typically merge these branches by concatenating their textual outputs, which discards the parallel structure and incurs redundant prefill "
     },
     {
-      "title": "Write for One Person",
-      "summary": "Write for One Person",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://wizardzines.com/comics/write-for-one-person/",
-      "published_at": "2026-06-12T17:36:10+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "245",
-      "item_id": "hn:48507039",
-      "summary_type": "extractive",
-      "title_zh": "Write for One Person",
-      "summary_zh": "Write for One Person"
-    },
-    {
-      "title": "Ported my C game to WASM, here's everybug that I hit",
-      "summary": "Ported my C game to WASM, here's everybug that I hit",
+      "title": "Ported my C game to WASM, here's every bug that I hit",
+      "summary": "Ported my C game to WASM, here's every bug that I hit",
       "full_text": "",
       "source": "hacker news",
       "url": "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/",
@@ -437,11 +517,11 @@
       "tags": [
         "ai"
       ],
-      "score": "30",
+      "score": "99",
       "item_id": "hn:48506980",
       "summary_type": "extractive",
-      "title_zh": "Ported my C game to WASM, here's everybug that I hit",
-      "summary_zh": "Ported my C game to WASM, here's everybug that I hit"
+      "title_zh": "Ported my C game to WASM, here's every bug that I hit",
+      "summary_zh": "Ported my C game to WASM, here's every bug that I hit"
     },
     {
       "title": "Giving AI a Headache: Acoustic Adversarial Attacks to Computer Vision Applications",
@@ -452,8 +532,8 @@
       "published_at": "2026-06-12T17:22:53Z",
       "tags": [
         "vision",
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14658v1",
@@ -485,9 +565,9 @@
       "url": "http://arxiv.org/abs/2606.14647v1",
       "published_at": "2026-06-12T17:08:42Z",
       "tags": [
-        "tool",
         "llm",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14647v1",
@@ -503,8 +583,8 @@
       "url": "http://arxiv.org/abs/2606.14639v1",
       "published_at": "2026-06-12T17:04:32Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14639v1",
@@ -520,32 +600,16 @@
       "url": "http://arxiv.org/abs/2606.14629v1",
       "published_at": "2026-06-12T16:55:30Z",
       "tags": [
-        "vision",
-        "tool",
         "llm",
-        "paper"
+        "vision",
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14629v1",
       "summary_type": "extractive",
       "title_zh": "When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks",
       "summary_zh": "Verifier-driven self-DPO is a common recipe for self-improving production visual-language models. In this setup, a frozen verifier scores candidate generations, the top- and bottom-scoring candidates form a preference example, and DPO updates the learner. The deployment-time assumption is monotone: a stronger verifier should yield a stronger student."
-    },
-    {
-      "title": "Exploring building a tiny FUSE filesystem",
-      "summary": "Exploring building a tiny FUSE filesystem",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/",
-      "published_at": "2026-06-12T16:38:10+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "32",
-      "item_id": "hn:48506286",
-      "summary_type": "extractive",
-      "title_zh": "Exploring building a tiny FUSE filesystem",
-      "summary_zh": "Exploring building a tiny FUSE filesystem"
     },
     {
       "title": "Moonlight in Latent Space: Chirality and Structural Correspondence Between Beethoven's Op. 27 No. 2 and Machine Learning Mechanisms",
@@ -555,8 +619,8 @@
       "url": "http://arxiv.org/abs/2606.14612v1",
       "published_at": "2026-06-12T16:35:17Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14612v1",
@@ -572,8 +636,8 @@
       "url": "http://arxiv.org/abs/2606.14608v1",
       "published_at": "2026-06-12T16:30:45Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14608v1",
@@ -607,8 +671,8 @@
       "published_at": "2026-06-12T16:14:32Z",
       "tags": [
         "vision",
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14594v1",
@@ -641,10 +705,10 @@
       "url": "http://arxiv.org/abs/2606.14589v1",
       "published_at": "2026-06-12T16:06:55Z",
       "tags": [
-        "agent",
-        "tool",
         "llm",
-        "paper"
+        "paper",
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14589v1",
@@ -660,9 +724,9 @@
       "url": "http://arxiv.org/abs/2606.14585v1",
       "published_at": "2026-06-12T16:01:50Z",
       "tags": [
+        "paper",
         "agent",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14585v1",
@@ -678,9 +742,9 @@
       "url": "http://arxiv.org/abs/2606.14582v1",
       "published_at": "2026-06-12T16:00:31Z",
       "tags": [
+        "paper",
         "agent",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14582v1",
@@ -713,8 +777,8 @@
       "url": "http://arxiv.org/abs/2606.14579v1",
       "published_at": "2026-06-12T15:58:18Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.14579v1",
@@ -723,116 +787,52 @@
       "summary_zh": "When applying Group Relative Policy Optimization (GRPO) for GUI Grounding, rollouts are sampled from a single screenshot view; groups often become either all failures on difficult instances or all successes on easy ones, yielding no useful relative advantage. We propose VISTA (View-Consistent Self-Verified Training), a GRPO-based training framework that constructs each comparison group from multiple target-preserving views of the same GUI instance.Each view is generated by a crop that keeps the "
     },
     {
-      "title": "Bitsy",
-      "summary": "Bitsy",
+      "title": "Factoring \"short-sleeve\" RSA keys with polynomials",
+      "summary": "Factoring \"short-sleeve\" RSA keys with polynomials",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://bitsy.org/",
-      "published_at": "2026-06-11T20:56:30+00:00",
+      "url": "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/",
+      "published_at": "2026-06-12T12:52:49+00:00",
       "tags": [
         "ai"
       ],
-      "score": "226",
-      "item_id": "hn:48496290",
+      "score": "45",
+      "item_id": "hn:48503509",
       "summary_type": "extractive",
-      "title_zh": "Bitsy",
-      "summary_zh": "Bitsy"
+      "title_zh": "Factoring \"short-sleeve\" RSA keys with polynomials",
+      "summary_zh": "Factoring \"short-sleeve\" RSA keys with polynomials"
     },
     {
-      "title": "The only scalable delete in Postgres is DROP TABLE",
-      "summary": "The only scalable delete in Postgres is DROP TABLE",
-      "full_text": "",
+      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "summary": "Hi HN, I&#x27;m Djoumé. I&#x27;ve been a developer for over 20 years, and like a lot of you I&#x27;ve been coding almost exclusively through an agent in the past few months.It&#x27;s been amazing to vibe code prototypes in any stack, but when it comes to building something reliable&#x2F;scalable, I couldn&#x27;t effectively guide the agent unless I knew the technology. And the scariest part is that I&#x27;m seeing a lot of my technical skills decreasing due to AI coding.Reflecting on my journey,",
+      "full_text": "Hi HN, I&#x27;m Djoumé. I&#x27;ve been a developer for over 20 years, and like a lot of you I&#x27;ve been coding almost exclusively through an agent in the past few months.It&#x27;s been amazing to vibe code prototypes in any stack, but when it comes to building something reliable&#x2F;scalable, I couldn&#x27;t effectively guide the agent unless I knew the technology. And the scariest part is that I&#x27;m seeing a lot of my technical skills decreasing due to AI coding.Reflecting on my journey,",
       "source": "hacker news",
-      "url": "https://planetscale.com/blog/the-only-scalable-delete",
-      "published_at": "2026-06-11T16:48:49+00:00",
+      "url": "https://fata.dev",
+      "published_at": "2026-06-11T11:57:03+00:00",
       "tags": [
         "ai"
       ],
-      "score": "182",
-      "item_id": "hn:48492822",
+      "score": "52",
+      "item_id": "hn:48489163",
       "summary_type": "extractive",
-      "title_zh": "The only scalable delete in Postgres is DROP TABLE",
-      "summary_zh": "The only scalable delete in Postgres is DROP TABLE"
+      "title_zh": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "summary_zh": "Hi HN, I&#x27;m Djoumé. I&#x27;ve been a developer for over 20 years, and like a lot of you I&#x27;ve been coding almost exclusively through an agent in the past few months.It&#x27;s been amazing to vibe code prototypes in any stack, but when it comes to building something reliable&#x2F;scalable, I couldn&#x27;t effectively guide the agent unless I knew the technology. And the scariest part is that I&#x27;m seeing a lot of my technical skills decreasing due to AI coding.Reflecting on my journey,"
     },
     {
-      "title": "Lisp's Influence on Ruby",
-      "summary": "Lisp's Influence on Ruby",
+      "title": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
+      "summary": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
-      "published_at": "2026-06-11T14:43:11+00:00",
+      "url": "https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/",
+      "published_at": "2026-06-11T02:22:06+00:00",
       "tags": [
         "ai"
       ],
-      "score": "245",
-      "item_id": "hn:48491048",
+      "score": "162",
+      "item_id": "hn:48485527",
       "summary_type": "extractive",
-      "title_zh": "Lisp's Influence on Ruby",
-      "summary_zh": "Lisp's Influence on Ruby"
-    },
-    {
-      "title": "There Is(Ǝ) – Such That (∋)",
-      "summary": "There Is(Ǝ) – Such That (∋)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.fractalkitty.com/there-is-3-such-that/",
-      "published_at": "2026-06-11T14:13:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "58",
-      "item_id": "hn:48490649",
-      "summary_type": "extractive",
-      "title_zh": "There Is(Ǝ) – Such That (∋)",
-      "summary_zh": "There Is(Ǝ) – Such That (∋)"
-    },
-    {
-      "title": "Segmented type appreciation corner (2018)",
-      "summary": "Segmented type appreciation corner (2018)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://aresluna.org/segmented-type/",
-      "published_at": "2026-06-11T12:50:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "77",
-      "item_id": "hn:48489636",
-      "summary_type": "extractive",
-      "title_zh": "Segmented type appreciation corner (2018)",
-      "summary_zh": "Segmented type appreciation corner (2018)"
-    },
-    {
-      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
-      "summary": "A short history of Cerro Torre, the most controversial mountain (2012)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
-      "published_at": "2026-06-11T00:25:05+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "51",
-      "item_id": "hn:48484711",
-      "summary_type": "extractive",
-      "title_zh": "A short history of Cerro Torre, the most controversial mountain (2012)",
-      "summary_zh": "A short history of Cerro Torre, the most controversial mountain (2012)"
-    },
-    {
-      "title": "Firewood Splitting Simulator",
-      "summary": "Firewood Splitting Simulator",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://screen.toys/firewood/",
-      "published_at": "2026-06-10T05:01:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "863",
-      "item_id": "hn:48471638",
-      "summary_type": "extractive",
-      "title_zh": "Firewood Splitting Simulator",
-      "summary_zh": "Firewood Splitting Simulator"
+      "title_zh": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
+      "summary_zh": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins"
     }
   ]
 }

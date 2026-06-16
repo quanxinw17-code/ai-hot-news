@@ -1,7 +1,247 @@
 {
-  "updated_at": "2026-06-16T11:28:08.977797+00:00",
+  "updated_at": "2026-06-16T17:13:51.875810+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "summary": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "published_at": "2026-06-16T16:40:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "10",
+      "item_id": "hn:48558018",
+      "summary_type": "extractive",
+      "title_zh": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "summary_zh": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
+    },
+    {
+      "title": "Making ast.walk 220x Faster",
+      "summary": "Making ast.walk 220x Faster",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/",
+      "published_at": "2026-06-16T16:25:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "27",
+      "item_id": "hn:48557768",
+      "summary_type": "extractive",
+      "title_zh": "Making ast.walk 220x Faster",
+      "summary_zh": "Making ast.walk 220x Faster"
+    },
+    {
+      "title": "Never talk to the police",
+      "summary": "Never talk to the police",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.campolalaw.com/why-you-should-never-talk-to-the-po",
+      "published_at": "2026-06-16T16:16:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "38",
+      "item_id": "hn:48557607",
+      "summary_type": "extractive",
+      "title_zh": "Never talk to the police",
+      "summary_zh": "Never talk to the police"
+    },
+    {
+      "title": "Apple's weird anti-nausea dots cured my car sickness",
+      "summary": "Apple's weird anti-nausea dots cured my car sickness",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+      "published_at": "2026-06-16T16:12:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "73",
+      "item_id": "hn:48557530",
+      "summary_type": "extractive",
+      "title_zh": "Apple's weird anti-nausea dots cured my car sickness",
+      "summary_zh": "Apple's weird anti-nausea dots cured my car sickness"
+    },
+    {
+      "title": "After AI Takes Everything",
+      "summary": "After AI Takes Everything",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
+      "published_at": "2026-06-16T15:20:05+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "13",
+      "item_id": "hn:48556644",
+      "summary_type": "extractive",
+      "title_zh": "After AI Takes Everything",
+      "summary_zh": "After AI Takes Everything"
+    },
+    {
+      "title": "SubQ 1.1 Small",
+      "summary": "SubQ 1.1 Small",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://subq.ai/subq-1-1-small-technical-report",
+      "published_at": "2026-06-16T14:50:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "59",
+      "item_id": "hn:48556163",
+      "summary_type": "extractive",
+      "title_zh": "SubQ 1.1 Small",
+      "summary_zh": "SubQ 1.1 Small"
+    },
+    {
+      "title": "Running local models is good now",
+      "summary": "Running local models is good now",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "published_at": "2026-06-16T14:36:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "383",
+      "item_id": "hn:48555993",
+      "summary_type": "extractive",
+      "title_zh": "Running local models is good now",
+      "summary_zh": "Running local models is good now"
+    },
+    {
+      "title": "But yak shaving is fun",
+      "summary": "But yak shaving is fun",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://parksb.github.io/en/article/32.html",
+      "published_at": "2026-06-16T14:26:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "48",
+      "item_id": "hn:48555838",
+      "summary_type": "extractive",
+      "title_zh": "But yak shaving is fun",
+      "summary_zh": "But yak shaving is fun"
+    },
+    {
+      "title": "I Fired Google",
+      "summary": "I Fired Google",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.theartofdoingstuff.com/i-fired-google/",
+      "published_at": "2026-06-16T14:26:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "127",
+      "item_id": "hn:48555835",
+      "summary_type": "extractive",
+      "title_zh": "I Fired Google",
+      "summary_zh": "I Fired Google"
+    },
+    {
+      "title": "Google Chrome update will close the door on ad blockers",
+      "summary": "Recent and related:Chrome is looking to permanently drop MV2 extension - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48471970 - June 2026 (450 comments)",
+      "full_text": "Recent and related:Chrome is looking to permanently drop MV2 extension - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48471970 - June 2026 (450 comments)",
+      "source": "hacker news",
+      "url": "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/",
+      "published_at": "2026-06-16T13:46:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "205",
+      "item_id": "hn:48555244",
+      "summary_type": "extractive",
+      "title_zh": "Google Chrome update will close the door on ad blockers",
+      "summary_zh": "Recent and related:Chrome is looking to permanently drop MV2 extension - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48471970 - June 2026 (450 comments)"
+    },
+    {
+      "title": "'Wow, it really worked ': 70s TV show causing worldwide panic today",
+      "summary": "'Wow, it really worked ': 70s TV show causing worldwide panic today",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later",
+      "published_at": "2026-06-16T12:51:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "73",
+      "item_id": "hn:48554433",
+      "summary_type": "extractive",
+      "title_zh": "'Wow, it really worked ': 70s TV show causing worldwide panic today",
+      "summary_zh": "'Wow, it really worked ': 70s TV show causing worldwide panic today"
+    },
+    {
+      "title": "Mechanical Watch (2022)",
+      "summary": "Mechanical Watch (2022)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ciechanow.ski/mechanical-watch/",
+      "published_at": "2026-06-16T11:26:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "474",
+      "item_id": "hn:48553550",
+      "summary_type": "extractive",
+      "title_zh": "Mechanical Watch (2022)",
+      "summary_zh": "Mechanical Watch (2022)"
+    },
+    {
+      "title": "Unicorn – The Ultimate CPU Emulator",
+      "summary": "Unicorn – The Ultimate CPU Emulator",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.unicorn-engine.org/",
+      "published_at": "2026-06-16T11:14:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "58",
+      "item_id": "hn:48553450",
+      "summary_type": "extractive",
+      "title_zh": "Unicorn – The Ultimate CPU Emulator",
+      "summary_zh": "Unicorn – The Ultimate CPU Emulator"
+    },
+    {
+      "title": "SpaceX to buy Cursor for $60B",
+      "summary": "SpaceX to buy Cursor for $60B",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "published_at": "2026-06-16T10:44:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "381",
+      "item_id": "hn:48553224",
+      "summary_type": "extractive",
+      "title_zh": "SpaceX to buy Cursor for $60B",
+      "summary_zh": "SpaceX to buy Cursor for $60B"
+    },
+    {
+      "title": "Correlated randomness in Slay the Spire 2",
+      "summary": "Correlated randomness in Slay the Spire 2",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+      "published_at": "2026-06-16T09:46:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "202",
+      "item_id": "hn:48552844",
+      "summary_type": "extractive",
+      "title_zh": "Correlated randomness in Slay the Spire 2",
+      "summary_zh": "Correlated randomness in Slay the Spire 2"
+    },
     {
       "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
       "summary": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
@@ -12,43 +252,27 @@
       "tags": [
         "ai"
       ],
-      "score": "26",
+      "score": "90",
       "item_id": "hn:48552723",
       "summary_type": "extractive",
       "title_zh": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
       "summary_zh": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org"
     },
     {
-      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
-      "summary": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+      "title": "Making espresso with ultrasound",
+      "summary": "Making espresso with ultrasound",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-      "published_at": "2026-06-16T09:26:09+00:00",
+      "url": "https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso",
+      "published_at": "2026-06-16T08:52:06+00:00",
       "tags": [
         "ai"
       ],
-      "score": "50",
-      "item_id": "hn:48552687",
+      "score": "46",
+      "item_id": "hn:48552440",
       "summary_type": "extractive",
-      "title_zh": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
-      "summary_zh": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak"
-    },
-    {
-      "title": "Commodore Releases Flip Phone",
-      "summary": "Commodore Releases Flip Phone",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://commodore.net/why-a-flip-phone/",
-      "published_at": "2026-06-16T09:15:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "60",
-      "item_id": "hn:48552614",
-      "summary_type": "extractive",
-      "title_zh": "Commodore Releases Flip Phone",
-      "summary_zh": "Commodore Releases Flip Phone"
+      "title_zh": "Making espresso with ultrasound",
+      "summary_zh": "Making espresso with ultrasound"
     },
     {
       "title": "Understanding the rationale behind a rule when trying to circumvent it",
@@ -60,14 +284,14 @@
       "tags": [
         "ai"
       ],
-      "score": "40",
+      "score": "93",
       "item_id": "hn:48551876",
       "summary_type": "extractive",
       "title_zh": "Understanding the rationale behind a rule when trying to circumvent it",
       "summary_zh": "Understanding the rationale behind a rule when trying to circumvent it"
     },
     {
-      "title": "John Carmack on Fabrice Bellard",
+      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
       "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2064095424420487226",
       "full_text": "https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2064095424420487226",
       "source": "hacker news",
@@ -76,10 +300,10 @@
       "tags": [
         "ai"
       ],
-      "score": "336",
+      "score": "712",
       "item_id": "hn:48550779",
       "summary_type": "extractive",
-      "title_zh": "John Carmack on Fabrice Bellard",
+      "title_zh": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
       "summary_zh": "https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2064095424420487226"
     },
     {
@@ -92,7 +316,7 @@
       "tags": [
         "ai"
       ],
-      "score": "296",
+      "score": "440",
       "item_id": "hn:48550693",
       "summary_type": "extractive",
       "title_zh": "The time the x86 emulator team found code so bad they fixed it during emulation",
@@ -108,27 +332,11 @@
       "tags": [
         "ai"
       ],
-      "score": "85",
+      "score": "125",
       "item_id": "hn:48550569",
       "summary_type": "extractive",
       "title_zh": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
       "summary_zh": "Hey all, I made this. The archive started with my 2015 BA thesis on Amiga ASCII art when I was curious about the history of ASCII art but found very little on text art that came before it. The historical precursors are often attributed to typewriter art and shaped&#x2F;visual poetry, but I think letterpress is overlooked."
-    },
-    {
-      "title": "Humanity isn't ready for the coming intelligence explosion",
-      "summary": "Humanity isn't ready for the coming intelligence explosion",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
-      "published_at": "2026-06-16T02:00:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "106",
-      "item_id": "hn:48549628",
-      "summary_type": "extractive",
-      "title_zh": "Humanity isn't ready for the coming intelligence explosion",
-      "summary_zh": "Humanity isn't ready for the coming intelligence explosion"
     },
     {
       "title": "Why I email complete strangers",
@@ -140,7 +348,7 @@
       "tags": [
         "ai"
       ],
-      "score": "160",
+      "score": "203",
       "item_id": "hn:48547566",
       "summary_type": "extractive",
       "title_zh": "Why I email complete strangers",
@@ -156,7 +364,7 @@
       "tags": [
         "ai"
       ],
-      "score": "202",
+      "score": "267",
       "item_id": "hn:48547062",
       "summary_type": "extractive",
       "title_zh": "Peopleless economy? Not technically impossible",
@@ -172,27 +380,11 @@
       "tags": [
         "ai"
       ],
-      "score": "246",
+      "score": "289",
       "item_id": "hn:48546441",
       "summary_type": "extractive",
       "title_zh": "I Love the Computer",
       "summary_zh": "I Love the Computer"
-    },
-    {
-      "title": "What job interviews taught me about Kubernetes",
-      "summary": "What job interviews taught me about Kubernetes",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
-      "published_at": "2026-06-15T20:12:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "196",
-      "item_id": "hn:48546428",
-      "summary_type": "extractive",
-      "title_zh": "What job interviews taught me about Kubernetes",
-      "summary_zh": "What job interviews taught me about Kubernetes"
     },
     {
       "title": "A backdoor in a LinkedIn job offer",
@@ -204,27 +396,11 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.2k",
+      "score": "🔥 1.4k",
       "item_id": "hn:48546294",
       "summary_type": "extractive",
       "title_zh": "A backdoor in a LinkedIn job offer",
       "summary_zh": "A backdoor in a LinkedIn job offer"
-    },
-    {
-      "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
-      "summary": "I know, it&#x27;s kind of weird. What is a veterinarian doing creating an analysis tool for lawn problems?Frankly, the idea was born of my own lawn care struggles. Endless lawn care company fees without any actual improvement.",
-      "full_text": "I know, it&#x27;s kind of weird. What is a veterinarian doing creating an analysis tool for lawn problems?Frankly, the idea was born of my own lawn care struggles. Endless lawn care company fees without any actual improvement. Googling problems and finding generic solutions without regional considerations. One time I overseeded my grass not realizing I had to actually put soil down too.One day, I decided to run lawn pictures through AI and found some pretty helpful information. So I decided with",
-      "source": "hacker news",
-      "url": "https://grassdx.com/",
-      "published_at": "2026-06-15T17:56:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "65",
-      "item_id": "hn:48544823",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
-      "summary_zh": "I know, it&#x27;s kind of weird. What is a veterinarian doing creating an analysis tool for lawn problems?Frankly, the idea was born of my own lawn care struggles. Endless lawn care company fees without any actual improvement."
     },
     {
       "title": "The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers",
@@ -251,8 +427,8 @@
       "url": "http://arxiv.org/abs/2606.17028v1",
       "published_at": "2026-06-15T17:51:50Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.17028v1",
@@ -268,8 +444,8 @@
       "url": "http://arxiv.org/abs/2606.17020v1",
       "published_at": "2026-06-15T17:49:34Z",
       "tags": [
-        "paper",
         "llm",
+        "paper",
         "vision"
       ],
       "score": "📄",
@@ -286,10 +462,10 @@
       "url": "http://arxiv.org/abs/2606.17016v1",
       "published_at": "2026-06-15T17:46:50Z",
       "tags": [
-        "paper",
         "llm",
-        "tool",
-        "agent"
+        "paper",
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.17016v1",
@@ -322,11 +498,11 @@
       "url": "http://arxiv.org/abs/2606.17005v1",
       "published_at": "2026-06-15T17:38:39Z",
       "tags": [
-        "vision",
-        "tool",
-        "llm",
+        "agent",
         "paper",
-        "agent"
+        "llm",
+        "vision",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.17005v1",
@@ -360,8 +536,8 @@
       "url": "http://arxiv.org/abs/2606.16995v1",
       "published_at": "2026-06-15T17:31:22Z",
       "tags": [
-        "paper",
         "llm",
+        "paper",
         "agent"
       ],
       "score": "📄",
@@ -371,22 +547,6 @@
       "summary_zh": "Reinforcement Learning (RL) policies often degrade in unfamiliar environments because they lack explicit deliberation. We propose Plan, Align, Commit, Think (PACT), a hybrid architecture that combines a fast, reactive RL policy with a slow, deliberative Small Language Model (SLM) planner. PACT invokes the SLM asynchronously to generate and validate candidate action plans."
     },
     {
-      "title": "How TimescaleDB compresses time-series data",
-      "summary": "How TimescaleDB compresses time-series data",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-      "published_at": "2026-06-15T17:29:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "159",
-      "item_id": "hn:48544451",
-      "summary_type": "extractive",
-      "title_zh": "How TimescaleDB compresses time-series data",
-      "summary_zh": "How TimescaleDB compresses time-series data"
-    },
-    {
       "title": "Stable Menus of Public Goods: AI-Enabled Progress",
       "summary": "Using an open problem from the EC 2025 paper \"Stable Menus of Public Goods\" as a testbed, we conduct experiments to understand the effectiveness of different AI-for-EconCS research workflows. Specifically, we study three questions: Does providing human intuition in the prompt help? Does automated multi-turn interaction help?",
       "full_text": "",
@@ -394,8 +554,8 @@
       "url": "http://arxiv.org/abs/2606.16989v1",
       "published_at": "2026-06-15T17:28:44Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.16989v1",
@@ -411,10 +571,10 @@
       "url": "http://arxiv.org/abs/2606.16987v1",
       "published_at": "2026-06-15T17:24:07Z",
       "tags": [
-        "paper",
         "llm",
-        "tool",
-        "agent"
+        "paper",
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.16987v1",
@@ -480,8 +640,8 @@
       "url": "http://arxiv.org/abs/2606.16952v1",
       "published_at": "2026-06-15T16:54:02Z",
       "tags": [
-        "paper",
         "llm",
+        "paper",
         "tool"
       ],
       "score": "📄",
@@ -489,22 +649,6 @@
       "summary_type": "extractive",
       "title_zh": "Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data",
       "summary_zh": "The rapid adoption of generative AI and Large Language Models (LLMs) has spurred interest in synthetic data as a privacy-preserving alternative to sensitive real-world datasets. However, generating high-utility synthetic data often carries the risk of memorizing and regurgitating private information from the training corpus. In this work, we present a customizable empirical auditing framework designed to detect and explain such data disclosures."
-    },
-    {
-      "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
-      "summary": "I’m Nick, founder of Drafted (https:&#x2F;&#x2F;www.drafted.ai). We’re training models that generate residential architecture from structured design constraints.Product demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8QkJ7jNU9y4Residential architecture is still one of the most expensive, slow, and inaccessible creative processes in the world. Designing a custom home typically costs $10,000–$50,000 or more, takes months, and requires making major decisions before most people can even visuali",
-      "full_text": "I’m Nick, founder of Drafted (https:&#x2F;&#x2F;www.drafted.ai). We’re training models that generate residential architecture from structured design constraints.Product demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8QkJ7jNU9y4Residential architecture is still one of the most expensive, slow, and inaccessible creative processes in the world. Designing a custom home typically costs $10,000–$50,000 or more, takes months, and requires making major decisions before most people can even visuali",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=48543908",
-      "published_at": "2026-06-15T16:47:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "55",
-      "item_id": "hn:48543908",
-      "summary_type": "extractive",
-      "title_zh": "Launch HN: Drafted (YC P26) – Models for residential architecture",
-      "summary_zh": "I’m Nick, founder of Drafted (https:&#x2F;&#x2F;www.drafted.ai). We’re training models that generate residential architecture from structured design constraints.Product demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8QkJ7jNU9y4Residential architecture is still one of the most expensive, slow, and inaccessible creative processes in the world. Designing a custom home typically costs $10,000–$50,000 or more, takes months, and requires making major decisions before most people can even visuali"
     },
     {
       "title": "A Causal Model of Theory of Mind in Conflict for Artificial Intelligence",
@@ -515,8 +659,8 @@
       "published_at": "2026-06-15T16:44:42Z",
       "tags": [
         "paper",
-        "tool",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.16944v1",
@@ -532,8 +676,8 @@
       "url": "http://arxiv.org/abs/2606.16939v1",
       "published_at": "2026-06-15T16:40:43Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.16939v1",
@@ -582,8 +726,8 @@
       "url": "http://arxiv.org/abs/2606.16925v1",
       "published_at": "2026-06-15T16:27:14Z",
       "tags": [
-        "paper",
         "llm",
+        "paper",
         "vision",
         "tool"
       ],
@@ -611,22 +755,6 @@
       "summary_zh": "Simulation-based inference (SBI) of latent parameters is often hindered by simulator misspecification, the mismatch between simulated and real-world observations caused by inherent modeling simplifications. RoPE, the recent state-of-the-art for robust SBI, addresses this through optimal transport between learned representations of real and simulated observations, but requires ground-truth parameter calibration pairs that are typically unavailable in the very settings where SBI is needed. What pr"
     },
     {
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "summary": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://tinywind.io",
-      "published_at": "2026-06-15T16:15:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "870",
-      "item_id": "hn:48543475",
-      "summary_type": "extractive",
-      "title_zh": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "summary_zh": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)"
-    },
-    {
       "title": "Iroh 1.0",
       "summary": "Iroh 1.0",
       "full_text": "",
@@ -636,75 +764,27 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.2k",
+      "score": "🔥 1.3k",
       "item_id": "hn:48542480",
       "summary_type": "extractive",
       "title_zh": "Iroh 1.0",
       "summary_zh": "Iroh 1.0"
     },
     {
-      "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
-      "summary": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+      "title": "Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat",
+      "summary": "Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
-      "published_at": "2026-06-15T14:48:47+00:00",
+      "url": "https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/",
+      "published_at": "2026-06-14T00:59:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "315",
-      "item_id": "hn:48542132",
+      "score": "127",
+      "item_id": "hn:48523126",
       "summary_type": "extractive",
-      "title_zh": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
-      "summary_zh": "Copper transport drug restores memory and clears toxic Alzheimer's proteins"
-    },
-    {
-      "title": "Hetzner Price Adjustment",
-      "summary": "https:&#x2F;&#x2F;www.hetzner.com&#x2F;pressroom&#x2F;standardization-and-price-...",
-      "full_text": "https:&#x2F;&#x2F;www.hetzner.com&#x2F;pressroom&#x2F;standardization-and-price-...",
-      "source": "hacker news",
-      "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-      "published_at": "2026-06-15T13:19:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "465",
-      "item_id": "hn:48540844",
-      "summary_type": "extractive",
-      "title_zh": "Hetzner Price Adjustment",
-      "summary_zh": "https:&#x2F;&#x2F;www.hetzner.com&#x2F;pressroom&#x2F;standardization-and-price-..."
-    },
-    {
-      "title": "Fox to buy Roku",
-      "summary": "Fox to buy Roku",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
-      "published_at": "2026-06-15T12:50:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "326",
-      "item_id": "hn:48540499",
-      "summary_type": "extractive",
-      "title_zh": "Fox to buy Roku",
-      "summary_zh": "Fox to buy Roku"
-    },
-    {
-      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
-      "summary": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
-      "published_at": "2026-06-15T12:08:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "314",
-      "item_id": "hn:48540126",
-      "summary_type": "extractive",
-      "title_zh": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
-      "summary_zh": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B"
+      "title_zh": "Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat",
+      "summary_zh": "Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat"
     },
     {
       "title": "Getting Creative with Perlin Noise Fields",
@@ -716,123 +796,43 @@
       "tags": [
         "ai"
       ],
-      "score": "45",
+      "score": "119",
       "item_id": "hn:48522316",
       "summary_type": "extractive",
       "title_zh": "Getting Creative with Perlin Noise Fields",
       "summary_zh": "Getting Creative with Perlin Noise Fields"
     },
     {
-      "title": "Hans Schulz – The father of the VEF Minox lens?",
-      "summary": "Hans Schulz – The father of the VEF Minox lens?",
+      "title": "The history of butterfly swimming",
+      "summary": "The history of butterfly swimming",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://moments-of-now.com/hans-schulz-the-father-of-the-vef-minox-riga-lens/",
-      "published_at": "2026-06-13T22:43:06+00:00",
+      "url": "https://www.swimming.org/sport/history-of-butterfly/",
+      "published_at": "2026-06-13T21:00:45+00:00",
       "tags": [
         "ai"
       ],
-      "score": "3",
-      "item_id": "hn:48522233",
+      "score": "18",
+      "item_id": "hn:48521414",
       "summary_type": "extractive",
-      "title_zh": "Hans Schulz – The father of the VEF Minox lens?",
-      "summary_zh": "Hans Schulz – The father of the VEF Minox lens?"
+      "title_zh": "The history of butterfly swimming",
+      "summary_zh": "The history of butterfly swimming"
     },
     {
-      "title": "What every coder should know about gamma (2016)",
-      "summary": "What every coder should know about gamma (2016)",
+      "title": "An interview with an Apple emoji designer",
+      "summary": "An interview with an Apple emoji designer",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
-      "published_at": "2026-06-13T22:01:29+00:00",
+      "url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
+      "published_at": "2026-06-13T17:56:47+00:00",
       "tags": [
         "ai"
       ],
-      "score": "103",
-      "item_id": "hn:48521925",
+      "score": "63",
+      "item_id": "hn:48519723",
       "summary_type": "extractive",
-      "title_zh": "What every coder should know about gamma (2016)",
-      "summary_zh": "What every coder should know about gamma (2016)"
-    },
-    {
-      "title": "Show HN: SharkClean MCP",
-      "summary": "This is nothing special but it has been very very nice to kick off cleaning jobs remotely via MCP.  Working towards a genuinely smart home and this was a useful step in the right direction.",
-      "full_text": "This is nothing special but it has been very very nice to kick off cleaning jobs remotely via MCP.  Working towards a genuinely smart home and this was a useful step in the right direction.",
-      "source": "hacker news",
-      "url": "https://github.com/a-funk/sharkclean-mcp",
-      "published_at": "2026-06-12T16:09:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "10",
-      "item_id": "hn:48505910",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: SharkClean MCP",
-      "summary_zh": "This is nothing special but it has been very very nice to kick off cleaning jobs remotely via MCP.  Working towards a genuinely smart home and this was a useful step in the right direction."
-    },
-    {
-      "title": "Conquering Recursion (2019)",
-      "summary": "Conquering Recursion (2019)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://vector.org.uk/conquering-recursion/",
-      "published_at": "2026-06-11T19:06:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "3",
-      "item_id": "hn:48494959",
-      "summary_type": "extractive",
-      "title_zh": "Conquering Recursion (2019)",
-      "summary_zh": "Conquering Recursion (2019)"
-    },
-    {
-      "title": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
-      "summary": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://shonczinner.github.io/posts/embedding-prediction/",
-      "published_at": "2026-06-11T14:07:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "54",
-      "item_id": "hn:48490578",
-      "summary_type": "extractive",
-      "title_zh": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
-      "summary_zh": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis"
-    },
-    {
-      "title": "Cohere's First Model for Developers",
-      "summary": "Cohere's First Model for Developers",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://cohere.com/blog/north-mini-code",
-      "published_at": "2026-06-11T13:15:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "104",
-      "item_id": "hn:48489934",
-      "summary_type": "extractive",
-      "title_zh": "Cohere's First Model for Developers",
-      "summary_zh": "Cohere's First Model for Developers"
-    },
-    {
-      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-      "summary": "Hi HN, I&#x27;m Djoumé. I&#x27;ve been a developer for over 20 years, and like a lot of you I&#x27;ve been coding almost exclusively through an agent in the past few months.It&#x27;s been amazing to vibe code prototypes in any stack, but when it comes to building something reliable&#x2F;scalable, I couldn&#x27;t effectively guide the agent unless I knew the technology. And the scariest part is that I&#x27;m seeing a lot of my technical skills decreasing due to AI coding.Reflecting on my journey,",
-      "full_text": "Hi HN, I&#x27;m Djoumé. I&#x27;ve been a developer for over 20 years, and like a lot of you I&#x27;ve been coding almost exclusively through an agent in the past few months.It&#x27;s been amazing to vibe code prototypes in any stack, but when it comes to building something reliable&#x2F;scalable, I couldn&#x27;t effectively guide the agent unless I knew the technology. And the scariest part is that I&#x27;m seeing a lot of my technical skills decreasing due to AI coding.Reflecting on my journey,",
-      "source": "hacker news",
-      "url": "https://fata.dev",
-      "published_at": "2026-06-11T11:57:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "101",
-      "item_id": "hn:48489163",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-      "summary_zh": "Hi HN, I&#x27;m Djoumé. I&#x27;ve been a developer for over 20 years, and like a lot of you I&#x27;ve been coding almost exclusively through an agent in the past few months.It&#x27;s been amazing to vibe code prototypes in any stack, but when it comes to building something reliable&#x2F;scalable, I couldn&#x27;t effectively guide the agent unless I knew the technology. And the scariest part is that I&#x27;m seeing a lot of my technical skills decreasing due to AI coding.Reflecting on my journey,"
+      "title_zh": "An interview with an Apple emoji designer",
+      "summary_zh": "An interview with an Apple emoji designer"
     }
   ]
 }

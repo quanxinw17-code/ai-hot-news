@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-19T10:52:24.177017+00:00",
+  "updated_at": "2026-06-19T15:37:02.834970+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "The Future of the Con Is Here, It's Just Not Evenly Distributed",
+      "summary": "The Future of the Con Is Here, It's Just Not Evenly Distributed",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+      "published_at": "2026-06-19T14:43:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:48599196",
+      "summary_type": "extractive",
+      "title_zh": "The Future of the Con Is Here, It's Just Not Evenly Distributed",
+      "summary_zh": "The Future of the Con Is Here, It's Just Not Evenly Distributed"
+    },
+    {
+      "title": "How many of the 170k English words do you know?",
+      "summary": "How many of the 170k English words do you know?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://vocabowl-870366514258.us-west1.run.app/",
+      "published_at": "2026-06-19T13:51:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "70",
+      "item_id": "hn:48598586",
+      "summary_type": "extractive",
+      "title_zh": "How many of the 170k English words do you know?",
+      "summary_zh": "How many of the 170k English words do you know?"
+    },
+    {
+      "title": "The room the economy can't see",
+      "summary": "The room the economy can't see",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/",
+      "published_at": "2026-06-19T10:16:20+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "179",
+      "item_id": "hn:48596911",
+      "summary_type": "extractive",
+      "title_zh": "The room the economy can't see",
+      "summary_zh": "The room the economy can't see"
+    },
     {
       "title": "Norway greenlights first full-scale ship tunnel",
       "summary": "Norway greenlights first full-scale ship tunnel",
@@ -12,7 +60,7 @@
       "tags": [
         "ai"
       ],
-      "score": "5",
+      "score": "85",
       "item_id": "hn:48596910",
       "summary_type": "extractive",
       "title_zh": "Norway greenlights first full-scale ship tunnel",
@@ -28,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "155",
+      "score": "361",
       "item_id": "hn:48595511",
       "summary_type": "extractive",
       "title_zh": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
@@ -44,43 +92,11 @@
       "tags": [
         "ai"
       ],
-      "score": "70",
+      "score": "118",
       "item_id": "hn:48595331",
       "summary_type": "extractive",
       "title_zh": "So You Want to Define a Well-Known URI",
       "summary_zh": "So You Want to Define a Well-Known URI"
-    },
-    {
-      "title": "Fable Converted Pylint to Rust",
-      "summary": "Fable Converted Pylint to Rust",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://pypi.org/project/prylint/",
-      "published_at": "2026-06-19T04:21:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "55",
-      "item_id": "hn:48594733",
-      "summary_type": "extractive",
-      "title_zh": "Fable Converted Pylint to Rust",
-      "summary_zh": "Fable Converted Pylint to Rust"
-    },
-    {
-      "title": "Many Let's Encrypt renewals had errors today",
-      "summary": "Many Let's Encrypt renewals had errors today",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://letsencrypt.status.io/#2026",
-      "published_at": "2026-06-19T04:18:09+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "144",
-      "item_id": "hn:48594715",
-      "summary_type": "extractive",
-      "title_zh": "Many Let's Encrypt renewals had errors today",
-      "summary_zh": "Many Let's Encrypt renewals had errors today"
     },
     {
       "title": "Ice water drowning survival of young patient (2025)",
@@ -92,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "155",
+      "score": "186",
       "item_id": "hn:48594592",
       "summary_type": "extractive",
       "title_zh": "Ice water drowning survival of young patient (2025)",
@@ -124,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "110",
+      "score": "237",
       "item_id": "hn:48592832",
       "summary_type": "extractive",
       "title_zh": "The AirPods Effect",
@@ -140,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "202",
+      "score": "225",
       "item_id": "hn:48592163",
       "summary_type": "extractive",
       "title_zh": "Zero-Touch OAuth for MCP",
@@ -156,43 +172,11 @@
       "tags": [
         "ai"
       ],
-      "score": "353",
+      "score": "409",
       "item_id": "hn:48591348",
       "summary_type": "extractive",
       "title_zh": "Show HN: Are You in the Weights?",
       "summary_zh": "With more traffic moving off-web and into LLMs, I got curious about what traces we leave &quot;in the weights&quot;. My design partner and I built a site in the past few weeks that checks recognition across frontier and small models. It queries many of them in parallel, clusters the responses, and tells you how strongly they recognize you."
-    },
-    {
-      "title": "Zork name origin got an update on Wikipedia",
-      "summary": "Zork name origin got an update on Wikipedia",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.dpolakovic.space/blogs/zork-part2#update",
-      "published_at": "2026-06-18T20:27:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "80",
-      "item_id": "hn:48591066",
-      "summary_type": "extractive",
-      "title_zh": "Zork name origin got an update on Wikipedia",
-      "summary_zh": "Zork name origin got an update on Wikipedia"
-    },
-    {
-      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-      "summary": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260618212028&#x2F;https:&#x2F;&#x2F;www.thatp...https:&#x2F;&#x2F;archive.ph&#x2F;I4zjA",
-      "full_text": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260618212028&#x2F;https:&#x2F;&#x2F;www.thatp...https:&#x2F;&#x2F;archive.ph&#x2F;I4zjA",
-      "source": "hacker news",
-      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-      "published_at": "2026-06-18T18:31:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "401",
-      "item_id": "hn:48589501",
-      "summary_type": "extractive",
-      "title_zh": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-      "summary_zh": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260618212028&#x2F;https:&#x2F;&#x2F;www.thatp...https:&#x2F;&#x2F;archive.ph&#x2F;I4zjA"
     },
     {
       "title": "How Transparent is DiffusionGemma?",
@@ -202,9 +186,9 @@
       "url": "http://arxiv.org/abs/2606.20560v1",
       "published_at": "2026-06-18T17:59:46Z",
       "tags": [
-        "llm",
         "vision",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20560v1",
@@ -220,8 +204,8 @@
       "url": "http://arxiv.org/abs/2606.20554v1",
       "published_at": "2026-06-18T17:58:32Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20554v1",
@@ -254,9 +238,9 @@
       "url": "http://arxiv.org/abs/2606.20532v1",
       "published_at": "2026-06-18T17:47:32Z",
       "tags": [
-        "paper",
         "vision",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20532v1",
@@ -272,9 +256,9 @@
       "url": "http://arxiv.org/abs/2606.20529v1",
       "published_at": "2026-06-18T17:41:56Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20529v1",
@@ -290,8 +274,8 @@
       "url": "http://arxiv.org/abs/2606.20526v1",
       "published_at": "2026-06-18T17:39:00Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20526v1",
@@ -307,31 +291,15 @@
       "url": "http://arxiv.org/abs/2606.20523v1",
       "published_at": "2026-06-18T17:38:01Z",
       "tags": [
+        "tool",
         "llm",
-        "paper",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20523v1",
       "summary_type": "extractive",
       "title_zh": "SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm",
       "summary_zh": "Multimodal foundation models have advanced rapidly thanks to large optical benchmarks, but comparable resources for synthetic aperture radar (SAR) remain limited. Existing SAR--optical datasets largely rely on low-resolution, intensity-only Ground Range Detected~(GRD) products and do not preserve complex-valued SAR measurements or native acquisition geometry, which restricts physically grounded multimodal learning. In particular, large-scale public datasets combining very-high-resolution (VHR) S"
-    },
-    {
-      "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
-      "summary": "The Token Compression Illusion: Why I'm Skeptical of RTK",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
-      "published_at": "2026-06-18T17:37:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "100",
-      "item_id": "hn:48588755",
-      "summary_type": "extractive",
-      "title_zh": "The Token Compression Illusion: Why I'm Skeptical of RTK",
-      "summary_zh": "The Token Compression Illusion: Why I'm Skeptical of RTK"
     },
     {
       "title": "Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes",
@@ -341,9 +309,9 @@
       "url": "http://arxiv.org/abs/2606.20520v1",
       "published_at": "2026-06-18T17:36:46Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20520v1",
@@ -359,8 +327,8 @@
       "url": "http://arxiv.org/abs/2606.20518v1",
       "published_at": "2026-06-18T17:36:02Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20518v1",
@@ -376,8 +344,8 @@
       "url": "http://arxiv.org/abs/2606.20517v1",
       "published_at": "2026-06-18T17:35:57Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20517v1",
@@ -410,8 +378,8 @@
       "url": "http://arxiv.org/abs/2606.20508v1",
       "published_at": "2026-06-18T17:25:38Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20508v1",
@@ -427,8 +395,8 @@
       "url": "http://arxiv.org/abs/2606.20506v1",
       "published_at": "2026-06-18T17:24:27Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20506v1",
@@ -444,9 +412,9 @@
       "url": "http://arxiv.org/abs/2606.20502v1",
       "published_at": "2026-06-18T17:19:26Z",
       "tags": [
+        "tool",
         "llm",
-        "paper",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20502v1",
@@ -462,10 +430,10 @@
       "url": "http://arxiv.org/abs/2606.20493v1",
       "published_at": "2026-06-18T17:09:34Z",
       "tags": [
-        "llm",
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20493v1",
@@ -481,9 +449,9 @@
       "url": "http://arxiv.org/abs/2606.20485v1",
       "published_at": "2026-06-18T17:03:03Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20485v1",
@@ -499,10 +467,10 @@
       "url": "http://arxiv.org/abs/2606.20474v1",
       "published_at": "2026-06-18T16:54:07Z",
       "tags": [
-        "llm",
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20474v1",
@@ -518,9 +486,9 @@
       "url": "http://arxiv.org/abs/2606.20470v1",
       "published_at": "2026-06-18T16:50:28Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20470v1",
@@ -536,8 +504,8 @@
       "url": "http://arxiv.org/abs/2606.20459v1",
       "published_at": "2026-06-18T16:40:19Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20459v1",
@@ -553,8 +521,8 @@
       "url": "http://arxiv.org/abs/2606.20457v1",
       "published_at": "2026-06-18T16:40:02Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.20457v1",
@@ -572,7 +540,7 @@
       "tags": [
         "ai"
       ],
-      "score": "345",
+      "score": "378",
       "item_id": "hn:48585866",
       "summary_type": "extractive",
       "title_zh": "Ubiquiti: Enterprise NAS, Built on ZFS",
@@ -588,7 +556,7 @@
       "tags": [
         "ai"
       ],
-      "score": "176",
+      "score": "187",
       "item_id": "hn:48585739",
       "summary_type": "extractive",
       "title_zh": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
@@ -604,7 +572,7 @@
       "tags": [
         "ai"
       ],
-      "score": "54",
+      "score": "70",
       "item_id": "hn:48584761",
       "summary_type": "extractive",
       "title_zh": "Show HN: Talos – Open-source WASM interpreter for Lean",
@@ -620,7 +588,7 @@
       "tags": [
         "ai"
       ],
-      "score": "218",
+      "score": "236",
       "item_id": "hn:48584497",
       "summary_type": "extractive",
       "title_zh": "W Social, public institutions and the theater of European digital sovereignty",
@@ -636,7 +604,7 @@
       "tags": [
         "ai"
       ],
-      "score": "810",
+      "score": "879",
       "item_id": "hn:48583928",
       "summary_type": "extractive",
       "title_zh": "I found 10k GitHub repositories distributing Trojan malware",
@@ -652,7 +620,7 @@
       "tags": [
         "ai"
       ],
-      "score": "376",
+      "score": "405",
       "item_id": "hn:48583606",
       "summary_type": "extractive",
       "title_zh": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
@@ -668,7 +636,7 @@
       "tags": [
         "ai"
       ],
-      "score": "312",
+      "score": "320",
       "item_id": "hn:48583386",
       "summary_type": "extractive",
       "title_zh": "Hospitals and universities repurposing drugs at lower cost",
@@ -684,7 +652,7 @@
       "tags": [
         "ai"
       ],
-      "score": "428",
+      "score": "480",
       "item_id": "hn:48583356",
       "summary_type": "extractive",
       "title_zh": ".gitignore Isn't the only way to ignore files in Git",
@@ -700,11 +668,27 @@
       "tags": [
         "ai"
       ],
-      "score": "103",
+      "score": "134",
       "item_id": "hn:48570730",
       "summary_type": "extractive",
       "title_zh": "How Japan's railways stayed one while splitting apart",
       "summary_zh": "How Japan's railways stayed one while splitting apart"
+    },
+    {
+      "title": "Reinventing the Renaissance",
+      "summary": "Reinventing the Renaissance",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://drb.ie/article/reinventing-the-renaissance/",
+      "published_at": "2026-06-16T22:26:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "4",
+      "item_id": "hn:48563083",
+      "summary_type": "extractive",
+      "title_zh": "Reinventing the Renaissance",
+      "summary_zh": "Reinventing the Renaissance"
     },
     {
       "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
@@ -716,11 +700,27 @@
       "tags": [
         "ai"
       ],
-      "score": "194",
+      "score": "311",
       "item_id": "hn:48553388",
       "summary_type": "extractive",
       "title_zh": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
       "summary_zh": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)"
+    },
+    {
+      "title": "The Productivity J-Curve [pdf] (2018)",
+      "summary": "The Productivity J-Curve [pdf] (2018)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
+      "published_at": "2026-06-15T23:47:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "14",
+      "item_id": "hn:48548695",
+      "summary_type": "extractive",
+      "title_zh": "The Productivity J-Curve [pdf] (2018)",
+      "summary_zh": "The Productivity J-Curve [pdf] (2018)"
     },
     {
       "title": "Cell-based architecture for resilient payment systems",
@@ -732,7 +732,7 @@
       "tags": [
         "ai"
       ],
-      "score": "127",
+      "score": "138",
       "item_id": "hn:48547969",
       "summary_type": "extractive",
       "title_zh": "Cell-based architecture for resilient payment systems",
@@ -748,7 +748,7 @@
       "tags": [
         "ai"
       ],
-      "score": "5",
+      "score": "35",
       "item_id": "hn:48547658",
       "summary_type": "extractive",
       "title_zh": "SMTP Relay with Web Dashboard",
@@ -764,11 +764,27 @@
       "tags": [
         "ai"
       ],
-      "score": "40",
+      "score": "163",
       "item_id": "hn:48546890",
       "summary_type": "extractive",
       "title_zh": "Ten years of ClickHouse in open source",
       "summary_zh": "Ten years of ClickHouse in open source"
+    },
+    {
+      "title": "\"No Feigning Surprise\"",
+      "summary": "\"No Feigning Surprise\"",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://wizardzines.com/comics/surprise/",
+      "published_at": "2026-06-15T19:45:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "51",
+      "item_id": "hn:48546093",
+      "summary_type": "extractive",
+      "title_zh": "\"No Feigning Surprise\"",
+      "summary_zh": "\"No Feigning Surprise\""
     },
     {
       "title": "If your product is Great, it doesn't need to be Good (2010)",
@@ -780,27 +796,11 @@
       "tags": [
         "ai"
       ],
-      "score": "88",
+      "score": "122",
       "item_id": "hn:48544429",
       "summary_type": "extractive",
       "title_zh": "If your product is Great, it doesn't need to be Good (2010)",
       "summary_zh": "If your product is Great, it doesn't need to be Good (2010)"
-    },
-    {
-      "title": "The Raku Foundation is born",
-      "summary": "The Raku Foundation is born",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://raku.foundation",
-      "published_at": "2026-06-15T14:36:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "34",
-      "item_id": "hn:48541940",
-      "summary_type": "extractive",
-      "title_zh": "The Raku Foundation is born",
-      "summary_zh": "The Raku Foundation is born"
     },
     {
       "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
@@ -812,7 +812,7 @@
       "tags": [
         "ai"
       ],
-      "score": "98",
+      "score": "150",
       "item_id": "hn:48541062",
       "summary_type": "extractive",
       "title_zh": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
@@ -828,7 +828,7 @@
       "tags": [
         "ai"
       ],
-      "score": "23",
+      "score": "79",
       "item_id": "hn:48540779",
       "summary_type": "extractive",
       "title_zh": "Akse3D – open-source 3D modelling anyone can master",

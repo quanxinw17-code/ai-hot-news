@@ -1,38 +1,262 @@
 {
-  "updated_at": "2026-06-23T09:58:22.841076+00:00",
+  "updated_at": "2026-06-23T15:18:13.684503+00:00",
   "count": 50,
   "items": [
     {
-      "title": "AI Built a Nuke and Still Lost",
-      "summary": "AI Built a Nuke and Still Lost",
+      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+      "summary": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-      "published_at": "2026-06-23T08:16:45+00:00",
+      "url": "https://lift4d.github.io/",
+      "published_at": "2026-06-23T14:40:17+00:00",
       "tags": [
         "ai"
       ],
-      "score": "53",
-      "item_id": "hn:48641927",
+      "score": "10",
+      "item_id": "hn:48645721",
       "summary_type": "extractive",
-      "title_zh": "AI Built a Nuke and Still Lost",
-      "summary_zh": "AI Built a Nuke and Still Lost"
+      "title_zh": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+      "summary_zh": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild"
     },
     {
-      "title": "Show HN: Ideate a trading strategy with an Ex-Citadel Trader",
-      "summary": "Show HN: Ideate a trading strategy with an Ex-Citadel Trader",
-      "full_text": "",
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "summary": "Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \\draw[-&gt;] (0,0) -- (1,2); to draw lines, shapes, text, etc.",
+      "full_text": "Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \\draw[-&gt;] (0,0) -- (1,2); to draw lines, shapes, text, etc. Academics usually code up their figures by hand, so there is lots of twiddling around with the coordinates and recompiling until things look nice. I guess it’s a bit like SVG, but it’s more code than markup, for example it has loops with \\foreach.I built an open-source WYSIWYG TikZ editor (available for web and desktop) that allows you to",
       "source": "hacker news",
-      "url": "https://sean-but-ai.vercel.app/",
-      "published_at": "2026-06-23T07:57:16+00:00",
+      "url": "https://tikz.dev/editor/",
+      "published_at": "2026-06-23T14:24:21+00:00",
       "tags": [
         "ai"
       ],
-      "score": "13",
-      "item_id": "hn:48641763",
+      "score": "48",
+      "item_id": "hn:48645437",
       "summary_type": "extractive",
-      "title_zh": "Show HN: Ideate a trading strategy with an Ex-Citadel Trader",
-      "summary_zh": "Show HN: Ideate a trading strategy with an Ex-Citadel Trader"
+      "title_zh": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "summary_zh": "Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \\draw[-&gt;] (0,0) -- (1,2); to draw lines, shapes, text, etc."
+    },
+    {
+      "title": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
+      "summary": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/ilbertt/bun-sqlgen",
+      "published_at": "2026-06-23T14:20:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:48645390",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
+      "summary_zh": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM"
+    },
+    {
+      "title": "Elevated error rate across multiple models",
+      "summary": "Elevated error rate across multiple models",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "published_at": "2026-06-23T14:19:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "142",
+      "item_id": "hn:48645386",
+      "summary_type": "extractive",
+      "title_zh": "Elevated error rate across multiple models",
+      "summary_zh": "Elevated error rate across multiple models"
+    },
+    {
+      "title": "Spying on kids to save kids from spying is stupid",
+      "summary": "Spying on kids to save kids from spying is stupid",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+      "published_at": "2026-06-23T14:04:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "141",
+      "item_id": "hn:48645173",
+      "summary_type": "extractive",
+      "title_zh": "Spying on kids to save kids from spying is stupid",
+      "summary_zh": "Spying on kids to save kids from spying is stupid"
+    },
+    {
+      "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
+      "summary": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+      "published_at": "2026-06-23T13:36:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "98",
+      "item_id": "hn:48644781",
+      "summary_type": "extractive",
+      "title_zh": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
+      "summary_zh": "MSG Made Dossier on Activists Who Opposed Facial Recognition"
+    },
+    {
+      "title": "Lossless GIF recompression via exhaustive search",
+      "summary": "Lossless GIF recompression via exhaustive search",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.arusekk.pl/posts/lossless-gif-recompression/",
+      "published_at": "2026-06-23T12:56:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:48644257",
+      "summary_type": "extractive",
+      "title_zh": "Lossless GIF recompression via exhaustive search",
+      "summary_zh": "Lossless GIF recompression via exhaustive search"
+    },
+    {
+      "title": "80386 Early Start Memory Access",
+      "summary": "80386 Early Start Memory Access",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nand2mario.github.io/posts/2026/80386_early_start/",
+      "published_at": "2026-06-23T12:37:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "6",
+      "item_id": "hn:48644022",
+      "summary_type": "extractive",
+      "title_zh": "80386 Early Start Memory Access",
+      "summary_zh": "80386 Early Start Memory Access"
+    },
+    {
+      "title": "The Low-Tech AI of Elden Ring",
+      "summary": "The Low-Tech AI of Elden Ring",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "published_at": "2026-06-23T11:40:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "7",
+      "item_id": "hn:48643489",
+      "summary_type": "extractive",
+      "title_zh": "The Low-Tech AI of Elden Ring",
+      "summary_zh": "The Low-Tech AI of Elden Ring"
+    },
+    {
+      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "summary": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "published_at": "2026-06-23T11:35:05+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "237",
+      "item_id": "hn:48643426",
+      "summary_type": "extractive",
+      "title_zh": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "summary_zh": "Unlimited OCR: One-Shot Long-Horizon Parsing"
+    },
+    {
+      "title": "The Coming Loop",
+      "summary": "The Coming Loop",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+      "published_at": "2026-06-23T11:06:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "143",
+      "item_id": "hn:48643180",
+      "summary_type": "extractive",
+      "title_zh": "The Coming Loop",
+      "summary_zh": "The Coming Loop"
+    },
+    {
+      "title": "Apple is going to raise device prices, but when?",
+      "summary": "Apple is going to raise device prices, but when?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+      "published_at": "2026-06-23T10:54:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "64",
+      "item_id": "hn:48643079",
+      "summary_type": "extractive",
+      "title_zh": "Apple is going to raise device prices, but when?",
+      "summary_zh": "Apple is going to raise device prices, but when?"
+    },
+    {
+      "title": "Crypto in 2026: Oh, This Is the Bad Place",
+      "summary": "Crypto in 2026: Oh, This Is the Bad Place",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
+      "published_at": "2026-06-23T10:04:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "245",
+      "item_id": "hn:48642699",
+      "summary_type": "extractive",
+      "title_zh": "Crypto in 2026: Oh, This Is the Bad Place",
+      "summary_zh": "Crypto in 2026: Oh, This Is the Bad Place"
+    },
+    {
+      "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
+      "summary": "Shumai is an open source platform for uploading creative files, managing projects, collecting precise feedback, sharing work, and collaborating with AI agents, all in one simple creative-first workspace.I’ve always liked the product design of Frame.io, and I wanted to build an alternative that feels just as polished, while being open source and easy to self host.You can deploy Shumai with docker compose in just a few minutes. It can also be installed from npm, though you&#x27;ll need to provide ",
+      "full_text": "Shumai is an open source platform for uploading creative files, managing projects, collecting precise feedback, sharing work, and collaborating with AI agents, all in one simple creative-first workspace.I’ve always liked the product design of Frame.io, and I wanted to build an alternative that feels just as polished, while being open source and easy to self host.You can deploy Shumai with docker compose in just a few minutes. It can also be installed from npm, though you&#x27;ll need to provide ",
+      "source": "hacker news",
+      "url": "https://github.com/shumaiOne/shumai",
+      "published_at": "2026-06-23T10:02:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "29",
+      "item_id": "hn:48642686",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Shumai – open-source Frame.io alternative for creative work",
+      "summary_zh": "Shumai is an open source platform for uploading creative files, managing projects, collecting precise feedback, sharing work, and collaborating with AI agents, all in one simple creative-first workspace.I’ve always liked the product design of Frame.io, and I wanted to build an alternative that feels just as polished, while being open source and easy to self host.You can deploy Shumai with docker compose in just a few minutes. It can also be installed from npm, though you&#x27;ll need to provide "
+    },
+    {
+      "title": "The Traditional Vi",
+      "summary": "The Traditional Vi",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ex-vi.sourceforge.net/",
+      "published_at": "2026-06-23T09:00:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "43",
+      "item_id": "hn:48642232",
+      "summary_type": "extractive",
+      "title_zh": "The Traditional Vi",
+      "summary_zh": "The Traditional Vi"
+    },
+    {
+      "title": "Show HN: Neural Particle Automata",
+      "summary": "Neural CAs model self-organizing pattern formation on grids. Now the grid is gone. Each cell is an agentic particle that can move freely in space and change its state.While each particle follows a simple shared rule, many together can grow complex morphologies or form intricate patterns.",
+      "full_text": "Neural CAs model self-organizing pattern formation on grids. Now the grid is gone. Each cell is an agentic particle that can move freely in space and change its state.While each particle follows a simple shared rule, many together can grow complex morphologies or form intricate patterns. The resulting particle system as a whole can regenerate from damage and exhibits surprising emergent behavior.Try cutting the lizard and watch it heal itself!",
+      "source": "hacker news",
+      "url": "https://selforg-npa.github.io/",
+      "published_at": "2026-06-23T08:31:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "58",
+      "item_id": "hn:48642030",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Neural Particle Automata",
+      "summary_zh": "Neural CAs model self-organizing pattern formation on grids. Now the grid is gone. Each cell is an agentic particle that can move freely in space and change its state.While each particle follows a simple shared rule, many together can grow complex morphologies or form intricate patterns."
     },
     {
       "title": "The new HTTP QUERY method explained",
@@ -44,60 +268,11 @@
       "tags": [
         "ai"
       ],
-      "score": "104",
+      "score": "193",
       "item_id": "hn:48640974",
       "summary_type": "extractive",
       "title_zh": "The new HTTP QUERY method explained",
       "summary_zh": "The new HTTP QUERY method explained"
-    },
-    {
-      "title": "Matrix and Quaternion FAQ",
-      "summary": "Matrix and Quaternion FAQ",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://j3d.org/matrix_faq/matrfaq_latest.html",
-      "published_at": "2026-06-23T04:41:10+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "6",
-      "item_id": "hn:48640389",
-      "summary_type": "extractive",
-      "title_zh": "Matrix and Quaternion FAQ",
-      "summary_zh": "Matrix and Quaternion FAQ"
-    },
-    {
-      "title": "Who Does What? Team Topologies for the Agentic Platform",
-      "summary": "Who Does What? Team Topologies for the Agentic Platform",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html",
-      "published_at": "2026-06-23T04:40:08+00:00",
-      "tags": [
-        "agent",
-        "tool"
-      ],
-      "score": "13",
-      "item_id": "hn:48640382",
-      "summary_type": "extractive",
-      "title_zh": "Who Does What? Team Topologies for the Agentic Platform",
-      "summary_zh": "Who Does What? Team Topologies for the Agentic Platform"
-    },
-    {
-      "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
-      "summary": "This is ymawky, a now-dynamic web server written entirely in ARM64 Assembly. I&#x27;ve previously posted about ymawky here: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48080587In the past month and a half, I&#x27;ve made some pretty major improvements: I&#x27;ve added CGI scripting support, so the server now supports query strings and dynamic content; and I&#x27;ve fully ported ymawky to run on Linux, rather than macOS-only.In addition to GET&#x2F;PUT&#x2F;HEAD&#x2F;DELETE&#x2F;OPTIONS r",
-      "full_text": "This is ymawky, a now-dynamic web server written entirely in ARM64 Assembly. I&#x27;ve previously posted about ymawky here: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48080587In the past month and a half, I&#x27;ve made some pretty major improvements: I&#x27;ve added CGI scripting support, so the server now supports query strings and dynamic content; and I&#x27;ve fully ported ymawky to run on Linux, rather than macOS-only.In addition to GET&#x2F;PUT&#x2F;HEAD&#x2F;DELETE&#x2F;OPTIONS r",
-      "source": "hacker news",
-      "url": "https://github.com/imtomt/ymawky/tree/linux",
-      "published_at": "2026-06-23T04:28:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "20",
-      "item_id": "hn:48640278",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
-      "summary_zh": "This is ymawky, a now-dynamic web server written entirely in ARM64 Assembly. I&#x27;ve previously posted about ymawky here: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48080587In the past month and a half, I&#x27;ve made some pretty major improvements: I&#x27;ve added CGI scripting support, so the server now supports query strings and dynamic content; and I&#x27;ve fully ported ymawky to run on Linux, rather than macOS-only.In addition to GET&#x2F;PUT&#x2F;HEAD&#x2F;DELETE&#x2F;OPTIONS r"
     },
     {
       "title": "Will It Mythos?",
@@ -109,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "164",
+      "score": "231",
       "item_id": "hn:48640196",
       "summary_type": "extractive",
       "title_zh": "Will It Mythos?",
@@ -125,27 +300,11 @@
       "tags": [
         "ai"
       ],
-      "score": "190",
+      "score": "296",
       "item_id": "hn:48639240",
       "summary_type": "extractive",
       "title_zh": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
       "summary_zh": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO"
-    },
-    {
-      "title": "1,700 free online courses from top universities",
-      "summary": "1,700 free online courses from top universities",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.openculture.com/freeonlinecourses",
-      "published_at": "2026-06-23T01:54:38+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "200",
-      "item_id": "hn:48639184",
-      "summary_type": "extractive",
-      "title_zh": "1,700 free online courses from top universities",
-      "summary_zh": "1,700 free online courses from top universities"
     },
     {
       "title": "An Introduction to YOLO26",
@@ -157,7 +316,7 @@
       "tags": [
         "ai"
       ],
-      "score": "72",
+      "score": "91",
       "item_id": "hn:48639165",
       "summary_type": "extractive",
       "title_zh": "An Introduction to YOLO26",
@@ -173,7 +332,7 @@
       "tags": [
         "ai"
       ],
-      "score": "160",
+      "score": "226",
       "item_id": "hn:48638886",
       "summary_type": "extractive",
       "title_zh": "In praise of memcached",
@@ -189,7 +348,7 @@
       "tags": [
         "ai"
       ],
-      "score": "395",
+      "score": "506",
       "item_id": "hn:48636377",
       "summary_type": "extractive",
       "title_zh": "GLM-5.2 – How to Run Locally",
@@ -221,27 +380,11 @@
       "tags": [
         "ai"
       ],
-      "score": "178",
+      "score": "210",
       "item_id": "hn:48634778",
       "summary_type": "extractive",
       "title_zh": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
       "summary_zh": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components"
-    },
-    {
-      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
-      "summary": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ipvm.com/reports/police-chiefs-track",
-      "published_at": "2026-06-22T19:13:46+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "520",
-      "item_id": "hn:48634694",
-      "summary_type": "extractive",
-      "title_zh": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
-      "summary_zh": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed"
     },
     {
       "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
@@ -285,10 +428,10 @@
       "url": "http://arxiv.org/abs/2606.23678v1",
       "published_at": "2026-06-22T17:58:54Z",
       "tags": [
+        "paper",
         "llm",
-        "tool",
         "vision",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23678v1",
@@ -304,8 +447,8 @@
       "url": "http://arxiv.org/abs/2606.23676v1",
       "published_at": "2026-06-22T17:58:52Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23676v1",
@@ -338,8 +481,8 @@
       "url": "http://arxiv.org/abs/2606.23672v1",
       "published_at": "2026-06-22T17:57:08Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23672v1",
@@ -355,8 +498,8 @@
       "url": "http://arxiv.org/abs/2606.23670v1",
       "published_at": "2026-06-22T17:56:25Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23670v1",
@@ -406,8 +549,8 @@
       "url": "http://arxiv.org/abs/2606.23633v1",
       "published_at": "2026-06-22T17:23:33Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23633v1",
@@ -440,9 +583,9 @@
       "url": "http://arxiv.org/abs/2606.23626v1",
       "published_at": "2026-06-22T17:19:58Z",
       "tags": [
+        "paper",
         "llm",
-        "vision",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23626v1",
@@ -458,9 +601,9 @@
       "url": "http://arxiv.org/abs/2606.23617v1",
       "published_at": "2026-06-22T17:12:50Z",
       "tags": [
+        "paper",
         "llm",
-        "vision",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23617v1",
@@ -476,9 +619,9 @@
       "url": "http://arxiv.org/abs/2606.23611v1",
       "published_at": "2026-06-22T17:11:15Z",
       "tags": [
+        "paper",
         "llm",
-        "vision",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23611v1",
@@ -496,7 +639,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.5k",
+      "score": "🔥 1.7k",
       "item_id": "hn:48632884",
       "summary_type": "extractive",
       "title_zh": "Steam Machine launches today",
@@ -527,9 +670,9 @@
       "url": "http://arxiv.org/abs/2606.23608v1",
       "published_at": "2026-06-22T17:09:22Z",
       "tags": [
+        "paper",
         "llm",
-        "agent",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23608v1",
@@ -545,8 +688,8 @@
       "url": "http://arxiv.org/abs/2606.23607v1",
       "published_at": "2026-06-22T17:08:28Z",
       "tags": [
-        "llm",
         "paper",
+        "llm",
         "tool"
       ],
       "score": "📄",
@@ -563,9 +706,9 @@
       "url": "http://arxiv.org/abs/2606.23604v1",
       "published_at": "2026-06-22T17:06:32Z",
       "tags": [
+        "paper",
         "llm",
-        "vision",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23604v1",
@@ -598,8 +741,8 @@
       "url": "http://arxiv.org/abs/2606.23595v1",
       "published_at": "2026-06-22T17:02:09Z",
       "tags": [
-        "llm",
         "paper",
+        "llm",
         "tool"
       ],
       "score": "📄",
@@ -607,54 +750,6 @@
       "summary_type": "extractive",
       "title_zh": "SPIRAL: Learning to Search and Aggregate",
       "summary_zh": "Language model reasoning can be substantially improved at test time via scaffolds that scale inference compute across different primitives -- sequential reasoning within a trace, independently sampled parallel traces, and aggregation of multiple reasoning traces into a final response. During post-training, however, language models are optimized only for sequential reasoning within a single trace. We introduce Sequential-Parallel-Aggregative Reinforcement Learning (SPIRAL), a framework in which a"
-    },
-    {
-      "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
-      "summary": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-      "published_at": "2026-06-22T13:43:38+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "145",
-      "item_id": "hn:48630029",
-      "summary_type": "extractive",
-      "title_zh": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
-      "summary_zh": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
-    },
-    {
-      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
-      "summary": "Show HN: Got sick of ads, so I made my own logic puzzle site",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://puzzlelair.com/",
-      "published_at": "2026-06-22T12:23:46+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "203",
-      "item_id": "hn:48629213",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Got sick of ads, so I made my own logic puzzle site",
-      "summary_zh": "Show HN: Got sick of ads, so I made my own logic puzzle site"
-    },
-    {
-      "title": "Deno Desktop",
-      "summary": "Deno Desktop",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://docs.deno.com/runtime/desktop/",
-      "published_at": "2026-06-22T05:38:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.0k",
-      "item_id": "hn:48626137",
-      "summary_type": "extractive",
-      "title_zh": "Deno Desktop",
-      "summary_zh": "Deno Desktop"
     },
     {
       "title": "8086 Segmented Memory was a good idea",
@@ -666,107 +761,43 @@
       "tags": [
         "ai"
       ],
-      "score": "15",
+      "score": "49",
       "item_id": "hn:48619125",
       "summary_type": "extractive",
       "title_zh": "8086 Segmented Memory was a good idea",
       "summary_zh": "8086 Segmented Memory was a good idea"
     },
     {
-      "title": "Improvements to Std:Format in C++26",
-      "summary": "Improvements to Std:Format in C++26",
+      "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
+      "summary": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
-      "published_at": "2026-06-21T06:26:48+00:00",
+      "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+      "published_at": "2026-06-20T23:33:19+00:00",
       "tags": [
         "ai"
       ],
-      "score": "21",
-      "item_id": "hn:48616182",
+      "score": "135",
+      "item_id": "hn:48614097",
       "summary_type": "extractive",
-      "title_zh": "Improvements to Std:Format in C++26",
-      "summary_zh": "Improvements to Std:Format in C++26"
+      "title_zh": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
+      "summary_zh": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times"
     },
     {
-      "title": "How Lume Works: The Retrieval Primitives",
-      "summary": "How Lume Works: The Retrieval Primitives",
+      "title": "Epidurals are a miracle technology",
+      "summary": "Epidurals are a miracle technology",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://deepbluedynamics.com/blog/lume-retrieval-primitives",
-      "published_at": "2026-06-20T17:44:50+00:00",
+      "url": "https://worksinprogress.co/issue/the-wonder-of-epidurals/",
+      "published_at": "2026-06-20T16:24:44+00:00",
       "tags": [
         "ai"
       ],
-      "score": "6",
-      "item_id": "hn:48611251",
+      "score": "66",
+      "item_id": "hn:48610475",
       "summary_type": "extractive",
-      "title_zh": "How Lume Works: The Retrieval Primitives",
-      "summary_zh": "How Lume Works: The Retrieval Primitives"
-    },
-    {
-      "title": "Canyon HUD helmet for road riding",
-      "summary": "Canyon HUD helmet for road riding",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/",
-      "published_at": "2026-06-20T13:33:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "97",
-      "item_id": "hn:48609129",
-      "summary_type": "extractive",
-      "title_zh": "Canyon HUD helmet for road riding",
-      "summary_zh": "Canyon HUD helmet for road riding"
-    },
-    {
-      "title": "Cyberdecks, going analog, and convivial technology",
-      "summary": "Cyberdecks, going analog, and convivial technology",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
-      "published_at": "2026-06-20T02:29:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "106",
-      "item_id": "hn:48605776",
-      "summary_type": "extractive",
-      "title_zh": "Cyberdecks, going analog, and convivial technology",
-      "summary_zh": "Cyberdecks, going analog, and convivial technology"
-    },
-    {
-      "title": "Help I accidentally a wigglegram",
-      "summary": "Help I accidentally a wigglegram",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lmao.center/blog/wiggle-accidents/",
-      "published_at": "2026-06-20T01:55:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "533",
-      "item_id": "hn:48605561",
-      "summary_type": "extractive",
-      "title_zh": "Help I accidentally a wigglegram",
-      "summary_zh": "Help I accidentally a wigglegram"
-    },
-    {
-      "title": "Windows NT for GameCube/Wii",
-      "summary": "Windows NT for GameCube/Wii",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/Wack0/entii-for-workcubes",
-      "published_at": "2026-06-19T13:51:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "73",
-      "item_id": "hn:48598591",
-      "summary_type": "extractive",
-      "title_zh": "Windows NT for GameCube/Wii",
-      "summary_zh": "Windows NT for GameCube/Wii"
+      "title_zh": "Epidurals are a miracle technology",
+      "summary_zh": "Epidurals are a miracle technology"
     },
     {
       "title": "My Mathematical Regression",
@@ -778,7 +809,7 @@
       "tags": [
         "ai"
       ],
-      "score": "307",
+      "score": "337",
       "item_id": "hn:48597221",
       "summary_type": "extractive",
       "title_zh": "My Mathematical Regression",
@@ -794,43 +825,11 @@
       "tags": [
         "ai"
       ],
-      "score": "32",
+      "score": "158",
       "item_id": "hn:48596488",
       "summary_type": "extractive",
       "title_zh": "Plotnine",
       "summary_zh": "Plotnine"
-    },
-    {
-      "title": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
-      "summary": "I built this because I kept generating HTML&#x2F;Markdown reports from Claude Code&#x2F;Codex and needed a permanent share link instead of a localhost tunnel. Pagecast is a local CLI that publishes those files to your own Cloudflare Pages account.It supports Markdown and HTML, stable URLs, renaming, republishing to the same URL, and watch mode for continuous updates to same file. It is MIT licensed.The main design choice is that there is no hosted Pagecast account.",
-      "full_text": "I built this because I kept generating HTML&#x2F;Markdown reports from Claude Code&#x2F;Codex and needed a permanent share link instead of a localhost tunnel. Pagecast is a local CLI that publishes those files to your own Cloudflare Pages account.It supports Markdown and HTML, stable URLs, renaming, republishing to the same URL, and watch mode for continuous updates to same file. It is MIT licensed.The main design choice is that there is no hosted Pagecast account. It uses your Cloudflare accoun",
-      "source": "hacker news",
-      "url": "https://github.com/Amal-David/pagecast",
-      "published_at": "2026-06-18T19:42:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "51",
-      "item_id": "hn:48590505",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
-      "summary_zh": "I built this because I kept generating HTML&#x2F;Markdown reports from Claude Code&#x2F;Codex and needed a permanent share link instead of a localhost tunnel. Pagecast is a local CLI that publishes those files to your own Cloudflare Pages account.It supports Markdown and HTML, stable URLs, renaming, republishing to the same URL, and watch mode for continuous updates to same file. It is MIT licensed.The main design choice is that there is no hosted Pagecast account."
-    },
-    {
-      "title": "Package Managers need global hooks",
-      "summary": "Package Managers need global hooks",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/",
-      "published_at": "2026-06-18T15:20:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "25",
-      "item_id": "hn:48586767",
-      "summary_type": "extractive",
-      "title_zh": "Package Managers need global hooks",
-      "summary_zh": "Package Managers need global hooks"
     }
   ]
 }

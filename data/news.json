@@ -1,7 +1,119 @@
 {
-  "updated_at": "2026-06-23T15:18:13.684503+00:00",
+  "updated_at": "2026-06-23T20:16:30.242948+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Jerry's Map",
+      "summary": "https:&#x2F;&#x2F;www.openculture.com&#x2F;2026&#x2F;06&#x2F;this-man-has-been-drawin...",
+      "full_text": "https:&#x2F;&#x2F;www.openculture.com&#x2F;2026&#x2F;06&#x2F;this-man-has-been-drawin...",
+      "source": "hacker news",
+      "url": "http://www.jerrysmap.com/the-map",
+      "published_at": "2026-06-23T18:40:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "123",
+      "item_id": "hn:48649435",
+      "summary_type": "extractive",
+      "title_zh": "Jerry's Map",
+      "summary_zh": "https:&#x2F;&#x2F;www.openculture.com&#x2F;2026&#x2F;06&#x2F;this-man-has-been-drawin..."
+    },
+    {
+      "title": "Swift Package Index joins Apple",
+      "summary": "Swift Package Index joins Apple",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "published_at": "2026-06-23T18:00:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "89",
+      "item_id": "hn:48648779",
+      "summary_type": "extractive",
+      "title_zh": "Swift Package Index joins Apple",
+      "summary_zh": "Swift Package Index joins Apple"
+    },
+    {
+      "title": "FUTO Swipe – A new swipe typing model",
+      "summary": "FUTO Swipe – A new swipe typing model",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://swipe.futo.tech/",
+      "published_at": "2026-06-23T17:50:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "36",
+      "item_id": "hn:48648619",
+      "summary_type": "extractive",
+      "title_zh": "FUTO Swipe – A new swipe typing model",
+      "summary_zh": "FUTO Swipe – A new swipe typing model"
+    },
+    {
+      "title": "San Diego photologs from the 1970s",
+      "summary": "San Diego photologs from the 1970s",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
+      "published_at": "2026-06-23T16:55:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "112",
+      "item_id": "hn:48647823",
+      "summary_type": "extractive",
+      "title_zh": "San Diego photologs from the 1970s",
+      "summary_zh": "San Diego photologs from the 1970s"
+    },
+    {
+      "title": "F3",
+      "summary": "F3",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/future-file-format/f3",
+      "published_at": "2026-06-23T16:53:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "492",
+      "item_id": "hn:48647799",
+      "summary_type": "extractive",
+      "title_zh": "F3",
+      "summary_zh": "F3"
+    },
+    {
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "summary": "The worthlessness of Vitamin D is mildly exaggerated",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dynomight.net/vitamin-d/",
+      "published_at": "2026-06-23T16:30:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "78",
+      "item_id": "hn:48647486",
+      "summary_type": "extractive",
+      "title_zh": "The worthlessness of Vitamin D is mildly exaggerated",
+      "summary_zh": "The worthlessness of Vitamin D is mildly exaggerated"
+    },
+    {
+      "title": "Show HN: Treedocs: Documentation that automatically checks for staleness",
+      "summary": "Show HN: Treedocs: Documentation that automatically checks for staleness",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dandylyons.github.io/treedocs/",
+      "published_at": "2026-06-23T15:07:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:48646209",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Treedocs: Documentation that automatically checks for staleness",
+      "summary_zh": "Show HN: Treedocs: Documentation that automatically checks for staleness"
+    },
     {
       "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
       "summary": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
@@ -12,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "10",
+      "score": "86",
       "item_id": "hn:48645721",
       "summary_type": "extractive",
       "title_zh": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
@@ -28,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "48",
+      "score": "269",
       "item_id": "hn:48645437",
       "summary_type": "extractive",
       "title_zh": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
@@ -44,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "16",
+      "score": "49",
       "item_id": "hn:48645390",
       "summary_type": "extractive",
       "title_zh": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
@@ -60,15 +172,15 @@
       "tags": [
         "ai"
       ],
-      "score": "142",
+      "score": "184",
       "item_id": "hn:48645386",
       "summary_type": "extractive",
       "title_zh": "Elevated error rate across multiple models",
       "summary_zh": "Elevated error rate across multiple models"
     },
     {
-      "title": "Spying on kids to save kids from spying is stupid",
-      "summary": "Spying on kids to save kids from spying is stupid",
+      "title": "What we call \"age verification\" is actually mass surveillance",
+      "summary": "What we call \"age verification\" is actually mass surveillance",
       "full_text": "",
       "source": "hacker news",
       "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
@@ -76,11 +188,11 @@
       "tags": [
         "ai"
       ],
-      "score": "141",
+      "score": "640",
       "item_id": "hn:48645173",
       "summary_type": "extractive",
-      "title_zh": "Spying on kids to save kids from spying is stupid",
-      "summary_zh": "Spying on kids to save kids from spying is stupid"
+      "title_zh": "What we call \"age verification\" is actually mass surveillance",
+      "summary_zh": "What we call \"age verification\" is actually mass surveillance"
     },
     {
       "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
@@ -92,27 +204,11 @@
       "tags": [
         "ai"
       ],
-      "score": "98",
+      "score": "247",
       "item_id": "hn:48644781",
       "summary_type": "extractive",
       "title_zh": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
       "summary_zh": "MSG Made Dossier on Activists Who Opposed Facial Recognition"
-    },
-    {
-      "title": "Lossless GIF recompression via exhaustive search",
-      "summary": "Lossless GIF recompression via exhaustive search",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.arusekk.pl/posts/lossless-gif-recompression/",
-      "published_at": "2026-06-23T12:56:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:48644257",
-      "summary_type": "extractive",
-      "title_zh": "Lossless GIF recompression via exhaustive search",
-      "summary_zh": "Lossless GIF recompression via exhaustive search"
     },
     {
       "title": "80386 Early Start Memory Access",
@@ -124,7 +220,7 @@
       "tags": [
         "ai"
       ],
-      "score": "6",
+      "score": "36",
       "item_id": "hn:48644022",
       "summary_type": "extractive",
       "title_zh": "80386 Early Start Memory Access",
@@ -140,15 +236,15 @@
       "tags": [
         "ai"
       ],
-      "score": "7",
+      "score": "66",
       "item_id": "hn:48643489",
       "summary_type": "extractive",
       "title_zh": "The Low-Tech AI of Elden Ring",
       "summary_zh": "The Low-Tech AI of Elden Ring"
     },
     {
-      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
-      "summary": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "title": "Unlimited OCR: One-shot long-horizon parsing",
+      "summary": "Unlimited OCR: One-shot long-horizon parsing",
       "full_text": "",
       "source": "hacker news",
       "url": "https://github.com/baidu/Unlimited-OCR",
@@ -156,11 +252,11 @@
       "tags": [
         "ai"
       ],
-      "score": "237",
+      "score": "383",
       "item_id": "hn:48643426",
       "summary_type": "extractive",
-      "title_zh": "Unlimited OCR: One-Shot Long-Horizon Parsing",
-      "summary_zh": "Unlimited OCR: One-Shot Long-Horizon Parsing"
+      "title_zh": "Unlimited OCR: One-shot long-horizon parsing",
+      "summary_zh": "Unlimited OCR: One-shot long-horizon parsing"
     },
     {
       "title": "The Coming Loop",
@@ -172,27 +268,11 @@
       "tags": [
         "ai"
       ],
-      "score": "143",
+      "score": "228",
       "item_id": "hn:48643180",
       "summary_type": "extractive",
       "title_zh": "The Coming Loop",
       "summary_zh": "The Coming Loop"
-    },
-    {
-      "title": "Apple is going to raise device prices, but when?",
-      "summary": "Apple is going to raise device prices, but when?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
-      "published_at": "2026-06-23T10:54:56+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "64",
-      "item_id": "hn:48643079",
-      "summary_type": "extractive",
-      "title_zh": "Apple is going to raise device prices, but when?",
-      "summary_zh": "Apple is going to raise device prices, but when?"
     },
     {
       "title": "Crypto in 2026: Oh, This Is the Bad Place",
@@ -204,75 +284,11 @@
       "tags": [
         "ai"
       ],
-      "score": "245",
+      "score": "355",
       "item_id": "hn:48642699",
       "summary_type": "extractive",
       "title_zh": "Crypto in 2026: Oh, This Is the Bad Place",
       "summary_zh": "Crypto in 2026: Oh, This Is the Bad Place"
-    },
-    {
-      "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
-      "summary": "Shumai is an open source platform for uploading creative files, managing projects, collecting precise feedback, sharing work, and collaborating with AI agents, all in one simple creative-first workspace.I’ve always liked the product design of Frame.io, and I wanted to build an alternative that feels just as polished, while being open source and easy to self host.You can deploy Shumai with docker compose in just a few minutes. It can also be installed from npm, though you&#x27;ll need to provide ",
-      "full_text": "Shumai is an open source platform for uploading creative files, managing projects, collecting precise feedback, sharing work, and collaborating with AI agents, all in one simple creative-first workspace.I’ve always liked the product design of Frame.io, and I wanted to build an alternative that feels just as polished, while being open source and easy to self host.You can deploy Shumai with docker compose in just a few minutes. It can also be installed from npm, though you&#x27;ll need to provide ",
-      "source": "hacker news",
-      "url": "https://github.com/shumaiOne/shumai",
-      "published_at": "2026-06-23T10:02:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "29",
-      "item_id": "hn:48642686",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Shumai – open-source Frame.io alternative for creative work",
-      "summary_zh": "Shumai is an open source platform for uploading creative files, managing projects, collecting precise feedback, sharing work, and collaborating with AI agents, all in one simple creative-first workspace.I’ve always liked the product design of Frame.io, and I wanted to build an alternative that feels just as polished, while being open source and easy to self host.You can deploy Shumai with docker compose in just a few minutes. It can also be installed from npm, though you&#x27;ll need to provide "
-    },
-    {
-      "title": "The Traditional Vi",
-      "summary": "The Traditional Vi",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ex-vi.sourceforge.net/",
-      "published_at": "2026-06-23T09:00:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "43",
-      "item_id": "hn:48642232",
-      "summary_type": "extractive",
-      "title_zh": "The Traditional Vi",
-      "summary_zh": "The Traditional Vi"
-    },
-    {
-      "title": "Show HN: Neural Particle Automata",
-      "summary": "Neural CAs model self-organizing pattern formation on grids. Now the grid is gone. Each cell is an agentic particle that can move freely in space and change its state.While each particle follows a simple shared rule, many together can grow complex morphologies or form intricate patterns.",
-      "full_text": "Neural CAs model self-organizing pattern formation on grids. Now the grid is gone. Each cell is an agentic particle that can move freely in space and change its state.While each particle follows a simple shared rule, many together can grow complex morphologies or form intricate patterns. The resulting particle system as a whole can regenerate from damage and exhibits surprising emergent behavior.Try cutting the lizard and watch it heal itself!",
-      "source": "hacker news",
-      "url": "https://selforg-npa.github.io/",
-      "published_at": "2026-06-23T08:31:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "58",
-      "item_id": "hn:48642030",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Neural Particle Automata",
-      "summary_zh": "Neural CAs model self-organizing pattern formation on grids. Now the grid is gone. Each cell is an agentic particle that can move freely in space and change its state.While each particle follows a simple shared rule, many together can grow complex morphologies or form intricate patterns."
-    },
-    {
-      "title": "The new HTTP QUERY method explained",
-      "summary": "The new HTTP QUERY method explained",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://kreya.app/blog/new-http-query-method-explained/",
-      "published_at": "2026-06-23T06:05:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "193",
-      "item_id": "hn:48640974",
-      "summary_type": "extractive",
-      "title_zh": "The new HTTP QUERY method explained",
-      "summary_zh": "The new HTTP QUERY method explained"
     },
     {
       "title": "Will It Mythos?",
@@ -284,7 +300,7 @@
       "tags": [
         "ai"
       ],
-      "score": "231",
+      "score": "291",
       "item_id": "hn:48640196",
       "summary_type": "extractive",
       "title_zh": "Will It Mythos?",
@@ -300,27 +316,11 @@
       "tags": [
         "ai"
       ],
-      "score": "296",
+      "score": "357",
       "item_id": "hn:48639240",
       "summary_type": "extractive",
       "title_zh": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
       "summary_zh": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO"
-    },
-    {
-      "title": "An Introduction to YOLO26",
-      "summary": "An Introduction to YOLO26",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.roboflow.com/yolo26/",
-      "published_at": "2026-06-23T01:52:20+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "91",
-      "item_id": "hn:48639165",
-      "summary_type": "extractive",
-      "title_zh": "An Introduction to YOLO26",
-      "summary_zh": "An Introduction to YOLO26"
     },
     {
       "title": "In praise of memcached",
@@ -332,59 +332,11 @@
       "tags": [
         "ai"
       ],
-      "score": "226",
+      "score": "251",
       "item_id": "hn:48638886",
       "summary_type": "extractive",
       "title_zh": "In praise of memcached",
       "summary_zh": "In praise of memcached"
-    },
-    {
-      "title": "GLM-5.2 – How to Run Locally",
-      "summary": "GLM-5.2 – How to Run Locally",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "published_at": "2026-06-22T21:21:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "506",
-      "item_id": "hn:48636377",
-      "summary_type": "extractive",
-      "title_zh": "GLM-5.2 – How to Run Locally",
-      "summary_zh": "GLM-5.2 – How to Run Locally"
-    },
-    {
-      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "summary": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-      "published_at": "2026-06-22T21:00:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:48636125",
-      "summary_type": "extractive",
-      "title_zh": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "summary_zh": "Kyber (YC W23) Is Hiring a Head of Engineering"
-    },
-    {
-      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "summary": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/dorukkumkumoglu/optocamzero",
-      "published_at": "2026-06-22T19:19:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "210",
-      "item_id": "hn:48634778",
-      "summary_type": "extractive",
-      "title_zh": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "summary_zh": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components"
     },
     {
       "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
@@ -428,10 +380,10 @@
       "url": "http://arxiv.org/abs/2606.23678v1",
       "published_at": "2026-06-22T17:58:54Z",
       "tags": [
-        "paper",
-        "llm",
         "vision",
-        "tool"
+        "paper",
+        "tool",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23678v1",
@@ -506,6 +458,22 @@
       "summary_type": "extractive",
       "title_zh": "Tapered Language Models",
       "summary_zh": "Modern language models, including transformer, recurrent, and memory-based variants, share a common chassis: a stack of identical layers in which parameters are allocated uniformly across depth. This is a default inherited from the original transformer and largely unchanged since, yet a growing body of evidence suggests that layers contribute non-uniformly to the final output, with later layers refining the residual stream rather than transforming it. We ask whether parameter capacity should ref"
+    },
+    {
+      "title": "Finding the best dog treat with statistics",
+      "summary": "Finding the best dog treat with statistics",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
+      "published_at": "2026-06-22T17:46:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "120",
+      "item_id": "hn:48633410",
+      "summary_type": "extractive",
+      "title_zh": "Finding the best dog treat with statistics",
+      "summary_zh": "Finding the best dog treat with statistics"
     },
     {
       "title": "TailorMind: Towards Preference-Aligned Multimodal Content Generation",
@@ -583,9 +551,9 @@
       "url": "http://arxiv.org/abs/2606.23626v1",
       "published_at": "2026-06-22T17:19:58Z",
       "tags": [
+        "vision",
         "paper",
-        "llm",
-        "vision"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23626v1",
@@ -601,9 +569,9 @@
       "url": "http://arxiv.org/abs/2606.23617v1",
       "published_at": "2026-06-22T17:12:50Z",
       "tags": [
+        "vision",
         "paper",
-        "llm",
-        "vision"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23617v1",
@@ -619,9 +587,9 @@
       "url": "http://arxiv.org/abs/2606.23611v1",
       "published_at": "2026-06-22T17:11:15Z",
       "tags": [
+        "vision",
         "paper",
-        "llm",
-        "vision"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23611v1",
@@ -639,7 +607,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.7k",
+      "score": "🔥 1.8k",
       "item_id": "hn:48632884",
       "summary_type": "extractive",
       "title_zh": "Steam Machine launches today",
@@ -671,8 +639,8 @@
       "published_at": "2026-06-22T17:09:22Z",
       "tags": [
         "paper",
-        "llm",
-        "agent"
+        "agent",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23608v1",
@@ -689,8 +657,8 @@
       "published_at": "2026-06-22T17:08:28Z",
       "tags": [
         "paper",
-        "llm",
-        "tool"
+        "tool",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23607v1",
@@ -707,8 +675,8 @@
       "published_at": "2026-06-22T17:06:32Z",
       "tags": [
         "paper",
-        "llm",
-        "vision"
+        "vision",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23604v1",
@@ -742,8 +710,8 @@
       "published_at": "2026-06-22T17:02:09Z",
       "tags": [
         "paper",
-        "llm",
-        "tool"
+        "tool",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.23595v1",
@@ -752,20 +720,36 @@
       "summary_zh": "Language model reasoning can be substantially improved at test time via scaffolds that scale inference compute across different primitives -- sequential reasoning within a trace, independently sampled parallel traces, and aggregation of multiple reasoning traces into a final response. During post-training, however, language models are optimized only for sequential reasoning within a single trace. We introduce Sequential-Parallel-Aggregative Reinforcement Learning (SPIRAL), a framework in which a"
     },
     {
-      "title": "8086 Segmented Memory was a good idea",
-      "summary": "8086 Segmented Memory was a good idea",
-      "full_text": "",
+      "title": "The deadly rise of giant trucks and SUVs",
+      "summary": "Unlocked: https:&#x2F;&#x2F;www.nytimes.com&#x2F;interactive&#x2F;2026&#x2F;06&#x2F;21&#x2F;us&#x2F;trucks-suv...Related: ttps:&#x2F;&#x2F;www.thedrive.com&#x2F;news&#x2F;75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why",
+      "full_text": "Unlocked: https:&#x2F;&#x2F;www.nytimes.com&#x2F;interactive&#x2F;2026&#x2F;06&#x2F;21&#x2F;us&#x2F;trucks-suv...Related: ttps:&#x2F;&#x2F;www.thedrive.com&#x2F;news&#x2F;75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why",
       "source": "hacker news",
-      "url": "https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/",
-      "published_at": "2026-06-21T14:07:11+00:00",
+      "url": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html",
+      "published_at": "2026-06-21T22:42:32+00:00",
       "tags": [
         "ai"
       ],
-      "score": "49",
-      "item_id": "hn:48619125",
+      "score": "180",
+      "item_id": "hn:48623347",
       "summary_type": "extractive",
-      "title_zh": "8086 Segmented Memory was a good idea",
-      "summary_zh": "8086 Segmented Memory was a good idea"
+      "title_zh": "The deadly rise of giant trucks and SUVs",
+      "summary_zh": "Unlocked: https:&#x2F;&#x2F;www.nytimes.com&#x2F;interactive&#x2F;2026&#x2F;06&#x2F;21&#x2F;us&#x2F;trucks-suv...Related: ttps:&#x2F;&#x2F;www.thedrive.com&#x2F;news&#x2F;75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why"
+    },
+    {
+      "title": "Performance Improvements in Libffi",
+      "summary": "Performance Improvements in Libffi",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+      "published_at": "2026-06-21T14:18:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "26",
+      "item_id": "hn:48619207",
+      "summary_type": "extractive",
+      "title_zh": "Performance Improvements in Libffi",
+      "summary_zh": "Performance Improvements in Libffi"
     },
     {
       "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
@@ -777,43 +761,59 @@
       "tags": [
         "ai"
       ],
-      "score": "135",
+      "score": "196",
       "item_id": "hn:48614097",
       "summary_type": "extractive",
       "title_zh": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
       "summary_zh": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times"
     },
     {
-      "title": "Epidurals are a miracle technology",
-      "summary": "Epidurals are a miracle technology",
-      "full_text": "",
+      "title": "Solving Wordle using information theory",
+      "summary": "https:&#x2F;&#x2F;orb.binghamton.edu&#x2F;nejcs&#x2F;vol8&#x2F;iss1&#x2F;6&#x2F;",
+      "full_text": "https:&#x2F;&#x2F;orb.binghamton.edu&#x2F;nejcs&#x2F;vol8&#x2F;iss1&#x2F;6&#x2F;",
       "source": "hacker news",
-      "url": "https://worksinprogress.co/issue/the-wonder-of-epidurals/",
-      "published_at": "2026-06-20T16:24:44+00:00",
+      "url": "https://www.binghamton.edu/news/story/6327/s-m-a-r-t-these-researchers-used-math-to-crack-wordle",
+      "published_at": "2026-06-20T22:38:46+00:00",
       "tags": [
         "ai"
       ],
-      "score": "66",
-      "item_id": "hn:48610475",
+      "score": "37",
+      "item_id": "hn:48613650",
       "summary_type": "extractive",
-      "title_zh": "Epidurals are a miracle technology",
-      "summary_zh": "Epidurals are a miracle technology"
+      "title_zh": "Solving Wordle using information theory",
+      "summary_zh": "https:&#x2F;&#x2F;orb.binghamton.edu&#x2F;nejcs&#x2F;vol8&#x2F;iss1&#x2F;6&#x2F;"
     },
     {
-      "title": "My Mathematical Regression",
-      "summary": "My Mathematical Regression",
+      "title": "Open Source for IBM Z and LinuxONE",
+      "summary": "Open Source for IBM Z and LinuxONE",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-      "published_at": "2026-06-19T11:06:04+00:00",
+      "url": "https://community.ibm.com/community/user/blogs/elizabeth-k-joseph1/2026/06/18/linuxone-open-source-report-may-2026",
+      "published_at": "2026-06-20T10:32:35+00:00",
       "tags": [
         "ai"
       ],
-      "score": "337",
-      "item_id": "hn:48597221",
+      "score": "42",
+      "item_id": "hn:48608114",
       "summary_type": "extractive",
-      "title_zh": "My Mathematical Regression",
-      "summary_zh": "My Mathematical Regression"
+      "title_zh": "Open Source for IBM Z and LinuxONE",
+      "summary_zh": "Open Source for IBM Z and LinuxONE"
+    },
+    {
+      "title": "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
+      "summary": "https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Field-effect_transistor",
+      "full_text": "https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Field-effect_transistor",
+      "source": "hacker news",
+      "url": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
+      "published_at": "2026-06-19T11:03:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "53",
+      "item_id": "hn:48597201",
+      "summary_type": "extractive",
+      "title_zh": "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
+      "summary_zh": "https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Field-effect_transistor"
     },
     {
       "title": "Plotnine",
@@ -825,7 +825,7 @@
       "tags": [
         "ai"
       ],
-      "score": "158",
+      "score": "234",
       "item_id": "hn:48596488",
       "summary_type": "extractive",
       "title_zh": "Plotnine",

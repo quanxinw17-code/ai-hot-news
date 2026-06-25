@@ -1,38 +1,70 @@
 {
-  "updated_at": "2026-06-25T04:16:09.549261+00:00",
+  "updated_at": "2026-06-25T09:37:20.922225+00:00",
   "count": 50,
   "items": [
     {
-      "title": "GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box",
-      "summary": "GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box",
+      "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+      "summary": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box",
-      "published_at": "2026-06-25T03:54:50+00:00",
+      "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+      "published_at": "2026-06-25T08:07:54+00:00",
       "tags": [
         "ai"
       ],
-      "score": "9",
-      "item_id": "hn:48668662",
+      "score": "10",
+      "item_id": "hn:48670411",
       "summary_type": "extractive",
-      "title_zh": "GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box",
-      "summary_zh": "GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box"
+      "title_zh": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+      "summary_zh": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported"
     },
     {
-      "title": "Ask HN: Where is our profession (programmer) going?",
-      "summary": "I had been running a small (3 people) software company for about 4 years. Since closing down, I recently hung out at a friend&#x27;s company to see what they were working on (15 ppl). To preface: I&#x27;m a heavy user of Claude (rarely write code by hand), but what I&#x27;m seeing in person has been rather shocking to me, and I wanted to calibrate with others.In particular:\n- the code is not the source of truth anymore; it&#x27;s ask claude to write, and ask claude to explain\n- LoC, abstractions",
-      "full_text": "I had been running a small (3 people) software company for about 4 years. Since closing down, I recently hung out at a friend&#x27;s company to see what they were working on (15 ppl). To preface: I&#x27;m a heavy user of Claude (rarely write code by hand), but what I&#x27;m seeing in person has been rather shocking to me, and I wanted to calibrate with others.In particular:\n- the code is not the source of truth anymore; it&#x27;s ask claude to write, and ask claude to explain\n- LoC, abstractions",
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "summary": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "full_text": "",
       "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=48668199",
-      "published_at": "2026-06-25T02:41:47+00:00",
+      "url": "https://utaw.tech/news/wikipedia-recognition",
+      "published_at": "2026-06-25T07:02:37+00:00",
       "tags": [
         "ai"
       ],
-      "score": "22",
-      "item_id": "hn:48668199",
+      "score": "66",
+      "item_id": "hn:48669932",
       "summary_type": "extractive",
-      "title_zh": "Ask HN: Where is our profession (programmer) going?",
-      "summary_zh": "I had been running a small (3 people) software company for about 4 years. Since closing down, I recently hung out at a friend&#x27;s company to see what they were working on (15 ppl). To preface: I&#x27;m a heavy user of Claude (rarely write code by hand), but what I&#x27;m seeing in person has been rather shocking to me, and I wanted to calibrate with others.In particular:\n- the code is not the source of truth anymore; it&#x27;s ask claude to write, and ask claude to explain\n- LoC, abstractions"
+      "title_zh": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "summary_zh": "Wikipedia Workers in Britain set global first by seeking union recognition"
+    },
+    {
+      "title": "Half-Life 2 in a Browser",
+      "summary": "Half-Life 2 in a Browser",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://hl2.slqnt.dev/",
+      "published_at": "2026-06-25T06:00:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "216",
+      "item_id": "hn:48669534",
+      "summary_type": "extractive",
+      "title_zh": "Half-Life 2 in a Browser",
+      "summary_zh": "Half-Life 2 in a Browser"
+    },
+    {
+      "title": "The Unbearable Cheapness of Open Weight Models",
+      "summary": "The Unbearable Cheapness of Open Weight Models",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+      "published_at": "2026-06-25T02:51:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "65",
+      "item_id": "hn:48668255",
+      "summary_type": "extractive",
+      "title_zh": "The Unbearable Cheapness of Open Weight Models",
+      "summary_zh": "The Unbearable Cheapness of Open Weight Models"
     },
     {
       "title": "Medical students are using popular research tool to pump out misleading studies",
@@ -45,7 +77,7 @@
         "paper",
         "tool"
       ],
-      "score": "5",
+      "score": "51",
       "item_id": "hn:48668119",
       "summary_type": "extractive",
       "title_zh": "Medical students are using popular research tool to pump out misleading studies",
@@ -61,7 +93,7 @@
       "tags": [
         "ai"
       ],
-      "score": "40",
+      "score": "159",
       "item_id": "hn:48668033",
       "summary_type": "extractive",
       "title_zh": "Cloudflare launched self-managed OAuth for all",
@@ -77,47 +109,15 @@
       "tags": [
         "ai"
       ],
-      "score": "12",
+      "score": "99",
       "item_id": "hn:48668020",
       "summary_type": "extractive",
       "title_zh": "Zombie unicorns are haunting Silicon Valley",
       "summary_zh": "Zombie unicorns are haunting Silicon Valley"
     },
     {
-      "title": "Writers and Drugs",
-      "summary": "Writers and Drugs",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
-      "published_at": "2026-06-25T01:50:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "13",
-      "item_id": "hn:48667853",
-      "summary_type": "extractive",
-      "title_zh": "Writers and Drugs",
-      "summary_zh": "Writers and Drugs"
-    },
-    {
-      "title": "Exploring the internal representations of Pangram 3.3.2",
-      "summary": "Exploring the internal representations of Pangram 3.3.2",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.pangram.com/pangram-space",
-      "published_at": "2026-06-25T01:36:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "16",
-      "item_id": "hn:48667761",
-      "summary_type": "extractive",
-      "title_zh": "Exploring the internal representations of Pangram 3.3.2",
-      "summary_zh": "Exploring the internal representations of Pangram 3.3.2"
-    },
-    {
-      "title": "Ending All Respiratory Infections",
-      "summary": "Ending All Respiratory Infections",
+      "title": "Ending respiratory infections",
+      "summary": "Ending respiratory infections",
       "full_text": "",
       "source": "hacker news",
       "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
@@ -125,11 +125,11 @@
       "tags": [
         "ai"
       ],
-      "score": "87",
+      "score": "161",
       "item_id": "hn:48667588",
       "summary_type": "extractive",
-      "title_zh": "Ending All Respiratory Infections",
-      "summary_zh": "Ending All Respiratory Infections"
+      "title_zh": "Ending respiratory infections",
+      "summary_zh": "Ending respiratory infections"
     },
     {
       "title": "LuaJIT 3.0 proposed syntax extensions",
@@ -141,7 +141,7 @@
       "tags": [
         "ai"
       ],
-      "score": "92",
+      "score": "156",
       "item_id": "hn:48667336",
       "summary_type": "extractive",
       "title_zh": "LuaJIT 3.0 proposed syntax extensions",
@@ -157,27 +157,11 @@
       "tags": [
         "ai"
       ],
-      "score": "117",
+      "score": "228",
       "item_id": "hn:48666927",
       "summary_type": "extractive",
       "title_zh": "Blogging can just be stating the obvious",
       "summary_zh": "Blogging can just be stating the obvious"
-    },
-    {
-      "title": "Elastic lays off 7% of employees",
-      "summary": "Elastic lays off 7% of employees",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees",
-      "published_at": "2026-06-24T21:57:30+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "160",
-      "item_id": "hn:48666100",
-      "summary_type": "extractive",
-      "title_zh": "Elastic lays off 7% of employees",
-      "summary_zh": "Elastic lays off 7% of employees"
     },
     {
       "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
@@ -187,9 +171,9 @@
       "url": "http://arxiv.org/abs/2606.26095v1",
       "published_at": "2026-06-24T17:59:56Z",
       "tags": [
+        "llm",
         "paper",
-        "vision",
-        "llm"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26095v1",
@@ -205,8 +189,8 @@
       "url": "http://arxiv.org/abs/2606.26091v1",
       "published_at": "2026-06-24T17:59:02Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26091v1",
@@ -222,9 +206,9 @@
       "url": "http://arxiv.org/abs/2606.26080v1",
       "published_at": "2026-06-24T17:54:08Z",
       "tags": [
+        "llm",
         "agent",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26080v1",
@@ -290,8 +274,8 @@
       "url": "http://arxiv.org/abs/2606.26057v1",
       "published_at": "2026-06-24T17:32:27Z",
       "tags": [
-        "agent",
         "paper",
+        "agent",
         "tool"
       ],
       "score": "📄",
@@ -308,8 +292,8 @@
       "url": "http://arxiv.org/abs/2606.26050v1",
       "published_at": "2026-06-24T17:27:13Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26050v1",
@@ -325,9 +309,9 @@
       "url": "http://arxiv.org/abs/2606.26029v1",
       "published_at": "2026-06-24T17:00:05Z",
       "tags": [
+        "llm",
         "paper",
-        "vision",
-        "llm"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26029v1",
@@ -343,10 +327,10 @@
       "url": "http://arxiv.org/abs/2606.26028v1",
       "published_at": "2026-06-24T16:57:49Z",
       "tags": [
-        "agent",
+        "vision",
         "paper",
-        "tool",
-        "vision"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26028v1",
@@ -362,9 +346,9 @@
       "url": "http://arxiv.org/abs/2606.26021v1",
       "published_at": "2026-06-24T16:42:21Z",
       "tags": [
+        "llm",
         "paper",
-        "tool",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26021v1",
@@ -382,7 +366,7 @@
       "tags": [
         "ai"
       ],
-      "score": "194",
+      "score": "249",
       "item_id": "hn:48662381",
       "summary_type": "extractive",
       "title_zh": "The Xteink X4 E-Ink Reader",
@@ -396,10 +380,10 @@
       "url": "http://arxiv.org/abs/2606.26006v1",
       "published_at": "2026-06-24T16:23:18Z",
       "tags": [
-        "paper",
-        "tool",
         "vision",
-        "llm"
+        "llm",
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26006v1",
@@ -415,8 +399,8 @@
       "url": "http://arxiv.org/abs/2606.26002v1",
       "published_at": "2026-06-24T16:19:29Z",
       "tags": [
-        "agent",
         "paper",
+        "agent",
         "tool"
       ],
       "score": "📄",
@@ -433,8 +417,8 @@
       "url": "http://arxiv.org/abs/2606.25997v1",
       "published_at": "2026-06-24T16:08:33Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.25997v1",
@@ -450,8 +434,8 @@
       "url": "http://arxiv.org/abs/2606.25996v1",
       "published_at": "2026-06-24T16:08:31Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.25996v1",
@@ -484,9 +468,9 @@
       "url": "http://arxiv.org/abs/2606.25987v1",
       "published_at": "2026-06-24T15:58:11Z",
       "tags": [
+        "llm",
         "paper",
-        "tool",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.25987v1",
@@ -504,7 +488,7 @@
       "tags": [
         "ai"
       ],
-      "score": "508",
+      "score": "530",
       "item_id": "hn:48661825",
       "summary_type": "extractive",
       "title_zh": "There are a few things that I look back on as my mistakes in the early days",
@@ -518,9 +502,9 @@
       "url": "http://arxiv.org/abs/2606.25984v1",
       "published_at": "2026-06-24T15:53:20Z",
       "tags": [
+        "llm",
         "paper",
-        "tool",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.25984v1",
@@ -536,8 +520,8 @@
       "url": "http://arxiv.org/abs/2606.25978v1",
       "published_at": "2026-06-24T15:50:39Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.25978v1",
@@ -553,9 +537,9 @@
       "url": "http://arxiv.org/abs/2606.25973v1",
       "published_at": "2026-06-24T15:45:38Z",
       "tags": [
+        "llm",
         "paper",
-        "tool",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.25973v1",
@@ -571,10 +555,10 @@
       "url": "https://rubyllm.com/",
       "published_at": "2026-06-24T14:41:41+00:00",
       "tags": [
-        "tool",
-        "llm"
+        "llm",
+        "tool"
       ],
-      "score": "361",
+      "score": "388",
       "item_id": "hn:48660711",
       "summary_type": "extractive",
       "title_zh": "RubyLLM: A Ruby framework for all major AI providers",
@@ -590,7 +574,7 @@
       "tags": [
         "ai"
       ],
-      "score": "193",
+      "score": "221",
       "item_id": "hn:48660579",
       "summary_type": "extractive",
       "title_zh": "PR spam today looks like email spam in the early 2000s",
@@ -606,7 +590,7 @@
       "tags": [
         "ai"
       ],
-      "score": "241",
+      "score": "330",
       "item_id": "hn:48660178",
       "summary_type": "extractive",
       "title_zh": "45°C cooling design cuts data center water use to near zero",
@@ -622,7 +606,7 @@
       "tags": [
         "ai"
       ],
-      "score": "169",
+      "score": "197",
       "item_id": "hn:48659798",
       "summary_type": "extractive",
       "title_zh": "Qualcomm to Acquire Modular",
@@ -638,7 +622,7 @@
       "tags": [
         "ai"
       ],
-      "score": "222",
+      "score": "232",
       "item_id": "hn:48659165",
       "summary_type": "extractive",
       "title_zh": "Stealing Is a Skill",
@@ -654,27 +638,11 @@
       "tags": [
         "ai"
       ],
-      "score": "864",
+      "score": "881",
       "item_id": "hn:48657030",
       "summary_type": "extractive",
       "title_zh": "We’re making Bunny DNS free",
       "summary_zh": "We’re making Bunny DNS free"
-    },
-    {
-      "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going",
-      "summary": "Hi everyone,I got this idea for a game where, starting from a four letter word you need to go as deep as you can in your vocabulary, changing only one letter per word.bear -&gt; beer -&gt; peer...Each correct word gives you 1 pointEach incorrect word takes one life away from you, you start with 3",
-      "full_text": "Hi everyone,I got this idea for a game where, starting from a four letter word you need to go as deep as you can in your vocabulary, changing only one letter per word.bear -&gt; beer -&gt; peer...Each correct word gives you 1 pointEach incorrect word takes one life away from you, you start with 3",
-      "source": "hacker news",
-      "url": "https://victorribeiro.com/wordit/",
-      "published_at": "2026-06-23T18:57:36+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "14",
-      "item_id": "hn:48649697",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Wordit – Change One Letter, Keep the Chain Going",
-      "summary_zh": "Hi everyone,I got this idea for a game where, starting from a four letter word you need to go as deep as you can in your vocabulary, changing only one letter per word.bear -&gt; beer -&gt; peer...Each correct word gives you 1 pointEach incorrect word takes one life away from you, you start with 3"
     },
     {
       "title": "Krea 2: SOTA open-weights 12B image model",
@@ -687,11 +655,43 @@
         "paper",
         "vision"
       ],
-      "score": "356",
+      "score": "380",
       "item_id": "hn:48646659",
       "summary_type": "extractive",
       "title_zh": "Krea 2: SOTA open-weights 12B image model",
       "summary_zh": "Krea 2: SOTA open-weights 12B image model"
+    },
+    {
+      "title": "Show HN: Nimic – Pure Python as a systems language with AOT compilation",
+      "summary": "Show HN: Nimic – Pure Python as a systems language with AOT compilation",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/dima-quant/nimic",
+      "published_at": "2026-06-23T15:09:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "13",
+      "item_id": "hn:48646239",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Nimic – Pure Python as a systems language with AOT compilation",
+      "summary_zh": "Show HN: Nimic – Pure Python as a systems language with AOT compilation"
+    },
+    {
+      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "summary": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://markdy.com",
+      "published_at": "2026-06-23T15:00:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "57",
+      "item_id": "hn:48646077",
+      "summary_type": "extractive",
+      "title_zh": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "summary_zh": "Markdy: Like Mermaid Diagrams, but for Motion"
     },
     {
       "title": "Matt's Script Archive: The Scripts That Reshaped the Web",
@@ -703,11 +703,43 @@
       "tags": [
         "ai"
       ],
-      "score": "20",
+      "score": "47",
       "item_id": "hn:48639018",
       "summary_type": "extractive",
       "title_zh": "Matt's Script Archive: The Scripts That Reshaped the Web",
       "summary_zh": "Matt's Script Archive: The Scripts That Reshaped the Web"
+    },
+    {
+      "title": "Shall We Play a Coordination Game?",
+      "summary": "Shall We Play a Coordination Game?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://kellyshortridge.com/blog/posts/shall-we-play-a-coordination-game/",
+      "published_at": "2026-06-23T01:05:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "4",
+      "item_id": "hn:48638820",
+      "summary_type": "extractive",
+      "title_zh": "Shall We Play a Coordination Game?",
+      "summary_zh": "Shall We Play a Coordination Game?"
+    },
+    {
+      "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+      "summary": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/BohemiaInteractive/CWR",
+      "published_at": "2026-06-22T21:52:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "60",
+      "item_id": "hn:48636753",
+      "summary_type": "extractive",
+      "title_zh": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+      "summary_zh": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub"
     },
     {
       "title": "Dostoyevsky isn't difficult",
@@ -719,43 +751,11 @@
       "tags": [
         "ai"
       ],
-      "score": "72",
+      "score": "149",
       "item_id": "hn:48631366",
       "summary_type": "extractive",
       "title_zh": "Dostoyevsky isn't difficult",
       "summary_zh": "Dostoyevsky isn't difficult"
-    },
-    {
-      "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
-      "summary": "Originally we (Andrey, Marcus, Juho) built MonoLisa in 2020 as we realised there&#x27;s room for a better monospaced typeface for developers. The key insight was to make the glyphs slightly wider to make more room for design to make letters like m feel less cramped.Since then we&#x27;ve released a variable v2 (2022) and now we&#x27;re happy to expand the typeface with a new family called MonoLisa Text. The reasoning was to cover *other* use cases beyond coding with this proportional font.We hope",
-      "full_text": "Originally we (Andrey, Marcus, Juho) built MonoLisa in 2020 as we realised there&#x27;s room for a better monospaced typeface for developers. The key insight was to make the glyphs slightly wider to make more room for design to make letters like m feel less cramped.Since then we&#x27;ve released a variable v2 (2022) and now we&#x27;re happy to expand the typeface with a new family called MonoLisa Text. The reasoning was to cover *other* use cases beyond coding with this proportional font.We hope",
-      "source": "hacker news",
-      "url": "https://www.monolisa.dev/",
-      "published_at": "2026-06-22T14:05:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "166",
-      "item_id": "hn:48630318",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Monolisa v3 – a typeface for developers and creatives",
-      "summary_zh": "Originally we (Andrey, Marcus, Juho) built MonoLisa in 2020 as we realised there&#x27;s room for a better monospaced typeface for developers. The key insight was to make the glyphs slightly wider to make more room for design to make letters like m feel less cramped.Since then we&#x27;ve released a variable v2 (2022) and now we&#x27;re happy to expand the typeface with a new family called MonoLisa Text. The reasoning was to cover *other* use cases beyond coding with this proportional font.We hope"
-    },
-    {
-      "title": "Optimizing [sqlx:test] rebuild time",
-      "summary": "Optimizing [sqlx:test] rebuild time",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
-      "published_at": "2026-06-22T08:39:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "5",
-      "item_id": "hn:48627471",
-      "summary_type": "extractive",
-      "title_zh": "Optimizing [sqlx:test] rebuild time",
-      "summary_zh": "Optimizing [sqlx:test] rebuild time"
     },
     {
       "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
@@ -767,27 +767,11 @@
       "tags": [
         "ai"
       ],
-      "score": "75",
+      "score": "96",
       "item_id": "hn:48619159",
       "summary_type": "extractive",
       "title_zh": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
       "summary_zh": "Crawling BitTorrent DHTs for Fun and Profit [pdf]"
-    },
-    {
-      "title": "How the Fifth Lateran Council unlocked financial theory",
-      "summary": "How the Fifth Lateran Council unlocked financial theory",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/",
-      "published_at": "2026-06-20T19:01:05+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "58",
-      "item_id": "hn:48611940",
-      "summary_type": "extractive",
-      "title_zh": "How the Fifth Lateran Council unlocked financial theory",
-      "summary_zh": "How the Fifth Lateran Council unlocked financial theory"
     },
     {
       "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
@@ -799,7 +783,7 @@
       "tags": [
         "ai"
       ],
-      "score": "295",
+      "score": "333",
       "item_id": "hn:48606222",
       "summary_type": "extractive",
       "title_zh": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
@@ -815,11 +799,27 @@
       "tags": [
         "ai"
       ],
-      "score": "85",
+      "score": "90",
       "item_id": "hn:48603726",
       "summary_type": "extractive",
       "title_zh": "I can haz smoller NixOS ISOs?",
       "summary_zh": "I can haz smoller NixOS ISOs?"
+    },
+    {
+      "title": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
+      "summary": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://brainfrog.lol",
+      "published_at": "2026-06-19T12:57:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "37",
+      "item_id": "hn:48598051",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
+      "summary_zh": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?"
     },
     {
       "title": "Show HN: Write SaaS apps where users control where their data is stored",
@@ -831,7 +831,7 @@
       "tags": [
         "ai"
       ],
-      "score": "13",
+      "score": "47",
       "item_id": "hn:48595882",
       "summary_type": "extractive",
       "title_zh": "Show HN: Write SaaS apps where users control where their data is stored",

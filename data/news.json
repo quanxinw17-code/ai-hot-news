@@ -1,22 +1,118 @@
 {
-  "updated_at": "2026-06-25T09:37:20.922225+00:00",
+  "updated_at": "2026-06-25T14:48:32.928836+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
-      "summary": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
-      "full_text": "",
+      "title": "Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?",
+      "summary": "From the official information online, joining the e-Residency program and setting up an Estonian company seems relatively straightforward.I&#x27;m considering using an Estonian OÜ for a SaaS business and would love to hear from people who have actually gone through the process.What surprised you after becoming an e-resident and establishing your company? Were there recurring costs, compliance requirements, banking&#x2F;payment issues, tax complications, or other operational challenges you didn&#",
+      "full_text": "From the official information online, joining the e-Residency program and setting up an Estonian company seems relatively straightforward.I&#x27;m considering using an Estonian OÜ for a SaaS business and would love to hear from people who have actually gone through the process.What surprised you after becoming an e-resident and establishing your company? Were there recurring costs, compliance requirements, banking&#x2F;payment issues, tax complications, or other operational challenges you didn&#",
       "source": "hacker news",
-      "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
-      "published_at": "2026-06-25T08:07:54+00:00",
+      "url": "https://news.ycombinator.com/item?id=48673801",
+      "published_at": "2026-06-25T14:17:26+00:00",
       "tags": [
         "ai"
       ],
-      "score": "10",
-      "item_id": "hn:48670411",
+      "score": "6",
+      "item_id": "hn:48673801",
       "summary_type": "extractive",
-      "title_zh": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
-      "summary_zh": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported"
+      "title_zh": "Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?",
+      "summary_zh": "From the official information online, joining the e-Residency program and setting up an Estonian company seems relatively straightforward.I&#x27;m considering using an Estonian OÜ for a SaaS business and would love to hear from people who have actually gone through the process.What surprised you after becoming an e-resident and establishing your company? Were there recurring costs, compliance requirements, banking&#x2F;payment issues, tax complications, or other operational challenges you didn&#"
+    },
+    {
+      "title": "A Solution to A.I.'S Growing Power Demand: Homes",
+      "summary": "A Solution to A.I.'S Growing Power Demand: Homes",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html",
+      "published_at": "2026-06-25T13:57:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:48673503",
+      "summary_type": "extractive",
+      "title_zh": "A Solution to A.I.'S Growing Power Demand: Homes",
+      "summary_zh": "A Solution to A.I.'S Growing Power Demand: Homes"
+    },
+    {
+      "title": "Countries are competing to see which can carry out mass surveillance the best",
+      "summary": "Countries are competing to see which can carry out mass surveillance the best",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
+      "published_at": "2026-06-25T13:07:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "193",
+      "item_id": "hn:48672764",
+      "summary_type": "extractive",
+      "title_zh": "Countries are competing to see which can carry out mass surveillance the best",
+      "summary_zh": "Countries are competing to see which can carry out mass surveillance the best"
+    },
+    {
+      "title": "Show HN: Secs-man, a secrets manager you can (not) rely on",
+      "summary": "This is a tool to manage encrypted local backups of secrets. The core idea is that it aims to be usable without depending on it, meaning that even if the software disappeared from the face of Earth tomorrow, your data would still be recoverable.It also integrates nicely with NixOS (which is what I use, though it does not require NixOS to be used).I have summed up a bit of explanation and some answers to reasonable questions in a blog post: https:&#x2F;&#x2F;baldino.dev&#x2F;blog&#x2F;secs-man&#x",
+      "full_text": "This is a tool to manage encrypted local backups of secrets. The core idea is that it aims to be usable without depending on it, meaning that even if the software disappeared from the face of Earth tomorrow, your data would still be recoverable.It also integrates nicely with NixOS (which is what I use, though it does not require NixOS to be used).I have summed up a bit of explanation and some answers to reasonable questions in a blog post: https:&#x2F;&#x2F;baldino.dev&#x2F;blog&#x2F;secs-man&#x",
+      "source": "hacker news",
+      "url": "https://github.com/Fran314/secrets-manager-rs",
+      "published_at": "2026-06-25T12:30:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "12",
+      "item_id": "hn:48672389",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Secs-man, a secrets manager you can (not) rely on",
+      "summary_zh": "This is a tool to manage encrypted local backups of secrets. The core idea is that it aims to be usable without depending on it, meaning that even if the software disappeared from the face of Earth tomorrow, your data would still be recoverable.It also integrates nicely with NixOS (which is what I use, though it does not require NixOS to be used).I have summed up a bit of explanation and some answers to reasonable questions in a blog post: https:&#x2F;&#x2F;baldino.dev&#x2F;blog&#x2F;secs-man&#x"
+    },
+    {
+      "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
+      "summary": "Here is a tool I built initially for myself to help with my German and Greek language studies. It started as a hack for creating Anki cards from native language audio. It extracts the words, finds their base forms (lemmas) and groups the examples by the lemma.",
+      "full_text": "Here is a tool I built initially for myself to help with my German and Greek language studies. It started as a hack for creating Anki cards from native language audio. It extracts the words, finds their base forms (lemmas) and groups the examples by the lemma. At some point I realised that I have a transcription with word level timestamps that opens a lot of other opportunities. So I added a mode to click the first and last word in the transcript and it starts looping with the right gap and repe",
+      "source": "hacker news",
+      "url": "https://lingochunk.com/try",
+      "published_at": "2026-06-25T11:29:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "24",
+      "item_id": "hn:48671886",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Turn native language audio into flashcards and shadowing practice",
+      "summary_zh": "Here is a tool I built initially for myself to help with my German and Greek language studies. It started as a hack for creating Anki cards from native language audio. It extracts the words, finds their base forms (lemmas) and groups the examples by the lemma."
+    },
+    {
+      "title": "LastPass notifies users of yet another data breach",
+      "summary": "LastPass notifies users of yet another data breach",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "published_at": "2026-06-25T10:28:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "223",
+      "item_id": "hn:48671468",
+      "summary_type": "extractive",
+      "title_zh": "LastPass notifies users of yet another data breach",
+      "summary_zh": "LastPass notifies users of yet another data breach"
+    },
+    {
+      "title": "Dolphin Emulator Progress Release 2606",
+      "summary": "Dolphin Emulator Progress Release 2606",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+      "published_at": "2026-06-25T10:20:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "176",
+      "item_id": "hn:48671392",
+      "summary_type": "extractive",
+      "title_zh": "Dolphin Emulator Progress Release 2606",
+      "summary_zh": "Dolphin Emulator Progress Release 2606"
     },
     {
       "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
@@ -28,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "66",
+      "score": "158",
       "item_id": "hn:48669932",
       "summary_type": "extractive",
       "title_zh": "Wikipedia Workers in Britain set global first by seeking union recognition",
@@ -44,27 +140,11 @@
       "tags": [
         "ai"
       ],
-      "score": "216",
+      "score": "457",
       "item_id": "hn:48669534",
       "summary_type": "extractive",
       "title_zh": "Half-Life 2 in a Browser",
       "summary_zh": "Half-Life 2 in a Browser"
-    },
-    {
-      "title": "The Unbearable Cheapness of Open Weight Models",
-      "summary": "The Unbearable Cheapness of Open Weight Models",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-      "published_at": "2026-06-25T02:51:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "65",
-      "item_id": "hn:48668255",
-      "summary_type": "extractive",
-      "title_zh": "The Unbearable Cheapness of Open Weight Models",
-      "summary_zh": "The Unbearable Cheapness of Open Weight Models"
     },
     {
       "title": "Medical students are using popular research tool to pump out misleading studies",
@@ -77,7 +157,7 @@
         "paper",
         "tool"
       ],
-      "score": "51",
+      "score": "107",
       "item_id": "hn:48668119",
       "summary_type": "extractive",
       "title_zh": "Medical students are using popular research tool to pump out misleading studies",
@@ -93,43 +173,11 @@
       "tags": [
         "ai"
       ],
-      "score": "159",
+      "score": "261",
       "item_id": "hn:48668033",
       "summary_type": "extractive",
       "title_zh": "Cloudflare launched self-managed OAuth for all",
       "summary_zh": "Cloudflare launched self-managed OAuth for all"
-    },
-    {
-      "title": "Zombie unicorns are haunting Silicon Valley",
-      "summary": "Zombie unicorns are haunting Silicon Valley",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
-      "published_at": "2026-06-25T02:16:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "99",
-      "item_id": "hn:48668020",
-      "summary_type": "extractive",
-      "title_zh": "Zombie unicorns are haunting Silicon Valley",
-      "summary_zh": "Zombie unicorns are haunting Silicon Valley"
-    },
-    {
-      "title": "Ending respiratory infections",
-      "summary": "Ending respiratory infections",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
-      "published_at": "2026-06-25T01:14:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "161",
-      "item_id": "hn:48667588",
-      "summary_type": "extractive",
-      "title_zh": "Ending respiratory infections",
-      "summary_zh": "Ending respiratory infections"
     },
     {
       "title": "LuaJIT 3.0 proposed syntax extensions",
@@ -141,7 +189,7 @@
       "tags": [
         "ai"
       ],
-      "score": "156",
+      "score": "194",
       "item_id": "hn:48667336",
       "summary_type": "extractive",
       "title_zh": "LuaJIT 3.0 proposed syntax extensions",
@@ -157,7 +205,7 @@
       "tags": [
         "ai"
       ],
-      "score": "228",
+      "score": "341",
       "item_id": "hn:48666927",
       "summary_type": "extractive",
       "title_zh": "Blogging can just be stating the obvious",
@@ -171,9 +219,9 @@
       "url": "http://arxiv.org/abs/2606.26095v1",
       "published_at": "2026-06-24T17:59:56Z",
       "tags": [
-        "llm",
         "paper",
-        "vision"
+        "vision",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26095v1",
@@ -206,9 +254,9 @@
       "url": "http://arxiv.org/abs/2606.26080v1",
       "published_at": "2026-06-24T17:54:08Z",
       "tags": [
-        "llm",
         "agent",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26080v1",
@@ -274,8 +322,8 @@
       "url": "http://arxiv.org/abs/2606.26057v1",
       "published_at": "2026-06-24T17:32:27Z",
       "tags": [
-        "paper",
         "agent",
+        "paper",
         "tool"
       ],
       "score": "📄",
@@ -292,8 +340,8 @@
       "url": "http://arxiv.org/abs/2606.26050v1",
       "published_at": "2026-06-24T17:27:13Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26050v1",
@@ -309,9 +357,9 @@
       "url": "http://arxiv.org/abs/2606.26029v1",
       "published_at": "2026-06-24T17:00:05Z",
       "tags": [
-        "llm",
         "paper",
-        "vision"
+        "vision",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26029v1",
@@ -327,9 +375,9 @@
       "url": "http://arxiv.org/abs/2606.26028v1",
       "published_at": "2026-06-24T16:57:49Z",
       "tags": [
-        "vision",
-        "paper",
         "agent",
+        "paper",
+        "vision",
         "tool"
       ],
       "score": "📄",
@@ -346,8 +394,8 @@
       "url": "http://arxiv.org/abs/2606.26021v1",
       "published_at": "2026-06-24T16:42:21Z",
       "tags": [
-        "llm",
         "paper",
+        "llm",
         "tool"
       ],
       "score": "📄",
@@ -366,7 +414,7 @@
       "tags": [
         "ai"
       ],
-      "score": "249",
+      "score": "289",
       "item_id": "hn:48662381",
       "summary_type": "extractive",
       "title_zh": "The Xteink X4 E-Ink Reader",
@@ -380,9 +428,9 @@
       "url": "http://arxiv.org/abs/2606.26006v1",
       "published_at": "2026-06-24T16:23:18Z",
       "tags": [
+        "paper",
         "vision",
         "llm",
-        "paper",
         "tool"
       ],
       "score": "📄",
@@ -399,8 +447,8 @@
       "url": "http://arxiv.org/abs/2606.26002v1",
       "published_at": "2026-06-24T16:19:29Z",
       "tags": [
-        "paper",
         "agent",
+        "paper",
         "tool"
       ],
       "score": "📄",
@@ -434,8 +482,8 @@
       "url": "http://arxiv.org/abs/2606.25996v1",
       "published_at": "2026-06-24T16:08:31Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.25996v1",
@@ -468,8 +516,8 @@
       "url": "http://arxiv.org/abs/2606.25987v1",
       "published_at": "2026-06-24T15:58:11Z",
       "tags": [
-        "llm",
         "paper",
+        "llm",
         "tool"
       ],
       "score": "📄",
@@ -479,22 +527,6 @@
       "summary_zh": "Large language models (LLMs) attain remarkable surface fluency on code, yet they neither formally guarantee the syntactic validity of their output nor leverage the hierarchical structure defining the target language. While existing constrained-decoding frameworks address the former, they operate under rigid assumptions that preclude critical lexical mechanisms -- including context-sensitive lexing, maximal-munch tokenization, and keyword extraction -- and only approximate vocabulary masking, sac"
     },
     {
-      "title": "There are a few things that I look back on as my mistakes in the early days",
-      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2069799283369345247",
-      "full_text": "https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2069799283369345247",
-      "source": "hacker news",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-      "published_at": "2026-06-24T15:56:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "530",
-      "item_id": "hn:48661825",
-      "summary_type": "extractive",
-      "title_zh": "There are a few things that I look back on as my mistakes in the early days",
-      "summary_zh": "https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2069799283369345247"
-    },
-    {
       "title": "InvestPhilBench: A Multi-Layer Dynamic Benchmark for Evaluating Large Language Model Procedural Reasoning in Expert Investment Philosophy",
       "summary": "Large language models are increasingly deployed as investment research assistants, yet no benchmark tests whether they can accurately reconstruct and apply the specific procedural decision frameworks of expert investors. We introduce InvestPhilBench, a multi-layer dynamic benchmark spanning eight cognitive tiers, from principle identification (L1) to novel framework extrapolation (L8). The v0.6 release comprises 118 primary-source-verified investment principle cards, 25 decision framework cards ",
       "full_text": "",
@@ -502,8 +534,8 @@
       "url": "http://arxiv.org/abs/2606.25984v1",
       "published_at": "2026-06-24T15:53:20Z",
       "tags": [
-        "llm",
         "paper",
+        "llm",
         "tool"
       ],
       "score": "📄",
@@ -520,8 +552,8 @@
       "url": "http://arxiv.org/abs/2606.25978v1",
       "published_at": "2026-06-24T15:50:39Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.25978v1",
@@ -537,8 +569,8 @@
       "url": "http://arxiv.org/abs/2606.25973v1",
       "published_at": "2026-06-24T15:45:38Z",
       "tags": [
-        "llm",
         "paper",
+        "llm",
         "tool"
       ],
       "score": "📄",
@@ -558,7 +590,7 @@
         "llm",
         "tool"
       ],
-      "score": "388",
+      "score": "417",
       "item_id": "hn:48660711",
       "summary_type": "extractive",
       "title_zh": "RubyLLM: A Ruby framework for all major AI providers",
@@ -574,7 +606,7 @@
       "tags": [
         "ai"
       ],
-      "score": "221",
+      "score": "248",
       "item_id": "hn:48660579",
       "summary_type": "extractive",
       "title_zh": "PR spam today looks like email spam in the early 2000s",
@@ -590,7 +622,7 @@
       "tags": [
         "ai"
       ],
-      "score": "330",
+      "score": "410",
       "item_id": "hn:48660178",
       "summary_type": "extractive",
       "title_zh": "45°C cooling design cuts data center water use to near zero",
@@ -606,60 +638,43 @@
       "tags": [
         "ai"
       ],
-      "score": "197",
+      "score": "223",
       "item_id": "hn:48659798",
       "summary_type": "extractive",
       "title_zh": "Qualcomm to Acquire Modular",
       "summary_zh": "https:&#x2F;&#x2F;investor.qualcomm.com&#x2F;news-events&#x2F;press-releases&#x2F;new...https:&#x2F;&#x2F;www.modular.com&#x2F;blog&#x2F;qualcomm-to-acquire-modularhttps:&#x2F;&#x2F;x.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354, https:&#x2F;&#x2F;xcancel.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354"
     },
     {
-      "title": "Stealing Is a Skill",
-      "summary": "Stealing Is a Skill",
+      "title": "Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?",
+      "summary": "Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-      "published_at": "2026-06-24T13:08:52+00:00",
+      "url": "https://infoscience.epfl.ch/entities/publication/9a49779b-f9f8-448d-b3d1-737c78455309",
+      "published_at": "2026-06-24T09:50:58+00:00",
       "tags": [
         "ai"
       ],
-      "score": "232",
-      "item_id": "hn:48659165",
+      "score": "28",
+      "item_id": "hn:48657481",
       "summary_type": "extractive",
-      "title_zh": "Stealing Is a Skill",
-      "summary_zh": "Stealing Is a Skill"
+      "title_zh": "Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?",
+      "summary_zh": "Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?"
     },
     {
-      "title": "We’re making Bunny DNS free",
-      "summary": "We’re making Bunny DNS free",
+      "title": "You can't unit test for taste",
+      "summary": "You can't unit test for taste",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "published_at": "2026-06-24T08:50:41+00:00",
+      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+      "published_at": "2026-06-24T08:54:12+00:00",
       "tags": [
         "ai"
       ],
-      "score": "881",
-      "item_id": "hn:48657030",
+      "score": "106",
+      "item_id": "hn:48657049",
       "summary_type": "extractive",
-      "title_zh": "We’re making Bunny DNS free",
-      "summary_zh": "We’re making Bunny DNS free"
-    },
-    {
-      "title": "Krea 2: SOTA open-weights 12B image model",
-      "summary": "Krea 2: SOTA open-weights 12B image model",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.krea.ai/blog/krea-2-technical-report",
-      "published_at": "2026-06-23T15:31:21+00:00",
-      "tags": [
-        "paper",
-        "vision"
-      ],
-      "score": "380",
-      "item_id": "hn:48646659",
-      "summary_type": "extractive",
-      "title_zh": "Krea 2: SOTA open-weights 12B image model",
-      "summary_zh": "Krea 2: SOTA open-weights 12B image model"
+      "title_zh": "You can't unit test for taste",
+      "summary_zh": "You can't unit test for taste"
     },
     {
       "title": "Show HN: Nimic – Pure Python as a systems language with AOT compilation",
@@ -671,7 +686,7 @@
       "tags": [
         "ai"
       ],
-      "score": "13",
+      "score": "27",
       "item_id": "hn:48646239",
       "summary_type": "extractive",
       "title_zh": "Show HN: Nimic – Pure Python as a systems language with AOT compilation",
@@ -687,11 +702,27 @@
       "tags": [
         "ai"
       ],
-      "score": "57",
+      "score": "102",
       "item_id": "hn:48646077",
       "summary_type": "extractive",
       "title_zh": "Markdy: Like Mermaid Diagrams, but for Motion",
       "summary_zh": "Markdy: Like Mermaid Diagrams, but for Motion"
+    },
+    {
+      "title": "Words, Words, Words",
+      "summary": "Words, Words, Words",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
+      "published_at": "2026-06-23T05:58:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "23",
+      "item_id": "hn:48640919",
+      "summary_type": "extractive",
+      "title_zh": "Words, Words, Words",
+      "summary_zh": "Words, Words, Words"
     },
     {
       "title": "Matt's Script Archive: The Scripts That Reshaped the Web",
@@ -703,27 +734,11 @@
       "tags": [
         "ai"
       ],
-      "score": "47",
+      "score": "74",
       "item_id": "hn:48639018",
       "summary_type": "extractive",
       "title_zh": "Matt's Script Archive: The Scripts That Reshaped the Web",
       "summary_zh": "Matt's Script Archive: The Scripts That Reshaped the Web"
-    },
-    {
-      "title": "Shall We Play a Coordination Game?",
-      "summary": "Shall We Play a Coordination Game?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://kellyshortridge.com/blog/posts/shall-we-play-a-coordination-game/",
-      "published_at": "2026-06-23T01:05:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "4",
-      "item_id": "hn:48638820",
-      "summary_type": "extractive",
-      "title_zh": "Shall We Play a Coordination Game?",
-      "summary_zh": "Shall We Play a Coordination Game?"
     },
     {
       "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
@@ -735,7 +750,7 @@
       "tags": [
         "ai"
       ],
-      "score": "60",
+      "score": "152",
       "item_id": "hn:48636753",
       "summary_type": "extractive",
       "title_zh": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
@@ -751,27 +766,27 @@
       "tags": [
         "ai"
       ],
-      "score": "149",
+      "score": "191",
       "item_id": "hn:48631366",
       "summary_type": "extractive",
       "title_zh": "Dostoyevsky isn't difficult",
       "summary_zh": "Dostoyevsky isn't difficult"
     },
     {
-      "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
-      "summary": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+      "title": "The Disappearance of Japan's Animators",
+      "summary": "The Disappearance of Japan's Animators",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
-      "published_at": "2026-06-21T14:12:48+00:00",
+      "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
+      "published_at": "2026-06-21T16:51:47+00:00",
       "tags": [
         "ai"
       ],
-      "score": "96",
-      "item_id": "hn:48619159",
+      "score": "35",
+      "item_id": "hn:48620422",
       "summary_type": "extractive",
-      "title_zh": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
-      "summary_zh": "Crawling BitTorrent DHTs for Fun and Profit [pdf]"
+      "title_zh": "The Disappearance of Japan's Animators",
+      "summary_zh": "The Disappearance of Japan's Animators"
     },
     {
       "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
@@ -783,43 +798,27 @@
       "tags": [
         "ai"
       ],
-      "score": "333",
+      "score": "362",
       "item_id": "hn:48606222",
       "summary_type": "extractive",
       "title_zh": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
       "summary_zh": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding"
     },
     {
-      "title": "I can haz smoller NixOS ISOs?",
-      "summary": "I can haz smoller NixOS ISOs?",
-      "full_text": "",
+      "title": "Show HN: StartupsBR – A map of Brazilian startups",
+      "summary": "I couldn&#x27;t find a simple way to explore the Brazilian startup ecosystem geographically, as I can in other places like the Bay Area or London, so I built one.The map currently includes hundreds of startups from Sao Paulo and their job opportunities.The most interesting thing I&#x27;ve learned so far is how clustered startup activity is in a handful of areas.I&#x27;d love to hear your thoughts.The EN version: https:&#x2F;&#x2F;www.startupsbr.com&#x2F;sao-paulo",
+      "full_text": "I couldn&#x27;t find a simple way to explore the Brazilian startup ecosystem geographically, as I can in other places like the Bay Area or London, so I built one.The map currently includes hundreds of startups from Sao Paulo and their job opportunities.The most interesting thing I&#x27;ve learned so far is how clustered startup activity is in a handful of areas.I&#x27;d love to hear your thoughts.The EN version: https:&#x2F;&#x2F;www.startupsbr.com&#x2F;sao-paulo",
       "source": "hacker news",
-      "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
-      "published_at": "2026-06-19T21:55:24+00:00",
+      "url": "https://www.startupsbr.com/sao-paulo",
+      "published_at": "2026-06-19T16:33:02+00:00",
       "tags": [
         "ai"
       ],
-      "score": "90",
-      "item_id": "hn:48603726",
+      "score": "43",
+      "item_id": "hn:48600369",
       "summary_type": "extractive",
-      "title_zh": "I can haz smoller NixOS ISOs?",
-      "summary_zh": "I can haz smoller NixOS ISOs?"
-    },
-    {
-      "title": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
-      "summary": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://brainfrog.lol",
-      "published_at": "2026-06-19T12:57:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "37",
-      "item_id": "hn:48598051",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
-      "summary_zh": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?"
+      "title_zh": "Show HN: StartupsBR – A map of Brazilian startups",
+      "summary_zh": "I couldn&#x27;t find a simple way to explore the Brazilian startup ecosystem geographically, as I can in other places like the Bay Area or London, so I built one.The map currently includes hundreds of startups from Sao Paulo and their job opportunities.The most interesting thing I&#x27;ve learned so far is how clustered startup activity is in a handful of areas.I&#x27;d love to hear your thoughts.The EN version: https:&#x2F;&#x2F;www.startupsbr.com&#x2F;sao-paulo"
     },
     {
       "title": "Show HN: Write SaaS apps where users control where their data is stored",
@@ -831,7 +830,7 @@
       "tags": [
         "ai"
       ],
-      "score": "47",
+      "score": "63",
       "item_id": "hn:48595882",
       "summary_type": "extractive",
       "title_zh": "Show HN: Write SaaS apps where users control where their data is stored",

@@ -1,70 +1,198 @@
 {
-  "updated_at": "2026-06-25T14:48:32.928836+00:00",
+  "updated_at": "2026-06-25T20:14:37.297182+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?",
-      "summary": "From the official information online, joining the e-Residency program and setting up an Estonian company seems relatively straightforward.I&#x27;m considering using an Estonian OÜ for a SaaS business and would love to hear from people who have actually gone through the process.What surprised you after becoming an e-resident and establishing your company? Were there recurring costs, compliance requirements, banking&#x2F;payment issues, tax complications, or other operational challenges you didn&#",
-      "full_text": "From the official information online, joining the e-Residency program and setting up an Estonian company seems relatively straightforward.I&#x27;m considering using an Estonian OÜ for a SaaS business and would love to hear from people who have actually gone through the process.What surprised you after becoming an e-resident and establishing your company? Were there recurring costs, compliance requirements, banking&#x2F;payment issues, tax complications, or other operational challenges you didn&#",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=48673801",
-      "published_at": "2026-06-25T14:17:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "6",
-      "item_id": "hn:48673801",
-      "summary_type": "extractive",
-      "title_zh": "Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?",
-      "summary_zh": "From the official information online, joining the e-Residency program and setting up an Estonian company seems relatively straightforward.I&#x27;m considering using an Estonian OÜ for a SaaS business and would love to hear from people who have actually gone through the process.What surprised you after becoming an e-resident and establishing your company? Were there recurring costs, compliance requirements, banking&#x2F;payment issues, tax complications, or other operational challenges you didn&#"
-    },
-    {
-      "title": "A Solution to A.I.'S Growing Power Demand: Homes",
-      "summary": "A Solution to A.I.'S Growing Power Demand: Homes",
+      "title": "Besimple AI (YC P25) Is Hiring",
+      "summary": "Besimple AI (YC P25) Is Hiring",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html",
-      "published_at": "2026-06-25T13:57:13+00:00",
+      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+      "published_at": "2026-06-25T17:00:00+00:00",
       "tags": [
         "ai"
       ],
-      "score": "5",
-      "item_id": "hn:48673503",
+      "score": "1",
+      "item_id": "hn:48676256",
       "summary_type": "extractive",
-      "title_zh": "A Solution to A.I.'S Growing Power Demand: Homes",
-      "summary_zh": "A Solution to A.I.'S Growing Power Demand: Homes"
+      "title_zh": "Besimple AI (YC P25) Is Hiring",
+      "summary_zh": "Besimple AI (YC P25) Is Hiring"
     },
     {
-      "title": "Countries are competing to see which can carry out mass surveillance the best",
-      "summary": "Countries are competing to see which can carry out mass surveillance the best",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "summary": "Hi HN, Nick here. We’re launching OpenKnowledge (https:&#x2F;&#x2F;openknowledge.ai&#x2F;), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and Cursor. Available as MacOS app or CLI.",
+      "full_text": "Hi HN, Nick here. We’re launching OpenKnowledge (https:&#x2F;&#x2F;openknowledge.ai&#x2F;), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and Cursor. Available as MacOS app or CLI. Fully free&#x2F;local and OSS (https:&#x2F;&#x2F;github.com&#x2F;inkeep&#x2F;open-knowledge).We built this because we wanted a “Google docs” like experience for writing and sharing markdown files across our team. Obsidian is the best alternative we tried, but found i",
+      "source": "hacker news",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "published_at": "2026-06-25T16:04:46+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "51",
+      "item_id": "hn:48675435",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "summary_zh": "Hi HN, Nick here. We’re launching OpenKnowledge (https:&#x2F;&#x2F;openknowledge.ai&#x2F;), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and Cursor. Available as MacOS app or CLI."
+    },
+    {
+      "title": "Windows 10 quietly gets one more year of support and updates",
+      "summary": "Windows 10 quietly gets one more year of support and updates",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
-      "published_at": "2026-06-25T13:07:07+00:00",
+      "url": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
+      "published_at": "2026-06-25T15:59:54+00:00",
       "tags": [
         "ai"
       ],
-      "score": "193",
-      "item_id": "hn:48672764",
+      "score": "176",
+      "item_id": "hn:48675369",
       "summary_type": "extractive",
-      "title_zh": "Countries are competing to see which can carry out mass surveillance the best",
-      "summary_zh": "Countries are competing to see which can carry out mass surveillance the best"
+      "title_zh": "Windows 10 quietly gets one more year of support and updates",
+      "summary_zh": "Windows 10 quietly gets one more year of support and updates"
     },
     {
-      "title": "Show HN: Secs-man, a secrets manager you can (not) rely on",
-      "summary": "This is a tool to manage encrypted local backups of secrets. The core idea is that it aims to be usable without depending on it, meaning that even if the software disappeared from the face of Earth tomorrow, your data would still be recoverable.It also integrates nicely with NixOS (which is what I use, though it does not require NixOS to be used).I have summed up a bit of explanation and some answers to reasonable questions in a blog post: https:&#x2F;&#x2F;baldino.dev&#x2F;blog&#x2F;secs-man&#x",
-      "full_text": "This is a tool to manage encrypted local backups of secrets. The core idea is that it aims to be usable without depending on it, meaning that even if the software disappeared from the face of Earth tomorrow, your data would still be recoverable.It also integrates nicely with NixOS (which is what I use, though it does not require NixOS to be used).I have summed up a bit of explanation and some answers to reasonable questions in a blog post: https:&#x2F;&#x2F;baldino.dev&#x2F;blog&#x2F;secs-man&#x",
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "summary": "Preprint: https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdfhttps:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa",
+      "full_text": "Preprint: https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdfhttps:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa",
       "source": "hacker news",
-      "url": "https://github.com/Fran314/secrets-manager-rs",
-      "published_at": "2026-06-25T12:30:36+00:00",
+      "url": "https://scrollprize.org/firstscroll",
+      "published_at": "2026-06-25T15:48:07+00:00",
       "tags": [
         "ai"
       ],
-      "score": "12",
-      "item_id": "hn:48672389",
+      "score": "511",
+      "item_id": "hn:48675179",
       "summary_type": "extractive",
-      "title_zh": "Show HN: Secs-man, a secrets manager you can (not) rely on",
-      "summary_zh": "This is a tool to manage encrypted local backups of secrets. The core idea is that it aims to be usable without depending on it, meaning that even if the software disappeared from the face of Earth tomorrow, your data would still be recoverable.It also integrates nicely with NixOS (which is what I use, though it does not require NixOS to be used).I have summed up a bit of explanation and some answers to reasonable questions in a blog post: https:&#x2F;&#x2F;baldino.dev&#x2F;blog&#x2F;secs-man&#x"
+      "title_zh": "An entire Herculaneum scroll has been read for the first time",
+      "summary_zh": "Preprint: https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdfhttps:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa"
+    },
+    {
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "summary": "IBM debuts sub-1 nanometer chip technology",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "published_at": "2026-06-25T15:33:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "165",
+      "item_id": "hn:48674967",
+      "summary_type": "extractive",
+      "title_zh": "IBM debuts sub-1 nanometer chip technology",
+      "summary_zh": "IBM debuts sub-1 nanometer chip technology"
+    },
+    {
+      "title": "How physicists track and trap the elusive neutrino",
+      "summary": "How physicists track and trap the elusive neutrino",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
+      "published_at": "2026-06-25T15:11:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "40",
+      "item_id": "hn:48674619",
+      "summary_type": "extractive",
+      "title_zh": "How physicists track and trap the elusive neutrino",
+      "summary_zh": "How physicists track and trap the elusive neutrino"
+    },
+    {
+      "title": "OS9Map",
+      "summary": "OS9Map",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://yllan.org/software/OS9Map/",
+      "published_at": "2026-06-25T15:01:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "112",
+      "item_id": "hn:48674484",
+      "summary_type": "extractive",
+      "title_zh": "OS9Map",
+      "summary_zh": "OS9Map"
+    },
+    {
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
+      "summary": "Zig's new bitCast semantics and LLVM back end improvements",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "published_at": "2026-06-25T14:19:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "169",
+      "item_id": "hn:48673825",
+      "summary_type": "extractive",
+      "title_zh": "Zig's new bitCast semantics and LLVM back end improvements",
+      "summary_zh": "Zig's new bitCast semantics and LLVM back end improvements"
+    },
+    {
+      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "summary": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://hackernewstrends.com",
+      "published_at": "2026-06-25T14:08:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "534",
+      "item_id": "hn:48673671",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "summary_zh": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments"
+    },
+    {
+      "title": "Political bias in AI: Where the AI models stand",
+      "summary": "Political bias in AI: Where the AI models stand",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://trakkr.ai/bias",
+      "published_at": "2026-06-25T13:08:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "65",
+      "item_id": "hn:48672779",
+      "summary_type": "extractive",
+      "title_zh": "Political bias in AI: Where the AI models stand",
+      "summary_zh": "Political bias in AI: Where the AI models stand"
+    },
+    {
+      "title": "Apple raises prices of MacBooks, iPads",
+      "summary": "https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;06&#x2F;25&#x2F;apple-price-increases-mac-ipa...",
+      "full_text": "https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;06&#x2F;25&#x2F;apple-price-increases-mac-ipa...",
+      "source": "hacker news",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "published_at": "2026-06-25T13:02:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "451",
+      "item_id": "hn:48672732",
+      "summary_type": "extractive",
+      "title_zh": "Apple raises prices of MacBooks, iPads",
+      "summary_zh": "https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;06&#x2F;25&#x2F;apple-price-increases-mac-ipa..."
+    },
+    {
+      "title": "SoftBank 2026 AGM [pdf]",
+      "summary": "SoftBank 2026 AGM [pdf]",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://group.softbank/media/Project/sbg/sbg/pdf/ir/investors/shareholders/2026/shareholders-meeting_46_05_en.pdf",
+      "published_at": "2026-06-25T12:42:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "49",
+      "item_id": "hn:48672506",
+      "summary_type": "extractive",
+      "title_zh": "SoftBank 2026 AGM [pdf]",
+      "summary_zh": "SoftBank 2026 AGM [pdf]"
     },
     {
       "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
@@ -76,7 +204,7 @@
       "tags": [
         "ai"
       ],
-      "score": "24",
+      "score": "64",
       "item_id": "hn:48671886",
       "summary_type": "extractive",
       "title_zh": "Show HN: Turn native language audio into flashcards and shadowing practice",
@@ -92,43 +220,11 @@
       "tags": [
         "ai"
       ],
-      "score": "223",
+      "score": "425",
       "item_id": "hn:48671468",
       "summary_type": "extractive",
       "title_zh": "LastPass notifies users of yet another data breach",
       "summary_zh": "LastPass notifies users of yet another data breach"
-    },
-    {
-      "title": "Dolphin Emulator Progress Release 2606",
-      "summary": "Dolphin Emulator Progress Release 2606",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
-      "published_at": "2026-06-25T10:20:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "176",
-      "item_id": "hn:48671392",
-      "summary_type": "extractive",
-      "title_zh": "Dolphin Emulator Progress Release 2606",
-      "summary_zh": "Dolphin Emulator Progress Release 2606"
-    },
-    {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "summary": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://utaw.tech/news/wikipedia-recognition",
-      "published_at": "2026-06-25T07:02:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "158",
-      "item_id": "hn:48669932",
-      "summary_type": "extractive",
-      "title_zh": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "summary_zh": "Wikipedia Workers in Britain set global first by seeking union recognition"
     },
     {
       "title": "Half-Life 2 in a Browser",
@@ -140,32 +236,31 @@
       "tags": [
         "ai"
       ],
-      "score": "457",
+      "score": "600",
       "item_id": "hn:48669534",
       "summary_type": "extractive",
       "title_zh": "Half-Life 2 in a Browser",
       "summary_zh": "Half-Life 2 in a Browser"
     },
     {
-      "title": "Medical students are using popular research tool to pump out misleading studies",
-      "summary": "Medical students are using popular research tool to pump out misleading studies",
+      "title": "The unbearable cheapness of open weight models",
+      "summary": "The unbearable cheapness of open weight models",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-      "published_at": "2026-06-25T02:30:18+00:00",
+      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+      "published_at": "2026-06-25T02:51:29+00:00",
       "tags": [
-        "paper",
-        "tool"
+        "ai"
       ],
-      "score": "107",
-      "item_id": "hn:48668119",
+      "score": "124",
+      "item_id": "hn:48668255",
       "summary_type": "extractive",
-      "title_zh": "Medical students are using popular research tool to pump out misleading studies",
-      "summary_zh": "Medical students are using popular research tool to pump out misleading studies"
+      "title_zh": "The unbearable cheapness of open weight models",
+      "summary_zh": "The unbearable cheapness of open weight models"
     },
     {
-      "title": "Cloudflare launched self-managed OAuth for all",
-      "summary": "Cloudflare launched self-managed OAuth for all",
+      "title": "OAuth for all",
+      "summary": "OAuth for all",
       "full_text": "",
       "source": "hacker news",
       "url": "https://blog.cloudflare.com/oauth-for-all/",
@@ -173,27 +268,11 @@
       "tags": [
         "ai"
       ],
-      "score": "261",
+      "score": "342",
       "item_id": "hn:48668033",
       "summary_type": "extractive",
-      "title_zh": "Cloudflare launched self-managed OAuth for all",
-      "summary_zh": "Cloudflare launched self-managed OAuth for all"
-    },
-    {
-      "title": "LuaJIT 3.0 proposed syntax extensions",
-      "summary": "LuaJIT 3.0 proposed syntax extensions",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "published_at": "2026-06-25T00:41:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "194",
-      "item_id": "hn:48667336",
-      "summary_type": "extractive",
-      "title_zh": "LuaJIT 3.0 proposed syntax extensions",
-      "summary_zh": "LuaJIT 3.0 proposed syntax extensions"
+      "title_zh": "OAuth for all",
+      "summary_zh": "OAuth for all"
     },
     {
       "title": "Blogging can just be stating the obvious",
@@ -205,11 +284,27 @@
       "tags": [
         "ai"
       ],
-      "score": "341",
+      "score": "428",
       "item_id": "hn:48666927",
       "summary_type": "extractive",
       "title_zh": "Blogging can just be stating the obvious",
       "summary_zh": "Blogging can just be stating the obvious"
+    },
+    {
+      "title": "52-hertz whale",
+      "summary": "52-hertz whale",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://en.wikipedia.org/wiki/52-hertz_whale",
+      "published_at": "2026-06-24T20:17:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "76",
+      "item_id": "hn:48665093",
+      "summary_type": "extractive",
+      "title_zh": "52-hertz whale",
+      "summary_zh": "52-hertz whale"
     },
     {
       "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
@@ -219,9 +314,9 @@
       "url": "http://arxiv.org/abs/2606.26095v1",
       "published_at": "2026-06-24T17:59:56Z",
       "tags": [
+        "llm",
         "paper",
-        "vision",
-        "llm"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26095v1",
@@ -254,9 +349,9 @@
       "url": "http://arxiv.org/abs/2606.26080v1",
       "published_at": "2026-06-24T17:54:08Z",
       "tags": [
-        "agent",
+        "llm",
         "paper",
-        "llm"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26080v1",
@@ -322,9 +417,9 @@
       "url": "http://arxiv.org/abs/2606.26057v1",
       "published_at": "2026-06-24T17:32:27Z",
       "tags": [
-        "agent",
         "paper",
-        "tool"
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26057v1",
@@ -340,8 +435,8 @@
       "url": "http://arxiv.org/abs/2606.26050v1",
       "published_at": "2026-06-24T17:27:13Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26050v1",
@@ -357,9 +452,9 @@
       "url": "http://arxiv.org/abs/2606.26029v1",
       "published_at": "2026-06-24T17:00:05Z",
       "tags": [
+        "llm",
         "paper",
-        "vision",
-        "llm"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26029v1",
@@ -375,10 +470,10 @@
       "url": "http://arxiv.org/abs/2606.26028v1",
       "published_at": "2026-06-24T16:57:49Z",
       "tags": [
-        "agent",
         "paper",
         "vision",
-        "tool"
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26028v1",
@@ -394,8 +489,8 @@
       "url": "http://arxiv.org/abs/2606.26021v1",
       "published_at": "2026-06-24T16:42:21Z",
       "tags": [
-        "paper",
         "llm",
+        "paper",
         "tool"
       ],
       "score": "📄",
@@ -405,22 +500,6 @@
       "summary_zh": "Tabular foundation models are commonly assumed to present limited privacy concerns as they are often pre-trained on large collections of synthetic data. However, these models leverage in-context learning, where sensitive records may be provided directly at inference time as labelled context examples. In this paper, we demonstrate that predictions generated via the attention mechanism leak sufficient information to enable effective Membership Inference Attacks (MIAs)."
     },
     {
-      "title": "The Xteink X4 E-Ink Reader",
-      "summary": "The Xteink X4 E-Ink Reader",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-      "published_at": "2026-06-24T16:35:56+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "289",
-      "item_id": "hn:48662381",
-      "summary_type": "extractive",
-      "title_zh": "The Xteink X4 E-Ink Reader",
-      "summary_zh": "The Xteink X4 E-Ink Reader"
-    },
-    {
       "title": "FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation",
       "summary": "Vision-Language-Action (VLA) models are often constrained by the imitation ceiling imposed by sub-optimal data. While Reinforcement Learning (RL) fine-tuning can surpass this limit, it is notoriously sample inefficient. This challenge arises from two core issues: (1) catastrophic initial unlearning due to an unstable Q-function and (2) inefficient policy updates caused by low-quality exploration data, often forcing a reliance on costly human interventions.",
       "full_text": "",
@@ -428,9 +507,9 @@
       "url": "http://arxiv.org/abs/2606.26006v1",
       "published_at": "2026-06-24T16:23:18Z",
       "tags": [
+        "llm",
         "paper",
         "vision",
-        "llm",
         "tool"
       ],
       "score": "📄",
@@ -447,9 +526,9 @@
       "url": "http://arxiv.org/abs/2606.26002v1",
       "published_at": "2026-06-24T16:19:29Z",
       "tags": [
-        "agent",
         "paper",
-        "tool"
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.26002v1",
@@ -482,8 +561,8 @@
       "url": "http://arxiv.org/abs/2606.25996v1",
       "published_at": "2026-06-24T16:08:31Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.25996v1",
@@ -516,8 +595,8 @@
       "url": "http://arxiv.org/abs/2606.25987v1",
       "published_at": "2026-06-24T15:58:11Z",
       "tags": [
-        "paper",
         "llm",
+        "paper",
         "tool"
       ],
       "score": "📄",
@@ -534,8 +613,8 @@
       "url": "http://arxiv.org/abs/2606.25984v1",
       "published_at": "2026-06-24T15:53:20Z",
       "tags": [
-        "paper",
         "llm",
+        "paper",
         "tool"
       ],
       "score": "📄",
@@ -552,8 +631,8 @@
       "url": "http://arxiv.org/abs/2606.25978v1",
       "published_at": "2026-06-24T15:50:39Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.25978v1",
@@ -569,8 +648,8 @@
       "url": "http://arxiv.org/abs/2606.25973v1",
       "published_at": "2026-06-24T15:45:38Z",
       "tags": [
-        "paper",
         "llm",
+        "paper",
         "tool"
       ],
       "score": "📄",
@@ -578,87 +657,6 @@
       "summary_type": "extractive",
       "title_zh": "Helpful or Harmful? Evaluating LLM-Assisted Vulnerability Patching via a Human Study",
       "summary_zh": "Software vulnerability remediation is a cognitively demanding task that requires specialized security expertise often lacking in general developers. In the meantime, Large Language Models (LLMs) assisted tools show potential in vulnerability detection, location, and repair tasks. [Hypothesis:] While LLM-assistance is hypothesized to accelerate patching, it also risks introducing hallucinations or insecure code, leading to a higher likelihood of generating superficial repairs that bypass the stan"
-    },
-    {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "summary": "RubyLLM: A Ruby framework for all major AI providers",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://rubyllm.com/",
-      "published_at": "2026-06-24T14:41:41+00:00",
-      "tags": [
-        "llm",
-        "tool"
-      ],
-      "score": "417",
-      "item_id": "hn:48660711",
-      "summary_type": "extractive",
-      "title_zh": "RubyLLM: A Ruby framework for all major AI providers",
-      "summary_zh": "RubyLLM: A Ruby framework for all major AI providers"
-    },
-    {
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "summary": "PR spam today looks like email spam in the early 2000s",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "published_at": "2026-06-24T14:32:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "248",
-      "item_id": "hn:48660579",
-      "summary_type": "extractive",
-      "title_zh": "PR spam today looks like email spam in the early 2000s",
-      "summary_zh": "PR spam today looks like email spam in the early 2000s"
-    },
-    {
-      "title": "45°C cooling design cuts data center water use to near zero",
-      "summary": "45°C cooling design cuts data center water use to near zero",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "published_at": "2026-06-24T14:10:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "410",
-      "item_id": "hn:48660178",
-      "summary_type": "extractive",
-      "title_zh": "45°C cooling design cuts data center water use to near zero",
-      "summary_zh": "45°C cooling design cuts data center water use to near zero"
-    },
-    {
-      "title": "Qualcomm to Acquire Modular",
-      "summary": "https:&#x2F;&#x2F;investor.qualcomm.com&#x2F;news-events&#x2F;press-releases&#x2F;new...https:&#x2F;&#x2F;www.modular.com&#x2F;blog&#x2F;qualcomm-to-acquire-modularhttps:&#x2F;&#x2F;x.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354, https:&#x2F;&#x2F;xcancel.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354",
-      "full_text": "https:&#x2F;&#x2F;investor.qualcomm.com&#x2F;news-events&#x2F;press-releases&#x2F;new...https:&#x2F;&#x2F;www.modular.com&#x2F;blog&#x2F;qualcomm-to-acquire-modularhttps:&#x2F;&#x2F;x.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354, https:&#x2F;&#x2F;xcancel.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354",
-      "source": "hacker news",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "published_at": "2026-06-24T13:49:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "223",
-      "item_id": "hn:48659798",
-      "summary_type": "extractive",
-      "title_zh": "Qualcomm to Acquire Modular",
-      "summary_zh": "https:&#x2F;&#x2F;investor.qualcomm.com&#x2F;news-events&#x2F;press-releases&#x2F;new...https:&#x2F;&#x2F;www.modular.com&#x2F;blog&#x2F;qualcomm-to-acquire-modularhttps:&#x2F;&#x2F;x.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354, https:&#x2F;&#x2F;xcancel.com&#x2F;clattner_llvm&#x2F;status&#x2F;2069769232477192354"
-    },
-    {
-      "title": "Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?",
-      "summary": "Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://infoscience.epfl.ch/entities/publication/9a49779b-f9f8-448d-b3d1-737c78455309",
-      "published_at": "2026-06-24T09:50:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "28",
-      "item_id": "hn:48657481",
-      "summary_type": "extractive",
-      "title_zh": "Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?",
-      "summary_zh": "Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?"
     },
     {
       "title": "You can't unit test for taste",
@@ -670,171 +668,171 @@
       "tags": [
         "ai"
       ],
-      "score": "106",
+      "score": "212",
       "item_id": "hn:48657049",
       "summary_type": "extractive",
       "title_zh": "You can't unit test for taste",
       "summary_zh": "You can't unit test for taste"
     },
     {
-      "title": "Show HN: Nimic – Pure Python as a systems language with AOT compilation",
-      "summary": "Show HN: Nimic – Pure Python as a systems language with AOT compilation",
+      "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+      "summary": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/dima-quant/nimic",
-      "published_at": "2026-06-23T15:09:15+00:00",
+      "url": "https://github.com/decrazyo/anes",
+      "published_at": "2026-06-23T23:21:35+00:00",
       "tags": [
         "ai"
       ],
-      "score": "27",
-      "item_id": "hn:48646239",
+      "score": "56",
+      "item_id": "hn:48652997",
       "summary_type": "extractive",
-      "title_zh": "Show HN: Nimic – Pure Python as a systems language with AOT compilation",
-      "summary_zh": "Show HN: Nimic – Pure Python as a systems language with AOT compilation"
+      "title_zh": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+      "summary_zh": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs"
     },
     {
-      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
-      "summary": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "title": "I built a GPU back end for Emacs",
+      "summary": "I built a GPU back end for Emacs",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://markdy.com",
-      "published_at": "2026-06-23T15:00:02+00:00",
+      "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
+      "published_at": "2026-06-23T09:38:45+00:00",
       "tags": [
         "ai"
       ],
-      "score": "102",
-      "item_id": "hn:48646077",
+      "score": "130",
+      "item_id": "hn:48642503",
       "summary_type": "extractive",
-      "title_zh": "Markdy: Like Mermaid Diagrams, but for Motion",
-      "summary_zh": "Markdy: Like Mermaid Diagrams, but for Motion"
+      "title_zh": "I built a GPU back end for Emacs",
+      "summary_zh": "I built a GPU back end for Emacs"
     },
     {
-      "title": "Words, Words, Words",
-      "summary": "Words, Words, Words",
+      "title": "The annotated PyTorch training loop",
+      "summary": "The annotated PyTorch training loop",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
-      "published_at": "2026-06-23T05:58:39+00:00",
+      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+      "published_at": "2026-06-22T23:44:59+00:00",
       "tags": [
         "ai"
       ],
-      "score": "23",
-      "item_id": "hn:48640919",
+      "score": "22",
+      "item_id": "hn:48638120",
       "summary_type": "extractive",
-      "title_zh": "Words, Words, Words",
-      "summary_zh": "Words, Words, Words"
+      "title_zh": "The annotated PyTorch training loop",
+      "summary_zh": "The annotated PyTorch training loop"
     },
     {
-      "title": "Matt's Script Archive: The Scripts That Reshaped the Web",
-      "summary": "Matt's Script Archive: The Scripts That Reshaped the Web",
+      "title": "The anxiety of the perfect loaf: the illusion of culinary precision",
+      "summary": "The anxiety of the perfect loaf: the illusion of culinary precision",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://tedium.co/2026/06/22/matts-script-archive-retrospective/",
-      "published_at": "2026-06-23T01:30:59+00:00",
+      "url": "https://iza.ac/posts/2026/06/intuitive-cooking/",
+      "published_at": "2026-06-22T22:11:13+00:00",
       "tags": [
         "ai"
       ],
-      "score": "74",
-      "item_id": "hn:48639018",
+      "score": "6",
+      "item_id": "hn:48636982",
       "summary_type": "extractive",
-      "title_zh": "Matt's Script Archive: The Scripts That Reshaped the Web",
-      "summary_zh": "Matt's Script Archive: The Scripts That Reshaped the Web"
+      "title_zh": "The anxiety of the perfect loaf: the illusion of culinary precision",
+      "summary_zh": "The anxiety of the perfect loaf: the illusion of culinary precision"
     },
     {
-      "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
-      "summary": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+      "title": "Oxide computer 3D rack guided tour",
+      "summary": "Oxide computer 3D rack guided tour",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/BohemiaInteractive/CWR",
-      "published_at": "2026-06-22T21:52:54+00:00",
+      "url": "https://explorer.oxide.computer/",
+      "published_at": "2026-06-22T15:21:04+00:00",
       "tags": [
         "ai"
       ],
-      "score": "152",
-      "item_id": "hn:48636753",
+      "score": "141",
+      "item_id": "hn:48631450",
       "summary_type": "extractive",
-      "title_zh": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
-      "summary_zh": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub"
+      "title_zh": "Oxide computer 3D rack guided tour",
+      "summary_zh": "Oxide computer 3D rack guided tour"
     },
     {
-      "title": "Dostoyevsky isn't difficult",
-      "summary": "Dostoyevsky isn't difficult",
+      "title": "Tw-fade: pure CSS scroll-driven edge masking",
+      "summary": "Tw-fade: pure CSS scroll-driven edge masking",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-      "published_at": "2026-06-22T15:15:38+00:00",
+      "url": "https://pete.design/tw-fade",
+      "published_at": "2026-06-22T15:12:36+00:00",
       "tags": [
         "ai"
       ],
-      "score": "191",
-      "item_id": "hn:48631366",
+      "score": "64",
+      "item_id": "hn:48631302",
       "summary_type": "extractive",
-      "title_zh": "Dostoyevsky isn't difficult",
-      "summary_zh": "Dostoyevsky isn't difficult"
+      "title_zh": "Tw-fade: pure CSS scroll-driven edge masking",
+      "summary_zh": "Tw-fade: pure CSS scroll-driven edge masking"
     },
     {
-      "title": "The Disappearance of Japan's Animators",
-      "summary": "The Disappearance of Japan's Animators",
-      "full_text": "",
+      "title": "The disappearance of Japan's animators",
+      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;aPMAr",
+      "full_text": "https:&#x2F;&#x2F;archive.ph&#x2F;aPMAr",
       "source": "hacker news",
       "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
       "published_at": "2026-06-21T16:51:47+00:00",
       "tags": [
         "ai"
       ],
-      "score": "35",
+      "score": "96",
       "item_id": "hn:48620422",
       "summary_type": "extractive",
-      "title_zh": "The Disappearance of Japan's Animators",
-      "summary_zh": "The Disappearance of Japan's Animators"
+      "title_zh": "The disappearance of Japan's animators",
+      "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;aPMAr"
     },
     {
-      "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
-      "summary": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
+      "title": "Show HN: Chess-Inspired Roguelike",
+      "summary": "Show HN: Chess-Inspired Roguelike",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
-      "published_at": "2026-06-20T03:55:19+00:00",
+      "url": "https://princechazz.com",
+      "published_at": "2026-06-21T06:50:31+00:00",
       "tags": [
         "ai"
       ],
-      "score": "362",
-      "item_id": "hn:48606222",
+      "score": "94",
+      "item_id": "hn:48616304",
       "summary_type": "extractive",
-      "title_zh": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
-      "summary_zh": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding"
+      "title_zh": "Show HN: Chess-Inspired Roguelike",
+      "summary_zh": "Show HN: Chess-Inspired Roguelike"
     },
     {
-      "title": "Show HN: StartupsBR – A map of Brazilian startups",
-      "summary": "I couldn&#x27;t find a simple way to explore the Brazilian startup ecosystem geographically, as I can in other places like the Bay Area or London, so I built one.The map currently includes hundreds of startups from Sao Paulo and their job opportunities.The most interesting thing I&#x27;ve learned so far is how clustered startup activity is in a handful of areas.I&#x27;d love to hear your thoughts.The EN version: https:&#x2F;&#x2F;www.startupsbr.com&#x2F;sao-paulo",
-      "full_text": "I couldn&#x27;t find a simple way to explore the Brazilian startup ecosystem geographically, as I can in other places like the Bay Area or London, so I built one.The map currently includes hundreds of startups from Sao Paulo and their job opportunities.The most interesting thing I&#x27;ve learned so far is how clustered startup activity is in a handful of areas.I&#x27;d love to hear your thoughts.The EN version: https:&#x2F;&#x2F;www.startupsbr.com&#x2F;sao-paulo",
+      "title": "Early adversity leaves lasting molecular imprint across the body: primate study",
+      "summary": "https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aea4922",
+      "full_text": "https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aea4922",
       "source": "hacker news",
-      "url": "https://www.startupsbr.com/sao-paulo",
-      "published_at": "2026-06-19T16:33:02+00:00",
+      "url": "https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html",
+      "published_at": "2026-06-21T03:00:53+00:00",
       "tags": [
         "ai"
       ],
-      "score": "43",
-      "item_id": "hn:48600369",
+      "score": "52",
+      "item_id": "hn:48615277",
       "summary_type": "extractive",
-      "title_zh": "Show HN: StartupsBR – A map of Brazilian startups",
-      "summary_zh": "I couldn&#x27;t find a simple way to explore the Brazilian startup ecosystem geographically, as I can in other places like the Bay Area or London, so I built one.The map currently includes hundreds of startups from Sao Paulo and their job opportunities.The most interesting thing I&#x27;ve learned so far is how clustered startup activity is in a handful of areas.I&#x27;d love to hear your thoughts.The EN version: https:&#x2F;&#x2F;www.startupsbr.com&#x2F;sao-paulo"
+      "title_zh": "Early adversity leaves lasting molecular imprint across the body: primate study",
+      "summary_zh": "https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aea4922"
     },
     {
-      "title": "Show HN: Write SaaS apps where users control where their data is stored",
-      "summary": "Hello HN,I would like to share with you linkedrecords.com - an open source backend as a service I&#x27;m working on since some time now. You can think of it as an firebase&#x2F;convex alternative with an interesting twist.In 2018 I needed to write large software requirements&#x2F;architecture documents in Google Docs. While I was annoyed by the limitations of Google Docs back then (no captions on figures, no automatic heading numbering, slow when docs are bigger,...) I was still fascinated by th",
-      "full_text": "Hello HN,I would like to share with you linkedrecords.com - an open source backend as a service I&#x27;m working on since some time now. You can think of it as an firebase&#x2F;convex alternative with an interesting twist.In 2018 I needed to write large software requirements&#x2F;architecture documents in Google Docs. While I was annoyed by the limitations of Google Docs back then (no captions on figures, no automatic heading numbering, slow when docs are bigger,...) I was still fascinated by th",
+      "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
+      "summary": "The overall idea is to chart out the thousands of Mini PCs by benchmark and reveal the Pareto Front so you can get the most Compute per Dollar. Definitely a labor of love as I have a number of Mini PCs for my &quot;homelab&quot; (TrueNAS, piHole, Plex, basic stuff). It uses Gemini to extract specs from listings (since they&#x27;re not often strongly categorized).Quick blog post here: https:&#x2F;&#x2F;luke.zip&#x2F;posts&#x2F;pareto-pcs&#x2F;",
+      "full_text": "The overall idea is to chart out the thousands of Mini PCs by benchmark and reveal the Pareto Front so you can get the most Compute per Dollar. Definitely a labor of love as I have a number of Mini PCs for my &quot;homelab&quot; (TrueNAS, piHole, Plex, basic stuff). It uses Gemini to extract specs from listings (since they&#x27;re not often strongly categorized).Quick blog post here: https:&#x2F;&#x2F;luke.zip&#x2F;posts&#x2F;pareto-pcs&#x2F;",
       "source": "hacker news",
-      "url": "https://github.com/wolfoo2931/linkedrecords/",
-      "published_at": "2026-06-19T07:37:14+00:00",
+      "url": "https://minipcs.zip",
+      "published_at": "2026-06-20T19:55:54+00:00",
       "tags": [
         "ai"
       ],
-      "score": "63",
-      "item_id": "hn:48595882",
+      "score": "84",
+      "item_id": "hn:48612432",
       "summary_type": "extractive",
-      "title_zh": "Show HN: Write SaaS apps where users control where their data is stored",
-      "summary_zh": "Hello HN,I would like to share with you linkedrecords.com - an open source backend as a service I&#x27;m working on since some time now. You can think of it as an firebase&#x2F;convex alternative with an interesting twist.In 2018 I needed to write large software requirements&#x2F;architecture documents in Google Docs. While I was annoyed by the limitations of Google Docs back then (no captions on figures, no automatic heading numbering, slow when docs are bigger,...) I was still fascinated by th"
+      "title_zh": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
+      "summary_zh": "The overall idea is to chart out the thousands of Mini PCs by benchmark and reveal the Pareto Front so you can get the most Compute per Dollar. Definitely a labor of love as I have a number of Mini PCs for my &quot;homelab&quot; (TrueNAS, piHole, Plex, basic stuff). It uses Gemini to extract specs from listings (since they&#x27;re not often strongly categorized).Quick blog post here: https:&#x2F;&#x2F;luke.zip&#x2F;posts&#x2F;pareto-pcs&#x2F;"
     }
   ]
 }

@@ -1,26 +1,58 @@
 {
-  "updated_at": "2026-06-26T09:44:06.454792+00:00",
+  "updated_at": "2026-06-26T14:40:36.301887+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Micron locks in historically high memory prices for five years",
-      "summary": "Micron locks in historically high memory prices for five years",
+      "title": "The AI backlash is only getting started",
+      "summary": "The AI backlash is only getting started",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
-      "published_at": "2026-06-26T06:27:25+00:00",
+      "url": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started",
+      "published_at": "2026-06-26T13:12:04+00:00",
       "tags": [
         "ai"
       ],
-      "score": "52",
-      "item_id": "hn:48683041",
+      "score": "35",
+      "item_id": "hn:48686219",
       "summary_type": "extractive",
-      "title_zh": "Micron locks in historically high memory prices for five years",
-      "summary_zh": "Micron locks in historically high memory prices for five years"
+      "title_zh": "The AI backlash is only getting started",
+      "summary_zh": "The AI backlash is only getting started"
     },
     {
-      "title": "We All Depend on Open Source. We Will Defend It Together",
-      "summary": "We All Depend on Open Source. We Will Defend It Together",
+      "title": "Incident CVE-2026-LGTM",
+      "summary": "Incident CVE-2026-LGTM",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+      "published_at": "2026-06-26T12:58:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "86",
+      "item_id": "hn:48686093",
+      "summary_type": "extractive",
+      "title_zh": "Incident CVE-2026-LGTM",
+      "summary_zh": "Incident CVE-2026-LGTM"
+    },
+    {
+      "title": "Ultrasound Imaging of the Brain",
+      "summary": "Ultrasound Imaging of the Brain",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "published_at": "2026-06-26T11:51:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "24",
+      "item_id": "hn:48685558",
+      "summary_type": "extractive",
+      "title_zh": "Ultrasound Imaging of the Brain",
+      "summary_zh": "Ultrasound Imaging of the Brain"
+    },
+    {
+      "title": "We all depend on open source. We will defend it together",
+      "summary": "We all depend on open source. We will defend it together",
       "full_text": "",
       "source": "hacker news",
       "url": "https://akrites.org/letter/",
@@ -28,11 +60,11 @@
       "tags": [
         "ai"
       ],
-      "score": "88",
+      "score": "354",
       "item_id": "hn:48682737",
       "summary_type": "extractive",
-      "title_zh": "We All Depend on Open Source. We Will Defend It Together",
-      "summary_zh": "We All Depend on Open Source. We Will Defend It Together"
+      "title_zh": "We all depend on open source. We will defend it together",
+      "summary_zh": "We all depend on open source. We will defend it together"
     },
     {
       "title": "Libre Barcode Project",
@@ -44,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "150",
+      "score": "224",
       "item_id": "hn:48681949",
       "summary_type": "extractive",
       "title_zh": "Libre Barcode Project",
@@ -60,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "151",
+      "score": "264",
       "item_id": "hn:48681687",
       "summary_type": "extractive",
       "title_zh": "What happened after 2k people tried to hack my AI assistant",
@@ -76,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "138",
+      "score": "191",
       "item_id": "hn:48680370",
       "summary_type": "extractive",
       "title_zh": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
@@ -92,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "889",
+      "score": "🔥 1.0k",
       "item_id": "hn:48678852",
       "summary_type": "extractive",
       "title_zh": "Om Malik has died",
@@ -108,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "116",
+      "score": "148",
       "item_id": "hn:48678645",
       "summary_type": "extractive",
       "title_zh": "An oral history of Bank Python (2021)",
@@ -124,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "86",
+      "score": "110",
       "item_id": "hn:48678623",
       "summary_type": "extractive",
       "title_zh": "Parallel Parentheses Matching",
@@ -140,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "113",
+      "score": "168",
       "item_id": "hn:48678495",
       "summary_type": "extractive",
       "title_zh": "The Doorman's Fallacy in action",
@@ -189,8 +221,8 @@
       "url": "http://arxiv.org/abs/2606.27342v1",
       "published_at": "2026-06-25T17:49:48Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27342v1",
@@ -225,31 +257,15 @@
       "published_at": "2026-06-25T17:44:48Z",
       "tags": [
         "agent",
-        "paper",
         "llm",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27330v1",
       "summary_type": "extractive",
       "title_zh": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
       "summary_zh": "Multimodal web agents can assist humans in operating repetitive GUI tasks, where effective task planning is essential for decomposing complex tasks into executable actions. While small open source MLLMs are cost efficient and privacy preserving compared with commercial large models, they suffer from weak planning and limited cross website generalization. To address these limitations, we introduce the planning experience exploration and utilization (PEEU) method, which autonomously explores envir"
-    },
-    {
-      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "summary": "Giftlink: https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-25&#x2F;apple-to-...also https:&#x2F;&#x2F;www.msn.com&#x2F;en-ca&#x2F;lifestyle&#x2F;shopping&#x2F;apple-to-skip-h...",
-      "full_text": "Giftlink: https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-25&#x2F;apple-to-...also https:&#x2F;&#x2F;www.msn.com&#x2F;en-ca&#x2F;lifestyle&#x2F;shopping&#x2F;apple-to-skip-h...",
-      "source": "hacker news",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-      "published_at": "2026-06-25T17:38:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "257",
-      "item_id": "hn:48676795",
-      "summary_type": "extractive",
-      "title_zh": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "summary_zh": "Giftlink: https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-25&#x2F;apple-to-...also https:&#x2F;&#x2F;www.msn.com&#x2F;en-ca&#x2F;lifestyle&#x2F;shopping&#x2F;apple-to-skip-h..."
     },
     {
       "title": "Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders",
@@ -259,10 +275,10 @@
       "url": "http://arxiv.org/abs/2606.27321v1",
       "published_at": "2026-06-25T17:34:39Z",
       "tags": [
-        "paper",
         "llm",
         "vision",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27321v1",
@@ -296,9 +312,9 @@
       "published_at": "2026-06-25T17:06:06Z",
       "tags": [
         "agent",
-        "paper",
         "llm",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27288v1",
@@ -314,8 +330,8 @@
       "url": "http://arxiv.org/abs/2606.27287v1",
       "published_at": "2026-06-25T17:04:51Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27287v1",
@@ -339,22 +355,6 @@
       "summary_type": "extractive",
       "title_zh": "Simulation-based inference for rapid Bayesian parameter estimation in epidemiological models: a comparison with MCMC",
       "summary_zh": "Mechanistic epidemiological models are widely used to support infectious disease forecasting and public-health decision making. Bayesian calibration of such models is commonly performed using Markov chain Monte Carlo (MCMC), which can become computationally expensive for high-dimensional nonlinear systems and repeated near-real-time analyses. Here, we investigate simulation-based inference (SBI) using neural posterior estimation as a scalable alternative for Bayesian calibration of a mechanistic"
-    },
-    {
-      "title": "Besimple AI (YC P25) Is Hiring",
-      "summary": "Besimple AI (YC P25) Is Hiring",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
-      "published_at": "2026-06-25T17:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:48676256",
-      "summary_type": "extractive",
-      "title_zh": "Besimple AI (YC P25) Is Hiring",
-      "summary_zh": "Besimple AI (YC P25) Is Hiring"
     },
     {
       "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
@@ -398,8 +398,8 @@
       "published_at": "2026-06-25T16:36:35Z",
       "tags": [
         "agent",
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27251v1",
@@ -434,8 +434,8 @@
       "published_at": "2026-06-25T16:20:49Z",
       "tags": [
         "agent",
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27233v1",
@@ -468,9 +468,9 @@
       "url": "http://arxiv.org/abs/2606.27226v1",
       "published_at": "2026-06-25T16:14:50Z",
       "tags": [
-        "tool",
+        "paper",
         "llm",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27226v1",
@@ -504,7 +504,7 @@
       "tags": [
         "ai"
       ],
-      "score": "275",
+      "score": "318",
       "item_id": "hn:48675435",
       "summary_type": "extractive",
       "title_zh": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
@@ -537,7 +537,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.2k",
+      "score": "🔥 1.4k",
       "item_id": "hn:48675179",
       "summary_type": "extractive",
       "title_zh": "An entire Herculaneum scroll has been read for the first time",
@@ -551,11 +551,11 @@
       "url": "http://arxiv.org/abs/2606.27180v1",
       "published_at": "2026-06-25T15:45:57Z",
       "tags": [
+        "paper",
+        "vision",
         "agent",
         "llm",
-        "vision",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27180v1",
@@ -573,7 +573,7 @@
       "tags": [
         "ai"
       ],
-      "score": "319",
+      "score": "354",
       "item_id": "hn:48674967",
       "summary_type": "extractive",
       "title_zh": "IBM debuts sub-1 nanometer chip technology",
@@ -589,7 +589,7 @@
       "tags": [
         "ai"
       ],
-      "score": "228",
+      "score": "249",
       "item_id": "hn:48674484",
       "summary_type": "extractive",
       "title_zh": "OS9Map",
@@ -605,7 +605,7 @@
       "tags": [
         "ai"
       ],
-      "score": "238",
+      "score": "258",
       "item_id": "hn:48673825",
       "summary_type": "extractive",
       "title_zh": "Zig's new bitCast semantics and LLVM back end improvements",
@@ -621,7 +621,7 @@
       "tags": [
         "ai"
       ],
-      "score": "147",
+      "score": "154",
       "item_id": "hn:48672779",
       "summary_type": "extractive",
       "title_zh": "Political bias in AI: Where the AI models stand",
@@ -637,7 +637,7 @@
       "tags": [
         "ai"
       ],
-      "score": "720",
+      "score": "777",
       "item_id": "hn:48672732",
       "summary_type": "extractive",
       "title_zh": "Apple raises prices of MacBooks, iPads",
@@ -653,27 +653,43 @@
       "tags": [
         "ai"
       ],
-      "score": "272",
+      "score": "292",
       "item_id": "hn:48657049",
       "summary_type": "extractive",
       "title_zh": "You can't unit test for taste",
       "summary_zh": "You can't unit test for taste"
     },
     {
-      "title": "My Steam Machine Is a 50ft HDMI Cable",
-      "summary": "My Steam Machine Is a 50ft HDMI Cable",
+      "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+      "summary": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
-      "published_at": "2026-06-23T17:45:20+00:00",
+      "url": "https://github.com/DDecoene/WebBaseIII",
+      "published_at": "2026-06-24T08:46:16+00:00",
       "tags": [
         "ai"
       ],
-      "score": "17",
-      "item_id": "hn:48648550",
+      "score": "31",
+      "item_id": "hn:48656986",
       "summary_type": "extractive",
-      "title_zh": "My Steam Machine Is a 50ft HDMI Cable",
-      "summary_zh": "My Steam Machine Is a 50ft HDMI Cable"
+      "title_zh": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+      "summary_zh": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter"
+    },
+    {
+      "title": "FEXPRs vs. vtable: how LispE interpreter works",
+      "summary": "FEXPRs vs. vtable: how LispE interpreter works",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable",
+      "published_at": "2026-06-23T23:57:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:48653338",
+      "summary_type": "extractive",
+      "title_zh": "FEXPRs vs. vtable: how LispE interpreter works",
+      "summary_zh": "FEXPRs vs. vtable: how LispE interpreter works"
     },
     {
       "title": "A game where you're an OS and have to manage processes, memory and I/O events",
@@ -685,27 +701,27 @@
       "tags": [
         "ai"
       ],
-      "score": "206",
+      "score": "289",
       "item_id": "hn:48642474",
       "summary_type": "extractive",
       "title_zh": "A game where you're an OS and have to manage processes, memory and I/O events",
       "summary_zh": "A game where you're an OS and have to manage processes, memory and I/O events"
     },
     {
-      "title": "Eyewitness at the Triangle (1911)",
-      "summary": "Eyewitness at the Triangle (1911)",
+      "title": "Bipartite Matching Is in NC",
+      "summary": "Bipartite Matching Is in NC",
       "full_text": "",
       "source": "hacker news",
-      "url": "http://trianglefire.ilr.cornell.edu/index.html",
-      "published_at": "2026-06-23T00:53:58+00:00",
+      "url": "https://scottaaronson.blog/?p=9851",
+      "published_at": "2026-06-22T22:43:48+00:00",
       "tags": [
         "ai"
       ],
-      "score": "23",
-      "item_id": "hn:48638710",
+      "score": "61",
+      "item_id": "hn:48637433",
       "summary_type": "extractive",
-      "title_zh": "Eyewitness at the Triangle (1911)",
-      "summary_zh": "Eyewitness at the Triangle (1911)"
+      "title_zh": "Bipartite Matching Is in NC",
+      "summary_zh": "Bipartite Matching Is in NC"
     },
     {
       "title": "Oxide computer 3D rack guided tour",
@@ -717,7 +733,7 @@
       "tags": [
         "ai"
       ],
-      "score": "366",
+      "score": "421",
       "item_id": "hn:48631450",
       "summary_type": "extractive",
       "title_zh": "Oxide computer 3D rack guided tour",
@@ -733,7 +749,7 @@
       "tags": [
         "ai"
       ],
-      "score": "92",
+      "score": "119",
       "item_id": "hn:48631119",
       "summary_type": "extractive",
       "title_zh": "The last Romans are still around",
@@ -749,11 +765,27 @@
       "tags": [
         "ai"
       ],
-      "score": "45",
+      "score": "73",
       "item_id": "hn:48627027",
       "summary_type": "extractive",
       "title_zh": "Doing a masters while working in Spain",
       "summary_zh": "Doing a masters while working in Spain"
+    },
+    {
+      "title": "Microbubbles in Medicine",
+      "summary": "Microbubbles in Medicine",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://worksinprogress.co/issue/microbubbles/",
+      "published_at": "2026-06-22T01:59:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:48624723",
+      "summary_type": "extractive",
+      "title_zh": "Microbubbles in Medicine",
+      "summary_zh": "Microbubbles in Medicine"
     },
     {
       "title": "The disappearance of Japan's animators",
@@ -765,27 +797,11 @@
       "tags": [
         "ai"
       ],
-      "score": "169",
+      "score": "182",
       "item_id": "hn:48620422",
       "summary_type": "extractive",
       "title_zh": "The disappearance of Japan's animators",
       "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;aPMAr"
-    },
-    {
-      "title": "Experiments in Sports Seismology for the World Cup",
-      "summary": "Experiments in Sports Seismology for the World Cup",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://pnsn.org/blog/experiments-in-sports-seismology-for-the-world-cup",
-      "published_at": "2026-06-21T14:06:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "20",
-      "item_id": "hn:48619122",
-      "summary_type": "extractive",
-      "title_zh": "Experiments in Sports Seismology for the World Cup",
-      "summary_zh": "Experiments in Sports Seismology for the World Cup"
     },
     {
       "title": "Show HN: Chess-Inspired Roguelike",
@@ -797,27 +813,11 @@
       "tags": [
         "ai"
       ],
-      "score": "293",
+      "score": "367",
       "item_id": "hn:48616304",
       "summary_type": "extractive",
       "title_zh": "Show HN: Chess-Inspired Roguelike",
       "summary_zh": "Show HN: Chess-Inspired Roguelike"
-    },
-    {
-      "title": "SOCKMAP - TCP splicing of the future",
-      "summary": "SOCKMAP - TCP splicing of the future",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
-      "published_at": "2026-06-21T03:08:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "13",
-      "item_id": "hn:48615313",
-      "summary_type": "extractive",
-      "title_zh": "SOCKMAP - TCP splicing of the future",
-      "summary_zh": "SOCKMAP - TCP splicing of the future"
     },
     {
       "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
@@ -829,7 +829,7 @@
       "tags": [
         "ai"
       ],
-      "score": "46",
+      "score": "142",
       "item_id": "hn:48610137",
       "summary_type": "extractive",
       "title_zh": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",

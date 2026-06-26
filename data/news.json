@@ -1,22 +1,38 @@
 {
-  "updated_at": "2026-06-26T04:22:47.286699+00:00",
+  "updated_at": "2026-06-26T09:44:06.454792+00:00",
   "count": 50,
   "items": [
     {
-      "title": "No-One Escapes the Permanent Underclass",
-      "summary": "No-One Escapes the Permanent Underclass",
+      "title": "Micron locks in historically high memory prices for five years",
+      "summary": "Micron locks in historically high memory prices for five years",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://borretti.me/article/no-one-escapes-the-permanent-underclass",
-      "published_at": "2026-06-26T03:25:51+00:00",
+      "url": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
+      "published_at": "2026-06-26T06:27:25+00:00",
       "tags": [
         "ai"
       ],
-      "score": "28",
-      "item_id": "hn:48682016",
+      "score": "52",
+      "item_id": "hn:48683041",
       "summary_type": "extractive",
-      "title_zh": "No-One Escapes the Permanent Underclass",
-      "summary_zh": "No-One Escapes the Permanent Underclass"
+      "title_zh": "Micron locks in historically high memory prices for five years",
+      "summary_zh": "Micron locks in historically high memory prices for five years"
+    },
+    {
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "summary": "We All Depend on Open Source. We Will Defend It Together",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://akrites.org/letter/",
+      "published_at": "2026-06-26T05:40:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "88",
+      "item_id": "hn:48682737",
+      "summary_type": "extractive",
+      "title_zh": "We All Depend on Open Source. We Will Defend It Together",
+      "summary_zh": "We All Depend on Open Source. We Will Defend It Together"
     },
     {
       "title": "Libre Barcode Project",
@@ -28,7 +44,7 @@
       "tags": [
         "ai"
       ],
-      "score": "24",
+      "score": "150",
       "item_id": "hn:48681949",
       "summary_type": "extractive",
       "title_zh": "Libre Barcode Project",
@@ -44,27 +60,11 @@
       "tags": [
         "ai"
       ],
-      "score": "10",
+      "score": "151",
       "item_id": "hn:48681687",
       "summary_type": "extractive",
       "title_zh": "What happened after 2k people tried to hack my AI assistant",
       "summary_zh": "What happened after 2k people tried to hack my AI assistant"
-    },
-    {
-      "title": "A data race that doesn't compile",
-      "summary": "A data race that doesn't compile",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
-      "published_at": "2026-06-26T01:33:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "23",
-      "item_id": "hn:48681361",
-      "summary_type": "extractive",
-      "title_zh": "A data race that doesn't compile",
-      "summary_zh": "A data race that doesn't compile"
     },
     {
       "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
@@ -76,27 +76,11 @@
       "tags": [
         "ai"
       ],
-      "score": "80",
+      "score": "138",
       "item_id": "hn:48680370",
       "summary_type": "extractive",
       "title_zh": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
       "summary_zh": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)"
-    },
-    {
-      "title": "Migrating from Proxmox to NixOS and Incus",
-      "summary": "Migrating from Proxmox to NixOS and Incus",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nijho.lt/post/proxmox-to-nixos/",
-      "published_at": "2026-06-25T21:22:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "65",
-      "item_id": "hn:48679385",
-      "summary_type": "extractive",
-      "title_zh": "Migrating from Proxmox to NixOS and Incus",
-      "summary_zh": "Migrating from Proxmox to NixOS and Incus"
     },
     {
       "title": "Om Malik has died",
@@ -108,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "621",
+      "score": "889",
       "item_id": "hn:48678852",
       "summary_type": "extractive",
       "title_zh": "Om Malik has died",
@@ -124,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "85",
+      "score": "116",
       "item_id": "hn:48678645",
       "summary_type": "extractive",
       "title_zh": "An oral history of Bank Python (2021)",
@@ -140,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "72",
+      "score": "86",
       "item_id": "hn:48678623",
       "summary_type": "extractive",
       "title_zh": "Parallel Parentheses Matching",
@@ -156,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "76",
+      "score": "113",
       "item_id": "hn:48678495",
       "summary_type": "extractive",
       "title_zh": "The Doorman's Fallacy in action",
@@ -170,9 +154,9 @@
       "url": "http://arxiv.org/abs/2606.27361v1",
       "published_at": "2026-06-25T17:58:21Z",
       "tags": [
+        "paper",
         "llm",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27361v1",
@@ -205,8 +189,8 @@
       "url": "http://arxiv.org/abs/2606.27342v1",
       "published_at": "2026-06-25T17:49:48Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27342v1",
@@ -222,9 +206,9 @@
       "url": "http://arxiv.org/abs/2606.27334v1",
       "published_at": "2026-06-25T17:45:53Z",
       "tags": [
+        "paper",
         "llm",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27334v1",
@@ -240,10 +224,10 @@
       "url": "http://arxiv.org/abs/2606.27330v1",
       "published_at": "2026-06-25T17:44:48Z",
       "tags": [
-        "llm",
-        "tool",
         "agent",
-        "paper"
+        "paper",
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27330v1",
@@ -261,7 +245,7 @@
       "tags": [
         "ai"
       ],
-      "score": "144",
+      "score": "257",
       "item_id": "hn:48676795",
       "summary_type": "extractive",
       "title_zh": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
@@ -275,10 +259,10 @@
       "url": "http://arxiv.org/abs/2606.27321v1",
       "published_at": "2026-06-25T17:34:39Z",
       "tags": [
+        "paper",
         "llm",
         "vision",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27321v1",
@@ -311,10 +295,10 @@
       "url": "http://arxiv.org/abs/2606.27288v1",
       "published_at": "2026-06-25T17:06:06Z",
       "tags": [
-        "llm",
-        "tool",
         "agent",
-        "paper"
+        "paper",
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27288v1",
@@ -413,9 +397,9 @@
       "url": "http://arxiv.org/abs/2606.27251v1",
       "published_at": "2026-06-25T16:36:35Z",
       "tags": [
+        "agent",
         "paper",
-        "tool",
-        "agent"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27251v1",
@@ -449,9 +433,9 @@
       "url": "http://arxiv.org/abs/2606.27233v1",
       "published_at": "2026-06-25T16:20:49Z",
       "tags": [
+        "agent",
         "paper",
-        "tool",
-        "agent"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27233v1",
@@ -484,8 +468,8 @@
       "url": "http://arxiv.org/abs/2606.27226v1",
       "published_at": "2026-06-25T16:14:50Z",
       "tags": [
-        "llm",
         "tool",
+        "llm",
         "paper"
       ],
       "score": "📄",
@@ -520,7 +504,7 @@
       "tags": [
         "ai"
       ],
-      "score": "227",
+      "score": "275",
       "item_id": "hn:48675435",
       "summary_type": "extractive",
       "title_zh": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
@@ -534,8 +518,8 @@
       "url": "http://arxiv.org/abs/2606.27188v1",
       "published_at": "2026-06-25T15:50:42Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27188v1",
@@ -553,7 +537,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.0k",
+      "score": "🔥 1.2k",
       "item_id": "hn:48675179",
       "summary_type": "extractive",
       "title_zh": "An entire Herculaneum scroll has been read for the first time",
@@ -567,11 +551,11 @@
       "url": "http://arxiv.org/abs/2606.27180v1",
       "published_at": "2026-06-25T15:45:57Z",
       "tags": [
+        "agent",
+        "llm",
         "vision",
         "tool",
-        "agent",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27180v1",
@@ -589,7 +573,7 @@
       "tags": [
         "ai"
       ],
-      "score": "282",
+      "score": "319",
       "item_id": "hn:48674967",
       "summary_type": "extractive",
       "title_zh": "IBM debuts sub-1 nanometer chip technology",
@@ -605,7 +589,7 @@
       "tags": [
         "ai"
       ],
-      "score": "202",
+      "score": "228",
       "item_id": "hn:48674484",
       "summary_type": "extractive",
       "title_zh": "OS9Map",
@@ -621,11 +605,27 @@
       "tags": [
         "ai"
       ],
-      "score": "220",
+      "score": "238",
       "item_id": "hn:48673825",
       "summary_type": "extractive",
       "title_zh": "Zig's new bitCast semantics and LLVM back end improvements",
       "summary_zh": "Zig's new bitCast semantics and LLVM back end improvements"
+    },
+    {
+      "title": "Political bias in AI: Where the AI models stand",
+      "summary": "Political bias in AI: Where the AI models stand",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://trakkr.ai/bias",
+      "published_at": "2026-06-25T13:08:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "147",
+      "item_id": "hn:48672779",
+      "summary_type": "extractive",
+      "title_zh": "Political bias in AI: Where the AI models stand",
+      "summary_zh": "Political bias in AI: Where the AI models stand"
     },
     {
       "title": "Apple raises prices of MacBooks, iPads",
@@ -637,7 +637,7 @@
       "tags": [
         "ai"
       ],
-      "score": "664",
+      "score": "720",
       "item_id": "hn:48672732",
       "summary_type": "extractive",
       "title_zh": "Apple raises prices of MacBooks, iPads",
@@ -653,43 +653,27 @@
       "tags": [
         "ai"
       ],
-      "score": "257",
+      "score": "272",
       "item_id": "hn:48657049",
       "summary_type": "extractive",
       "title_zh": "You can't unit test for taste",
       "summary_zh": "You can't unit test for taste"
     },
     {
-      "title": "GloriousEggroll's Proton has been rebased on Proton 11",
-      "summary": "GloriousEggroll's Proton has been rebased on Proton 11",
+      "title": "My Steam Machine Is a 50ft HDMI Cable",
+      "summary": "My Steam Machine Is a 50ft HDMI Cable",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1",
-      "published_at": "2026-06-24T08:04:23+00:00",
+      "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
+      "published_at": "2026-06-23T17:45:20+00:00",
       "tags": [
         "ai"
       ],
-      "score": "72",
-      "item_id": "hn:48656692",
+      "score": "17",
+      "item_id": "hn:48648550",
       "summary_type": "extractive",
-      "title_zh": "GloriousEggroll's Proton has been rebased on Proton 11",
-      "summary_zh": "GloriousEggroll's Proton has been rebased on Proton 11"
-    },
-    {
-      "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
-      "summary": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/decrazyo/anes",
-      "published_at": "2026-06-23T23:21:35+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "109",
-      "item_id": "hn:48652997",
-      "summary_type": "extractive",
-      "title_zh": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
-      "summary_zh": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs"
+      "title_zh": "My Steam Machine Is a 50ft HDMI Cable",
+      "summary_zh": "My Steam Machine Is a 50ft HDMI Cable"
     },
     {
       "title": "A game where you're an OS and have to manage processes, memory and I/O events",
@@ -701,7 +685,7 @@
       "tags": [
         "ai"
       ],
-      "score": "129",
+      "score": "206",
       "item_id": "hn:48642474",
       "summary_type": "extractive",
       "title_zh": "A game where you're an OS and have to manage processes, memory and I/O events",
@@ -717,27 +701,11 @@
       "tags": [
         "ai"
       ],
-      "score": "15",
+      "score": "23",
       "item_id": "hn:48638710",
       "summary_type": "extractive",
       "title_zh": "Eyewitness at the Triangle (1911)",
       "summary_zh": "Eyewitness at the Triangle (1911)"
-    },
-    {
-      "title": "The annotated PyTorch training loop",
-      "summary": "The annotated PyTorch training loop",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
-      "published_at": "2026-06-22T23:44:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "66",
-      "item_id": "hn:48638120",
-      "summary_type": "extractive",
-      "title_zh": "The annotated PyTorch training loop",
-      "summary_zh": "The annotated PyTorch training loop"
     },
     {
       "title": "Oxide computer 3D rack guided tour",
@@ -749,7 +717,7 @@
       "tags": [
         "ai"
       ],
-      "score": "317",
+      "score": "366",
       "item_id": "hn:48631450",
       "summary_type": "extractive",
       "title_zh": "Oxide computer 3D rack guided tour",
@@ -765,7 +733,7 @@
       "tags": [
         "ai"
       ],
-      "score": "56",
+      "score": "92",
       "item_id": "hn:48631119",
       "summary_type": "extractive",
       "title_zh": "The last Romans are still around",
@@ -781,7 +749,7 @@
       "tags": [
         "ai"
       ],
-      "score": "5",
+      "score": "45",
       "item_id": "hn:48627027",
       "summary_type": "extractive",
       "title_zh": "Doing a masters while working in Spain",
@@ -797,7 +765,7 @@
       "tags": [
         "ai"
       ],
-      "score": "158",
+      "score": "169",
       "item_id": "hn:48620422",
       "summary_type": "extractive",
       "title_zh": "The disappearance of Japan's animators",
@@ -813,7 +781,7 @@
       "tags": [
         "ai"
       ],
-      "score": "14",
+      "score": "20",
       "item_id": "hn:48619122",
       "summary_type": "extractive",
       "title_zh": "Experiments in Sports Seismology for the World Cup",
@@ -829,11 +797,43 @@
       "tags": [
         "ai"
       ],
-      "score": "243",
+      "score": "293",
       "item_id": "hn:48616304",
       "summary_type": "extractive",
       "title_zh": "Show HN: Chess-Inspired Roguelike",
       "summary_zh": "Show HN: Chess-Inspired Roguelike"
+    },
+    {
+      "title": "SOCKMAP - TCP splicing of the future",
+      "summary": "SOCKMAP - TCP splicing of the future",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
+      "published_at": "2026-06-21T03:08:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "13",
+      "item_id": "hn:48615313",
+      "summary_type": "extractive",
+      "title_zh": "SOCKMAP - TCP splicing of the future",
+      "summary_zh": "SOCKMAP - TCP splicing of the future"
+    },
+    {
+      "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+      "summary": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
+      "published_at": "2026-06-20T15:50:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "46",
+      "item_id": "hn:48610137",
+      "summary_type": "extractive",
+      "title_zh": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+      "summary_zh": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'"
     }
   ]
 }

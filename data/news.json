@@ -1,38 +1,151 @@
 {
-  "updated_at": "2026-06-27T08:46:59.353162+00:00",
+  "updated_at": "2026-06-27T14:00:00.997401+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Is America becoming a gerontocracy?",
-      "summary": "Is America becoming a gerontocracy?",
+      "title": "Asian AI startups launch Mythos-like models",
+      "summary": "Asian AI startups launch Mythos-like models",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy",
-      "published_at": "2026-06-27T06:22:45+00:00",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "published_at": "2026-06-27T13:10:21+00:00",
       "tags": [
         "ai"
       ],
-      "score": "24",
-      "item_id": "hn:48695694",
+      "score": "15",
+      "item_id": "hn:48697958",
       "summary_type": "extractive",
-      "title_zh": "Is America becoming a gerontocracy?",
-      "summary_zh": "Is America becoming a gerontocracy?"
+      "title_zh": "Asian AI startups launch Mythos-like models",
+      "summary_zh": "Asian AI startups launch Mythos-like models"
     },
     {
-      "title": "IBM MCGA Gate Array Reverse Engineering",
-      "summary": "IBM MCGA Gate Array Reverse Engineering",
+      "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+      "summary": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/schlae/IBM_MCGA",
-      "published_at": "2026-06-27T05:17:08+00:00",
+      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "published_at": "2026-06-27T12:43:16+00:00",
       "tags": [
         "ai"
       ],
-      "score": "19",
-      "item_id": "hn:48695363",
+      "score": "27",
+      "item_id": "hn:48697768",
       "summary_type": "extractive",
-      "title_zh": "IBM MCGA Gate Array Reverse Engineering",
-      "summary_zh": "IBM MCGA Gate Array Reverse Engineering"
+      "title_zh": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+      "summary_zh": "Streaming services' obnoxiously loud ads become illegal on July 1 in California"
+    },
+    {
+      "title": "How Many Elementary Particles Are There, Really?",
+      "summary": "How Many Elementary Particles Are There, Really?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+      "published_at": "2026-06-27T12:40:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "7",
+      "item_id": "hn:48697746",
+      "summary_type": "extractive",
+      "title_zh": "How Many Elementary Particles Are There, Really?",
+      "summary_zh": "How Many Elementary Particles Are There, Really?"
+    },
+    {
+      "title": "OpenRA",
+      "summary": "OpenRA",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.openra.net/",
+      "published_at": "2026-06-27T12:10:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "87",
+      "item_id": "hn:48697560",
+      "summary_type": "extractive",
+      "title_zh": "OpenRA",
+      "summary_zh": "OpenRA"
+    },
+    {
+      "title": "Nox Metals (YC S25) Is Hiring SWE",
+      "summary": "Nox Metals (YC S25) Is Hiring SWE",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
+      "published_at": "2026-06-27T12:01:03+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "1",
+      "item_id": "hn:48697504",
+      "summary_type": "extractive",
+      "title_zh": "Nox Metals (YC S25) Is Hiring SWE",
+      "summary_zh": "Nox Metals (YC S25) Is Hiring SWE"
+    },
+    {
+      "title": "If you can't hold it, you don't own it",
+      "summary": "If you can't hold it, you don't own it",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dervis.de/physical/",
+      "published_at": "2026-06-27T11:32:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "89",
+      "item_id": "hn:48697335",
+      "summary_type": "extractive",
+      "title_zh": "If you can't hold it, you don't own it",
+      "summary_zh": "If you can't hold it, you don't own it"
+    },
+    {
+      "title": "Fintech Engineering Handbook",
+      "summary": "Fintech Engineering Handbook",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "published_at": "2026-06-27T10:28:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "174",
+      "item_id": "hn:48696982",
+      "summary_type": "extractive",
+      "title_zh": "Fintech Engineering Handbook",
+      "summary_zh": "Fintech Engineering Handbook"
+    },
+    {
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "summary": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "published_at": "2026-06-27T09:18:52+00:00",
+      "tags": [
+        "llm",
+        "tool"
+      ],
+      "score": "508",
+      "item_id": "hn:48696585",
+      "summary_type": "extractive",
+      "title_zh": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "summary_zh": "DSpark: Speculative decoding accelerates LLM inference [pdf]"
+    },
+    {
+      "title": "Beer CSS – Build material design in record time",
+      "summary": "Beer CSS – Build material design in record time",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.beercss.com",
+      "published_at": "2026-06-27T09:06:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "67",
+      "item_id": "hn:48696510",
+      "summary_type": "extractive",
+      "title_zh": "Beer CSS – Build material design in record time",
+      "summary_zh": "Beer CSS – Build material design in record time"
     },
     {
       "title": "OpenTTD 16.0-Beta1",
@@ -44,7 +157,7 @@
       "tags": [
         "ai"
       ],
-      "score": "138",
+      "score": "200",
       "item_id": "hn:48695149",
       "summary_type": "extractive",
       "title_zh": "OpenTTD 16.0-Beta1",
@@ -60,7 +173,7 @@
       "tags": [
         "ai"
       ],
-      "score": "77",
+      "score": "122",
       "item_id": "hn:48694853",
       "summary_type": "extractive",
       "title_zh": "WordStar: A Writer's Word Processor (1996)",
@@ -76,27 +189,11 @@
       "tags": [
         "ai"
       ],
-      "score": "48",
+      "score": "95",
       "item_id": "hn:48694631",
       "summary_type": "extractive",
       "title_zh": "Anatomy of a Failed (Nation-State?) Attack",
       "summary_zh": "Anatomy of a Failed (Nation-State?) Attack"
-    },
-    {
-      "title": "Software Is Becoming Marketing",
-      "summary": "Software Is Becoming Marketing",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.terezatizkova.com/writing/software-abundance",
-      "published_at": "2026-06-27T02:26:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "14",
-      "item_id": "hn:48694563",
-      "summary_type": "extractive",
-      "title_zh": "Software Is Becoming Marketing",
-      "summary_zh": "Software Is Becoming Marketing"
     },
     {
       "title": "Show HN: Hacker News on a train station-style flip board",
@@ -108,11 +205,27 @@
       "tags": [
         "ai"
       ],
-      "score": "66",
+      "score": "86",
       "item_id": "hn:48693912",
       "summary_type": "extractive",
       "title_zh": "Show HN: Hacker News on a train station-style flip board",
       "summary_zh": "Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I&#x27;ve been working on. The recent flip board back and forth&#x27;s on Twitter (X) are what inspired me.The idea here is that people (like me or you) can create something neat like this, and others can remix it, change it and publish their own version. This is that all in action and it worked great."
+    },
+    {
+      "title": "International investment and local rules push prices up faster than supply",
+      "summary": "International investment and local rules push prices up faster than supply",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+      "published_at": "2026-06-26T23:36:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "111",
+      "item_id": "hn:48693420",
+      "summary_type": "extractive",
+      "title_zh": "International investment and local rules push prices up faster than supply",
+      "summary_zh": "International investment and local rules push prices up faster than supply"
     },
     {
       "title": "Om",
@@ -124,7 +237,7 @@
       "tags": [
         "ai"
       ],
-      "score": "347",
+      "score": "444",
       "item_id": "hn:48693391",
       "summary_type": "extractive",
       "title_zh": "Om",
@@ -141,7 +254,7 @@
         "llm",
         "vision"
       ],
-      "score": "414",
+      "score": "492",
       "item_id": "hn:48692995",
       "summary_type": "extractive",
       "title_zh": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
@@ -157,7 +270,7 @@
       "tags": [
         "ai"
       ],
-      "score": "228",
+      "score": "287",
       "item_id": "hn:48692946",
       "summary_type": "extractive",
       "title_zh": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
@@ -173,123 +286,11 @@
       "tags": [
         "ai"
       ],
-      "score": "115",
+      "score": "158",
       "item_id": "hn:48692883",
       "summary_type": "extractive",
       "title_zh": "AI in mathematics is forcing big questions",
       "summary_zh": "AI in mathematics is forcing big questions"
-    },
-    {
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "summary": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/Tessil/hopscotch-map",
-      "published_at": "2026-06-26T21:18:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "90",
-      "item_id": "hn:48692090",
-      "summary_type": "extractive",
-      "title_zh": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "summary_zh": "A C++ implementation of a fast hash map and hash set using hopscotch hashing"
-    },
-    {
-      "title": "Evan's Jujutsu Tutorial",
-      "summary": "Evan's Jujutsu Tutorial",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://evmar.github.io/jjtut/",
-      "published_at": "2026-06-26T21:17:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "41",
-      "item_id": "hn:48692083",
-      "summary_type": "extractive",
-      "title_zh": "Evan's Jujutsu Tutorial",
-      "summary_zh": "Evan's Jujutsu Tutorial"
-    },
-    {
-      "title": "We can still stop California's 3D printer surveillance scheme",
-      "summary": "We can still stop California's 3D printer surveillance scheme",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-      "published_at": "2026-06-26T21:13:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "386",
-      "item_id": "hn:48692051",
-      "summary_type": "extractive",
-      "title_zh": "We can still stop California's 3D printer surveillance scheme",
-      "summary_zh": "We can still stop California's 3D printer surveillance scheme"
-    },
-    {
-      "title": "Hightouch (YC S19) Is Hiring",
-      "summary": "Hightouch (YC S19) Is Hiring",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://hightouch.com/careers#open-positions",
-      "published_at": "2026-06-26T21:00:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:48691893",
-      "summary_type": "extractive",
-      "title_zh": "Hightouch (YC S19) Is Hiring",
-      "summary_zh": "Hightouch (YC S19) Is Hiring"
-    },
-    {
-      "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-      "summary": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
-      "published_at": "2026-06-26T20:07:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "264",
-      "item_id": "hn:48691346",
-      "summary_type": "extractive",
-      "title_zh": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-      "summary_zh": "PlayStation Is Deleting 551 Movies from Customers' Accounts"
-    },
-    {
-      "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
-      "summary": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
-      "published_at": "2026-06-26T18:04:05+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "92",
-      "item_id": "hn:48689859",
-      "summary_type": "extractive",
-      "title_zh": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
-      "summary_zh": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It"
-    },
-    {
-      "title": "What Is a Nomogram and Why Would It Interest Me?",
-      "summary": "What Is a Nomogram and Why Would It Interest Me?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-      "published_at": "2026-06-26T17:24:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "115",
-      "item_id": "hn:48689277",
-      "summary_type": "extractive",
-      "title_zh": "What Is a Nomogram and Why Would It Interest Me?",
-      "summary_zh": "What Is a Nomogram and Why Would It Interest Me?"
     },
     {
       "title": "Ultrasound imaging of the brain",
@@ -301,11 +302,27 @@
       "tags": [
         "ai"
       ],
-      "score": "275",
+      "score": "297",
       "item_id": "hn:48685558",
       "summary_type": "extractive",
       "title_zh": "Ultrasound imaging of the brain",
       "summary_zh": "Ultrasound imaging of the brain"
+    },
+    {
+      "title": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
+      "summary": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab",
+      "published_at": "2026-06-26T04:13:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "34",
+      "item_id": "hn:48682243",
+      "summary_type": "extractive",
+      "title_zh": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
+      "summary_zh": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512"
     },
     {
       "title": "Long Wave radio era set to end with switch-off",
@@ -317,7 +334,7 @@
       "tags": [
         "ai"
       ],
-      "score": "12",
+      "score": "84",
       "item_id": "hn:48677564",
       "summary_type": "extractive",
       "title_zh": "Long Wave radio era set to end with switch-off",
@@ -366,8 +383,8 @@
       "url": "http://arxiv.org/abs/2606.27342v1",
       "published_at": "2026-06-25T17:49:48Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27342v1",
@@ -401,10 +418,10 @@
       "url": "http://arxiv.org/abs/2606.27330v1",
       "published_at": "2026-06-25T17:44:48Z",
       "tags": [
+        "agent",
         "llm",
         "paper",
-        "tool",
-        "agent"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27330v1",
@@ -456,10 +473,10 @@
       "url": "http://arxiv.org/abs/2606.27288v1",
       "published_at": "2026-06-25T17:06:06Z",
       "tags": [
+        "agent",
         "llm",
         "paper",
-        "tool",
-        "agent"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27288v1",
@@ -560,8 +577,8 @@
       "url": "http://arxiv.org/abs/2606.27234v1",
       "published_at": "2026-06-25T16:21:38Z",
       "tags": [
-        "paper",
         "vision",
+        "paper",
         "tool"
       ],
       "score": "📄",
@@ -640,6 +657,22 @@
       "summary_zh": "Deep learning models have achieved impressive performance across various fields but remain vulnerable to adversarial inputs, particularly in NLP, where such attacks can have significant real-world consequences. Adversarial attacks often involve small, semantically similar token replacements to fool NLP models, and recent methods have become more precise by targeting specific vulnerable words, often by exploiting some level of access to the model's internal structure. This paper proposes GAversar"
     },
     {
+      "title": "Cultures of Making and Relating",
+      "summary": "Cultures of Making and Relating",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
+      "published_at": "2026-06-25T15:54:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "18",
+      "item_id": "hn:48675290",
+      "summary_type": "extractive",
+      "title_zh": "Cultures of Making and Relating",
+      "summary_zh": "Cultures of Making and Relating"
+    },
+    {
       "title": "A Process Harness for Uplifting Legacy Workflows to Agentic BPM: Design and Realization in CUGA FLO",
       "summary": "We introduce the process harness, a new mechanism for uplifting legacy workflows into Agentic Business Process Management (Agentic BPM) without replacing the underlying workflow engine. A process harness places a policy-governed agentic layer around a deterministic workflow engine, intercepting designated control points to contribute reasoning, adaptation, and oversight while the engine retains structural authority over the process. To define the process harness rigorously, we develop the Task-D",
       "full_text": "",
@@ -665,10 +698,10 @@
       "published_at": "2026-06-25T15:45:57Z",
       "tags": [
         "vision",
-        "paper",
+        "tool",
         "agent",
-        "llm",
-        "tool"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27180v1",
@@ -677,20 +710,20 @@
       "summary_zh": "Sparse rewards are inherently challenging for reinforcement learning agents as they lack intermediate feedback to guide exploration and to correctly attribute the sparse success rewards to relevant parts of the trajectory. Naive reward shaping can induce reward hacking, yielding policies that exploit auxiliary signals instead of solving the intended task. Potential-based reward shaping (PBRS) guarantees preservation of the optimal policy set, but requires the definition of a heuristic potential "
     },
     {
-      "title": "A Tiny Compiler for Data-Parallel Kernels",
-      "summary": "A Tiny Compiler for Data-Parallel Kernels",
+      "title": "The US Army Issued Ocarinas to Soldiers in World War II",
+      "summary": "The US Army Issued Ocarinas to Soldiers in World War II",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-      "published_at": "2026-06-25T13:32:12+00:00",
+      "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
+      "published_at": "2026-06-25T07:26:06+00:00",
       "tags": [
         "ai"
       ],
-      "score": "42",
-      "item_id": "hn:48673115",
+      "score": "51",
+      "item_id": "hn:48670103",
       "summary_type": "extractive",
-      "title_zh": "A Tiny Compiler for Data-Parallel Kernels",
-      "summary_zh": "A Tiny Compiler for Data-Parallel Kernels"
+      "title_zh": "The US Army Issued Ocarinas to Soldiers in World War II",
+      "summary_zh": "The US Army Issued Ocarinas to Soldiers in World War II"
     },
     {
       "title": "Linux on Older Hardware: The Complete Revival Guide",
@@ -702,43 +735,43 @@
       "tags": [
         "ai"
       ],
-      "score": "20",
+      "score": "107",
       "item_id": "hn:48668747",
       "summary_type": "extractive",
       "title_zh": "Linux on Older Hardware: The Complete Revival Guide",
       "summary_zh": "Linux on Older Hardware: The Complete Revival Guide"
     },
     {
-      "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
-      "summary": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+      "title": "Jest/Vitest interactive course (runs in the browser)",
+      "summary": "Jest/Vitest interactive course (runs in the browser)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/dbos-inc/dbosify-py",
-      "published_at": "2026-06-24T17:20:48+00:00",
+      "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
+      "published_at": "2026-06-24T21:09:07+00:00",
       "tags": [
         "ai"
       ],
-      "score": "58",
-      "item_id": "hn:48662988",
+      "score": "24",
+      "item_id": "hn:48665671",
       "summary_type": "extractive",
-      "title_zh": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
-      "summary_zh": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres"
+      "title_zh": "Jest/Vitest interactive course (runs in the browser)",
+      "summary_zh": "Jest/Vitest interactive course (runs in the browser)"
     },
     {
-      "title": "A human postmortem of the 1996 AOL outage",
-      "summary": "A human postmortem of the 1996 AOL outage",
+      "title": "How H-E-B Became Texas' Most Beloved Brand (2024)",
+      "summary": "How H-E-B Became Texas' Most Beloved Brand (2024)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ngrok.com/blog/aol-was-down-1996",
-      "published_at": "2026-06-24T14:29:17+00:00",
+      "url": "https://texashighways.com/culture/how-heb-became-texas-most-beloved-brand/",
+      "published_at": "2026-06-24T20:19:52+00:00",
       "tags": [
         "ai"
       ],
-      "score": "66",
-      "item_id": "hn:48660522",
+      "score": "10",
+      "item_id": "hn:48665125",
       "summary_type": "extractive",
-      "title_zh": "A human postmortem of the 1996 AOL outage",
-      "summary_zh": "A human postmortem of the 1996 AOL outage"
+      "title_zh": "How H-E-B Became Texas' Most Beloved Brand (2024)",
+      "summary_zh": "How H-E-B Became Texas' Most Beloved Brand (2024)"
     },
     {
       "title": "Fusion Programming Language",
@@ -750,59 +783,27 @@
       "tags": [
         "ai"
       ],
-      "score": "61",
+      "score": "95",
       "item_id": "hn:48658148",
       "summary_type": "extractive",
       "title_zh": "Fusion Programming Language",
       "summary_zh": "Fusion Programming Language"
     },
     {
-      "title": "SCC Technical Assistance Program",
-      "summary": "SCC Technical Assistance Program",
+      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+      "summary": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://nerocam.com/scc_tap.asp",
-      "published_at": "2026-06-24T08:46:04+00:00",
+      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
+      "published_at": "2026-06-23T14:28:20+00:00",
       "tags": [
         "ai"
       ],
-      "score": "14",
-      "item_id": "hn:48656982",
+      "score": "7",
+      "item_id": "hn:48645510",
       "summary_type": "extractive",
-      "title_zh": "SCC Technical Assistance Program",
-      "summary_zh": "SCC Technical Assistance Program"
-    },
-    {
-      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-      "summary": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
-      "published_at": "2026-06-23T12:45:09+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "73",
-      "item_id": "hn:48644111",
-      "summary_type": "extractive",
-      "title_zh": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-      "summary_zh": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum"
-    },
-    {
-      "title": "Making Sense of Proof by Contradiction [pdf]",
-      "summary": "Making Sense of Proof by Contradiction [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
-      "published_at": "2026-06-23T12:00:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "37",
-      "item_id": "hn:48643661",
-      "summary_type": "extractive",
-      "title_zh": "Making Sense of Proof by Contradiction [pdf]",
-      "summary_zh": "Making Sense of Proof by Contradiction [pdf]"
+      "title_zh": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+      "summary_zh": "Task Failed Successfully: Saturating NIC and Disk Bandwidth"
     },
     {
       "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
@@ -814,7 +815,7 @@
       "tags": [
         "ai"
       ],
-      "score": "323",
+      "score": "349",
       "item_id": "hn:48642510",
       "summary_type": "extractive",
       "title_zh": "MicroVMs: Run isolated sandboxes with full lifecycle control",
@@ -830,7 +831,7 @@
       "tags": [
         "ai"
       ],
-      "score": "53",
+      "score": "78",
       "item_id": "hn:48633839",
       "summary_type": "extractive",
       "title_zh": "Hellishly Slow Level 13 Deflate Compression",

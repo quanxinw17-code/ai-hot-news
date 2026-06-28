@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-06-28T04:42:15.404077+00:00",
+  "updated_at": "2026-06-28T09:24:31.158620+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Can China build its own ASML?",
+      "summary": "Can China build its own ASML?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/",
+      "published_at": "2026-06-28T07:45:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "28",
+      "item_id": "hn:48705276",
+      "summary_type": "extractive",
+      "title_zh": "Can China build its own ASML?",
+      "summary_zh": "Can China build its own ASML?"
+    },
+    {
+      "title": "Bashblog – a single bash script to create blogs",
+      "summary": "Bashblog – a single bash script to create blogs",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/cfenollosa/bashblog",
+      "published_at": "2026-06-28T04:48:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "40",
+      "item_id": "hn:48704454",
+      "summary_type": "extractive",
+      "title_zh": "Bashblog – a single bash script to create blogs",
+      "summary_zh": "Bashblog – a single bash script to create blogs"
+    },
     {
       "title": "Ford hired AI and sacked humans. It backfired badly",
       "summary": "Ford hired AI and sacked humans. It backfired badly",
@@ -12,7 +44,7 @@
       "tags": [
         "ai"
       ],
-      "score": "52",
+      "score": "188",
       "item_id": "hn:48703968",
       "summary_type": "extractive",
       "title_zh": "Ford hired AI and sacked humans. It backfired badly",
@@ -28,15 +60,15 @@
       "tags": [
         "ai"
       ],
-      "score": "86",
+      "score": "216",
       "item_id": "hn:48703759",
       "summary_type": "extractive",
       "title_zh": "Marfa Public Radio Puts You to Sleep",
       "summary_zh": "Marfa Public Radio Puts You to Sleep"
     },
     {
-      "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
-      "summary": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+      "title": "Feds Killed Polestar and Spared Volvo",
+      "summary": "Feds Killed Polestar and Spared Volvo",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
@@ -44,15 +76,15 @@
       "tags": [
         "ai"
       ],
-      "score": "63",
+      "score": "149",
       "item_id": "hn:48703613",
       "summary_type": "extractive",
-      "title_zh": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
-      "summary_zh": "Feds Killed Polestar and Spared Volvo. That Should Terrify You"
+      "title_zh": "Feds Killed Polestar and Spared Volvo",
+      "summary_zh": "Feds Killed Polestar and Spared Volvo"
     },
     {
-      "title": "Response to AI slop is from Robin Williams",
-      "summary": "Response to AI slop is from Robin Williams",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "summary": "The best response to AI slop and online noise is from Robin Williams",
       "full_text": "",
       "source": "hacker news",
       "url": "https://jayacunzo.com/blog/your-move-chief",
@@ -60,11 +92,27 @@
       "tags": [
         "ai"
       ],
-      "score": "117",
+      "score": "213",
       "item_id": "hn:48703452",
       "summary_type": "extractive",
-      "title_zh": "Response to AI slop is from Robin Williams",
-      "summary_zh": "Response to AI slop is from Robin Williams"
+      "title_zh": "The best response to AI slop and online noise is from Robin Williams",
+      "summary_zh": "The best response to AI slop and online noise is from Robin Williams"
+    },
+    {
+      "title": "Turning music into a chore is how I became a musician (2022)",
+      "summary": "Turning music into a chore is how I became a musician (2022)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
+      "published_at": "2026-06-28T01:22:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "37",
+      "item_id": "hn:48703418",
+      "summary_type": "extractive",
+      "title_zh": "Turning music into a chore is how I became a musician (2022)",
+      "summary_zh": "Turning music into a chore is how I became a musician (2022)"
     },
     {
       "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
@@ -76,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "64",
+      "score": "119",
       "item_id": "hn:48703412",
       "summary_type": "extractive",
       "title_zh": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
@@ -92,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "71",
+      "score": "132",
       "item_id": "hn:48703258",
       "summary_type": "extractive",
       "title_zh": "AMD Strix Halo RDMA Cluster Setup Guide",
@@ -108,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "26",
+      "score": "67",
       "item_id": "hn:48702848",
       "summary_type": "extractive",
       "title_zh": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
@@ -124,31 +172,15 @@
       "tags": [
         "ai"
       ],
-      "score": "95",
+      "score": "157",
       "item_id": "hn:48702273",
       "summary_type": "extractive",
       "title_zh": "Choosing a Public DNS Resolver",
       "summary_zh": "Choosing a Public DNS Resolver"
     },
     {
-      "title": "What Ozempic does to the gut-brain axis",
-      "summary": "What Ozempic does to the gut-brain axis",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
-      "published_at": "2026-06-27T21:34:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "119",
-      "item_id": "hn:48701984",
-      "summary_type": "extractive",
-      "title_zh": "What Ozempic does to the gut-brain axis",
-      "summary_zh": "What Ozempic does to the gut-brain axis"
-    },
-    {
-      "title": "Enhancing X11 Application Security with LXC",
-      "summary": "Enhancing X11 Application Security with LXC",
+      "title": "Enhancing X11 Application Security with LXC (2025)",
+      "summary": "Enhancing X11 Application Security with LXC (2025)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
@@ -156,27 +188,11 @@
       "tags": [
         "ai"
       ],
-      "score": "51",
+      "score": "67",
       "item_id": "hn:48701936",
       "summary_type": "extractive",
-      "title_zh": "Enhancing X11 Application Security with LXC",
-      "summary_zh": "Enhancing X11 Application Security with LXC"
-    },
-    {
-      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-      "summary": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ipcrawl.com/",
-      "published_at": "2026-06-27T19:09:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "269",
-      "item_id": "hn:48700834",
-      "summary_type": "extractive",
-      "title_zh": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-      "summary_zh": "IP Crawl: Living atlas of open webcams discovered on the public internet"
+      "title_zh": "Enhancing X11 Application Security with LXC (2025)",
+      "summary_zh": "Enhancing X11 Application Security with LXC (2025)"
     },
     {
       "title": "Turn your site into a place people can bump into each other",
@@ -188,27 +204,11 @@
       "tags": [
         "ai"
       ],
-      "score": "181",
+      "score": "225",
       "item_id": "hn:48699928",
       "summary_type": "extractive",
       "title_zh": "Turn your site into a place people can bump into each other",
       "summary_zh": "Related: Show HN: TownSquare, a tiny presence layer for websites - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48608570 - June 2026 (166 comments)"
-    },
-    {
-      "title": "Supabase (YC S20) Is Hiring for Multigres",
-      "summary": "Supabase (YC S20) Is Hiring for Multigres",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
-      "published_at": "2026-06-27T17:00:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:48699842",
-      "summary_type": "extractive",
-      "title_zh": "Supabase (YC S20) Is Hiring for Multigres",
-      "summary_zh": "Supabase (YC S20) Is Hiring for Multigres"
     },
     {
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
@@ -220,7 +220,7 @@
       "tags": [
         "ai"
       ],
-      "score": "720",
+      "score": "798",
       "item_id": "hn:48698617",
       "summary_type": "extractive",
       "title_zh": "Anonymous GitHub account mass-dropping undisclosed 0-days",
@@ -236,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "139",
+      "score": "148",
       "item_id": "hn:48698559",
       "summary_type": "extractive",
       "title_zh": "Post-Mythos Cybersecurity: Keep calm and carry on",
@@ -252,7 +252,7 @@
       "tags": [
         "ai"
       ],
-      "score": "223",
+      "score": "239",
       "item_id": "hn:48698151",
       "summary_type": "extractive",
       "title_zh": "Suspicious Discontinuities (2020)",
@@ -268,7 +268,7 @@
       "tags": [
         "ai"
       ],
-      "score": "180",
+      "score": "225",
       "item_id": "hn:48697958",
       "summary_type": "extractive",
       "title_zh": "Asian AI startups launch Mythos-like models",
@@ -284,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "619",
+      "score": "705",
       "item_id": "hn:48697560",
       "summary_type": "extractive",
       "title_zh": "OpenRA",
@@ -300,7 +300,7 @@
       "tags": [
         "ai"
       ],
-      "score": "387",
+      "score": "434",
       "item_id": "hn:48697335",
       "summary_type": "extractive",
       "title_zh": "The case for physical media ownership",
@@ -316,7 +316,7 @@
       "tags": [
         "ai"
       ],
-      "score": "502",
+      "score": "558",
       "item_id": "hn:48696982",
       "summary_type": "extractive",
       "title_zh": "Fintech Engineering Handbook",
@@ -330,46 +330,30 @@
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
       "published_at": "2026-06-27T09:18:52+00:00",
       "tags": [
-        "tool",
-        "llm"
+        "llm",
+        "tool"
       ],
-      "score": "742",
+      "score": "760",
       "item_id": "hn:48696585",
       "summary_type": "extractive",
       "title_zh": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "summary_zh": "DSpark: Speculative decoding accelerates LLM inference [pdf]"
     },
     {
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "summary": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "title": "Reflecting to optimise",
+      "summary": "Reflecting to optimise",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "published_at": "2026-06-26T22:43:29+00:00",
+      "url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
+      "published_at": "2026-06-26T14:07:41+00:00",
       "tags": [
         "ai"
       ],
-      "score": "356",
-      "item_id": "hn:48692946",
+      "score": "17",
+      "item_id": "hn:48686804",
       "summary_type": "extractive",
-      "title_zh": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "summary_zh": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)"
-    },
-    {
-      "title": "One man, two kernels, and a lot of RISC-V",
-      "summary": "One man, two kernels, and a lot of RISC-V",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
-      "published_at": "2026-06-26T16:20:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "85",
-      "item_id": "hn:48688438",
-      "summary_type": "extractive",
-      "title_zh": "One man, two kernels, and a lot of RISC-V",
-      "summary_zh": "One man, two kernels, and a lot of RISC-V"
+      "title_zh": "Reflecting to optimise",
+      "summary_zh": "Reflecting to optimise"
     },
     {
       "title": "Space Shuttle Endeavour's 20-story vertical display",
@@ -381,11 +365,27 @@
       "tags": [
         "ai"
       ],
-      "score": "32",
+      "score": "56",
       "item_id": "hn:48686032",
       "summary_type": "extractive",
       "title_zh": "Space Shuttle Endeavour's 20-story vertical display",
       "summary_zh": "Space Shuttle Endeavour's 20-story vertical display"
+    },
+    {
+      "title": "Engineering for Bounded Cognition",
+      "summary": "Engineering for Bounded Cognition",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+      "published_at": "2026-06-26T12:41:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "34",
+      "item_id": "hn:48685967",
+      "summary_type": "extractive",
+      "title_zh": "Engineering for Bounded Cognition",
+      "summary_zh": "Engineering for Bounded Cognition"
     },
     {
       "title": "Autoregressive Boltzmann Generators",
@@ -395,9 +395,9 @@
       "url": "http://arxiv.org/abs/2606.27361v1",
       "published_at": "2026-06-25T17:58:21Z",
       "tags": [
+        "llm",
         "tool",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27361v1",
@@ -413,8 +413,8 @@
       "url": "http://arxiv.org/abs/2606.27354v1",
       "published_at": "2026-06-25T17:56:27Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27354v1",
@@ -447,9 +447,9 @@
       "url": "http://arxiv.org/abs/2606.27334v1",
       "published_at": "2026-06-25T17:45:53Z",
       "tags": [
+        "llm",
         "tool",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27334v1",
@@ -465,10 +465,10 @@
       "url": "http://arxiv.org/abs/2606.27330v1",
       "published_at": "2026-06-25T17:44:48Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "agent",
-        "llm"
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27330v1",
@@ -484,10 +484,10 @@
       "url": "http://arxiv.org/abs/2606.27321v1",
       "published_at": "2026-06-25T17:34:39Z",
       "tags": [
-        "tool",
+        "llm",
         "vision",
-        "paper",
-        "llm"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27321v1",
@@ -503,8 +503,8 @@
       "url": "http://arxiv.org/abs/2606.27302v1",
       "published_at": "2026-06-25T17:24:26Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27302v1",
@@ -520,10 +520,10 @@
       "url": "http://arxiv.org/abs/2606.27288v1",
       "published_at": "2026-06-25T17:06:06Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "agent",
-        "llm"
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27288v1",
@@ -539,8 +539,8 @@
       "url": "http://arxiv.org/abs/2606.27287v1",
       "published_at": "2026-06-25T17:04:51Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27287v1",
@@ -606,9 +606,9 @@
       "url": "http://arxiv.org/abs/2606.27251v1",
       "published_at": "2026-06-25T16:36:35Z",
       "tags": [
+        "agent",
         "tool",
-        "paper",
-        "agent"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27251v1",
@@ -642,9 +642,9 @@
       "url": "http://arxiv.org/abs/2606.27233v1",
       "published_at": "2026-06-25T16:20:49Z",
       "tags": [
+        "agent",
         "tool",
-        "paper",
-        "agent"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27233v1",
@@ -660,8 +660,8 @@
       "url": "http://arxiv.org/abs/2606.27229v1",
       "published_at": "2026-06-25T16:16:51Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27229v1",
@@ -677,9 +677,9 @@
       "url": "http://arxiv.org/abs/2606.27226v1",
       "published_at": "2026-06-25T16:14:50Z",
       "tags": [
+        "llm",
         "tool",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27226v1",
@@ -711,8 +711,8 @@
       "url": "http://arxiv.org/abs/2606.27188v1",
       "published_at": "2026-06-25T15:50:42Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27188v1",
@@ -728,11 +728,11 @@
       "url": "http://arxiv.org/abs/2606.27180v1",
       "published_at": "2026-06-25T15:45:57Z",
       "tags": [
+        "agent",
+        "paper",
         "llm",
         "vision",
-        "agent",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27180v1",
@@ -750,27 +750,11 @@
       "tags": [
         "ai"
       ],
-      "score": "29",
+      "score": "54",
       "item_id": "hn:48672232",
       "summary_type": "extractive",
       "title_zh": "Regular expressions that work \"everywhere\"",
       "summary_zh": "Regular expressions that work \"everywhere\""
-    },
-    {
-      "title": "How H-E-B became Texas' most beloved brand (2024)",
-      "summary": "How H-E-B became Texas' most beloved brand (2024)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://texashighways.com/culture/how-heb-became-texas-most-beloved-brand/",
-      "published_at": "2026-06-24T20:19:52+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "105",
-      "item_id": "hn:48665125",
-      "summary_type": "extractive",
-      "title_zh": "How H-E-B became Texas' most beloved brand (2024)",
-      "summary_zh": "How H-E-B became Texas' most beloved brand (2024)"
     },
     {
       "title": "Reducing tick density along recreational trails in Ottawa, Canada",
@@ -782,7 +766,7 @@
       "tags": [
         "ai"
       ],
-      "score": "173",
+      "score": "198",
       "item_id": "hn:48664063",
       "summary_type": "extractive",
       "title_zh": "Reducing tick density along recreational trails in Ottawa, Canada",
@@ -798,7 +782,7 @@
       "tags": [
         "ai"
       ],
-      "score": "206",
+      "score": "231",
       "item_id": "hn:48660021",
       "summary_type": "extractive",
       "title_zh": "AI learns the “dark art” of RFIC design",
@@ -814,27 +798,43 @@
       "tags": [
         "ai"
       ],
-      "score": "31",
+      "score": "46",
       "item_id": "hn:48659517",
       "summary_type": "extractive",
       "title_zh": "How do you keep Web MIDI from crashing a 1983 synthesizer?",
       "summary_zh": "How do you keep Web MIDI from crashing a 1983 synthesizer?"
     },
     {
-      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
-      "summary": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "title": "Experimenting with Random() in CSS",
+      "summary": "Experimenting with Random() in CSS",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
-      "published_at": "2026-06-23T17:40:01+00:00",
+      "url": "https://polypane.app/blog/experimenting-with-random-in-css/",
+      "published_at": "2026-06-24T12:51:21+00:00",
       "tags": [
         "ai"
       ],
       "score": "9",
-      "item_id": "hn:48648493",
+      "item_id": "hn:48658960",
       "summary_type": "extractive",
-      "title_zh": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
-      "summary_zh": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them"
+      "title_zh": "Experimenting with Random() in CSS",
+      "summary_zh": "Experimenting with Random() in CSS"
+    },
+    {
+      "title": "A stray \"j\" ruined my evening",
+      "summary": "A stray \"j\" ruined my evening",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://napkins.mtmn.name/posts/stray-jay.html",
+      "published_at": "2026-06-23T21:56:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "12",
+      "item_id": "hn:48652019",
+      "summary_type": "extractive",
+      "title_zh": "A stray \"j\" ruined my evening",
+      "summary_zh": "A stray \"j\" ruined my evening"
     }
   ]
 }

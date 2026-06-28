@@ -1,10 +1,170 @@
 {
-  "updated_at": "2026-06-27T19:39:55.517527+00:00",
+  "updated_at": "2026-06-28T04:42:15.404077+00:00",
   "count": 50,
   "items": [
     {
-      "title": "IP Crawl: living atlas of open webcams discovered on the public internet",
-      "summary": "IP Crawl: living atlas of open webcams discovered on the public internet",
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "summary": "Ford hired AI and sacked humans. It backfired badly",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "published_at": "2026-06-28T03:09:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "52",
+      "item_id": "hn:48703968",
+      "summary_type": "extractive",
+      "title_zh": "Ford hired AI and sacked humans. It backfired badly",
+      "summary_zh": "Ford hired AI and sacked humans. It backfired badly"
+    },
+    {
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "summary": "Marfa Public Radio Puts You to Sleep",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "published_at": "2026-06-28T02:23:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "86",
+      "item_id": "hn:48703759",
+      "summary_type": "extractive",
+      "title_zh": "Marfa Public Radio Puts You to Sleep",
+      "summary_zh": "Marfa Public Radio Puts You to Sleep"
+    },
+    {
+      "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+      "summary": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+      "published_at": "2026-06-28T01:55:21+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "63",
+      "item_id": "hn:48703613",
+      "summary_type": "extractive",
+      "title_zh": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+      "summary_zh": "Feds Killed Polestar and Spared Volvo. That Should Terrify You"
+    },
+    {
+      "title": "Response to AI slop is from Robin Williams",
+      "summary": "Response to AI slop is from Robin Williams",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "published_at": "2026-06-28T01:28:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "117",
+      "item_id": "hn:48703452",
+      "summary_type": "extractive",
+      "title_zh": "Response to AI slop is from Robin Williams",
+      "summary_zh": "Response to AI slop is from Robin Williams"
+    },
+    {
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "summary": "Over the past few months I&#x27;ve been heavily involved in the decompilation community. I&#x27;ve been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey with zero prior decomp experience—and to make things worse I had never really touched C nor assembly either.Learning how to decompile was challenging.",
+      "full_text": "Over the past few months I&#x27;ve been heavily involved in the decompilation community. I&#x27;ve been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey with zero prior decomp experience—and to make things worse I had never really touched C nor assembly either.Learning how to decompile was challenging. It&#x27;s difficult to find any good learning resources for it and any open-source projects for this are inactive and&#x2F;or contain little actu",
+      "source": "hacker news",
+      "url": "https://decomp-academy.dev",
+      "published_at": "2026-06-28T01:21:20+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "64",
+      "item_id": "hn:48703412",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "summary_zh": "Over the past few months I&#x27;ve been heavily involved in the decompilation community. I&#x27;ve been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey with zero prior decomp experience—and to make things worse I had never really touched C nor assembly either.Learning how to decompile was challenging."
+    },
+    {
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "summary": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "published_at": "2026-06-28T00:46:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "71",
+      "item_id": "hn:48703258",
+      "summary_type": "extractive",
+      "title_zh": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "summary_zh": "AMD Strix Halo RDMA Cluster Setup Guide"
+    },
+    {
+      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+      "summary": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+      "published_at": "2026-06-27T23:32:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "26",
+      "item_id": "hn:48702848",
+      "summary_type": "extractive",
+      "title_zh": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+      "summary_zh": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups"
+    },
+    {
+      "title": "Choosing a Public DNS Resolver",
+      "summary": "Choosing a Public DNS Resolver",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "published_at": "2026-06-27T22:11:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "95",
+      "item_id": "hn:48702273",
+      "summary_type": "extractive",
+      "title_zh": "Choosing a Public DNS Resolver",
+      "summary_zh": "Choosing a Public DNS Resolver"
+    },
+    {
+      "title": "What Ozempic does to the gut-brain axis",
+      "summary": "What Ozempic does to the gut-brain axis",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+      "published_at": "2026-06-27T21:34:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "119",
+      "item_id": "hn:48701984",
+      "summary_type": "extractive",
+      "title_zh": "What Ozempic does to the gut-brain axis",
+      "summary_zh": "What Ozempic does to the gut-brain axis"
+    },
+    {
+      "title": "Enhancing X11 Application Security with LXC",
+      "summary": "Enhancing X11 Application Security with LXC",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+      "published_at": "2026-06-27T21:27:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "51",
+      "item_id": "hn:48701936",
+      "summary_type": "extractive",
+      "title_zh": "Enhancing X11 Application Security with LXC",
+      "summary_zh": "Enhancing X11 Application Security with LXC"
+    },
+    {
+      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "summary": "IP Crawl: Living atlas of open webcams discovered on the public internet",
       "full_text": "",
       "source": "hacker news",
       "url": "https://ipcrawl.com/",
@@ -12,75 +172,27 @@
       "tags": [
         "ai"
       ],
-      "score": "4",
+      "score": "269",
       "item_id": "hn:48700834",
       "summary_type": "extractive",
-      "title_zh": "IP Crawl: living atlas of open webcams discovered on the public internet",
-      "summary_zh": "IP Crawl: living atlas of open webcams discovered on the public internet"
-    },
-    {
-      "title": "Ships keep moving through Hormuz despite strike",
-      "summary": "Ships keep moving through Hormuz despite strike",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy",
-      "published_at": "2026-06-27T19:06:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:48700805",
-      "summary_type": "extractive",
-      "title_zh": "Ships keep moving through Hormuz despite strike",
-      "summary_zh": "Ships keep moving through Hormuz despite strike"
-    },
-    {
-      "title": "The Card That Made the Apple II Serious",
-      "summary": "The Card That Made the Apple II Serious",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/",
-      "published_at": "2026-06-27T18:00:46+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "7",
-      "item_id": "hn:48700317",
-      "summary_type": "extractive",
-      "title_zh": "The Card That Made the Apple II Serious",
-      "summary_zh": "The Card That Made the Apple II Serious"
-    },
-    {
-      "title": "\"No, I swear I wrote this.\"",
-      "summary": "\"No, I swear I wrote this.\"",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this",
-      "published_at": "2026-06-27T17:17:05+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "10",
-      "item_id": "hn:48699969",
-      "summary_type": "extractive",
-      "title_zh": "\"No, I swear I wrote this.\"",
-      "summary_zh": "\"No, I swear I wrote this.\""
+      "title_zh": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "summary_zh": "IP Crawl: Living atlas of open webcams discovered on the public internet"
     },
     {
       "title": "Turn your site into a place people can bump into each other",
-      "summary": "Turn your site into a place people can bump into each other",
-      "full_text": "",
+      "summary": "Related: Show HN: TownSquare, a tiny presence layer for websites - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48608570 - June 2026 (166 comments)",
+      "full_text": "Related: Show HN: TownSquare, a tiny presence layer for websites - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48608570 - June 2026 (166 comments)",
       "source": "hacker news",
       "url": "https://cauenapier.com/blog/townsquare_release/",
       "published_at": "2026-06-27T17:11:20+00:00",
       "tags": [
         "ai"
       ],
-      "score": "40",
+      "score": "181",
       "item_id": "hn:48699928",
       "summary_type": "extractive",
       "title_zh": "Turn your site into a place people can bump into each other",
-      "summary_zh": "Turn your site into a place people can bump into each other"
+      "summary_zh": "Related: Show HN: TownSquare, a tiny presence layer for websites - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48608570 - June 2026 (166 comments)"
     },
     {
       "title": "Supabase (YC S20) Is Hiring for Multigres",
@@ -99,54 +211,6 @@
       "summary_zh": "Supabase (YC S20) Is Hiring for Multigres"
     },
     {
-      "title": "Screen time can damage under-twos' development, landmark study suggests",
-      "summary": "Screen time can damage under-twos' development, landmark study suggests",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
-      "published_at": "2026-06-27T16:51:09+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "27",
-      "item_id": "hn:48699778",
-      "summary_type": "extractive",
-      "title_zh": "Screen time can damage under-twos' development, landmark study suggests",
-      "summary_zh": "Screen time can damage under-twos' development, landmark study suggests"
-    },
-    {
-      "title": "Doctors suspected man had brain cancer. He had worms",
-      "summary": "Doctors suspected man had brain cancer. He had worms",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-      "published_at": "2026-06-27T16:31:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "43",
-      "item_id": "hn:48699617",
-      "summary_type": "extractive",
-      "title_zh": "Doctors suspected man had brain cancer. He had worms",
-      "summary_zh": "Doctors suspected man had brain cancer. He had worms"
-    },
-    {
-      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-      "summary": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-      "published_at": "2026-06-27T14:38:05+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "431",
-      "item_id": "hn:48698684",
-      "summary_type": "extractive",
-      "title_zh": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-      "summary_zh": "Zuckerberg's Increasingly Bizarre War on Whistleblowers"
-    },
-    {
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "summary": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "full_text": "",
@@ -156,7 +220,7 @@
       "tags": [
         "ai"
       ],
-      "score": "415",
+      "score": "720",
       "item_id": "hn:48698617",
       "summary_type": "extractive",
       "title_zh": "Anonymous GitHub account mass-dropping undisclosed 0-days",
@@ -172,27 +236,11 @@
       "tags": [
         "ai"
       ],
-      "score": "87",
+      "score": "139",
       "item_id": "hn:48698559",
       "summary_type": "extractive",
       "title_zh": "Post-Mythos Cybersecurity: Keep calm and carry on",
       "summary_zh": "Post-Mythos Cybersecurity: Keep calm and carry on"
-    },
-    {
-      "title": "Running a software jam in a world of slop",
-      "summary": "I&#x27;m Fox. I&#x27;m a 16 year old, and I&#x27;ve been working mostly working on making projects I thought were cool &amp; would do well on the internet over the last year. You can check out my other blog posts if you want to get a sense of what that means: &lt;https:&#x2F;&#x2F;foxmoss.com&#x2F;blog&gt;.Hack Club noticed these projects and thought I would be well suited to run an event.",
-      "full_text": "I&#x27;m Fox. I&#x27;m a 16 year old, and I&#x27;ve been working mostly working on making projects I thought were cool &amp; would do well on the internet over the last year. You can check out my other blog posts if you want to get a sense of what that means: &lt;https:&#x2F;&#x2F;foxmoss.com&#x2F;blog&gt;.Hack Club noticed these projects and thought I would be well suited to run an event. This was my reaction, I wanted to make something that could encourage the same competition as well the feed",
-      "source": "hacker news",
-      "url": "https://foxmoss.com/blog/radish/",
-      "published_at": "2026-06-27T13:36:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "5",
-      "item_id": "hn:48698188",
-      "summary_type": "extractive",
-      "title_zh": "Running a software jam in a world of slop",
-      "summary_zh": "I&#x27;m Fox. I&#x27;m a 16 year old, and I&#x27;ve been working mostly working on making projects I thought were cool &amp; would do well on the internet over the last year. You can check out my other blog posts if you want to get a sense of what that means: &lt;https:&#x2F;&#x2F;foxmoss.com&#x2F;blog&gt;.Hack Club noticed these projects and thought I would be well suited to run an event."
     },
     {
       "title": "Suspicious Discontinuities (2020)",
@@ -204,43 +252,27 @@
       "tags": [
         "ai"
       ],
-      "score": "144",
+      "score": "223",
       "item_id": "hn:48698151",
       "summary_type": "extractive",
       "title_zh": "Suspicious Discontinuities (2020)",
       "summary_zh": "Suspicious Discontinuities (2020)"
     },
     {
-      "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
-      "summary": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+      "title": "Asian AI startups launch Mythos-like models",
+      "summary": "Asian AI startups launch Mythos-like models",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-      "published_at": "2026-06-27T12:43:16+00:00",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "published_at": "2026-06-27T13:10:21+00:00",
       "tags": [
         "ai"
       ],
-      "score": "189",
-      "item_id": "hn:48697768",
+      "score": "180",
+      "item_id": "hn:48697958",
       "summary_type": "extractive",
-      "title_zh": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
-      "summary_zh": "Streaming services' obnoxiously loud ads become illegal on July 1 in California"
-    },
-    {
-      "title": "How Many Elementary Particles Are There, Really?",
-      "summary": "How Many Elementary Particles Are There, Really?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
-      "published_at": "2026-06-27T12:40:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "95",
-      "item_id": "hn:48697746",
-      "summary_type": "extractive",
-      "title_zh": "How Many Elementary Particles Are There, Really?",
-      "summary_zh": "How Many Elementary Particles Are There, Really?"
+      "title_zh": "Asian AI startups launch Mythos-like models",
+      "summary_zh": "Asian AI startups launch Mythos-like models"
     },
     {
       "title": "OpenRA",
@@ -252,15 +284,15 @@
       "tags": [
         "ai"
       ],
-      "score": "427",
+      "score": "619",
       "item_id": "hn:48697560",
       "summary_type": "extractive",
       "title_zh": "OpenRA",
       "summary_zh": "OpenRA"
     },
     {
-      "title": "If you can't hold it, you don't own it",
-      "summary": "If you can't hold it, you don't own it",
+      "title": "The case for physical media ownership",
+      "summary": "The case for physical media ownership",
       "full_text": "",
       "source": "hacker news",
       "url": "https://dervis.de/physical/",
@@ -268,11 +300,11 @@
       "tags": [
         "ai"
       ],
-      "score": "272",
+      "score": "387",
       "item_id": "hn:48697335",
       "summary_type": "extractive",
-      "title_zh": "If you can't hold it, you don't own it",
-      "summary_zh": "If you can't hold it, you don't own it"
+      "title_zh": "The case for physical media ownership",
+      "summary_zh": "The case for physical media ownership"
     },
     {
       "title": "Fintech Engineering Handbook",
@@ -284,7 +316,7 @@
       "tags": [
         "ai"
       ],
-      "score": "375",
+      "score": "502",
       "item_id": "hn:48696982",
       "summary_type": "extractive",
       "title_zh": "Fintech Engineering Handbook",
@@ -301,43 +333,11 @@
         "tool",
         "llm"
       ],
-      "score": "676",
+      "score": "742",
       "item_id": "hn:48696585",
       "summary_type": "extractive",
       "title_zh": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "summary_zh": "DSpark: Speculative decoding accelerates LLM inference [pdf]"
-    },
-    {
-      "title": "Beer CSS – Build material design in record time",
-      "summary": "Beer CSS – Build material design in record time",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.beercss.com",
-      "published_at": "2026-06-27T09:06:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "112",
-      "item_id": "hn:48696510",
-      "summary_type": "extractive",
-      "title_zh": "Beer CSS – Build material design in record time",
-      "summary_zh": "Beer CSS – Build material design in record time"
-    },
-    {
-      "title": "WordStar: A Writer's Word Processor (1996)",
-      "summary": "WordStar: A Writer's Word Processor (1996)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.sfwriter.com/wordstar.htm",
-      "published_at": "2026-06-27T03:30:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "157",
-      "item_id": "hn:48694853",
-      "summary_type": "extractive",
-      "title_zh": "WordStar: A Writer's Word Processor (1996)",
-      "summary_zh": "WordStar: A Writer's Word Processor (1996)"
     },
     {
       "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
@@ -349,7 +349,7 @@
       "tags": [
         "ai"
       ],
-      "score": "330",
+      "score": "356",
       "item_id": "hn:48692946",
       "summary_type": "extractive",
       "title_zh": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
@@ -365,27 +365,27 @@
       "tags": [
         "ai"
       ],
-      "score": "49",
+      "score": "85",
       "item_id": "hn:48688438",
       "summary_type": "extractive",
       "title_zh": "One man, two kernels, and a lot of RISC-V",
       "summary_zh": "One man, two kernels, and a lot of RISC-V"
     },
     {
-      "title": "Long Wave radio era set to end with switch-off",
-      "summary": "https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74yn7v7k4qo",
-      "full_text": "https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74yn7v7k4qo",
+      "title": "Space Shuttle Endeavour's 20-story vertical display",
+      "summary": "Space Shuttle Endeavour's 20-story vertical display",
+      "full_text": "",
       "source": "hacker news",
-      "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
-      "published_at": "2026-06-25T18:42:17+00:00",
+      "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
+      "published_at": "2026-06-26T12:49:48+00:00",
       "tags": [
         "ai"
       ],
-      "score": "139",
-      "item_id": "hn:48677564",
+      "score": "32",
+      "item_id": "hn:48686032",
       "summary_type": "extractive",
-      "title_zh": "Long Wave radio era set to end with switch-off",
-      "summary_zh": "https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c74yn7v7k4qo"
+      "title_zh": "Space Shuttle Endeavour's 20-story vertical display",
+      "summary_zh": "Space Shuttle Endeavour's 20-story vertical display"
     },
     {
       "title": "Autoregressive Boltzmann Generators",
@@ -395,8 +395,8 @@
       "url": "http://arxiv.org/abs/2606.27361v1",
       "published_at": "2026-06-25T17:58:21Z",
       "tags": [
-        "paper",
         "tool",
+        "paper",
         "llm"
       ],
       "score": "📄",
@@ -447,8 +447,8 @@
       "url": "http://arxiv.org/abs/2606.27334v1",
       "published_at": "2026-06-25T17:45:53Z",
       "tags": [
-        "paper",
         "tool",
+        "paper",
         "llm"
       ],
       "score": "📄",
@@ -465,8 +465,8 @@
       "url": "http://arxiv.org/abs/2606.27330v1",
       "published_at": "2026-06-25T17:44:48Z",
       "tags": [
-        "paper",
         "tool",
+        "paper",
         "agent",
         "llm"
       ],
@@ -484,9 +484,9 @@
       "url": "http://arxiv.org/abs/2606.27321v1",
       "published_at": "2026-06-25T17:34:39Z",
       "tags": [
+        "tool",
         "vision",
         "paper",
-        "tool",
         "llm"
       ],
       "score": "📄",
@@ -520,8 +520,8 @@
       "url": "http://arxiv.org/abs/2606.27288v1",
       "published_at": "2026-06-25T17:06:06Z",
       "tags": [
-        "paper",
         "tool",
+        "paper",
         "agent",
         "llm"
       ],
@@ -556,8 +556,8 @@
       "url": "http://arxiv.org/abs/2606.27286v1",
       "published_at": "2026-06-25T17:03:30Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27286v1",
@@ -589,8 +589,8 @@
       "url": "http://arxiv.org/abs/2606.27268v1",
       "published_at": "2026-06-25T16:50:21Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27268v1",
@@ -606,8 +606,8 @@
       "url": "http://arxiv.org/abs/2606.27251v1",
       "published_at": "2026-06-25T16:36:35Z",
       "tags": [
-        "paper",
         "tool",
+        "paper",
         "agent"
       ],
       "score": "📄",
@@ -624,9 +624,9 @@
       "url": "http://arxiv.org/abs/2606.27234v1",
       "published_at": "2026-06-25T16:21:38Z",
       "tags": [
+        "tool",
         "vision",
-        "paper",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27234v1",
@@ -642,8 +642,8 @@
       "url": "http://arxiv.org/abs/2606.27233v1",
       "published_at": "2026-06-25T16:20:49Z",
       "tags": [
-        "paper",
         "tool",
+        "paper",
         "agent"
       ],
       "score": "📄",
@@ -677,8 +677,8 @@
       "url": "http://arxiv.org/abs/2606.27226v1",
       "published_at": "2026-06-25T16:14:50Z",
       "tags": [
-        "paper",
         "tool",
+        "paper",
         "llm"
       ],
       "score": "📄",
@@ -728,11 +728,11 @@
       "url": "http://arxiv.org/abs/2606.27180v1",
       "published_at": "2026-06-25T15:45:57Z",
       "tags": [
-        "paper",
-        "tool",
         "llm",
         "vision",
-        "agent"
+        "agent",
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.27180v1",
@@ -741,52 +741,36 @@
       "summary_zh": "Sparse rewards are inherently challenging for reinforcement learning agents as they lack intermediate feedback to guide exploration and to correctly attribute the sparse success rewards to relevant parts of the trajectory. Naive reward shaping can induce reward hacking, yielding policies that exploit auxiliary signals instead of solving the intended task. Potential-based reward shaping (PBRS) guarantees preservation of the optimal policy set, but requires the definition of a heuristic potential "
     },
     {
-      "title": "A History of Menus Is a Menu of History",
-      "summary": "A History of Menus Is a Menu of History",
+      "title": "Regular expressions that work \"everywhere\"",
+      "summary": "Regular expressions that work \"everywhere\"",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://pudding.cool/2026/06/menu-story/",
-      "published_at": "2026-06-25T14:45:17+00:00",
+      "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
+      "published_at": "2026-06-25T12:13:24+00:00",
       "tags": [
         "ai"
       ],
-      "score": "12",
-      "item_id": "hn:48674244",
+      "score": "29",
+      "item_id": "hn:48672232",
       "summary_type": "extractive",
-      "title_zh": "A History of Menus Is a Menu of History",
-      "summary_zh": "A History of Menus Is a Menu of History"
+      "title_zh": "Regular expressions that work \"everywhere\"",
+      "summary_zh": "Regular expressions that work \"everywhere\""
     },
     {
-      "title": "The US Army Issued Ocarinas to Soldiers in World War II",
-      "summary": "The US Army Issued Ocarinas to Soldiers in World War II",
+      "title": "How H-E-B became Texas' most beloved brand (2024)",
+      "summary": "How H-E-B became Texas' most beloved brand (2024)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
-      "published_at": "2026-06-25T07:26:06+00:00",
+      "url": "https://texashighways.com/culture/how-heb-became-texas-most-beloved-brand/",
+      "published_at": "2026-06-24T20:19:52+00:00",
       "tags": [
         "ai"
       ],
-      "score": "109",
-      "item_id": "hn:48670103",
+      "score": "105",
+      "item_id": "hn:48665125",
       "summary_type": "extractive",
-      "title_zh": "The US Army Issued Ocarinas to Soldiers in World War II",
-      "summary_zh": "The US Army Issued Ocarinas to Soldiers in World War II"
-    },
-    {
-      "title": "Linux on Older Hardware: The Complete Revival Guide",
-      "summary": "Linux on Older Hardware: The Complete Revival Guide",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
-      "published_at": "2026-06-25T04:06:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "169",
-      "item_id": "hn:48668747",
-      "summary_type": "extractive",
-      "title_zh": "Linux on Older Hardware: The Complete Revival Guide",
-      "summary_zh": "Linux on Older Hardware: The Complete Revival Guide"
+      "title_zh": "How H-E-B became Texas' most beloved brand (2024)",
+      "summary_zh": "How H-E-B became Texas' most beloved brand (2024)"
     },
     {
       "title": "Reducing tick density along recreational trails in Ottawa, Canada",
@@ -798,15 +782,15 @@
       "tags": [
         "ai"
       ],
-      "score": "78",
+      "score": "173",
       "item_id": "hn:48664063",
       "summary_type": "extractive",
       "title_zh": "Reducing tick density along recreational trails in Ottawa, Canada",
       "summary_zh": "Reducing tick density along recreational trails in Ottawa, Canada"
     },
     {
-      "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
-      "summary": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+      "title": "AI learns the “dark art” of RFIC design",
+      "summary": "AI learns the “dark art” of RFIC design",
       "full_text": "",
       "source": "hacker news",
       "url": "https://spectrum.ieee.org/ai-radio-chip-design",
@@ -814,27 +798,43 @@
       "tags": [
         "ai"
       ],
-      "score": "93",
+      "score": "206",
       "item_id": "hn:48660021",
       "summary_type": "extractive",
-      "title_zh": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
-      "summary_zh": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine"
+      "title_zh": "AI learns the “dark art” of RFIC design",
+      "summary_zh": "AI learns the “dark art” of RFIC design"
     },
     {
-      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
-      "summary": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+      "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?",
+      "summary": "How do you keep Web MIDI from crashing a 1983 synthesizer?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
-      "published_at": "2026-06-23T14:28:20+00:00",
+      "url": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
+      "published_at": "2026-06-24T13:31:10+00:00",
       "tags": [
         "ai"
       ],
-      "score": "30",
-      "item_id": "hn:48645510",
+      "score": "31",
+      "item_id": "hn:48659517",
       "summary_type": "extractive",
-      "title_zh": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
-      "summary_zh": "Task Failed Successfully: Saturating NIC and Disk Bandwidth"
+      "title_zh": "How do you keep Web MIDI from crashing a 1983 synthesizer?",
+      "summary_zh": "How do you keep Web MIDI from crashing a 1983 synthesizer?"
+    },
+    {
+      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "summary": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+      "published_at": "2026-06-23T17:40:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "9",
+      "item_id": "hn:48648493",
+      "summary_type": "extractive",
+      "title_zh": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "summary_zh": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them"
     }
   ]
 }

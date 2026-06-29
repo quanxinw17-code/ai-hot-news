@@ -1,7 +1,136 @@
 {
-  "updated_at": "2026-06-29T16:02:27.731758+00:00",
+  "updated_at": "2026-06-29T20:09:11.870064+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "JumpServer: Open-Source Privileged Access Management",
+      "summary": "JumpServer: Open-Source Privileged Access Management",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/jumpserver/jumpserver",
+      "published_at": "2026-06-29T19:06:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "10",
+      "item_id": "hn:48723677",
+      "summary_type": "extractive",
+      "title_zh": "JumpServer: Open-Source Privileged Access Management",
+      "summary_zh": "JumpServer: Open-Source Privileged Access Management"
+    },
+    {
+      "title": ".garden TLD's change to a bad neighborhood",
+      "summary": ".garden TLD's change to a bad neighborhood",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627",
+      "published_at": "2026-06-29T18:49:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:48723452",
+      "summary_type": "extractive",
+      "title_zh": ".garden TLD's change to a bad neighborhood",
+      "summary_zh": ".garden TLD's change to a bad neighborhood"
+    },
+    {
+      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "summary": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "published_at": "2026-06-29T18:03:26+00:00",
+      "tags": [
+        "agent",
+        "tool"
+      ],
+      "score": "11",
+      "item_id": "hn:48722802",
+      "summary_type": "extractive",
+      "title_zh": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "summary_zh": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API"
+    },
+    {
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "summary": "Qwen 3.6 27B is the sweet spot for local development",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "published_at": "2026-06-29T17:05:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "330",
+      "item_id": "hn:48721903",
+      "summary_type": "extractive",
+      "title_zh": "Qwen 3.6 27B is the sweet spot for local development",
+      "summary_zh": "Qwen 3.6 27B is the sweet spot for local development"
+    },
+    {
+      "title": "The Radiation Exposure Lie",
+      "summary": "The Radiation Exposure Lie",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
+      "published_at": "2026-06-29T16:27:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "73",
+      "item_id": "hn:48721308",
+      "summary_type": "extractive",
+      "title_zh": "The Radiation Exposure Lie",
+      "summary_zh": "The Radiation Exposure Lie"
+    },
+    {
+      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+      "summary": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+      "published_at": "2026-06-29T16:07:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "231",
+      "item_id": "hn:48721072",
+      "summary_type": "extractive",
+      "title_zh": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+      "summary_zh": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage"
+    },
+    {
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "summary": "US Supreme Court rules geofence warrants require constitutional protections",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "published_at": "2026-06-29T15:54:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "263",
+      "item_id": "hn:48720924",
+      "summary_type": "extractive",
+      "title_zh": "US Supreme Court rules geofence warrants require constitutional protections",
+      "summary_zh": "US Supreme Court rules geofence warrants require constitutional protections"
+    },
+    {
+      "title": "A native graphical shell for SSH",
+      "summary": "A native graphical shell for SSH",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "published_at": "2026-06-29T15:42:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "155",
+      "item_id": "hn:48720758",
+      "summary_type": "extractive",
+      "title_zh": "A native graphical shell for SSH",
+      "summary_zh": "A native graphical shell for SSH"
+    },
     {
       "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
       "summary": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
@@ -12,59 +141,11 @@
       "tags": [
         "ai"
       ],
-      "score": "34",
+      "score": "136",
       "item_id": "hn:48720190",
       "summary_type": "extractive",
       "title_zh": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
       "summary_zh": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
-    },
-    {
-      "title": "WebGL Without a GPU",
-      "summary": "WebGL Without a GPU",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://microlink.io/blog/webgl-without-a-gpu",
-      "published_at": "2026-06-29T15:01:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "12",
-      "item_id": "hn:48720179",
-      "summary_type": "extractive",
-      "title_zh": "WebGL Without a GPU",
-      "summary_zh": "WebGL Without a GPU"
-    },
-    {
-      "title": "Working with AI",
-      "summary": "Working with AI",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://htmx.org/essays/working-with-ai/",
-      "published_at": "2026-06-29T14:53:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "12",
-      "item_id": "hn:48720064",
-      "summary_type": "extractive",
-      "title_zh": "Working with AI",
-      "summary_zh": "Working with AI"
-    },
-    {
-      "title": "Data breach exposes up to 14.2M email logins at six ISPs",
-      "summary": "Data breach exposes up to 14.2M email logins at six ISPs",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-      "published_at": "2026-06-29T14:27:35+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "24",
-      "item_id": "hn:48719712",
-      "summary_type": "extractive",
-      "title_zh": "Data breach exposes up to 14.2M email logins at six ISPs",
-      "summary_zh": "Data breach exposes up to 14.2M email logins at six ISPs"
     },
     {
       "title": "Mag 7 starting to underperform [pdf]",
@@ -76,11 +157,27 @@
       "tags": [
         "ai"
       ],
-      "score": "113",
+      "score": "167",
       "item_id": "hn:48719532",
       "summary_type": "extractive",
       "title_zh": "Mag 7 starting to underperform [pdf]",
       "summary_zh": "Mag 7 starting to underperform [pdf]"
+    },
+    {
+      "title": "You Don't Know Jack About Formal Verification",
+      "summary": "You Don't Know Jack About Formal Verification",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://queue.acm.org/detail.cfm?id=3819084",
+      "published_at": "2026-06-29T14:12:05+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "53",
+      "item_id": "hn:48719521",
+      "summary_type": "extractive",
+      "title_zh": "You Don't Know Jack About Formal Verification",
+      "summary_zh": "You Don't Know Jack About Formal Verification"
     },
     {
       "title": "Rocketlab acquires Iridium",
@@ -92,27 +189,11 @@
       "tags": [
         "ai"
       ],
-      "score": "82",
+      "score": "273",
       "item_id": "hn:48719485",
       "summary_type": "extractive",
       "title_zh": "Rocketlab acquires Iridium",
       "summary_zh": "Rocketlab acquires Iridium"
-    },
-    {
-      "title": "DocumentDB – a MongoDB compatible open-source database",
-      "summary": "DocumentDB – a MongoDB compatible open-source database",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://documentdb.io/",
-      "published_at": "2026-06-29T14:09:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:48719483",
-      "summary_type": "extractive",
-      "title_zh": "DocumentDB – a MongoDB compatible open-source database",
-      "summary_zh": "DocumentDB – a MongoDB compatible open-source database"
     },
     {
       "title": "CachyOS June 2026 Release",
@@ -124,7 +205,7 @@
       "tags": [
         "ai"
       ],
-      "score": "33",
+      "score": "108",
       "item_id": "hn:48719361",
       "summary_type": "extractive",
       "title_zh": "CachyOS June 2026 Release",
@@ -140,7 +221,7 @@
       "tags": [
         "ai"
       ],
-      "score": "132",
+      "score": "259",
       "item_id": "hn:48719027",
       "summary_type": "extractive",
       "title_zh": "Instagram is incorporating users' photos in ads for Meta Glasses",
@@ -156,7 +237,7 @@
       "tags": [
         "ai"
       ],
-      "score": "62",
+      "score": "99",
       "item_id": "hn:48718995",
       "summary_type": "extractive",
       "title_zh": "Building Principia for Windows XP",
@@ -172,7 +253,7 @@
       "tags": [
         "ai"
       ],
-      "score": "94",
+      "score": "184",
       "item_id": "hn:48718967",
       "summary_type": "extractive",
       "title_zh": "Studio Canal Movies purchased on PlayStation Store removed without refund",
@@ -188,7 +269,7 @@
       "tags": [
         "ai"
       ],
-      "score": "74",
+      "score": "167",
       "item_id": "hn:48718863",
       "summary_type": "extractive",
       "title_zh": "What happens when you run a CUDA kernel?",
@@ -204,27 +285,11 @@
       "tags": [
         "ai"
       ],
-      "score": "179",
+      "score": "266",
       "item_id": "hn:48718840",
       "summary_type": "extractive",
       "title_zh": "Tidal AI Policy",
       "summary_zh": "Tidal AI Policy"
-    },
-    {
-      "title": "NixOS 26.05",
-      "summary": "NixOS 26.05",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nixos.org/blog/announcements/2026/nixos-2605/",
-      "published_at": "2026-06-29T13:01:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "34",
-      "item_id": "hn:48718753",
-      "summary_type": "extractive",
-      "title_zh": "NixOS 26.05",
-      "summary_zh": "NixOS 26.05"
     },
     {
       "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
@@ -236,43 +301,27 @@
       "tags": [
         "ai"
       ],
-      "score": "134",
+      "score": "254",
       "item_id": "hn:48718102",
       "summary_type": "extractive",
       "title_zh": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
       "summary_zh": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing"
     },
     {
-      "title": "Rebuilding the Computer Room",
-      "summary": "Rebuilding the Computer Room",
+      "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+      "summary": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://alexwlchan.net/2026/computer-room/",
-      "published_at": "2026-06-29T11:34:36+00:00",
+      "url": "https://det.social/@lostgen/116820546568940358",
+      "published_at": "2026-06-29T10:45:51+00:00",
       "tags": [
         "ai"
       ],
-      "score": "49",
-      "item_id": "hn:48717905",
+      "score": "394",
+      "item_id": "hn:48717469",
       "summary_type": "extractive",
-      "title_zh": "Rebuilding the Computer Room",
-      "summary_zh": "Rebuilding the Computer Room"
-    },
-    {
-      "title": "DeepSeek V4 Peak Valley Pricing Change",
-      "summary": "DeepSeek V4 Peak Valley Pricing Change",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
-      "published_at": "2026-06-29T11:29:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "21",
-      "item_id": "hn:48717869",
-      "summary_type": "extractive",
-      "title_zh": "DeepSeek V4 Peak Valley Pricing Change",
-      "summary_zh": "DeepSeek V4 Peak Valley Pricing Change"
+      "title_zh": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+      "summary_zh": "The CEO of Mullvad is the main financer of the Swedish Örebro party"
     },
     {
       "title": "Sandia National Labs SA3000 8085 CPU",
@@ -284,7 +333,7 @@
       "tags": [
         "ai"
       ],
-      "score": "104",
+      "score": "130",
       "item_id": "hn:48717287",
       "summary_type": "extractive",
       "title_zh": "Sandia National Labs SA3000 8085 CPU",
@@ -300,27 +349,11 @@
       "tags": [
         "ai"
       ],
-      "score": "637",
+      "score": "804",
       "item_id": "hn:48716902",
       "summary_type": "extractive",
       "title_zh": "Pollen tried to remove my article and Google is assisting with it",
       "summary_zh": "Pollen tried to remove my article and Google is assisting with it"
-    },
-    {
-      "title": "Age verification is just a precursor to automated attribution of speech",
-      "summary": "Age verification is just a precursor to automated attribution of speech",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-      "published_at": "2026-06-29T03:42:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "807",
-      "item_id": "hn:48714529",
-      "summary_type": "extractive",
-      "title_zh": "Age verification is just a precursor to automated attribution of speech",
-      "summary_zh": "Age verification is just a precursor to automated attribution of speech"
     },
     {
       "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
@@ -332,44 +365,11 @@
       "tags": [
         "ai"
       ],
-      "score": "789",
+      "score": "927",
       "item_id": "hn:48713832",
       "summary_type": "extractive",
       "title_zh": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
       "summary_zh": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74."
-    },
-    {
-      "title": "Historical memory prices 1960-2026",
-      "summary": "Historical memory prices 1960-2026",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://dam.stanford.edu/memory-prices.html",
-      "published_at": "2026-06-28T18:32:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "379",
-      "item_id": "hn:48710092",
-      "summary_type": "extractive",
-      "title_zh": "Historical memory prices 1960-2026",
-      "summary_zh": "Historical memory prices 1960-2026"
-    },
-    {
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "summary": "GLM 5.2 beats Claude in our benchmarks",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "published_at": "2026-06-28T17:50:47+00:00",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "🔥 1.0k",
-      "item_id": "hn:48709670",
-      "summary_type": "extractive",
-      "title_zh": "GLM 5.2 beats Claude in our benchmarks",
-      "summary_zh": "GLM 5.2 beats Claude in our benchmarks"
     },
     {
       "title": "Decker Fantasy Camp 2026",
@@ -381,11 +381,27 @@
       "tags": [
         "ai"
       ],
-      "score": "4",
+      "score": "37",
       "item_id": "hn:48693273",
       "summary_type": "extractive",
       "title_zh": "Decker Fantasy Camp 2026",
       "summary_zh": "Decker Fantasy Camp 2026"
+    },
+    {
+      "title": "Font-Family Recommendations",
+      "summary": "Font-Family Recommendations",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://chrismorgan.info/font-family",
+      "published_at": "2026-06-26T21:37:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:48692310",
+      "summary_type": "extractive",
+      "title_zh": "Font-Family Recommendations",
+      "summary_zh": "Font-Family Recommendations"
     },
     {
       "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
@@ -395,9 +411,9 @@
       "url": "http://arxiv.org/abs/2606.28323v1",
       "published_at": "2026-06-26T17:59:57Z",
       "tags": [
-        "tool",
         "llm",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28323v1",
@@ -413,8 +429,8 @@
       "url": "http://arxiv.org/abs/2606.28308v1",
       "published_at": "2026-06-26T17:53:30Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28308v1",
@@ -430,9 +446,9 @@
       "url": "http://arxiv.org/abs/2606.28279v1",
       "published_at": "2026-06-26T17:21:06Z",
       "tags": [
-        "tool",
         "paper",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28279v1",
@@ -448,8 +464,8 @@
       "url": "http://arxiv.org/abs/2606.28277v1",
       "published_at": "2026-06-26T17:19:17Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28277v1",
@@ -465,9 +481,9 @@
       "url": "http://arxiv.org/abs/2606.28274v1",
       "published_at": "2026-06-26T17:17:17Z",
       "tags": [
-        "tool",
         "llm",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28274v1",
@@ -483,9 +499,9 @@
       "url": "http://arxiv.org/abs/2606.28270v1",
       "published_at": "2026-06-26T17:08:06Z",
       "tags": [
-        "tool",
         "paper",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28270v1",
@@ -501,30 +517,14 @@
       "url": "http://arxiv.org/abs/2606.28268v1",
       "published_at": "2026-06-26T17:04:42Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28268v1",
       "summary_type": "extractive",
       "title_zh": "Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation",
       "summary_zh": "Test-time adaptation (TTA) has emerged as a promising paradigm for mitigating distribution shifts in deep models. However, existing TTA approaches for anomaly segmentation remain limited by their reliance on pixel-level heuristics, such as confidence thresholding or entropy minimisation, which fail to preserve structural consistency under noise and texture variation. Moreover, they typically treat anomaly maps as flat intensity fields, ignoring the higher-order spatial relationships that charact"
-    },
-    {
-      "title": "1.38 Millimeter Microcontroller",
-      "summary": "1.38 Millimeter Microcontroller",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ti.com/product/MSPM0C1104",
-      "published_at": "2026-06-26T16:38:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "35",
-      "item_id": "hn:48688685",
-      "summary_type": "extractive",
-      "title_zh": "1.38 Millimeter Microcontroller",
-      "summary_zh": "1.38 Millimeter Microcontroller"
     },
     {
       "title": "How Width and Data Shape Generalization Scaling Laws in Quadratic Neural Networks",
@@ -534,8 +534,8 @@
       "url": "http://arxiv.org/abs/2606.28242v1",
       "published_at": "2026-06-26T16:27:46Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28242v1",
@@ -570,7 +570,7 @@
       "tags": [
         "ai"
       ],
-      "score": "11",
+      "score": "43",
       "item_id": "hn:48688382",
       "summary_type": "extractive",
       "title_zh": "Venetian Bridge Brawls in 17th and 18th Century Art",
@@ -584,8 +584,8 @@
       "url": "http://arxiv.org/abs/2606.28226v1",
       "published_at": "2026-06-26T16:14:33Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28226v1",
@@ -601,9 +601,9 @@
       "url": "http://arxiv.org/abs/2606.28217v1",
       "published_at": "2026-06-26T16:08:36Z",
       "tags": [
-        "tool",
         "paper",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28217v1",
@@ -619,10 +619,10 @@
       "url": "http://arxiv.org/abs/2606.28215v1",
       "published_at": "2026-06-26T16:05:58Z",
       "tags": [
-        "tool",
         "paper",
         "vision",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28215v1",
@@ -664,22 +664,6 @@
       "summary_zh": "Predicting human item difficulty is central to educational assessment, where reliable estimates support fairness and effective test construction. Existing methods often depend on costly human calibration or item-level textual representations, providing limited evidence about the cognitive processes that make items difficult. We argue that difficulty should be viewed not only as a property of item text, but also as an observable consequence of the problem-solving burden an item induces."
     },
     {
-      "title": "Type-checked non-empty strings",
-      "summary": "Type-checked non-empty strings",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-      "published_at": "2026-06-26T15:30:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "34",
-      "item_id": "hn:48687843",
-      "summary_type": "extractive",
-      "title_zh": "Type-checked non-empty strings",
-      "summary_zh": "Type-checked non-empty strings"
-    },
-    {
       "title": "LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior",
       "summary": "Embodied agents operating in decentralized and partially observable environments have attracted growing attention in recent years. However, existing large language model (LLM)-based agents often exhibit behaviors that are misaligned with their partners or inconsistent with the environment state, leading to inefficient cooperation and poor task success. To address this challenge, we propose a novel framework, Learning Laws of Cooperation (LLawCo), that enables embodied agents to autonomously alig",
       "full_text": "",
@@ -687,10 +671,10 @@
       "url": "http://arxiv.org/abs/2606.28182v1",
       "published_at": "2026-06-26T15:26:12Z",
       "tags": [
-        "tool",
-        "paper",
         "llm",
-        "agent"
+        "paper",
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28182v1",
@@ -723,8 +707,8 @@
       "url": "http://arxiv.org/abs/2606.28166v1",
       "published_at": "2026-06-26T15:00:35Z",
       "tags": [
-        "paper",
         "llm",
+        "paper",
         "agent"
       ],
       "score": "📄",
@@ -758,8 +742,8 @@
       "url": "http://arxiv.org/abs/2606.28149v1",
       "published_at": "2026-06-26T14:46:38Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28149v1",
@@ -775,8 +759,8 @@
       "url": "http://arxiv.org/abs/2606.28134v1",
       "published_at": "2026-06-26T14:34:28Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28134v1",
@@ -785,20 +769,36 @@
       "summary_zh": "Graph-based fraud detection is essential for safeguarding large-scale transaction systems, where undetected anomalies may lead to substantial financial losses and security risks. Real-world fraud graphs pose two coupled challenges: sparse and imbalanced supervision, where verified fraudulent labels are scarce and heavily skewed toward benign accounts, and representation dilution, where spatial message passing may oversmooth camouflaged anomalies while spectral filters may suppress fraud-relevant"
     },
     {
-      "title": "How we made WINDOW JOIN parallel and vectorized",
-      "summary": "How we made WINDOW JOIN parallel and vectorized",
+      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+      "summary": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://questdb.com/blog/window-join-parallel-vectorized/",
-      "published_at": "2026-06-25T16:55:10+00:00",
+      "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
+      "published_at": "2026-06-26T07:29:17+00:00",
       "tags": [
         "ai"
       ],
-      "score": "19",
-      "item_id": "hn:48676183",
+      "score": "50",
+      "item_id": "hn:48683475",
       "summary_type": "extractive",
-      "title_zh": "How we made WINDOW JOIN parallel and vectorized",
-      "summary_zh": "How we made WINDOW JOIN parallel and vectorized"
+      "title_zh": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+      "summary_zh": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it"
+    },
+    {
+      "title": "The Return of Aspect Oriented Programming",
+      "summary": "The Return of Aspect Oriented Programming",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://thomaswc.com/blog/the_return_of_aop.html",
+      "published_at": "2026-06-25T22:12:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "54",
+      "item_id": "hn:48679904",
+      "summary_type": "extractive",
+      "title_zh": "The Return of Aspect Oriented Programming",
+      "summary_zh": "The Return of Aspect Oriented Programming"
     },
     {
       "title": "Halvar's Guide to Entrepreneurship",
@@ -810,7 +810,7 @@
       "tags": [
         "ai"
       ],
-      "score": "107",
+      "score": "165",
       "item_id": "hn:48674875",
       "summary_type": "extractive",
       "title_zh": "Halvar's Guide to Entrepreneurship",
@@ -826,7 +826,7 @@
       "tags": [
         "ai"
       ],
-      "score": "94",
+      "score": "118",
       "item_id": "hn:48662018",
       "summary_type": "extractive",
       "title_zh": "NUMA: Cores, memory, and the distance between them",

@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-29T04:51:08.301011+00:00",
+  "updated_at": "2026-06-29T11:18:27.990658+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+      "summary": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "published_at": "2026-06-29T09:28:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "193",
+      "item_id": "hn:48716902",
+      "summary_type": "extractive",
+      "title_zh": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+      "summary_zh": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped"
+    },
+    {
+      "title": "EU countries move to revive temporary message-scanning regime",
+      "summary": "EU countries move to revive temporary message-scanning regime",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.euronews.com/my-europe/2026/06/26/eu-countries-move-to-revive-temporary-message-scanning-regime-but-it-could-backfire",
+      "published_at": "2026-06-29T08:00:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "22",
+      "item_id": "hn:48716184",
+      "summary_type": "extractive",
+      "title_zh": "EU countries move to revive temporary message-scanning regime",
+      "summary_zh": "EU countries move to revive temporary message-scanning regime"
+    },
+    {
+      "title": "My main Android phone is now 99% Google free",
+      "summary": "My main Android phone is now 99% Google free",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://simondalvai.org/blog/google-free-android/",
+      "published_at": "2026-06-29T06:49:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "20",
+      "item_id": "hn:48715711",
+      "summary_type": "extractive",
+      "title_zh": "My main Android phone is now 99% Google free",
+      "summary_zh": "My main Android phone is now 99% Google free"
+    },
     {
       "title": "Age verification is just a precursor to automated attribution of speech",
       "summary": "Age verification is just a precursor to automated attribution of speech",
@@ -12,7 +60,7 @@
       "tags": [
         "ai"
       ],
-      "score": "134",
+      "score": "555",
       "item_id": "hn:48714529",
       "summary_type": "extractive",
       "title_zh": "Age verification is just a precursor to automated attribution of speech",
@@ -28,76 +76,11 @@
       "tags": [
         "ai"
       ],
-      "score": "11",
+      "score": "519",
       "item_id": "hn:48713832",
       "summary_type": "extractive",
       "title_zh": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
       "summary_zh": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74."
-    },
-    {
-      "title": "AI boom risks global financial crash, warn central bankers",
-      "summary": "AI boom risks global financial crash, warn central bankers",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
-      "published_at": "2026-06-29T01:25:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "100",
-      "item_id": "hn:48713697",
-      "summary_type": "extractive",
-      "title_zh": "AI boom risks global financial crash, warn central bankers",
-      "summary_zh": "AI boom risks global financial crash, warn central bankers"
-    },
-    {
-      "title": "You might not need a service worker",
-      "summary": "You might not need a service worker",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
-      "published_at": "2026-06-29T00:48:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "7",
-      "item_id": "hn:48713453",
-      "summary_type": "extractive",
-      "title_zh": "You might not need a service worker",
-      "summary_zh": "You might not need a service worker"
-    },
-    {
-      "title": "Xonaly – Canada's Independent Search Engine",
-      "summary": "Xonaly – Canada's Independent Search Engine",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://xonaly.com/",
-      "published_at": "2026-06-28T22:20:56+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "66",
-      "item_id": "hn:48712324",
-      "summary_type": "extractive",
-      "title_zh": "Xonaly – Canada's Independent Search Engine",
-      "summary_zh": "Xonaly – Canada's Independent Search Engine"
-    },
-    {
-      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-      "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format.I tried to make it safe and predictable: no use of the system &#x2F;tmp, no use of eval.",
-      "full_text": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format.I tried to make it safe and predictable: no use of the system &#x2F;tmp, no use of eval. Groq is supported by default, and other providers can ",
-      "source": "hacker news",
-      "url": "https://github.com/kamaludu/bash4llm/",
-      "published_at": "2026-06-28T19:43:10+00:00",
-      "tags": [
-        "llm",
-        "tool"
-      ],
-      "score": "40",
-      "item_id": "hn:48710827",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-      "summary_zh": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format.I tried to make it safe and predictable: no use of the system &#x2F;tmp, no use of eval."
     },
     {
       "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
@@ -109,43 +92,11 @@
       "tags": [
         "ai"
       ],
-      "score": "90",
+      "score": "111",
       "item_id": "hn:48710775",
       "summary_type": "extractive",
       "title_zh": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
       "summary_zh": "TOP500 at ISC’26: We have a New Number 1 Supercomputer"
-    },
-    {
-      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
-      "summary": "http:&#x2F;&#x2F;i.stanford.edu&#x2F;pub&#x2F;cstr&#x2F;reports&#x2F;cs&#x2F;tr&#x2F;68&#x2F;85&#x2F;CS-TR-68-...",
-      "full_text": "http:&#x2F;&#x2F;i.stanford.edu&#x2F;pub&#x2F;cstr&#x2F;reports&#x2F;cs&#x2F;tr&#x2F;68&#x2F;85&#x2F;CS-TR-68-...",
-      "source": "hacker news",
-      "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
-      "published_at": "2026-06-28T18:59:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "26",
-      "item_id": "hn:48710350",
-      "summary_type": "extractive",
-      "title_zh": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
-      "summary_zh": "http:&#x2F;&#x2F;i.stanford.edu&#x2F;pub&#x2F;cstr&#x2F;reports&#x2F;cs&#x2F;tr&#x2F;68&#x2F;85&#x2F;CS-TR-68-..."
-    },
-    {
-      "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
-      "summary": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
-      "published_at": "2026-06-28T18:56:46+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "23",
-      "item_id": "hn:48710325",
-      "summary_type": "extractive",
-      "title_zh": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
-      "summary_zh": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)"
     },
     {
       "title": "Librepods: AirPods liberated",
@@ -157,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "323",
+      "score": "406",
       "item_id": "hn:48710232",
       "summary_type": "extractive",
       "title_zh": "Librepods: AirPods liberated",
@@ -173,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "232",
+      "score": "322",
       "item_id": "hn:48710092",
       "summary_type": "extractive",
       "title_zh": "Historical memory prices 1960-2026",
@@ -190,7 +141,7 @@
         "llm",
         "paper"
       ],
-      "score": "603",
+      "score": "883",
       "item_id": "hn:48709670",
       "summary_type": "extractive",
       "title_zh": "GLM 5.2 beats Claude in our benchmarks",
@@ -206,7 +157,7 @@
       "tags": [
         "ai"
       ],
-      "score": "87",
+      "score": "102",
       "item_id": "hn:48709186",
       "summary_type": "extractive",
       "title_zh": "Show HN: DRM-Free Books",
@@ -222,7 +173,7 @@
       "tags": [
         "ai"
       ],
-      "score": "327",
+      "score": "422",
       "item_id": "hn:48708991",
       "summary_type": "extractive",
       "title_zh": "Professor denounces mass AI fraud on an exam at Brown",
@@ -238,7 +189,7 @@
       "tags": [
         "ai"
       ],
-      "score": "125",
+      "score": "146",
       "item_id": "hn:48708859",
       "summary_type": "extractive",
       "title_zh": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
@@ -254,7 +205,7 @@
       "tags": [
         "ai"
       ],
-      "score": "123",
+      "score": "157",
       "item_id": "hn:48708795",
       "summary_type": "extractive",
       "title_zh": "Tokenmaxxing is dead, long live tokenmaxxing",
@@ -270,27 +221,11 @@
       "tags": [
         "ai"
       ],
-      "score": "94",
+      "score": "111",
       "item_id": "hn:48708700",
       "summary_type": "extractive",
       "title_zh": "Examining circuit boards from the Space Shuttle's I/O Processor",
       "summary_zh": "Examining circuit boards from the Space Shuttle's I/O Processor"
-    },
-    {
-      "title": "Programmable Probabilistic Computer with 1M p-bits",
-      "summary": "Programmable Probabilistic Computer with 1M p-bits",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arxiv.org/abs/2606.25313",
-      "published_at": "2026-06-28T15:55:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "48",
-      "item_id": "hn:48708496",
-      "summary_type": "extractive",
-      "title_zh": "Programmable Probabilistic Computer with 1M p-bits",
-      "summary_zh": "Programmable Probabilistic Computer with 1M p-bits"
     },
     {
       "title": "Show HN: Zanagrams",
@@ -302,7 +237,7 @@
       "tags": [
         "ai"
       ],
-      "score": "228",
+      "score": "298",
       "item_id": "hn:48708182",
       "summary_type": "extractive",
       "title_zh": "Show HN: Zanagrams",
@@ -318,7 +253,7 @@
       "tags": [
         "ai"
       ],
-      "score": "622",
+      "score": "673",
       "item_id": "hn:48707719",
       "summary_type": "extractive",
       "title_zh": "EU to legislate about Chat Control behind closed doors",
@@ -334,7 +269,7 @@
       "tags": [
         "ai"
       ],
-      "score": "215",
+      "score": "246",
       "item_id": "hn:48706814",
       "summary_type": "extractive",
       "title_zh": "The curious case of the disappearing Polish S (2015)",
@@ -350,7 +285,7 @@
       "tags": [
         "ai"
       ],
-      "score": "75",
+      "score": "82",
       "item_id": "hn:48706796",
       "summary_type": "extractive",
       "title_zh": "The MUMPS 76 Primer – anniversary edition",
@@ -366,7 +301,7 @@
       "tags": [
         "ai"
       ],
-      "score": "382",
+      "score": "507",
       "item_id": "hn:48706560",
       "summary_type": "extractive",
       "title_zh": "The KIDS Act would require age checks to get online",
@@ -382,7 +317,7 @@
       "tags": [
         "ai"
       ],
-      "score": "70",
+      "score": "98",
       "item_id": "hn:48706554",
       "summary_type": "extractive",
       "title_zh": "More evidence is consistent with possible ancient life on Mars (2025)",
@@ -398,7 +333,7 @@
       "tags": [
         "ai"
       ],
-      "score": "140",
+      "score": "142",
       "item_id": "hn:48705910",
       "summary_type": "extractive",
       "title_zh": "DLL that was not present in memory despite not being formally unloaded",
@@ -413,8 +348,8 @@
       "published_at": "2026-06-26T17:59:57Z",
       "tags": [
         "llm",
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28323v1",
@@ -447,9 +382,9 @@
       "url": "http://arxiv.org/abs/2606.28279v1",
       "published_at": "2026-06-26T17:21:06Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28279v1",
@@ -465,8 +400,8 @@
       "url": "http://arxiv.org/abs/2606.28277v1",
       "published_at": "2026-06-26T17:19:17Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28277v1",
@@ -483,8 +418,8 @@
       "published_at": "2026-06-26T17:17:17Z",
       "tags": [
         "llm",
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28274v1",
@@ -500,9 +435,9 @@
       "url": "http://arxiv.org/abs/2606.28270v1",
       "published_at": "2026-06-26T17:08:06Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28270v1",
@@ -518,8 +453,8 @@
       "url": "http://arxiv.org/abs/2606.28268v1",
       "published_at": "2026-06-26T17:04:42Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28268v1",
@@ -552,8 +487,8 @@
       "url": "http://arxiv.org/abs/2606.28235v1",
       "published_at": "2026-06-26T16:22:08Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28235v1",
@@ -569,14 +504,30 @@
       "url": "http://arxiv.org/abs/2606.28226v1",
       "published_at": "2026-06-26T16:14:33Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28226v1",
       "summary_type": "extractive",
       "title_zh": "Exposure Bias Can Alleviate Itself via Directional and Frequency Rectification in Flow Matching",
       "summary_zh": "Flow Matching (FM) has achieved remarkable generative performance, yet it suffers from exposure bias due to discrepancies between training and inference. Existing mitigation strategies typically rely on static constraints or external heuristics. In this work, we propose that exposure bias itself inherently contains dynamic signals that can guide its own rectification."
+    },
+    {
+      "title": "A glitch in February of the year 0",
+      "summary": "A glitch in February of the year 0",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://28times.com/blog/2026-06-26-february-of-the-year-0",
+      "published_at": "2026-06-26T16:08:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "20",
+      "item_id": "hn:48688275",
+      "summary_type": "extractive",
+      "title_zh": "A glitch in February of the year 0",
+      "summary_zh": "A glitch in February of the year 0"
     },
     {
       "title": "Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives",
@@ -586,9 +537,9 @@
       "url": "http://arxiv.org/abs/2606.28217v1",
       "published_at": "2026-06-26T16:08:36Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28217v1",
@@ -604,10 +555,10 @@
       "url": "http://arxiv.org/abs/2606.28215v1",
       "published_at": "2026-06-26T16:05:58Z",
       "tags": [
-        "paper",
-        "agent",
         "vision",
-        "tool"
+        "tool",
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28215v1",
@@ -657,9 +608,9 @@
       "published_at": "2026-06-26T15:26:12Z",
       "tags": [
         "llm",
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28182v1",
@@ -675,8 +626,8 @@
       "url": "http://arxiv.org/abs/2606.28179v1",
       "published_at": "2026-06-26T15:20:08Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28179v1",
@@ -693,8 +644,8 @@
       "published_at": "2026-06-26T15:00:35Z",
       "tags": [
         "llm",
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28166v1",
@@ -727,8 +678,8 @@
       "url": "http://arxiv.org/abs/2606.28149v1",
       "published_at": "2026-06-26T14:46:38Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28149v1",
@@ -744,8 +695,8 @@
       "url": "http://arxiv.org/abs/2606.28134v1",
       "published_at": "2026-06-26T14:34:28Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2606.28134v1",
@@ -763,7 +714,7 @@
       "tags": [
         "ai"
       ],
-      "score": "33",
+      "score": "69",
       "item_id": "hn:48684315",
       "summary_type": "extractive",
       "title_zh": "The Baffling World of Masayoshi Son's Presentations (2020)",
@@ -779,7 +730,7 @@
       "tags": [
         "ai"
       ],
-      "score": "12",
+      "score": "25",
       "item_id": "hn:48678393",
       "summary_type": "extractive",
       "title_zh": "Idler Magazine",
@@ -795,11 +746,27 @@
       "tags": [
         "ai"
       ],
-      "score": "163",
+      "score": "195",
       "item_id": "hn:48675295",
       "summary_type": "extractive",
       "title_zh": "The Boeing 747 begins its final descent",
       "summary_zh": "The Boeing 747 begins its final descent"
+    },
+    {
+      "title": "Halvar's Guide to Entrepreneurship",
+      "summary": "Halvar's Guide to Entrepreneurship",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
+      "published_at": "2026-06-25T15:28:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "6",
+      "item_id": "hn:48674875",
+      "summary_type": "extractive",
+      "title_zh": "Halvar's Guide to Entrepreneurship",
+      "summary_zh": "Halvar's Guide to Entrepreneurship"
     },
     {
       "title": "Model Training as Code",
@@ -811,15 +778,47 @@
       "tags": [
         "ai"
       ],
-      "score": "29",
+      "score": "165",
       "item_id": "hn:48673450",
       "summary_type": "extractive",
       "title_zh": "Model Training as Code",
       "summary_zh": "Model Training as Code"
     },
     {
-      "title": "Deciphering Basmala",
-      "summary": "Deciphering Basmala",
+      "title": "The Forgotten Castles of the Garamantes",
+      "summary": "The Forgotten Castles of the Garamantes",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.wildmanlife.com/the-forgotten-castles-of-the-garamantes/",
+      "published_at": "2026-06-24T21:45:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "30",
+      "item_id": "hn:48665988",
+      "summary_type": "extractive",
+      "title_zh": "The Forgotten Castles of the Garamantes",
+      "summary_zh": "The Forgotten Castles of the Garamantes"
+    },
+    {
+      "title": "NUMA: Cores, memory, and the distance between them",
+      "summary": "NUMA: Cores, memory, and the distance between them",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+      "published_at": "2026-06-24T16:10:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:48662018",
+      "summary_type": "extractive",
+      "title_zh": "NUMA: Cores, memory, and the distance between them",
+      "summary_zh": "NUMA: Cores, memory, and the distance between them"
+    },
+    {
+      "title": "Deciphering basmala",
+      "summary": "Deciphering basmala",
       "full_text": "",
       "source": "hacker news",
       "url": "https://blog.plover.com/lang/bismillah.html",
@@ -827,11 +826,11 @@
       "tags": [
         "ai"
       ],
-      "score": "25",
+      "score": "73",
       "item_id": "hn:48657131",
       "summary_type": "extractive",
-      "title_zh": "Deciphering Basmala",
-      "summary_zh": "Deciphering Basmala"
+      "title_zh": "Deciphering basmala",
+      "summary_zh": "Deciphering basmala"
     }
   ]
 }

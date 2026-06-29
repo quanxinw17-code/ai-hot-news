@@ -1,22 +1,119 @@
 {
-  "updated_at": "2026-06-28T19:41:00.411606+00:00",
+  "updated_at": "2026-06-29T04:51:08.301011+00:00",
   "count": 50,
   "items": [
     {
-      "title": "The US Used to Demand the Best Tech. Now We Ban It",
-      "summary": "The US Used to Demand the Best Tech. Now We Ban It",
+      "title": "Age verification is just a precursor to automated attribution of speech",
+      "summary": "Age verification is just a precursor to automated attribution of speech",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it",
-      "published_at": "2026-06-28T19:07:49+00:00",
+      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+      "published_at": "2026-06-29T03:42:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "134",
+      "item_id": "hn:48714529",
+      "summary_type": "extractive",
+      "title_zh": "Age verification is just a precursor to automated attribution of speech",
+      "summary_zh": "Age verification is just a precursor to automated attribution of speech"
+    },
+    {
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "summary": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74.",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "published_at": "2026-06-29T01:44:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:48713832",
+      "summary_type": "extractive",
+      "title_zh": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "summary_zh": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74."
+    },
+    {
+      "title": "AI boom risks global financial crash, warn central bankers",
+      "summary": "AI boom risks global financial crash, warn central bankers",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+      "published_at": "2026-06-29T01:25:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "100",
+      "item_id": "hn:48713697",
+      "summary_type": "extractive",
+      "title_zh": "AI boom risks global financial crash, warn central bankers",
+      "summary_zh": "AI boom risks global financial crash, warn central bankers"
+    },
+    {
+      "title": "You might not need a service worker",
+      "summary": "You might not need a service worker",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
+      "published_at": "2026-06-29T00:48:17+00:00",
       "tags": [
         "ai"
       ],
       "score": "7",
-      "item_id": "hn:48710437",
+      "item_id": "hn:48713453",
       "summary_type": "extractive",
-      "title_zh": "The US Used to Demand the Best Tech. Now We Ban It",
-      "summary_zh": "The US Used to Demand the Best Tech. Now We Ban It"
+      "title_zh": "You might not need a service worker",
+      "summary_zh": "You might not need a service worker"
+    },
+    {
+      "title": "Xonaly – Canada's Independent Search Engine",
+      "summary": "Xonaly – Canada's Independent Search Engine",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://xonaly.com/",
+      "published_at": "2026-06-28T22:20:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "66",
+      "item_id": "hn:48712324",
+      "summary_type": "extractive",
+      "title_zh": "Xonaly – Canada's Independent Search Engine",
+      "summary_zh": "Xonaly – Canada's Independent Search Engine"
+    },
+    {
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format.I tried to make it safe and predictable: no use of the system &#x2F;tmp, no use of eval.",
+      "full_text": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format.I tried to make it safe and predictable: no use of the system &#x2F;tmp, no use of eval. Groq is supported by default, and other providers can ",
+      "source": "hacker news",
+      "url": "https://github.com/kamaludu/bash4llm/",
+      "published_at": "2026-06-28T19:43:10+00:00",
+      "tags": [
+        "llm",
+        "tool"
+      ],
+      "score": "40",
+      "item_id": "hn:48710827",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "summary_zh": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal. I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It uses only Bash, curl, and jq. You can send prompts, start a small chat, process files line by line, stream output, and save session metadata in JSON format.I tried to make it safe and predictable: no use of the system &#x2F;tmp, no use of eval."
+    },
+    {
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "summary": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+      "published_at": "2026-06-28T19:38:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "90",
+      "item_id": "hn:48710775",
+      "summary_type": "extractive",
+      "title_zh": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "summary_zh": "TOP500 at ISC’26: We have a New Number 1 Supercomputer"
     },
     {
       "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
@@ -28,15 +125,31 @@
       "tags": [
         "ai"
       ],
-      "score": "3",
+      "score": "26",
       "item_id": "hn:48710350",
       "summary_type": "extractive",
       "title_zh": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
       "summary_zh": "http:&#x2F;&#x2F;i.stanford.edu&#x2F;pub&#x2F;cstr&#x2F;reports&#x2F;cs&#x2F;tr&#x2F;68&#x2F;85&#x2F;CS-TR-68-..."
     },
     {
-      "title": "GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem",
-      "summary": "GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem",
+      "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+      "summary": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+      "published_at": "2026-06-28T18:56:46+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "23",
+      "item_id": "hn:48710325",
+      "summary_type": "extractive",
+      "title_zh": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+      "summary_zh": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)"
+    },
+    {
+      "title": "Librepods: AirPods liberated",
+      "summary": "Librepods: AirPods liberated",
       "full_text": "",
       "source": "hacker news",
       "url": "https://github.com/librepods-org/librepods",
@@ -44,11 +157,11 @@
       "tags": [
         "ai"
       ],
-      "score": "3",
+      "score": "323",
       "item_id": "hn:48710232",
       "summary_type": "extractive",
-      "title_zh": "GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem",
-      "summary_zh": "GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem"
+      "title_zh": "Librepods: AirPods liberated",
+      "summary_zh": "Librepods: AirPods liberated"
     },
     {
       "title": "Historical memory prices 1960-2026",
@@ -60,31 +173,15 @@
       "tags": [
         "ai"
       ],
-      "score": "14",
+      "score": "232",
       "item_id": "hn:48710092",
       "summary_type": "extractive",
       "title_zh": "Historical memory prices 1960-2026",
       "summary_zh": "Historical memory prices 1960-2026"
     },
     {
-      "title": "The cost YAGNI was never about",
-      "summary": "The cost YAGNI was never about",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
-      "published_at": "2026-06-28T18:31:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "45",
-      "item_id": "hn:48710082",
-      "summary_type": "extractive",
-      "title_zh": "The cost YAGNI was never about",
-      "summary_zh": "The cost YAGNI was never about"
-    },
-    {
-      "title": "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
-      "summary": "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "summary": "GLM 5.2 beats Claude in our benchmarks",
       "full_text": "",
       "source": "hacker news",
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
@@ -93,11 +190,11 @@
         "llm",
         "paper"
       ],
-      "score": "4",
+      "score": "603",
       "item_id": "hn:48709670",
       "summary_type": "extractive",
-      "title_zh": "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
-      "summary_zh": "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks"
+      "title_zh": "GLM 5.2 beats Claude in our benchmarks",
+      "summary_zh": "GLM 5.2 beats Claude in our benchmarks"
     },
     {
       "title": "Show HN: DRM-Free Books",
@@ -109,11 +206,27 @@
       "tags": [
         "ai"
       ],
-      "score": "23",
+      "score": "87",
       "item_id": "hn:48709186",
       "summary_type": "extractive",
       "title_zh": "Show HN: DRM-Free Books",
       "summary_zh": "After several years of mandatory DRM lockdowns from most commercial book sources, now authors have a choice when it comes to DRM for their books.  Pick authors and books that are DRM-free, or download DRM-free classics that are out of copyright.https:&#x2F;&#x2F;frequal.com&#x2F;Perspectives&#x2F;DrmFreeAuthors.html"
+    },
+    {
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "summary": "Professor denounces mass AI fraud on an exam at Brown",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "published_at": "2026-06-28T16:41:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "327",
+      "item_id": "hn:48708991",
+      "summary_type": "extractive",
+      "title_zh": "Professor denounces mass AI fraud on an exam at Brown",
+      "summary_zh": "Professor denounces mass AI fraud on an exam at Brown"
     },
     {
       "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
@@ -125,7 +238,7 @@
       "tags": [
         "ai"
       ],
-      "score": "61",
+      "score": "125",
       "item_id": "hn:48708859",
       "summary_type": "extractive",
       "title_zh": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
@@ -141,7 +254,7 @@
       "tags": [
         "ai"
       ],
-      "score": "52",
+      "score": "123",
       "item_id": "hn:48708795",
       "summary_type": "extractive",
       "title_zh": "Tokenmaxxing is dead, long live tokenmaxxing",
@@ -157,7 +270,7 @@
       "tags": [
         "ai"
       ],
-      "score": "56",
+      "score": "94",
       "item_id": "hn:48708700",
       "summary_type": "extractive",
       "title_zh": "Examining circuit boards from the Space Shuttle's I/O Processor",
@@ -173,7 +286,7 @@
       "tags": [
         "ai"
       ],
-      "score": "22",
+      "score": "48",
       "item_id": "hn:48708496",
       "summary_type": "extractive",
       "title_zh": "Programmable Probabilistic Computer with 1M p-bits",
@@ -189,27 +302,11 @@
       "tags": [
         "ai"
       ],
-      "score": "83",
+      "score": "228",
       "item_id": "hn:48708182",
       "summary_type": "extractive",
       "title_zh": "Show HN: Zanagrams",
       "summary_zh": "Show HN: Zanagrams"
-    },
-    {
-      "title": "California legislature agrees to upload driver's licenses to national database",
-      "summary": "California legislature agrees to upload driver's licenses to national database",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/",
-      "published_at": "2026-06-28T15:22:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "87",
-      "item_id": "hn:48708139",
-      "summary_type": "extractive",
-      "title_zh": "California legislature agrees to upload driver's licenses to national database",
-      "summary_zh": "California legislature agrees to upload driver's licenses to national database"
     },
     {
       "title": "EU to legislate about Chat Control behind closed doors",
@@ -221,27 +318,11 @@
       "tags": [
         "ai"
       ],
-      "score": "431",
+      "score": "622",
       "item_id": "hn:48707719",
       "summary_type": "extractive",
       "title_zh": "EU to legislate about Chat Control behind closed doors",
       "summary_zh": "EU to legislate about Chat Control behind closed doors"
-    },
-    {
-      "title": "Flock cameras track more than your license plate, and they're spreading fast",
-      "summary": "Flock cameras track more than your license plate, and they're spreading fast",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
-      "published_at": "2026-06-28T14:35:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "299",
-      "item_id": "hn:48707673",
-      "summary_type": "extractive",
-      "title_zh": "Flock cameras track more than your license plate, and they're spreading fast",
-      "summary_zh": "Flock cameras track more than your license plate, and they're spreading fast"
     },
     {
       "title": "The curious case of the disappearing Polish S (2015)",
@@ -253,7 +334,7 @@
       "tags": [
         "ai"
       ],
-      "score": "181",
+      "score": "215",
       "item_id": "hn:48706814",
       "summary_type": "extractive",
       "title_zh": "The curious case of the disappearing Polish S (2015)",
@@ -269,7 +350,7 @@
       "tags": [
         "ai"
       ],
-      "score": "54",
+      "score": "75",
       "item_id": "hn:48706796",
       "summary_type": "extractive",
       "title_zh": "The MUMPS 76 Primer – anniversary edition",
@@ -277,19 +358,19 @@
     },
     {
       "title": "The KIDS Act would require age checks to get online",
-      "summary": "The KIDS Act would require age checks to get online",
-      "full_text": "",
+      "summary": "https:&#x2F;&#x2F;act.eff.org&#x2F;action&#x2F;tell-congress-don-t-force-age-che...",
+      "full_text": "https:&#x2F;&#x2F;act.eff.org&#x2F;action&#x2F;tell-congress-don-t-force-age-che...",
       "source": "hacker news",
       "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
       "published_at": "2026-06-28T11:56:16+00:00",
       "tags": [
         "ai"
       ],
-      "score": "148",
+      "score": "382",
       "item_id": "hn:48706560",
       "summary_type": "extractive",
       "title_zh": "The KIDS Act would require age checks to get online",
-      "summary_zh": "The KIDS Act would require age checks to get online"
+      "summary_zh": "https:&#x2F;&#x2F;act.eff.org&#x2F;action&#x2F;tell-congress-don-t-force-age-che..."
     },
     {
       "title": "More evidence is consistent with possible ancient life on Mars (2025)",
@@ -301,7 +382,7 @@
       "tags": [
         "ai"
       ],
-      "score": "34",
+      "score": "70",
       "item_id": "hn:48706554",
       "summary_type": "extractive",
       "title_zh": "More evidence is consistent with possible ancient life on Mars (2025)",
@@ -317,423 +398,392 @@
       "tags": [
         "ai"
       ],
-      "score": "107",
+      "score": "140",
       "item_id": "hn:48705910",
       "summary_type": "extractive",
       "title_zh": "DLL that was not present in memory despite not being formally unloaded",
       "summary_zh": "DLL that was not present in memory despite not being formally unloaded"
     },
     {
-      "title": "Bashblog – a single bash script to create blogs",
-      "summary": "Bashblog – a single bash script to create blogs",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/cfenollosa/bashblog",
-      "published_at": "2026-06-28T04:48:32+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "103",
-      "item_id": "hn:48704454",
-      "summary_type": "extractive",
-      "title_zh": "Bashblog – a single bash script to create blogs",
-      "summary_zh": "Bashblog – a single bash script to create blogs"
-    },
-    {
-      "title": "Marfa Public Radio Puts You to Sleep",
-      "summary": "Marfa Public Radio Puts You to Sleep",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "published_at": "2026-06-28T02:23:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "369",
-      "item_id": "hn:48703759",
-      "summary_type": "extractive",
-      "title_zh": "Marfa Public Radio Puts You to Sleep",
-      "summary_zh": "Marfa Public Radio Puts You to Sleep"
-    },
-    {
-      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "summary": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "published_at": "2026-06-28T00:46:52+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "216",
-      "item_id": "hn:48703258",
-      "summary_type": "extractive",
-      "title_zh": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "summary_zh": "AMD Strix Halo RDMA Cluster Setup Guide"
-    },
-    {
-      "title": "Choosing a Public DNS Resolver",
-      "summary": "Choosing a Public DNS Resolver",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://evilbit.de/dns-resolver-guide.html",
-      "published_at": "2026-06-27T22:11:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "260",
-      "item_id": "hn:48702273",
-      "summary_type": "extractive",
-      "title_zh": "Choosing a Public DNS Resolver",
-      "summary_zh": "Choosing a Public DNS Resolver"
-    },
-    {
-      "title": "Designing a Personal Pebble Watchface",
-      "summary": "Designing a Personal Pebble Watchface",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
-      "published_at": "2026-06-26T18:53:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "33",
-      "item_id": "hn:48690481",
-      "summary_type": "extractive",
-      "title_zh": "Designing a Personal Pebble Watchface",
-      "summary_zh": "Designing a Personal Pebble Watchface"
-    },
-    {
-      "title": "Linux Kills Strncpy",
-      "summary": "Linux Kills Strncpy",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://smist08.wordpress.com/2026/06/25/linux-kills-strncpy/",
-      "published_at": "2026-06-26T06:19:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "13",
-      "item_id": "hn:48682979",
-      "summary_type": "extractive",
-      "title_zh": "Linux Kills Strncpy",
-      "summary_zh": "Linux Kills Strncpy"
-    },
-    {
-      "title": "Autoregressive Boltzmann Generators",
-      "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allow rapid generation of uncorrelated equilibrium samples by combining a generative model with exact likelihoods and an importance sampling correction. However, modern BGs predominantly rely on normalizing flows (NFs), which either suffer from limited expressivity due to strict invertibility constraint",
+      "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
+      "summary": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation skill often imposes conflicting demands on overlapping fingers and contact modes, causing destructive interference between preserving an existing manipulation outcome and executing a new one. We propose DexCompose, a role-aware residual composition framework that reuses pretrained dexterous policies ",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27361v1",
-      "published_at": "2026-06-25T17:58:21Z",
+      "url": "http://arxiv.org/abs/2606.28323v1",
+      "published_at": "2026-06-26T17:59:57Z",
       "tags": [
         "llm",
         "paper",
         "tool"
       ],
       "score": "📄",
-      "item_id": "arxiv:2606.27361v1",
+      "item_id": "arxiv:2606.28323v1",
       "summary_type": "extractive",
-      "title_zh": "Autoregressive Boltzmann Generators",
-      "summary_zh": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allow rapid generation of uncorrelated equilibrium samples by combining a generative model with exact likelihoods and an importance sampling correction. However, modern BGs predominantly rely on normalizing flows (NFs), which either suffer from limited expressivity due to strict invertibility constraint"
+      "title_zh": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
+      "summary_zh": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation skill often imposes conflicting demands on overlapping fingers and contact modes, causing destructive interference between preserving an existing manipulation outcome and executing a new one. We propose DexCompose, a role-aware residual composition framework that reuses pretrained dexterous policies "
     },
     {
-      "title": "Error-Conditioned Neural Solvers",
-      "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their own constraint violations and extrapolate beyond the training distribution. Recent hybrid methods promote physical correctness by targeting the PDE residual via gradient descent or Gauss--Newton steps, but inherit the compute cost and instability of the underlying classical optimizers. We show, theore",
+      "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
+      "summary": "Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V* yet prescribe different behaviour. Standard solvers each converge to some equilibrium and are treated as interchangeable. We ask whether they instead select different members of the Nash set, systematically as a function of the algorithm rather than the seed.",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27354v1",
-      "published_at": "2026-06-25T17:56:27Z",
+      "url": "http://arxiv.org/abs/2606.28308v1",
+      "published_at": "2026-06-26T17:53:30Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
-      "item_id": "arxiv:2606.27354v1",
+      "item_id": "arxiv:2606.28308v1",
       "summary_type": "extractive",
-      "title_zh": "Error-Conditioned Neural Solvers",
-      "summary_zh": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their own constraint violations and extrapolate beyond the training distribution. Recent hybrid methods promote physical correctness by targeting the PDE residual via gradient descent or Gauss--Newton steps, but inherit the compute cost and instability of the underlying classical optimizers. We show, theore"
+      "title_zh": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
+      "summary_zh": "Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V* yet prescribe different behaviour. Standard solvers each converge to some equilibrium and are treated as interchangeable. We ask whether they instead select different members of the Nash set, systematically as a function of the algorithm rather than the seed."
     },
     {
-      "title": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
-      "summary": "Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they refer to the same real-world entity. Recent work has incorporated domain information and low-resource learning techniques to better adapt EM systems to realistic settings. While these approaches have demonstrated strong performance, it remains unclear how they behave under varying data constraints and levels of supervision in practice.",
+      "title": "Agentic Hardware Design as Repository-Level Code Evolution",
+      "summary": "We present HORIZON, a self-evolving agent framework that treats hardware design as repository-level code evolution. A Markdown harness is compiled into a project pack containing domain knowledge, an executable evaluator, an acceptance predicate, and a git/runtime policy; a hands-free agent loop then evolves an isolated git worktree, using repository operations for state management, tracing, and replay. This extends prior works of repository-scale self-evolution from EDA software systems, to hard",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27342v1",
-      "published_at": "2026-06-25T17:49:48Z",
+      "url": "http://arxiv.org/abs/2606.28279v1",
+      "published_at": "2026-06-26T17:21:06Z",
+      "tags": [
+        "paper",
+        "agent",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28279v1",
+      "summary_type": "extractive",
+      "title_zh": "Agentic Hardware Design as Repository-Level Code Evolution",
+      "summary_zh": "We present HORIZON, a self-evolving agent framework that treats hardware design as repository-level code evolution. A Markdown harness is compiled into a project pack containing domain knowledge, an executable evaluator, an acceptance predicate, and a git/runtime policy; a hands-free agent loop then evolves an isolated git worktree, using repository operations for state management, tracing, and replay. This extends prior works of repository-scale self-evolution from EDA software systems, to hard"
+    },
+    {
+      "title": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
+      "summary": "Artificial intelligence is driving a revolution in scientific discovery, accelerating everything from hypothesis generation to mathematical theorem proving. However, this rapid acceleration is creating a systemic challenge: traditional human peer review cannot scale to match the influx of AI-assisted science. Ultimately, to resolve this tension, we must also deploy AI to accelerate the verification and review process itself.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2606.28277v1",
+      "published_at": "2026-06-26T17:19:17Z",
+      "tags": [
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28277v1",
+      "summary_type": "extractive",
+      "title_zh": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
+      "summary_zh": "Artificial intelligence is driving a revolution in scientific discovery, accelerating everything from hypothesis generation to mathematical theorem proving. However, this rapid acceleration is creating a systemic challenge: traditional human peer review cannot scale to match the influx of AI-assisted science. Ultimately, to resolve this tension, we must also deploy AI to accelerate the verification and review process itself."
+    },
+    {
+      "title": "Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration",
+      "summary": "Accurate network traffic prediction is a critical element for efficient resource allocation in dynamic urban cellular networks. However, prediction remains challenging because network demand is influenced by complex mobility patterns, congestion dynamics, and heterogeneous user behavior. This paper introduces the Parameter-Efficient Hybrid Transformer (PEHT), a network traffic prediction framework that integrates urban mobility and congestion information into a Transformer-based architecture.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2606.28274v1",
+      "published_at": "2026-06-26T17:17:17Z",
+      "tags": [
+        "llm",
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28274v1",
+      "summary_type": "extractive",
+      "title_zh": "Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration",
+      "summary_zh": "Accurate network traffic prediction is a critical element for efficient resource allocation in dynamic urban cellular networks. However, prediction remains challenging because network demand is influenced by complex mobility patterns, congestion dynamics, and heterogeneous user behavior. This paper introduces the Parameter-Efficient Hybrid Transformer (PEHT), a network traffic prediction framework that integrates urban mobility and congestion information into a Transformer-based architecture."
+    },
+    {
+      "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+      "summary": "The transition from static chat bots to autonomous agents--equipped with persistent memory, tool-use protocols, and multi-agent collaboration--has fundamentally expanded the AI threat landscape. Current defense mechanisms, such as perimeter security and training-time alignment, remain external to the agent's active reasoning loop. Consequently, they fall short: a fully aligned agent remains highly vulnerable to runtime hijacking via memory poisoning, tool-chain manipulation, or multi-agent proto",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2606.28270v1",
+      "published_at": "2026-06-26T17:08:06Z",
+      "tags": [
+        "paper",
+        "agent",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28270v1",
+      "summary_type": "extractive",
+      "title_zh": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+      "summary_zh": "The transition from static chat bots to autonomous agents--equipped with persistent memory, tool-use protocols, and multi-agent collaboration--has fundamentally expanded the AI threat landscape. Current defense mechanisms, such as perimeter security and training-time alignment, remain external to the agent's active reasoning loop. Consequently, they fall short: a fully aligned agent remains highly vulnerable to runtime hijacking via memory poisoning, tool-chain manipulation, or multi-agent proto"
+    },
+    {
+      "title": "Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation",
+      "summary": "Test-time adaptation (TTA) has emerged as a promising paradigm for mitigating distribution shifts in deep models. However, existing TTA approaches for anomaly segmentation remain limited by their reliance on pixel-level heuristics, such as confidence thresholding or entropy minimisation, which fail to preserve structural consistency under noise and texture variation. Moreover, they typically treat anomaly maps as flat intensity fields, ignoring the higher-order spatial relationships that charact",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2606.28268v1",
+      "published_at": "2026-06-26T17:04:42Z",
       "tags": [
         "paper",
         "vision"
       ],
       "score": "📄",
-      "item_id": "arxiv:2606.27342v1",
+      "item_id": "arxiv:2606.28268v1",
       "summary_type": "extractive",
-      "title_zh": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
-      "summary_zh": "Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they refer to the same real-world entity. Recent work has incorporated domain information and low-resource learning techniques to better adapt EM systems to realistic settings. While these approaches have demonstrated strong performance, it remains unclear how they behave under varying data constraints and levels of supervision in practice."
+      "title_zh": "Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation",
+      "summary_zh": "Test-time adaptation (TTA) has emerged as a promising paradigm for mitigating distribution shifts in deep models. However, existing TTA approaches for anomaly segmentation remain limited by their reliance on pixel-level heuristics, such as confidence thresholding or entropy minimisation, which fail to preserve structural consistency under noise and texture variation. Moreover, they typically treat anomaly maps as flat intensity fields, ignoring the higher-order spatial relationships that charact"
     },
     {
-      "title": "Language-Based Digital Twins for Elderly Cognitive Assistance",
-      "summary": "Digital twins have emerged as a promising paradigm for personalized healthcare, enabling modeling of individual behavior and health trajectories. In cognitive health, early detection of Mild Cognitive Impairment (MCI) remains challenging, where language and conversational patterns serve as non-invasive biomarkers. In this work, we propose a language-based digital twin framework that leverages large language models (LLMs) to mimic the conversational behavior of elderly individuals by incorporatin",
+      "title": "How Width and Data Shape Generalization Scaling Laws in Quadratic Neural Networks",
+      "summary": "Understanding how performance scales jointly with model size and data is a central problem in modern machine learning. Existing theoretical works on scaling laws typically describe generalization as a function of data or compute, often in fixed-feature or infinite-width regimes and for online SGD. Here, we instead study how generalization scales with the number of trainable parameters and the number of samples in a feature-learning model.",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27334v1",
-      "published_at": "2026-06-25T17:45:53Z",
+      "url": "http://arxiv.org/abs/2606.28242v1",
+      "published_at": "2026-06-26T16:27:46Z",
       "tags": [
-        "llm",
+        "ai",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28242v1",
+      "summary_type": "extractive",
+      "title_zh": "How Width and Data Shape Generalization Scaling Laws in Quadratic Neural Networks",
+      "summary_zh": "Understanding how performance scales jointly with model size and data is a central problem in modern machine learning. Existing theoretical works on scaling laws typically describe generalization as a function of data or compute, often in fixed-feature or infinite-width regimes and for online SGD. Here, we instead study how generalization scales with the number of trainable parameters and the number of samples in a feature-learning model."
+    },
+    {
+      "title": "Govern the Repository, Not the Agent: Measuring Ecosystem-Level Risk in AI-Native Software",
+      "summary": "Autonomous coding agents now open and merge pull requests in shared repositories at scale, and the field evaluates them the way it has always evaluated components, one agent at a time, on isolated benchmark tasks. Yet agents that each pass their own tests still leave repositories that accumulate problems no single contribution accounts for. We ask whether this problem belongs to the individual agent or to the repository where it accumulates.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2606.28235v1",
+      "published_at": "2026-06-26T16:22:08Z",
+      "tags": [
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28235v1",
+      "summary_type": "extractive",
+      "title_zh": "Govern the Repository, Not the Agent: Measuring Ecosystem-Level Risk in AI-Native Software",
+      "summary_zh": "Autonomous coding agents now open and merge pull requests in shared repositories at scale, and the field evaluates them the way it has always evaluated components, one agent at a time, on isolated benchmark tasks. Yet agents that each pass their own tests still leave repositories that accumulate problems no single contribution accounts for. We ask whether this problem belongs to the individual agent or to the repository where it accumulates."
+    },
+    {
+      "title": "Exposure Bias Can Alleviate Itself via Directional and Frequency Rectification in Flow Matching",
+      "summary": "Flow Matching (FM) has achieved remarkable generative performance, yet it suffers from exposure bias due to discrepancies between training and inference. Existing mitigation strategies typically rely on static constraints or external heuristics. In this work, we propose that exposure bias itself inherently contains dynamic signals that can guide its own rectification.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2606.28226v1",
+      "published_at": "2026-06-26T16:14:33Z",
+      "tags": [
         "paper",
         "tool"
       ],
       "score": "📄",
-      "item_id": "arxiv:2606.27334v1",
+      "item_id": "arxiv:2606.28226v1",
       "summary_type": "extractive",
-      "title_zh": "Language-Based Digital Twins for Elderly Cognitive Assistance",
-      "summary_zh": "Digital twins have emerged as a promising paradigm for personalized healthcare, enabling modeling of individual behavior and health trajectories. In cognitive health, early detection of Mild Cognitive Impairment (MCI) remains challenging, where language and conversational patterns serve as non-invasive biomarkers. In this work, we propose a language-based digital twin framework that leverages large language models (LLMs) to mimic the conversational behavior of elderly individuals by incorporatin"
+      "title_zh": "Exposure Bias Can Alleviate Itself via Directional and Frequency Rectification in Flow Matching",
+      "summary_zh": "Flow Matching (FM) has achieved remarkable generative performance, yet it suffers from exposure bias due to discrepancies between training and inference. Existing mitigation strategies typically rely on static constraints or external heuristics. In this work, we propose that exposure bias itself inherently contains dynamic signals that can guide its own rectification."
     },
     {
-      "title": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
-      "summary": "Multimodal web agents can assist humans in operating repetitive GUI tasks, where effective task planning is essential for decomposing complex tasks into executable actions. While small open source MLLMs are cost efficient and privacy preserving compared with commercial large models, they suffer from weak planning and limited cross website generalization. To address these limitations, we introduce the planning experience exploration and utilization (PEEU) method, which autonomously explores envir",
+      "title": "Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives",
+      "summary": "We propose a framework for reward allocation in fully delegated AI cooperatives where humans are represented by agents that contribute data and participate in model updates under heterogeneous value constraints. The key idea is to credit only those updates that remain admissible after screening them against each principal's value profile. We formulate value-conditioned gradient filtering, online marginal contribution signals, and cumulative revenue settlement within a traversal learning (TL) sub",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27330v1",
-      "published_at": "2026-06-25T17:44:48Z",
+      "url": "http://arxiv.org/abs/2606.28217v1",
+      "published_at": "2026-06-26T16:08:36Z",
       "tags": [
-        "llm",
+        "paper",
         "agent",
-        "paper",
         "tool"
       ],
       "score": "📄",
-      "item_id": "arxiv:2606.27330v1",
+      "item_id": "arxiv:2606.28217v1",
       "summary_type": "extractive",
-      "title_zh": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
-      "summary_zh": "Multimodal web agents can assist humans in operating repetitive GUI tasks, where effective task planning is essential for decomposing complex tasks into executable actions. While small open source MLLMs are cost efficient and privacy preserving compared with commercial large models, they suffer from weak planning and limited cross website generalization. To address these limitations, we introduce the planning experience exploration and utilization (PEEU) method, which autonomously explores envir"
+      "title_zh": "Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives",
+      "summary_zh": "We propose a framework for reward allocation in fully delegated AI cooperatives where humans are represented by agents that contribute data and participate in model updates under heterogeneous value constraints. The key idea is to credit only those updates that remain admissible after screening them against each principal's value profile. We formulate value-conditioned gradient filtering, online marginal contribution signals, and cumulative revenue settlement within a traversal learning (TL) sub"
     },
     {
-      "title": "Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders",
-      "summary": "Sparse autoencoders (SAEs) have become a leading tool for interpreting the representations of vision foundation models, decomposing their polysemantic activations into a larger set of sparse, more monosemantic features. The Top-$k$ SAE, a now-standard variant, enforces sparsity architecturally through its activation function, retaining only the $k$ most active latents per input. Because it was designed precisely to avoid the $\\ell_1$ penalty used by earlier SAEs and its known drawbacks, it has n",
+      "title": "HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration",
+      "summary": "Extracting dynamic 4D object interactions from massive, in-the-wild monocular videos offers a highly efficient data collection pathway for scaling Embodied AI and training VLAs. However, existing monocular 4D reconstruction methods primarily focus on isolated objects, often failing under the severe occlusions and complex dynamics inherent in multi-object interactions. To bridge this gap, we propose HAT-4D, the first agentic framework designed to reconstruct the 3D geometry, temporal dynamics, an",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27321v1",
-      "published_at": "2026-06-25T17:34:39Z",
+      "url": "http://arxiv.org/abs/2606.28215v1",
+      "published_at": "2026-06-26T16:05:58Z",
       "tags": [
-        "llm",
         "paper",
+        "agent",
         "vision",
         "tool"
       ],
       "score": "📄",
-      "item_id": "arxiv:2606.27321v1",
+      "item_id": "arxiv:2606.28215v1",
       "summary_type": "extractive",
-      "title_zh": "Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders",
-      "summary_zh": "Sparse autoencoders (SAEs) have become a leading tool for interpreting the representations of vision foundation models, decomposing their polysemantic activations into a larger set of sparse, more monosemantic features. The Top-$k$ SAE, a now-standard variant, enforces sparsity architecturally through its activation function, retaining only the $k$ most active latents per input. Because it was designed precisely to avoid the $\\ell_1$ penalty used by earlier SAEs and its known drawbacks, it has n"
+      "title_zh": "HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration",
+      "summary_zh": "Extracting dynamic 4D object interactions from massive, in-the-wild monocular videos offers a highly efficient data collection pathway for scaling Embodied AI and training VLAs. However, existing monocular 4D reconstruction methods primarily focus on isolated objects, often failing under the severe occlusions and complex dynamics inherent in multi-object interactions. To bridge this gap, we propose HAT-4D, the first agentic framework designed to reconstruct the 3D geometry, temporal dynamics, an"
     },
     {
-      "title": "AI Healthcare Chatbots as Information Infrastructure: A Large-Scale Study of User-Reported Breakdowns",
-      "summary": "AI healthcare chatbots are increasingly used to support health information seeking and self-management, yet their performance and impact on users remains to be studied. This study examines over 15,000 user reviews from 59 AI healthcare chatbot apps to explore how these systems function in everyday informational and emotional contexts. Topic modeling and interpretive analysis identify three recurring breakdowns: access barriers and service unreliability, user experience and interaction quality, a",
+      "title": "The Remittance Blueprint: Data-driven Intelligence for Sri Lanka",
+      "summary": "This study analyzes Sri Lankan migration and remittances over 32 years (1994-2025). Using a 384-month harmonized dataset, we apply exploratory data analysis, stationarity corrected time-series modeling (ADF, Johansen, VAR/VECM), and supervised learning. Results reveal remittance inflows are primarily driven by external macroeconomic variables, specifically exchange rate dynamics and global oil prices, rather than domestic indicators.",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27302v1",
-      "published_at": "2026-06-25T17:24:26Z",
+      "url": "http://arxiv.org/abs/2606.28190v1",
+      "published_at": "2026-06-26T15:35:46Z",
+      "tags": [
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28190v1",
+      "summary_type": "extractive",
+      "title_zh": "The Remittance Blueprint: Data-driven Intelligence for Sri Lanka",
+      "summary_zh": "This study analyzes Sri Lankan migration and remittances over 32 years (1994-2025). Using a 384-month harmonized dataset, we apply exploratory data analysis, stationarity corrected time-series modeling (ADF, Johansen, VAR/VECM), and supervised learning. Results reveal remittance inflows are primarily driven by external macroeconomic variables, specifically exchange rate dynamics and global oil prices, rather than domestic indicators."
+    },
+    {
+      "title": "Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction",
+      "summary": "Predicting human item difficulty is central to educational assessment, where reliable estimates support fairness and effective test construction. Existing methods often depend on costly human calibration or item-level textual representations, providing limited evidence about the cognitive processes that make items difficult. We argue that difficulty should be viewed not only as a property of item text, but also as an observable consequence of the problem-solving burden an item induces.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2606.28186v1",
+      "published_at": "2026-06-26T15:32:17Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28186v1",
+      "summary_type": "extractive",
+      "title_zh": "Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction",
+      "summary_zh": "Predicting human item difficulty is central to educational assessment, where reliable estimates support fairness and effective test construction. Existing methods often depend on costly human calibration or item-level textual representations, providing limited evidence about the cognitive processes that make items difficult. We argue that difficulty should be viewed not only as a property of item text, but also as an observable consequence of the problem-solving burden an item induces."
+    },
+    {
+      "title": "LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior",
+      "summary": "Embodied agents operating in decentralized and partially observable environments have attracted growing attention in recent years. However, existing large language model (LLM)-based agents often exhibit behaviors that are misaligned with their partners or inconsistent with the environment state, leading to inefficient cooperation and poor task success. To address this challenge, we propose a novel framework, Learning Laws of Cooperation (LLawCo), that enables embodied agents to autonomously alig",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2606.28182v1",
+      "published_at": "2026-06-26T15:26:12Z",
+      "tags": [
+        "llm",
+        "paper",
+        "agent",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28182v1",
+      "summary_type": "extractive",
+      "title_zh": "LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior",
+      "summary_zh": "Embodied agents operating in decentralized and partially observable environments have attracted growing attention in recent years. However, existing large language model (LLM)-based agents often exhibit behaviors that are misaligned with their partners or inconsistent with the environment state, leading to inefficient cooperation and poor task success. To address this challenge, we propose a novel framework, Learning Laws of Cooperation (LLawCo), that enables embodied agents to autonomously alig"
+    },
+    {
+      "title": "CPAgents: Agentic Composite Phenotype Generation for Cardiac Disease Association",
+      "summary": "Identifying robust associations between cardiac imaging phenotypes and clinical diseases is fundamental to population-scale cardiovascular research and reliable risk stratification. However, current phenome-wide association studies rely on pre-defined, single-variable phenotypes or expert-crafted features, which limits their ability to capture clinically meaningful non-linear effects and cross-phenotype interactions. To address this, we propose CPAgents, an iterative phenotype-Composition framew",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2606.28179v1",
+      "published_at": "2026-06-26T15:20:08Z",
       "tags": [
         "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28179v1",
+      "summary_type": "extractive",
+      "title_zh": "CPAgents: Agentic Composite Phenotype Generation for Cardiac Disease Association",
+      "summary_zh": "Identifying robust associations between cardiac imaging phenotypes and clinical diseases is fundamental to population-scale cardiovascular research and reliable risk stratification. However, current phenome-wide association studies rely on pre-defined, single-variable phenotypes or expert-crafted features, which limits their ability to capture clinically meaningful non-linear effects and cross-phenotype interactions. To address this, we propose CPAgents, an iterative phenotype-Composition framew"
+    },
+    {
+      "title": "Tandem Reinforcement Learning with Verifiable Rewards",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has significantly improved the reasoning capability of large language models, reaching expert or even superhuman performance in domains such as competition math. However, whether weaker agents and humans can actually harness this capability is far less certain, with RLVR documented to drift reasoning toward idiosyncratic patterns such as poor readability and language mixing. Tandem training is a recently introduced paradigm that targets this ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2606.28166v1",
+      "published_at": "2026-06-26T15:00:35Z",
+      "tags": [
+        "llm",
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28166v1",
+      "summary_type": "extractive",
+      "title_zh": "Tandem Reinforcement Learning with Verifiable Rewards",
+      "summary_zh": "Reinforcement learning with verifiable rewards (RLVR) has significantly improved the reasoning capability of large language models, reaching expert or even superhuman performance in domains such as competition math. However, whether weaker agents and humans can actually harness this capability is far less certain, with RLVR documented to drift reasoning toward idiosyncratic patterns such as poor readability and language mixing. Tandem training is a recently introduced paradigm that targets this "
+    },
+    {
+      "title": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models",
+      "summary": "Jailbreak attacks bypass LLM safety alignment, yet their mechanisms remain poorly understood. We provide evidence that attacks do not comprehensively eliminate safety features, but instead selectively suppress specific attention heads. We identify two functionally differentiated types: Adversarially Compromised Heads (ACHs) concentrated in early layers, which are suppressed under attacks, and Safety-Aligned Heads (SAHs) in mid-layers, which maintain robust activations even when attacks succeed.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2606.28153v1",
+      "published_at": "2026-06-26T14:51:16Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28153v1",
+      "summary_type": "extractive",
+      "title_zh": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models",
+      "summary_zh": "Jailbreak attacks bypass LLM safety alignment, yet their mechanisms remain poorly understood. We provide evidence that attacks do not comprehensively eliminate safety features, but instead selectively suppress specific attention heads. We identify two functionally differentiated types: Adversarially Compromised Heads (ACHs) concentrated in early layers, which are suppressed under attacks, and Safety-Aligned Heads (SAHs) in mid-layers, which maintain robust activations even when attacks succeed."
+    },
+    {
+      "title": "Toward Robust In-Context Segmentation via Concept Guidance",
+      "summary": "In-context segmentation (ICS) requires a model to segment target regions in a query image using only a few reference images and their corresponding masks, without updating any parameters. Despite recent progress, prior ICS studies have largely overlooked a critical aspect: system robustness, ie, whether the model can produce stable segmentation results for the same query under different references. In this work, we revisit ICS from the robustness perspective and introduce a novel paradigm, Conce",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2606.28149v1",
+      "published_at": "2026-06-26T14:46:38Z",
+      "tags": [
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28149v1",
+      "summary_type": "extractive",
+      "title_zh": "Toward Robust In-Context Segmentation via Concept Guidance",
+      "summary_zh": "In-context segmentation (ICS) requires a model to segment target regions in a query image using only a few reference images and their corresponding masks, without updating any parameters. Despite recent progress, prior ICS studies have largely overlooked a critical aspect: system robustness, ie, whether the model can produce stable segmentation results for the same query under different references. In this work, we revisit ICS from the robustness perspective and introduce a novel paradigm, Conce"
+    },
+    {
+      "title": "Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection",
+      "summary": "Graph-based fraud detection is essential for safeguarding large-scale transaction systems, where undetected anomalies may lead to substantial financial losses and security risks. Real-world fraud graphs pose two coupled challenges: sparse and imbalanced supervision, where verified fraudulent labels are scarce and heavily skewed toward benign accounts, and representation dilution, where spatial message passing may oversmooth camouflaged anomalies while spectral filters may suppress fraud-relevant",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2606.28134v1",
+      "published_at": "2026-06-26T14:34:28Z",
+      "tags": [
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2606.28134v1",
+      "summary_type": "extractive",
+      "title_zh": "Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection",
+      "summary_zh": "Graph-based fraud detection is essential for safeguarding large-scale transaction systems, where undetected anomalies may lead to substantial financial losses and security risks. Real-world fraud graphs pose two coupled challenges: sparse and imbalanced supervision, where verified fraudulent labels are scarce and heavily skewed toward benign accounts, and representation dilution, where spatial message passing may oversmooth camouflaged anomalies while spectral filters may suppress fraud-relevant"
+    },
+    {
+      "title": "The Baffling World of Masayoshi Son's Presentations (2020)",
+      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;HN8KZ",
+      "full_text": "https:&#x2F;&#x2F;archive.ph&#x2F;HN8KZ",
+      "source": "hacker news",
+      "url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
+      "published_at": "2026-06-26T09:17:44+00:00",
+      "tags": [
         "ai"
       ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27302v1",
+      "score": "33",
+      "item_id": "hn:48684315",
       "summary_type": "extractive",
-      "title_zh": "AI Healthcare Chatbots as Information Infrastructure: A Large-Scale Study of User-Reported Breakdowns",
-      "summary_zh": "AI healthcare chatbots are increasingly used to support health information seeking and self-management, yet their performance and impact on users remains to be studied. This study examines over 15,000 user reviews from 59 AI healthcare chatbot apps to explore how these systems function in everyday informational and emotional contexts. Topic modeling and interpretive analysis identify three recurring breakdowns: access barriers and service unreliability, user experience and interaction quality, a"
+      "title_zh": "The Baffling World of Masayoshi Son's Presentations (2020)",
+      "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;HN8KZ"
     },
     {
-      "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
-      "summary": "Multi-model LLM systems such as routing, voting, cascades, fusion, and mixture-of-agents are used to beat single-model accuracy. We show that their gain is capped by a quantity the field rarely reports. For any policy whose output is one member model answer, accuracy cannot exceed one minus beta, where beta is the rate at which every model is wrong on the same query.",
+      "title": "Idler Magazine",
+      "summary": "Idler Magazine",
       "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27288v1",
-      "published_at": "2026-06-25T17:06:06Z",
+      "source": "hacker news",
+      "url": "https://www.idler.co.uk/",
+      "published_at": "2026-06-25T19:53:27+00:00",
       "tags": [
-        "llm",
-        "agent",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27288v1",
-      "summary_type": "extractive",
-      "title_zh": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
-      "summary_zh": "Multi-model LLM systems such as routing, voting, cascades, fusion, and mixture-of-agents are used to beat single-model accuracy. We show that their gain is capped by a quantity the field rarely reports. For any policy whose output is one member model answer, accuracy cannot exceed one minus beta, where beta is the rate at which every model is wrong on the same query."
-    },
-    {
-      "title": "Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings",
-      "summary": "Large language models (LLMs) are increasingly used to screen and rank job applicants, creating incentives for candidates to strategically manipulate algorithmic hiring systems. We study prompt injection in automated résumé screening, defined as subtle self-promotional text that introduces no new qualifications but is designed to influence LLM evaluations. Using controlled experiments, we show that prompt injection reliably improves applicant rankings when résumé quality is homogeneous and few ca",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27287v1",
-      "published_at": "2026-06-25T17:04:51Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27287v1",
-      "summary_type": "extractive",
-      "title_zh": "Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings",
-      "summary_zh": "Large language models (LLMs) are increasingly used to screen and rank job applicants, creating incentives for candidates to strategically manipulate algorithmic hiring systems. We study prompt injection in automated résumé screening, defined as subtle self-promotional text that introduces no new qualifications but is designed to influence LLM evaluations. Using controlled experiments, we show that prompt injection reliably improves applicant rankings when résumé quality is homogeneous and few ca"
-    },
-    {
-      "title": "Simulation-based inference for rapid Bayesian parameter estimation in epidemiological models: a comparison with MCMC",
-      "summary": "Mechanistic epidemiological models are widely used to support infectious disease forecasting and public-health decision making. Bayesian calibration of such models is commonly performed using Markov chain Monte Carlo (MCMC), which can become computationally expensive for high-dimensional nonlinear systems and repeated near-real-time analyses. Here, we investigate simulation-based inference (SBI) using neural posterior estimation as a scalable alternative for Bayesian calibration of a mechanistic",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27286v1",
-      "published_at": "2026-06-25T17:03:30Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27286v1",
-      "summary_type": "extractive",
-      "title_zh": "Simulation-based inference for rapid Bayesian parameter estimation in epidemiological models: a comparison with MCMC",
-      "summary_zh": "Mechanistic epidemiological models are widely used to support infectious disease forecasting and public-health decision making. Bayesian calibration of such models is commonly performed using Markov chain Monte Carlo (MCMC), which can become computationally expensive for high-dimensional nonlinear systems and repeated near-real-time analyses. Here, we investigate simulation-based inference (SBI) using neural posterior estimation as a scalable alternative for Bayesian calibration of a mechanistic"
-    },
-    {
-      "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
-      "summary": "Earth Observation (EO) forecasting aims to predict future Earth surface dynamics from satellite observations under changing meteorological conditions. In this paper, we view this task as a partially observed, weather-driven world modeling problem, in which weather acts as a conditioning signal, while forecasting remains uncertain due to sparse observations and unobserved land-surface states. However, existing methods do not fully capture this setting: deterministic models collapse uncertainty in",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27277v1",
-      "published_at": "2026-06-25T16:53:30Z",
-      "tags": [
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27277v1",
-      "summary_type": "extractive",
-      "title_zh": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
-      "summary_zh": "Earth Observation (EO) forecasting aims to predict future Earth surface dynamics from satellite observations under changing meteorological conditions. In this paper, we view this task as a partially observed, weather-driven world modeling problem, in which weather acts as a conditioning signal, while forecasting remains uncertain due to sparse observations and unobserved land-surface states. However, existing methods do not fully capture this setting: deterministic models collapse uncertainty in"
-    },
-    {
-      "title": "E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
-      "summary": "Recently, a few works have made early attempts to study test-time scaling for embodied tasks. However, two major challenges remain unsolved: (1) reasoning can effectively improve the performance of the policy, but its scaling mechanism has seldom been studied; (2) historical information is essential, as embodied tasks are inherently long-horizon and sequential, making sole reliance on current observations for action scaling inadequate due to the lack of historical context utilization. To address",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27268v1",
-      "published_at": "2026-06-25T16:50:21Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27268v1",
-      "summary_type": "extractive",
-      "title_zh": "E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
-      "summary_zh": "Recently, a few works have made early attempts to study test-time scaling for embodied tasks. However, two major challenges remain unsolved: (1) reasoning can effectively improve the performance of the policy, but its scaling mechanism has seldom been studied; (2) historical information is essential, as embodied tasks are inherently long-horizon and sequential, making sole reliance on current observations for action scaling inadequate due to the lack of historical context utilization. To address"
-    },
-    {
-      "title": "Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy",
-      "summary": "Building persistent embodied agents in unstructured environments demands unified orchestration of heterogeneous tools spanning both cyber (APIs, IoT) and physical (manipulation, navigation) domains, coupled with autonomous recovery from physical failures that inevitably arise over extended operation. Existing systems treat these as separate problems: VLM-based planners lack a unified cyber-physical action space, agent frameworks accumulate unbounded context that degrades temporal coherence, and ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27251v1",
-      "published_at": "2026-06-25T16:36:35Z",
-      "tags": [
-        "paper",
-        "agent",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27251v1",
-      "summary_type": "extractive",
-      "title_zh": "Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy",
-      "summary_zh": "Building persistent embodied agents in unstructured environments demands unified orchestration of heterogeneous tools spanning both cyber (APIs, IoT) and physical (manipulation, navigation) domains, coupled with autonomous recovery from physical failures that inevitably arise over extended operation. Existing systems treat these as separate problems: VLM-based planners lack a unified cyber-physical action space, agent frameworks accumulate unbounded context that degrades temporal coherence, and "
-    },
-    {
-      "title": "From Celebrities to Anyone: Characterizing AI Nudification Content, Technology, and Community Dynamics on 4chan",
-      "summary": "AI nudification uses generative models to create synthetic non-consensual sexually explicit imagery (SNEACI) of real individuals. Prior work has examined dedicated nudification platforms and model repositories, finding that most targets are female celebrities. However, the anonymous content community, where SNEACI is actively requested, generated, and exchanged, remains unexplored.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27234v1",
-      "published_at": "2026-06-25T16:21:38Z",
-      "tags": [
-        "paper",
-        "vision",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27234v1",
-      "summary_type": "extractive",
-      "title_zh": "From Celebrities to Anyone: Characterizing AI Nudification Content, Technology, and Community Dynamics on 4chan",
-      "summary_zh": "AI nudification uses generative models to create synthetic non-consensual sexually explicit imagery (SNEACI) of real individuals. Prior work has examined dedicated nudification platforms and model repositories, finding that most targets are female celebrities. However, the anonymous content community, where SNEACI is actively requested, generated, and exchanged, remains unexplored."
-    },
-    {
-      "title": "Bridging Talk and Thought: Understanding Dialogue Dynamics Across Collaborative Problem-Solving Contexts",
-      "summary": "We present a conceptual framework for analyzing dialogue in collaborative problem-solving contexts, with an emphasis on the emerging dynamics of human-AI and multi-agent collaboration. As intelligent systems become active agents capable of autonomous reasoning and strategic cooperation, understanding the dialogic interaction during collaborative problem solving is increasingly important for optimizing and evaluating such partnerships. Our framework addresses key limitations in current analytical",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27233v1",
-      "published_at": "2026-06-25T16:20:49Z",
-      "tags": [
-        "paper",
-        "agent",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27233v1",
-      "summary_type": "extractive",
-      "title_zh": "Bridging Talk and Thought: Understanding Dialogue Dynamics Across Collaborative Problem-Solving Contexts",
-      "summary_zh": "We present a conceptual framework for analyzing dialogue in collaborative problem-solving contexts, with an emphasis on the emerging dynamics of human-AI and multi-agent collaboration. As intelligent systems become active agents capable of autonomous reasoning and strategic cooperation, understanding the dialogic interaction during collaborative problem solving is increasingly important for optimizing and evaluating such partnerships. Our framework addresses key limitations in current analytical"
-    },
-    {
-      "title": "CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention",
-      "summary": "Recurrent models must forget in order to remember, yet the state of the art decides what to erase without consulting what is stored -- the gate sees only the arriving token, not the memory it is about to modify. This memory-blind gating is one of three coupled defects in the leading delta-rule architecture (GDN-2): the value-axis erase mask wastes parameters at the scale of the value projection, and -- as we prove -- mathematically prevents the WY-form triangular chunk solver that makes recurren",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27229v1",
-      "published_at": "2026-06-25T16:16:51Z",
-      "tags": [
-        "paper",
         "ai"
       ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27229v1",
+      "score": "12",
+      "item_id": "hn:48678393",
       "summary_type": "extractive",
-      "title_zh": "CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention",
-      "summary_zh": "Recurrent models must forget in order to remember, yet the state of the art decides what to erase without consulting what is stored -- the gate sees only the arriving token, not the memory it is about to modify. This memory-blind gating is one of three coupled defects in the leading delta-rule architecture (GDN-2): the value-axis erase mask wastes parameters at the scale of the value projection, and -- as we prove -- mathematically prevents the WY-form triangular chunk solver that makes recurren"
-    },
-    {
-      "title": "Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement",
-      "summary": "Evaluating LLM outputs remains a major bottleneck in NLP: human evaluation is expensive and slow, lexical metrics correlate poorly with human judgments on open-ended generation, and holistic LLM judges often produce opaque scores that are hard to debug. We propose BINEVAL, a framework that decomposes evaluation criteria into atomic binary questions and aggregates the resulting verdicts into interpretable, multi-dimensional scores. Given a task prompt, a meta-prompt generates fine-grained evaluat",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27226v1",
-      "published_at": "2026-06-25T16:14:50Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27226v1",
-      "summary_type": "extractive",
-      "title_zh": "Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement",
-      "summary_zh": "Evaluating LLM outputs remains a major bottleneck in NLP: human evaluation is expensive and slow, lexical metrics correlate poorly with human judgments on open-ended generation, and holistic LLM judges often produce opaque scores that are hard to debug. We propose BINEVAL, a framework that decomposes evaluation criteria into atomic binary questions and aggregates the resulting verdicts into interpretable, multi-dimensional scores. Given a task prompt, a meta-prompt generates fine-grained evaluat"
-    },
-    {
-      "title": "Vulnerability of Natural Language Classifiers to Evolutionary Generated Adversarial Text",
-      "summary": "Deep learning models have achieved impressive performance across various fields but remain vulnerable to adversarial inputs, particularly in NLP, where such attacks can have significant real-world consequences. Adversarial attacks often involve small, semantically similar token replacements to fool NLP models, and recent methods have become more precise by targeting specific vulnerable words, often by exploiting some level of access to the model's internal structure. This paper proposes GAversar",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27215v1",
-      "published_at": "2026-06-25T16:05:38Z",
-      "tags": [
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27215v1",
-      "summary_type": "extractive",
-      "title_zh": "Vulnerability of Natural Language Classifiers to Evolutionary Generated Adversarial Text",
-      "summary_zh": "Deep learning models have achieved impressive performance across various fields but remain vulnerable to adversarial inputs, particularly in NLP, where such attacks can have significant real-world consequences. Adversarial attacks often involve small, semantically similar token replacements to fool NLP models, and recent methods have become more precise by targeting specific vulnerable words, often by exploiting some level of access to the model's internal structure. This paper proposes GAversar"
+      "title_zh": "Idler Magazine",
+      "summary_zh": "Idler Magazine"
     },
     {
       "title": "The Boeing 747 begins its final descent",
@@ -745,96 +795,43 @@
       "tags": [
         "ai"
       ],
-      "score": "60",
+      "score": "163",
       "item_id": "hn:48675295",
       "summary_type": "extractive",
       "title_zh": "The Boeing 747 begins its final descent",
       "summary_zh": "The Boeing 747 begins its final descent"
     },
     {
-      "title": "A Process Harness for Uplifting Legacy Workflows to Agentic BPM: Design and Realization in CUGA FLO",
-      "summary": "We introduce the process harness, a new mechanism for uplifting legacy workflows into Agentic Business Process Management (Agentic BPM) without replacing the underlying workflow engine. A process harness places a policy-governed agentic layer around a deterministic workflow engine, intercepting designated control points to contribute reasoning, adaptation, and oversight while the engine retains structural authority over the process. To define the process harness rigorously, we develop the Task-D",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27188v1",
-      "published_at": "2026-06-25T15:50:42Z",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27188v1",
-      "summary_type": "extractive",
-      "title_zh": "A Process Harness for Uplifting Legacy Workflows to Agentic BPM: Design and Realization in CUGA FLO",
-      "summary_zh": "We introduce the process harness, a new mechanism for uplifting legacy workflows into Agentic Business Process Management (Agentic BPM) without replacing the underlying workflow engine. A process harness places a policy-governed agentic layer around a deterministic workflow engine, intercepting designated control points to contribute reasoning, adaptation, and oversight while the engine retains structural authority over the process. To define the process harness rigorously, we develop the Task-D"
-    },
-    {
-      "title": "Automating Potential-based Reward Shaping with Vision Language Model Guidance",
-      "summary": "Sparse rewards are inherently challenging for reinforcement learning agents as they lack intermediate feedback to guide exploration and to correctly attribute the sparse success rewards to relevant parts of the trajectory. Naive reward shaping can induce reward hacking, yielding policies that exploit auxiliary signals instead of solving the intended task. Potential-based reward shaping (PBRS) guarantees preservation of the optimal policy set, but requires the definition of a heuristic potential ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.27180v1",
-      "published_at": "2026-06-25T15:45:57Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool",
-        "agent",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.27180v1",
-      "summary_type": "extractive",
-      "title_zh": "Automating Potential-based Reward Shaping with Vision Language Model Guidance",
-      "summary_zh": "Sparse rewards are inherently challenging for reinforcement learning agents as they lack intermediate feedback to guide exploration and to correctly attribute the sparse success rewards to relevant parts of the trajectory. Naive reward shaping can induce reward hacking, yielding policies that exploit auxiliary signals instead of solving the intended task. Potential-based reward shaping (PBRS) guarantees preservation of the optimal policy set, but requires the definition of a heuristic potential "
-    },
-    {
-      "title": "Do Babies Dream of Baby Sheep?",
-      "summary": "Do Babies Dream of Baby Sheep?",
+      "title": "Model Training as Code",
+      "summary": "Model Training as Code",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/",
-      "published_at": "2026-06-25T14:48:07+00:00",
+      "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+      "published_at": "2026-06-25T13:54:06+00:00",
       "tags": [
         "ai"
       ],
-      "score": "93",
-      "item_id": "hn:48674290",
+      "score": "29",
+      "item_id": "hn:48673450",
       "summary_type": "extractive",
-      "title_zh": "Do Babies Dream of Baby Sheep?",
-      "summary_zh": "Do Babies Dream of Baby Sheep?"
+      "title_zh": "Model Training as Code",
+      "summary_zh": "Model Training as Code"
     },
     {
-      "title": "Bringing Swift to the Apple ][",
-      "summary": "Bringing Swift to the Apple ][",
+      "title": "Deciphering Basmala",
+      "summary": "Deciphering Basmala",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
-      "published_at": "2026-06-25T08:26:54+00:00",
+      "url": "https://blog.plover.com/lang/bismillah.html",
+      "published_at": "2026-06-24T09:05:46+00:00",
       "tags": [
         "ai"
       ],
-      "score": "53",
-      "item_id": "hn:48670579",
+      "score": "25",
+      "item_id": "hn:48657131",
       "summary_type": "extractive",
-      "title_zh": "Bringing Swift to the Apple ][",
-      "summary_zh": "Bringing Swift to the Apple ]["
-    },
-    {
-      "title": "Trade, merchants, and the lost cities of the Bronze Age (2019) [pdf]",
-      "summary": "(changed from https:&#x2F;&#x2F;thedailyeconomy.org&#x2F;article&#x2F;ancient-clay-tablets-sho...)",
-      "full_text": "(changed from https:&#x2F;&#x2F;thedailyeconomy.org&#x2F;article&#x2F;ancient-clay-tablets-sho...)",
-      "source": "hacker news",
-      "url": "https://keremcosar.uvacreate.virginia.edu/publications/BCCH-BronzeAgeTrade-qje.pdf",
-      "published_at": "2026-06-23T17:40:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "67",
-      "item_id": "hn:48648493",
-      "summary_type": "extractive",
-      "title_zh": "Trade, merchants, and the lost cities of the Bronze Age (2019) [pdf]",
-      "summary_zh": "(changed from https:&#x2F;&#x2F;thedailyeconomy.org&#x2F;article&#x2F;ancient-clay-tablets-sho...)"
+      "title_zh": "Deciphering Basmala",
+      "summary_zh": "Deciphering Basmala"
     }
   ]
 }

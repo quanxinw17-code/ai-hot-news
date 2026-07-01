@@ -1,7 +1,215 @@
 {
-  "updated_at": "2026-07-01T14:52:28.331750+00:00",
-  "count": 50,
+  "updated_at": "2026-07-01T20:05:28.202466+00:00",
+  "count": 30,
   "items": [
+    {
+      "title": "Fable 5 Is Back",
+      "summary": "Fable 5 Is Back",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://twitter.com/claudeai/status/2072402636813607381",
+      "published_at": "2026-07-01T19:35:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "88",
+      "item_id": "hn:48752030",
+      "summary_type": "extractive",
+      "title_zh": "Fable 5 Is Back",
+      "summary_zh": "Fable 5 Is Back"
+    },
+    {
+      "title": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
+      "summary": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/Division-36/Z-Jail/",
+      "published_at": "2026-07-01T19:18:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "8",
+      "item_id": "hn:48751824",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
+      "summary_zh": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps"
+    },
+    {
+      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries",
+      "summary": "Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch",
+      "published_at": "2026-07-01T18:12:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:48750989",
+      "summary_type": "extractive",
+      "title_zh": "Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries",
+      "summary_zh": "Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries"
+    },
+    {
+      "title": "Most rewrites serve the engineer, not the business",
+      "summary": "Most rewrites serve the engineer, not the business",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html",
+      "published_at": "2026-07-01T18:08:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:48750934",
+      "summary_type": "extractive",
+      "title_zh": "Most rewrites serve the engineer, not the business",
+      "summary_zh": "Most rewrites serve the engineer, not the business"
+    },
+    {
+      "title": "What to Learn to Be a Graphics Programmer",
+      "summary": "What to Learn to Be a Graphics Programmer",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "published_at": "2026-07-01T17:53:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "102",
+      "item_id": "hn:48750710",
+      "summary_type": "extractive",
+      "title_zh": "What to Learn to Be a Graphics Programmer",
+      "summary_zh": "What to Learn to Be a Graphics Programmer"
+    },
+    {
+      "title": "Building Gin: Simple over Easy",
+      "summary": "Building Gin: Simple over Easy",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://manualmeida.dev/articles/gin-simple-over-easy/",
+      "published_at": "2026-07-01T17:45:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "43",
+      "item_id": "hn:48750593",
+      "summary_type": "extractive",
+      "title_zh": "Building Gin: Simple over Easy",
+      "summary_zh": "Building Gin: Simple over Easy"
+    },
+    {
+      "title": "Hanami 3.0: In Full Bloom",
+      "summary": "Hanami 3.0: In Full Bloom",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
+      "published_at": "2026-07-01T17:41:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "30",
+      "item_id": "hn:48750527",
+      "summary_type": "extractive",
+      "title_zh": "Hanami 3.0: In Full Bloom",
+      "summary_zh": "Hanami 3.0: In Full Bloom"
+    },
+    {
+      "title": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019",
+      "summary": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study",
+      "published_at": "2026-07-01T17:29:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:48750373",
+      "summary_type": "extractive",
+      "title_zh": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019",
+      "summary_zh": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019"
+    },
+    {
+      "title": "A complete ClickHouse OLAP engine, compiled to WebAssembly",
+      "summary": "A complete ClickHouse OLAP engine, compiled to WebAssembly",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://wasm.chdb.io/",
+      "published_at": "2026-07-01T17:05:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "25",
+      "item_id": "hn:48750000",
+      "summary_type": "extractive",
+      "title_zh": "A complete ClickHouse OLAP engine, compiled to WebAssembly",
+      "summary_zh": "A complete ClickHouse OLAP engine, compiled to WebAssembly"
+    },
+    {
+      "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
+      "summary": "Reduce GVisor Cold Starts with GPU Snapshotting",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+      "published_at": "2026-07-01T16:19:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "39",
+      "item_id": "hn:48749313",
+      "summary_type": "extractive",
+      "title_zh": "Reduce GVisor Cold Starts with GPU Snapshotting",
+      "summary_zh": "Reduce GVisor Cold Starts with GPU Snapshotting"
+    },
+    {
+      "title": "How We Made IPFS Content Publishing 10x Faster",
+      "summary": "How We Made IPFS Content Publishing 10x Faster",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://probelab.io/blog/optimistic-provide/",
+      "published_at": "2026-07-01T15:30:35+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "109",
+      "item_id": "hn:48748518",
+      "summary_type": "extractive",
+      "title_zh": "How We Made IPFS Content Publishing 10x Faster",
+      "summary_zh": "How We Made IPFS Content Publishing 10x Faster"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (July 2026)",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.Please only post if you are actively filling a position and are committed\nto replying to applicants.Commenters: please don&#x27;t reply to job posts to",
+      "full_text": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.Please only post if you are actively filling a position and are committed\nto replying to applicants.Commenters: please don&#x27;t reply to job posts to",
+      "source": "hacker news",
+      "url": "https://news.ycombinator.com/item?id=48747976",
+      "published_at": "2026-07-01T15:01:21+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "106",
+      "item_id": "hn:48747976",
+      "summary_type": "extractive",
+      "title_zh": "Ask HN: Who is hiring? (July 2026)",
+      "summary_zh": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.Please only post if you are actively filling a position and are committed\nto replying to applicants.Commenters: please don&#x27;t reply to job posts to"
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (July 2026)",
+      "summary": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.Searchers: try https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-wants-to-be-hired, https:&#x2F;&#x2F;www.wantstobehired.com.",
+      "full_text": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.Searchers: try https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-wants-to-be-hired, https:&#x2F;&#x2F;www.wantstobehired.com.",
+      "source": "hacker news",
+      "url": "https://news.ycombinator.com/item?id=48747975",
+      "published_at": "2026-07-01T15:01:21+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "76",
+      "item_id": "hn:48747975",
+      "summary_type": "extractive",
+      "title_zh": "Ask HN: Who wants to be hired? (July 2026)",
+      "summary_zh": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.Searchers: try https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-wants-to-be-hired, https:&#x2F;&#x2F;www.wantstobehired.com."
+    },
     {
       "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
       "summary": "Sony Deletes 551 Movies PlayStation Owners Paid For",
@@ -12,43 +220,43 @@
       "tags": [
         "ai"
       ],
-      "score": "15",
+      "score": "352",
       "item_id": "hn:48747389",
       "summary_type": "extractive",
       "title_zh": "Sony Deletes 551 Movies PlayStation Owners Paid For",
       "summary_zh": "Sony Deletes 551 Movies PlayStation Owners Paid For"
     },
     {
-      "title": "For First Time, a Cell Built from Scratch Grows and Divides",
-      "summary": "For First Time, a Cell Built from Scratch Grows and Divides",
-      "full_text": "",
+      "title": "For first time, a cell built from scratch grows and divides",
+      "summary": "https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F;",
+      "full_text": "https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F;",
       "source": "hacker news",
       "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
       "published_at": "2026-07-01T14:20:52+00:00",
       "tags": [
         "ai"
       ],
-      "score": "12",
+      "score": "550",
       "item_id": "hn:48747304",
       "summary_type": "extractive",
-      "title_zh": "For First Time, a Cell Built from Scratch Grows and Divides",
-      "summary_zh": "For First Time, a Cell Built from Scratch Grows and Divides"
+      "title_zh": "For first time, a cell built from scratch grows and divides",
+      "summary_zh": "https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F;"
     },
     {
-      "title": "This Cell Feeds, Grows and Reproduces. and It's Manmade",
-      "summary": "This Cell Feeds, Grows and Reproduces. and It's Manmade",
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "summary": "FFmpeg 9.1's new AAC encoder",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.nytimes.com/interactive/2026/07/01/science/spudcells-synthetic-cell.html",
-      "published_at": "2026-07-01T14:06:55+00:00",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "published_at": "2026-07-01T14:10:28+00:00",
       "tags": [
         "ai"
       ],
-      "score": "11",
-      "item_id": "hn:48747038",
+      "score": "149",
+      "item_id": "hn:48747116",
       "summary_type": "extractive",
-      "title_zh": "This Cell Feeds, Grows and Reproduces. and It's Manmade",
-      "summary_zh": "This Cell Feeds, Grows and Reproduces. and It's Manmade"
+      "title_zh": "FFmpeg 9.1's new AAC encoder",
+      "summary_zh": "FFmpeg 9.1's new AAC encoder"
     },
     {
       "title": "Monetization Gateway",
@@ -60,43 +268,11 @@
       "tags": [
         "ai"
       ],
-      "score": "6",
+      "score": "180",
       "item_id": "hn:48746914",
       "summary_type": "extractive",
       "title_zh": "Monetization Gateway",
       "summary_zh": "Monetization Gateway"
-    },
-    {
-      "title": "Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle",
-      "summary": "Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle",
-      "published_at": "2026-07-01T13:54:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "30",
-      "item_id": "hn:48746842",
-      "summary_type": "extractive",
-      "title_zh": "Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle",
-      "summary_zh": "Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle"
-    },
-    {
-      "title": "Why I Stopped Arguing with People",
-      "summary": "Why I Stopped Arguing with People",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-      "published_at": "2026-07-01T13:29:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "270",
-      "item_id": "hn:48746445",
-      "summary_type": "extractive",
-      "title_zh": "Why I Stopped Arguing with People",
-      "summary_zh": "Why I Stopped Arguing with People"
     },
     {
       "title": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
@@ -115,8 +291,40 @@
       "summary_zh": "Manufact (YC S25) Is Hiring a Developer Advocate in SF"
     },
     {
-      "title": "Announcing Box3D :: Box2D",
-      "summary": "Announcing Box3D :: Box2D",
+      "title": "Internal Combustion Engine",
+      "summary": "Internal Combustion Engine",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ciechanow.ski/internal-combustion-engine/",
+      "published_at": "2026-07-01T13:04:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "199",
+      "item_id": "hn:48746076",
+      "summary_type": "extractive",
+      "title_zh": "Internal Combustion Engine",
+      "summary_zh": "Internal Combustion Engine"
+    },
+    {
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "summary": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "published_at": "2026-07-01T12:13:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "403",
+      "item_id": "hn:48745456",
+      "summary_type": "extractive",
+      "title_zh": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "summary_zh": "Physical disc production ending in Jan 2028 for new games on PlayStation"
+    },
+    {
+      "title": "Box3D, an open source 3D physics engine",
+      "summary": "Box3D, an open source 3D physics engine",
       "full_text": "",
       "source": "hacker news",
       "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
@@ -124,27 +332,11 @@
       "tags": [
         "ai"
       ],
-      "score": "39",
+      "score": "322",
       "item_id": "hn:48745445",
       "summary_type": "extractive",
-      "title_zh": "Announcing Box3D :: Box2D",
-      "summary_zh": "Announcing Box3D :: Box2D"
-    },
-    {
-      "title": "Show HN: Frond – a frontend runtime for your app's dependency graph",
-      "summary": "Show HN: Frond – a frontend runtime for your app's dependency graph",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://frondruntime.dev",
-      "published_at": "2026-07-01T12:10:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "6",
-      "item_id": "hn:48745434",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Frond – a frontend runtime for your app's dependency graph",
-      "summary_zh": "Show HN: Frond – a frontend runtime for your app's dependency graph"
+      "title_zh": "Box3D, an open source 3D physics engine",
+      "summary_zh": "Box3D, an open source 3D physics engine"
     },
     {
       "title": "Nintendo has raised its employees base salary by 10%",
@@ -156,43 +348,27 @@
       "tags": [
         "ai"
       ],
-      "score": "228",
+      "score": "457",
       "item_id": "hn:48745113",
       "summary_type": "extractive",
       "title_zh": "Nintendo has raised its employees base salary by 10%",
       "summary_zh": "Nintendo has raised its employees base salary by 10%"
     },
     {
-      "title": "Swedish court says Google is to pay $1.5B to Klarna in antitrust damages",
-      "summary": "Swedish court says Google is to pay $1.5B to Klarna in antitrust damages",
-      "full_text": "",
+      "title": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
+      "summary": "https:&#x2F;&#x2F;www.404media.co&#x2F;apple-hide-my-email-vulnerability-re..., https:&#x2F;&#x2F;archive.vn&#x2F;mCbBw",
+      "full_text": "https:&#x2F;&#x2F;www.404media.co&#x2F;apple-hide-my-email-vulnerability-re..., https:&#x2F;&#x2F;archive.vn&#x2F;mCbBw",
       "source": "hacker news",
-      "url": "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/",
-      "published_at": "2026-07-01T11:28:26+00:00",
+      "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
+      "published_at": "2026-07-01T10:19:45+00:00",
       "tags": [
         "ai"
       ],
-      "score": "101",
-      "item_id": "hn:48745061",
+      "score": "183",
+      "item_id": "hn:48744606",
       "summary_type": "extractive",
-      "title_zh": "Swedish court says Google is to pay $1.5B to Klarna in antitrust damages",
-      "summary_zh": "Swedish court says Google is to pay $1.5B to Klarna in antitrust damages"
-    },
-    {
-      "title": "The Internet I Grew Up with Doesn't Exist Anymore",
-      "summary": "The Internet I Grew Up with Doesn't Exist Anymore",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://cleberg.net/blog/internet.html",
-      "published_at": "2026-07-01T10:26:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "187",
-      "item_id": "hn:48744655",
-      "summary_type": "extractive",
-      "title_zh": "The Internet I Grew Up with Doesn't Exist Anymore",
-      "summary_zh": "The Internet I Grew Up with Doesn't Exist Anymore"
+      "title_zh": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
+      "summary_zh": "https:&#x2F;&#x2F;www.404media.co&#x2F;apple-hide-my-email-vulnerability-re..., https:&#x2F;&#x2F;archive.vn&#x2F;mCbBw"
     },
     {
       "title": "Asahi Linux 7.1 Progress Report",
@@ -204,517 +380,27 @@
       "tags": [
         "ai"
       ],
-      "score": "365",
+      "score": "490",
       "item_id": "hn:48744518",
       "summary_type": "extractive",
       "title_zh": "Asahi Linux 7.1 Progress Report",
       "summary_zh": "Asahi Linux 7.1 Progress Report"
     },
     {
-      "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
-      "summary": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
+      "title": "Fixing a kubelet memory leak in Kubernetes 1.36",
+      "summary": "Fixing a kubelet memory leak in Kubernetes 1.36",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
-      "published_at": "2026-07-01T09:57:07+00:00",
+      "url": "https://heyoncall.com/blog/fixing-kubernetes-kubelet-memory-leak",
+      "published_at": "2026-07-01T02:14:29+00:00",
       "tags": [
         "ai"
       ],
-      "score": "104",
-      "item_id": "hn:48744446",
+      "score": "51",
+      "item_id": "hn:48741609",
       "summary_type": "extractive",
-      "title_zh": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
-      "summary_zh": "Pine64 launch $50 smart speaker for Home Assistant tinkerers"
-    },
-    {
-      "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
-      "summary": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
-      "published_at": "2026-07-01T09:21:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "277",
-      "item_id": "hn:48744232",
-      "summary_type": "extractive",
-      "title_zh": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
-      "summary_zh": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice"
-    },
-    {
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "summary": "Godot will no longer accept AI-authored code contributions",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-      "published_at": "2026-07-01T07:43:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "428",
-      "item_id": "hn:48743472",
-      "summary_type": "extractive",
-      "title_zh": "Godot will no longer accept AI-authored code contributions",
-      "summary_zh": "Godot will no longer accept AI-authored code contributions"
-    },
-    {
-      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-      "summary": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-      "published_at": "2026-07-01T05:13:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "68",
-      "item_id": "hn:48742514",
-      "summary_type": "extractive",
-      "title_zh": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-      "summary_zh": "Matrix Orthogonalization Improves Memory in Recurrent Models"
-    },
-    {
-      "title": "Google copybara: moving code between repositories",
-      "summary": "Google copybara: moving code between repositories",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/google/copybara",
-      "published_at": "2026-06-30T23:45:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "264",
-      "item_id": "hn:48740698",
-      "summary_type": "extractive",
-      "title_zh": "Google copybara: moving code between repositories",
-      "summary_zh": "Google copybara: moving code between repositories"
-    },
-    {
-      "title": "I ported Kubernetes to the browser",
-      "summary": "https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;weberneteshttps:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F;",
-      "full_text": "https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;weberneteshttps:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F;",
-      "source": "hacker news",
-      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-      "published_at": "2026-06-30T20:48:36+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "316",
-      "item_id": "hn:48738985",
-      "summary_type": "extractive",
-      "title_zh": "I ported Kubernetes to the browser",
-      "summary_zh": "https:&#x2F;&#x2F;github.com&#x2F;ngrok&#x2F;weberneteshttps:&#x2F;&#x2F;webernetes-demo.ngrok.app&#x2F;"
-    },
-    {
-      "title": "Leanstral 1.5",
-      "summary": "Leanstral 1.5",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-      "published_at": "2026-06-30T20:44:56+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "278",
-      "item_id": "hn:48738938",
-      "summary_type": "extractive",
-      "title_zh": "Leanstral 1.5",
-      "summary_zh": "Leanstral 1.5"
-    },
-    {
-      "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
-      "summary": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs as supervision. Surprisingly, we find that LMs trained on fixed counterfactual explanations derived from earlier checkpoints of themselves, or even from behaviorally similar models in different familie",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.32038v1",
-      "published_at": "2026-06-30T17:59:32Z",
-      "tags": [
-        "paper",
-        "vision",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.32038v1",
-      "summary_type": "extractive",
-      "title_zh": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
-      "summary_zh": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs as supervision. Surprisingly, we find that LMs trained on fixed counterfactual explanations derived from earlier checkpoints of themselves, or even from behaviorally similar models in different familie"
-    },
-    {
-      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
-      "summary": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to solve this problem by scoring intermediate steps, from intrinsic confidence to self-distillation and embedding similarities.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.32034v1",
-      "published_at": "2026-06-30T17:58:23Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper",
-        "agent",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.32034v1",
-      "summary_type": "extractive",
-      "title_zh": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
-      "summary_zh": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to solve this problem by scoring intermediate steps, from intrinsic confidence to self-distillation and embedding similarities."
-    },
-    {
-      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
-      "summary": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive faculties: they hallucinate with high confidence, fail to recognize knowledge boundaries, and misrepresent their internal uncertainty--undermining trustworthiness and reliability. Since monitoring task performance and adapting behavior accordingly are central to metacognition, we posit that models capab",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.32032v1",
-      "published_at": "2026-06-30T17:56:01Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.32032v1",
-      "summary_type": "extractive",
-      "title_zh": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
-      "summary_zh": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive faculties: they hallucinate with high confidence, fail to recognize knowledge boundaries, and misrepresent their internal uncertainty--undermining trustworthiness and reliability. Since monitoring task performance and adapting behavior accordingly are central to metacognition, we posit that models capab"
-    },
-    {
-      "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
-      "summary": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table structure. Beyond final-answer accuracy, DREs directly compromise the correctness and reliability of intermediate reasoning steps. Yet prior studies have only offered limited, small-scale analyses.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.32029v1",
-      "published_at": "2026-06-30T17:54:50Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.32029v1",
-      "summary_type": "extractive",
-      "title_zh": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
-      "summary_zh": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table structure. Beyond final-answer accuracy, DREs directly compromise the correctness and reliability of intermediate reasoning steps. Yet prior studies have only offered limited, small-scale analyses."
-    },
-    {
-      "title": "Freeform Preference Learning for Robotic Manipulation",
-      "summary": "Reward design remains a central bottleneck for autonomous robot policy improvement, especially in long-horizon manipulation tasks where sparse success labels provide too little signal and binary preferences collapse many competing notions of quality into one ambiguous signal. We introduce Freeform Preference Learning (FPL), a method for learning robot policies from freeform human preferences. Rather than asking annotators which of two trajectories is better overall, FPL lets them define natural-",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.32027v1",
-      "published_at": "2026-06-30T17:54:02Z",
-      "tags": [
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.32027v1",
-      "summary_type": "extractive",
-      "title_zh": "Freeform Preference Learning for Robotic Manipulation",
-      "summary_zh": "Reward design remains a central bottleneck for autonomous robot policy improvement, especially in long-horizon manipulation tasks where sparse success labels provide too little signal and binary preferences collapse many competing notions of quality into one ambiguous signal. We introduce Freeform Preference Learning (FPL), a method for learning robot policies from freeform human preferences. Rather than asking annotators which of two trajectories is better overall, FPL lets them define natural-"
-    },
-    {
-      "title": "AdaJEPA: An Adaptive Latent World Model",
-      "summary": "Latent world models enable planning from high-dimensional observations by predicting future states in a compact latent space. However, these models are typically kept frozen at test time: when their predictions become inaccurate, planning can fail, especially under test-time distribution shift. To address this, we propose AdaJEPA, an adaptive latent world model that performs test-time adaptation within the closed loop of model predictive control (MPC).",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.32026v1",
-      "published_at": "2026-06-30T17:53:48Z",
-      "tags": [
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.32026v1",
-      "summary_type": "extractive",
-      "title_zh": "AdaJEPA: An Adaptive Latent World Model",
-      "summary_zh": "Latent world models enable planning from high-dimensional observations by predicting future states in a compact latent space. However, these models are typically kept frozen at test time: when their predictions become inaccurate, planning can fail, especially under test-time distribution shift. To address this, we propose AdaJEPA, an adaptive latent world model that performs test-time adaptation within the closed loop of model predictive control (MPC)."
-    },
-    {
-      "title": "FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data",
-      "summary": "Forest attributes are essential for national-scale resource monitoring. Airborne LiDAR metrics are among the auxiliary variables most strongly correlated with forest attributes used in National Forest Inventory (NFI) estimates. However, producing wall-to-wall predictions remains challenging when LiDAR data are acquired under heterogeneous conditions.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.32023v1",
-      "published_at": "2026-06-30T17:52:28Z",
-      "tags": [
-        "ai",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.32023v1",
-      "summary_type": "extractive",
-      "title_zh": "FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data",
-      "summary_zh": "Forest attributes are essential for national-scale resource monitoring. Airborne LiDAR metrics are among the auxiliary variables most strongly correlated with forest attributes used in National Forest Inventory (NFI) estimates. However, producing wall-to-wall predictions remains challenging when LiDAR data are acquired under heterogeneous conditions."
-    },
-    {
-      "title": "TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning",
-      "summary": "Agentic reinforcement learning requires assigning credit to environment-facing actions such as searches, clicks, edits, navigation commands, and object interactions. Standard GRPO uses the final verifier outcome as a uniform advantage over all action tokens. This outcome signal is useful but structurally incomplete: it punishes useful exploration in failed rollouts and reinforces redundant or regressive actions in successful rollouts.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.32017v1",
-      "published_at": "2026-06-30T17:48:07Z",
-      "tags": [
-        "agent",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.32017v1",
-      "summary_type": "extractive",
-      "title_zh": "TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning",
-      "summary_zh": "Agentic reinforcement learning requires assigning credit to environment-facing actions such as searches, clicks, edits, navigation commands, and object interactions. Standard GRPO uses the final verifier outcome as a uniform advantage over all action tokens. This outcome signal is useful but structurally incomplete: it punishes useful exploration in failed rollouts and reinforces redundant or regressive actions in successful rollouts."
-    },
-    {
-      "title": "AxDafny: Agentic Verified Code Generation in Dafny",
-      "summary": "We study agentic code generation in Dafny, where a model must generate both executable code and the proof artifacts for verification. We present AxDafny, a verifier-guided repair framework that iteratively generates implementations, invariants, assertions, and termination arguments. We also introduce LiveCodeBench-Pro-Dafny (LCB-Pro-Dafny), a benchmark of 250 competition-style programming problems translated into Dafny with formal specifications and a verifier-based evaluation harness.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.32007v1",
-      "published_at": "2026-06-30T17:39:43Z",
-      "tags": [
-        "agent",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.32007v1",
-      "summary_type": "extractive",
-      "title_zh": "AxDafny: Agentic Verified Code Generation in Dafny",
-      "summary_zh": "We study agentic code generation in Dafny, where a model must generate both executable code and the proof artifacts for verification. We present AxDafny, a verifier-guided repair framework that iteratively generates implementations, invariants, assertions, and termination arguments. We also introduce LiveCodeBench-Pro-Dafny (LCB-Pro-Dafny), a benchmark of 250 competition-style programming problems translated into Dafny with formal specifications and a verifier-based evaluation harness."
-    },
-    {
-      "title": "PolicyGuard: From Organizational Policies to Neuro-SymbolicCompliance Review Engines",
-      "summary": "Policy-grounded document review requires determining whether a target document complies with organization-specific policies, guidelines, or playbooks. While large language models can assist with policy interpretation and document analysis, end-to-end prompting leaves the applied policy logic implicit, making compliance decisions difficult to inspect, update, and test. We present PolicyGuard, a neuro-symbolic framework for policy-grounded document compliance review.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.32004v1",
-      "published_at": "2026-06-30T17:37:57Z",
-      "tags": [
-        "tool",
-        "paper",
-        "vision",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.32004v1",
-      "summary_type": "extractive",
-      "title_zh": "PolicyGuard: From Organizational Policies to Neuro-SymbolicCompliance Review Engines",
-      "summary_zh": "Policy-grounded document review requires determining whether a target document complies with organization-specific policies, guidelines, or playbooks. While large language models can assist with policy interpretation and document analysis, end-to-end prompting leaves the applied policy logic implicit, making compliance decisions difficult to inspect, update, and test. We present PolicyGuard, a neuro-symbolic framework for policy-grounded document compliance review."
-    },
-    {
-      "title": "Self-Study Reconsidered: The Hidden Fragility of Learning from Self-Generated QA",
-      "summary": "Language models are increasingly taught from synthetic question--answer (QA) supervision: a model generates questions about a document, answers them from the same text, and the resulting pairs are used to fine-tune, distill, or compress knowledge into another model. We show that this generation step is not neutral preprocessing. It is an implicit policy that both selects which evidence becomes training signal and decides how that evidence is answered, and it is fragile at both stages.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.32002v1",
-      "published_at": "2026-06-30T17:35:14Z",
-      "tags": [
-        "tool",
-        "paper",
-        "vision",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.32002v1",
-      "summary_type": "extractive",
-      "title_zh": "Self-Study Reconsidered: The Hidden Fragility of Learning from Self-Generated QA",
-      "summary_zh": "Language models are increasingly taught from synthetic question--answer (QA) supervision: a model generates questions about a document, answers them from the same text, and the resulting pairs are used to fine-tune, distill, or compress knowledge into another model. We show that this generation step is not neutral preprocessing. It is an implicit policy that both selects which evidence becomes training signal and decides how that evidence is answered, and it is fragile at both stages."
-    },
-    {
-      "title": "Radial Suppression Accelerates Algorithmic Generalization: A Geometric Analysis of Delayed Generalization",
-      "summary": "Why do neural networks memorize algorithmic training data long before they generalize? We present a geometric case study demonstrating that, on tasks where generalization requires discovering structured low-dimensional circuits, the memorization-generalization delay is driven by radial inflation of hidden representations under cross-entropy optimization. We formalize a radial-angular decomposition of activation-space dynamics and derive three testable propositions: (i) that penalizing radial inf",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.32000v1",
-      "published_at": "2026-06-30T17:34:13Z",
-      "tags": [
-        "ai",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.32000v1",
-      "summary_type": "extractive",
-      "title_zh": "Radial Suppression Accelerates Algorithmic Generalization: A Geometric Analysis of Delayed Generalization",
-      "summary_zh": "Why do neural networks memorize algorithmic training data long before they generalize? We present a geometric case study demonstrating that, on tasks where generalization requires discovering structured low-dimensional circuits, the memorization-generalization delay is driven by radial inflation of hidden representations under cross-entropy optimization. We formalize a radial-angular decomposition of activation-space dynamics and derive three testable propositions: (i) that penalizing radial inf"
-    },
-    {
-      "title": "Amplifying Membership Signal Through Chained Regeneration",
-      "summary": "The tendency of large generative models to memorize training data makes sample verification critical for privacy auditing and copyright enforcement. Current membership (MIA) and dataset inference (DI) attacks often rely on one-shot generations, which yield weak signals and limited sensitivity across modalities. Inspired by Model Autophagy Disorder (MAD), we introduce MADreMIA, a model-agnostic framework that enhances white-, gray-, and black-box MIA and DI.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.31991v1",
-      "published_at": "2026-06-30T17:29:04Z",
-      "tags": [
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.31991v1",
-      "summary_type": "extractive",
-      "title_zh": "Amplifying Membership Signal Through Chained Regeneration",
-      "summary_zh": "The tendency of large generative models to memorize training data makes sample verification critical for privacy auditing and copyright enforcement. Current membership (MIA) and dataset inference (DI) attacks often rely on one-shot generations, which yield weak signals and limited sensitivity across modalities. Inspired by Model Autophagy Disorder (MAD), we introduce MADreMIA, a model-agnostic framework that enhances white-, gray-, and black-box MIA and DI."
-    },
-    {
-      "title": "GR2 Technical Report",
-      "summary": "Industrial recommendation systems serve billions of users through a multi-stage funnel -- retrieval, early-stage ranking, and re-ranking -- where the final re-ranking step disproportionately shapes user engagement and downstream performance, particularly for carousel and grid display formats. Despite growing enthusiasm for Large Language Models (LLMs) in recommendation, three gaps hinder industrial adoption: (1) most efforts target retrieval and ranking, leaving re-ranking -- the stage closest t",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.31984v1",
-      "published_at": "2026-06-30T17:22:22Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.31984v1",
-      "summary_type": "extractive",
-      "title_zh": "GR2 Technical Report",
-      "summary_zh": "Industrial recommendation systems serve billions of users through a multi-stage funnel -- retrieval, early-stage ranking, and re-ranking -- where the final re-ranking step disproportionately shapes user engagement and downstream performance, particularly for carousel and grid display formats. Despite growing enthusiasm for Large Language Models (LLMs) in recommendation, three gaps hinder industrial adoption: (1) most efforts target retrieval and ranking, leaving re-ranking -- the stage closest t"
-    },
-    {
-      "title": "LUNA: Learning Universal 3D Human Animation Beyond Skinning",
-      "summary": "Creating photorealistic, animatable 3D human avatars from monocular images still largely depends on Linear Blend Skinning (LBS) and parametric body models, which constrain expressivity and often introduce artifacts due to imperfect fitting. We propose LUNA, an LBS-free universal neural animation model that directly maps multiple 2D controls like images, keypoints, sketches, and unseen characters into 3D Gaussian deformations, bypassing explicit body fitting. At its core, a transformer-based moti",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.31981v1",
-      "published_at": "2026-06-30T17:19:55Z",
-      "tags": [
-        "paper",
-        "vision",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.31981v1",
-      "summary_type": "extractive",
-      "title_zh": "LUNA: Learning Universal 3D Human Animation Beyond Skinning",
-      "summary_zh": "Creating photorealistic, animatable 3D human avatars from monocular images still largely depends on Linear Blend Skinning (LBS) and parametric body models, which constrain expressivity and often introduce artifacts due to imperfect fitting. We propose LUNA, an LBS-free universal neural animation model that directly maps multiple 2D controls like images, keypoints, sketches, and unseen characters into 3D Gaussian deformations, bypassing explicit body fitting. At its core, a transformer-based moti"
-    },
-    {
-      "title": "TreeAgent: A Generalizable Multi-Agent Framework for Automated Bias Labeling in Forestry via Compiled Expert Rules and Vision-Language Models",
-      "summary": "Human-labeled data are widely used as reference annotations in ML, despite known variability across annotators in many expert-driven domains. In addition, expert annotation is slow, inconsistent, and remains a major bottleneck for scaling tasks like tree height bias classification in forestry remote sensing. We propose a multi-agent system (MAS) that orchestrates expert decision trees with Vision-Language Models (VLMs), treating the decision tree as a structural prior while VLMs perform localize",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.31976v1",
-      "published_at": "2026-06-30T17:16:59Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper",
-        "agent",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.31976v1",
-      "summary_type": "extractive",
-      "title_zh": "TreeAgent: A Generalizable Multi-Agent Framework for Automated Bias Labeling in Forestry via Compiled Expert Rules and Vision-Language Models",
-      "summary_zh": "Human-labeled data are widely used as reference annotations in ML, despite known variability across annotators in many expert-driven domains. In addition, expert annotation is slow, inconsistent, and remains a major bottleneck for scaling tasks like tree height bias classification in forestry remote sensing. We propose a multi-agent system (MAS) that orchestrates expert decision trees with Vision-Language Models (VLMs), treating the decision tree as a structural prior while VLMs perform localize"
-    },
-    {
-      "title": "MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments",
-      "summary": "Recent multimodal large language models (MLLMs) have strong potential as embodied agents, but their ability to collaborate in visually grounded environments remains underexplored. To address this gap, we introduce MECoBench, a multimodal embodied cooperation benchmark with an evaluation platform spanning diverse real-world tasks, two cooperation structures, and three collaboration modes. Through extensive experiments across various MLLMs, we summarize three key findings: (i) Collaboration genera",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.31966v1",
-      "published_at": "2026-06-30T17:07:53Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper",
-        "agent",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.31966v1",
-      "summary_type": "extractive",
-      "title_zh": "MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments",
-      "summary_zh": "Recent multimodal large language models (MLLMs) have strong potential as embodied agents, but their ability to collaborate in visually grounded environments remains underexplored. To address this gap, we introduce MECoBench, a multimodal embodied cooperation benchmark with an evaluation platform spanning diverse real-world tasks, two cooperation structures, and three collaboration modes. Through extensive experiments across various MLLMs, we summarize three key findings: (i) Collaboration genera"
-    },
-    {
-      "title": "Nano Banana 2 Lite",
-      "summary": "Nano Banana 2 Lite",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "published_at": "2026-06-30T16:48:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "416",
-      "item_id": "hn:48735444",
-      "summary_type": "extractive",
-      "title_zh": "Nano Banana 2 Lite",
-      "summary_zh": "Nano Banana 2 Lite"
-    },
-    {
-      "title": "LeCropFollow: Latent Space Planning for Navigation in Unstructured Crop Fields",
-      "summary": "Unstructured navigational features, such as irregular planting or discontinuities, remain the primary failure mode for under-canopy agricultural robots. Existing geometric approaches often fail in these scenarios because they compress high-dimensional visual data into deterministic spatial references, effectively discarding the uncertainty and semantic context required to navigate ambiguous terrain. To address this, we present LeCropFollow, a visual navigation framework that bypasses explicit ge",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.31941v1",
-      "published_at": "2026-06-30T16:47:08Z",
-      "tags": [
-        "agent",
-        "tool",
-        "vision",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.31941v1",
-      "summary_type": "extractive",
-      "title_zh": "LeCropFollow: Latent Space Planning for Navigation in Unstructured Crop Fields",
-      "summary_zh": "Unstructured navigational features, such as irregular planting or discontinuities, remain the primary failure mode for under-canopy agricultural robots. Existing geometric approaches often fail in these scenarios because they compress high-dimensional visual data into deterministic spatial references, effectively discarding the uncertainty and semantic context required to navigate ambiguous terrain. To address this, we present LeCropFollow, a visual navigation framework that bypasses explicit ge"
-    },
-    {
-      "title": "MVP-Nav: Multi-layer Value Map Planner Navigator",
-      "summary": "Zero-shot Object Goal Navigation (ZSON) with RGB-only perception poses a fundamental challenge for embodied agents, as the absence of explicit depth information introduces severe physical uncertainty and semantic-physical misalignment. Existing approaches either rely on high-level semantic reasoning without geometric grounding or learn end-to-end policies that lack explicit physical constraints, often resulting in semantically plausible but physically unsafe behaviors. In this paper, we propose ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.31919v1",
-      "published_at": "2026-06-30T16:25:47Z",
-      "tags": [
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.31919v1",
-      "summary_type": "extractive",
-      "title_zh": "MVP-Nav: Multi-layer Value Map Planner Navigator",
-      "summary_zh": "Zero-shot Object Goal Navigation (ZSON) with RGB-only perception poses a fundamental challenge for embodied agents, as the absence of explicit depth information introduces severe physical uncertainty and semantic-physical misalignment. Existing approaches either rely on high-level semantic reasoning without geometric grounding or learn end-to-end policies that lack explicit physical constraints, often resulting in semantically plausible but physically unsafe behaviors. In this paper, we propose "
-    },
-    {
-      "title": "Attend, Transform, or Silence: Operator-Level Visual Skipping for Efficient Multimodal LLM Inference",
-      "summary": "Multimodal large language models (MLLMs) increasingly process long visual-token sequences, increasing the overall inference computation. Existing acceleration methods usually remove visual tokens or skip visual-token updates in entire layers, but these coarse strategies may discard fine-grained evidence or suppress useful operators together with redundant ones. In this paper, we study visual-token computation from an answer-observable perspective and find that late visual-token updates can remai",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2606.31903v1",
-      "published_at": "2026-06-30T16:08:29Z",
-      "tags": [
-        "tool",
-        "llm",
-        "vision",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2606.31903v1",
-      "summary_type": "extractive",
-      "title_zh": "Attend, Transform, or Silence: Operator-Level Visual Skipping for Efficient Multimodal LLM Inference",
-      "summary_zh": "Multimodal large language models (MLLMs) increasingly process long visual-token sequences, increasing the overall inference computation. Existing acceleration methods usually remove visual tokens or skip visual-token updates in entire layers, but these coarse strategies may discard fine-grained evidence or suppress useful operators together with redundant ones. In this paper, we study visual-token computation from an answer-observable perspective and find that late visual-token updates can remai"
-    },
-    {
-      "title": "Claude Code is steganographically marking requests",
-      "summary": "Claude Code is steganographically marking requests",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "published_at": "2026-06-30T15:44:24+00:00",
-      "tags": [
-        "vision",
-        "llm"
-      ],
-      "score": "🔥 2.2k",
-      "item_id": "hn:48734373",
-      "summary_type": "extractive",
-      "title_zh": "Claude Code is steganographically marking requests",
-      "summary_zh": "Claude Code is steganographically marking requests"
+      "title_zh": "Fixing a kubelet memory leak in Kubernetes 1.36",
+      "summary_zh": "Fixing a kubelet memory leak in Kubernetes 1.36"
     },
     {
       "title": "Red Programming Language: Static linking support",
@@ -726,91 +412,11 @@
       "tags": [
         "ai"
       ],
-      "score": "8",
+      "score": "63",
       "item_id": "hn:48732582",
       "summary_type": "extractive",
       "title_zh": "Red Programming Language: Static linking support",
       "summary_zh": "Red Programming Language: Static linking support"
-    },
-    {
-      "title": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker",
-      "summary": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://fpanalysistools.org/ISC26/",
-      "published_at": "2026-06-29T22:55:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "15",
-      "item_id": "hn:48726407",
-      "summary_type": "extractive",
-      "title_zh": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker",
-      "summary_zh": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker"
-    },
-    {
-      "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
-      "summary": "https:&#x2F;&#x2F;www.nikhef.nl&#x2F;en&#x2F;news&#x2F;final-run-for-the-current-lhc-...",
-      "full_text": "https:&#x2F;&#x2F;www.nikhef.nl&#x2F;en&#x2F;news&#x2F;final-run-for-the-current-lhc-...",
-      "source": "hacker news",
-      "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
-      "published_at": "2026-06-29T18:52:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "297",
-      "item_id": "hn:48723484",
-      "summary_type": "extractive",
-      "title_zh": "CERN bids farewell to the LHC and enters Long Shutdown 3",
-      "summary_zh": "https:&#x2F;&#x2F;www.nikhef.nl&#x2F;en&#x2F;news&#x2F;final-run-for-the-current-lhc-..."
-    },
-    {
-      "title": "Obfuscation: Building the final boss of cryptography (Part I)",
-      "summary": "Obfuscation: Building the final boss of cryptography (Part I)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html",
-      "published_at": "2026-06-29T16:35:20+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "50",
-      "item_id": "hn:48721434",
-      "summary_type": "extractive",
-      "title_zh": "Obfuscation: Building the final boss of cryptography (Part I)",
-      "summary_zh": "Obfuscation: Building the final boss of cryptography (Part I)"
-    },
-    {
-      "title": "A deep dive into SmallVector:push_back",
-      "summary": "A deep dive into SmallVector:push_back",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back",
-      "published_at": "2026-06-29T16:30:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "21",
-      "item_id": "hn:48721345",
-      "summary_type": "extractive",
-      "title_zh": "A deep dive into SmallVector:push_back",
-      "summary_zh": "A deep dive into SmallVector:push_back"
-    },
-    {
-      "title": "How does a pull-back car work? Illustrated teardown",
-      "summary": "How does a pull-back car work? Illustrated teardown",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://mechanical-pencil.com/products/car",
-      "published_at": "2026-06-28T22:16:20+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "250",
-      "item_id": "hn:48712289",
-      "summary_type": "extractive",
-      "title_zh": "How does a pull-back car work? Illustrated teardown",
-      "summary_zh": "How does a pull-back car work? Illustrated teardown"
     },
     {
       "title": "Newly discovered spider builds spring loaded snare to catch ants",
@@ -822,27 +428,59 @@
       "tags": [
         "ai"
       ],
-      "score": "170",
+      "score": "226",
       "item_id": "hn:48711052",
       "summary_type": "extractive",
       "title_zh": "Newly discovered spider builds spring loaded snare to catch ants",
       "summary_zh": "Newly discovered spider builds spring loaded snare to catch ants"
     },
     {
-      "title": "Building a custom octocopter from scratch with no prior hardware experience",
-      "summary": "Building a custom octocopter from scratch with no prior hardware experience",
-      "full_text": "",
+      "title": "Show HN: QR code renderer in a TrueType font",
+      "summary": "In the &quot;Libre Barcode Project&quot; discussion yesterday, 1bpp asked: &quot;Is anyone willing to sacrifice their sanity for the sake of implementing a QR renderer as TTF hinting code?&quot;Yes. I had some tokens to burn and was curious... turns out, it&#x27;s possible.",
+      "full_text": "In the &quot;Libre Barcode Project&quot; discussion yesterday, 1bpp asked: &quot;Is anyone willing to sacrifice their sanity for the sake of implementing a QR renderer as TTF hinting code?&quot;Yes.  I had some tokens to burn and was curious... turns out, it&#x27;s possible.  This was put together by a mix of Gemini, GPT, and Claude (depending on which usage limits kept running out).",
       "source": "hacker news",
-      "url": "https://karolina.mgdubiel.com/drone/",
-      "published_at": "2026-06-28T04:17:44+00:00",
+      "url": "https://qr.jim.sh/",
+      "published_at": "2026-06-28T00:37:42+00:00",
       "tags": [
         "ai"
       ],
-      "score": "394",
-      "item_id": "hn:48704289",
+      "score": "48",
+      "item_id": "hn:48703200",
       "summary_type": "extractive",
-      "title_zh": "Building a custom octocopter from scratch with no prior hardware experience",
-      "summary_zh": "Building a custom octocopter from scratch with no prior hardware experience"
+      "title_zh": "Show HN: QR code renderer in a TrueType font",
+      "summary_zh": "In the &quot;Libre Barcode Project&quot; discussion yesterday, 1bpp asked: &quot;Is anyone willing to sacrifice their sanity for the sake of implementing a QR renderer as TTF hinting code?&quot;Yes. I had some tokens to burn and was curious... turns out, it&#x27;s possible."
+    },
+    {
+      "title": "Understanding the Linux Kernel: The Scheduler",
+      "summary": "Understanding the Linux Kernel: The Scheduler",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://internals-for-interns.com/posts/linux-kernel-scheduler/",
+      "published_at": "2026-06-27T11:16:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:48697241",
+      "summary_type": "extractive",
+      "title_zh": "Understanding the Linux Kernel: The Scheduler",
+      "summary_zh": "Understanding the Linux Kernel: The Scheduler"
+    },
+    {
+      "title": "1-Bit Pixel Art Emojis",
+      "summary": "1-Bit Pixel Art Emojis",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/",
+      "published_at": "2026-06-25T13:15:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "98",
+      "item_id": "hn:48672848",
+      "summary_type": "extractive",
+      "title_zh": "1-Bit Pixel Art Emojis",
+      "summary_zh": "1-Bit Pixel Art Emojis"
     }
   ]
 }

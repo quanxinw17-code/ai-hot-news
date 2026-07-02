@@ -1,7 +1,103 @@
 {
-  "updated_at": "2026-07-02T04:12:41.971590+00:00",
+  "updated_at": "2026-07-02T09:27:07.007128+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Google loses fight over record $4.7B EU antitrust fine",
+      "summary": "Google loses fight over record $4.7B EU antitrust fine",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "published_at": "2026-07-02T08:34:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "28",
+      "item_id": "hn:48758309",
+      "summary_type": "extractive",
+      "title_zh": "Google loses fight over record $4.7B EU antitrust fine",
+      "summary_zh": "Google loses fight over record $4.7B EU antitrust fine"
+    },
+    {
+      "title": "We Don't Have to Be This Bad at Improving Society",
+      "summary": "We Don't Have to Be This Bad at Improving Society",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/",
+      "published_at": "2026-07-02T08:26:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "44",
+      "item_id": "hn:48758242",
+      "summary_type": "extractive",
+      "title_zh": "We Don't Have to Be This Bad at Improving Society",
+      "summary_zh": "We Don't Have to Be This Bad at Improving Society"
+    },
+    {
+      "title": "The Fall of the Theorem Economy",
+      "summary": "The Fall of the Theorem Economy",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+      "published_at": "2026-07-02T08:01:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "14",
+      "item_id": "hn:48758048",
+      "summary_type": "extractive",
+      "title_zh": "The Fall of the Theorem Economy",
+      "summary_zh": "The Fall of the Theorem Economy"
+    },
+    {
+      "title": "CursorBench 3.1",
+      "summary": "CursorBench 3.1",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://cursor.com/evals",
+      "published_at": "2026-07-02T05:19:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "59",
+      "item_id": "hn:48756840",
+      "summary_type": "extractive",
+      "title_zh": "CursorBench 3.1",
+      "summary_zh": "CursorBench 3.1"
+    },
+    {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "summary": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "published_at": "2026-07-02T04:32:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "139",
+      "item_id": "hn:48756602",
+      "summary_type": "extractive",
+      "title_zh": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "summary_zh": "Kimi K2.7 Code is generally available in GitHub Copilot"
+    },
+    {
+      "title": "A new Android malware from Google",
+      "summary": "A new Android malware from Google",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "published_at": "2026-07-02T03:00:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "383",
+      "item_id": "hn:48755965",
+      "summary_type": "extractive",
+      "title_zh": "A new Android malware from Google",
+      "summary_zh": "A new Android malware from Google"
+    },
     {
       "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
       "summary": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
@@ -13,15 +109,15 @@
         "paper",
         "agent"
       ],
-      "score": "17",
+      "score": "79",
       "item_id": "hn:48755928",
       "summary_type": "extractive",
       "title_zh": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
       "summary_zh": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers"
     },
     {
-      "title": "Bring Back Crappy Forums",
-      "summary": "Bring Back Crappy Forums",
+      "title": "Bring back crappy forums",
+      "summary": "Bring back crappy forums",
       "full_text": "",
       "source": "hacker news",
       "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
@@ -29,15 +125,15 @@
       "tags": [
         "ai"
       ],
-      "score": "53",
+      "score": "254",
       "item_id": "hn:48755731",
       "summary_type": "extractive",
-      "title_zh": "Bring Back Crappy Forums",
-      "summary_zh": "Bring Back Crappy Forums"
+      "title_zh": "Bring back crappy forums",
+      "summary_zh": "Bring back crappy forums"
     },
     {
-      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
-      "summary": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "summary": "Oomwoo, an open-source robot vacuum you build yourself",
       "full_text": "",
       "source": "hacker news",
       "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
@@ -45,59 +141,11 @@
       "tags": [
         "ai"
       ],
-      "score": "94",
+      "score": "280",
       "item_id": "hn:48755005",
       "summary_type": "extractive",
-      "title_zh": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
-      "summary_zh": "Building an Open-Source Robot Vacuum – Meet Oomwoo"
-    },
-    {
-      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
-      "summary": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-      "published_at": "2026-07-02T00:40:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "201",
-      "item_id": "hn:48754963",
-      "summary_type": "extractive",
-      "title_zh": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
-      "summary_zh": "Global review confirms mRNA vaccines are safe, effective and full of promise "
-    },
-    {
-      "title": "The <Usermedia> HTML Element",
-      "summary": "The <Usermedia> HTML Element",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://developer.chrome.com/blog/usermedia-html-element",
-      "published_at": "2026-07-01T23:56:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "54",
-      "item_id": "hn:48754700",
-      "summary_type": "extractive",
-      "title_zh": "The <Usermedia> HTML Element",
-      "summary_zh": "The <Usermedia> HTML Element"
-    },
-    {
-      "title": "Healthy but sedentary people show early decline in cellular energy production",
-      "summary": "Healthy but sedentary people show early decline in cellular energy production",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
-      "published_at": "2026-07-01T22:48:56+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "87",
-      "item_id": "hn:48754155",
-      "summary_type": "extractive",
-      "title_zh": "Healthy but sedentary people show early decline in cellular energy production",
-      "summary_zh": "Healthy but sedentary people show early decline in cellular energy production"
+      "title_zh": "Oomwoo, an open-source robot vacuum you build yourself",
+      "summary_zh": "Oomwoo, an open-source robot vacuum you build yourself"
     },
     {
       "title": "The Underhanded C Contest",
@@ -109,7 +157,7 @@
       "tags": [
         "ai"
       ],
-      "score": "56",
+      "score": "91",
       "item_id": "hn:48754080",
       "summary_type": "extractive",
       "title_zh": "The Underhanded C Contest",
@@ -125,7 +173,7 @@
       "tags": [
         "ai"
       ],
-      "score": "80",
+      "score": "154",
       "item_id": "hn:48753979",
       "summary_type": "extractive",
       "title_zh": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
@@ -141,15 +189,15 @@
       "tags": [
         "ai"
       ],
-      "score": "272",
+      "score": "392",
       "item_id": "hn:48753715",
       "summary_type": "extractive",
       "title_zh": "ZCode – Harness for GLM-5.2",
       "summary_zh": "ZCode – Harness for GLM-5.2"
     },
     {
-      "title": "Chip Off the Old Block",
-      "summary": "Chip Off the Old Block",
+      "title": "Chip Off The Old Block",
+      "summary": "Chip Off The Old Block",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.astralcodexten.com/p/chip-off-the-old-block",
@@ -157,11 +205,11 @@
       "tags": [
         "ai"
       ],
-      "score": "60",
+      "score": "81",
       "item_id": "hn:48753524",
       "summary_type": "extractive",
-      "title_zh": "Chip Off the Old Block",
-      "summary_zh": "Chip Off the Old Block"
+      "title_zh": "Chip Off The Old Block",
+      "summary_zh": "Chip Off The Old Block"
     },
     {
       "title": "Qualcomm Linux 2.0",
@@ -173,7 +221,7 @@
       "tags": [
         "ai"
       ],
-      "score": "66",
+      "score": "102",
       "item_id": "hn:48753069",
       "summary_type": "extractive",
       "title_zh": "Qualcomm Linux 2.0",
@@ -205,27 +253,11 @@
       "tags": [
         "ai"
       ],
-      "score": "283",
+      "score": "344",
       "item_id": "hn:48752905",
       "summary_type": "extractive",
       "title_zh": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
       "summary_zh": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops"
-    },
-    {
-      "title": "Fable 5 is Back",
-      "summary": "Fable 5 is Back",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://twitter.com/claudeai/status/2072402636813607381",
-      "published_at": "2026-07-01T19:35:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "348",
-      "item_id": "hn:48752030",
-      "summary_type": "extractive",
-      "title_zh": "Fable 5 is Back",
-      "summary_zh": "Fable 5 is Back"
     },
     {
       "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
@@ -237,11 +269,27 @@
       "tags": [
         "ai"
       ],
-      "score": "109",
+      "score": "177",
       "item_id": "hn:48750989",
       "summary_type": "extractive",
       "title_zh": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
       "summary_zh": "https:&#x2F;&#x2F;runtimewire.com&#x2F;article&#x2F;weave-robotics-isaac-1-home-..."
+    },
+    {
+      "title": "Learn Vim motions with an ice-cream van",
+      "summary": "Learn Vim motions with an ice-cream van",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://thisismodest.com/vimscoops/",
+      "published_at": "2026-07-01T18:00:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "68",
+      "item_id": "hn:48750803",
+      "summary_type": "extractive",
+      "title_zh": "Learn Vim motions with an ice-cream van",
+      "summary_zh": "Learn Vim motions with an ice-cream van"
     },
     {
       "title": "Measuring the Gap Between Human and LLM Research Ideas",
@@ -251,9 +299,9 @@
       "url": "http://arxiv.org/abs/2607.01233v1",
       "published_at": "2026-07-01T17:59:56Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01233v1",
@@ -269,9 +317,9 @@
       "url": "http://arxiv.org/abs/2607.01225v1",
       "published_at": "2026-07-01T17:57:22Z",
       "tags": [
+        "paper",
         "vision",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01225v1",
@@ -287,9 +335,9 @@
       "url": "http://arxiv.org/abs/2607.01224v1",
       "published_at": "2026-07-01T17:57:03Z",
       "tags": [
-        "vision",
+        "llm",
         "paper",
-        "llm"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01224v1",
@@ -305,9 +353,9 @@
       "url": "http://arxiv.org/abs/2607.01223v1",
       "published_at": "2026-07-01T17:56:42Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01223v1",
@@ -323,8 +371,8 @@
       "url": "http://arxiv.org/abs/2607.01218v1",
       "published_at": "2026-07-01T17:55:09Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01218v1",
@@ -342,7 +390,7 @@
       "tags": [
         "ai"
       ],
-      "score": "268",
+      "score": "339",
       "item_id": "hn:48750710",
       "summary_type": "extractive",
       "title_zh": "What to learn to be a graphics programmer",
@@ -356,8 +404,8 @@
       "url": "http://arxiv.org/abs/2607.01212v1",
       "published_at": "2026-07-01T17:51:21Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01212v1",
@@ -390,9 +438,9 @@
       "url": "http://arxiv.org/abs/2607.01208v1",
       "published_at": "2026-07-01T17:46:33Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01208v1",
@@ -425,8 +473,8 @@
       "url": "http://arxiv.org/abs/2607.01202v1",
       "published_at": "2026-07-01T17:41:00Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01202v1",
@@ -442,10 +490,10 @@
       "url": "http://arxiv.org/abs/2607.01188v1",
       "published_at": "2026-07-01T17:20:45Z",
       "tags": [
-        "vision",
-        "tool",
         "paper",
-        "agent"
+        "vision",
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01188v1",
@@ -461,8 +509,8 @@
       "url": "http://arxiv.org/abs/2607.01181v1",
       "published_at": "2026-07-01T17:13:35Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01181v1",
@@ -478,10 +526,10 @@
       "url": "http://arxiv.org/abs/2607.01170v1",
       "published_at": "2026-07-01T17:02:20Z",
       "tags": [
-        "vision",
-        "tool",
+        "llm",
         "paper",
-        "llm"
+        "vision",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01170v1",
@@ -497,10 +545,10 @@
       "url": "http://arxiv.org/abs/2607.01153v1",
       "published_at": "2026-07-01T16:33:14Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
         "agent",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01153v1",
@@ -516,8 +564,8 @@
       "url": "http://arxiv.org/abs/2607.01144v1",
       "published_at": "2026-07-01T16:27:17Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01144v1",
@@ -533,9 +581,9 @@
       "url": "http://arxiv.org/abs/2607.01136v1",
       "published_at": "2026-07-01T16:21:49Z",
       "tags": [
+        "llm",
         "paper",
-        "agent",
-        "llm"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01136v1",
@@ -584,9 +632,9 @@
       "url": "http://arxiv.org/abs/2607.01115v1",
       "published_at": "2026-07-01T16:03:03Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01115v1",
@@ -602,9 +650,9 @@
       "url": "http://arxiv.org/abs/2607.01111v1",
       "published_at": "2026-07-01T16:01:54Z",
       "tags": [
-        "tool",
         "paper",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.01111v1",
@@ -622,7 +670,7 @@
       "tags": [
         "ai"
       ],
-      "score": "151",
+      "score": "165",
       "item_id": "hn:48748518",
       "summary_type": "extractive",
       "title_zh": "How We Made IPFS Content Publishing 10x Faster",
@@ -638,7 +686,7 @@
       "tags": [
         "ai"
       ],
-      "score": "168",
+      "score": "198",
       "item_id": "hn:48747976",
       "summary_type": "extractive",
       "title_zh": "Ask HN: Who is hiring? (July 2026)",
@@ -654,7 +702,7 @@
       "tags": [
         "ai"
       ],
-      "score": "111",
+      "score": "132",
       "item_id": "hn:48747975",
       "summary_type": "extractive",
       "title_zh": "Ask HN: Who wants to be hired? (July 2026)",
@@ -670,7 +718,7 @@
       "tags": [
         "ai"
       ],
-      "score": "775",
+      "score": "854",
       "item_id": "hn:48747304",
       "summary_type": "extractive",
       "title_zh": "For first time, a cell built from scratch grows and divides",
@@ -686,7 +734,7 @@
       "tags": [
         "ai"
       ],
-      "score": "314",
+      "score": "377",
       "item_id": "hn:48747116",
       "summary_type": "extractive",
       "title_zh": "FFmpeg 9.1's new AAC encoder",
@@ -702,59 +750,27 @@
       "tags": [
         "ai"
       ],
-      "score": "265",
+      "score": "296",
       "item_id": "hn:48746914",
       "summary_type": "extractive",
       "title_zh": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
       "summary_zh": "Monetization Gateway: Charge for any resource behind Cloudflare via x402"
     },
     {
-      "title": "Internal Combustion Engine (2021)",
-      "summary": "Internal Combustion Engine (2021)",
+      "title": "Why jet engines aren't made in China",
+      "summary": "Why jet engines aren't made in China",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ciechanow.ski/internal-combustion-engine/",
-      "published_at": "2026-07-01T13:04:16+00:00",
+      "url": "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china",
+      "published_at": "2026-07-01T00:22:41+00:00",
       "tags": [
         "ai"
       ],
-      "score": "296",
-      "item_id": "hn:48746076",
+      "score": "156",
+      "item_id": "hn:48740971",
       "summary_type": "extractive",
-      "title_zh": "Internal Combustion Engine (2021)",
-      "summary_zh": "Internal Combustion Engine (2021)"
-    },
-    {
-      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "summary": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "published_at": "2026-07-01T12:13:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "636",
-      "item_id": "hn:48745456",
-      "summary_type": "extractive",
-      "title_zh": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "summary_zh": "Physical disc production ending in Jan 2028 for new games on PlayStation"
-    },
-    {
-      "title": "Box3D, an open source 3D physics engine",
-      "summary": "Box3D, an open source 3D physics engine",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-      "published_at": "2026-07-01T12:12:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "444",
-      "item_id": "hn:48745445",
-      "summary_type": "extractive",
-      "title_zh": "Box3D, an open source 3D physics engine",
-      "summary_zh": "Box3D, an open source 3D physics engine"
+      "title_zh": "Why jet engines aren't made in China",
+      "summary_zh": "Why jet engines aren't made in China"
     },
     {
       "title": "How do wombats poop cubes?",
@@ -766,7 +782,7 @@
       "tags": [
         "ai"
       ],
-      "score": "68",
+      "score": "116",
       "item_id": "hn:48732860",
       "summary_type": "extractive",
       "title_zh": "How do wombats poop cubes?",
@@ -782,59 +798,43 @@
       "tags": [
         "ai"
       ],
-      "score": "64",
+      "score": "84",
       "item_id": "hn:48723102",
       "summary_type": "extractive",
       "title_zh": "The Apple Disk II Controller Card (2021)",
       "summary_zh": "The Apple Disk II Controller Card (2021)"
     },
     {
-      "title": "Flavor Graveyard",
-      "summary": "Flavor Graveyard",
+      "title": "The Wisdom of Quinn the Eskimo (Apple Developer Technical Support Engineer)",
+      "summary": "The Wisdom of Quinn the Eskimo (Apple Developer Technical Support Engineer)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.benjerry.com/flavors/flavor-graveyard",
-      "published_at": "2026-06-28T17:59:50+00:00",
+      "url": "https://github.com/macshome/The-Wisdom-of-Quinn",
+      "published_at": "2026-06-29T17:19:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "32",
-      "item_id": "hn:48709760",
+      "score": "19",
+      "item_id": "hn:48722093",
       "summary_type": "extractive",
-      "title_zh": "Flavor Graveyard",
-      "summary_zh": "Flavor Graveyard"
+      "title_zh": "The Wisdom of Quinn the Eskimo (Apple Developer Technical Support Engineer)",
+      "summary_zh": "The Wisdom of Quinn the Eskimo (Apple Developer Technical Support Engineer)"
     },
     {
-      "title": "Show HN: Unobin compiles Infrastructure as Code to one binary",
-      "summary": "Unobin is a language and compiler for Infrastructure as Code (IaC).IaC source is written and compiled to a binary, called a factory. The factory includes the runtime and all dependencies. To run a factory, pass it a configuration called a stack file that defines backend state and factory inputs.",
-      "full_text": "Unobin is a language and compiler for Infrastructure as Code (IaC).IaC source is written and compiled to a binary, called a factory. The factory includes the runtime and all dependencies. To run a factory, pass it a configuration called a stack file that defines backend state and factory inputs. The stack file can only contain configuration, not arbitrary code. Factories can also display a UI in a browser showing progress (animated screenshot in the docs).",
-      "source": "hacker news",
-      "url": "https://cloudboss.co/docs/unobin",
-      "published_at": "2026-06-28T16:06:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "6",
-      "item_id": "hn:48708602",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Unobin compiles Infrastructure as Code to one binary",
-      "summary_zh": "Unobin is a language and compiler for Infrastructure as Code (IaC).IaC source is written and compiled to a binary, called a factory. The factory includes the runtime and all dependencies. To run a factory, pass it a configuration called a stack file that defines backend state and factory inputs."
-    },
-    {
-      "title": "The vibration of the pager has a sound all its own",
-      "summary": "The vibration of the pager has a sound all its own",
+      "title": "My Favorite Keyboards",
+      "summary": "My Favorite Keyboards",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.notyouremergency.com/triage-intro",
-      "published_at": "2026-06-28T15:06:43+00:00",
+      "url": "https://fabiensanglard.net/keyboards/index.html",
+      "published_at": "2026-06-29T04:41:18+00:00",
       "tags": [
         "ai"
       ],
-      "score": "7",
-      "item_id": "hn:48707979",
+      "score": "14",
+      "item_id": "hn:48714884",
       "summary_type": "extractive",
-      "title_zh": "The vibration of the pager has a sound all its own",
-      "summary_zh": "The vibration of the pager has a sound all its own"
+      "title_zh": "My Favorite Keyboards",
+      "summary_zh": "My Favorite Keyboards"
     }
   ]
 }

@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-04T03:52:59.403077+00:00",
+  "updated_at": "2026-07-04T08:47:42.628202+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "The bottleneck might be the air in the room",
+      "summary": "The bottleneck might be the air in the room",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "published_at": "2026-07-04T06:32:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "142",
+      "item_id": "hn:48783117",
+      "summary_type": "extractive",
+      "title_zh": "The bottleneck might be the air in the room",
+      "summary_zh": "The bottleneck might be the air in the room"
+    },
+    {
+      "title": "David Beazley – Programming Courses",
+      "summary": "David Beazley – Programming Courses",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.dabeaz.com/courses.html",
+      "published_at": "2026-07-04T05:43:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "67",
+      "item_id": "hn:48782918",
+      "summary_type": "extractive",
+      "title_zh": "David Beazley – Programming Courses",
+      "summary_zh": "David Beazley – Programming Courses"
+    },
+    {
+      "title": "Maybe you should learn something",
+      "summary": "Maybe you should learn something",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.marginalia.nu/log/a_135_learn/",
+      "published_at": "2026-07-04T03:36:03+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "56",
+      "item_id": "hn:48782435",
+      "summary_type": "extractive",
+      "title_zh": "Maybe you should learn something",
+      "summary_zh": "Maybe you should learn something"
+    },
     {
       "title": "Synthesis is harder than analysis",
       "summary": "Synthesis is harder than analysis",
@@ -12,7 +60,7 @@
       "tags": [
         "ai"
       ],
-      "score": "8",
+      "score": "77",
       "item_id": "hn:48782219",
       "summary_type": "extractive",
       "title_zh": "Synthesis is harder than analysis",
@@ -28,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "40",
+      "score": "81",
       "item_id": "hn:48781688",
       "summary_type": "extractive",
       "title_zh": "MSI Center – How to gain SYSTEM privileges in seconds",
@@ -44,27 +92,11 @@
       "tags": [
         "ai"
       ],
-      "score": "44",
+      "score": "80",
       "item_id": "hn:48781597",
       "summary_type": "extractive",
       "title_zh": "Soatok's Informal Guide to Threat Models",
       "summary_zh": "Soatok's Informal Guide to Threat Models"
-    },
-    {
-      "title": "Scientists discover guidance system for migratory songbirds",
-      "summary": "Scientists discover guidance system for migratory songbirds",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/",
-      "published_at": "2026-07-03T23:36:46+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "17",
-      "item_id": "hn:48781274",
-      "summary_type": "extractive",
-      "title_zh": "Scientists discover guidance system for migratory songbirds",
-      "summary_zh": "Scientists discover guidance system for migratory songbirds"
     },
     {
       "title": "Odin, Wikipedia and engagement farming",
@@ -76,27 +108,11 @@
       "tags": [
         "ai"
       ],
-      "score": "60",
+      "score": "135",
       "item_id": "hn:48781196",
       "summary_type": "extractive",
       "title_zh": "Odin, Wikipedia and engagement farming",
       "summary_zh": "Odin, Wikipedia and engagement farming"
-    },
-    {
-      "title": "The circuit that lets your brain think and see",
-      "summary": "The circuit that lets your brain think and see",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-      "published_at": "2026-07-03T22:56:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "56",
-      "item_id": "hn:48780996",
-      "summary_type": "extractive",
-      "title_zh": "The circuit that lets your brain think and see",
-      "summary_zh": "The circuit that lets your brain think and see"
     },
     {
       "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
@@ -108,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "53",
+      "score": "88",
       "item_id": "hn:48780913",
       "summary_type": "extractive",
       "title_zh": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
@@ -124,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "93",
+      "score": "130",
       "item_id": "hn:48780865",
       "summary_type": "extractive",
       "title_zh": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
@@ -138,10 +154,10 @@
       "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
       "published_at": "2026-07-03T22:35:47+00:00",
       "tags": [
-        "tool",
-        "llm"
+        "llm",
+        "tool"
       ],
-      "score": "26",
+      "score": "34",
       "item_id": "hn:48780826",
       "summary_type": "extractive",
       "title_zh": "Dispersion loss counteracts embedding condensation in small language models",
@@ -157,7 +173,7 @@
       "tags": [
         "ai"
       ],
-      "score": "31",
+      "score": "53",
       "item_id": "hn:48780812",
       "summary_type": "extractive",
       "title_zh": "GitFut – Your GitHub stats turned into a World-Cup-style player card",
@@ -173,15 +189,15 @@
       "tags": [
         "ai"
       ],
-      "score": "118",
+      "score": "215",
       "item_id": "hn:48780801",
       "summary_type": "extractive",
       "title_zh": "Leanstral 1.5: Proof abundance for all",
       "summary_zh": "Leanstral 1.5: Proof abundance for all"
     },
     {
-      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-      "summary": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+      "title": "Performance per dollar is getting faster and cheaper",
+      "summary": "Performance per dollar is getting faster and cheaper",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.wafer.ai/blog/glm52-amd",
@@ -189,43 +205,11 @@
       "tags": [
         "ai"
       ],
-      "score": "132",
+      "score": "230",
       "item_id": "hn:48780417",
       "summary_type": "extractive",
-      "title_zh": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-      "summary_zh": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell"
-    },
-    {
-      "title": "Software, from First Principles",
-      "summary": "Software, from First Principles",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://fazamhd.com/mental-models/software/",
-      "published_at": "2026-07-03T21:28:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "61",
-      "item_id": "hn:48780224",
-      "summary_type": "extractive",
-      "title_zh": "Software, from First Principles",
-      "summary_zh": "Software, from First Principles"
-    },
-    {
-      "title": "Africans Are Turning to Starlink",
-      "summary": "Africans Are Turning to Starlink",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink",
-      "published_at": "2026-07-03T21:08:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "129",
-      "item_id": "hn:48779977",
-      "summary_type": "extractive",
-      "title_zh": "Africans Are Turning to Starlink",
-      "summary_zh": "Africans Are Turning to Starlink"
+      "title_zh": "Performance per dollar is getting faster and cheaper",
+      "summary_zh": "Performance per dollar is getting faster and cheaper"
     },
     {
       "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
@@ -253,7 +237,7 @@
       "tags": [
         "ai"
       ],
-      "score": "73",
+      "score": "105",
       "item_id": "hn:48779723",
       "summary_type": "extractive",
       "title_zh": "Applied Category Theory Course (2018)",
@@ -269,7 +253,7 @@
       "tags": [
         "ai"
       ],
-      "score": "295",
+      "score": "359",
       "item_id": "hn:48779683",
       "summary_type": "extractive",
       "title_zh": "Espionage Against the European Parliament",
@@ -285,7 +269,7 @@
       "tags": [
         "ai"
       ],
-      "score": "153",
+      "score": "206",
       "item_id": "hn:48779454",
       "summary_type": "extractive",
       "title_zh": "SearXNG: A free internet metasearch engine",
@@ -301,7 +285,7 @@
       "tags": [
         "ai"
       ],
-      "score": "96",
+      "score": "133",
       "item_id": "hn:48778757",
       "summary_type": "extractive",
       "title_zh": "FreeBSD ate my RAM",
@@ -317,27 +301,11 @@
       "tags": [
         "ai"
       ],
-      "score": "138",
+      "score": "151",
       "item_id": "hn:48777266",
       "summary_type": "extractive",
       "title_zh": "International chess federation sanctions Kramnik",
       "summary_zh": "International chess federation sanctions Kramnik"
-    },
-    {
-      "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-      "summary": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/kerlenton/mcpsnoop",
-      "published_at": "2026-07-03T16:53:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "52",
-      "item_id": "hn:48777144",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-      "summary_zh": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)"
     },
     {
       "title": "Costco is the anti-Amazon",
@@ -349,7 +317,7 @@
       "tags": [
         "ai"
       ],
-      "score": "341",
+      "score": "395",
       "item_id": "hn:48776044",
       "summary_type": "extractive",
       "title_zh": "Costco is the anti-Amazon",
@@ -365,7 +333,7 @@
       "tags": [
         "ai"
       ],
-      "score": "207",
+      "score": "240",
       "item_id": "hn:48776035",
       "summary_type": "extractive",
       "title_zh": "Factories are just rooms",
@@ -379,30 +347,14 @@
       "url": "https://github.com/jamesob/local-llm",
       "published_at": "2026-07-03T15:03:43+00:00",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
-      "score": "299",
+      "score": "334",
       "item_id": "hn:48775921",
       "summary_type": "extractive",
       "title_zh": "Jamesob's guide to running SOTA LLMs locally",
       "summary_zh": "Jamesob's guide to running SOTA LLMs locally"
-    },
-    {
-      "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
-      "summary": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-      "published_at": "2026-07-03T13:00:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "165",
-      "item_id": "hn:48774509",
-      "summary_type": "extractive",
-      "title_zh": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
-      "summary_zh": "PostgreSQL and the OOM killer: Why we use strict memory overcommit"
     },
     {
       "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
@@ -414,11 +366,27 @@
       "tags": [
         "ai"
       ],
-      "score": "276",
+      "score": "295",
       "item_id": "hn:48772573",
       "summary_type": "extractive",
       "title_zh": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
       "summary_zh": "Wordgard: In-browser rich-text editor from the creator of ProseMirror"
+    },
+    {
+      "title": "Half-Baked Product",
+      "summary": "Half-Baked Product",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://weli.dev/blog/half-baked-product/",
+      "published_at": "2026-07-03T08:23:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "🔥 1.2k",
+      "item_id": "hn:48772388",
+      "summary_type": "extractive",
+      "title_zh": "Half-Baked Product",
+      "summary_zh": "Half-Baked Product"
     },
     {
       "title": "Distributed Attacks in Persistent-State AI Control",
@@ -428,9 +396,9 @@
       "url": "http://arxiv.org/abs/2607.02514v1",
       "published_at": "2026-07-02T17:59:56Z",
       "tags": [
-        "tool",
         "paper",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02514v1",
@@ -446,8 +414,8 @@
       "url": "http://arxiv.org/abs/2607.02513v1",
       "published_at": "2026-07-02T17:59:52Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02513v1",
@@ -463,9 +431,9 @@
       "url": "http://arxiv.org/abs/2607.02512v1",
       "published_at": "2026-07-02T17:59:50Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02512v1",
@@ -481,9 +449,9 @@
       "url": "http://arxiv.org/abs/2607.02510v1",
       "published_at": "2026-07-02T17:59:43Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02510v1",
@@ -499,9 +467,9 @@
       "url": "http://arxiv.org/abs/2607.02509v1",
       "published_at": "2026-07-02T17:59:26Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02509v1",
@@ -517,10 +485,10 @@
       "url": "http://arxiv.org/abs/2607.02507v1",
       "published_at": "2026-07-02T17:59:23Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
         "agent",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02507v1",
@@ -536,9 +504,9 @@
       "url": "http://arxiv.org/abs/2607.02504v1",
       "published_at": "2026-07-02T17:58:52Z",
       "tags": [
+        "llm",
         "vision",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02504v1",
@@ -554,9 +522,9 @@
       "url": "http://arxiv.org/abs/2607.02502v1",
       "published_at": "2026-07-02T17:58:29Z",
       "tags": [
+        "llm",
         "vision",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02502v1",
@@ -572,8 +540,8 @@
       "url": "http://arxiv.org/abs/2607.02499v1",
       "published_at": "2026-07-02T17:57:31Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02499v1",
@@ -606,9 +574,9 @@
       "url": "http://arxiv.org/abs/2607.02484v1",
       "published_at": "2026-07-02T17:50:57Z",
       "tags": [
+        "paper",
         "tool",
-        "vision",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02484v1",
@@ -624,8 +592,8 @@
       "url": "http://arxiv.org/abs/2607.02469v1",
       "published_at": "2026-07-02T17:35:20Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02469v1",
@@ -641,8 +609,8 @@
       "url": "http://arxiv.org/abs/2607.02467v1",
       "published_at": "2026-07-02T17:34:37Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02467v1",
@@ -658,9 +626,9 @@
       "url": "http://arxiv.org/abs/2607.02466v1",
       "published_at": "2026-07-02T17:33:37Z",
       "tags": [
+        "llm",
         "vision",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02466v1",
@@ -676,10 +644,10 @@
       "url": "http://arxiv.org/abs/2607.02461v1",
       "published_at": "2026-07-02T17:27:34Z",
       "tags": [
-        "tool",
-        "vision",
+        "llm",
         "paper",
-        "llm"
+        "tool",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02461v1",
@@ -695,9 +663,9 @@
       "url": "http://arxiv.org/abs/2607.02460v1",
       "published_at": "2026-07-02T17:27:24Z",
       "tags": [
+        "llm",
         "vision",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02460v1",
@@ -713,8 +681,8 @@
       "url": "http://arxiv.org/abs/2607.02440v1",
       "published_at": "2026-07-02T17:10:13Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02440v1",
@@ -730,10 +698,10 @@
       "url": "http://arxiv.org/abs/2607.02436v1",
       "published_at": "2026-07-02T17:08:21Z",
       "tags": [
-        "tool",
-        "vision",
         "paper",
-        "agent"
+        "vision",
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02436v1",
@@ -749,8 +717,8 @@
       "url": "http://arxiv.org/abs/2607.02432v1",
       "published_at": "2026-07-02T17:01:47Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02432v1",
@@ -766,8 +734,8 @@
       "url": "http://arxiv.org/abs/2607.02431v1",
       "published_at": "2026-07-02T17:00:37Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.02431v1",
@@ -776,20 +744,36 @@
       "summary_zh": "Reinforcement learning (RL) can overcome the demonstration-coverage limitation of imitation learning (IL) by allowing robots to improve through trial-and-error interaction beyond the states observed in demonstrations. However, deploying RL on real robots remains constrained by high interaction costs, since each physical rollout is costly and reflects only one realized action-outcome path. To address this challenge, we propose WorldSample, a physically grounded data augmentation framework for rea"
     },
     {
-      "title": "We put a Redis server inside our runtime",
-      "summary": "We put a Redis server inside our runtime",
+      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "summary": "Postgres data stored in Parquet on S3: LTAP architecture explained",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://encore.dev/blog/redis-runtime",
-      "published_at": "2026-07-01T10:11:12+00:00",
+      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+      "published_at": "2026-07-01T12:48:56+00:00",
       "tags": [
         "ai"
       ],
-      "score": "28",
-      "item_id": "hn:48744546",
+      "score": "10",
+      "item_id": "hn:48745855",
       "summary_type": "extractive",
-      "title_zh": "We put a Redis server inside our runtime",
-      "summary_zh": "We put a Redis server inside our runtime"
+      "title_zh": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "summary_zh": "Postgres data stored in Parquet on S3: LTAP architecture explained"
+    },
+    {
+      "title": "Study reveals what people see when they read lips",
+      "summary": "Study reveals what people see when they read lips",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://news.ku.edu/news/article/study-reveals-what-people-really-see-when-they-read-lips",
+      "published_at": "2026-07-01T05:21:03+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "8",
+      "item_id": "hn:48742566",
+      "summary_type": "extractive",
+      "title_zh": "Study reveals what people see when they read lips",
+      "summary_zh": "Study reveals what people see when they read lips"
     },
     {
       "title": "Gone but Not Forgotten: Recovering the Dead Web",
@@ -801,11 +785,43 @@
       "tags": [
         "ai"
       ],
-      "score": "34",
+      "score": "64",
       "item_id": "hn:48739682",
       "summary_type": "extractive",
       "title_zh": "Gone but Not Forgotten: Recovering the Dead Web",
       "summary_zh": "Gone but Not Forgotten: Recovering the Dead Web"
+    },
+    {
+      "title": "Mir Books – Books from the Soviet Era",
+      "summary": "Mir Books – Books from the Soviet Era",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://mirtitles.org",
+      "published_at": "2026-06-30T20:50:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "55",
+      "item_id": "hn:48739018",
+      "summary_type": "extractive",
+      "title_zh": "Mir Books – Books from the Soviet Era",
+      "summary_zh": "Mir Books – Books from the Soviet Era"
+    },
+    {
+      "title": "Reverse-engineering Codemasters' BIGF archive format in Ruby",
+      "summary": "Reverse-engineering Codemasters' BIGF archive format in Ruby",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://davidslv.uk/2026/06/30/reading-binary-in-ruby.html",
+      "published_at": "2026-06-30T17:10:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:48735811",
+      "summary_type": "extractive",
+      "title_zh": "Reverse-engineering Codemasters' BIGF archive format in Ruby",
+      "summary_zh": "Reverse-engineering Codemasters' BIGF archive format in Ruby"
     },
     {
       "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
@@ -817,27 +833,11 @@
       "tags": [
         "ai"
       ],
-      "score": "182",
+      "score": "206",
       "item_id": "hn:48730953",
       "summary_type": "extractive",
       "title_zh": "Hunting a 16-year-old SQLite WAL bug with TLA+",
       "summary_zh": "Hunting a 16-year-old SQLite WAL bug with TLA+"
-    },
-    {
-      "title": "A peek into Reddit's anti-spam internals",
-      "summary": "A peek into Reddit's anti-spam internals",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
-      "published_at": "2026-06-27T15:18:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "164",
-      "item_id": "hn:48699010",
-      "summary_type": "extractive",
-      "title_zh": "A peek into Reddit's anti-spam internals",
-      "summary_zh": "A peek into Reddit's anti-spam internals"
     }
   ]
 }

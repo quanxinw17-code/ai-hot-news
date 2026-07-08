@@ -1,22 +1,167 @@
 {
-  "updated_at": "2026-07-08T14:32:49.398655+00:00",
+  "updated_at": "2026-07-08T19:46:12.108334+00:00",
   "count": 50,
   "items": [
     {
-      "title": "US Food and Drug Administration rejects petition to set PFAS limits in food",
-      "summary": "US Food and Drug Administration rejects petition to set PFAS limits in food",
+      "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+      "summary": "OpenMandriva: Statement regarding attempted distribution sabotage",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food",
-      "published_at": "2026-07-08T13:35:59+00:00",
+      "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
+      "published_at": "2026-07-08T18:21:53+00:00",
       "tags": [
         "ai"
       ],
-      "score": "76",
-      "item_id": "hn:48831785",
+      "score": "13",
+      "item_id": "hn:48835439",
       "summary_type": "extractive",
-      "title_zh": "US Food and Drug Administration rejects petition to set PFAS limits in food",
-      "summary_zh": "US Food and Drug Administration rejects petition to set PFAS limits in food"
+      "title_zh": "OpenMandriva: Statement regarding attempted distribution sabotage",
+      "summary_zh": "OpenMandriva: Statement regarding attempted distribution sabotage"
+    },
+    {
+      "title": "Grok 4.5",
+      "summary": "Grok 4.5",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://x.ai/news/grok-4-5",
+      "published_at": "2026-07-08T18:00:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "247",
+      "item_id": "hn:48835111",
+      "summary_type": "extractive",
+      "title_zh": "Grok 4.5",
+      "summary_zh": "Grok 4.5"
+    },
+    {
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "summary": "Data visualizations are the bridge between user and data.But building AI agents that can generate visualizations reliably can be very tricky:- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; \n- complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliabilityWe figured out it is a limitation on the language issue (not just AI capability thing) -- current vi",
+      "full_text": "Data visualizations are the bridge between user and data.But building AI agents that can generate visualizations reliably can be very tricky:- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; \n- complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliabilityWe figured out it is a limitation on the language issue (not just AI capability thing) -- current vi",
+      "source": "hacker news",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "published_at": "2026-07-08T17:46:12+00:00",
+      "tags": [
+        "agent",
+        "vision"
+      ],
+      "score": "78",
+      "item_id": "hn:48834924",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "summary_zh": "Data visualizations are the bridge between user and data.But building AI agents that can generate visualizations reliably can be very tricky:- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; \n- complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliabilityWe figured out it is a limitation on the language issue (not just AI capability thing) -- current vi"
+    },
+    {
+      "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
+      "summary": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
+      "published_at": "2026-07-08T17:45:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "96",
+      "item_id": "hn:48834919",
+      "summary_type": "extractive",
+      "title_zh": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
+      "summary_zh": "PlayStation can delete all your digital games after 3 years of inactivity (EU)"
+    },
+    {
+      "title": "What Do We Know About the Microplastics Inside Us?",
+      "summary": "What Do We Know About the Microplastics Inside Us?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
+      "published_at": "2026-07-08T17:43:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "103",
+      "item_id": "hn:48834898",
+      "summary_type": "extractive",
+      "title_zh": "What Do We Know About the Microplastics Inside Us?",
+      "summary_zh": "What Do We Know About the Microplastics Inside Us?"
+    },
+    {
+      "title": "EU now one step away from reviving private message scanning rules",
+      "summary": "EU now one step away from reviving private message scanning rules",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
+      "published_at": "2026-07-08T16:53:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "191",
+      "item_id": "hn:48834296",
+      "summary_type": "extractive",
+      "title_zh": "EU now one step away from reviving private message scanning rules",
+      "summary_zh": "EU now one step away from reviving private message scanning rules"
+    },
+    {
+      "title": "TypeScript 7",
+      "summary": "TypeScript 7",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "published_at": "2026-07-08T16:06:35+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "247",
+      "item_id": "hn:48833715",
+      "summary_type": "extractive",
+      "title_zh": "TypeScript 7",
+      "summary_zh": "TypeScript 7"
+    },
+    {
+      "title": "Chatto is now Open Source",
+      "summary": "Chatto is now Open Source",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "published_at": "2026-07-08T15:19:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "428",
+      "item_id": "hn:48833116",
+      "summary_type": "extractive",
+      "title_zh": "Chatto is now Open Source",
+      "summary_zh": "Chatto is now Open Source"
+    },
+    {
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "summary": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+      "published_at": "2026-07-08T13:24:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "203",
+      "item_id": "hn:48831658",
+      "summary_type": "extractive",
+      "title_zh": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "summary_zh": "OpenBSD has a use-after-free allowing local privilege escalation to root"
+    },
+    {
+      "title": "A bug which affected only left handed users",
+      "summary": "A bug which affected only left handed users",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
+      "published_at": "2026-07-08T13:20:05+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:48831587",
+      "summary_type": "extractive",
+      "title_zh": "A bug which affected only left handed users",
+      "summary_zh": "A bug which affected only left handed users"
     },
     {
       "title": "Cloudflare Meerkat - Globally distributed consensus",
@@ -28,43 +173,11 @@
       "tags": [
         "ai"
       ],
-      "score": "20",
+      "score": "166",
       "item_id": "hn:48831565",
       "summary_type": "extractive",
       "title_zh": "Cloudflare Meerkat - Globally distributed consensus",
       "summary_zh": "Cloudflare Meerkat - Globally distributed consensus"
-    },
-    {
-      "title": "Tiny data centre used to heat public swimming pool",
-      "summary": "Tiny data centre used to heat public swimming pool",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bbc.com/news/technology-64939558",
-      "published_at": "2026-07-08T13:10:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "50",
-      "item_id": "hn:48831499",
-      "summary_type": "extractive",
-      "title_zh": "Tiny data centre used to heat public swimming pool",
-      "summary_zh": "Tiny data centre used to heat public swimming pool"
-    },
-    {
-      "title": "The Age of Reading Is Over",
-      "summary": "The Age of Reading Is Over",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/",
-      "published_at": "2026-07-08T12:08:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "27",
-      "item_id": "hn:48830868",
-      "summary_type": "extractive",
-      "title_zh": "The Age of Reading Is Over",
-      "summary_zh": "The Age of Reading Is Over"
     },
     {
       "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
@@ -76,7 +189,7 @@
       "tags": [
         "ai"
       ],
-      "score": "138",
+      "score": "262",
       "item_id": "hn:48830565",
       "summary_type": "extractive",
       "title_zh": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
@@ -92,7 +205,7 @@
       "tags": [
         "ai"
       ],
-      "score": "756",
+      "score": "🔥 1.1k",
       "item_id": "hn:48829312",
       "summary_type": "extractive",
       "title_zh": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
@@ -108,43 +221,11 @@
       "tags": [
         "ai"
       ],
-      "score": "260",
+      "score": "319",
       "item_id": "hn:48827325",
       "summary_type": "extractive",
       "title_zh": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
       "summary_zh": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)"
-    },
-    {
-      "title": "LineageOS Statistics",
-      "summary": "LineageOS Statistics",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://stats.lineageos.org",
-      "published_at": "2026-07-08T01:27:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "151",
-      "item_id": "hn:48826329",
-      "summary_type": "extractive",
-      "title_zh": "LineageOS Statistics",
-      "summary_zh": "LineageOS Statistics"
-    },
-    {
-      "title": "Show HN: Chiptune Radio",
-      "summary": "I built a chiptune song generator and its broadcasting algorithmically generated chiptune music.",
-      "full_text": "I built a chiptune song generator and its broadcasting algorithmically generated chiptune music.",
-      "source": "hacker news",
-      "url": "https://chiptune-radio.alephvoid.com/",
-      "published_at": "2026-07-08T00:55:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "62",
-      "item_id": "hn:48826094",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Chiptune Radio",
-      "summary_zh": "I built a chiptune song generator and its broadcasting algorithmically generated chiptune music."
     },
     {
       "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
@@ -156,7 +237,7 @@
       "tags": [
         "ai"
       ],
-      "score": "280",
+      "score": "330",
       "item_id": "hn:48825749",
       "summary_type": "extractive",
       "title_zh": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
@@ -172,43 +253,11 @@
       "tags": [
         "ai"
       ],
-      "score": "235",
+      "score": "265",
       "item_id": "hn:48824826",
       "summary_type": "extractive",
       "title_zh": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
       "summary_zh": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup"
-    },
-    {
-      "title": "Every new car sold in the European Union must include a driver monitoring camera",
-      "summary": "Every new car sold in the European Union must include a driver monitoring camera",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-      "published_at": "2026-07-07T20:50:46+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "707",
-      "item_id": "hn:48823557",
-      "summary_type": "extractive",
-      "title_zh": "Every new car sold in the European Union must include a driver monitoring camera",
-      "summary_zh": "Every new car sold in the European Union must include a driver monitoring camera"
-    },
-    {
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "summary": "Mostly vibe-coded Apple Containers front-end that I&#x27;d like to use myself. But if others want to use it, here&#x27;s the source code.",
-      "full_text": "Mostly vibe-coded Apple Containers front-end that I&#x27;d like to use myself. But if others want to use it, here&#x27;s the source code.",
-      "source": "hacker news",
-      "url": "https://davit.app",
-      "published_at": "2026-07-07T18:44:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "348",
-      "item_id": "hn:48821848",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Davit, a Apple Containers UI",
-      "summary_zh": "Mostly vibe-coded Apple Containers front-end that I&#x27;d like to use myself. But if others want to use it, here&#x27;s the source code."
     },
     {
       "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
@@ -220,43 +269,11 @@
       "tags": [
         "ai"
       ],
-      "score": "454",
+      "score": "501",
       "item_id": "hn:48821576",
       "summary_type": "extractive",
       "title_zh": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
       "summary_zh": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro"
-    },
-    {
-      "title": "Notes on Software Quality",
-      "summary": "Notes on Software Quality",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://anthonyhobday.com/blog/20260410",
-      "published_at": "2026-07-07T18:14:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "145",
-      "item_id": "hn:48821441",
-      "summary_type": "extractive",
-      "title_zh": "Notes on Software Quality",
-      "summary_zh": "Notes on Software Quality"
-    },
-    {
-      "title": "l: A new runtime for k and q",
-      "summary": "https:&#x2F;&#x2F;lv1.sh&#x2F;blog&#x2F;why-l&#x2F;",
-      "full_text": "https:&#x2F;&#x2F;lv1.sh&#x2F;blog&#x2F;why-l&#x2F;",
-      "source": "hacker news",
-      "url": "https://lv1.sh/",
-      "published_at": "2026-07-07T18:08:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "158",
-      "item_id": "hn:48821378",
-      "summary_type": "extractive",
-      "title_zh": "l: A new runtime for k and q",
-      "summary_zh": "https:&#x2F;&#x2F;lv1.sh&#x2F;blog&#x2F;why-l&#x2F;"
     },
     {
       "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
@@ -283,10 +300,10 @@
       "url": "http://arxiv.org/abs/2607.06546v1",
       "published_at": "2026-07-07T17:52:17Z",
       "tags": [
-        "llm",
-        "tool",
         "paper",
-        "vision"
+        "tool",
+        "vision",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.06546v1",
@@ -318,8 +335,8 @@
       "url": "http://arxiv.org/abs/2607.06531v1",
       "published_at": "2026-07-07T17:38:47Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.06531v1",
@@ -335,8 +352,8 @@
       "url": "http://arxiv.org/abs/2607.06527v1",
       "published_at": "2026-07-07T17:32:36Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -353,8 +370,8 @@
       "url": "http://arxiv.org/abs/2607.06523v1",
       "published_at": "2026-07-07T17:29:01Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -371,9 +388,9 @@
       "url": "http://arxiv.org/abs/2607.06522v1",
       "published_at": "2026-07-07T17:27:59Z",
       "tags": [
-        "llm",
         "paper",
-        "vision"
+        "vision",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.06522v1",
@@ -389,8 +406,8 @@
       "url": "http://arxiv.org/abs/2607.06519v1",
       "published_at": "2026-07-07T17:26:28Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -423,8 +440,8 @@
       "url": "http://arxiv.org/abs/2607.06505v1",
       "published_at": "2026-07-07T17:06:32Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "vision"
       ],
       "score": "📄",
@@ -458,10 +475,10 @@
       "url": "http://arxiv.org/abs/2607.06503v1",
       "published_at": "2026-07-07T17:03:55Z",
       "tags": [
-        "llm",
-        "tool",
+        "agent",
         "paper",
-        "agent"
+        "tool",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.06503v1",
@@ -494,8 +511,8 @@
       "url": "http://arxiv.org/abs/2607.06489v1",
       "published_at": "2026-07-07T16:48:27Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.06489v1",
@@ -511,10 +528,10 @@
       "url": "http://arxiv.org/abs/2607.06485v1",
       "published_at": "2026-07-07T16:46:46Z",
       "tags": [
-        "llm",
-        "tool",
         "paper",
-        "vision"
+        "tool",
+        "vision",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.06485v1",
@@ -547,10 +564,10 @@
       "url": "http://arxiv.org/abs/2607.06481v1",
       "published_at": "2026-07-07T16:41:25Z",
       "tags": [
-        "llm",
-        "tool",
         "paper",
-        "vision"
+        "tool",
+        "vision",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.06481v1",
@@ -566,30 +583,14 @@
       "url": "http://arxiv.org/abs/2607.06479v1",
       "published_at": "2026-07-07T16:34:55Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.06479v1",
       "summary_type": "extractive",
       "title_zh": "A Physics-Informed Neural Network Framework for Elastodynamic Wave Propagation in Bimaterial Systems",
       "summary_zh": "Physics-informed neural networks (PINNs) provide a promising framework for solving partial differential equations while embedding the underlying physical laws directly into the learning process. This study presents a PINN-based framework for modeling transient elastodynamic wave propagation in bimaterial systems governed by the axisymmetric equations of linear elasticity. A steel-aluminum specimen representative of a Split Hopkinson Pressure Bar configuration is considered, and the governing ela"
-    },
-    {
-      "title": "Jim's TrueType QR Code Font",
-      "summary": "https:&#x2F;&#x2F;qr.jim.sh&#x2F;",
-      "full_text": "https:&#x2F;&#x2F;qr.jim.sh&#x2F;",
-      "source": "hacker news",
-      "url": "https://github.com/jimparis/qr-font",
-      "published_at": "2026-07-07T16:30:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "200",
-      "item_id": "hn:48820119",
-      "summary_type": "extractive",
-      "title_zh": "Jim's TrueType QR Code Font",
-      "summary_zh": "https:&#x2F;&#x2F;qr.jim.sh&#x2F;"
     },
     {
       "title": "Provable learning separation for predicting time-evolution of quantum many-body systems",
@@ -616,10 +617,10 @@
       "url": "http://arxiv.org/abs/2607.06452v1",
       "published_at": "2026-07-07T16:12:51Z",
       "tags": [
-        "llm",
-        "tool",
+        "agent",
         "paper",
-        "agent"
+        "tool",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.06452v1",
@@ -628,52 +629,20 @@
       "summary_zh": "Biomedical question answering requires not only accurate extraction of information from scientific literature but also reliable integration of evidence across multiple documents. This study presents a question-type-specific large language model (LLM) framework for BioASQ 14b Task B, designed to improve answer robustness and evidence grounding in biomedical question answering. Rather than applying a single prompting strategy to all questions, the framework selects different inference procedures f"
     },
     {
-      "title": "Why we built yet another Postgres connection pooler",
-      "summary": "Why we built yet another Postgres connection pooler",
+      "title": "I Built a Telegram Client for Pi",
+      "summary": "I Built a Telegram Client for Pi",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
-      "published_at": "2026-07-07T15:36:49+00:00",
+      "url": "https://www.npmjs.com/package/@atharva-again/pi-tg",
+      "published_at": "2026-07-06T14:06:34+00:00",
       "tags": [
         "ai"
       ],
-      "score": "233",
-      "item_id": "hn:48819308",
+      "score": "9",
+      "item_id": "hn:48804801",
       "summary_type": "extractive",
-      "title_zh": "Why we built yet another Postgres connection pooler",
-      "summary_zh": "Why we built yet another Postgres connection pooler"
-    },
-    {
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "summary": "Chat Control 1.0 and 2.0 Explained",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "published_at": "2026-07-07T14:23:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "766",
-      "item_id": "hn:48818311",
-      "summary_type": "extractive",
-      "title_zh": "Chat Control 1.0 and 2.0 Explained",
-      "summary_zh": "Chat Control 1.0 and 2.0 Explained"
-    },
-    {
-      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "summary": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://streetcomplete.app/",
-      "published_at": "2026-07-07T12:38:35+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "789",
-      "item_id": "hn:48816883",
-      "summary_type": "extractive",
-      "title_zh": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "summary_zh": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time"
+      "title_zh": "I Built a Telegram Client for Pi",
+      "summary_zh": "I Built a Telegram Client for Pi"
     },
     {
       "title": "NoiseLang: Where N = 5 is a Dirac delta",
@@ -685,27 +654,75 @@
       "tags": [
         "ai"
       ],
-      "score": "44",
+      "score": "96",
       "item_id": "hn:48803791",
       "summary_type": "extractive",
       "title_zh": "NoiseLang: Where N = 5 is a Dirac delta",
       "summary_zh": "NoiseLang: Where N = 5 is a Dirac delta"
     },
     {
-      "title": "Scheme Is a Hoot",
-      "summary": "Scheme Is a Hoot",
+      "title": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1",
+      "summary": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
-      "published_at": "2026-07-05T13:12:19+00:00",
+      "url": "https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520",
+      "published_at": "2026-07-05T19:55:58+00:00",
       "tags": [
         "ai"
       ],
-      "score": "90",
-      "item_id": "hn:48794049",
+      "score": "15",
+      "item_id": "hn:48797443",
       "summary_type": "extractive",
-      "title_zh": "Scheme Is a Hoot",
-      "summary_zh": "Scheme Is a Hoot"
+      "title_zh": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1",
+      "summary_zh": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1"
+    },
+    {
+      "title": "Every postcard tells a story",
+      "summary": "Every postcard tells a story",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
+      "published_at": "2026-07-05T18:14:42+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "31",
+      "item_id": "hn:48796473",
+      "summary_type": "extractive",
+      "title_zh": "Every postcard tells a story",
+      "summary_zh": "Every postcard tells a story"
+    },
+    {
+      "title": "Catastrophe theory; geniuses and maniacs (2011)",
+      "summary": "Catastrophe theory; geniuses and maniacs (2011)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "http://glassbottomblog.blogspot.com/2011/01/catastrophe-theory-geniuses-and-maniacs.html",
+      "published_at": "2026-07-05T13:35:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:48794227",
+      "summary_type": "extractive",
+      "title_zh": "Catastrophe theory; geniuses and maniacs (2011)",
+      "summary_zh": "Catastrophe theory; geniuses and maniacs (2011)"
+    },
+    {
+      "title": "TabFont – guitar tabs rendered as you type",
+      "summary": "TabFont – guitar tabs rendered as you type",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://philatype.com/tabfont/",
+      "published_at": "2026-07-05T13:13:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "56",
+      "item_id": "hn:48794062",
+      "summary_type": "extractive",
+      "title_zh": "TabFont – guitar tabs rendered as you type",
+      "summary_zh": "TabFont – guitar tabs rendered as you type"
     },
     {
       "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
@@ -717,27 +734,11 @@
       "tags": [
         "ai"
       ],
-      "score": "33",
+      "score": "150",
       "item_id": "hn:48792980",
       "summary_type": "extractive",
       "title_zh": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
       "summary_zh": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid"
-    },
-    {
-      "title": "Automate Excel with Python: From manual grind to one-click workflow",
-      "summary": "Automate Excel with Python: From manual grind to one-click workflow",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nostarch.com/automate-excel-with-python",
-      "published_at": "2026-07-04T22:24:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "34",
-      "item_id": "hn:48789625",
-      "summary_type": "extractive",
-      "title_zh": "Automate Excel with Python: From manual grind to one-click workflow",
-      "summary_zh": "Automate Excel with Python: From manual grind to one-click workflow"
     },
     {
       "title": "Canada's only watchmaking school still ticking after 80 years",
@@ -749,7 +750,7 @@
       "tags": [
         "ai"
       ],
-      "score": "182",
+      "score": "236",
       "item_id": "hn:48786789",
       "summary_type": "extractive",
       "title_zh": "Canada's only watchmaking school still ticking after 80 years",
@@ -765,7 +766,7 @@
       "tags": [
         "ai"
       ],
-      "score": "8",
+      "score": "99",
       "item_id": "hn:48786455",
       "summary_type": "extractive",
       "title_zh": "Show HN: Follow London Trains in 3D",
@@ -781,7 +782,7 @@
       "tags": [
         "ai"
       ],
-      "score": "57",
+      "score": "99",
       "item_id": "hn:48780915",
       "summary_type": "extractive",
       "title_zh": "Ants: Who looks after the injured in a colony?",
@@ -797,7 +798,7 @@
       "tags": [
         "ai"
       ],
-      "score": "170",
+      "score": "340",
       "item_id": "hn:48780387",
       "summary_type": "extractive",
       "title_zh": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
@@ -813,7 +814,7 @@
       "tags": [
         "ai"
       ],
-      "score": "92",
+      "score": "130",
       "item_id": "hn:48761868",
       "summary_type": "extractive",
       "title_zh": "The difference between \"today's task\" and \"accretive work\"",
@@ -829,7 +830,7 @@
       "tags": [
         "ai"
       ],
-      "score": "337",
+      "score": "380",
       "item_id": "hn:48756578",
       "summary_type": "extractive",
       "title_zh": "Herdr: One terminal to rule them all",

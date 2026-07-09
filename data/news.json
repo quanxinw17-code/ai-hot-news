@@ -1,54 +1,86 @@
 {
-  "updated_at": "2026-07-09T04:03:08.242923+00:00",
+  "updated_at": "2026-07-09T10:03:40.241859+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Ergo: Long Form Philosophy Lectures",
-      "summary": "Ergo: Long Form Philosophy Lectures",
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "summary": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ergo.org/",
-      "published_at": "2026-07-09T03:08:32+00:00",
+      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "published_at": "2026-07-09T08:22:52+00:00",
       "tags": [
         "ai"
       ],
-      "score": "5",
-      "item_id": "hn:48840497",
+      "score": "85",
+      "item_id": "hn:48842611",
       "summary_type": "extractive",
-      "title_zh": "Ergo: Long Form Philosophy Lectures",
-      "summary_zh": "Ergo: Long Form Philosophy Lectures"
+      "title_zh": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "summary_zh": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives"
     },
     {
-      "title": "What Does a 13-Year-Old See on Snapchat in a Normal Week?",
-      "summary": "What Does a 13-Year-Old See on Snapchat in a Normal Week?",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "summary": "CollectWise (YC F24) Is Hiring",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.afterbabel.com/p/snapchat-recommends-harmful-content-kids-brooke-istook-2026",
-      "published_at": "2026-07-09T02:22:18+00:00",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+      "published_at": "2026-07-09T07:00:43+00:00",
       "tags": [
         "ai"
       ],
-      "score": "17",
-      "item_id": "hn:48840194",
+      "score": "1",
+      "item_id": "hn:48841963",
       "summary_type": "extractive",
-      "title_zh": "What Does a 13-Year-Old See on Snapchat in a Normal Week?",
-      "summary_zh": "What Does a 13-Year-Old See on Snapchat in a Normal Week?"
+      "title_zh": "CollectWise (YC F24) Is Hiring",
+      "summary_zh": "CollectWise (YC F24) Is Hiring"
     },
     {
-      "title": "We Mapped Rural Data Center Development – and Opposition",
-      "summary": "We Mapped Rural Data Center Development – and Opposition",
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "summary": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://dailyyonder.com/we-mapped-rural-data-center-development-and-opposition-heres-what-we-found/2026/06/29/",
-      "published_at": "2026-07-09T02:09:29+00:00",
+      "url": "https://github.com/malisper/pgrust",
+      "published_at": "2026-07-09T06:18:19+00:00",
       "tags": [
         "ai"
       ],
-      "score": "3",
-      "item_id": "hn:48840090",
+      "score": "136",
+      "item_id": "hn:48841676",
       "summary_type": "extractive",
-      "title_zh": "We Mapped Rural Data Center Development – and Opposition",
-      "summary_zh": "We Mapped Rural Data Center Development – and Opposition"
+      "title_zh": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "summary_zh": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests"
+    },
+    {
+      "title": "How Donkey Kong Toppled Atari",
+      "summary": "How Donkey Kong Toppled Atari",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+      "published_at": "2026-07-09T05:34:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:48841385",
+      "summary_type": "extractive",
+      "title_zh": "How Donkey Kong Toppled Atari",
+      "summary_zh": "How Donkey Kong Toppled Atari"
+    },
+    {
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "summary": "Spider venom kills varroa mites without harming honeybees",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "published_at": "2026-07-09T05:14:45+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "121",
+      "item_id": "hn:48841259",
+      "summary_type": "extractive",
+      "title_zh": "Spider venom kills varroa mites without harming honeybees",
+      "summary_zh": "Spider venom kills varroa mites without harming honeybees"
     },
     {
       "title": "Remote Attestation",
@@ -60,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "43",
+      "score": "97",
       "item_id": "hn:48839397",
       "summary_type": "extractive",
       "title_zh": "Remote Attestation",
@@ -76,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "41",
+      "score": "79",
       "item_id": "hn:48839355",
       "summary_type": "extractive",
       "title_zh": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
@@ -92,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "452",
+      "score": "838",
       "item_id": "hn:48838876",
       "summary_type": "extractive",
       "title_zh": "John Deere owners will get the right to repair equipment under FTC settlement",
@@ -108,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "369",
+      "score": "596",
       "item_id": "hn:48837877",
       "summary_type": "extractive",
       "title_zh": "Rewriting Bun in Rust",
@@ -125,7 +157,7 @@
         "agent",
         "paper"
       ],
-      "score": "19",
+      "score": "88",
       "item_id": "hn:48837696",
       "summary_type": "extractive",
       "title_zh": "Benchmarking coding agents on Databricks' multi-million line codebase",
@@ -141,7 +173,7 @@
       "tags": [
         "ai"
       ],
-      "score": "95",
+      "score": "141",
       "item_id": "hn:48837110",
       "summary_type": "extractive",
       "title_zh": "Turning a pile of documents into a searchable useable knowledge base",
@@ -157,7 +189,7 @@
       "tags": [
         "ai"
       ],
-      "score": "332",
+      "score": "420",
       "item_id": "hn:48836778",
       "summary_type": "extractive",
       "title_zh": "FAANG Simulator",
@@ -173,7 +205,7 @@
       "tags": [
         "ai"
       ],
-      "score": "67",
+      "score": "114",
       "item_id": "hn:48836324",
       "summary_type": "extractive",
       "title_zh": "New Sweden: the US's long-lost 'secret' colony",
@@ -189,7 +221,7 @@
       "tags": [
         "ai"
       ],
-      "score": "312",
+      "score": "436",
       "item_id": "hn:48836233",
       "summary_type": "extractive",
       "title_zh": "Cloudflare Drop",
@@ -205,7 +237,7 @@
       "tags": [
         "ai"
       ],
-      "score": "86",
+      "score": "115",
       "item_id": "hn:48835439",
       "summary_type": "extractive",
       "title_zh": "OpenMandriva: Statement regarding attempted distribution sabotage",
@@ -221,7 +253,7 @@
       "tags": [
         "ai"
       ],
-      "score": "520",
+      "score": "635",
       "item_id": "hn:48835111",
       "summary_type": "extractive",
       "title_zh": "Grok 4.5",
@@ -235,8 +267,8 @@
       "url": "http://arxiv.org/abs/2607.07708v1",
       "published_at": "2026-07-08T17:59:59Z",
       "tags": [
-        "vision",
         "agent",
+        "vision",
         "paper"
       ],
       "score": "📄",
@@ -270,9 +302,9 @@
       "url": "http://arxiv.org/abs/2607.07696v1",
       "published_at": "2026-07-08T17:55:00Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.07696v1",
@@ -340,10 +372,10 @@
       "url": "https://microsoft.github.io/flint-chart/#/",
       "published_at": "2026-07-08T17:46:12+00:00",
       "tags": [
-        "vision",
-        "agent"
+        "agent",
+        "vision"
       ],
-      "score": "227",
+      "score": "284",
       "item_id": "hn:48834924",
       "summary_type": "extractive",
       "title_zh": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
@@ -437,22 +469,6 @@
       "summary_zh": "Deep learning has significantly advanced time series imputation, yet most existing architectures primarily rely on localized temporal context within the corrupted input sequence. This reliance can be limiting in real-world scenarios, where time series often exhibit non-stationary dynamics, weak temporal correlations, and infrequent patterns that are difficult to reconstruct from nearby observations alone. In this paper, we propose ALER-TI, Aligned Latent Embedding Retrieval for Time Series Imput"
     },
     {
-      "title": "EU now one step away from reviving private message scanning rules",
-      "summary": "EU now one step away from reviving private message scanning rules",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
-      "published_at": "2026-07-08T16:53:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "375",
-      "item_id": "hn:48834296",
-      "summary_type": "extractive",
-      "title_zh": "EU now one step away from reviving private message scanning rules",
-      "summary_zh": "EU now one step away from reviving private message scanning rules"
-    },
-    {
       "title": "QCNN with Rough Path Signature Kernels",
       "summary": "Time series analysis plays a vital role across a wide range of scientific and engineering domains but poses substantial computational challenges. A major difficulty arises from the time reparameterization invariance of time series data, which complicates the extraction of meaningful temporal features. In this work, we address the problem of time series classification by exploring the application of quantum computation techniques.",
       "full_text": "",
@@ -477,10 +493,10 @@
       "url": "http://arxiv.org/abs/2607.07626v1",
       "published_at": "2026-07-08T16:43:11Z",
       "tags": [
+        "tool",
         "llm",
-        "paper",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.07626v1",
@@ -514,8 +530,8 @@
       "url": "http://arxiv.org/abs/2607.07601v1",
       "published_at": "2026-07-08T16:20:19Z",
       "tags": [
-        "vision",
         "agent",
+        "vision",
         "paper"
       ],
       "score": "📄",
@@ -534,7 +550,7 @@
       "tags": [
         "ai"
       ],
-      "score": "507",
+      "score": "624",
       "item_id": "hn:48833715",
       "summary_type": "extractive",
       "title_zh": "TypeScript 7",
@@ -566,7 +582,7 @@
       "tags": [
         "ai"
       ],
-      "score": "796",
+      "score": "970",
       "item_id": "hn:48833116",
       "summary_type": "extractive",
       "title_zh": "Chatto is now open source",
@@ -631,32 +647,16 @@
       "url": "http://arxiv.org/abs/2607.07507v1",
       "published_at": "2026-07-08T15:02:11Z",
       "tags": [
-        "vision",
-        "paper",
+        "tool",
         "llm",
-        "tool"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.07507v1",
       "summary_type": "extractive",
       "title_zh": "HIVE: Understanding Post-Hallucination Reasoning in Vision Language Models",
       "summary_zh": "Hallucinations in vision language models (VLMs) are commonly treated as semantic errors, yet they often arise from partial or ambiguous visual evidence. Prior work mainly focuses on detecting or suppressing hallucinations at generation time, leaving the subsequent reasoning stage largely unexplored. In this work, we study Post Hallucination Reasoning (PHR), the stage in which hallucinated semantics enter the model's inference context and influence downstream predictions."
-    },
-    {
-      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
-      "summary": "OpenBSD has a use-after-free allowing local privilege escalation to root",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
-      "published_at": "2026-07-08T13:24:52+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "253",
-      "item_id": "hn:48831658",
-      "summary_type": "extractive",
-      "title_zh": "OpenBSD has a use-after-free allowing local privilege escalation to root",
-      "summary_zh": "OpenBSD has a use-after-free allowing local privilege escalation to root"
     },
     {
       "title": "A bug which affected only left handed users",
@@ -668,27 +668,11 @@
       "tags": [
         "ai"
       ],
-      "score": "96",
+      "score": "120",
       "item_id": "hn:48831587",
       "summary_type": "extractive",
       "title_zh": "A bug which affected only left handed users",
       "summary_zh": "A bug which affected only left handed users"
-    },
-    {
-      "title": "Cloudflare Meerkat - Globally distributed consensus",
-      "summary": "Cloudflare Meerkat - Globally distributed consensus",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.cloudflare.com/meerkat-introduction/",
-      "published_at": "2026-07-08T13:18:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "232",
-      "item_id": "hn:48831565",
-      "summary_type": "extractive",
-      "title_zh": "Cloudflare Meerkat - Globally distributed consensus",
-      "summary_zh": "Cloudflare Meerkat - Globally distributed consensus"
     },
     {
       "title": "Unicode's transliteration rules are Turing-complete",
@@ -700,7 +684,7 @@
       "tags": [
         "ai"
       ],
-      "score": "56",
+      "score": "105",
       "item_id": "hn:48829797",
       "summary_type": "extractive",
       "title_zh": "Unicode's transliteration rules are Turing-complete",
@@ -732,27 +716,27 @@
       "tags": [
         "ai"
       ],
-      "score": "80",
+      "score": "175",
       "item_id": "hn:48816987",
       "summary_type": "extractive",
       "title_zh": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
       "summary_zh": "After visiting Japan for the first time a decade ago I became completely enamoured with Tokyo&#x27;s Yamanote Line railway loop. Particularly the sonic experience of it. Like so many others I fell in love with the charming departure melodies and enjoyed discovering experiences like Yamanot.es (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45045307) here on Hacker News when I returned home.But it wasn&#x27;t until my second trip to Tokyo that I truly appreciated how much the door chimes, on"
     },
     {
-      "title": "I Built a Telegram Client for Pi",
-      "summary": "I Built a Telegram Client for Pi",
+      "title": "I Built the Only 2026 WWII Jeep",
+      "summary": "I Built the Only 2026 WWII Jeep",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.npmjs.com/package/@atharva-again/pi-tg",
-      "published_at": "2026-07-06T14:06:34+00:00",
+      "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+      "published_at": "2026-07-07T05:38:26+00:00",
       "tags": [
         "ai"
       ],
-      "score": "60",
-      "item_id": "hn:48804801",
+      "score": "43",
+      "item_id": "hn:48814023",
       "summary_type": "extractive",
-      "title_zh": "I Built a Telegram Client for Pi",
-      "summary_zh": "I Built a Telegram Client for Pi"
+      "title_zh": "I Built the Only 2026 WWII Jeep",
+      "summary_zh": "I Built the Only 2026 WWII Jeep"
     },
     {
       "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
@@ -764,27 +748,11 @@
       "tags": [
         "ai"
       ],
-      "score": "6",
+      "score": "99",
       "item_id": "hn:48800596",
       "summary_type": "extractive",
       "title_zh": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
       "summary_zh": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI"
-    },
-    {
-      "title": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1",
-      "summary": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520",
-      "published_at": "2026-07-05T19:55:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "52",
-      "item_id": "hn:48797443",
-      "summary_type": "extractive",
-      "title_zh": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1",
-      "summary_zh": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1"
     },
     {
       "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
@@ -796,7 +764,7 @@
       "tags": [
         "ai"
       ],
-      "score": "30",
+      "score": "70",
       "item_id": "hn:48795591",
       "summary_type": "extractive",
       "title_zh": "Patching MechCommander's \"left arm bug\" for fun and profit",
@@ -812,27 +780,59 @@
       "tags": [
         "ai"
       ],
-      "score": "24",
+      "score": "38",
       "item_id": "hn:48794568",
       "summary_type": "extractive",
       "title_zh": "My road trip with the do-gooding cactus smugglers",
       "summary_zh": "My road trip with the do-gooding cactus smugglers"
     },
     {
-      "title": "TabFont – guitar tabs rendered as you type",
-      "summary": "TabFont – guitar tabs rendered as you type",
+      "title": "3D Airplane tracker on Mercator map",
+      "summary": "3D Airplane tracker on Mercator map",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://philatype.com/tabfont/",
-      "published_at": "2026-07-05T13:13:54+00:00",
+      "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
+      "published_at": "2026-07-04T21:53:09+00:00",
       "tags": [
         "ai"
       ],
-      "score": "88",
-      "item_id": "hn:48794062",
+      "score": "16",
+      "item_id": "hn:48789445",
       "summary_type": "extractive",
-      "title_zh": "TabFont – guitar tabs rendered as you type",
-      "summary_zh": "TabFont – guitar tabs rendered as you type"
+      "title_zh": "3D Airplane tracker on Mercator map",
+      "summary_zh": "3D Airplane tracker on Mercator map"
+    },
+    {
+      "title": "In-browser programmable robot simulator",
+      "summary": "In-browser programmable robot simulator",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://bittlex-sim.petoi.com/",
+      "published_at": "2026-07-04T09:41:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "10",
+      "item_id": "hn:48784126",
+      "summary_type": "extractive",
+      "title_zh": "In-browser programmable robot simulator",
+      "summary_zh": "In-browser programmable robot simulator"
+    },
+    {
+      "title": "Meta reuses old RAM in new servers with custom bridge chip",
+      "summary": "Meta reuses old RAM in new servers with custom bridge chip",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+      "published_at": "2026-07-03T19:27:05+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "21",
+      "item_id": "hn:48778956",
+      "summary_type": "extractive",
+      "title_zh": "Meta reuses old RAM in new servers with custom bridge chip",
+      "summary_zh": "Meta reuses old RAM in new servers with custom bridge chip"
     }
   ]
 }

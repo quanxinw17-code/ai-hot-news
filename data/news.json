@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-10T04:02:37.882356+00:00",
+  "updated_at": "2026-07-10T09:49:17.427027+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "In Emacs, Everything Looks Like a Service",
+      "summary": "In Emacs, Everything Looks Like a Service",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+      "published_at": "2026-07-10T08:21:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "3",
+      "item_id": "hn:48857230",
+      "summary_type": "extractive",
+      "title_zh": "In Emacs, Everything Looks Like a Service",
+      "summary_zh": "In Emacs, Everything Looks Like a Service"
+    },
     {
       "title": "Build your own vulnerability harness",
       "summary": "Build your own vulnerability harness",
@@ -12,7 +28,7 @@
       "tags": [
         "ai"
       ],
-      "score": "21",
+      "score": "45",
       "item_id": "hn:48854681",
       "summary_type": "extractive",
       "title_zh": "Build your own vulnerability harness",
@@ -28,31 +44,15 @@
       "tags": [
         "ai"
       ],
-      "score": "27",
+      "score": "31",
       "item_id": "hn:48854638",
       "summary_type": "extractive",
       "title_zh": "Star Just Ate a Planet, and It's Not Done Yet",
       "summary_zh": "Star Just Ate a Planet, and It's Not Done Yet"
     },
     {
-      "title": "Focus",
-      "summary": "Focus",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://boz.com/articles/focus",
-      "published_at": "2026-07-10T00:40:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "75",
-      "item_id": "hn:48854363",
-      "summary_type": "extractive",
-      "title_zh": "Focus",
-      "summary_zh": "Focus"
-    },
-    {
-      "title": "Study: \"Mommy, do you love your phone more than me?\"",
-      "summary": "Study: \"Mommy, do you love your phone more than me?\"",
+      "title": "Parental device use and the adolescent-caregiver attachment bond",
+      "summary": "Parental device use and the adolescent-caregiver attachment bond",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
@@ -60,11 +60,11 @@
       "tags": [
         "ai"
       ],
-      "score": "25",
+      "score": "127",
       "item_id": "hn:48854247",
       "summary_type": "extractive",
-      "title_zh": "Study: \"Mommy, do you love your phone more than me?\"",
-      "summary_zh": "Study: \"Mommy, do you love your phone more than me?\""
+      "title_zh": "Parental device use and the adolescent-caregiver attachment bond",
+      "summary_zh": "Parental device use and the adolescent-caregiver attachment bond"
     },
     {
       "title": "Why American ambulance rides are so expensive",
@@ -76,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "129",
+      "score": "213",
       "item_id": "hn:48853091",
       "summary_type": "extractive",
       "title_zh": "Why American ambulance rides are so expensive",
@@ -92,27 +92,11 @@
       "tags": [
         "ai"
       ],
-      "score": "61",
+      "score": "88",
       "item_id": "hn:48852199",
       "summary_type": "extractive",
       "title_zh": "Building a real-time AI tutor for 5-year-olds",
       "summary_zh": "Hey HN! We&#x27;ve spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took getting the underlying architecture right.Our tutor steers the UX in real-time and makes complex decisions on the fly."
-    },
-    {
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "summary": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "published_at": "2026-07-09T18:29:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "194",
-      "item_id": "hn:48850414",
-      "summary_type": "extractive",
-      "title_zh": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "summary_zh": "GLM 5.2 is nearly as accurate as a human book keeper"
     },
     {
       "title": "OpenCoF: Learning to Reason Through Video Generation",
@@ -139,8 +123,8 @@
       "url": "http://arxiv.org/abs/2607.08758v1",
       "published_at": "2026-07-09T17:55:53Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "vision"
       ],
       "score": "📄",
@@ -190,8 +174,8 @@
       "url": "http://arxiv.org/abs/2607.08746v1",
       "published_at": "2026-07-09T17:47:08Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08746v1",
@@ -207,9 +191,9 @@
       "url": "http://arxiv.org/abs/2607.08745v1",
       "published_at": "2026-07-09T17:46:24Z",
       "tags": [
-        "llm",
-        "agent",
         "paper",
+        "agent",
+        "llm",
         "vision"
       ],
       "score": "📄",
@@ -226,11 +210,11 @@
       "url": "http://arxiv.org/abs/2607.08740v1",
       "published_at": "2026-07-09T17:40:46Z",
       "tags": [
-        "llm",
         "agent",
+        "llm",
+        "paper",
         "vision",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08740v1",
@@ -246,9 +230,9 @@
       "url": "http://arxiv.org/abs/2607.08734v1",
       "published_at": "2026-07-09T17:35:02Z",
       "tags": [
-        "tool",
+        "paper",
         "llm",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08734v1",
@@ -264,8 +248,8 @@
       "url": "http://arxiv.org/abs/2607.08731v1",
       "published_at": "2026-07-09T17:34:25Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08731v1",
@@ -281,8 +265,8 @@
       "url": "http://arxiv.org/abs/2607.08725v1",
       "published_at": "2026-07-09T17:31:16Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08725v1",
@@ -298,8 +282,8 @@
       "url": "http://arxiv.org/abs/2607.08716v1",
       "published_at": "2026-07-09T17:26:28Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08716v1",
@@ -317,27 +301,11 @@
       "tags": [
         "ai"
       ],
-      "score": "159",
+      "score": "246",
       "item_id": "hn:48849292",
       "summary_type": "extractive",
       "title_zh": "Interview with Mitchell Hashimoto about Ghostty and Zig",
       "summary_zh": "Interview with Mitchell Hashimoto about Ghostty and Zig"
-    },
-    {
-      "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
-      "summary": "Wildcard (YC W25) Is Hiring a Founding Engineer",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
-      "published_at": "2026-07-09T17:00:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:48849011",
-      "summary_type": "extractive",
-      "title_zh": "Wildcard (YC W25) Is Hiring a Founding Engineer",
-      "summary_zh": "Wildcard (YC W25) Is Hiring a Founding Engineer"
     },
     {
       "title": "ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation",
@@ -347,8 +315,8 @@
       "url": "http://arxiv.org/abs/2607.08691v1",
       "published_at": "2026-07-09T16:50:54Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08691v1",
@@ -364,8 +332,8 @@
       "url": "http://arxiv.org/abs/2607.08690v1",
       "published_at": "2026-07-09T16:50:41Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08690v1",
@@ -381,8 +349,8 @@
       "url": "http://arxiv.org/abs/2607.08681v1",
       "published_at": "2026-07-09T16:43:42Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08681v1",
@@ -398,10 +366,10 @@
       "url": "http://arxiv.org/abs/2607.08662v1",
       "published_at": "2026-07-09T16:28:49Z",
       "tags": [
-        "tool",
-        "llm",
+        "paper",
         "agent",
-        "paper"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08662v1",
@@ -417,9 +385,9 @@
       "url": "http://arxiv.org/abs/2607.08652v1",
       "published_at": "2026-07-09T16:21:16Z",
       "tags": [
-        "llm",
+        "paper",
         "agent",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08652v1",
@@ -435,9 +403,9 @@
       "url": "http://arxiv.org/abs/2607.08647v1",
       "published_at": "2026-07-09T16:18:16Z",
       "tags": [
-        "tool",
+        "paper",
         "agent",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08647v1",
@@ -453,8 +421,8 @@
       "url": "http://arxiv.org/abs/2607.08646v1",
       "published_at": "2026-07-09T16:18:07Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08646v1",
@@ -470,8 +438,8 @@
       "url": "http://arxiv.org/abs/2607.08625v1",
       "published_at": "2026-07-09T15:56:55Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08625v1",
@@ -487,9 +455,9 @@
       "url": "http://arxiv.org/abs/2607.08605v1",
       "published_at": "2026-07-09T15:35:08Z",
       "tags": [
-        "tool",
-        "llm",
         "paper",
+        "llm",
+        "tool",
         "vision"
       ],
       "score": "📄",
@@ -508,7 +476,7 @@
       "tags": [
         "ai"
       ],
-      "score": "410",
+      "score": "476",
       "item_id": "hn:48847552",
       "summary_type": "extractive",
       "title_zh": "Hy3",
@@ -524,27 +492,11 @@
       "tags": [
         "ai"
       ],
-      "score": "253",
+      "score": "281",
       "item_id": "hn:48847511",
       "summary_type": "extractive",
       "title_zh": "A possible future for Damn Interesting",
       "summary_zh": "A possible future for Damn Interesting"
-    },
-    {
-      "title": "Opinionated and easy Pi.dev configuration",
-      "summary": "Opinionated and easy Pi.dev configuration",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lazypi.org/",
-      "published_at": "2026-07-09T15:19:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "124",
-      "item_id": "hn:48847407",
-      "summary_type": "extractive",
-      "title_zh": "Opinionated and easy Pi.dev configuration",
-      "summary_zh": "Opinionated and easy Pi.dev configuration"
     },
     {
       "title": "TLS certificates for internal services done right",
@@ -556,7 +508,7 @@
       "tags": [
         "ai"
       ],
-      "score": "136",
+      "score": "152",
       "item_id": "hn:48846995",
       "summary_type": "extractive",
       "title_zh": "TLS certificates for internal services done right",
@@ -572,7 +524,7 @@
       "tags": [
         "ai"
       ],
-      "score": "86",
+      "score": "92",
       "item_id": "hn:48846332",
       "summary_type": "extractive",
       "title_zh": "SimPolitics: America’s quest to solve politics with computers",
@@ -588,7 +540,7 @@
       "tags": [
         "ai"
       ],
-      "score": "256",
+      "score": "280",
       "item_id": "hn:48846281",
       "summary_type": "extractive",
       "title_zh": "No leap second will be introduced at the end of December 2026",
@@ -604,7 +556,7 @@
       "tags": [
         "ai"
       ],
-      "score": "337",
+      "score": "375",
       "item_id": "hn:48846184",
       "summary_type": "extractive",
       "title_zh": "Muse Spark 1.1",
@@ -620,7 +572,7 @@
       "tags": [
         "ai"
       ],
-      "score": "321",
+      "score": "373",
       "item_id": "hn:48845442",
       "summary_type": "extractive",
       "title_zh": "The glass backbone: Why the Army's logistics will break in the next war",
@@ -636,7 +588,7 @@
       "tags": [
         "ai"
       ],
-      "score": "129",
+      "score": "230",
       "item_id": "hn:48845209",
       "summary_type": "extractive",
       "title_zh": "A road to Lisp: Why Lisp",
@@ -652,7 +604,7 @@
       "tags": [
         "ai"
       ],
-      "score": "872",
+      "score": "993",
       "item_id": "hn:48845049",
       "summary_type": "extractive",
       "title_zh": "Show HN: 18 Words",
@@ -668,7 +620,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.0k",
+      "score": "🔥 1.3k",
       "item_id": "hn:48843923",
       "summary_type": "extractive",
       "title_zh": "EU Parliament greenlights Chat Control 1.0",
@@ -684,7 +636,7 @@
       "tags": [
         "ai"
       ],
-      "score": "448",
+      "score": "673",
       "item_id": "hn:48842459",
       "summary_type": "extractive",
       "title_zh": "Show HN: Getting GLM 5.2 running on my slow computer",
@@ -700,11 +652,27 @@
       "tags": [
         "ai"
       ],
-      "score": "446",
+      "score": "659",
       "item_id": "hn:48841676",
       "summary_type": "extractive",
       "title_zh": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
       "summary_zh": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests"
+    },
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "summary": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "published_at": "2026-07-08T23:37:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "🔥 1.3k",
+      "item_id": "hn:48838876",
+      "summary_type": "extractive",
+      "title_zh": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "summary_zh": "John Deere owners will get the right to repair equipment under FTC settlement"
     },
     {
       "title": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
@@ -716,11 +684,27 @@
       "tags": [
         "ai"
       ],
-      "score": "15",
+      "score": "29",
       "item_id": "hn:48813214",
       "summary_type": "extractive",
       "title_zh": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
       "summary_zh": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule"
+    },
+    {
+      "title": "Common prefix skipping, adaptive sort",
+      "summary": "Common prefix skipping, adaptive sort",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
+      "published_at": "2026-07-06T20:40:14+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "23",
+      "item_id": "hn:48810218",
+      "summary_type": "extractive",
+      "title_zh": "Common prefix skipping, adaptive sort",
+      "summary_zh": "Common prefix skipping, adaptive sort"
     },
     {
       "title": "Girls just wanna have fast MPMC queues with bounded waiting",
@@ -732,11 +716,27 @@
       "tags": [
         "ai"
       ],
-      "score": "143",
+      "score": "170",
       "item_id": "hn:48809574",
       "summary_type": "extractive",
       "title_zh": "Girls just wanna have fast MPMC queues with bounded waiting",
       "summary_zh": "Girls just wanna have fast MPMC queues with bounded waiting"
+    },
+    {
+      "title": "Damaged Earth Catalog",
+      "summary": "Damaged Earth Catalog",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://damaged.bleu255.com/",
+      "published_at": "2026-07-06T17:18:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:48807673",
+      "summary_type": "extractive",
+      "title_zh": "Damaged Earth Catalog",
+      "summary_zh": "Damaged Earth Catalog"
     },
     {
       "title": "Life with Hazard Ratios",
@@ -748,7 +748,7 @@
       "tags": [
         "ai"
       ],
-      "score": "15",
+      "score": "43",
       "item_id": "hn:48806305",
       "summary_type": "extractive",
       "title_zh": "Life with Hazard Ratios",
@@ -764,7 +764,7 @@
       "tags": [
         "ai"
       ],
-      "score": "5",
+      "score": "72",
       "item_id": "hn:48805598",
       "summary_type": "extractive",
       "title_zh": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
@@ -780,7 +780,7 @@
       "tags": [
         "ai"
       ],
-      "score": "293",
+      "score": "344",
       "item_id": "hn:48803004",
       "summary_type": "extractive",
       "title_zh": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
@@ -796,7 +796,7 @@
       "tags": [
         "ai"
       ],
-      "score": "28",
+      "score": "50",
       "item_id": "hn:48800930",
       "summary_type": "extractive",
       "title_zh": "Patterncollider: Generate and explore quasiperiodic tiling patterns",
@@ -812,7 +812,7 @@
       "tags": [
         "ai"
       ],
-      "score": "354",
+      "score": "594",
       "item_id": "hn:48792383",
       "summary_type": "extractive",
       "title_zh": "Train sim created by just one person is being called the best ever made",
@@ -828,7 +828,7 @@
       "tags": [
         "ai"
       ],
-      "score": "47",
+      "score": "73",
       "item_id": "hn:48757291",
       "summary_type": "extractive",
       "title_zh": "My Story of 3D Realms / Apogee Part I (2020)",

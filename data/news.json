@@ -1,22 +1,70 @@
 {
-  "updated_at": "2026-07-11T08:07:02.871054+00:00",
+  "updated_at": "2026-07-11T13:43:57.354347+00:00",
   "count": 50,
   "items": [
     {
-      "title": "What's the best way to do authentication in modern applications",
-      "summary": "What's the best way to do authentication in modern applications",
+      "title": "Semantic/Hybrid Search in the Browser",
+      "summary": "Semantic/Hybrid Search in the Browser",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://neciudan.dev/most-secure-way-to-store-auth-token",
-      "published_at": "2026-07-11T06:09:33+00:00",
+      "url": "https://bart.degoe.de/semantic-search-in-your-browser/",
+      "published_at": "2026-07-11T13:04:35+00:00",
       "tags": [
         "ai"
       ],
-      "score": "32",
-      "item_id": "hn:48869243",
+      "score": "4",
+      "item_id": "hn:48871716",
       "summary_type": "extractive",
-      "title_zh": "What's the best way to do authentication in modern applications",
-      "summary_zh": "What's the best way to do authentication in modern applications"
+      "title_zh": "Semantic/Hybrid Search in the Browser",
+      "summary_zh": "Semantic/Hybrid Search in the Browser"
+    },
+    {
+      "title": "Networking and the Internet, from First Principles",
+      "summary": "Networking and the Internet, from First Principles",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://fazamhd.com/mental-models/networking/",
+      "published_at": "2026-07-11T12:30:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "67",
+      "item_id": "hn:48871470",
+      "summary_type": "extractive",
+      "title_zh": "Networking and the Internet, from First Principles",
+      "summary_zh": "Networking and the Internet, from First Principles"
+    },
+    {
+      "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+      "summary": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "published_at": "2026-07-11T12:12:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "24",
+      "item_id": "hn:48871367",
+      "summary_type": "extractive",
+      "title_zh": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+      "summary_zh": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry"
+    },
+    {
+      "title": "Your code is fast – if you're lucky",
+      "summary": "Your code is fast – if you're lucky",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tiki.li/blog/lucky_code.html",
+      "published_at": "2026-07-11T10:50:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "47",
+      "item_id": "hn:48870799",
+      "summary_type": "extractive",
+      "title_zh": "Your code is fast – if you're lucky",
+      "summary_zh": "Your code is fast – if you're lucky"
     },
     {
       "title": "The vintage beauty of Soviet control rooms (2018)",
@@ -28,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "51",
+      "score": "149",
       "item_id": "hn:48868996",
       "summary_type": "extractive",
       "title_zh": "The vintage beauty of Soviet control rooms (2018)",
@@ -51,22 +99,6 @@
       "summary_zh": "Moss (YC F25) Is Hiring"
     },
     {
-      "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
-      "summary": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "published_at": "2026-07-10T20:43:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "74",
-      "item_id": "hn:48864969",
-      "summary_type": "extractive",
-      "title_zh": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
-      "summary_zh": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years"
-    },
-    {
       "title": "An update on residential proxies and the scraper situation",
       "summary": "An update on residential proxies and the scraper situation",
       "full_text": "",
@@ -76,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "179",
+      "score": "243",
       "item_id": "hn:48864252",
       "summary_type": "extractive",
       "title_zh": "An update on residential proxies and the scraper situation",
@@ -92,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "502",
+      "score": "567",
       "item_id": "hn:48863464",
       "summary_type": "extractive",
       "title_zh": "New York City to ban deceptive subscription practices",
@@ -108,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "145",
+      "score": "176",
       "item_id": "hn:48863080",
       "summary_type": "extractive",
       "title_zh": "War Atlas: An interactive cartography of every named war in human history",
@@ -124,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "165",
+      "score": "225",
       "item_id": "hn:48863064",
       "summary_type": "extractive",
       "title_zh": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
@@ -140,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "210",
+      "score": "233",
       "item_id": "hn:48862365",
       "summary_type": "extractive",
       "title_zh": "The tech of 'Terminator 2' – an oral history (2017)",
@@ -156,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "182",
+      "score": "208",
       "item_id": "hn:48862252",
       "summary_type": "extractive",
       "title_zh": "Snails' teeth beats spider silk as nature's strongest material (2015)",
@@ -172,7 +204,7 @@
       "tags": [
         "ai"
       ],
-      "score": "546",
+      "score": "636",
       "item_id": "hn:48861717",
       "summary_type": "extractive",
       "title_zh": "QuadRF can spot drones and see WiFi through my wall",
@@ -188,7 +220,7 @@
       "tags": [
         "ai"
       ],
-      "score": "150",
+      "score": "164",
       "item_id": "hn:48861319",
       "summary_type": "extractive",
       "title_zh": "A love letter to flashcards",
@@ -204,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "126",
+      "score": "145",
       "item_id": "hn:48861213",
       "summary_type": "extractive",
       "title_zh": "Computation as a universal and fundamental concept",
@@ -220,7 +252,7 @@
       "tags": [
         "ai"
       ],
-      "score": "212",
+      "score": "220",
       "item_id": "hn:48859678",
       "summary_type": "extractive",
       "title_zh": "Successful companies go blind",
@@ -236,7 +268,7 @@
       "tags": [
         "ai"
       ],
-      "score": "124",
+      "score": "174",
       "item_id": "hn:48859673",
       "summary_type": "extractive",
       "title_zh": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
@@ -252,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "363",
+      "score": "387",
       "item_id": "hn:48858737",
       "summary_type": "extractive",
       "title_zh": "Late Bronze Age Collapse",
@@ -283,9 +315,9 @@
       "url": "http://arxiv.org/abs/2607.08758v1",
       "published_at": "2026-07-09T17:55:53Z",
       "tags": [
-        "vision",
         "tool",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08758v1",
@@ -301,8 +333,8 @@
       "url": "http://arxiv.org/abs/2607.08754v1",
       "published_at": "2026-07-09T17:51:50Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08754v1",
@@ -351,9 +383,9 @@
       "url": "http://arxiv.org/abs/2607.08745v1",
       "published_at": "2026-07-09T17:46:24Z",
       "tags": [
+        "vision",
         "llm",
         "agent",
-        "vision",
         "paper"
       ],
       "score": "📄",
@@ -370,11 +402,11 @@
       "url": "http://arxiv.org/abs/2607.08740v1",
       "published_at": "2026-07-09T17:40:46Z",
       "tags": [
-        "agent",
-        "llm",
+        "paper",
         "vision",
         "tool",
-        "paper"
+        "llm",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08740v1",
@@ -390,8 +422,8 @@
       "url": "http://arxiv.org/abs/2607.08734v1",
       "published_at": "2026-07-09T17:35:02Z",
       "tags": [
-        "llm",
         "tool",
+        "llm",
         "paper"
       ],
       "score": "📄",
@@ -442,8 +474,8 @@
       "url": "http://arxiv.org/abs/2607.08716v1",
       "published_at": "2026-07-09T17:26:28Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08716v1",
@@ -459,8 +491,8 @@
       "url": "http://arxiv.org/abs/2607.08691v1",
       "published_at": "2026-07-09T16:50:54Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08691v1",
@@ -493,8 +525,8 @@
       "url": "http://arxiv.org/abs/2607.08681v1",
       "published_at": "2026-07-09T16:43:42Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08681v1",
@@ -510,9 +542,9 @@
       "url": "http://arxiv.org/abs/2607.08662v1",
       "published_at": "2026-07-09T16:28:49Z",
       "tags": [
+        "tool",
         "llm",
         "agent",
-        "tool",
         "paper"
       ],
       "score": "📄",
@@ -531,7 +563,7 @@
       "tags": [
         "ai"
       ],
-      "score": "236",
+      "score": "311",
       "item_id": "hn:48848425",
       "summary_type": "extractive",
       "title_zh": "AI 2040: Plan A",
@@ -563,9 +595,9 @@
       "url": "http://arxiv.org/abs/2607.08647v1",
       "published_at": "2026-07-09T16:18:16Z",
       "tags": [
-        "agent",
         "tool",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.08647v1",
@@ -615,8 +647,8 @@
       "url": "http://arxiv.org/abs/2607.08605v1",
       "published_at": "2026-07-09T15:35:08Z",
       "tags": [
-        "llm",
         "tool",
+        "llm",
         "paper",
         "vision"
       ],
@@ -625,22 +657,6 @@
       "summary_type": "extractive",
       "title_zh": "When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities",
       "summary_zh": "Sparse autoencoders (SAEs) have emerged as a promising technique for mechanistic interpretability by learning a set of sparse latent features in large models, each of which encodes a distinct concept. However, in vision-language models (VLMs), vanilla SAEs struggle to learn modality-consistent concepts, with concepts often exhibiting fragmented coverage (i.e., disjoint regions) in the visual modality. To address this challenge, we propose a Structured Sparse AutoEncoder ($S^2AE$) that enforces c"
-    },
-    {
-      "title": "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
-      "summary": "There is a mobile game called DragonBox. It sort of tricks you into learning algebra by starting with very abstract manipulations of a puzzle that must follow rules... gradually the game teaches you more and more rules and also strips out the more abstract elements until on the last levels you are finally solving real equations.",
-      "full_text": "There is a mobile game called DragonBox. It sort of tricks you into learning algebra by starting with very abstract manipulations of a puzzle that must follow rules... gradually the game teaches you more and more rules and also strips out the more abstract elements until on the last levels you are finally solving real equations. I loved it, it taught my kids algebra.... and it was just fun.Over the years I often thought that there should be a calculator for Algebra that works this way... somethi",
-      "source": "hacker news",
-      "url": "https://github.com/dicroce/wyrm_math",
-      "published_at": "2026-07-09T11:16:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "74",
-      "item_id": "hn:48844046",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
-      "summary_zh": "There is a mobile game called DragonBox. It sort of tricks you into learning algebra by starting with very abstract manipulations of a puzzle that must follow rules... gradually the game teaches you more and more rules and also strips out the more abstract elements until on the last levels you are finally solving real equations."
     },
     {
       "title": "Show HN: Getting GLM 5.2 running on my slow computer",
@@ -652,7 +668,7 @@
       "tags": [
         "ai"
       ],
-      "score": "849",
+      "score": "871",
       "item_id": "hn:48842459",
       "summary_type": "extractive",
       "title_zh": "Show HN: Getting GLM 5.2 running on my slow computer",
@@ -668,27 +684,44 @@
       "tags": [
         "ai"
       ],
-      "score": "26",
+      "score": "42",
       "item_id": "hn:48831814",
       "summary_type": "extractive",
       "title_zh": "Preemption is GC for memory reordering (2019)",
       "summary_zh": "Preemption is GC for memory reordering (2019)"
     },
     {
-      "title": "The Lindy effect in software",
-      "summary": "The Lindy effect in software",
+      "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "summary": "Otary – Image and Geometry Python Library Now Has Tutorials",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.clemsau.com/posts/the-lindy-effect-in-software/",
-      "published_at": "2026-07-08T05:20:31+00:00",
+      "url": "https://alexandrepoupeau.com/otary/learn/",
+      "published_at": "2026-07-08T11:30:12+00:00",
+      "tags": [
+        "tool",
+        "vision"
+      ],
+      "score": "48",
+      "item_id": "hn:48830556",
+      "summary_type": "extractive",
+      "title_zh": "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "summary_zh": "Otary – Image and Geometry Python Library Now Has Tutorials"
+    },
+    {
+      "title": "Google Search lets creators know more about their reach",
+      "summary": "Google Search lets creators know more about their reach",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+      "published_at": "2026-07-07T23:51:49+00:00",
       "tags": [
         "ai"
       ],
-      "score": "14",
-      "item_id": "hn:48827834",
+      "score": "40",
+      "item_id": "hn:48825612",
       "summary_type": "extractive",
-      "title_zh": "The Lindy effect in software",
-      "summary_zh": "The Lindy effect in software"
+      "title_zh": "Google Search lets creators know more about their reach",
+      "summary_zh": "Google Search lets creators know more about their reach"
     },
     {
       "title": "Silent speech with ultrasound",
@@ -700,7 +733,7 @@
       "tags": [
         "ai"
       ],
-      "score": "42",
+      "score": "72",
       "item_id": "hn:48825216",
       "summary_type": "extractive",
       "title_zh": "Silent speech with ultrasound",
@@ -716,7 +749,7 @@
       "tags": [
         "ai"
       ],
-      "score": "7",
+      "score": "27",
       "item_id": "hn:48819612",
       "summary_type": "extractive",
       "title_zh": "Documentation is still in your Mum's filing cabinet",
@@ -732,27 +765,27 @@
       "tags": [
         "ai"
       ],
-      "score": "89",
+      "score": "131",
       "item_id": "hn:48817539",
       "summary_type": "extractive",
       "title_zh": "An iroh powered smart fan",
       "summary_zh": "An iroh powered smart fan"
     },
     {
-      "title": "The footgun of right-to-left decorative characters",
-      "summary": "The footgun of right-to-left decorative characters",
+      "title": "Show HN: Sdlc factory built on pi.dev:intent->DDD->architecture->tested code",
+      "summary": "Show HN: Sdlc factory built on pi.dev:intent->DDD->architecture->tested code",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
-      "published_at": "2026-07-07T03:04:46+00:00",
+      "url": "https://github.com/arman-jalili/guardian-framework",
+      "published_at": "2026-07-07T12:56:33+00:00",
       "tags": [
         "ai"
       ],
-      "score": "35",
-      "item_id": "hn:48813246",
+      "score": "3",
+      "item_id": "hn:48817088",
       "summary_type": "extractive",
-      "title_zh": "The footgun of right-to-left decorative characters",
-      "summary_zh": "The footgun of right-to-left decorative characters"
+      "title_zh": "Show HN: Sdlc factory built on pi.dev:intent->DDD->architecture->tested code",
+      "summary_zh": "Show HN: Sdlc factory built on pi.dev:intent->DDD->architecture->tested code"
     },
     {
       "title": "Alternate clock designs and time systems",
@@ -764,43 +797,27 @@
       "tags": [
         "ai"
       ],
-      "score": "135",
+      "score": "170",
       "item_id": "hn:48810543",
       "summary_type": "extractive",
       "title_zh": "Alternate clock designs and time systems",
       "summary_zh": "Alternate clock designs and time systems"
     },
     {
-      "title": "Ask HN: Are systems ready for the first negative leap second?",
-      "summary": "It’s been 10 years since we had the last leap second and it looks like we will get the first negative one soonish. Are systems ready for that?",
-      "full_text": "It’s been 10 years since we had the last leap second and it looks like we will get the first negative one soonish. Are systems ready for that?",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=48807108",
-      "published_at": "2026-07-06T16:41:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "69",
-      "item_id": "hn:48807108",
-      "summary_type": "extractive",
-      "title_zh": "Ask HN: Are systems ready for the first negative leap second?",
-      "summary_zh": "It’s been 10 years since we had the last leap second and it looks like we will get the first negative one soonish. Are systems ready for that?"
-    },
-    {
-      "title": "Lost city discovered beneath Egypt's desert with ancient church",
-      "summary": "Lost city discovered beneath Egypt's desert with ancient church",
+      "title": "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
+      "summary": "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
-      "published_at": "2026-07-06T12:32:57+00:00",
+      "url": "https://questdb.com/blog/jvm-jit-known-bits/",
+      "published_at": "2026-07-05T22:33:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "173",
-      "item_id": "hn:48803707",
+      "score": "41",
+      "item_id": "hn:48798566",
       "summary_type": "extractive",
-      "title_zh": "Lost city discovered beneath Egypt's desert with ancient church",
-      "summary_zh": "Lost city discovered beneath Egypt's desert with ancient church"
+      "title_zh": "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
+      "summary_zh": "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits"
     },
     {
       "title": "Combustion engine web-based simulator",
@@ -812,27 +829,11 @@
       "tags": [
         "ai"
       ],
-      "score": "161",
+      "score": "200",
       "item_id": "hn:48795900",
       "summary_type": "extractive",
       "title_zh": "Combustion engine web-based simulator",
       "summary_zh": "Combustion engine web-based simulator"
-    },
-    {
-      "title": "The mathematical secrets of Barcelona's Sagrada Familia",
-      "summary": "The mathematical secrets of Barcelona's Sagrada Familia",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
-      "published_at": "2026-07-03T08:43:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "129",
-      "item_id": "hn:48772528",
-      "summary_type": "extractive",
-      "title_zh": "The mathematical secrets of Barcelona's Sagrada Familia",
-      "summary_zh": "The mathematical secrets of Barcelona's Sagrada Familia"
     }
   ]
 }

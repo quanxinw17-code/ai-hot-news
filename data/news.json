@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-07-14T03:18:21.536184+00:00",
+  "updated_at": "2026-07-14T08:21:13.140802+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "YouTrackDB is a general-use object-oriented graph database",
+      "summary": "YouTrackDB is a general-use object-oriented graph database",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/JetBrains/youtrackdb",
+      "published_at": "2026-07-14T03:39:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "101",
+      "item_id": "hn:48902026",
+      "summary_type": "extractive",
+      "title_zh": "YouTrackDB is a general-use object-oriented graph database",
+      "summary_zh": "YouTrackDB is a general-use object-oriented graph database"
+    },
+    {
+      "title": "Our Amish Language",
+      "summary": "Our Amish Language",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
+      "published_at": "2026-07-14T02:40:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "40",
+      "item_id": "hn:48901645",
+      "summary_type": "extractive",
+      "title_zh": "Our Amish Language",
+      "summary_zh": "Our Amish Language"
+    },
     {
       "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
       "summary": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
@@ -12,15 +44,15 @@
       "tags": [
         "ai"
       ],
-      "score": "14",
+      "score": "395",
       "item_id": "hn:48901569",
       "summary_type": "extractive",
       "title_zh": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
       "summary_zh": "Japan develops a method to recover up to 90% of lithium from used EV batteries"
     },
     {
-      "title": "Fundamentals of Wireless Communication",
-      "summary": "Fundamentals of Wireless Communication",
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "summary": "Fundamentals of Wireless Communication (2005)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://web.stanford.edu/~dntse/wireless_book.html",
@@ -28,11 +60,11 @@
       "tags": [
         "ai"
       ],
-      "score": "27",
+      "score": "119",
       "item_id": "hn:48901454",
       "summary_type": "extractive",
-      "title_zh": "Fundamentals of Wireless Communication",
-      "summary_zh": "Fundamentals of Wireless Communication"
+      "title_zh": "Fundamentals of Wireless Communication (2005)",
+      "summary_zh": "Fundamentals of Wireless Communication (2005)"
     },
     {
       "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
@@ -44,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "14",
+      "score": "75",
       "item_id": "hn:48901356",
       "summary_type": "extractive",
       "title_zh": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
@@ -60,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "28",
+      "score": "120",
       "item_id": "hn:48901292",
       "summary_type": "extractive",
       "title_zh": "What will be left for us to work on?",
@@ -76,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "14",
+      "score": "68",
       "item_id": "hn:48901235",
       "summary_type": "extractive",
       "title_zh": "Is x86 ready to ACE it?",
@@ -92,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "18",
+      "score": "82",
       "item_id": "hn:48901224",
       "summary_type": "extractive",
       "title_zh": "The Economics of Recursive Self-Improvement [pdf]",
@@ -108,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "24",
+      "score": "63",
       "item_id": "hn:48901126",
       "summary_type": "extractive",
       "title_zh": "MorphoHDL: A minimalistic language for growing circuits",
@@ -124,43 +156,11 @@
       "tags": [
         "ai"
       ],
-      "score": "90",
+      "score": "260",
       "item_id": "hn:48901010",
       "summary_type": "extractive",
       "title_zh": "The Git history command deserves more attention",
       "summary_zh": "The Git history command deserves more attention"
-    },
-    {
-      "title": "Success may not matter if you aren't doing what you love",
-      "summary": "Success may not matter if you aren't doing what you love",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter",
-      "published_at": "2026-07-14T00:26:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "48",
-      "item_id": "hn:48900790",
-      "summary_type": "extractive",
-      "title_zh": "Success may not matter if you aren't doing what you love",
-      "summary_zh": "Success may not matter if you aren't doing what you love"
-    },
-    {
-      "title": "Turn your singing voice into printable notes (in the browser)",
-      "summary": "Turn your singing voice into printable notes (in the browser)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html",
-      "published_at": "2026-07-14T00:10:36+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "25",
-      "item_id": "hn:48900686",
-      "summary_type": "extractive",
-      "title_zh": "Turn your singing voice into printable notes (in the browser)",
-      "summary_zh": "Turn your singing voice into printable notes (in the browser)"
     },
     {
       "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
@@ -172,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "21",
+      "score": "34",
       "item_id": "hn:48900319",
       "summary_type": "extractive",
       "title_zh": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
@@ -188,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "70",
+      "score": "138",
       "item_id": "hn:48900191",
       "summary_type": "extractive",
       "title_zh": "An Englishwoman who sketched India before photography took hold",
@@ -211,38 +211,6 @@
       "summary_zh": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)"
     },
     {
-      "title": "Show HN: YouTube Guitar Tab Parser",
-      "summary": "I created a simple CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.There are services that transcribe music from Youtube videos into tabs, but they never work well enough for me. Instead I&#x27;m taking a simpler approach. \nIt downloads the video, samples frames, uses Claude vision to locate the tab region, crops every frame to that region, de-duplicates the crops by the bar number printed on each line of the score, and stitches the distinct tab lines vertically into a ",
-      "full_text": "I created a simple CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.There are services that transcribe music from Youtube videos into tabs, but they never work well enough for me. Instead I&#x27;m taking a simpler approach. \nIt downloads the video, samples frames, uses Claude vision to locate the tab region, crops every frame to that region, de-duplicates the crops by the bar number printed on each line of the score, and stitches the distinct tab lines vertically into a ",
-      "source": "hacker news",
-      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-      "published_at": "2026-07-13T20:13:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "81",
-      "item_id": "hn:48898154",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: YouTube Guitar Tab Parser",
-      "summary_zh": "I created a simple CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.There are services that transcribe music from Youtube videos into tabs, but they never work well enough for me. Instead I&#x27;m taking a simpler approach. \nIt downloads the video, samples frames, uses Claude vision to locate the tab region, crops every frame to that region, de-duplicates the crops by the bar number printed on each line of the score, and stitches the distinct tab lines vertically into a "
-    },
-    {
-      "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "summary": "Samsung Health app threatens data deletion if users opt out AI training",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://neow.in/cWsyMTV3",
-      "published_at": "2026-07-13T20:01:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "287",
-      "item_id": "hn:48897991",
-      "summary_type": "extractive",
-      "title_zh": "Samsung Health app threatens data deletion if users opt out AI training",
-      "summary_zh": "Samsung Health app threatens data deletion if users opt out AI training"
-    },
-    {
       "title": "Show HN: I implemented a neural network in SQL",
       "summary": "Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added `to_dataset()`, which completed the roundtrip between thinking of array data in a tabular model simultaneously as gridded rasters (the premise of the project is that every Nd array can be mapped to 2d, where orthogonal dims of the Nd array are just primary keys of a tabular representation).",
       "full_text": "Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added `to_dataset()`, which completed the roundtrip between thinking of array data in a tabular model simultaneously as gridded rasters (the premise of the project is that every Nd array can be mapped to 2d, where orthogonal dims of the Nd array are just primary keys of a tabular representation). We discussed in chat, now t",
@@ -252,27 +220,11 @@
       "tags": [
         "ai"
       ],
-      "score": "65",
+      "score": "92",
       "item_id": "hn:48897975",
       "summary_type": "extractive",
       "title_zh": "Show HN: I implemented a neural network in SQL",
       "summary_zh": "Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added `to_dataset()`, which completed the roundtrip between thinking of array data in a tabular model simultaneously as gridded rasters (the premise of the project is that every Nd array can be mapped to 2d, where orthogonal dims of the Nd array are just primary keys of a tabular representation)."
-    },
-    {
-      "title": "Telegram's t.me domain has been suspended",
-      "summary": "Telegram's t.me domain has been suspended",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.whois.com/whois/t.me",
-      "published_at": "2026-07-13T19:52:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "272",
-      "item_id": "hn:48897878",
-      "summary_type": "extractive",
-      "title_zh": "Telegram's t.me domain has been suspended",
-      "summary_zh": "Telegram's t.me domain has been suspended"
     },
     {
       "title": "TFTP Honey Pot Results",
@@ -284,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "64",
+      "score": "81",
       "item_id": "hn:48897329",
       "summary_type": "extractive",
       "title_zh": "TFTP Honey Pot Results",
@@ -300,7 +252,7 @@
       "tags": [
         "ai"
       ],
-      "score": "103",
+      "score": "154",
       "item_id": "hn:48897104",
       "summary_type": "extractive",
       "title_zh": "The infinite scroll may become endangered if controversial Calif. law passes",
@@ -316,7 +268,7 @@
       "tags": [
         "ai"
       ],
-      "score": "342",
+      "score": "447",
       "item_id": "hn:48896665",
       "summary_type": "extractive",
       "title_zh": "Building and shipping Mac and iOS apps without opening Xcode",
@@ -332,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "108",
+      "score": "126",
       "item_id": "hn:48896600",
       "summary_type": "extractive",
       "title_zh": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
@@ -381,8 +333,8 @@
       "url": "http://arxiv.org/abs/2607.11874v1",
       "published_at": "2026-07-13T17:56:08Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.11874v1",
@@ -415,8 +367,8 @@
       "url": "http://arxiv.org/abs/2607.11862v1",
       "published_at": "2026-07-13T17:49:10Z",
       "tags": [
-        "vision",
         "llm",
+        "vision",
         "paper"
       ],
       "score": "📄",
@@ -469,8 +421,8 @@
       "published_at": "2026-07-13T17:13:09Z",
       "tags": [
         "vision",
-        "agent",
         "tool",
+        "agent",
         "paper"
       ],
       "score": "📄",
@@ -522,8 +474,8 @@
       "url": "http://arxiv.org/abs/2607.11798v1",
       "published_at": "2026-07-13T16:50:03Z",
       "tags": [
-        "vision",
         "llm",
+        "vision",
         "paper"
       ],
       "score": "📄",
@@ -578,7 +530,7 @@
         "tool",
         "paper"
       ],
-      "score": "476",
+      "score": "529",
       "item_id": "hn:48894752",
       "summary_type": "extractive",
       "title_zh": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
@@ -594,7 +546,7 @@
       "tags": [
         "ai"
       ],
-      "score": "58",
+      "score": "85",
       "item_id": "hn:48894630",
       "summary_type": "extractive",
       "title_zh": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
@@ -642,8 +594,8 @@
       "url": "http://arxiv.org/abs/2607.11707v1",
       "published_at": "2026-07-13T15:36:19Z",
       "tags": [
-        "agent",
         "tool",
+        "agent",
         "paper"
       ],
       "score": "📄",
@@ -678,8 +630,8 @@
       "published_at": "2026-07-13T15:31:04Z",
       "tags": [
         "llm",
-        "agent",
         "tool",
+        "agent",
         "paper"
       ],
       "score": "📄",
@@ -714,8 +666,8 @@
       "published_at": "2026-07-13T15:22:56Z",
       "tags": [
         "vision",
-        "agent",
         "tool",
+        "agent",
         "paper"
       ],
       "score": "📄",
@@ -723,22 +675,6 @@
       "summary_type": "extractive",
       "title_zh": "From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence",
       "summary_zh": "Artificial general intelligence ultimately requires agents that can reason and act in the physical world. Action models, vision-language-action policies, and world models have advanced this goal, while World Action Models (WAMs) are particularly promising because they connect candidate interventions with predicted consequences. However, progress remains fragmented: models use incompatible action spaces and prediction targets, datasets and tasks follow different conventions, and runtime systems e"
-    },
-    {
-      "title": "The art and engineering of Sega CD Silpheed",
-      "summary": "The art and engineering of Sega CD Silpheed",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://fabiensanglard.net/silpheed/index.html",
-      "published_at": "2026-07-13T14:52:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "235",
-      "item_id": "hn:48893639",
-      "summary_type": "extractive",
-      "title_zh": "The art and engineering of Sega CD Silpheed",
-      "summary_zh": "The art and engineering of Sega CD Silpheed"
     },
     {
       "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
@@ -750,43 +686,91 @@
       "tags": [
         "ai"
       ],
-      "score": "31",
+      "score": "46",
       "item_id": "hn:48893550",
       "summary_type": "extractive",
       "title_zh": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
       "summary_zh": "I created an app that compares real-time prices and wait times across Uber, Lyft, Waymo, Tesla Robotaxi, Curb, and Empower. It shows you all ride options in one list, then once you’re ready to book, it deeplinks you to the provider’s app with the route pre-filled.Edit: Here&#x27;s a demo video: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=VV8PEAjxwQII reverse-engineered ride-hailing mobile apps to understand how they fetch prices from their servers. You sign in to my app with your ride-hailing"
     },
     {
-      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
-      "summary": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
-      "full_text": "",
+      "title": "Ask HN: What Are You Working On? (July 2026)",
+      "summary": "What are you working on?  Any new ideas that you&#x27;re thinking about?",
+      "full_text": "What are you working on?  Any new ideas that you&#x27;re thinking about?",
       "source": "hacker news",
-      "url": "https://jivx.com/densha",
-      "published_at": "2026-07-13T11:18:30+00:00",
+      "url": "https://news.ycombinator.com/item?id=48884984",
+      "published_at": "2026-07-12T21:26:41+00:00",
       "tags": [
         "ai"
       ],
-      "score": "348",
-      "item_id": "hn:48890959",
+      "score": "252",
+      "item_id": "hn:48884984",
       "summary_type": "extractive",
-      "title_zh": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
-      "summary_zh": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese"
+      "title_zh": "Ask HN: What Are You Working On? (July 2026)",
+      "summary_zh": "What are you working on?  Any new ideas that you&#x27;re thinking about?"
     },
     {
-      "title": "The Difference Between Watercolor and Gouache Paints",
-      "summary": "The Difference Between Watercolor and Gouache Paints",
+      "title": "Zero Knowledge Tolstoyan Art",
+      "summary": "Zero Knowledge Tolstoyan Art",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963",
-      "published_at": "2026-07-10T17:36:28+00:00",
+      "url": "https://max-amb.github.io/blog/zero_knowledge_tolstoyan_art/",
+      "published_at": "2026-07-11T15:38:13+00:00",
       "tags": [
         "ai"
       ],
-      "score": "24",
-      "item_id": "hn:48862854",
+      "score": "3",
+      "item_id": "hn:48872965",
       "summary_type": "extractive",
-      "title_zh": "The Difference Between Watercolor and Gouache Paints",
-      "summary_zh": "The Difference Between Watercolor and Gouache Paints"
+      "title_zh": "Zero Knowledge Tolstoyan Art",
+      "summary_zh": "Zero Knowledge Tolstoyan Art"
+    },
+    {
+      "title": "How to build a circular LCD clock",
+      "summary": "How to build a circular LCD clock",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blinry.org/lcd-clock/",
+      "published_at": "2026-07-11T15:23:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "74",
+      "item_id": "hn:48872833",
+      "summary_type": "extractive",
+      "title_zh": "How to build a circular LCD clock",
+      "summary_zh": "How to build a circular LCD clock"
+    },
+    {
+      "title": "Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster",
+      "summary": "Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/yagarea/jektex",
+      "published_at": "2026-07-11T15:19:25+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:48872791",
+      "summary_type": "extractive",
+      "title_zh": "Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster",
+      "summary_zh": "Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster"
+    },
+    {
+      "title": "Two Case Studies of NaN",
+      "summary": "Two Case Studies of NaN",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://sebsite.pw/w/20260709-nan.html",
+      "published_at": "2026-07-10T02:27:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "10",
+      "item_id": "hn:48855045",
+      "summary_type": "extractive",
+      "title_zh": "Two Case Studies of NaN",
+      "summary_zh": "Two Case Studies of NaN"
     },
     {
       "title": "World-First 'Super Alloy' Could Transform the Way Metals Are Made",
@@ -798,7 +782,7 @@
       "tags": [
         "ai"
       ],
-      "score": "23",
+      "score": "58",
       "item_id": "hn:48853146",
       "summary_type": "extractive",
       "title_zh": "World-First 'Super Alloy' Could Transform the Way Metals Are Made",
@@ -814,27 +798,43 @@
       "tags": [
         "ai"
       ],
-      "score": "98",
+      "score": "120",
       "item_id": "hn:48852159",
       "summary_type": "extractive",
       "title_zh": "Ancient Roman Board Game",
       "summary_zh": "Ancient Roman Board Game"
     },
     {
-      "title": "Show HN: RandoFont – A browser for Google Fonts",
-      "summary": "Inevitably when starting a new web project I want to pick the perfect font. This is just a browser that shows Google Fonts, randomly, and lets me tag favorites.I built this years ago and just used AI to give it a minor facelift.",
-      "full_text": "Inevitably when starting a new web project I want to pick the perfect font. This is just a browser that shows Google Fonts, randomly, and lets me tag favorites.I built this years ago and just used AI to give it a minor facelift.",
+      "title": "Writing a bindless GPU abstraction layer",
+      "summary": "Writing a bindless GPU abstraction layer",
+      "full_text": "",
       "source": "hacker news",
-      "url": "https://randofont.alesh.com",
-      "published_at": "2026-07-09T20:46:38+00:00",
+      "url": "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/",
+      "published_at": "2026-07-09T14:00:19+00:00",
       "tags": [
         "ai"
       ],
-      "score": "26",
-      "item_id": "hn:48852144",
+      "score": "40",
+      "item_id": "hn:48845999",
       "summary_type": "extractive",
-      "title_zh": "Show HN: RandoFont – A browser for Google Fonts",
-      "summary_zh": "Inevitably when starting a new web project I want to pick the perfect font. This is just a browser that shows Google Fonts, randomly, and lets me tag favorites.I built this years ago and just used AI to give it a minor facelift."
+      "title_zh": "Writing a bindless GPU abstraction layer",
+      "summary_zh": "Writing a bindless GPU abstraction layer"
+    },
+    {
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "summary": "UAF = Use After Free (https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer)",
+      "full_text": "UAF = Use After Free (https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer)",
+      "source": "hacker news",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "published_at": "2026-07-08T16:53:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "397",
+      "item_id": "hn:48834309",
+      "summary_type": "extractive",
+      "title_zh": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "summary_zh": "UAF = Use After Free (https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer)"
     }
   ]
 }

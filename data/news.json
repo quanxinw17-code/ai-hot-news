@@ -1,22 +1,70 @@
 {
-  "updated_at": "2026-07-15T03:18:01.647085+00:00",
+  "updated_at": "2026-07-15T08:27:43.335222+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-      "summary": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-      "full_text": "",
+      "title": "Ask HN: How do you track feedback when you post across multiple places?",
+      "summary": "Over the last two years I have been working on multiple projects and when trying to get feedback from people, I kept facing the same problem. I post across multiple platforms - X, Reddit, Facebook, etc and all responses ended up scattered across different places. So I&#x27;m wondering if others have the same problem.",
+      "full_text": "Over the last two years I have been working on multiple projects and when trying to get feedback from people, I kept facing the same problem. I post across multiple platforms - X, Reddit, Facebook, etc and all responses ended up scattered across different places. So I&#x27;m wondering if others have the same problem. If you want to share your experience: https:&#x2F;&#x2F;remarkd.app&#x2F;r&#x2F;how-to-track-feedback",
       "source": "hacker news",
-      "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
-      "published_at": "2026-07-15T01:43:49+00:00",
+      "url": "https://news.ycombinator.com/item?id=48917697",
+      "published_at": "2026-07-15T08:10:27+00:00",
       "tags": [
         "ai"
       ],
-      "score": "43",
-      "item_id": "hn:48915244",
+      "score": "3",
+      "item_id": "hn:48917697",
       "summary_type": "extractive",
-      "title_zh": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-      "summary_zh": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning"
+      "title_zh": "Ask HN: How do you track feedback when you post across multiple places?",
+      "summary_zh": "Over the last two years I have been working on multiple projects and when trying to get feedback from people, I kept facing the same problem. I post across multiple platforms - X, Reddit, Facebook, etc and all responses ended up scattered across different places. So I&#x27;m wondering if others have the same problem."
+    },
+    {
+      "title": "Who's running all those tiny RPKI servers?",
+      "summary": "Who's running all those tiny RPKI servers?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+      "published_at": "2026-07-15T06:38:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "4",
+      "item_id": "hn:48917055",
+      "summary_type": "extractive",
+      "title_zh": "Who's running all those tiny RPKI servers?",
+      "summary_zh": "Who's running all those tiny RPKI servers?"
+    },
+    {
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "summary": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+      "published_at": "2026-07-15T06:02:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "39",
+      "item_id": "hn:48916805",
+      "summary_type": "extractive",
+      "title_zh": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "summary_zh": "RISC-V Is Inevitable: State of the Union Keynote Argues"
+    },
+    {
+      "title": "Jurassic Park computers in excruciating detail",
+      "summary": "Jurassic Park computers in excruciating detail",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "published_at": "2026-07-15T02:57:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "366",
+      "item_id": "hn:48915709",
+      "summary_type": "extractive",
+      "title_zh": "Jurassic Park computers in excruciating detail",
+      "summary_zh": "Jurassic Park computers in excruciating detail"
     },
     {
       "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
@@ -28,27 +76,11 @@
       "tags": [
         "ai"
       ],
-      "score": "56",
+      "score": "142",
       "item_id": "hn:48915004",
       "summary_type": "extractive",
       "title_zh": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
       "summary_zh": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access"
-    },
-    {
-      "title": "Data centers have hiked electricity prices on the public by $23B",
-      "summary": "Data centers have hiked electricity prices on the public by $23B",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
-      "published_at": "2026-07-15T00:20:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "85",
-      "item_id": "hn:48914683",
-      "summary_type": "extractive",
-      "title_zh": "Data centers have hiked electricity prices on the public by $23B",
-      "summary_zh": "Data centers have hiked electricity prices on the public by $23B"
     },
     {
       "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
@@ -60,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "45",
+      "score": "124",
       "item_id": "hn:48914646",
       "summary_type": "extractive",
       "title_zh": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
@@ -76,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "143",
+      "score": "253",
       "item_id": "hn:48914644",
       "summary_type": "extractive",
       "title_zh": "Vancouver PD website features Quick Escape button that wipes itself from history",
@@ -92,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "61",
+      "score": "89",
       "item_id": "hn:48913763",
       "summary_type": "extractive",
       "title_zh": "LeMario: Training a JEPA World Model on Super Mario Bros",
@@ -108,31 +140,15 @@
       "tags": [
         "ai"
       ],
-      "score": "30",
+      "score": "61",
       "item_id": "hn:48913457",
       "summary_type": "extractive",
       "title_zh": "Probably check on your smart appliances",
       "summary_zh": "Probably check on your smart appliances"
     },
     {
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "summary": "Financing the AI boom: from cash flows to debt [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "published_at": "2026-07-14T21:58:36+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "104",
-      "item_id": "hn:48913443",
-      "summary_type": "extractive",
-      "title_zh": "Financing the AI boom: from cash flows to debt [pdf]",
-      "summary_zh": "Financing the AI boom: from cash flows to debt [pdf]"
-    },
-    {
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "summary": "Microsoft Patches a Record 570 Security Flaws",
+      "title": "Microsoft has released software updates to plug at least 570 security holes",
+      "summary": "Microsoft has released software updates to plug at least 570 security holes",
       "full_text": "",
       "source": "hacker news",
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -140,11 +156,11 @@
       "tags": [
         "ai"
       ],
-      "score": "47",
+      "score": "115",
       "item_id": "hn:48913190",
       "summary_type": "extractive",
-      "title_zh": "Microsoft Patches a Record 570 Security Flaws",
-      "summary_zh": "Microsoft Patches a Record 570 Security Flaws"
+      "title_zh": "Microsoft has released software updates to plug at least 570 security holes",
+      "summary_zh": "Microsoft has released software updates to plug at least 570 security holes"
     },
     {
       "title": "Dependabot version updates introduce default package cooldown",
@@ -156,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "115",
+      "score": "168",
       "item_id": "hn:48913050",
       "summary_type": "extractive",
       "title_zh": "Dependabot version updates introduce default package cooldown",
@@ -172,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "134",
+      "score": "225",
       "item_id": "hn:48912175",
       "summary_type": "extractive",
       "title_zh": "How I use HTMX with Go",
@@ -186,9 +202,9 @@
       "url": "http://arxiv.org/abs/2607.13034v1",
       "published_at": "2026-07-14T17:59:31Z",
       "tags": [
-        "llm",
         "agent",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.13034v1",
@@ -204,9 +220,9 @@
       "url": "http://arxiv.org/abs/2607.13028v1",
       "published_at": "2026-07-14T17:59:02Z",
       "tags": [
+        "agent",
         "paper",
-        "tool",
-        "agent"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.13028v1",
@@ -222,10 +238,10 @@
       "url": "http://arxiv.org/abs/2607.13027v1",
       "published_at": "2026-07-14T17:58:57Z",
       "tags": [
-        "llm",
-        "tool",
         "agent",
-        "paper"
+        "paper",
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.13027v1",
@@ -243,7 +259,7 @@
       "tags": [
         "ai"
       ],
-      "score": "271",
+      "score": "348",
       "item_id": "hn:48910676",
       "summary_type": "extractive",
       "title_zh": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
@@ -257,9 +273,9 @@
       "url": "http://arxiv.org/abs/2607.13013v1",
       "published_at": "2026-07-14T17:53:22Z",
       "tags": [
-        "llm",
+        "paper",
         "vision",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.13013v1",
@@ -293,7 +309,7 @@
       "tags": [
         "ai"
       ],
-      "score": "466",
+      "score": "571",
       "item_id": "hn:48910545",
       "summary_type": "extractive",
       "title_zh": "Bonsai 27B: A 27B-Class model that runs on a phone",
@@ -307,8 +323,8 @@
       "url": "http://arxiv.org/abs/2607.12986v1",
       "published_at": "2026-07-14T17:29:28Z",
       "tags": [
-        "llm",
         "agent",
+        "llm",
         "paper"
       ],
       "score": "📄",
@@ -325,8 +341,8 @@
       "url": "http://arxiv.org/abs/2607.12985v1",
       "published_at": "2026-07-14T17:28:25Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.12985v1",
@@ -342,9 +358,9 @@
       "url": "http://arxiv.org/abs/2607.12982v1",
       "published_at": "2026-07-14T17:24:57Z",
       "tags": [
+        "paper",
         "llm",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.12982v1",
@@ -377,8 +393,8 @@
       "published_at": "2026-07-14T16:59:42Z",
       "tags": [
         "llm",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.12962v1",
@@ -396,27 +412,11 @@
       "tags": [
         "ai"
       ],
-      "score": "365",
+      "score": "452",
       "item_id": "hn:48909785",
       "summary_type": "extractive",
       "title_zh": "The Tower Keeps Rising",
       "summary_zh": "The Tower Keeps Rising"
-    },
-    {
-      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "summary": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-      "published_at": "2026-07-14T16:36:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "351",
-      "item_id": "hn:48909424",
-      "summary_type": "extractive",
-      "title_zh": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "summary_zh": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK"
     },
     {
       "title": "ViHoRec: A Quality-Controlled Vietnamese Hotel Recommendation Dataset and Cold-Start Benchmark",
@@ -459,9 +459,9 @@
       "url": "http://arxiv.org/abs/2607.12909v1",
       "published_at": "2026-07-14T15:43:41Z",
       "tags": [
+        "vision",
         "paper",
-        "tool",
-        "vision"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.12909v1",
@@ -477,8 +477,8 @@
       "url": "http://arxiv.org/abs/2607.12893v1",
       "published_at": "2026-07-14T15:33:44Z",
       "tags": [
-        "llm",
         "agent",
+        "llm",
         "paper"
       ],
       "score": "📄",
@@ -495,8 +495,8 @@
       "url": "http://arxiv.org/abs/2607.12892v1",
       "published_at": "2026-07-14T15:33:33Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.12892v1",
@@ -512,9 +512,9 @@
       "url": "http://arxiv.org/abs/2607.12886v1",
       "published_at": "2026-07-14T15:32:07Z",
       "tags": [
-        "llm",
         "agent",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.12886v1",
@@ -532,7 +532,7 @@
       "tags": [
         "ai"
       ],
-      "score": "145",
+      "score": "163",
       "item_id": "hn:48908271",
       "summary_type": "extractive",
       "title_zh": "Show HN: Opening lines of famous literary works",
@@ -548,7 +548,7 @@
       "tags": [
         "ai"
       ],
-      "score": "185",
+      "score": "270",
       "item_id": "hn:48908214",
       "summary_type": "extractive",
       "title_zh": "I'm a USB-C Maximalist",
@@ -564,7 +564,7 @@
       "tags": [
         "ai"
       ],
-      "score": "394",
+      "score": "457",
       "item_id": "hn:48908178",
       "summary_type": "extractive",
       "title_zh": "Are we offloading too much of our thinking to AI?",
@@ -578,8 +578,8 @@
       "url": "http://arxiv.org/abs/2607.12861v1",
       "published_at": "2026-07-14T15:11:26Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.12861v1",
@@ -629,10 +629,10 @@
       "url": "http://arxiv.org/abs/2607.12829v1",
       "published_at": "2026-07-14T14:48:06Z",
       "tags": [
-        "llm",
-        "tool",
         "vision",
-        "paper"
+        "llm",
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.12829v1",
@@ -649,8 +649,8 @@
       "published_at": "2026-07-14T14:44:48Z",
       "tags": [
         "llm",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.12826v1",
@@ -668,7 +668,7 @@
       "tags": [
         "ai"
       ],
-      "score": "51",
+      "score": "82",
       "item_id": "hn:48905183",
       "summary_type": "extractive",
       "title_zh": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
@@ -684,43 +684,11 @@
       "tags": [
         "ai"
       ],
-      "score": "213",
+      "score": "225",
       "item_id": "hn:48905118",
       "summary_type": "extractive",
       "title_zh": "Punch yourself in the face with reality",
       "summary_zh": "Punch yourself in the face with reality"
-    },
-    {
-      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-      "summary": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-      "published_at": "2026-07-14T08:34:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "489",
-      "item_id": "hn:48903777",
-      "summary_type": "extractive",
-      "title_zh": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-      "summary_zh": "European \"age verification\" \"app\" forcing everyone to use Android or iOS"
-    },
-    {
-      "title": "Australian energy retailers must offer three hours of free daytime electricity",
-      "summary": "Australian energy retailers must offer three hours of free daytime electricity",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "published_at": "2026-07-14T04:31:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "268",
-      "item_id": "hn:48902320",
-      "summary_type": "extractive",
-      "title_zh": "Australian energy retailers must offer three hours of free daytime electricity",
-      "summary_zh": "Australian energy retailers must offer three hours of free daytime electricity"
     },
     {
       "title": "The Estranged Worlds of J. G. Ballard",
@@ -732,11 +700,75 @@
       "tags": [
         "ai"
       ],
-      "score": "41",
+      "score": "57",
       "item_id": "hn:48899473",
       "summary_type": "extractive",
       "title_zh": "The Estranged Worlds of J. G. Ballard",
       "summary_zh": "The Estranged Worlds of J. G. Ballard"
+    },
+    {
+      "title": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
+      "summary": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience",
+      "published_at": "2026-07-13T18:23:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "64",
+      "item_id": "hn:48896672",
+      "summary_type": "extractive",
+      "title_zh": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
+      "summary_zh": "The bread paradox: why convenience always wins, and why SaaS isn't doomed"
+    },
+    {
+      "title": "The Trade in Looted Antiquities Endures for One Reason: Demand",
+      "summary": "The Trade in Looted Antiquities Endures for One Reason: Demand",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://news.artnet.com/art-world/matt-campbell-cambodia-looted-antiquities-2779870",
+      "published_at": "2026-07-12T17:00:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "18",
+      "item_id": "hn:48882608",
+      "summary_type": "extractive",
+      "title_zh": "The Trade in Looted Antiquities Endures for One Reason: Demand",
+      "summary_zh": "The Trade in Looted Antiquities Endures for One Reason: Demand"
+    },
+    {
+      "title": "Andon (manufacturing)",
+      "summary": "Andon (manufacturing)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+      "published_at": "2026-07-11T19:49:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "44",
+      "item_id": "hn:48875188",
+      "summary_type": "extractive",
+      "title_zh": "Andon (manufacturing)",
+      "summary_zh": "Andon (manufacturing)"
+    },
+    {
+      "title": "C++20 Improved the For-Loop Syntax",
+      "summary": "C++20 Improved the For-Loop Syntax",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
+      "published_at": "2026-07-11T16:10:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "37",
+      "item_id": "hn:48873275",
+      "summary_type": "extractive",
+      "title_zh": "C++20 Improved the For-Loop Syntax",
+      "summary_zh": "C++20 Improved the For-Loop Syntax"
     },
     {
       "title": "The largest available Minecraft world, totalling 15 TB",
@@ -748,7 +780,7 @@
       "tags": [
         "ai"
       ],
-      "score": "173",
+      "score": "212",
       "item_id": "hn:48872401",
       "summary_type": "extractive",
       "title_zh": "The largest available Minecraft world, totalling 15 TB",
@@ -764,7 +796,7 @@
       "tags": [
         "ai"
       ],
-      "score": "141",
+      "score": "197",
       "item_id": "hn:48870217",
       "summary_type": "extractive",
       "title_zh": "The kids with phones are alright",
@@ -780,59 +812,27 @@
       "tags": [
         "ai"
       ],
-      "score": "748",
+      "score": "795",
       "item_id": "hn:48869989",
       "summary_type": "extractive",
       "title_zh": "Your 'app' could have been a webpage (so I fixed it for you)",
       "summary_zh": "Your 'app' could have been a webpage (so I fixed it for you)"
     },
     {
-      "title": "Unlocking the PSP's Dual Core Setup",
-      "summary": "Unlocking the PSP's Dual Core Setup",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/",
-      "published_at": "2026-07-10T23:51:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "49",
-      "item_id": "hn:48866848",
-      "summary_type": "extractive",
-      "title_zh": "Unlocking the PSP's Dual Core Setup",
-      "summary_zh": "Unlocking the PSP's Dual Core Setup"
-    },
-    {
       "title": "An unusual way for your DHCP server to run out of dynamic IPs",
-      "summary": "An unusual way for your DHCP server to run out of dynamic IPs",
-      "full_text": "",
+      "summary": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260712034557&#x2F;https:&#x2F;&#x2F;utcc.utor...",
+      "full_text": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260712034557&#x2F;https:&#x2F;&#x2F;utcc.utor...",
       "source": "hacker news",
       "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
       "published_at": "2026-07-10T16:47:11+00:00",
       "tags": [
         "ai"
       ],
-      "score": "28",
+      "score": "65",
       "item_id": "hn:48862351",
       "summary_type": "extractive",
       "title_zh": "An unusual way for your DHCP server to run out of dynamic IPs",
-      "summary_zh": "An unusual way for your DHCP server to run out of dynamic IPs"
-    },
-    {
-      "title": "Ambient Website Background Clouds",
-      "summary": "Ambient Website Background Clouds",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/paradise-runner/background-clouds",
-      "published_at": "2026-07-10T00:50:09+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "7",
-      "item_id": "hn:48854431",
-      "summary_type": "extractive",
-      "title_zh": "Ambient Website Background Clouds",
-      "summary_zh": "Ambient Website Background Clouds"
+      "summary_zh": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260712034557&#x2F;https:&#x2F;&#x2F;utcc.utor..."
     }
   ]
 }

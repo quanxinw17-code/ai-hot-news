@@ -1,7 +1,247 @@
 {
-  "updated_at": "2026-07-17T13:55:34.298598+00:00",
+  "updated_at": "2026-07-17T19:21:35.449931+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "summary": "I&#x27;m building a journal app in Kotlin Multiplatform and for this purpose I have created a zoomable timeline interface.This is a side-project where I reuse the timeline interface to display 4 million events imported from Wikipedia &#x2F; Wikidata, scored using PageRank. There is more information on the about page.If you&#x27;re interested in the stack: I use Kotlin Multiplatform extensively, with Compose Multiplatform for the UI, communicates with the backend using Kotlinx-RPC and behind the ",
+      "full_text": "I&#x27;m building a journal app in Kotlin Multiplatform and for this purpose I have created a zoomable timeline interface.This is a side-project where I reuse the timeline interface to display 4 million events imported from Wikipedia &#x2F; Wikidata, scored using PageRank. There is more information on the about page.If you&#x27;re interested in the stack: I use Kotlin Multiplatform extensively, with Compose Multiplatform for the UI, communicates with the backend using Kotlinx-RPC and behind the ",
+      "source": "hacker news",
+      "url": "https://app.everything.diena.co/",
+      "published_at": "2026-07-17T18:37:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "6",
+      "item_id": "hn:48950774",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "summary_zh": "I&#x27;m building a journal app in Kotlin Multiplatform and for this purpose I have created a zoomable timeline interface.This is a side-project where I reuse the timeline interface to display 4 million events imported from Wikipedia &#x2F; Wikidata, scored using PageRank. There is more information on the about page.If you&#x27;re interested in the stack: I use Kotlin Multiplatform extensively, with Compose Multiplatform for the UI, communicates with the backend using Kotlinx-RPC and behind the "
+    },
+    {
+      "title": "A Year On: The DOGE Disaster",
+      "summary": "A Year On: The DOGE Disaster",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://donmoynihan.substack.com/p/a-year-on-the-doge-disaster",
+      "published_at": "2026-07-17T18:31:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:48950667",
+      "summary_type": "extractive",
+      "title_zh": "A Year On: The DOGE Disaster",
+      "summary_zh": "A Year On: The DOGE Disaster"
+    },
+    {
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "summary": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "published_at": "2026-07-17T18:28:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:48950620",
+      "summary_type": "extractive",
+      "title_zh": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "summary_zh": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory"
+    },
+    {
+      "title": "Learning a few things about running SQLite",
+      "summary": "Learning a few things about running SQLite",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "published_at": "2026-07-17T17:45:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "27",
+      "item_id": "hn:48950122",
+      "summary_type": "extractive",
+      "title_zh": "Learning a few things about running SQLite",
+      "summary_zh": "Learning a few things about running SQLite"
+    },
+    {
+      "title": "Designing emoji for the way we communicate today",
+      "summary": "Designing emoji for the way we communicate today",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
+      "published_at": "2026-07-17T16:24:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "27",
+      "item_id": "hn:48949184",
+      "summary_type": "extractive",
+      "title_zh": "Designing emoji for the way we communicate today",
+      "summary_zh": "Designing emoji for the way we communicate today"
+    },
+    {
+      "title": "Show HN: Explore the Workspaces of Modern Creators",
+      "summary": "Show HN: Explore the Workspaces of Modern Creators",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://workspaces.xyz/",
+      "published_at": "2026-07-17T15:41:05+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "37",
+      "item_id": "hn:48948693",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Explore the Workspaces of Modern Creators",
+      "summary_zh": "Show HN: Explore the Workspaces of Modern Creators"
+    },
+    {
+      "title": "Frame – the first Linux Assembly X server",
+      "summary": "Frame – the first Linux Assembly X server",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://isene.org/2026/07/Frame.html",
+      "published_at": "2026-07-17T15:31:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "74",
+      "item_id": "hn:48948597",
+      "summary_type": "extractive",
+      "title_zh": "Frame – the first Linux Assembly X server",
+      "summary_zh": "Frame – the first Linux Assembly X server"
+    },
+    {
+      "title": "Short sellers notch $8.7B profit as SpaceX shares dip to IPO price",
+      "summary": "Short sellers notch $8.7B profit as SpaceX shares dip to IPO price",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/",
+      "published_at": "2026-07-17T15:17:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "84",
+      "item_id": "hn:48948435",
+      "summary_type": "extractive",
+      "title_zh": "Short sellers notch $8.7B profit as SpaceX shares dip to IPO price",
+      "summary_zh": "Short sellers notch $8.7B profit as SpaceX shares dip to IPO price"
+    },
+    {
+      "title": "Mozilla: The state of open source AI",
+      "summary": "Mozilla: The state of open source AI",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://stateofopensource.ai/",
+      "published_at": "2026-07-17T14:31:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "267",
+      "item_id": "hn:48947825",
+      "summary_type": "extractive",
+      "title_zh": "Mozilla: The state of open source AI",
+      "summary_zh": "Mozilla: The state of open source AI"
+    },
+    {
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "summary": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "published_at": "2026-07-17T14:21:35+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "60",
+      "item_id": "hn:48947714",
+      "summary_type": "extractive",
+      "title_zh": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "summary_zh": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM"
+    },
+    {
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "summary": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "published_at": "2026-07-17T14:06:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "229",
+      "item_id": "hn:48947560",
+      "summary_type": "extractive",
+      "title_zh": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "summary_zh": "First atmosphere found on Earth-like planet in habitable zone of distant star"
+    },
+    {
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "summary": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://honeypotlive.cc/",
+      "published_at": "2026-07-17T14:05:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "105",
+      "item_id": "hn:48947548",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "summary_zh": "Show HN: Watch bots interact with an SSH honeypot in real time"
+    },
+    {
+      "title": "Three ways people respond to a problem (other than solving it)",
+      "summary": "Three ways people respond to a problem (other than solving it)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://improvesomething.today/responses-to-problems/",
+      "published_at": "2026-07-17T14:00:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "127",
+      "item_id": "hn:48947490",
+      "summary_type": "extractive",
+      "title_zh": "Three ways people respond to a problem (other than solving it)",
+      "summary_zh": "Three ways people respond to a problem (other than solving it)"
+    },
+    {
+      "title": "A Road to Lisp: Which Lisp",
+      "summary": "A Road to Lisp: Which Lisp",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+      "published_at": "2026-07-17T13:56:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "124",
+      "item_id": "hn:48947455",
+      "summary_type": "extractive",
+      "title_zh": "A Road to Lisp: Which Lisp",
+      "summary_zh": "A Road to Lisp: Which Lisp"
+    },
+    {
+      "title": "More Bounce to the Ounce",
+      "summary": "More Bounce to the Ounce",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
+      "published_at": "2026-07-17T13:32:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "68",
+      "item_id": "hn:48947201",
+      "summary_type": "extractive",
+      "title_zh": "More Bounce to the Ounce",
+      "summary_zh": "More Bounce to the Ounce"
+    },
     {
       "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
       "summary": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
@@ -19,38 +259,6 @@
       "summary_zh": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud"
     },
     {
-      "title": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
-      "summary": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/",
-      "published_at": "2026-07-17T13:02:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "14",
-      "item_id": "hn:48946895",
-      "summary_type": "extractive",
-      "title_zh": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
-      "summary_zh": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology"
-    },
-    {
-      "title": "Minikotlin",
-      "summary": "Minikotlin",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://minikotlin.run",
-      "published_at": "2026-07-17T12:50:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "40",
-      "item_id": "hn:48946783",
-      "summary_type": "extractive",
-      "title_zh": "Minikotlin",
-      "summary_zh": "Minikotlin"
-    },
-    {
       "title": "VulnHunter: Capital One's agentic AI code security tool",
       "summary": "VulnHunter: Capital One's agentic AI code security tool",
       "full_text": "",
@@ -58,78 +266,30 @@
       "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
       "published_at": "2026-07-17T12:42:12+00:00",
       "tags": [
-        "agent",
-        "tool"
+        "tool",
+        "agent"
       ],
-      "score": "11",
+      "score": "44",
       "item_id": "hn:48946692",
       "summary_type": "extractive",
       "title_zh": "VulnHunter: Capital One's agentic AI code security tool",
       "summary_zh": "VulnHunter: Capital One's agentic AI code security tool"
     },
     {
-      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-      "summary": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-      "full_text": "",
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "summary": "URL already posted: https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;statusI&#x27;ve got an estimated bill for $1.7 BILLION over this month. Normal usage is &lt; $5.Obvs have created an urgent AWS support ticket. Anyone else seeing something like this?Update: Reddit link: https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;aws&#x2F;comments&#x2F;1uyuaw7&#x2F;help_my_bill_s...",
+      "full_text": "URL already posted: https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;statusI&#x27;ve got an estimated bill for $1.7 BILLION over this month. Normal usage is &lt; $5.Obvs have created an urgent AWS support ticket. Anyone else seeing something like this?Update: Reddit link: https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;aws&#x2F;comments&#x2F;1uyuaw7&#x2F;help_my_bill_s...",
       "source": "hacker news",
-      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "published_at": "2026-07-17T11:30:00+00:00",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "published_at": "2026-07-17T09:42:05+00:00",
       "tags": [
         "ai"
       ],
-      "score": "326",
-      "item_id": "hn:48946010",
+      "score": "776",
+      "item_id": "hn:48945241",
       "summary_type": "extractive",
-      "title_zh": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-      "summary_zh": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize"
-    },
-    {
-      "title": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
-      "summary": "I receive an AWS Budgets alert that my budget is exceeding the alert threshold. Threshold is 5$. Forecasted amount is listed as $3,005,575,870.47.",
-      "full_text": "I receive an AWS Budgets alert that my budget is exceeding the alert threshold. Threshold is 5$. Forecasted amount is listed as $3,005,575,870.47. (Yepp, right, that’s 3 billion dollars.) I haven&#x27;t even used AWS actively in the last year, but AWS console lists the amount as stated above. No feedback from AWS support yet, but the support AI chat bot says: &quot;Die perfekt gleichmäßigen Tageskosten seit dem 1. Juli deuten stark auf einen Abrechnungs- oder Messfehler hin.&quot; (&quot;The per",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=48945681",
-      "published_at": "2026-07-17T10:45:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "125",
-      "item_id": "hn:48945681",
-      "summary_type": "extractive",
-      "title_zh": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
-      "summary_zh": "I receive an AWS Budgets alert that my budget is exceeding the alert threshold. Threshold is 5$. Forecasted amount is listed as $3,005,575,870.47."
-    },
-    {
-      "title": "I Owe My Life to the Commodore 64",
-      "summary": "I Owe My Life to the Commodore 64",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
-      "published_at": "2026-07-17T09:44:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "62",
-      "item_id": "hn:48945260",
-      "summary_type": "extractive",
-      "title_zh": "I Owe My Life to the Commodore 64",
-      "summary_zh": "I Owe My Life to the Commodore 64"
-    },
-    {
-      "title": "Pushinka",
-      "summary": "Pushinka",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://en.wikipedia.org/wiki/Pushinka",
-      "published_at": "2026-07-17T07:29:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "32",
-      "item_id": "hn:48944333",
-      "summary_type": "extractive",
-      "title_zh": "Pushinka",
-      "summary_zh": "Pushinka"
+      "title_zh": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "summary_zh": "URL already posted: https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;statusI&#x27;ve got an estimated bill for $1.7 BILLION over this month. Normal usage is &lt; $5.Obvs have created an urgent AWS support ticket. Anyone else seeing something like this?Update: Reddit link: https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;aws&#x2F;comments&#x2F;1uyuaw7&#x2F;help_my_bill_s..."
     },
     {
       "title": "EEG shows brain can simultaneous encode two speech streams",
@@ -141,7 +301,7 @@
       "tags": [
         "ai"
       ],
-      "score": "172",
+      "score": "232",
       "item_id": "hn:48943745",
       "summary_type": "extractive",
       "title_zh": "EEG shows brain can simultaneous encode two speech streams",
@@ -157,7 +317,7 @@
       "tags": [
         "ai"
       ],
-      "score": "176",
+      "score": "236",
       "item_id": "hn:48943174",
       "summary_type": "extractive",
       "title_zh": "Pebble Mega Update – July 2026",
@@ -173,76 +333,11 @@
       "tags": [
         "ai"
       ],
-      "score": "184",
+      "score": "248",
       "item_id": "hn:48943142",
       "summary_type": "extractive",
       "title_zh": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
       "summary_zh": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues"
-    },
-    {
-      "title": "The Little Book of Reinforcement Learning",
-      "summary": "The Little Book of Reinforcement Learning",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/alxndrTL/little-book-rl/",
-      "published_at": "2026-07-16T22:27:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "180",
-      "item_id": "hn:48941104",
-      "summary_type": "extractive",
-      "title_zh": "The Little Book of Reinforcement Learning",
-      "summary_zh": "The Little Book of Reinforcement Learning"
-    },
-    {
-      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
-      "summary": "'Likweli': A new monkey species discovered in the Congo Basin",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
-      "published_at": "2026-07-16T22:00:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "100",
-      "item_id": "hn:48940833",
-      "summary_type": "extractive",
-      "title_zh": "'Likweli': A new monkey species discovered in the Congo Basin",
-      "summary_zh": "'Likweli': A new monkey species discovered in the Congo Basin"
-    },
-    {
-      "title": "Mathematics of Data Science",
-      "summary": "Mathematics of Data Science",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arxiv.org/abs/2607.11938",
-      "published_at": "2026-07-16T20:38:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "184",
-      "item_id": "hn:48939896",
-      "summary_type": "extractive",
-      "title_zh": "Mathematics of Data Science",
-      "summary_zh": "Mathematics of Data Science"
-    },
-    {
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "summary": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "published_at": "2026-07-16T20:03:23+00:00",
-      "tags": [
-        "vision",
-        "llm"
-      ],
-      "score": "321",
-      "item_id": "hn:48939524",
-      "summary_type": "extractive",
-      "title_zh": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "summary_zh": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol"
     },
     {
       "title": "RoboTTT: Context Scaling for Robot Policies",
@@ -252,10 +347,10 @@
       "url": "http://arxiv.org/abs/2607.15275v1",
       "published_at": "2026-07-16T17:59:06Z",
       "tags": [
-        "vision",
-        "paper",
+        "tool",
         "llm",
-        "tool"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15275v1",
@@ -288,9 +383,9 @@
       "url": "http://arxiv.org/abs/2607.15267v1",
       "published_at": "2026-07-16T17:56:05Z",
       "tags": [
+        "llm",
         "vision",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15267v1",
@@ -306,9 +401,9 @@
       "url": "http://arxiv.org/abs/2607.15265v1",
       "published_at": "2026-07-16T17:55:15Z",
       "tags": [
+        "tool",
         "vision",
-        "paper",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15265v1",
@@ -324,9 +419,9 @@
       "url": "http://arxiv.org/abs/2607.15263v1",
       "published_at": "2026-07-16T17:54:47Z",
       "tags": [
-        "agent",
+        "tool",
         "paper",
-        "tool"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15263v1",
@@ -342,10 +437,10 @@
       "url": "http://arxiv.org/abs/2607.15257v1",
       "published_at": "2026-07-16T17:51:23Z",
       "tags": [
-        "paper",
-        "agent",
+        "tool",
         "llm",
-        "tool"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15257v1",
@@ -361,9 +456,9 @@
       "url": "http://arxiv.org/abs/2607.15254v1",
       "published_at": "2026-07-16T17:49:28Z",
       "tags": [
+        "llm",
         "vision",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15254v1",
@@ -379,8 +474,8 @@
       "url": "http://arxiv.org/abs/2607.15247v1",
       "published_at": "2026-07-16T17:45:27Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15247v1",
@@ -396,9 +491,9 @@
       "url": "http://arxiv.org/abs/2607.15232v1",
       "published_at": "2026-07-16T17:32:38Z",
       "tags": [
-        "paper",
+        "tool",
         "llm",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15232v1",
@@ -414,31 +509,15 @@
       "url": "http://arxiv.org/abs/2607.15218v1",
       "published_at": "2026-07-16T17:20:38Z",
       "tags": [
+        "llm",
         "paper",
-        "agent",
-        "llm"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15218v1",
       "summary_type": "extractive",
       "title_zh": "When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space",
       "summary_zh": "Large language models (LLMs) increasingly serve as high-level planners for embodied agents, where linguistically benign instructions can become unsafe once grounded in the physical world. We study whether this physically grounded danger is the same safety problem as ordinary text-level content danger. Through hidden-state direction analysis and random-split null tests, we show that content danger (CD) and physical danger (PD) form separable signals in LLM representations across Qwen2.5-3B/7B/14B"
-    },
-    {
-      "title": "CD sales growth outpaced vinyl in the first half of 2026",
-      "summary": "CD sales growth outpaced vinyl in the first half of 2026",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
-      "published_at": "2026-07-16T17:19:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "145",
-      "item_id": "hn:48937398",
-      "summary_type": "extractive",
-      "title_zh": "CD sales growth outpaced vinyl in the first half of 2026",
-      "summary_zh": "CD sales growth outpaced vinyl in the first half of 2026"
     },
     {
       "title": "Symbal: Detecting Systematic Misalignments in Model-Generated Captions",
@@ -448,9 +527,9 @@
       "url": "http://arxiv.org/abs/2607.15216v1",
       "published_at": "2026-07-16T17:18:37Z",
       "tags": [
+        "llm",
         "vision",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15216v1",
@@ -483,9 +562,9 @@
       "url": "http://arxiv.org/abs/2607.15202v1",
       "published_at": "2026-07-16T16:59:54Z",
       "tags": [
+        "tool",
         "vision",
-        "paper",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15202v1",
@@ -501,9 +580,9 @@
       "url": "http://arxiv.org/abs/2607.15200v1",
       "published_at": "2026-07-16T16:57:34Z",
       "tags": [
+        "llm",
         "vision",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15200v1",
@@ -519,8 +598,8 @@
       "url": "http://arxiv.org/abs/2607.15196v1",
       "published_at": "2026-07-16T16:52:54Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15196v1",
@@ -536,8 +615,8 @@
       "url": "http://arxiv.org/abs/2607.15193v1",
       "published_at": "2026-07-16T16:48:39Z",
       "tags": [
-        "paper",
         "vision",
+        "paper",
         "agent"
       ],
       "score": "📄",
@@ -554,8 +633,8 @@
       "url": "http://arxiv.org/abs/2607.15190v1",
       "published_at": "2026-07-16T16:44:40Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15190v1",
@@ -571,8 +650,8 @@
       "url": "http://arxiv.org/abs/2607.15178v1",
       "published_at": "2026-07-16T16:33:59Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15178v1",
@@ -588,9 +667,9 @@
       "url": "http://arxiv.org/abs/2607.15176v1",
       "published_at": "2026-07-16T16:29:34Z",
       "tags": [
+        "llm",
         "vision",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.15176v1",
@@ -608,7 +687,7 @@
       "tags": [
         "ai"
       ],
-      "score": "619",
+      "score": "672",
       "item_id": "hn:48936584",
       "summary_type": "extractive",
       "title_zh": "Decoy Font",
@@ -631,54 +710,6 @@
       "summary_zh": "Most medical AI benchmarks measure whether a model knows the correct answer. MedFailBench asks a different question: which safety boundary failed? We present a clinician-built synthetic benchmark and failure atlas that labels medical AI errors by severity (1--5) and safety gate type (missed urgent escalation, unsafe remote dosing, unsafe discharge reassurance, evidence fabrication, unsafe protocol execution, source support gap)."
     },
     {
-      "title": "Microsoft Comic Chat is now open source",
-      "summary": "Microsoft Comic Chat is now open source",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "published_at": "2026-07-16T16:06:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "738",
-      "item_id": "hn:48936426",
-      "summary_type": "extractive",
-      "title_zh": "Microsoft Comic Chat is now open source",
-      "summary_zh": "Microsoft Comic Chat is now open source"
-    },
-    {
-      "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
-      "summary": "Immersive Linear Algebra Book with Interactive Figures (2015)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://immersivemath.com/ila/",
-      "published_at": "2026-07-16T15:32:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "255",
-      "item_id": "hn:48935951",
-      "summary_type": "extractive",
-      "title_zh": "Immersive Linear Algebra Book with Interactive Figures (2015)",
-      "summary_zh": "Immersive Linear Algebra Book with Interactive Figures (2015)"
-    },
-    {
-      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "summary": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-      "published_at": "2026-07-16T15:13:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "150",
-      "item_id": "hn:48935687",
-      "summary_type": "extractive",
-      "title_zh": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "summary_zh": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM"
-    },
-    {
       "title": "Kimi K3: Open Frontier Intelligence",
       "summary": "https:&#x2F;&#x2F;www.kimi.com&#x2F;enKimi K3 Intelligence, Performance &amp; Price Analysis: https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3",
       "full_text": "https:&#x2F;&#x2F;www.kimi.com&#x2F;enKimi K3 Intelligence, Performance &amp; Price Analysis: https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3",
@@ -688,139 +719,107 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.8k",
+      "score": "🔥 1.9k",
       "item_id": "hn:48935342",
       "summary_type": "extractive",
       "title_zh": "Kimi K3: Open Frontier Intelligence",
       "summary_zh": "https:&#x2F;&#x2F;www.kimi.com&#x2F;enKimi K3 Intelligence, Performance &amp; Price Analysis: https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3"
     },
     {
-      "title": "After wearing the Pebble Time 2 for two weeks, I'll never buy another smartwatch",
-      "summary": "After wearing the Pebble Time 2 for two weeks, I'll never buy another smartwatch",
+      "title": "MoonBASIC: A modern BASIC for building 2D and 3D games",
+      "summary": "MoonBASIC: A modern BASIC for building 2D and 3D games",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.androidauthority.com/pebble-time-2-smartwatch-hands-on-3680077/",
-      "published_at": "2026-07-14T21:06:43+00:00",
+      "url": "https://github.com/CharmingBlaze/moonbasic",
+      "published_at": "2026-07-14T17:53:06+00:00",
       "tags": [
         "ai"
       ],
-      "score": "41",
-      "item_id": "hn:48912957",
+      "score": "6",
+      "item_id": "hn:48910579",
       "summary_type": "extractive",
-      "title_zh": "After wearing the Pebble Time 2 for two weeks, I'll never buy another smartwatch",
-      "summary_zh": "After wearing the Pebble Time 2 for two weeks, I'll never buy another smartwatch"
+      "title_zh": "MoonBASIC: A modern BASIC for building 2D and 3D games",
+      "summary_zh": "MoonBASIC: A modern BASIC for building 2D and 3D games"
     },
     {
-      "title": "Turn your singing voice into printable notes (in the browser)",
-      "summary": "Turn your singing voice into printable notes (in the browser)",
+      "title": "Show HN: Simulator for a custom 8-bit discreet logic computer",
+      "summary": "5 years ago, I made a derivative of SAP-1 (mainly inspired by Ben Eater) on breadboard with few improvement and called it MSAP-1 (https:&#x2F;&#x2F;github.com&#x2F;mehrantsi&#x2F;MSAP-1) I made my own very primitive Assembly language and a simple Arduino programmer (https:&#x2F;&#x2F;github.com&#x2F;mehrantsi&#x2F;8-bit_CPU_Programmer) where I could load my programs onto MSAP-1 and even Debug them (https:&#x2F;&#x2F;github.com&#x2F;mehrantsi&#x2F;8-bit_CPU_Debugger).After that I started worked o",
+      "full_text": "5 years ago, I made a derivative of SAP-1 (mainly inspired by Ben Eater) on breadboard with few improvement and called it MSAP-1 (https:&#x2F;&#x2F;github.com&#x2F;mehrantsi&#x2F;MSAP-1) I made my own very primitive Assembly language and a simple Arduino programmer (https:&#x2F;&#x2F;github.com&#x2F;mehrantsi&#x2F;8-bit_CPU_Programmer) where I could load my programs onto MSAP-1 and even Debug them (https:&#x2F;&#x2F;github.com&#x2F;mehrantsi&#x2F;8-bit_CPU_Debugger).After that I started worked o",
+      "source": "hacker news",
+      "url": "https://msap2.mehran.dk",
+      "published_at": "2026-07-14T15:50:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "13",
+      "item_id": "hn:48908691",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Simulator for a custom 8-bit discreet logic computer",
+      "summary_zh": "5 years ago, I made a derivative of SAP-1 (mainly inspired by Ben Eater) on breadboard with few improvement and called it MSAP-1 (https:&#x2F;&#x2F;github.com&#x2F;mehrantsi&#x2F;MSAP-1) I made my own very primitive Assembly language and a simple Arduino programmer (https:&#x2F;&#x2F;github.com&#x2F;mehrantsi&#x2F;8-bit_CPU_Programmer) where I could load my programs onto MSAP-1 and even Debug them (https:&#x2F;&#x2F;github.com&#x2F;mehrantsi&#x2F;8-bit_CPU_Debugger).After that I started worked o"
+    },
+    {
+      "title": "Tannakian Reconstruction",
+      "summary": "Tannakian Reconstruction",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html",
-      "published_at": "2026-07-14T00:10:36+00:00",
+      "url": "https://bartoszmilewski.com/2026/07/14/tannakian-reconstruction/",
+      "published_at": "2026-07-14T14:15:51+00:00",
       "tags": [
         "ai"
       ],
-      "score": "55",
-      "item_id": "hn:48900686",
+      "score": "24",
+      "item_id": "hn:48907263",
       "summary_type": "extractive",
-      "title_zh": "Turn your singing voice into printable notes (in the browser)",
-      "summary_zh": "Turn your singing voice into printable notes (in the browser)"
+      "title_zh": "Tannakian Reconstruction",
+      "summary_zh": "Tannakian Reconstruction"
     },
     {
-      "title": "Solod: Go can be a better C",
-      "summary": "Solod: Go can be a better C",
+      "title": "Latent Space as a New Medium",
+      "summary": "Latent Space as a New Medium",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://solod.dev",
-      "published_at": "2026-07-13T16:38:21+00:00",
+      "url": "https://kevinkelly.substack.com/p/latent-space-as-a-new-medium",
+      "published_at": "2026-07-13T18:12:09+00:00",
       "tags": [
         "ai"
       ],
-      "score": "173",
-      "item_id": "hn:48895199",
+      "score": "54",
+      "item_id": "hn:48896513",
       "summary_type": "extractive",
-      "title_zh": "Solod: Go can be a better C",
-      "summary_zh": "Solod: Go can be a better C"
+      "title_zh": "Latent Space as a New Medium",
+      "summary_zh": "Latent Space as a New Medium"
     },
     {
-      "title": "In Praise of Exhaustive Destructuring",
-      "summary": "In Praise of Exhaustive Destructuring",
+      "title": "Frank Lloyd Wright's First Home",
+      "summary": "Frank Lloyd Wright's First Home",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
-      "published_at": "2026-07-12T08:58:15+00:00",
+      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
+      "published_at": "2026-07-13T02:23:19+00:00",
       "tags": [
         "ai"
       ],
-      "score": "36",
-      "item_id": "hn:48879529",
+      "score": "34",
+      "item_id": "hn:48887102",
       "summary_type": "extractive",
-      "title_zh": "In Praise of Exhaustive Destructuring",
-      "summary_zh": "In Praise of Exhaustive Destructuring"
+      "title_zh": "Frank Lloyd Wright's First Home",
+      "summary_zh": "Frank Lloyd Wright's First Home"
     },
     {
-      "title": "Old Icons",
-      "summary": "Old Icons",
+      "title": "Faster binary search: from compiled code to mechanical sympathy",
+      "summary": "Faster binary search: from compiled code to mechanical sympathy",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://leancrew.com/all-this/2026/07/old-icons/",
-      "published_at": "2026-07-12T00:24:24+00:00",
+      "url": "https://pythonspeed.com/articles/branchless-binary-search/",
+      "published_at": "2026-07-12T07:00:24+00:00",
       "tags": [
         "ai"
       ],
-      "score": "81",
-      "item_id": "hn:48877137",
+      "score": "43",
+      "item_id": "hn:48878996",
       "summary_type": "extractive",
-      "title_zh": "Old Icons",
-      "summary_zh": "Old Icons"
-    },
-    {
-      "title": "Starlink from 1984",
-      "summary": "Starlink from 1984",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nemanjatrifunovic.substack.com/p/starlink-from-1984",
-      "published_at": "2026-07-11T23:26:32+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "59",
-      "item_id": "hn:48876811",
-      "summary_type": "extractive",
-      "title_zh": "Starlink from 1984",
-      "summary_zh": "Starlink from 1984"
-    },
-    {
-      "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
-      "summary": "Hi HN,clx is an ahead-of-time compiler for standard Lua that generates C++20 and produces standalone native executables through GCC, Clang or MSVC.The project started as an experiment to see whether modern C++ could be used as a portable compiler backend instead of LLVM or direct machine code generation. The generated code is then compiled and optimized by the host toolchain.The latest release replaces the previous NaN-tagged value representation with a new shadow-types implementation, adds full",
-      "full_text": "Hi HN,clx is an ahead-of-time compiler for standard Lua that generates C++20 and produces standalone native executables through GCC, Clang or MSVC.The project started as an experiment to see whether modern C++ could be used as a portable compiler backend instead of LLVM or direct machine code generation. The generated code is then compiled and optimized by the host toolchain.The latest release replaces the previous NaN-tagged value representation with a new shadow-types implementation, adds full",
-      "source": "hacker news",
-      "url": "https://github.com/samyeyo/clx",
-      "published_at": "2026-07-11T12:40:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "128",
-      "item_id": "hn:48871547",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
-      "summary_zh": "Hi HN,clx is an ahead-of-time compiler for standard Lua that generates C++20 and produces standalone native executables through GCC, Clang or MSVC.The project started as an experiment to see whether modern C++ could be used as a portable compiler backend instead of LLVM or direct machine code generation. The generated code is then compiled and optimized by the host toolchain.The latest release replaces the previous NaN-tagged value representation with a new shadow-types implementation, adds full"
-    },
-    {
-      "title": "An Engineer's Guide to USB Typе-С (2024)",
-      "summary": "An Engineer's Guide to USB Typе-С (2024)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
-      "published_at": "2026-07-10T16:31:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "225",
-      "item_id": "hn:48862165",
-      "summary_type": "extractive",
-      "title_zh": "An Engineer's Guide to USB Typе-С (2024)",
-      "summary_zh": "An Engineer's Guide to USB Typе-С (2024)"
+      "title_zh": "Faster binary search: from compiled code to mechanical sympathy",
+      "summary_zh": "Faster binary search: from compiled code to mechanical sympathy"
     },
     {
       "title": "Camera Chase Vehicle",
@@ -832,7 +831,7 @@
       "tags": [
         "ai"
       ],
-      "score": "66",
+      "score": "162",
       "item_id": "hn:48854988",
       "summary_type": "extractive",
       "title_zh": "Camera Chase Vehicle",

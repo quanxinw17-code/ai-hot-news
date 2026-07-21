@@ -1,22 +1,38 @@
 {
-  "updated_at": "2026-07-21T08:40:10.873410+00:00",
+  "updated_at": "2026-07-21T14:11:12.583824+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Linux kernel will support $ORIGIN, sort of",
-      "summary": "Linux kernel will support $ORIGIN, sort of",
+      "title": "New US homeownership measure puts people first",
+      "summary": "New US homeownership measure puts people first",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-      "published_at": "2026-07-21T06:29:22+00:00",
+      "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
+      "published_at": "2026-07-21T12:03:14+00:00",
       "tags": [
         "ai"
       ],
-      "score": "25",
-      "item_id": "hn:48988793",
+      "score": "126",
+      "item_id": "hn:48991139",
       "summary_type": "extractive",
-      "title_zh": "Linux kernel will support $ORIGIN, sort of",
-      "summary_zh": "Linux kernel will support $ORIGIN, sort of"
+      "title_zh": "New US homeownership measure puts people first",
+      "summary_zh": "New US homeownership measure puts people first"
+    },
+    {
+      "title": "Israeli spyware vans infiltrate American streets and your phones",
+      "summary": "Israeli spyware vans infiltrate American streets and your phones",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://cybernews.com/privacy/us-police-israeli-spy-vans-falconet-cognyte/",
+      "published_at": "2026-07-21T11:34:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:48990886",
+      "summary_type": "extractive",
+      "title_zh": "Israeli spyware vans infiltrate American streets and your phones",
+      "summary_zh": "Israeli spyware vans infiltrate American streets and your phones"
     },
     {
       "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
@@ -28,27 +44,11 @@
       "tags": [
         "ai"
       ],
-      "score": "28",
+      "score": "45",
       "item_id": "hn:48988158",
       "summary_type": "extractive",
       "title_zh": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
       "summary_zh": "Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs&#x2F;hyperlinks from their origin site to institutional location&#x2F;sources. The Index specifically looks at western&#x2F;euro-american institutions and maps their collection categorised by them under Islamic art, Asian&#x2F;African art, ethnological collections, Middle East, South America etc.Started as my MA thesis in 2022, kept building since, mostly solo with a little funding. Fully open source, self"
-    },
-    {
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "summary": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-      "published_at": "2026-07-21T03:56:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "256",
-      "item_id": "hn:48987863",
-      "summary_type": "extractive",
-      "title_zh": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "summary_zh": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding"
     },
     {
       "title": "Running Doom on Our Custom CPU and Going Viral",
@@ -60,7 +60,7 @@
       "tags": [
         "ai"
       ],
-      "score": "57",
+      "score": "102",
       "item_id": "hn:48987846",
       "summary_type": "extractive",
       "title_zh": "Running Doom on Our Custom CPU and Going Viral",
@@ -76,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "32",
+      "score": "53",
       "item_id": "hn:48987831",
       "summary_type": "extractive",
       "title_zh": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
@@ -92,43 +92,11 @@
       "tags": [
         "ai"
       ],
-      "score": "17",
+      "score": "76",
       "item_id": "hn:48987775",
       "summary_type": "extractive",
       "title_zh": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
       "summary_zh": "VTubing: How a Japanese Phenomenon Is Going Worldwide"
-    },
-    {
-      "title": "A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm",
-      "summary": "A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/Qbix/webserver/blob/main/README.md",
-      "published_at": "2026-07-21T02:25:36+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "25",
-      "item_id": "hn:48987347",
-      "summary_type": "extractive",
-      "title_zh": "A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm",
-      "summary_zh": "A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm"
-    },
-    {
-      "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-      "summary": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-      "published_at": "2026-07-21T00:33:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "380",
-      "item_id": "hn:48986731",
-      "summary_type": "extractive",
-      "title_zh": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-      "summary_zh": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public"
     },
     {
       "title": "Jellyfin founder Andrew leaves team",
@@ -140,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "235",
+      "score": "314",
       "item_id": "hn:48986091",
       "summary_type": "extractive",
       "title_zh": "Jellyfin founder Andrew leaves team",
@@ -156,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "121",
+      "score": "167",
       "item_id": "hn:48984270",
       "summary_type": "extractive",
       "title_zh": "I wrote an bash enumerator because I was sick of xargs",
@@ -172,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "157",
+      "score": "219",
       "item_id": "hn:48984254",
       "summary_type": "extractive",
       "title_zh": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
@@ -188,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "327",
+      "score": "408",
       "item_id": "hn:48983382",
       "summary_type": "extractive",
       "title_zh": "Human mathematicians are being outcounterexampled",
@@ -204,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "267",
+      "score": "321",
       "item_id": "hn:48982681",
       "summary_type": "extractive",
       "title_zh": "Nativ: Run frontier open models locally on your Mac",
@@ -235,8 +203,8 @@
       "url": "http://arxiv.org/abs/2607.18230v1",
       "published_at": "2026-07-20T17:58:13Z",
       "tags": [
-        "llm",
         "paper",
+        "llm",
         "vision"
       ],
       "score": "📄",
@@ -269,8 +237,8 @@
       "url": "http://arxiv.org/abs/2607.18218v1",
       "published_at": "2026-07-20T17:52:33Z",
       "tags": [
-        "llm",
         "paper",
+        "llm",
         "vision"
       ],
       "score": "📄",
@@ -306,7 +274,7 @@
       "tags": [
         "ai"
       ],
-      "score": "526",
+      "score": "620",
       "item_id": "hn:48981703",
       "summary_type": "extractive",
       "title_zh": "Kimi Work",
@@ -337,8 +305,8 @@
       "url": "http://arxiv.org/abs/2607.18163v1",
       "published_at": "2026-07-20T17:07:40Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.18163v1",
@@ -356,7 +324,7 @@
       "tags": [
         "ai"
       ],
-      "score": "471",
+      "score": "582",
       "item_id": "hn:48981620",
       "summary_type": "extractive",
       "title_zh": "Jelly UI: Soft-body physics for native HTML form controls",
@@ -403,10 +371,10 @@
       "url": "http://arxiv.org/abs/2607.18147v1",
       "published_at": "2026-07-20T16:45:13Z",
       "tags": [
-        "llm",
         "tool",
         "agent",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.18147v1",
@@ -422,9 +390,9 @@
       "url": "http://arxiv.org/abs/2607.18144v1",
       "published_at": "2026-07-20T16:43:54Z",
       "tags": [
-        "llm",
         "tool",
         "paper",
+        "llm",
         "vision"
       ],
       "score": "📄",
@@ -460,7 +428,7 @@
       "tags": [
         "ai"
       ],
-      "score": "85",
+      "score": "93",
       "item_id": "hn:48981136",
       "summary_type": "extractive",
       "title_zh": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
@@ -474,11 +442,11 @@
       "url": "http://arxiv.org/abs/2607.18116v1",
       "published_at": "2026-07-20T16:11:19Z",
       "tags": [
-        "vision",
-        "agent",
+        "tool",
         "paper",
+        "agent",
         "llm",
-        "tool"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.18116v1",
@@ -494,8 +462,8 @@
       "url": "http://arxiv.org/abs/2607.18114v1",
       "published_at": "2026-07-20T16:10:06Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.18114v1",
@@ -511,9 +479,9 @@
       "url": "http://arxiv.org/abs/2607.18100v1",
       "published_at": "2026-07-20T16:01:57Z",
       "tags": [
-        "llm",
         "tool",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.18100v1",
@@ -529,8 +497,8 @@
       "url": "http://arxiv.org/abs/2607.18086v1",
       "published_at": "2026-07-20T15:53:02Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.18086v1",
@@ -546,9 +514,9 @@
       "url": "http://arxiv.org/abs/2607.18084v1",
       "published_at": "2026-07-20T15:52:48Z",
       "tags": [
-        "llm",
         "agent",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.18084v1",
@@ -564,9 +532,9 @@
       "url": "http://arxiv.org/abs/2607.18082v1",
       "published_at": "2026-07-20T15:50:02Z",
       "tags": [
-        "llm",
         "tool",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.18082v1",
@@ -582,9 +550,9 @@
       "url": "http://arxiv.org/abs/2607.18081v1",
       "published_at": "2026-07-20T15:48:33Z",
       "tags": [
-        "llm",
         "tool",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.18081v1",
@@ -600,8 +568,8 @@
       "url": "http://arxiv.org/abs/2607.18080v1",
       "published_at": "2026-07-20T15:48:31Z",
       "tags": [
-        "paper",
         "agent",
+        "paper",
         "vision"
       ],
       "score": "📄",
@@ -611,20 +579,20 @@
       "summary_zh": "Multimodal video misinformation detection is commonly formulated as a holistic video-understanding task, where the entire video and its associated content are processed and judged in a single pass. However, real-world misinformation often exhibits a sparse and compositional evidence structure: a reliable decision may depend on only a few coupled clues, while most video content contributes limited additional information. Exhaustive multimodal reasoning may therefore introduce substantial redundan"
     },
     {
-      "title": "The Voice of Google",
-      "summary": "The Voice of Google",
+      "title": "I Stopped “Creating Content”",
+      "summary": "I Stopped “Creating Content”",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
-      "published_at": "2026-07-20T15:15:36+00:00",
+      "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+      "published_at": "2026-07-20T15:47:28+00:00",
       "tags": [
         "ai"
       ],
-      "score": "204",
-      "item_id": "hn:48980053",
+      "score": "233",
+      "item_id": "hn:48980520",
       "summary_type": "extractive",
-      "title_zh": "The Voice of Google",
-      "summary_zh": "The Voice of Google"
+      "title_zh": "I Stopped “Creating Content”",
+      "summary_zh": "I Stopped “Creating Content”"
     },
     {
       "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
@@ -636,7 +604,7 @@
       "tags": [
         "ai"
       ],
-      "score": "166",
+      "score": "185",
       "item_id": "hn:48979931",
       "summary_type": "extractive",
       "title_zh": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
@@ -652,7 +620,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.0k",
+      "score": "🔥 1.1k",
       "item_id": "hn:48979269",
       "summary_type": "extractive",
       "title_zh": "China’s open-weights AI strategy is winning",
@@ -668,7 +636,7 @@
       "tags": [
         "ai"
       ],
-      "score": "238",
+      "score": "263",
       "item_id": "hn:48979120",
       "summary_type": "extractive",
       "title_zh": "Perfection is not over-engineering",
@@ -684,7 +652,7 @@
       "tags": [
         "ai"
       ],
-      "score": "212",
+      "score": "260",
       "item_id": "hn:48978792",
       "summary_type": "extractive",
       "title_zh": "Shinjuku Station in 3D",
@@ -700,7 +668,7 @@
       "tags": [
         "ai"
       ],
-      "score": "637",
+      "score": "677",
       "item_id": "hn:48978605",
       "summary_type": "extractive",
       "title_zh": "Hacker wipes Romania's land registry database",
@@ -716,7 +684,7 @@
       "tags": [
         "ai"
       ],
-      "score": "600",
+      "score": "793",
       "item_id": "hn:48977128",
       "summary_type": "extractive",
       "title_zh": "Who's afraid of Chinese models?",
@@ -732,11 +700,43 @@
       "tags": [
         "ai"
       ],
-      "score": "477",
+      "score": "496",
       "item_id": "hn:48974454",
       "summary_type": "extractive",
       "title_zh": "Xiaomi-Robotics-1",
       "summary_zh": "Xiaomi-Robotics-1"
+    },
+    {
+      "title": "Motion Sensors and Home Security Gadgets Without Cameras",
+      "summary": "Motion Sensors and Home Security Gadgets Without Cameras",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
+      "published_at": "2026-07-19T07:02:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:48965622",
+      "summary_type": "extractive",
+      "title_zh": "Motion Sensors and Home Security Gadgets Without Cameras",
+      "summary_zh": "Motion Sensors and Home Security Gadgets Without Cameras"
+    },
+    {
+      "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
+      "summary": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
+      "published_at": "2026-07-18T02:37:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "56",
+      "item_id": "hn:48954668",
+      "summary_type": "extractive",
+      "title_zh": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
+      "summary_zh": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects"
     },
     {
       "title": "85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core",
@@ -748,7 +748,7 @@
       "tags": [
         "ai"
       ],
-      "score": "78",
+      "score": "82",
       "item_id": "hn:48947739",
       "summary_type": "extractive",
       "title_zh": "85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core",
@@ -764,11 +764,27 @@
       "tags": [
         "ai"
       ],
-      "score": "86",
+      "score": "138",
       "item_id": "hn:48923130",
       "summary_type": "extractive",
       "title_zh": "The Psychology of Software Teams",
       "summary_zh": "The Psychology of Software Teams"
+    },
+    {
+      "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
+      "summary": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
+      "published_at": "2026-07-15T09:07:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "64",
+      "item_id": "hn:48918140",
+      "summary_type": "extractive",
+      "title_zh": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
+      "summary_zh": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog"
     },
     {
       "title": "You only need the frontier model for one single edit",
@@ -780,7 +796,7 @@
       "tags": [
         "ai"
       ],
-      "score": "132",
+      "score": "199",
       "item_id": "hn:48916512",
       "summary_type": "extractive",
       "title_zh": "You only need the frontier model for one single edit",
@@ -796,27 +812,11 @@
       "tags": [
         "ai"
       ],
-      "score": "6",
+      "score": "57",
       "item_id": "hn:48912812",
       "summary_type": "extractive",
       "title_zh": "How to pack ternary numbers in 8-bit bytes",
       "summary_zh": "How to pack ternary numbers in 8-bit bytes"
-    },
-    {
-      "title": "Tensor Notation in Mathup",
-      "summary": "Tensor Notation in Mathup",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://mathup.xyz/#tensors",
-      "published_at": "2026-07-14T16:57:52+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:48909784",
-      "summary_type": "extractive",
-      "title_zh": "Tensor Notation in Mathup",
-      "summary_zh": "Tensor Notation in Mathup"
     },
     {
       "title": "My two year old taught me constraint solving",
@@ -828,7 +828,7 @@
       "tags": [
         "ai"
       ],
-      "score": "71",
+      "score": "88",
       "item_id": "hn:48864176",
       "summary_type": "extractive",
       "title_zh": "My two year old taught me constraint solving",

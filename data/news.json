@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-07-23T03:35:06.075830+00:00",
-  "count": 30,
+  "updated_at": "2026-07-23T08:41:09.217038+00:00",
+  "count": 50,
   "items": [
+    {
+      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "summary": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+      "published_at": "2026-07-23T05:40:20+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "32",
+      "item_id": "hn:49017344",
+      "summary_type": "extractive",
+      "title_zh": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "summary_zh": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16"
+    },
+    {
+      "title": "Amiga 1000: Ten years ahead of its time",
+      "summary": "Amiga 1000: Ten years ahead of its time",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+      "published_at": "2026-07-23T05:24:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "57",
+      "item_id": "hn:49017265",
+      "summary_type": "extractive",
+      "title_zh": "Amiga 1000: Ten years ahead of its time",
+      "summary_zh": "Amiga 1000: Ten years ahead of its time"
+    },
     {
       "title": "Restructuring GitHub's bug bounty program",
       "summary": "Restructuring GitHub's bug bounty program",
@@ -12,27 +44,11 @@
       "tags": [
         "ai"
       ],
-      "score": "10",
+      "score": "43",
       "item_id": "hn:49016099",
       "summary_type": "extractive",
       "title_zh": "Restructuring GitHub's bug bounty program",
       "summary_zh": "Restructuring GitHub's bug bounty program"
-    },
-    {
-      "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
-      "summary": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arxiv.org/abs/2607.20386",
-      "published_at": "2026-07-23T01:58:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "4",
-      "item_id": "hn:49015878",
-      "summary_type": "extractive",
-      "title_zh": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
-      "summary_zh": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs"
     },
     {
       "title": "Codeberg Bans Cryptocurrency Projects",
@@ -44,7 +60,7 @@
       "tags": [
         "ai"
       ],
-      "score": "145",
+      "score": "276",
       "item_id": "hn:49015588",
       "summary_type": "extractive",
       "title_zh": "Codeberg Bans Cryptocurrency Projects",
@@ -60,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "88",
+      "score": "115",
       "item_id": "hn:49014007",
       "summary_type": "extractive",
       "title_zh": "Medici family mystery may be solved after more than 400 years",
@@ -76,27 +92,11 @@
       "tags": [
         "ai"
       ],
-      "score": "32",
+      "score": "70",
       "item_id": "hn:49013924",
       "summary_type": "extractive",
       "title_zh": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
       "summary_zh": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized"
-    },
-    {
-      "title": "Men That Don't Fit In (1911)",
-      "summary": "Men That Don't Fit In (1911)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.poetryfoundation.org/poems/58012/the-men-that-dont-fit-in",
-      "published_at": "2026-07-22T21:40:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "35",
-      "item_id": "hn:49013822",
-      "summary_type": "extractive",
-      "title_zh": "Men That Don't Fit In (1911)",
-      "summary_zh": "Men That Don't Fit In (1911)"
     },
     {
       "title": "Malleable Computing, Emacs, and You",
@@ -108,43 +108,11 @@
       "tags": [
         "ai"
       ],
-      "score": "78",
+      "score": "102",
       "item_id": "hn:49013538",
       "summary_type": "extractive",
       "title_zh": "Malleable Computing, Emacs, and You",
       "summary_zh": "Malleable Computing, Emacs, and You"
-    },
-    {
-      "title": "Safari Technology Preview 248 Released",
-      "summary": "Safari Technology Preview 248 Released",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
-      "published_at": "2026-07-22T21:00:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "84",
-      "item_id": "hn:49013356",
-      "summary_type": "extractive",
-      "title_zh": "Safari Technology Preview 248 Released",
-      "summary_zh": "Safari Technology Preview 248 Released"
-    },
-    {
-      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "summary": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-      "published_at": "2026-07-22T20:33:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "303",
-      "item_id": "hn:49013036",
-      "summary_type": "extractive",
-      "title_zh": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "summary_zh": "I Inspected My Take-Home Interview Project. It Was a Whole Operation"
     },
     {
       "title": "Fairphone 6 wide camera experimental Linux support",
@@ -156,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "80",
+      "score": "114",
       "item_id": "hn:49012777",
       "summary_type": "extractive",
       "title_zh": "Fairphone 6 wide camera experimental Linux support",
@@ -172,27 +140,11 @@
       "tags": [
         "ai"
       ],
-      "score": "623",
+      "score": "734",
       "item_id": "hn:49012070",
       "summary_type": "extractive",
       "title_zh": "John C. Dvorak has died",
       "summary_zh": "https:&#x2F;&#x2F;xcancel.com&#x2F;na_announce&#x2F;status&#x2F;2079952538040672302https:&#x2F;&#x2F;www.twit.community&#x2F;t&#x2F;john-c-dvorak-has-passed-away&#x2F;2...https:&#x2F;&#x2F;www.facebook.com&#x2F;aric.mackey&#x2F;posts&#x2F;john-c-dvorak-194..."
-    },
-    {
-      "title": "Clarity didn't work, trying mysterianism (2012)",
-      "summary": "Clarity didn't work, trying mysterianism (2012)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
-      "published_at": "2026-07-22T18:55:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "46",
-      "item_id": "hn:49011687",
-      "summary_type": "extractive",
-      "title_zh": "Clarity didn't work, trying mysterianism (2012)",
-      "summary_zh": "Clarity didn't work, trying mysterianism (2012)"
     },
     {
       "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
@@ -204,15 +156,15 @@
       "tags": [
         "ai"
       ],
-      "score": "86",
+      "score": "129",
       "item_id": "hn:49010782",
       "summary_type": "extractive",
       "title_zh": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
       "summary_zh": "Hey HN, Henry &amp; Roman here from Cactus.A small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B post-trained to know when it&#x27;s wrong. Every response comes with a confidence score between 0 and 1."
     },
     {
-      "title": "Everyone Should Know SIMD",
-      "summary": "Everyone Should Know SIMD",
+      "title": "Everyone should know SIMD",
+      "summary": "Everyone should know SIMD",
       "full_text": "",
       "source": "hacker news",
       "url": "https://mitchellh.com/writing/everyone-should-know-simd",
@@ -220,15 +172,32 @@
       "tags": [
         "ai"
       ],
-      "score": "294",
+      "score": "405",
       "item_id": "hn:49010648",
       "summary_type": "extractive",
-      "title_zh": "Everyone Should Know SIMD",
-      "summary_zh": "Everyone Should Know SIMD"
+      "title_zh": "Everyone should know SIMD",
+      "summary_zh": "Everyone should know SIMD"
     },
     {
-      "title": "Are AI Labs Pelicanmaxxing?",
-      "summary": "Are AI Labs Pelicanmaxxing?",
+      "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
+      "summary": "In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predicate vocabulary, argument structure, and trusted evidence are supplied by a Knowledge Graph (KG), or rule definitions. Classical neuro-symbolic pipelines have a discrete interface between perception and deduction.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20402v1",
+      "published_at": "2026-07-22T17:38:39Z",
+      "tags": [
+        "paper",
+        "ai"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20402v1",
+      "summary_type": "extractive",
+      "title_zh": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
+      "summary_zh": "In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predicate vocabulary, argument structure, and trusted evidence are supplied by a Knowledge Graph (KG), or rule definitions. Classical neuro-symbolic pipelines have a discrete interface between perception and deduction."
+    },
+    {
+      "title": "Are AI labs pelicanmaxxing?",
+      "summary": "Are AI labs pelicanmaxxing?",
       "full_text": "",
       "source": "hacker news",
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
@@ -236,11 +205,133 @@
       "tags": [
         "ai"
       ],
-      "score": "416",
+      "score": "512",
       "item_id": "hn:49010129",
       "summary_type": "extractive",
-      "title_zh": "Are AI Labs Pelicanmaxxing?",
-      "summary_zh": "Are AI Labs Pelicanmaxxing?"
+      "title_zh": "Are AI labs pelicanmaxxing?",
+      "summary_zh": "Are AI labs pelicanmaxxing?"
+    },
+    {
+      "title": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language",
+      "summary": "Optical Character Recognition (OCR) for Persian remains substantially less mature than for Latin-script languages despite Persian being spoken by more than 110 million people across multiple countries. This gap arises from two fundamental challenges: the intrinsic complexity of the Perso-Arabic writing system and the limited availability of large-scale, high-quality annotated datasets. Persian script exhibits obligatory cursive connectivity, context-dependent glyph shaping, extensive ligatures, ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20385v1",
+      "published_at": "2026-07-22T17:13:25Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20385v1",
+      "summary_type": "extractive",
+      "title_zh": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language",
+      "summary_zh": "Optical Character Recognition (OCR) for Persian remains substantially less mature than for Latin-script languages despite Persian being spoken by more than 110 million people across multiple countries. This gap arises from two fundamental challenges: the intrinsic complexity of the Perso-Arabic writing system and the limited availability of large-scale, high-quality annotated datasets. Persian script exhibits obligatory cursive connectivity, context-dependent glyph shaping, extensive ligatures, "
+    },
+    {
+      "title": "FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization",
+      "summary": "Clinical biomarker workflows in translational research settings often rely on spreadsheet-driven tracking, manual quality control (QC) reconciliation, and loosely integrated systems, resulting in limited state visibility, delayed reporting, and increased operational risk. These challenges are particularly pronounced in multi-day assays such as Luminex-based quantification of Fragile X Messenger Ribonucleoprotein (FMRP), where HIPAA-compliant data governance, deterministic workflow progression, a",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20382v1",
+      "published_at": "2026-07-22T17:11:52Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20382v1",
+      "summary_type": "extractive",
+      "title_zh": "FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization",
+      "summary_zh": "Clinical biomarker workflows in translational research settings often rely on spreadsheet-driven tracking, manual quality control (QC) reconciliation, and loosely integrated systems, resulting in limited state visibility, delayed reporting, and increased operational risk. These challenges are particularly pronounced in multi-day assays such as Luminex-based quantification of Fragile X Messenger Ribonucleoprotein (FMRP), where HIPAA-compliant data governance, deterministic workflow progression, a"
+    },
+    {
+      "title": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
+      "summary": "Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping a claim does not change the reconstruction, the claim is never penalized. We show the test is passed in two ways, neither faithful.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20379v1",
+      "published_at": "2026-07-22T17:10:23Z",
+      "tags": [
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20379v1",
+      "summary_type": "extractive",
+      "title_zh": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
+      "summary_zh": "Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping a claim does not change the reconstruction, the claim is never penalized. We show the test is passed in two ways, neither faithful."
+    },
+    {
+      "title": "Generative AI floods and dilutes the market for books",
+      "summary": "Generative AI can produce book-length works of fiction at near-zero cost. These books are often dismissed as low-quality ``slop'' that buyers will ignore, and are assumed to carry little commercial weight. We test that assumption with full-text AI detection across 14,419 self-published genre-fiction books sold on Amazon from 2023 to 2026, matched to daily sales records through June 2026.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20349v1",
+      "published_at": "2026-07-22T16:33:20Z",
+      "tags": [
+        "paper",
+        "ai"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20349v1",
+      "summary_type": "extractive",
+      "title_zh": "Generative AI floods and dilutes the market for books",
+      "summary_zh": "Generative AI can produce book-length works of fiction at near-zero cost. These books are often dismissed as low-quality ``slop'' that buyers will ignore, and are assumed to carry little commercial weight. We test that assumption with full-text AI detection across 14,419 self-published genre-fiction books sold on Amazon from 2023 to 2026, matched to daily sales records through June 2026."
+    },
+    {
+      "title": "Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids",
+      "summary": "Closing the gap between benchmark performance and reliable real-world operation remains a central challenge for Vision-Language-Action (VLA) humanoid robots, which must handle execution errors, distribution shifts, and environmental variability. This paper presents DEED (Data-Efficient Post-Training and Experience-Driven Learning), a systems-level approach evaluated on a supermarket chip-restocking task using a Unitree G1-Edu humanoid robot and the GR00T N1.6 foundation model. DEED comprises thr",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20345v1",
+      "published_at": "2026-07-22T16:30:51Z",
+      "tags": [
+        "llm",
+        "vision",
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20345v1",
+      "summary_type": "extractive",
+      "title_zh": "Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids",
+      "summary_zh": "Closing the gap between benchmark performance and reliable real-world operation remains a central challenge for Vision-Language-Action (VLA) humanoid robots, which must handle execution errors, distribution shifts, and environmental variability. This paper presents DEED (Data-Efficient Post-Training and Experience-Driven Learning), a systems-level approach evaluated on a supermarket chip-restocking task using a Unitree G1-Edu humanoid robot and the GR00T N1.6 foundation model. DEED comprises thr"
+    },
+    {
+      "title": "Understanding Generative AI-mediated User Engagement with Academic Library Resources",
+      "summary": "This study empirically analyzed generative AI as an emerging discovery pathway to academic library resources. Utilizing web analytics from August 2023 to October 2025, the research identifies a significant increase in AI-mediated traffic, particularly following the integration of linked citation features. Referral analysis identified ChatGPT, Perplexity, and Gemini as the primary platforms driving this traffic.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20328v1",
+      "published_at": "2026-07-22T16:14:38Z",
+      "tags": [
+        "llm",
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20328v1",
+      "summary_type": "extractive",
+      "title_zh": "Understanding Generative AI-mediated User Engagement with Academic Library Resources",
+      "summary_zh": "This study empirically analyzed generative AI as an emerging discovery pathway to academic library resources. Utilizing web analytics from August 2023 to October 2025, the research identifies a significant increase in AI-mediated traffic, particularly following the integration of linked citation features. Referral analysis identified ChatGPT, Perplexity, and Gemini as the primary platforms driving this traffic."
+    },
+    {
+      "title": "Toward Reliable RGB-D Semantic Segmentation: Handling Missing Modalities via Condition Dropout",
+      "summary": "RGB-D semantic segmentation has achieved remarkable progress, yet most models assume that RGB and depth are always available. In practice, failures or occlusions of surveillance sensors often remove one modality. Although RGB or depth alone can contain sufficient cues, models trained only on full-modality inputs fail to exploit the remaining modality once one is missing, causing severe degradation.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20326v1",
+      "published_at": "2026-07-22T16:12:27Z",
+      "tags": [
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20326v1",
+      "summary_type": "extractive",
+      "title_zh": "Toward Reliable RGB-D Semantic Segmentation: Handling Missing Modalities via Condition Dropout",
+      "summary_zh": "RGB-D semantic segmentation has achieved remarkable progress, yet most models assume that RGB and depth are always available. In practice, failures or occlusions of surveillance sensors often remove one modality. Although RGB or depth alone can contain sufficient cues, models trained only on full-modality inputs fail to exploit the remaining modality once one is missing, causing severe degradation."
     },
     {
       "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
@@ -252,11 +343,45 @@
       "tags": [
         "ai"
       ],
-      "score": "47",
+      "score": "52",
       "item_id": "hn:49008901",
       "summary_type": "extractive",
       "title_zh": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
       "summary_zh": "Hi HN, We’re Adeel and Umair, co-founders of Unlayer (https:&#x2F;&#x2F;unlayer.com&#x2F;). We let you add content creation to your applications without having to build an entire editor, renderer, template, and export stack yourself. Unlayer lets you create emails, web pages, and documents inside your app, in three different ways: in code, visually, or with AI.Here’s a demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0HsDtNkdMpM.We started with an embeddable email editor because a lot of pro"
+    },
+    {
+      "title": "Don't Trust the Label: License Laundering in AI Supply Chains",
+      "summary": "AI artifacts move through a multi-platform supply chain, spanning datasets and models on Hugging Face and applications on GitHub. While each artifact carries a license whose obligations should propagate through redistribution, no study has yet measured whether those obligations survive the chain or are stripped and replaced as artifacts move downstream. We trace 232,270 dataset$\\rightarrow$model$\\rightarrow$application chains and quantify two forms of license laundering: when artifacts with no d",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20300v1",
+      "published_at": "2026-07-22T15:48:04Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20300v1",
+      "summary_type": "extractive",
+      "title_zh": "Don't Trust the Label: License Laundering in AI Supply Chains",
+      "summary_zh": "AI artifacts move through a multi-platform supply chain, spanning datasets and models on Hugging Face and applications on GitHub. While each artifact carries a license whose obligations should propagate through redistribution, no study has yet measured whether those obligations survive the chain or are stripped and replaced as artifacts move downstream. We trace 232,270 dataset$\\rightarrow$model$\\rightarrow$application chains and quantify two forms of license laundering: when artifacts with no d"
+    },
+    {
+      "title": "Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments",
+      "summary": "We consider a task planning scenario in which robots sharing a persistent environment are assigned tasks one at a time from a held-out sequence. Standard task planners, lacking foresight of future tasks and inconsiderate of others' constraints, solve each task in isolation, leaving terminal states that increase future cost for all, side effects that compound over lengthy task sequences. To reduce cost over the sequence, a robot must anticipate how its actions now may impact performance on future",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20289v1",
+      "published_at": "2026-07-22T15:36:11Z",
+      "tags": [
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20289v1",
+      "summary_type": "extractive",
+      "title_zh": "Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments",
+      "summary_zh": "We consider a task planning scenario in which robots sharing a persistent environment are assigned tasks one at a time from a held-out sequence. Standard task planners, lacking foresight of future tasks and inconsiderate of others' constraints, solve each task in isolation, leaving terminal states that increase future cost for all, side effects that compound over lengthy task sequences. To reduce cost over the sequence, a robot must anticipate how its actions now may impact performance on future"
     },
     {
       "title": "Making",
@@ -268,11 +393,67 @@
       "tags": [
         "ai"
       ],
-      "score": "298",
+      "score": "349",
       "item_id": "hn:49008440",
       "summary_type": "extractive",
       "title_zh": "Making",
       "summary_zh": "Making"
+    },
+    {
+      "title": "Sound Probabilistic Safety Bounds for Large Language Models",
+      "summary": "We propose a novel framework for computing rigorous bounds on the probability that a large language model (LLM) generates harmful output to a given prompt. We study a new application of the Clopper-Pearson confidence intervals to obtain probably approximately correct (PAC) bounds for this problem. As our main technical contribution, we propose an algorithm that leverages features in the latent space to prioritize exploring branches in the auto-regressive generation tree that are more likely to p",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20286v1",
+      "published_at": "2026-07-22T15:31:28Z",
+      "tags": [
+        "paper",
+        "llm",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20286v1",
+      "summary_type": "extractive",
+      "title_zh": "Sound Probabilistic Safety Bounds for Large Language Models",
+      "summary_zh": "We propose a novel framework for computing rigorous bounds on the probability that a large language model (LLM) generates harmful output to a given prompt. We study a new application of the Clopper-Pearson confidence intervals to obtain probably approximately correct (PAC) bounds for this problem. As our main technical contribution, we propose an algorithm that leverages features in the latent space to prioritize exploring branches in the auto-regressive generation tree that are more likely to p"
+    },
+    {
+      "title": "Self-supervision drives representational convergence in medical foundation models more than clinical supervision",
+      "summary": "Medical image encoders from different groups are increasingly treated as interchangeable, on the assumption that scale and clinical supervision concentrate their representations onto a shared structure. Whether this convergence is real, what produces it, and whether it is clinically usable are untested, and the similarity measures behind such claims are fragile. We present a controlled dissection across 18 image and 7 text encoders, all open-weight and run locally, spanning 7M to 27B parameters ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20274v1",
+      "published_at": "2026-07-22T15:25:05Z",
+      "tags": [
+        "paper",
+        "llm",
+        "vision",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20274v1",
+      "summary_type": "extractive",
+      "title_zh": "Self-supervision drives representational convergence in medical foundation models more than clinical supervision",
+      "summary_zh": "Medical image encoders from different groups are increasingly treated as interchangeable, on the assumption that scale and clinical supervision concentrate their representations onto a shared structure. Whether this convergence is real, what produces it, and whether it is clinically usable are untested, and the similarity measures behind such claims are fragile. We present a controlled dissection across 18 image and 7 text encoders, all open-weight and run locally, spanning 7M to 27B parameters "
+    },
+    {
+      "title": "PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity",
+      "summary": "While Large Language Models (LLMs) excel at many tasks, they frequently struggle with complex reasoning that requires long-horizon planning and iterative error correction. Furthermore, standard single-stream prompting proves brittle when models encounter novel abstractions or rigorous domain constraints. We introduce PoTRE (Poly-Topological Reasoning Ensembles), a heterogeneous framework that decouples inference into four agents: (1) Adversarial Refinement Agent, (2) Hierarchical strategic Plann",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20268v1",
+      "published_at": "2026-07-22T15:20:53Z",
+      "tags": [
+        "paper",
+        "llm",
+        "tool",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20268v1",
+      "summary_type": "extractive",
+      "title_zh": "PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity",
+      "summary_zh": "While Large Language Models (LLMs) excel at many tasks, they frequently struggle with complex reasoning that requires long-horizon planning and iterative error correction. Furthermore, standard single-stream prompting proves brittle when models encounter novel abstractions or rigorous domain constraints. We introduce PoTRE (Poly-Topological Reasoning Ensembles), a heterogeneous framework that decouples inference into four agents: (1) Adversarial Refinement Agent, (2) Hierarchical strategic Plann"
     },
     {
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
@@ -284,15 +465,104 @@
       "tags": [
         "ai"
       ],
-      "score": "688",
+      "score": "811",
       "item_id": "hn:49008211",
       "summary_type": "extractive",
       "title_zh": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
       "summary_zh": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There&#x27;s no install or cloud login, everything works offline. The default deck is aroun"
     },
     {
-      "title": "Ghost Cut – or why Cut and Paste is broken everywhere",
-      "summary": "Ghost Cut – or why Cut and Paste is broken everywhere",
+      "title": "The Maskability Index: Predicting Task-Objective Alignment in Pretrained Language Models",
+      "summary": "Large-scale pretrained language models such as T5 and BERT have demonstrated strong capabilities for generating structured knowledge. However, their performance depends on how closely the prompting strategy matches the objectives used during pretraining. We introduce the Maskability Index (MI), a quantitative metric that estimates whether a knowledge relation is better suited to masked-style prompting or prefix-style prompting in few-shot generation.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20265v1",
+      "published_at": "2026-07-22T15:19:23Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20265v1",
+      "summary_type": "extractive",
+      "title_zh": "The Maskability Index: Predicting Task-Objective Alignment in Pretrained Language Models",
+      "summary_zh": "Large-scale pretrained language models such as T5 and BERT have demonstrated strong capabilities for generating structured knowledge. However, their performance depends on how closely the prompting strategy matches the objectives used during pretraining. We introduce the Maskability Index (MI), a quantitative metric that estimates whether a knowledge relation is better suited to masked-style prompting or prefix-style prompting in few-shot generation."
+    },
+    {
+      "title": "The Ethics of Autonomous AI Agents for Offensive Security",
+      "summary": "LLM-driven autonomous agents are reshaping offensive security. Unlike traditional penetration-testing tooling -- deterministic, narrowly scoped, and operated by trained practitioners -- agentic security tools exhibit \\textit{indeterminacy} along three independent dimensions. First, their actions are drawn from a non-deterministic policy whose outputs resist both ex-ante and ex-post explanation, frustrating incident attribution and pre-deployment safety review.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20255v1",
+      "published_at": "2026-07-22T15:13:15Z",
+      "tags": [
+        "paper",
+        "llm",
+        "tool",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20255v1",
+      "summary_type": "extractive",
+      "title_zh": "The Ethics of Autonomous AI Agents for Offensive Security",
+      "summary_zh": "LLM-driven autonomous agents are reshaping offensive security. Unlike traditional penetration-testing tooling -- deterministic, narrowly scoped, and operated by trained practitioners -- agentic security tools exhibit \\textit{indeterminacy} along three independent dimensions. First, their actions are drawn from a non-deterministic policy whose outputs resist both ex-ante and ex-post explanation, frustrating incident attribution and pre-deployment safety review."
+    },
+    {
+      "title": "Pushing the Frontier of Full-Song Generation: Hierarchical Autoregressive Planning Meets Flow-Matching Rendering",
+      "summary": "In this report, we present a unified song generation framework capable of producing high-quality full-length music from lyrics, text descriptions, and musical attributes. The proposed framework supports three tasks: Lyrics-to-Song Generation, which generates complete songs from text descriptions, lyrics, and musical attributes; Instrumental Music Generation, which creates music without vocals; and Cover Song Generation, which reinterprets existing songs with different styles while preserving the",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20253v1",
+      "published_at": "2026-07-22T15:11:46Z",
+      "tags": [
+        "paper",
+        "tool",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20253v1",
+      "summary_type": "extractive",
+      "title_zh": "Pushing the Frontier of Full-Song Generation: Hierarchical Autoregressive Planning Meets Flow-Matching Rendering",
+      "summary_zh": "In this report, we present a unified song generation framework capable of producing high-quality full-length music from lyrics, text descriptions, and musical attributes. The proposed framework supports three tasks: Lyrics-to-Song Generation, which generates complete songs from text descriptions, lyrics, and musical attributes; Instrumental Music Generation, which creates music without vocals; and Cover Song Generation, which reinterprets existing songs with different styles while preserving the"
+    },
+    {
+      "title": "On the Systematic Challenges of Culturally Loaded Machine Translation: Dream of the Red Chamber as the Cultural Lens",
+      "summary": "Culturally loaded translation poses unique challenges for machine translation (MT), as meanings are deeply embedded in socio-cultural contexts beyond surface linguistic forms. Although large language models (LLMs) have enabled MT systems to achieve human-like quality in many scenarios, their ability to handle culturally loaded expressions remains underexplored. In this study, we systematically investigate the challenges posed by culturally loaded translation in LLM-based MT systems.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20241v1",
+      "published_at": "2026-07-22T15:01:10Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20241v1",
+      "summary_type": "extractive",
+      "title_zh": "On the Systematic Challenges of Culturally Loaded Machine Translation: Dream of the Red Chamber as the Cultural Lens",
+      "summary_zh": "Culturally loaded translation poses unique challenges for machine translation (MT), as meanings are deeply embedded in socio-cultural contexts beyond surface linguistic forms. Although large language models (LLMs) have enabled MT systems to achieve human-like quality in many scenarios, their ability to handle culturally loaded expressions remains underexplored. In this study, we systematically investigate the challenges posed by culturally loaded translation in LLM-based MT systems."
+    },
+    {
+      "title": "DQAOA-GPT: AI-Accelerated Distributed Quantum Optimization for Combinatorial Problems",
+      "summary": "While combinatorial optimization problems are central to many scientific and engineering applications, their solution remains challenging due to exponentially large search spaces. Variational quantum algorithms offer a promising route for tackling such problems, yet their practical performance is limited by repeated quantum circuit evaluations and classical parameter updates. In this work, we introduce DQAOA-GPT, a hybrid framework that integrates the distributed quantum approximate optimization",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20225v1",
+      "published_at": "2026-07-22T14:46:33Z",
+      "tags": [
+        "llm",
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20225v1",
+      "summary_type": "extractive",
+      "title_zh": "DQAOA-GPT: AI-Accelerated Distributed Quantum Optimization for Combinatorial Problems",
+      "summary_zh": "While combinatorial optimization problems are central to many scientific and engineering applications, their solution remains challenging due to exponentially large search spaces. Variational quantum algorithms offer a promising route for tackling such problems, yet their practical performance is limited by repeated quantum circuit evaluations and classical parameter updates. In this work, we introduce DQAOA-GPT, a hybrid framework that integrates the distributed quantum approximate optimization"
+    },
+    {
+      "title": "Ghost Cut – Or why Cut and Paste is broken everywhere",
+      "summary": "Ghost Cut – Or why Cut and Paste is broken everywhere",
       "full_text": "",
       "source": "hacker news",
       "url": "https://ishmael.textualize.io/blog/ghost-cut/",
@@ -300,11 +570,46 @@
       "tags": [
         "ai"
       ],
-      "score": "139",
+      "score": "161",
       "item_id": "hn:49007626",
       "summary_type": "extractive",
-      "title_zh": "Ghost Cut – or why Cut and Paste is broken everywhere",
-      "summary_zh": "Ghost Cut – or why Cut and Paste is broken everywhere"
+      "title_zh": "Ghost Cut – Or why Cut and Paste is broken everywhere",
+      "summary_zh": "Ghost Cut – Or why Cut and Paste is broken everywhere"
+    },
+    {
+      "title": "Small, Free, and Effective: Orchestrating Open-Weight Small Language Models to Outperform Single LLM for Malware Analysis",
+      "summary": "Malware analysis demands rapid interpretation of complex detonation reports spanning filesystem, network, and process behaviours. While large language models (LLMs) demonstrate impressive capabilities for technical artifact interpretation, the opacity and escalating API costs of closed-weight frontier models motivate exploration of open-weight alternatives. However, many open-weight models are large, demanding significant compute resources and incurring non-trivial hosting costs that place them ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20216v1",
+      "published_at": "2026-07-22T14:36:10Z",
+      "tags": [
+        "paper",
+        "llm",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20216v1",
+      "summary_type": "extractive",
+      "title_zh": "Small, Free, and Effective: Orchestrating Open-Weight Small Language Models to Outperform Single LLM for Malware Analysis",
+      "summary_zh": "Malware analysis demands rapid interpretation of complex detonation reports spanning filesystem, network, and process behaviours. While large language models (LLMs) demonstrate impressive capabilities for technical artifact interpretation, the opacity and escalating API costs of closed-weight frontier models motivate exploration of open-weight alternatives. However, many open-weight models are large, demanding significant compute resources and incurring non-trivial hosting costs that place them "
+    },
+    {
+      "title": "ELSAA: Efficient Low-Rank and Sparse Attention Approximation for Training Transformers",
+      "summary": "The quadratic $N\\times N$ attention score matrix remains a central obstacle to extending Transformers to longer input lengths. Existing efficient attention methods usually reduce this bottleneck by either imposing sparsity, so that each query attends to only a small subset of keys, or by using low-rank/kernel sketches, so that global interactions are compressed into a lower-dimensional representation. We propose \\emph{ELSAA}, an efficient low-rank and sparse approximation of attention.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.20214v1",
+      "published_at": "2026-07-22T14:34:49Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.20214v1",
+      "summary_type": "extractive",
+      "title_zh": "ELSAA: Efficient Low-Rank and Sparse Attention Approximation for Training Transformers",
+      "summary_zh": "The quadratic $N\\times N$ attention score matrix remains a central obstacle to extending Transformers to longer input lengths. Existing efficient attention methods usually reduce this bottleneck by either imposing sparsity, so that each query attends to only a small subset of keys, or by using low-rank/kernel sketches, so that global interactions are compressed into a lower-dimensional representation. We propose \\emph{ELSAA}, an efficient low-rank and sparse approximation of attention."
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
@@ -316,7 +621,7 @@
       "tags": [
         "ai"
       ],
-      "score": "196",
+      "score": "336",
       "item_id": "hn:49007247",
       "summary_type": "extractive",
       "title_zh": "Quality non-fiction books are the antithesis of AI slop",
@@ -332,7 +637,7 @@
       "tags": [
         "ai"
       ],
-      "score": "215",
+      "score": "263",
       "item_id": "hn:49006195",
       "summary_type": "extractive",
       "title_zh": "Back to Kagi",
@@ -348,7 +653,7 @@
       "tags": [
         "ai"
       ],
-      "score": "202",
+      "score": "275",
       "item_id": "hn:49005973",
       "summary_type": "extractive",
       "title_zh": "Businesses with ugly AI menu redesigns",
@@ -364,7 +669,7 @@
       "tags": [
         "ai"
       ],
-      "score": "332",
+      "score": "399",
       "item_id": "hn:49005787",
       "summary_type": "extractive",
       "title_zh": "The startup's Postgres survival guide",
@@ -380,11 +685,75 @@
       "tags": [
         "ai"
       ],
-      "score": "315",
+      "score": "440",
       "item_id": "hn:49005747",
       "summary_type": "extractive",
       "title_zh": "So Reddit has decided that plain HTML is unsafe",
       "summary_zh": "So Reddit has decided that plain HTML is unsafe"
+    },
+    {
+      "title": "LG to ban residential proxies from smart TV apps",
+      "summary": "LG to ban residential proxies from smart TV apps",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "published_at": "2026-07-22T01:52:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "423",
+      "item_id": "hn:49000864",
+      "summary_type": "extractive",
+      "title_zh": "LG to ban residential proxies from smart TV apps",
+      "summary_zh": "LG to ban residential proxies from smart TV apps"
+    },
+    {
+      "title": "git's –end-of-options Flag",
+      "summary": "git's –end-of-options Flag",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "published_at": "2026-07-21T13:13:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "132",
+      "item_id": "hn:48991882",
+      "summary_type": "extractive",
+      "title_zh": "git's –end-of-options Flag",
+      "summary_zh": "git's –end-of-options Flag"
+    },
+    {
+      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "summary": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+      "published_at": "2026-07-21T10:04:20+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "38",
+      "item_id": "hn:48990219",
+      "summary_type": "extractive",
+      "title_zh": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "summary_zh": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot"
+    },
+    {
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "summary": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "published_at": "2026-07-21T07:01:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "6",
+      "item_id": "hn:48989006",
+      "summary_type": "extractive",
+      "title_zh": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "summary_zh": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI"
     },
     {
       "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
@@ -396,43 +765,43 @@
       "tags": [
         "ai"
       ],
-      "score": "9",
+      "score": "42",
       "item_id": "hn:48984534",
       "summary_type": "extractive",
       "title_zh": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
       "summary_zh": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)"
     },
     {
-      "title": "Taking OCaml and Eio for a Spin",
-      "summary": "Taking OCaml and Eio for a Spin",
+      "title": "Making ASCII Art in Vim",
+      "summary": "Making ASCII Art in Vim",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
-      "published_at": "2026-07-20T07:32:39+00:00",
+      "url": "https://alexyang.dev/vim-ascii-art/",
+      "published_at": "2026-07-20T18:42:07+00:00",
       "tags": [
         "ai"
       ],
-      "score": "43",
-      "item_id": "hn:48975395",
+      "score": "59",
+      "item_id": "hn:48983076",
       "summary_type": "extractive",
-      "title_zh": "Taking OCaml and Eio for a Spin",
-      "summary_zh": "Taking OCaml and Eio for a Spin"
+      "title_zh": "Making ASCII Art in Vim",
+      "summary_zh": "Making ASCII Art in Vim"
     },
     {
-      "title": "MemoryPack: Zero encoding extreme performance binary serializer for C#",
-      "summary": "MemoryPack: Zero encoding extreme performance binary serializer for C#",
+      "title": "Why malloc always does more than I asked for?",
+      "summary": "Why malloc always does more than I asked for?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/Cysharp/MemoryPack",
-      "published_at": "2026-07-19T12:20:56+00:00",
+      "url": "https://ssenthilnathan3.github.io/blog/malloc/",
+      "published_at": "2026-07-20T11:50:01+00:00",
       "tags": [
         "ai"
       ],
-      "score": "21",
-      "item_id": "hn:48967506",
+      "score": "27",
+      "item_id": "hn:48977463",
       "summary_type": "extractive",
-      "title_zh": "MemoryPack: Zero encoding extreme performance binary serializer for C#",
-      "summary_zh": "MemoryPack: Zero encoding extreme performance binary serializer for C#"
+      "title_zh": "Why malloc always does more than I asked for?",
+      "summary_zh": "Why malloc always does more than I asked for?"
     },
     {
       "title": "What Rose Petals Teach Us about Induction",
@@ -444,27 +813,11 @@
       "tags": [
         "ai"
       ],
-      "score": "19",
+      "score": "34",
       "item_id": "hn:48958266",
       "summary_type": "extractive",
       "title_zh": "What Rose Petals Teach Us about Induction",
       "summary_zh": "What Rose Petals Teach Us about Induction"
-    },
-    {
-      "title": "Museum of the Human Web",
-      "summary": "Museum of the Human Web",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://museum.parallel.ai/introduction?era=modern",
-      "published_at": "2026-07-15T15:15:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "19",
-      "item_id": "hn:48922144",
-      "summary_type": "extractive",
-      "title_zh": "Museum of the Human Web",
-      "summary_zh": "Museum of the Human Web"
     },
     {
       "title": "Nobody knows what a used GPU cluster is worth",
@@ -476,7 +829,7 @@
       "tags": [
         "ai"
       ],
-      "score": "181",
+      "score": "227",
       "item_id": "hn:48917135",
       "summary_type": "extractive",
       "title_zh": "Nobody knows what a used GPU cluster is worth",

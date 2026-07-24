@@ -1,42 +1,299 @@
 {
-  "updated_at": "2026-07-24T14:01:57.773935+00:00",
+  "updated_at": "2026-07-24T19:40:30.517740+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Oracle fires 21,000 employees to fund AI spending",
-      "summary": "Oracle fires 21,000 employees to fund AI spending",
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "summary": "Postgres LISTEN/NOTIFY actually scales",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
-      "published_at": "2026-07-24T13:33:12+00:00",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "published_at": "2026-07-24T19:05:53+00:00",
       "tags": [
         "ai"
       ],
-      "score": "11",
-      "item_id": "hn:49035314",
+      "score": "29",
+      "item_id": "hn:49040296",
       "summary_type": "extractive",
-      "title_zh": "Oracle fires 21,000 employees to fund AI spending",
-      "summary_zh": "Oracle fires 21,000 employees to fund AI spending"
+      "title_zh": "Postgres LISTEN/NOTIFY actually scales",
+      "summary_zh": "Postgres LISTEN/NOTIFY actually scales"
     },
     {
-      "title": "Patreon laying off 20% of staff",
-      "summary": "Patreon laying off 20% of staff",
+      "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+      "summary": "BGP ORIGIN attribute manipulation and its impact on the Internet",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.patreon.com/jackconte/posts/painful-update-164628951",
-      "published_at": "2026-07-24T13:02:49+00:00",
+      "url": "https://blog.cloudflare.com/bgp-origin-attribute/",
+      "published_at": "2026-07-24T18:07:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "91",
-      "item_id": "hn:49034948",
+      "score": "13",
+      "item_id": "hn:49039490",
       "summary_type": "extractive",
-      "title_zh": "Patreon laying off 20% of staff",
-      "summary_zh": "Patreon laying off 20% of staff"
+      "title_zh": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+      "summary_zh": "BGP ORIGIN attribute manipulation and its impact on the Internet"
     },
     {
-      "title": "Em dashes are fucking amazing",
-      "summary": "Em dashes are fucking amazing",
+      "title": "I got into YC (Startup School) by hacking it",
+      "summary": "I got into YC (Startup School) by hacking it",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+      "published_at": "2026-07-24T18:03:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "60",
+      "item_id": "hn:49039448",
+      "summary_type": "extractive",
+      "title_zh": "I got into YC (Startup School) by hacking it",
+      "summary_zh": "I got into YC (Startup School) by hacking it"
+    },
+    {
+      "title": "Gsxui – Shadcn-style components for Go",
+      "summary": "Gsxui – Shadcn-style components for Go",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ui.gsxhq.dev/",
+      "published_at": "2026-07-24T17:59:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:49039395",
+      "summary_type": "extractive",
+      "title_zh": "Gsxui – Shadcn-style components for Go",
+      "summary_zh": "Gsxui – Shadcn-style components for Go"
+    },
+    {
+      "title": "The small, real, original web",
+      "summary": "The small, real, original web",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
+      "published_at": "2026-07-24T17:28:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:49038977",
+      "summary_type": "extractive",
+      "title_zh": "The small, real, original web",
+      "summary_zh": "The small, real, original web"
+    },
+    {
+      "title": "DuckPGQ – A DuckDB community extension for graph workloads",
+      "summary": "DuckPGQ – A DuckDB community extension for graph workloads",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://duckpgq.org/",
+      "published_at": "2026-07-24T17:00:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "27",
+      "item_id": "hn:49038481",
+      "summary_type": "extractive",
+      "title_zh": "DuckPGQ – A DuckDB community extension for graph workloads",
+      "summary_zh": "DuckPGQ – A DuckDB community extension for graph workloads"
+    },
+    {
+      "title": "JEP 541: Deprecate the macOS/x64 Port for Removal",
+      "summary": "JEP 541: Deprecate the macOS/x64 Port for Removal",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://openjdk.org/jeps/541",
+      "published_at": "2026-07-24T16:52:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "86",
+      "item_id": "hn:49038352",
+      "summary_type": "extractive",
+      "title_zh": "JEP 541: Deprecate the macOS/x64 Port for Removal",
+      "summary_zh": "JEP 541: Deprecate the macOS/x64 Port for Removal"
+    },
+    {
+      "title": "Online Historical Encyclopaedia of Programming Languages",
+      "summary": "Online Historical Encyclopaedia of Programming Languages",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://hopl.info/",
+      "published_at": "2026-07-24T16:47:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:49038276",
+      "summary_type": "extractive",
+      "title_zh": "Online Historical Encyclopaedia of Programming Languages",
+      "summary_zh": "Online Historical Encyclopaedia of Programming Languages"
+    },
+    {
+      "title": "The rise and fall of language diversity through the Holocene",
+      "summary": "The rise and fall of language diversity through the Holocene",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.science.org/doi/10.1126/science.adx4343",
+      "published_at": "2026-07-24T16:40:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "40",
+      "item_id": "hn:49038181",
+      "summary_type": "extractive",
+      "title_zh": "The rise and fall of language diversity through the Holocene",
+      "summary_zh": "The rise and fall of language diversity through the Holocene"
+    },
+    {
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "summary": "Be skeptical of OpenAI's rogue hacker agent story",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "published_at": "2026-07-24T16:33:31+00:00",
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": "245",
+      "item_id": "hn:49038060",
+      "summary_type": "extractive",
+      "title_zh": "Be skeptical of OpenAI's rogue hacker agent story",
+      "summary_zh": "Be skeptical of OpenAI's rogue hacker agent story"
+    },
+    {
+      "title": "Unitree As2-W",
+      "summary": "Unitree As2-W",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.unitree.com/As2-W/",
+      "published_at": "2026-07-24T16:32:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "45",
+      "item_id": "hn:49038045",
+      "summary_type": "extractive",
+      "title_zh": "Unitree As2-W",
+      "summary_zh": "Unitree As2-W"
+    },
+    {
+      "title": "Codeberg Divides",
+      "summary": "Codeberg Divides",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
+      "published_at": "2026-07-24T15:05:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "77",
+      "item_id": "hn:49036765",
+      "summary_type": "extractive",
+      "title_zh": "Codeberg Divides",
+      "summary_zh": "Codeberg Divides"
+    },
+    {
+      "title": "3GPP Version 19",
+      "summary": "3GPP Version 19",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.3gpp.org/specifications-technologies/releases/release-19",
+      "published_at": "2026-07-24T14:23:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "38",
+      "item_id": "hn:49036136",
+      "summary_type": "extractive",
+      "title_zh": "3GPP Version 19",
+      "summary_zh": "3GPP Version 19"
+    },
+    {
+      "title": "WebGPU Unleashed: A Practical Tutorial",
+      "summary": "WebGPU Unleashed: A Practical Tutorial",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://shi-yan.github.io/webgpuunleashed/",
+      "published_at": "2026-07-24T14:04:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:49035845",
+      "summary_type": "extractive",
+      "title_zh": "WebGPU Unleashed: A Practical Tutorial",
+      "summary_zh": "WebGPU Unleashed: A Practical Tutorial"
+    },
+    {
+      "title": "Plants vs. Zombies for PlayStation 2",
+      "summary": "Plants vs. Zombies for PlayStation 2",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/OptiJuegos/pvz-ps2",
+      "published_at": "2026-07-24T13:57:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "42",
+      "item_id": "hn:49035740",
+      "summary_type": "extractive",
+      "title_zh": "Plants vs. Zombies for PlayStation 2",
+      "summary_zh": "Plants vs. Zombies for PlayStation 2"
+    },
+    {
+      "title": "My Emacs Configuration (Dired)",
+      "summary": "My Emacs Configuration (Dired)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://eugene-andrienko.com/2026-07-05-my-emacs-configuration-dired.html",
+      "published_at": "2026-07-24T13:47:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:49035561",
+      "summary_type": "extractive",
+      "title_zh": "My Emacs Configuration (Dired)",
+      "summary_zh": "My Emacs Configuration (Dired)"
+    },
+    {
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "summary": "Letter: https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-L... [pdf]https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103, https:&#x2F;&#x2F;xcancel.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;silicon-valley-is-completely-div..., https:&#x2F;&#x2F;archive.ph&#x2F;LAkVI",
+      "full_text": "Letter: https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-L... [pdf]https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103, https:&#x2F;&#x2F;xcancel.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;silicon-valley-is-completely-div..., https:&#x2F;&#x2F;archive.ph&#x2F;LAkVI",
+      "source": "hacker news",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "published_at": "2026-07-24T13:32:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "198",
+      "item_id": "hn:49035303",
+      "summary_type": "extractive",
+      "title_zh": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "summary_zh": "Letter: https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-L... [pdf]https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103, https:&#x2F;&#x2F;xcancel.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;silicon-valley-is-completely-div..., https:&#x2F;&#x2F;archive.ph&#x2F;LAkVI"
+    },
+    {
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "summary": "Half-Life 2 running natively on HaikuOS",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "published_at": "2026-07-24T12:53:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "199",
+      "item_id": "hn:49034868",
+      "summary_type": "extractive",
+      "title_zh": "Half-Life 2 running natively on HaikuOS",
+      "summary_zh": "Half-Life 2 running natively on HaikuOS"
+    },
+    {
+      "title": "Em dashes are amazing",
+      "summary": "Em dashes are amazing",
       "full_text": "",
       "source": "hacker news",
       "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
@@ -44,59 +301,11 @@
       "tags": [
         "ai"
       ],
-      "score": "67",
+      "score": "292",
       "item_id": "hn:49034747",
       "summary_type": "extractive",
-      "title_zh": "Em dashes are fucking amazing",
-      "summary_zh": "Em dashes are fucking amazing"
-    },
-    {
-      "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
-      "summary": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
-      "published_at": "2026-07-24T12:34:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "17",
-      "item_id": "hn:49034673",
-      "summary_type": "extractive",
-      "title_zh": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
-      "summary_zh": "Programming language file extensions that match ISO 3166-1 alpha-2 country code"
-    },
-    {
-      "title": "Why is programming so captivating, yet so agonizing?",
-      "summary": "Why is programming so captivating, yet so agonizing?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
-      "published_at": "2026-07-24T12:15:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "15",
-      "item_id": "hn:49034468",
-      "summary_type": "extractive",
-      "title_zh": "Why is programming so captivating, yet so agonizing?",
-      "summary_zh": "Why is programming so captivating, yet so agonizing?"
-    },
-    {
-      "title": "I Tried Building a Real App with AI. It Took a Year",
-      "summary": "I Tried Building a Real App with AI. It Took a Year",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
-      "published_at": "2026-07-24T12:00:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "52",
-      "item_id": "hn:49034342",
-      "summary_type": "extractive",
-      "title_zh": "I Tried Building a Real App with AI. It Took a Year",
-      "summary_zh": "I Tried Building a Real App with AI. It Took a Year"
+      "title_zh": "Em dashes are amazing",
+      "summary_zh": "Em dashes are amazing"
     },
     {
       "title": "My security camera shipped a GitHub admin token in its login page",
@@ -108,75 +317,11 @@
       "tags": [
         "ai"
       ],
-      "score": "53",
+      "score": "406",
       "item_id": "hn:49034292",
       "summary_type": "extractive",
       "title_zh": "My security camera shipped a GitHub admin token in its login page",
       "summary_zh": "My security camera shipped a GitHub admin token in its login page"
-    },
-    {
-      "title": "The IBM PC, Part 1: Arrival",
-      "summary": "The IBM PC, Part 1: Arrival",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/",
-      "published_at": "2026-07-24T11:13:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "27",
-      "item_id": "hn:49033916",
-      "summary_type": "extractive",
-      "title_zh": "The IBM PC, Part 1: Arrival",
-      "summary_zh": "The IBM PC, Part 1: Arrival"
-    },
-    {
-      "title": "Game of Trees – Git-based version control from OpenBSD folks",
-      "summary": "Game of Trees – Git-based version control from OpenBSD folks",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.gameoftrees.org/",
-      "published_at": "2026-07-24T10:15:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "26",
-      "item_id": "hn:49033412",
-      "summary_type": "extractive",
-      "title_zh": "Game of Trees – Git-based version control from OpenBSD folks",
-      "summary_zh": "Game of Trees – Git-based version control from OpenBSD folks"
-    },
-    {
-      "title": "How Do We Stop Vibe Coding?",
-      "summary": "How Do We Stop Vibe Coding?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
-      "published_at": "2026-07-24T10:12:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "18",
-      "item_id": "hn:49033388",
-      "summary_type": "extractive",
-      "title_zh": "How Do We Stop Vibe Coding?",
-      "summary_zh": "How Do We Stop Vibe Coding?"
-    },
-    {
-      "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
-      "summary": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-      "published_at": "2026-07-24T09:52:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "53",
-      "item_id": "hn:49033240",
-      "summary_type": "extractive",
-      "title_zh": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
-      "summary_zh": "IRGC Claims It Destroyed Amazon's Bahrain Data Center"
     },
     {
       "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
@@ -188,76 +333,11 @@
       "tags": [
         "ai"
       ],
-      "score": "108",
+      "score": "210",
       "item_id": "hn:49033099",
       "summary_type": "extractive",
       "title_zh": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
       "summary_zh": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds"
-    },
-    {
-      "title": "Hetzner is working on LLM Inference",
-      "summary": "Hetzner is working on LLM Inference",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://sliplane.io/blog/hetzner-inference",
-      "published_at": "2026-07-24T09:24:44+00:00",
-      "tags": [
-        "tool",
-        "llm"
-      ],
-      "score": "94",
-      "item_id": "hn:49033087",
-      "summary_type": "extractive",
-      "title_zh": "Hetzner is working on LLM Inference",
-      "summary_zh": "Hetzner is working on LLM Inference"
-    },
-    {
-      "title": "Nothing works and everyone is euphoric",
-      "summary": "Nothing works and everyone is euphoric",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-      "published_at": "2026-07-24T09:08:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "190",
-      "item_id": "hn:49033004",
-      "summary_type": "extractive",
-      "title_zh": "Nothing works and everyone is euphoric",
-      "summary_zh": "Nothing works and everyone is euphoric"
-    },
-    {
-      "title": "The day Steve Jobs dissed me in a keynote (2010)",
-      "summary": "The day Steve Jobs dissed me in a keynote (2010)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://sive.rs/itunes",
-      "published_at": "2026-07-24T09:07:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "152",
-      "item_id": "hn:49033001",
-      "summary_type": "extractive",
-      "title_zh": "The day Steve Jobs dissed me in a keynote (2010)",
-      "summary_zh": "The day Steve Jobs dissed me in a keynote (2010)"
-    },
-    {
-      "title": "The Book Prize Index",
-      "summary": "The Book Prize Index",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://book-prize-index.vercel.app",
-      "published_at": "2026-07-24T08:29:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "38",
-      "item_id": "hn:49032756",
-      "summary_type": "extractive",
-      "title_zh": "The Book Prize Index",
-      "summary_zh": "The Book Prize Index"
     },
     {
       "title": "It's getting harder to focus every day",
@@ -269,27 +349,27 @@
       "tags": [
         "ai"
       ],
-      "score": "318",
+      "score": "626",
       "item_id": "hn:49032660",
       "summary_type": "extractive",
       "title_zh": "It's getting harder to focus every day",
       "summary_zh": "It's getting harder to focus every day"
     },
     {
-      "title": "AMD's Instinct MI455X: Aiming for the Sun",
-      "summary": "AMD's Instinct MI455X: Aiming for the Sun",
+      "title": "The hardest way to make a GIF",
+      "summary": "The hardest way to make a GIF",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
-      "published_at": "2026-07-24T06:59:07+00:00",
+      "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
+      "published_at": "2026-07-24T07:05:58+00:00",
       "tags": [
         "ai"
       ],
-      "score": "46",
-      "item_id": "hn:49032072",
+      "score": "25",
+      "item_id": "hn:49032126",
       "summary_type": "extractive",
-      "title_zh": "AMD's Instinct MI455X: Aiming for the Sun",
-      "summary_zh": "AMD's Instinct MI455X: Aiming for the Sun"
+      "title_zh": "The hardest way to make a GIF",
+      "summary_zh": "The hardest way to make a GIF"
     },
     {
       "title": "Flux 3",
@@ -301,43 +381,11 @@
       "tags": [
         "ai"
       ],
-      "score": "428",
+      "score": "531",
       "item_id": "hn:49031796",
       "summary_type": "extractive",
       "title_zh": "Flux 3",
       "summary_zh": "Flux 3"
-    },
-    {
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "summary": "I’ve been building Echo (https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in advance which models would be useful and how their outputs should be combine",
-      "full_text": "I’ve been building Echo (https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in advance which models would be useful and how their outputs should be combine",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=49026810",
-      "published_at": "2026-07-23T19:26:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "421",
-      "item_id": "hn:49026810",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "summary_zh": "I’ve been building Echo (https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in advance which models would be useful and how their outputs should be combine"
-    },
-    {
-      "title": "Why Sony can't bring back its classic Walkman models",
-      "summary": "Why Sony can't bring back its classic Walkman models",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
-      "published_at": "2026-07-23T18:08:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "174",
-      "item_id": "hn:49025766",
-      "summary_type": "extractive",
-      "title_zh": "Why Sony can't bring back its classic Walkman models",
-      "summary_zh": "Why Sony can't bring back its classic Walkman models"
     },
     {
       "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
@@ -347,8 +395,8 @@
       "url": "http://arxiv.org/abs/2607.21595v1",
       "published_at": "2026-07-23T17:59:59Z",
       "tags": [
-        "vision",
         "tool",
+        "vision",
         "llm",
         "paper"
       ],
@@ -366,8 +414,8 @@
       "url": "http://arxiv.org/abs/2607.21580v1",
       "published_at": "2026-07-23T17:56:30Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21580v1",
@@ -383,8 +431,8 @@
       "url": "http://arxiv.org/abs/2607.21579v1",
       "published_at": "2026-07-23T17:56:05Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21579v1",
@@ -400,8 +448,8 @@
       "url": "http://arxiv.org/abs/2607.21577v1",
       "published_at": "2026-07-23T17:55:21Z",
       "tags": [
-        "vision",
         "tool",
+        "vision",
         "llm",
         "paper"
       ],
@@ -453,9 +501,9 @@
       "url": "http://arxiv.org/abs/2607.21558v1",
       "published_at": "2026-07-23T17:40:07Z",
       "tags": [
+        "paper",
         "vision",
-        "llm",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21558v1",
@@ -471,10 +519,10 @@
       "url": "http://arxiv.org/abs/2607.21557v1",
       "published_at": "2026-07-23T17:38:30Z",
       "tags": [
-        "agent",
         "tool",
         "llm",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21557v1",
@@ -490,8 +538,8 @@
       "url": "http://arxiv.org/abs/2607.21556v1",
       "published_at": "2026-07-23T17:37:37Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21556v1",
@@ -507,9 +555,9 @@
       "url": "http://arxiv.org/abs/2607.21552v1",
       "published_at": "2026-07-23T17:35:56Z",
       "tags": [
+        "paper",
         "vision",
-        "llm",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21552v1",
@@ -560,8 +608,8 @@
       "url": "http://arxiv.org/abs/2607.21529v1",
       "published_at": "2026-07-23T17:15:30Z",
       "tags": [
-        "vision",
         "tool",
+        "vision",
         "llm",
         "paper"
       ],
@@ -579,9 +627,9 @@
       "url": "http://arxiv.org/abs/2607.21522v1",
       "published_at": "2026-07-23T17:04:36Z",
       "tags": [
+        "paper",
         "vision",
         "llm",
-        "paper",
         "agent"
       ],
       "score": "📄",
@@ -598,9 +646,9 @@
       "url": "http://arxiv.org/abs/2607.21518v1",
       "published_at": "2026-07-23T17:02:11Z",
       "tags": [
-        "agent",
+        "paper",
         "llm",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21518v1",
@@ -616,30 +664,14 @@
       "url": "http://arxiv.org/abs/2607.21517v1",
       "published_at": "2026-07-23T17:01:36Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21517v1",
       "summary_type": "extractive",
       "title_zh": "Improved lower bounds for the Shannon capacity of odd cycles",
       "summary_zh": "The Shannon capacity $Θ(G)$ of a graph $G$ quantifies the maximum rate at which information can be transmitted with zero error over a noisy channel. It is lower bounded by $α(G^d)^{1/d}$ for any $d$, where $α(G^d)$ is the independence number of the $d$-th strong power of $G$. We construct independent sets of size $134753$ in $C_7^{10}$, $21909$ in $C_{11}^{6}$, and $62530$ in $C_{13}^{6}$, improving the best known lower bounds for the Shannon capacity of these graphs to $Θ(C_7)\\geq 134753^{1/10}"
-    },
-    {
-      "title": "What happened to TheNumbers.com",
-      "summary": "What happened to TheNumbers.com",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "published_at": "2026-07-23T16:53:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "395",
-      "item_id": "hn:49024691",
-      "summary_type": "extractive",
-      "title_zh": "What happened to TheNumbers.com",
-      "summary_zh": "What happened to TheNumbers.com"
     },
     {
       "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
@@ -649,9 +681,9 @@
       "url": "http://arxiv.org/abs/2607.21503v1",
       "published_at": "2026-07-23T16:51:31Z",
       "tags": [
-        "agent",
         "tool",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21503v1",
@@ -667,8 +699,8 @@
       "url": "http://arxiv.org/abs/2607.21498v1",
       "published_at": "2026-07-23T16:47:39Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21498v1",
@@ -684,10 +716,10 @@
       "url": "http://arxiv.org/abs/2607.21495v1",
       "published_at": "2026-07-23T16:41:56Z",
       "tags": [
-        "vision",
         "tool",
-        "agent",
-        "paper"
+        "vision",
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21495v1",
@@ -703,9 +735,9 @@
       "url": "http://arxiv.org/abs/2607.21488v1",
       "published_at": "2026-07-23T16:28:35Z",
       "tags": [
-        "agent",
         "tool",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21488v1",
@@ -714,116 +746,84 @@
       "summary_zh": "Coordinating autonomous vehicles at unsignalized intersections remains a critical challenge for multi-agent reinforcement learning (MARL) systems, which typically struggle with combinatorial action spaces, reliance on privileged information, or rigid agent designs. We propose Master-Agent Proto-plan System (MAPS), a hierarchical deep reinforcement learning (DRL) architecture in which a centralized Master agent generates a compact, continuous embedding, denoted as proto-plan, that encodes a globa"
     },
     {
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "summary": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "title": "Self-host your mail server",
+      "summary": "Self-host your mail server",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-      "published_at": "2026-07-23T15:18:48+00:00",
+      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+      "published_at": "2026-07-23T12:49:10+00:00",
       "tags": [
         "ai"
       ],
-      "score": "353",
-      "item_id": "hn:49023019",
+      "score": "43",
+      "item_id": "hn:49020751",
       "summary_type": "extractive",
-      "title_zh": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "summary_zh": "Why Software Factories Fail (or: harness engineering is not enough)"
+      "title_zh": "Self-host your mail server",
+      "summary_zh": "Self-host your mail server"
     },
     {
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "summary": "https:&#x2F;&#x2F;littletech.org&#x2F;https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0...",
-      "full_text": "https:&#x2F;&#x2F;littletech.org&#x2F;https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0...",
-      "source": "hacker news",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "published_at": "2026-07-23T15:18:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.0k",
-      "item_id": "hn:49023016",
-      "summary_type": "extractive",
-      "title_zh": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "summary_zh": "https:&#x2F;&#x2F;littletech.org&#x2F;https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0..."
-    },
-    {
-      "title": "Writing by hand is good for your brain",
-      "summary": "Writing by hand is good for your brain",
+      "title": "Making Xen's dom0 I/O path NUMA aware",
+      "summary": "Making Xen's dom0 I/O path NUMA aware",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "published_at": "2026-07-23T14:24:43+00:00",
+      "url": "https://edera.dev/stories/numa-part-4-closing-the-xen-dom0-i-o-gap",
+      "published_at": "2026-07-22T10:35:43+00:00",
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.3k",
-      "item_id": "hn:49022152",
+      "score": "23",
+      "item_id": "hn:49004541",
       "summary_type": "extractive",
-      "title_zh": "Writing by hand is good for your brain",
-      "summary_zh": "Writing by hand is good for your brain"
+      "title_zh": "Making Xen's dom0 I/O path NUMA aware",
+      "summary_zh": "Making Xen's dom0 I/O path NUMA aware"
     },
     {
-      "title": "I regret migrating to Codeberg",
-      "summary": "I regret migrating to Codeberg",
+      "title": "Extending Polars with Rust Expression Plugins",
+      "summary": "Extending Polars with Rust Expression Plugins",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
-      "published_at": "2026-07-23T14:06:47+00:00",
+      "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
+      "published_at": "2026-07-21T21:26:32+00:00",
       "tags": [
         "ai"
       ],
-      "score": "412",
-      "item_id": "hn:49021856",
+      "score": "24",
+      "item_id": "hn:48998589",
       "summary_type": "extractive",
-      "title_zh": "I regret migrating to Codeberg",
-      "summary_zh": "I regret migrating to Codeberg"
+      "title_zh": "Extending Polars with Rust Expression Plugins",
+      "summary_zh": "Extending Polars with Rust Expression Plugins"
     },
     {
-      "title": "Tangleflow: Converts GitHub Actions workflows to tangled workflows and back",
-      "summary": "Tangleflow: Converts GitHub Actions workflows to tangled workflows and back",
+      "title": "Latest Airbus single aisle aircraft innovations",
+      "summary": "Latest Airbus single aisle aircraft innovations",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/43081j/tangleflow",
-      "published_at": "2026-07-22T03:28:34+00:00",
+      "url": "https://www.airbus.com/en/newsroom/stories/2026-07-how-the-a321xlr-is-redefining-single-aisle-comfort-for-passengers",
+      "published_at": "2026-07-21T16:22:17+00:00",
       "tags": [
         "ai"
       ],
-      "score": "18",
-      "item_id": "hn:49001498",
+      "score": "40",
+      "item_id": "hn:48994440",
       "summary_type": "extractive",
-      "title_zh": "Tangleflow: Converts GitHub Actions workflows to tangled workflows and back",
-      "summary_zh": "Tangleflow: Converts GitHub Actions workflows to tangled workflows and back"
+      "title_zh": "Latest Airbus single aisle aircraft innovations",
+      "summary_zh": "Latest Airbus single aisle aircraft innovations"
     },
     {
-      "title": "Computational chemistry, Locally? My rant on SSH",
-      "summary": "Computational chemistry, Locally? My rant on SSH",
+      "title": "Reporting Web 3D Capabilities on a Budget of $3 a Month",
+      "summary": "Reporting Web 3D Capabilities on a Budget of $3 a Month",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://chillphysicsenjoyer.substack.com/p/computational-chemistry-locally",
-      "published_at": "2026-07-21T18:23:49+00:00",
+      "url": "https://ben3d.ca/blog/reporting-web-3d-capabilities-on-a-budget",
+      "published_at": "2026-07-20T10:53:59+00:00",
       "tags": [
         "ai"
       ],
-      "score": "27",
-      "item_id": "hn:48996119",
+      "score": "7",
+      "item_id": "hn:48977014",
       "summary_type": "extractive",
-      "title_zh": "Computational chemistry, Locally? My rant on SSH",
-      "summary_zh": "Computational chemistry, Locally? My rant on SSH"
-    },
-    {
-      "title": "The story behind APC-2",
-      "summary": "The story behind APC-2",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://teenage.engineering/now",
-      "published_at": "2026-07-21T12:19:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "5",
-      "item_id": "hn:48991320",
-      "summary_type": "extractive",
-      "title_zh": "The story behind APC-2",
-      "summary_zh": "The story behind APC-2"
+      "title_zh": "Reporting Web 3D Capabilities on a Budget of $3 a Month",
+      "summary_zh": "Reporting Web 3D Capabilities on a Budget of $3 a Month"
     },
     {
       "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
@@ -835,7 +835,7 @@
       "tags": [
         "ai"
       ],
-      "score": "47",
+      "score": "361",
       "item_id": "hn:48973835",
       "summary_type": "extractive",
       "title_zh": "India's first privately-developed rocket reaches orbit on dramatic debut launch",

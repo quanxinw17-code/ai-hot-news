@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-24T19:40:30.517740+00:00",
+  "updated_at": "2026-07-25T03:28:46.075246+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+      "summary": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+      "published_at": "2026-07-25T02:54:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "12",
+      "item_id": "hn:49044074",
+      "summary_type": "extractive",
+      "title_zh": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+      "summary_zh": "Taylor Farms Called White House to Try to Delay Cyclospora Recall"
+    },
+    {
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "summary": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+      "published_at": "2026-07-24T23:13:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "45",
+      "item_id": "hn:49042751",
+      "summary_type": "extractive",
+      "title_zh": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "summary_zh": "Sperm Whales blow bubbles to achieve restful, vertical sleep"
+    },
+    {
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "summary": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://artificialanalysis.ai/models",
+      "published_at": "2026-07-24T19:45:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "172",
+      "item_id": "hn:49040741",
+      "summary_type": "extractive",
+      "title_zh": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "summary_zh": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard"
+    },
     {
       "title": "Postgres LISTEN/NOTIFY actually scales",
       "summary": "Postgres LISTEN/NOTIFY actually scales",
@@ -12,43 +60,11 @@
       "tags": [
         "ai"
       ],
-      "score": "29",
+      "score": "233",
       "item_id": "hn:49040296",
       "summary_type": "extractive",
       "title_zh": "Postgres LISTEN/NOTIFY actually scales",
       "summary_zh": "Postgres LISTEN/NOTIFY actually scales"
-    },
-    {
-      "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-      "summary": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.cloudflare.com/bgp-origin-attribute/",
-      "published_at": "2026-07-24T18:07:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "13",
-      "item_id": "hn:49039490",
-      "summary_type": "extractive",
-      "title_zh": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-      "summary_zh": "BGP ORIGIN attribute manipulation and its impact on the Internet"
-    },
-    {
-      "title": "I got into YC (Startup School) by hacking it",
-      "summary": "I got into YC (Startup School) by hacking it",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-      "published_at": "2026-07-24T18:03:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "60",
-      "item_id": "hn:49039448",
-      "summary_type": "extractive",
-      "title_zh": "I got into YC (Startup School) by hacking it",
-      "summary_zh": "I got into YC (Startup School) by hacking it"
     },
     {
       "title": "Gsxui – Shadcn-style components for Go",
@@ -60,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "16",
+      "score": "58",
       "item_id": "hn:49039395",
       "summary_type": "extractive",
       "title_zh": "Gsxui – Shadcn-style components for Go",
@@ -76,75 +92,11 @@
       "tags": [
         "ai"
       ],
-      "score": "16",
+      "score": "43",
       "item_id": "hn:49038977",
       "summary_type": "extractive",
       "title_zh": "The small, real, original web",
       "summary_zh": "The small, real, original web"
-    },
-    {
-      "title": "DuckPGQ – A DuckDB community extension for graph workloads",
-      "summary": "DuckPGQ – A DuckDB community extension for graph workloads",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://duckpgq.org/",
-      "published_at": "2026-07-24T17:00:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "27",
-      "item_id": "hn:49038481",
-      "summary_type": "extractive",
-      "title_zh": "DuckPGQ – A DuckDB community extension for graph workloads",
-      "summary_zh": "DuckPGQ – A DuckDB community extension for graph workloads"
-    },
-    {
-      "title": "JEP 541: Deprecate the macOS/x64 Port for Removal",
-      "summary": "JEP 541: Deprecate the macOS/x64 Port for Removal",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://openjdk.org/jeps/541",
-      "published_at": "2026-07-24T16:52:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "86",
-      "item_id": "hn:49038352",
-      "summary_type": "extractive",
-      "title_zh": "JEP 541: Deprecate the macOS/x64 Port for Removal",
-      "summary_zh": "JEP 541: Deprecate the macOS/x64 Port for Removal"
-    },
-    {
-      "title": "Online Historical Encyclopaedia of Programming Languages",
-      "summary": "Online Historical Encyclopaedia of Programming Languages",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://hopl.info/",
-      "published_at": "2026-07-24T16:47:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "17",
-      "item_id": "hn:49038276",
-      "summary_type": "extractive",
-      "title_zh": "Online Historical Encyclopaedia of Programming Languages",
-      "summary_zh": "Online Historical Encyclopaedia of Programming Languages"
-    },
-    {
-      "title": "The rise and fall of language diversity through the Holocene",
-      "summary": "The rise and fall of language diversity through the Holocene",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.science.org/doi/10.1126/science.adx4343",
-      "published_at": "2026-07-24T16:40:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "40",
-      "item_id": "hn:49038181",
-      "summary_type": "extractive",
-      "title_zh": "The rise and fall of language diversity through the Holocene",
-      "summary_zh": "The rise and fall of language diversity through the Holocene"
     },
     {
       "title": "Be skeptical of OpenAI's rogue hacker agent story",
@@ -154,14 +106,30 @@
       "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
       "published_at": "2026-07-24T16:33:31+00:00",
       "tags": [
-        "llm",
-        "agent"
+        "agent",
+        "llm"
       ],
-      "score": "245",
+      "score": "448",
       "item_id": "hn:49038060",
       "summary_type": "extractive",
       "title_zh": "Be skeptical of OpenAI's rogue hacker agent story",
       "summary_zh": "Be skeptical of OpenAI's rogue hacker agent story"
+    },
+    {
+      "title": "Proving a human wrote something",
+      "summary": "Proving a human wrote something",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://gjtorikian.online/posts/proving-a-human-wrote-something/",
+      "published_at": "2026-07-24T16:33:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "47",
+      "item_id": "hn:49038059",
+      "summary_type": "extractive",
+      "title_zh": "Proving a human wrote something",
+      "summary_zh": "Proving a human wrote something"
     },
     {
       "title": "Unitree As2-W",
@@ -173,91 +141,27 @@
       "tags": [
         "ai"
       ],
-      "score": "45",
+      "score": "102",
       "item_id": "hn:49038045",
       "summary_type": "extractive",
       "title_zh": "Unitree As2-W",
       "summary_zh": "Unitree As2-W"
     },
     {
-      "title": "Codeberg Divides",
-      "summary": "Codeberg Divides",
+      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "summary": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
-      "published_at": "2026-07-24T15:05:06+00:00",
+      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+      "published_at": "2026-07-24T14:41:59+00:00",
       "tags": [
         "ai"
       ],
-      "score": "77",
-      "item_id": "hn:49036765",
+      "score": "400",
+      "item_id": "hn:49036433",
       "summary_type": "extractive",
-      "title_zh": "Codeberg Divides",
-      "summary_zh": "Codeberg Divides"
-    },
-    {
-      "title": "3GPP Version 19",
-      "summary": "3GPP Version 19",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.3gpp.org/specifications-technologies/releases/release-19",
-      "published_at": "2026-07-24T14:23:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "38",
-      "item_id": "hn:49036136",
-      "summary_type": "extractive",
-      "title_zh": "3GPP Version 19",
-      "summary_zh": "3GPP Version 19"
-    },
-    {
-      "title": "WebGPU Unleashed: A Practical Tutorial",
-      "summary": "WebGPU Unleashed: A Practical Tutorial",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://shi-yan.github.io/webgpuunleashed/",
-      "published_at": "2026-07-24T14:04:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "33",
-      "item_id": "hn:49035845",
-      "summary_type": "extractive",
-      "title_zh": "WebGPU Unleashed: A Practical Tutorial",
-      "summary_zh": "WebGPU Unleashed: A Practical Tutorial"
-    },
-    {
-      "title": "Plants vs. Zombies for PlayStation 2",
-      "summary": "Plants vs. Zombies for PlayStation 2",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/OptiJuegos/pvz-ps2",
-      "published_at": "2026-07-24T13:57:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "42",
-      "item_id": "hn:49035740",
-      "summary_type": "extractive",
-      "title_zh": "Plants vs. Zombies for PlayStation 2",
-      "summary_zh": "Plants vs. Zombies for PlayStation 2"
-    },
-    {
-      "title": "My Emacs Configuration (Dired)",
-      "summary": "My Emacs Configuration (Dired)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://eugene-andrienko.com/2026-07-05-my-emacs-configuration-dired.html",
-      "published_at": "2026-07-24T13:47:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "33",
-      "item_id": "hn:49035561",
-      "summary_type": "extractive",
-      "title_zh": "My Emacs Configuration (Dired)",
-      "summary_zh": "My Emacs Configuration (Dired)"
+      "title_zh": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "summary_zh": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey"
     },
     {
       "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
@@ -269,7 +173,7 @@
       "tags": [
         "ai"
       ],
-      "score": "198",
+      "score": "540",
       "item_id": "hn:49035303",
       "summary_type": "extractive",
       "title_zh": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
@@ -285,7 +189,7 @@
       "tags": [
         "ai"
       ],
-      "score": "199",
+      "score": "283",
       "item_id": "hn:49034868",
       "summary_type": "extractive",
       "title_zh": "Half-Life 2 running natively on HaikuOS",
@@ -301,11 +205,27 @@
       "tags": [
         "ai"
       ],
-      "score": "292",
+      "score": "333",
       "item_id": "hn:49034747",
       "summary_type": "extractive",
       "title_zh": "Em dashes are amazing",
       "summary_zh": "Em dashes are amazing"
+    },
+    {
+      "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
+      "summary": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+      "published_at": "2026-07-24T12:34:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "42",
+      "item_id": "hn:49034673",
+      "summary_type": "extractive",
+      "title_zh": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
+      "summary_zh": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes"
     },
     {
       "title": "My security camera shipped a GitHub admin token in its login page",
@@ -317,11 +237,59 @@
       "tags": [
         "ai"
       ],
-      "score": "406",
+      "score": "532",
       "item_id": "hn:49034292",
       "summary_type": "extractive",
       "title_zh": "My security camera shipped a GitHub admin token in its login page",
       "summary_zh": "My security camera shipped a GitHub admin token in its login page"
+    },
+    {
+      "title": "The case for MUDs in modern times (2018)",
+      "summary": "The case for MUDs in modern times (2018)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+      "published_at": "2026-07-24T11:46:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "88",
+      "item_id": "hn:49034217",
+      "summary_type": "extractive",
+      "title_zh": "The case for MUDs in modern times (2018)",
+      "summary_zh": "The case for MUDs in modern times (2018)"
+    },
+    {
+      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+      "summary": "IRGC claims it destroyed Amazon's Bahrain data center",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+      "published_at": "2026-07-24T09:52:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "258",
+      "item_id": "hn:49033240",
+      "summary_type": "extractive",
+      "title_zh": "IRGC claims it destroyed Amazon's Bahrain data center",
+      "summary_zh": "IRGC claims it destroyed Amazon's Bahrain data center"
+    },
+    {
+      "title": "Future euro banknote design proposals",
+      "summary": "https:&#x2F;&#x2F;www.ecb.europa.eu&#x2F;euro&#x2F;banknotes&#x2F;future_banknotes&#x2F;ht...",
+      "full_text": "https:&#x2F;&#x2F;www.ecb.europa.eu&#x2F;euro&#x2F;banknotes&#x2F;future_banknotes&#x2F;ht...",
+      "source": "hacker news",
+      "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
+      "published_at": "2026-07-24T09:29:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "141",
+      "item_id": "hn:49033110",
+      "summary_type": "extractive",
+      "title_zh": "Future euro banknote design proposals",
+      "summary_zh": "https:&#x2F;&#x2F;www.ecb.europa.eu&#x2F;euro&#x2F;banknotes&#x2F;future_banknotes&#x2F;ht..."
     },
     {
       "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
@@ -333,59 +301,27 @@
       "tags": [
         "ai"
       ],
-      "score": "210",
+      "score": "233",
       "item_id": "hn:49033099",
       "summary_type": "extractive",
       "title_zh": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
       "summary_zh": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds"
     },
     {
-      "title": "It's getting harder to focus every day",
-      "summary": "It's getting harder to focus every day",
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "summary": "If coding has been solved, why does software keep getting worse?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://glyphack.com/attention/",
-      "published_at": "2026-07-24T08:18:30+00:00",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "published_at": "2026-07-24T09:08:17+00:00",
       "tags": [
         "ai"
       ],
-      "score": "626",
-      "item_id": "hn:49032660",
+      "score": "592",
+      "item_id": "hn:49033004",
       "summary_type": "extractive",
-      "title_zh": "It's getting harder to focus every day",
-      "summary_zh": "It's getting harder to focus every day"
-    },
-    {
-      "title": "The hardest way to make a GIF",
-      "summary": "The hardest way to make a GIF",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-      "published_at": "2026-07-24T07:05:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "25",
-      "item_id": "hn:49032126",
-      "summary_type": "extractive",
-      "title_zh": "The hardest way to make a GIF",
-      "summary_zh": "The hardest way to make a GIF"
-    },
-    {
-      "title": "Flux 3",
-      "summary": "Flux 3",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://bfl.ai/blog/flux-3",
-      "published_at": "2026-07-24T06:17:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "531",
-      "item_id": "hn:49031796",
-      "summary_type": "extractive",
-      "title_zh": "Flux 3",
-      "summary_zh": "Flux 3"
+      "title_zh": "If coding has been solved, why does software keep getting worse?",
+      "summary_zh": "If coding has been solved, why does software keep getting worse?"
     },
     {
       "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
@@ -395,10 +331,10 @@
       "url": "http://arxiv.org/abs/2607.21595v1",
       "published_at": "2026-07-23T17:59:59Z",
       "tags": [
-        "tool",
         "vision",
-        "llm",
-        "paper"
+        "tool",
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21595v1",
@@ -414,8 +350,8 @@
       "url": "http://arxiv.org/abs/2607.21580v1",
       "published_at": "2026-07-23T17:56:30Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21580v1",
@@ -431,8 +367,8 @@
       "url": "http://arxiv.org/abs/2607.21579v1",
       "published_at": "2026-07-23T17:56:05Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21579v1",
@@ -448,10 +384,10 @@
       "url": "http://arxiv.org/abs/2607.21577v1",
       "published_at": "2026-07-23T17:55:21Z",
       "tags": [
-        "tool",
         "vision",
-        "llm",
-        "paper"
+        "tool",
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21577v1",
@@ -501,8 +437,8 @@
       "url": "http://arxiv.org/abs/2607.21558v1",
       "published_at": "2026-07-23T17:40:07Z",
       "tags": [
-        "paper",
         "vision",
+        "paper",
         "llm"
       ],
       "score": "📄",
@@ -519,10 +455,10 @@
       "url": "http://arxiv.org/abs/2607.21557v1",
       "published_at": "2026-07-23T17:38:30Z",
       "tags": [
-        "tool",
-        "llm",
+        "agent",
         "paper",
-        "agent"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21557v1",
@@ -538,8 +474,8 @@
       "url": "http://arxiv.org/abs/2607.21556v1",
       "published_at": "2026-07-23T17:37:37Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21556v1",
@@ -555,8 +491,8 @@
       "url": "http://arxiv.org/abs/2607.21552v1",
       "published_at": "2026-07-23T17:35:56Z",
       "tags": [
-        "paper",
         "vision",
+        "paper",
         "llm"
       ],
       "score": "📄",
@@ -591,8 +527,8 @@
       "published_at": "2026-07-23T17:15:53Z",
       "tags": [
         "tool",
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21530v1",
@@ -608,16 +544,32 @@
       "url": "http://arxiv.org/abs/2607.21529v1",
       "published_at": "2026-07-23T17:15:30Z",
       "tags": [
-        "tool",
         "vision",
-        "llm",
-        "paper"
+        "tool",
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21529v1",
       "summary_type": "extractive",
       "title_zh": "ElasticTTT: Prior-Preserving Test-Time Tuning for Video Editing",
       "summary_zh": "Test-Time Tuning (TTT) on pretrained diffusion models has emerged as a powerful paradigm for video editing. However, there exists a foundational mismatch between the distribution-mapping nature of generative models and the single-point optimization of standard TTT. In this paper, we demonstrate that this mismatch triggers \\textit{Prior Collapse}, a degenerate state where the model discards the text conditions and spatial latents, collapsing generations to the source video, or entangling the feat"
+    },
+    {
+      "title": "Kimi K3 exploited the latest Redis server",
+      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777",
+      "full_text": "https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777",
+      "source": "hacker news",
+      "url": "https://twitter.com/fried_rice/status/2080059356322918777",
+      "published_at": "2026-07-23T17:10:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "162",
+      "item_id": "hn:49024938",
+      "summary_type": "extractive",
+      "title_zh": "Kimi K3 exploited the latest Redis server",
+      "summary_zh": "https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777"
     },
     {
       "title": "GS-Agent: Creating 4D Physical Worlds With Generative Simulation",
@@ -627,10 +579,10 @@
       "url": "http://arxiv.org/abs/2607.21522v1",
       "published_at": "2026-07-23T17:04:36Z",
       "tags": [
-        "paper",
         "vision",
-        "llm",
-        "agent"
+        "agent",
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21522v1",
@@ -646,9 +598,9 @@
       "url": "http://arxiv.org/abs/2607.21518v1",
       "published_at": "2026-07-23T17:02:11Z",
       "tags": [
+        "agent",
         "paper",
-        "llm",
-        "agent"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21518v1",
@@ -664,8 +616,8 @@
       "url": "http://arxiv.org/abs/2607.21517v1",
       "published_at": "2026-07-23T17:01:36Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21517v1",
@@ -681,9 +633,9 @@
       "url": "http://arxiv.org/abs/2607.21503v1",
       "published_at": "2026-07-23T16:51:31Z",
       "tags": [
-        "tool",
+        "agent",
         "paper",
-        "agent"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21503v1",
@@ -716,10 +668,10 @@
       "url": "http://arxiv.org/abs/2607.21495v1",
       "published_at": "2026-07-23T16:41:56Z",
       "tags": [
-        "tool",
         "vision",
+        "agent",
         "paper",
-        "agent"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21495v1",
@@ -735,9 +687,9 @@
       "url": "http://arxiv.org/abs/2607.21488v1",
       "published_at": "2026-07-23T16:28:35Z",
       "tags": [
-        "tool",
+        "agent",
         "paper",
-        "agent"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21488v1",
@@ -746,88 +698,136 @@
       "summary_zh": "Coordinating autonomous vehicles at unsignalized intersections remains a critical challenge for multi-agent reinforcement learning (MARL) systems, which typically struggle with combinatorial action spaces, reliance on privileged information, or rigid agent designs. We propose Master-Agent Proto-plan System (MAPS), a hierarchical deep reinforcement learning (DRL) architecture in which a centralized Master agent generates a compact, continuous embedding, denoted as proto-plan, that encodes a globa"
     },
     {
-      "title": "Self-host your mail server",
-      "summary": "Self-host your mail server",
-      "full_text": "",
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "summary": "OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade.The model:\nThe mechanics are the same as the financial network Eisenberg-Noe: Instead of banks, every country consumes oil interconnected via bilateral trading. Shocks propagate throughout the network, depleting oil reserves when bottleneck nodes (such as the Strait of Hormuz) are blocked.Insights:",
+      "full_text": "OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade.The model:\nThe mechanics are the same as the financial network Eisenberg-Noe: Instead of banks, every country consumes oil interconnected via bilateral trading. Shocks propagate throughout the network, depleting oil reserves when bottleneck nodes (such as the Strait of Hormuz) are blocked.Insights:",
       "source": "hacker news",
-      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-      "published_at": "2026-07-23T12:49:10+00:00",
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
+      "published_at": "2026-07-23T12:31:21+00:00",
       "tags": [
         "ai"
       ],
-      "score": "43",
-      "item_id": "hn:49020751",
+      "score": "117",
+      "item_id": "hn:49020545",
       "summary_type": "extractive",
-      "title_zh": "Self-host your mail server",
-      "summary_zh": "Self-host your mail server"
+      "title_zh": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "summary_zh": "OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade.The model:\nThe mechanics are the same as the financial network Eisenberg-Noe: Instead of banks, every country consumes oil interconnected via bilateral trading. Shocks propagate throughout the network, depleting oil reserves when bottleneck nodes (such as the Strait of Hormuz) are blocked.Insights:"
     },
     {
-      "title": "Making Xen's dom0 I/O path NUMA aware",
-      "summary": "Making Xen's dom0 I/O path NUMA aware",
-      "full_text": "",
+      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+      "summary": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVInohttps:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev...https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2F;31&#x2F;a-zipper-patent-sat-i...",
+      "full_text": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVInohttps:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev...https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2F;31&#x2F;a-zipper-patent-sat-i...",
       "source": "hacker news",
-      "url": "https://edera.dev/stories/numa-part-4-closing-the-xen-dom0-i-o-gap",
-      "published_at": "2026-07-22T10:35:43+00:00",
+      "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+      "published_at": "2026-07-22T15:37:25+00:00",
       "tags": [
         "ai"
       ],
-      "score": "23",
-      "item_id": "hn:49004541",
+      "score": "150",
+      "item_id": "hn:49008512",
       "summary_type": "extractive",
-      "title_zh": "Making Xen's dom0 I/O path NUMA aware",
-      "summary_zh": "Making Xen's dom0 I/O path NUMA aware"
+      "title_zh": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+      "summary_zh": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVInohttps:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev...https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2F;31&#x2F;a-zipper-patent-sat-i..."
     },
     {
-      "title": "Extending Polars with Rust Expression Plugins",
-      "summary": "Extending Polars with Rust Expression Plugins",
+      "title": "Marimo now runs in PyCharm",
+      "summary": "Marimo now runs in PyCharm",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
-      "published_at": "2026-07-21T21:26:32+00:00",
+      "url": "https://marimo.io/blog/pycharm",
+      "published_at": "2026-07-22T10:24:40+00:00",
       "tags": [
         "ai"
       ],
-      "score": "24",
-      "item_id": "hn:48998589",
+      "score": "85",
+      "item_id": "hn:49004464",
       "summary_type": "extractive",
-      "title_zh": "Extending Polars with Rust Expression Plugins",
-      "summary_zh": "Extending Polars with Rust Expression Plugins"
+      "title_zh": "Marimo now runs in PyCharm",
+      "summary_zh": "Marimo now runs in PyCharm"
     },
     {
-      "title": "Latest Airbus single aisle aircraft innovations",
-      "summary": "Latest Airbus single aisle aircraft innovations",
+      "title": "Firefox Containers Preview",
+      "summary": "Firefox Containers Preview",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.airbus.com/en/newsroom/stories/2026-07-how-the-a321xlr-is-redefining-single-aisle-comfort-for-passengers",
-      "published_at": "2026-07-21T16:22:17+00:00",
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "published_at": "2026-07-21T17:27:59+00:00",
       "tags": [
         "ai"
       ],
-      "score": "40",
-      "item_id": "hn:48994440",
+      "score": "246",
+      "item_id": "hn:48995409",
       "summary_type": "extractive",
-      "title_zh": "Latest Airbus single aisle aircraft innovations",
-      "summary_zh": "Latest Airbus single aisle aircraft innovations"
+      "title_zh": "Firefox Containers Preview",
+      "summary_zh": "Firefox Containers Preview"
     },
     {
-      "title": "Reporting Web 3D Capabilities on a Budget of $3 a Month",
-      "summary": "Reporting Web 3D Capabilities on a Budget of $3 a Month",
+      "title": "A concrete explanation of how a cache works",
+      "summary": "A concrete explanation of how a cache works",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ben3d.ca/blog/reporting-web-3d-capabilities-on-a-budget",
-      "published_at": "2026-07-20T10:53:59+00:00",
+      "url": "https://parksb.github.io/en/article/29.html",
+      "published_at": "2026-07-21T14:05:16+00:00",
       "tags": [
         "ai"
       ],
-      "score": "7",
-      "item_id": "hn:48977014",
+      "score": "6",
+      "item_id": "hn:48992539",
       "summary_type": "extractive",
-      "title_zh": "Reporting Web 3D Capabilities on a Budget of $3 a Month",
-      "summary_zh": "Reporting Web 3D Capabilities on a Budget of $3 a Month"
+      "title_zh": "A concrete explanation of how a cache works",
+      "summary_zh": "A concrete explanation of how a cache works"
     },
     {
-      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-      "summary": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "title": "The road to epsilon-zero: Nim always ends, even with infinite ordinals",
+      "summary": "The road to epsilon-zero: Nim always ends, even with infinite ordinals",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.plover.com/math/ordinals/02-wellfoundedness.html",
+      "published_at": "2026-07-21T00:10:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:48986560",
+      "summary_type": "extractive",
+      "title_zh": "The road to epsilon-zero: Nim always ends, even with infinite ordinals",
+      "summary_zh": "The road to epsilon-zero: Nim always ends, even with infinite ordinals"
+    },
+    {
+      "title": "Designing an Ethernet Switch ASIC",
+      "summary": "Designing an Ethernet Switch ASIC",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+      "published_at": "2026-07-20T21:35:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "128",
+      "item_id": "hn:48985182",
+      "summary_type": "extractive",
+      "title_zh": "Designing an Ethernet Switch ASIC",
+      "summary_zh": "Designing an Ethernet Switch ASIC"
+    },
+    {
+      "title": "The footprints of every building in NYC",
+      "summary": "https:&#x2F;&#x2F;github.com&#x2F;CityOfNewYork&#x2F;nyc-geo-metadata&#x2F;blob&#x2F;main&#x2F;...",
+      "full_text": "https:&#x2F;&#x2F;github.com&#x2F;CityOfNewYork&#x2F;nyc-geo-metadata&#x2F;blob&#x2F;main&#x2F;...",
+      "source": "hacker news",
+      "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
+      "published_at": "2026-07-20T12:25:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "56",
+      "item_id": "hn:48977849",
+      "summary_type": "extractive",
+      "title_zh": "The footprints of every building in NYC",
+      "summary_zh": "https:&#x2F;&#x2F;github.com&#x2F;CityOfNewYork&#x2F;nyc-geo-metadata&#x2F;blob&#x2F;main&#x2F;..."
+    },
+    {
+      "title": "India's first privately-developed rocket reaches orbit on debut launch",
+      "summary": "India's first privately-developed rocket reaches orbit on debut launch",
       "full_text": "",
       "source": "hacker news",
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
@@ -835,11 +835,11 @@
       "tags": [
         "ai"
       ],
-      "score": "361",
+      "score": "524",
       "item_id": "hn:48973835",
       "summary_type": "extractive",
-      "title_zh": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-      "summary_zh": "India's first privately-developed rocket reaches orbit on dramatic debut launch"
+      "title_zh": "India's first privately-developed rocket reaches orbit on debut launch",
+      "summary_zh": "India's first privately-developed rocket reaches orbit on debut launch"
     }
   ]
 }

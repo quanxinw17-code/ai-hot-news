@@ -1,38 +1,198 @@
 {
-  "updated_at": "2026-07-25T13:52:34.976725+00:00",
+  "updated_at": "2026-07-25T19:19:30.890357+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "summary": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+      "title": "Tile's security is so bad it's a feature for stalkers",
+      "summary": "Tile's security is so bad it's a feature for stalkers",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-      "published_at": "2026-07-25T13:33:03+00:00",
+      "url": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
+      "published_at": "2026-07-25T18:18:42+00:00",
       "tags": [
         "ai"
       ],
-      "score": "4",
-      "item_id": "hn:49047448",
+      "score": "45",
+      "item_id": "hn:49050152",
       "summary_type": "extractive",
-      "title_zh": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "summary_zh": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI"
+      "title_zh": "Tile's security is so bad it's a feature for stalkers",
+      "summary_zh": "Tile's security is so bad it's a feature for stalkers"
     },
     {
-      "title": "League of Legends designer shares game design field manual",
-      "summary": "League of Legends designer shares game design field manual",
+      "title": "Rauno's Field Notes #2",
+      "summary": "Rauno's Field Notes #2",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://areadenial.games/design/preface#00-01",
-      "published_at": "2026-07-25T12:51:48+00:00",
+      "url": "https://rauno.me/notes/2",
+      "published_at": "2026-07-25T16:39:55+00:00",
       "tags": [
         "ai"
       ],
-      "score": "9",
-      "item_id": "hn:49047198",
+      "score": "15",
+      "item_id": "hn:49049066",
       "summary_type": "extractive",
-      "title_zh": "League of Legends designer shares game design field manual",
-      "summary_zh": "League of Legends designer shares game design field manual"
+      "title_zh": "Rauno's Field Notes #2",
+      "summary_zh": "Rauno's Field Notes #2"
+    },
+    {
+      "title": "Bringing PyTorch Monarch to AMD GPUs",
+      "summary": "Bringing PyTorch Monarch to AMD GPUs",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+      "published_at": "2026-07-25T15:55:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "34",
+      "item_id": "hn:49048689",
+      "summary_type": "extractive",
+      "title_zh": "Bringing PyTorch Monarch to AMD GPUs",
+      "summary_zh": "Bringing PyTorch Monarch to AMD GPUs"
+    },
+    {
+      "title": "The Dark Night of Mathematics",
+      "summary": "The Dark Night of Mathematics",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+      "published_at": "2026-07-25T15:54:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "77",
+      "item_id": "hn:49048681",
+      "summary_type": "extractive",
+      "title_zh": "The Dark Night of Mathematics",
+      "summary_zh": "The Dark Night of Mathematics"
+    },
+    {
+      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
+      "summary": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "published_at": "2026-07-25T15:51:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "45",
+      "item_id": "hn:49048645",
+      "summary_type": "extractive",
+      "title_zh": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
+      "summary_zh": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits"
+    },
+    {
+      "title": "Engineering management after the cost of code collapsed",
+      "summary": "Engineering management after the cost of code collapsed",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
+      "published_at": "2026-07-25T15:10:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "60",
+      "item_id": "hn:49048212",
+      "summary_type": "extractive",
+      "title_zh": "Engineering management after the cost of code collapsed",
+      "summary_zh": "Engineering management after the cost of code collapsed"
+    },
+    {
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "summary": "Open-weight AI is having its Kubernetes moment",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "published_at": "2026-07-25T14:49:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "160",
+      "item_id": "hn:49048034",
+      "summary_type": "extractive",
+      "title_zh": "Open-weight AI is having its Kubernetes moment",
+      "summary_zh": "Open-weight AI is having its Kubernetes moment"
+    },
+    {
+      "title": "Task-centered iproute2 user guide",
+      "summary": "Task-centered iproute2 user guide",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://baturin.org/docs/iproute2/",
+      "published_at": "2026-07-25T14:32:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "22",
+      "item_id": "hn:49047884",
+      "summary_type": "extractive",
+      "title_zh": "Task-centered iproute2 user guide",
+      "summary_zh": "Task-centered iproute2 user guide"
+    },
+    {
+      "title": "The Silurian Hypothesis (2020)",
+      "summary": "The Silurian Hypothesis (2020)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/",
+      "published_at": "2026-07-25T13:48:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "40",
+      "item_id": "hn:49047563",
+      "summary_type": "extractive",
+      "title_zh": "The Silurian Hypothesis (2020)",
+      "summary_zh": "The Silurian Hypothesis (2020)"
+    },
+    {
+      "title": "My web version of Mars MIPS, now have builtin C compiler",
+      "summary": "My web version of Mars MIPS, now have builtin C compiler",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://webmars.nfiles.top/",
+      "published_at": "2026-07-25T13:42:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "21",
+      "item_id": "hn:49047516",
+      "summary_type": "extractive",
+      "title_zh": "My web version of Mars MIPS, now have builtin C compiler",
+      "summary_zh": "My web version of Mars MIPS, now have builtin C compiler"
+    },
+    {
+      "title": "Harddrive Is Probably Full",
+      "summary": "Harddrive Is Probably Full",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.marginalia.nu/log/a_139_hdd/",
+      "published_at": "2026-07-25T13:33:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "27",
+      "item_id": "hn:49047449",
+      "summary_type": "extractive",
+      "title_zh": "Harddrive Is Probably Full",
+      "summary_zh": "Harddrive Is Probably Full"
+    },
+    {
+      "title": "Bitchat is now on Radicle",
+      "summary": "Bitchat is now on Radicle",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
+      "published_at": "2026-07-25T13:18:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "131",
+      "item_id": "hn:49047365",
+      "summary_type": "extractive",
+      "title_zh": "Bitchat is now on Radicle",
+      "summary_zh": "Bitchat is now on Radicle"
     },
     {
       "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
@@ -60,7 +220,7 @@
       "tags": [
         "ai"
       ],
-      "score": "28",
+      "score": "104",
       "item_id": "hn:49046525",
       "summary_type": "extractive",
       "title_zh": "The Fedora 45 Sausage Factory",
@@ -76,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "43",
+      "score": "129",
       "item_id": "hn:49045446",
       "summary_type": "extractive",
       "title_zh": "MouthPad: A Tongue-Controlled Touchpad",
@@ -92,27 +252,11 @@
       "tags": [
         "ai"
       ],
-      "score": "459",
+      "score": "742",
       "item_id": "hn:49045159",
       "summary_type": "extractive",
       "title_zh": "Android May Soon Restrict On-Device ADB",
       "summary_zh": "Android May Soon Restrict On-Device ADB"
-    },
-    {
-      "title": "ARC-AGI Leaderboard",
-      "summary": "ARC-AGI Leaderboard",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arcprize.org/leaderboard",
-      "published_at": "2026-07-25T06:31:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "122",
-      "item_id": "hn:49045040",
-      "summary_type": "extractive",
-      "title_zh": "ARC-AGI Leaderboard",
-      "summary_zh": "ARC-AGI Leaderboard"
     },
     {
       "title": "Extinct Media Museum Tokyo",
@@ -124,7 +268,7 @@
       "tags": [
         "ai"
       ],
-      "score": "70",
+      "score": "102",
       "item_id": "hn:49044874",
       "summary_type": "extractive",
       "title_zh": "Extinct Media Museum Tokyo",
@@ -140,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "89",
+      "score": "119",
       "item_id": "hn:49044492",
       "summary_type": "extractive",
       "title_zh": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
@@ -156,123 +300,27 @@
       "tags": [
         "ai"
       ],
-      "score": "379",
+      "score": "539",
       "item_id": "hn:49043724",
       "summary_type": "extractive",
       "title_zh": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
       "summary_zh": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach"
     },
     {
-      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-      "summary": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-      "full_text": "",
+      "title": "Show HN: I made some transistor animations",
+      "summary": "Hi HN,\nI made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. If you want to go beyond the charge carriers and look at, for example, the electric field, you can do so in the simulation software.",
+      "full_text": "Hi HN,\nI made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. If you want to go beyond the charge carriers and look at, for example, the electric field, you can do so in the simulation software. The desktop software also has less common devices like IBGTs and SCRs that have similar animations.The last thread about my software was post",
       "source": "hacker news",
-      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-      "published_at": "2026-07-24T23:13:18+00:00",
+      "url": "https://brandonli.net/semisim/animations",
+      "published_at": "2026-07-24T18:37:06+00:00",
       "tags": [
         "ai"
       ],
-      "score": "109",
-      "item_id": "hn:49042751",
+      "score": "28",
+      "item_id": "hn:49039868",
       "summary_type": "extractive",
-      "title_zh": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-      "summary_zh": "Sperm Whales blow bubbles to achieve restful, vertical sleep"
-    },
-    {
-      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "summary": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://artificialanalysis.ai/models",
-      "published_at": "2026-07-24T19:45:10+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "331",
-      "item_id": "hn:49040741",
-      "summary_type": "extractive",
-      "title_zh": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "summary_zh": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard"
-    },
-    {
-      "title": "Postgres LISTEN/NOTIFY actually scales",
-      "summary": "Postgres LISTEN/NOTIFY actually scales",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "published_at": "2026-07-24T19:05:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "339",
-      "item_id": "hn:49040296",
-      "summary_type": "extractive",
-      "title_zh": "Postgres LISTEN/NOTIFY actually scales",
-      "summary_zh": "Postgres LISTEN/NOTIFY actually scales"
-    },
-    {
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "summary": "Half-Life 2 running natively on HaikuOS",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "published_at": "2026-07-24T12:53:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "322",
-      "item_id": "hn:49034868",
-      "summary_type": "extractive",
-      "title_zh": "Half-Life 2 running natively on HaikuOS",
-      "summary_zh": "Half-Life 2 running natively on HaikuOS"
-    },
-    {
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "summary": "My security camera shipped a GitHub admin token in its login page",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://hhh.hn/hanwha-github-token/",
-      "published_at": "2026-07-24T11:54:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "615",
-      "item_id": "hn:49034292",
-      "summary_type": "extractive",
-      "title_zh": "My security camera shipped a GitHub admin token in its login page",
-      "summary_zh": "My security camera shipped a GitHub admin token in its login page"
-    },
-    {
-      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
-      "summary": "IRGC claims it destroyed Amazon's Bahrain data center",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-      "published_at": "2026-07-24T09:52:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "322",
-      "item_id": "hn:49033240",
-      "summary_type": "extractive",
-      "title_zh": "IRGC claims it destroyed Amazon's Bahrain data center",
-      "summary_zh": "IRGC claims it destroyed Amazon's Bahrain data center"
-    },
-    {
-      "title": "Future euro banknote design proposals",
-      "summary": "https:&#x2F;&#x2F;www.ecb.europa.eu&#x2F;euro&#x2F;banknotes&#x2F;future_banknotes&#x2F;ht...",
-      "full_text": "https:&#x2F;&#x2F;www.ecb.europa.eu&#x2F;euro&#x2F;banknotes&#x2F;future_banknotes&#x2F;ht...",
-      "source": "hacker news",
-      "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
-      "published_at": "2026-07-24T09:29:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "253",
-      "item_id": "hn:49033110",
-      "summary_type": "extractive",
-      "title_zh": "Future euro banknote design proposals",
-      "summary_zh": "https:&#x2F;&#x2F;www.ecb.europa.eu&#x2F;euro&#x2F;banknotes&#x2F;future_banknotes&#x2F;ht..."
+      "title_zh": "Show HN: I made some transistor animations",
+      "summary_zh": "Hi HN,\nI made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. If you want to go beyond the charge carriers and look at, for example, the electric field, you can do so in the simulation software."
     },
     {
       "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
@@ -283,8 +331,8 @@
       "published_at": "2026-07-23T17:59:59Z",
       "tags": [
         "llm",
-        "vision",
         "paper",
+        "vision",
         "tool"
       ],
       "score": "📄",
@@ -301,8 +349,8 @@
       "url": "http://arxiv.org/abs/2607.21580v1",
       "published_at": "2026-07-23T17:56:30Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21580v1",
@@ -318,8 +366,8 @@
       "url": "http://arxiv.org/abs/2607.21579v1",
       "published_at": "2026-07-23T17:56:05Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21579v1",
@@ -336,8 +384,8 @@
       "published_at": "2026-07-23T17:55:21Z",
       "tags": [
         "llm",
-        "vision",
         "paper",
+        "vision",
         "tool"
       ],
       "score": "📄",
@@ -388,9 +436,9 @@
       "url": "http://arxiv.org/abs/2607.21558v1",
       "published_at": "2026-07-23T17:40:07Z",
       "tags": [
-        "llm",
+        "paper",
         "vision",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21558v1",
@@ -407,8 +455,8 @@
       "published_at": "2026-07-23T17:38:30Z",
       "tags": [
         "llm",
-        "agent",
         "paper",
+        "agent",
         "tool"
       ],
       "score": "📄",
@@ -425,8 +473,8 @@
       "url": "http://arxiv.org/abs/2607.21556v1",
       "published_at": "2026-07-23T17:37:37Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21556v1",
@@ -442,9 +490,9 @@
       "url": "http://arxiv.org/abs/2607.21552v1",
       "published_at": "2026-07-23T17:35:56Z",
       "tags": [
-        "llm",
+        "paper",
         "vision",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21552v1",
@@ -460,8 +508,8 @@
       "url": "http://arxiv.org/abs/2607.21547v1",
       "published_at": "2026-07-23T17:33:43Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21547v1",
@@ -496,8 +544,8 @@
       "published_at": "2026-07-23T17:15:30Z",
       "tags": [
         "llm",
-        "vision",
         "paper",
+        "vision",
         "tool"
       ],
       "score": "📄",
@@ -507,22 +555,6 @@
       "summary_zh": "Test-Time Tuning (TTT) on pretrained diffusion models has emerged as a powerful paradigm for video editing. However, there exists a foundational mismatch between the distribution-mapping nature of generative models and the single-point optimization of standard TTT. In this paper, we demonstrate that this mismatch triggers \\textit{Prior Collapse}, a degenerate state where the model discards the text conditions and spatial latents, collapsing generations to the source video, or entangling the feat"
     },
     {
-      "title": "Kimi K3 exploited the latest Redis server",
-      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777",
-      "full_text": "https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777",
-      "source": "hacker news",
-      "url": "https://twitter.com/fried_rice/status/2080059356322918777",
-      "published_at": "2026-07-23T17:10:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "243",
-      "item_id": "hn:49024938",
-      "summary_type": "extractive",
-      "title_zh": "Kimi K3 exploited the latest Redis server",
-      "summary_zh": "https:&#x2F;&#x2F;xcancel.com&#x2F;fried_rice&#x2F;status&#x2F;2080059356322918777"
-    },
-    {
       "title": "GS-Agent: Creating 4D Physical Worlds With Generative Simulation",
       "summary": "Creating dynamic and physically realistic 4D worlds from natural language descriptions is both fascinating and challenging. Traditional computer graphics methods rely on manual creation, requiring extensive human effort to fine-tune materials, motions, and visual fidelity. Recent advances in generative foundation models have sparked interest in learning to generate such 4D worlds from large-scale data; however, existing methods still struggle to ensure physical plausibility and controllability.",
       "full_text": "",
@@ -530,10 +562,10 @@
       "url": "http://arxiv.org/abs/2607.21522v1",
       "published_at": "2026-07-23T17:04:36Z",
       "tags": [
+        "paper",
         "vision",
         "llm",
-        "agent",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21522v1",
@@ -549,9 +581,9 @@
       "url": "http://arxiv.org/abs/2607.21518v1",
       "published_at": "2026-07-23T17:02:11Z",
       "tags": [
-        "llm",
+        "paper",
         "agent",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21518v1",
@@ -567,8 +599,8 @@
       "url": "http://arxiv.org/abs/2607.21517v1",
       "published_at": "2026-07-23T17:01:36Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21517v1",
@@ -602,8 +634,8 @@
       "url": "http://arxiv.org/abs/2607.21498v1",
       "published_at": "2026-07-23T16:47:39Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21498v1",
@@ -619,10 +651,10 @@
       "url": "http://arxiv.org/abs/2607.21495v1",
       "published_at": "2026-07-23T16:41:56Z",
       "tags": [
-        "vision",
         "paper",
-        "agent",
-        "tool"
+        "vision",
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21495v1",
@@ -649,22 +681,6 @@
       "summary_zh": "Coordinating autonomous vehicles at unsignalized intersections remains a critical challenge for multi-agent reinforcement learning (MARL) systems, which typically struggle with combinatorial action spaces, reliance on privileged information, or rigid agent designs. We propose Master-Agent Proto-plan System (MAPS), a hierarchical deep reinforcement learning (DRL) architecture in which a centralized Master agent generates a compact, continuous embedding, denoted as proto-plan, that encodes a globa"
     },
     {
-      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-      "summary": "OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade.The model:\nThe mechanics are the same as the financial network Eisenberg-Noe: Instead of banks, every country consumes oil interconnected via bilateral trading. Shocks propagate throughout the network, depleting oil reserves when bottleneck nodes (such as the Strait of Hormuz) are blocked.Insights:",
-      "full_text": "OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade.The model:\nThe mechanics are the same as the financial network Eisenberg-Noe: Instead of banks, every country consumes oil interconnected via bilateral trading. Shocks propagate throughout the network, depleting oil reserves when bottleneck nodes (such as the Strait of Hormuz) are blocked.Insights:",
-      "source": "hacker news",
-      "url": "https://globaloilnetwork.staffinganalytics.io/",
-      "published_at": "2026-07-23T12:31:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "213",
-      "item_id": "hn:49020545",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-      "summary_zh": "OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade.The model:\nThe mechanics are the same as the financial network Eisenberg-Noe: Instead of banks, every country consumes oil interconnected via bilateral trading. Shocks propagate throughout the network, depleting oil reserves when bottleneck nodes (such as the Strait of Hormuz) are blocked.Insights:"
-    },
-    {
       "title": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
       "summary": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
       "full_text": "",
@@ -674,27 +690,27 @@
       "tags": [
         "ai"
       ],
-      "score": "54",
+      "score": "88",
       "item_id": "hn:49014034",
       "summary_type": "extractive",
       "title_zh": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
       "summary_zh": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico"
     },
     {
-      "title": "Book Corners: Community map of neighborhood book exchange spots",
-      "summary": "Book Corners: Community map of neighborhood book exchange spots",
+      "title": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
+      "summary": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.bookcorners.org",
-      "published_at": "2026-07-22T20:03:32+00:00",
+      "url": "https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit",
+      "published_at": "2026-07-22T19:42:40+00:00",
       "tags": [
         "ai"
       ],
-      "score": "44",
-      "item_id": "hn:49012604",
+      "score": "17",
+      "item_id": "hn:49012337",
       "summary_type": "extractive",
-      "title_zh": "Book Corners: Community map of neighborhood book exchange spots",
-      "summary_zh": "Book Corners: Community map of neighborhood book exchange spots"
+      "title_zh": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
+      "summary_zh": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)"
     },
     {
       "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
@@ -706,27 +722,27 @@
       "tags": [
         "ai"
       ],
-      "score": "106",
+      "score": "194",
       "item_id": "hn:49010993",
       "summary_type": "extractive",
       "title_zh": "Building a Tiny 3D Renderer for a Tiny Handheld",
       "summary_zh": "Building a Tiny 3D Renderer for a Tiny Handheld"
     },
     {
-      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
-      "summary": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVInohttps:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev...https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2F;31&#x2F;a-zipper-patent-sat-i...",
-      "full_text": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVInohttps:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev...https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2F;31&#x2F;a-zipper-patent-sat-i...",
+      "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+      "summary": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+      "full_text": "",
       "source": "hacker news",
-      "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
-      "published_at": "2026-07-22T15:37:25+00:00",
+      "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
+      "published_at": "2026-07-22T15:29:44+00:00",
       "tags": [
         "ai"
       ],
-      "score": "233",
-      "item_id": "hn:49008512",
+      "score": "155",
+      "item_id": "hn:49008396",
       "summary_type": "extractive",
-      "title_zh": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
-      "summary_zh": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVInohttps:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev...https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2F;31&#x2F;a-zipper-patent-sat-i..."
+      "title_zh": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+      "summary_zh": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings"
     },
     {
       "title": "PyPI Blog: Releases now reject new files after 14 days",
@@ -738,59 +754,43 @@
       "tags": [
         "ai"
       ],
-      "score": "36",
+      "score": "75",
       "item_id": "hn:49007291",
       "summary_type": "extractive",
       "title_zh": "PyPI Blog: Releases now reject new files after 14 days",
       "summary_zh": "PyPI Blog: Releases now reject new files after 14 days"
     },
     {
-      "title": "Firefox Containers Preview",
-      "summary": "Firefox Containers Preview",
+      "title": "Spatial languages: Writing code in 2D",
+      "summary": "Spatial languages: Writing code in 2D",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-      "published_at": "2026-07-21T17:27:59+00:00",
+      "url": "https://shukla.io/blog/2026-07/cccx.html",
+      "published_at": "2026-07-22T14:03:21+00:00",
       "tags": [
         "ai"
       ],
-      "score": "399",
-      "item_id": "hn:48995409",
+      "score": "80",
+      "item_id": "hn:49007018",
       "summary_type": "extractive",
-      "title_zh": "Firefox Containers Preview",
-      "summary_zh": "Firefox Containers Preview"
+      "title_zh": "Spatial languages: Writing code in 2D",
+      "summary_zh": "Spatial languages: Writing code in 2D"
     },
     {
-      "title": "PartialString – A finite-difference time-domain physical modelling synthesiser",
-      "summary": "PartialString – A finite-difference time-domain physical modelling synthesiser",
+      "title": "GDID Windows – Cut the tracker that follows you even under VPN",
+      "summary": "GDID Windows – Cut the tracker that follows you even under VPN",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://differentinstruments.com/",
-      "published_at": "2026-07-21T13:19:13+00:00",
+      "url": "https://korben.info/en/gdid-windows-cut-tracker-vpn.html",
+      "published_at": "2026-07-21T13:22:11+00:00",
       "tags": [
         "ai"
       ],
-      "score": "34",
-      "item_id": "hn:48991945",
+      "score": "45",
+      "item_id": "hn:48991984",
       "summary_type": "extractive",
-      "title_zh": "PartialString – A finite-difference time-domain physical modelling synthesiser",
-      "summary_zh": "PartialString – A finite-difference time-domain physical modelling synthesiser"
-    },
-    {
-      "title": "Designing an Ethernet Switch ASIC",
-      "summary": "Designing an Ethernet Switch ASIC",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
-      "published_at": "2026-07-20T21:35:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "203",
-      "item_id": "hn:48985182",
-      "summary_type": "extractive",
-      "title_zh": "Designing an Ethernet Switch ASIC",
-      "summary_zh": "Designing an Ethernet Switch ASIC"
+      "title_zh": "GDID Windows – Cut the tracker that follows you even under VPN",
+      "summary_zh": "GDID Windows – Cut the tracker that follows you even under VPN"
     },
     {
       "title": "GC and Exceptions in Wasmtime",
@@ -802,7 +802,7 @@
       "tags": [
         "ai"
       ],
-      "score": "122",
+      "score": "144",
       "item_id": "hn:48981665",
       "summary_type": "extractive",
       "title_zh": "GC and Exceptions in Wasmtime",
@@ -818,27 +818,27 @@
       "tags": [
         "ai"
       ],
-      "score": "103",
+      "score": "166",
       "item_id": "hn:48979836",
       "summary_type": "extractive",
       "title_zh": "NYC Apartment Aquaponics",
       "summary_zh": "NYC Apartment Aquaponics"
     },
     {
-      "title": "India's first privately-developed rocket reaches orbit on debut launch",
-      "summary": "India's first privately-developed rocket reaches orbit on debut launch",
+      "title": "Stolen Buttons",
+      "summary": "Stolen Buttons",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "published_at": "2026-07-20T02:43:54+00:00",
+      "url": "https://anatolyzenkov.com/stolen-buttons",
+      "published_at": "2026-07-20T09:23:42+00:00",
       "tags": [
         "ai"
       ],
-      "score": "637",
-      "item_id": "hn:48973835",
+      "score": "320",
+      "item_id": "hn:48976262",
       "summary_type": "extractive",
-      "title_zh": "India's first privately-developed rocket reaches orbit on debut launch",
-      "summary_zh": "India's first privately-developed rocket reaches orbit on debut launch"
+      "title_zh": "Stolen Buttons",
+      "summary_zh": "Stolen Buttons"
     }
   ]
 }

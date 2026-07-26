@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-26T03:42:08.269432+00:00",
+  "updated_at": "2026-07-26T08:36:17.714937+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "summary": "GrapheneOS protections against data extraction from locked devices",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "published_at": "2026-07-26T05:57:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:49055169",
+      "summary_type": "extractive",
+      "title_zh": "GrapheneOS protections against data extraction from locked devices",
+      "summary_zh": "GrapheneOS protections against data extraction from locked devices"
+    },
+    {
+      "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+      "summary": "W4ME Station – a WASM-4 runtime for Java ME phones",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/mulfyx/w4me-station",
+      "published_at": "2026-07-26T04:19:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:49054697",
+      "summary_type": "extractive",
+      "title_zh": "W4ME Station – a WASM-4 runtime for Java ME phones",
+      "summary_zh": "W4ME Station – a WASM-4 runtime for Java ME phones"
+    },
+    {
+      "title": "Humans haven't stopped evolving",
+      "summary": "Humans haven't stopped evolving",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
+      "published_at": "2026-07-26T03:09:46+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "59",
+      "item_id": "hn:49054307",
+      "summary_type": "extractive",
+      "title_zh": "Humans haven't stopped evolving",
+      "summary_zh": "Humans haven't stopped evolving"
+    },
     {
       "title": "JetZero",
       "summary": "JetZero",
@@ -12,7 +60,7 @@
       "tags": [
         "ai"
       ],
-      "score": "52",
+      "score": "187",
       "item_id": "hn:49054224",
       "summary_type": "extractive",
       "title_zh": "JetZero",
@@ -28,14 +76,14 @@
       "tags": [
         "ai"
       ],
-      "score": "16",
+      "score": "124",
       "item_id": "hn:49054107",
       "summary_type": "extractive",
       "title_zh": "An ESP32 based plane radar for my desk",
       "summary_zh": "An ESP32 based plane radar for my desk"
     },
     {
-      "title": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+      "title": "Show HN: I mapped every US golf course",
       "summary": "I got tired of Googling basic course info, so I made a free directory of every US courseGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;It&#x27;s a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.It&#x27;s free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wron",
       "full_text": "I got tired of Googling basic course info, so I made a free directory of every US courseGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;It&#x27;s a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.It&#x27;s free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wron",
       "source": "hacker news",
@@ -44,43 +92,27 @@
       "tags": [
         "ai"
       ],
-      "score": "27",
+      "score": "118",
       "item_id": "hn:49054010",
       "summary_type": "extractive",
-      "title_zh": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+      "title_zh": "Show HN: I mapped every US golf course",
       "summary_zh": "I got tired of Googling basic course info, so I made a free directory of every US courseGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;It&#x27;s a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.It&#x27;s free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wron"
     },
     {
-      "title": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
-      "summary": "The graph is free to explore and requires no registration.SynapTale builds a model of a story as a temporal graph made up of nodes (entities) and edges (their actions and relationships). The graph is not a visualization of the wiki. The wiki, timelines, relationship histories, and analytics are projections of the graph.The current demo contains 232 entities, 1,852 edges, and a snapshot of the story’s state at every chapter.",
-      "full_text": "The graph is free to explore and requires no registration.SynapTale builds a model of a story as a temporal graph made up of nodes (entities) and edges (their actions and relationships).\nThe graph is not a visualization of the wiki. The wiki, timelines, relationship histories, and analytics are projections of the graph.The current demo contains 232 entities, 1,852 edges, and a snapshot of the story’s state at every chapter. By chapter 100, it still remembers a promise made in chapter 8 and turns",
-      "source": "hacker news",
-      "url": "https://synaptale.com/graph?ch=100",
-      "published_at": "2026-07-26T02:18:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "5",
-      "item_id": "hn:49053986",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
-      "summary_zh": "The graph is free to explore and requires no registration.SynapTale builds a model of a story as a temporal graph made up of nodes (entities) and edges (their actions and relationships). The graph is not a visualization of the wiki. The wiki, timelines, relationship histories, and analytics are projections of the graph.The current demo contains 232 entities, 1,852 edges, and a snapshot of the story’s state at every chapter."
-    },
-    {
-      "title": "Show HN: ZWPlayer – Free player with interactive annotations and subtitle search",
-      "summary": "Show HN: ZWPlayer – Free player with interactive annotations and subtitle search",
+      "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+      "summary": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.zwplayer.com/",
-      "published_at": "2026-07-26T01:49:37+00:00",
+      "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
+      "published_at": "2026-07-26T01:35:03+00:00",
       "tags": [
         "ai"
       ],
-      "score": "3",
-      "item_id": "hn:49053805",
+      "score": "59",
+      "item_id": "hn:49053708",
       "summary_type": "extractive",
-      "title_zh": "Show HN: ZWPlayer – Free player with interactive annotations and subtitle search",
-      "summary_zh": "Show HN: ZWPlayer – Free player with interactive annotations and subtitle search"
+      "title_zh": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+      "summary_zh": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home"
     },
     {
       "title": "Git rebase -I is not that scary",
@@ -92,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "30",
+      "score": "60",
       "item_id": "hn:49053385",
       "summary_type": "extractive",
       "title_zh": "Git rebase -I is not that scary",
@@ -108,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "32",
+      "score": "59",
       "item_id": "hn:49053382",
       "summary_type": "extractive",
       "title_zh": "Systems and Delays",
@@ -124,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "36",
+      "score": "114",
       "item_id": "hn:49053375",
       "summary_type": "extractive",
       "title_zh": "Inflect-Micro-v2: complete voice in 9.36M parameters",
@@ -140,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "100",
+      "score": "137",
       "item_id": "hn:49052912",
       "summary_type": "extractive",
       "title_zh": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
@@ -156,11 +188,27 @@
       "tags": [
         "ai"
       ],
-      "score": "63",
+      "score": "99",
       "item_id": "hn:49052628",
       "summary_type": "extractive",
       "title_zh": "Clinical failure rates over the decades: yikes",
       "summary_zh": "Clinical failure rates over the decades: yikes"
+    },
+    {
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "summary": "What is happening to jobs? Separating AI hype from reality",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "published_at": "2026-07-25T22:51:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "82",
+      "item_id": "hn:49052570",
+      "summary_type": "extractive",
+      "title_zh": "What is happening to jobs? Separating AI hype from reality",
+      "summary_zh": "What is happening to jobs? Separating AI hype from reality"
     },
     {
       "title": "Cloudflare's new AI traffic options for customers",
@@ -172,44 +220,11 @@
       "tags": [
         "ai"
       ],
-      "score": "57",
+      "score": "111",
       "item_id": "hn:49052564",
       "summary_type": "extractive",
       "title_zh": "Cloudflare's new AI traffic options for customers",
       "summary_zh": "Cloudflare's new AI traffic options for customers"
-    },
-    {
-      "title": "Becoming a Research Engineer at a Big LLM Lab",
-      "summary": "Becoming a Research Engineer at a Big LLM Lab",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
-      "published_at": "2026-07-25T21:19:42+00:00",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "24",
-      "item_id": "hn:49051707",
-      "summary_type": "extractive",
-      "title_zh": "Becoming a Research Engineer at a Big LLM Lab",
-      "summary_zh": "Becoming a Research Engineer at a Big LLM Lab"
-    },
-    {
-      "title": "Multicast TV Distribution on My Home Network",
-      "summary": "Multicast TV Distribution on My Home Network",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
-      "published_at": "2026-07-25T20:55:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "46",
-      "item_id": "hn:49051463",
-      "summary_type": "extractive",
-      "title_zh": "Multicast TV Distribution on My Home Network",
-      "summary_zh": "Multicast TV Distribution on My Home Network"
     },
     {
       "title": "Turn And Face The Strange",
@@ -221,31 +236,15 @@
       "tags": [
         "ai"
       ],
-      "score": "156",
+      "score": "195",
       "item_id": "hn:49051369",
       "summary_type": "extractive",
       "title_zh": "Turn And Face The Strange",
       "summary_zh": "Turn And Face The Strange"
     },
     {
-      "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
-      "summary": "I like writing Markdown, but do not like writing it inside a plain textarea.I wanted something I could use anywhere by dropping in a single web component:```&lt;writemark-editor name=&quot;body&quot;&gt;&lt;&#x2F;writemark-editor&gt;```That became Writemark.It renders Markdown while you write, but Markdown remains the value you read, store, and submit. It also has source, split, and preview modes, along with slash commands, tables, task lists, code blocks, native form support, and an API for add",
-      "full_text": "I like writing Markdown, but do not like writing it inside a plain textarea.I wanted something I could use anywhere by dropping in a single web component:```&lt;writemark-editor name=&quot;body&quot;&gt;&lt;&#x2F;writemark-editor&gt;```That became Writemark.It renders Markdown while you write, but Markdown remains the value you read, store, and submit. It also has source, split, and preview modes, along with slash commands, tables, task lists, code blocks, native form support, and an API for add",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=49051130",
-      "published_at": "2026-07-25T20:18:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "34",
-      "item_id": "hn:49051130",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
-      "summary_zh": "I like writing Markdown, but do not like writing it inside a plain textarea.I wanted something I could use anywhere by dropping in a single web component:```&lt;writemark-editor name=&quot;body&quot;&gt;&lt;&#x2F;writemark-editor&gt;```That became Writemark.It renders Markdown while you write, but Markdown remains the value you read, store, and submit. It also has source, split, and preview modes, along with slash commands, tables, task lists, code blocks, native form support, and an API for add"
-    },
-    {
-      "title": "Did They Ghost You?",
-      "summary": "Did They Ghost You?",
+      "title": "Did they ghost you?",
+      "summary": "Did they ghost you?",
       "full_text": "",
       "source": "hacker news",
       "url": "https://didtheyghostyou.com/",
@@ -253,15 +252,15 @@
       "tags": [
         "ai"
       ],
-      "score": "325",
+      "score": "388",
       "item_id": "hn:49051120",
       "summary_type": "extractive",
-      "title_zh": "Did They Ghost You?",
-      "summary_zh": "Did They Ghost You?"
+      "title_zh": "Did they ghost you?",
+      "summary_zh": "Did they ghost you?"
     },
     {
-      "title": "Memory Safety Absolutists",
-      "summary": "Memory Safety Absolutists",
+      "title": "Memory safety absolutists",
+      "summary": "Memory safety absolutists",
       "full_text": "",
       "source": "hacker news",
       "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
@@ -269,11 +268,11 @@
       "tags": [
         "ai"
       ],
-      "score": "65",
+      "score": "91",
       "item_id": "hn:49050058",
       "summary_type": "extractive",
-      "title_zh": "Memory Safety Absolutists",
-      "summary_zh": "Memory Safety Absolutists"
+      "title_zh": "Memory safety absolutists",
+      "summary_zh": "Memory safety absolutists"
     },
     {
       "title": "Show HN: Brolly, a plain-text weather forecast site",
@@ -285,27 +284,11 @@
       "tags": [
         "ai"
       ],
-      "score": "141",
+      "score": "182",
       "item_id": "hn:49049693",
       "summary_type": "extractive",
       "title_zh": "Show HN: Brolly, a plain-text weather forecast site",
       "summary_zh": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site.I made https:&#x2F;&#x2F;brolly.sh, a minimalist, plain text weather forecasting site. You can use it to view weather from around the world, with: 7 day forecast; Previous day log (so you can confirm it definitely was cooler &#x2F; hotter &#x2F; wetter &#x2F; drier yesterday!); Hourly"
-    },
-    {
-      "title": "Bringing PyTorch Monarch to AMD GPUs",
-      "summary": "Bringing PyTorch Monarch to AMD GPUs",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-      "published_at": "2026-07-25T15:55:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "71",
-      "item_id": "hn:49048689",
-      "summary_type": "extractive",
-      "title_zh": "Bringing PyTorch Monarch to AMD GPUs",
-      "summary_zh": "Bringing PyTorch Monarch to AMD GPUs"
     },
     {
       "title": "Open-weight AI is having its Kubernetes moment",
@@ -317,11 +300,27 @@
       "tags": [
         "ai"
       ],
-      "score": "329",
+      "score": "373",
       "item_id": "hn:49048034",
       "summary_type": "extractive",
       "title_zh": "Open-weight AI is having its Kubernetes moment",
       "summary_zh": "Open-weight AI is having its Kubernetes moment"
+    },
+    {
+      "title": "A shell colon does nothing. Use it anyway",
+      "summary": "A shell colon does nothing. Use it anyway",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "published_at": "2026-07-25T13:33:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "134",
+      "item_id": "hn:49047453",
+      "summary_type": "extractive",
+      "title_zh": "A shell colon does nothing. Use it anyway",
+      "summary_zh": "A shell colon does nothing. Use it anyway"
     },
     {
       "title": "Bitchat is now on Radicle",
@@ -333,31 +332,15 @@
       "tags": [
         "ai"
       ],
-      "score": "219",
+      "score": "239",
       "item_id": "hn:49047365",
       "summary_type": "extractive",
       "title_zh": "Bitchat is now on Radicle",
       "summary_zh": "Bitchat is now on Radicle"
     },
     {
-      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "summary": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-      "published_at": "2026-07-25T12:00:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:49046858",
-      "summary_type": "extractive",
-      "title_zh": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "summary_zh": "Kyber (YC W23) Is Hiring a Head of Engineering"
-    },
-    {
-      "title": "Android May Soon Restrict On-Device ADB",
-      "summary": "Android May Soon Restrict On-Device ADB",
+      "title": "Android may soon restrict on-device ADB",
+      "summary": "Android may soon restrict on-device ADB",
       "full_text": "",
       "source": "hacker news",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
@@ -365,11 +348,11 @@
       "tags": [
         "ai"
       ],
-      "score": "888",
+      "score": "917",
       "item_id": "hn:49045159",
       "summary_type": "extractive",
-      "title_zh": "Android May Soon Restrict On-Device ADB",
-      "summary_zh": "Android May Soon Restrict On-Device ADB"
+      "title_zh": "Android may soon restrict on-device ADB",
+      "summary_zh": "Android may soon restrict on-device ADB"
     },
     {
       "title": "Show HN: I made some transistor animations",
@@ -381,11 +364,27 @@
       "tags": [
         "ai"
       ],
-      "score": "142",
+      "score": "180",
       "item_id": "hn:49039868",
       "summary_type": "extractive",
       "title_zh": "Show HN: I made some transistor animations",
       "summary_zh": "Hi HN,\nI made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. If you want to go beyond the charge carriers and look at, for example, the electric field, you can do so in the simulation software."
+    },
+    {
+      "title": "Stinkpot: SQLite-backed shell history",
+      "summary": "Stinkpot: SQLite-backed shell history",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tangled.org/oppi.li/stinkpot",
+      "published_at": "2026-07-24T12:44:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "44",
+      "item_id": "hn:49034777",
+      "summary_type": "extractive",
+      "title_zh": "Stinkpot: SQLite-backed shell history",
+      "summary_zh": "Stinkpot: SQLite-backed shell history"
     },
     {
       "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
@@ -395,9 +394,9 @@
       "url": "http://arxiv.org/abs/2607.21595v1",
       "published_at": "2026-07-23T17:59:59Z",
       "tags": [
+        "tool",
         "llm",
         "vision",
-        "tool",
         "paper"
       ],
       "score": "📄",
@@ -448,9 +447,9 @@
       "url": "http://arxiv.org/abs/2607.21577v1",
       "published_at": "2026-07-23T17:55:21Z",
       "tags": [
+        "tool",
         "llm",
         "vision",
-        "tool",
         "paper"
       ],
       "score": "📄",
@@ -501,8 +500,8 @@
       "url": "http://arxiv.org/abs/2607.21558v1",
       "published_at": "2026-07-23T17:40:07Z",
       "tags": [
-        "vision",
         "llm",
+        "vision",
         "paper"
       ],
       "score": "📄",
@@ -519,8 +518,8 @@
       "url": "http://arxiv.org/abs/2607.21557v1",
       "published_at": "2026-07-23T17:38:30Z",
       "tags": [
-        "llm",
         "tool",
+        "llm",
         "agent",
         "paper"
       ],
@@ -555,8 +554,8 @@
       "url": "http://arxiv.org/abs/2607.21552v1",
       "published_at": "2026-07-23T17:35:56Z",
       "tags": [
-        "vision",
         "llm",
+        "vision",
         "paper"
       ],
       "score": "📄",
@@ -590,8 +589,8 @@
       "url": "http://arxiv.org/abs/2607.21530v1",
       "published_at": "2026-07-23T17:15:53Z",
       "tags": [
-        "llm",
         "tool",
+        "llm",
         "paper"
       ],
       "score": "📄",
@@ -608,9 +607,9 @@
       "url": "http://arxiv.org/abs/2607.21529v1",
       "published_at": "2026-07-23T17:15:30Z",
       "tags": [
+        "tool",
         "llm",
         "vision",
-        "tool",
         "paper"
       ],
       "score": "📄",
@@ -629,7 +628,7 @@
       "tags": [
         "ai"
       ],
-      "score": "17",
+      "score": "71",
       "item_id": "hn:49024980",
       "summary_type": "extractive",
       "title_zh": "Rethinking Legal Education in the AI Era",
@@ -643,8 +642,8 @@
       "url": "http://arxiv.org/abs/2607.21522v1",
       "published_at": "2026-07-23T17:04:36Z",
       "tags": [
-        "vision",
         "llm",
+        "vision",
         "agent",
         "paper"
       ],
@@ -732,8 +731,8 @@
       "url": "http://arxiv.org/abs/2607.21495v1",
       "published_at": "2026-07-23T16:41:56Z",
       "tags": [
-        "vision",
         "tool",
+        "vision",
         "agent",
         "paper"
       ],
@@ -762,6 +761,22 @@
       "summary_zh": "Coordinating autonomous vehicles at unsignalized intersections remains a critical challenge for multi-agent reinforcement learning (MARL) systems, which typically struggle with combinatorial action spaces, reliance on privileged information, or rigid agent designs. We propose Master-Agent Proto-plan System (MAPS), a hierarchical deep reinforcement learning (DRL) architecture in which a centralized Master agent generates a compact, continuous embedding, denoted as proto-plan, that encodes a globa"
     },
     {
+      "title": "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
+      "summary": "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/",
+      "published_at": "2026-07-23T02:01:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "21",
+      "item_id": "hn:49015898",
+      "summary_type": "extractive",
+      "title_zh": "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
+      "summary_zh": "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?"
+    },
+    {
       "title": "SIMD for Collision",
       "summary": "SIMD for Collision",
       "full_text": "",
@@ -771,75 +786,59 @@
       "tags": [
         "ai"
       ],
-      "score": "69",
+      "score": "90",
       "item_id": "hn:49013464",
       "summary_type": "extractive",
       "title_zh": "SIMD for Collision",
       "summary_zh": "SIMD for Collision"
     },
     {
-      "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
-      "summary": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+      "title": "DskDitto: Ultra-fast, parallel duplicate-file detector",
+      "summary": "DskDitto: Ultra-fast, parallel duplicate-file detector",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
-      "published_at": "2026-07-22T15:29:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "309",
-      "item_id": "hn:49008396",
-      "summary_type": "extractive",
-      "title_zh": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
-      "summary_zh": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings"
-    },
-    {
-      "title": "GDID Windows – Cut the tracker that follows you even under VPN",
-      "summary": "https:&#x2F;&#x2F;www.windowslatest.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;you-cant-fully-disa...",
-      "full_text": "https:&#x2F;&#x2F;www.windowslatest.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;you-cant-fully-disa...",
-      "source": "hacker news",
-      "url": "https://korben.info/en/gdid-windows-cut-tracker-vpn.html",
-      "published_at": "2026-07-21T13:22:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "120",
-      "item_id": "hn:48991984",
-      "summary_type": "extractive",
-      "title_zh": "GDID Windows – Cut the tracker that follows you even under VPN",
-      "summary_zh": "https:&#x2F;&#x2F;www.windowslatest.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;you-cant-fully-disa..."
-    },
-    {
-      "title": "What if they are all wrong? (2020)",
-      "summary": "What if they are all wrong? (2020)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/",
-      "published_at": "2026-07-21T07:45:49+00:00",
+      "url": "https://github.com/jdefrancesco/dskDitto",
+      "published_at": "2026-07-22T06:52:20+00:00",
       "tags": [
         "ai"
       ],
       "score": "7",
-      "item_id": "hn:48989304",
+      "item_id": "hn:49002762",
       "summary_type": "extractive",
-      "title_zh": "What if they are all wrong? (2020)",
-      "summary_zh": "What if they are all wrong? (2020)"
+      "title_zh": "DskDitto: Ultra-fast, parallel duplicate-file detector",
+      "summary_zh": "DskDitto: Ultra-fast, parallel duplicate-file detector"
     },
     {
-      "title": "Stolen Buttons",
-      "summary": "Stolen Buttons",
+      "title": "Librrd Playground",
+      "summary": "Librrd Playground",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://anatolyzenkov.com/stolen-buttons",
-      "published_at": "2026-07-20T09:23:42+00:00",
+      "url": "https://systemf.epfl.ch/etc/librrd/",
+      "published_at": "2026-07-22T05:31:22+00:00",
       "tags": [
         "ai"
       ],
-      "score": "630",
-      "item_id": "hn:48976262",
+      "score": "6",
+      "item_id": "hn:49002235",
       "summary_type": "extractive",
-      "title_zh": "Stolen Buttons",
-      "summary_zh": "Stolen Buttons"
+      "title_zh": "Librrd Playground",
+      "summary_zh": "Librrd Playground"
+    },
+    {
+      "title": "Some more things about Django I've been enjoying",
+      "summary": "Some more things about Django I've been enjoying",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+      "published_at": "2026-07-21T20:30:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "25",
+      "item_id": "hn:48997828",
+      "summary_type": "extractive",
+      "title_zh": "Some more things about Django I've been enjoying",
+      "summary_zh": "Some more things about Django I've been enjoying"
     }
   ]
 }

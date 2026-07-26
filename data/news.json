@@ -1,38 +1,295 @@
 {
-  "updated_at": "2026-07-25T19:19:30.890357+00:00",
+  "updated_at": "2026-07-26T03:42:08.269432+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Tile's security is so bad it's a feature for stalkers",
-      "summary": "Tile's security is so bad it's a feature for stalkers",
+      "title": "JetZero",
+      "summary": "JetZero",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
-      "published_at": "2026-07-25T18:18:42+00:00",
+      "url": "https://www.jetzero.aero",
+      "published_at": "2026-07-26T02:55:50+00:00",
       "tags": [
         "ai"
       ],
-      "score": "45",
-      "item_id": "hn:49050152",
+      "score": "52",
+      "item_id": "hn:49054224",
       "summary_type": "extractive",
-      "title_zh": "Tile's security is so bad it's a feature for stalkers",
-      "summary_zh": "Tile's security is so bad it's a feature for stalkers"
+      "title_zh": "JetZero",
+      "summary_zh": "JetZero"
     },
     {
-      "title": "Rauno's Field Notes #2",
-      "summary": "Rauno's Field Notes #2",
+      "title": "An ESP32 based plane radar for my desk",
+      "summary": "An ESP32 based plane radar for my desk",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://rauno.me/notes/2",
-      "published_at": "2026-07-25T16:39:55+00:00",
+      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "published_at": "2026-07-26T02:35:43+00:00",
       "tags": [
         "ai"
       ],
-      "score": "15",
-      "item_id": "hn:49049066",
+      "score": "16",
+      "item_id": "hn:49054107",
       "summary_type": "extractive",
-      "title_zh": "Rauno's Field Notes #2",
-      "summary_zh": "Rauno's Field Notes #2"
+      "title_zh": "An ESP32 based plane radar for my desk",
+      "summary_zh": "An ESP32 based plane radar for my desk"
+    },
+    {
+      "title": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+      "summary": "I got tired of Googling basic course info, so I made a free directory of every US courseGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;It&#x27;s a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.It&#x27;s free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wron",
+      "full_text": "I got tired of Googling basic course info, so I made a free directory of every US courseGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;It&#x27;s a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.It&#x27;s free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wron",
+      "source": "hacker news",
+      "url": "https://golfcoursebrowser.com/",
+      "published_at": "2026-07-26T02:22:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "27",
+      "item_id": "hn:49054010",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+      "summary_zh": "I got tired of Googling basic course info, so I made a free directory of every US courseGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... https:&#x2F;&#x2F;golfcoursebrowser.com&#x2F;It&#x27;s a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.It&#x27;s free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wron"
+    },
+    {
+      "title": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
+      "summary": "The graph is free to explore and requires no registration.SynapTale builds a model of a story as a temporal graph made up of nodes (entities) and edges (their actions and relationships). The graph is not a visualization of the wiki. The wiki, timelines, relationship histories, and analytics are projections of the graph.The current demo contains 232 entities, 1,852 edges, and a snapshot of the story’s state at every chapter.",
+      "full_text": "The graph is free to explore and requires no registration.SynapTale builds a model of a story as a temporal graph made up of nodes (entities) and edges (their actions and relationships).\nThe graph is not a visualization of the wiki. The wiki, timelines, relationship histories, and analytics are projections of the graph.The current demo contains 232 entities, 1,852 edges, and a snapshot of the story’s state at every chapter. By chapter 100, it still remembers a promise made in chapter 8 and turns",
+      "source": "hacker news",
+      "url": "https://synaptale.com/graph?ch=100",
+      "published_at": "2026-07-26T02:18:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:49053986",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
+      "summary_zh": "The graph is free to explore and requires no registration.SynapTale builds a model of a story as a temporal graph made up of nodes (entities) and edges (their actions and relationships). The graph is not a visualization of the wiki. The wiki, timelines, relationship histories, and analytics are projections of the graph.The current demo contains 232 entities, 1,852 edges, and a snapshot of the story’s state at every chapter."
+    },
+    {
+      "title": "Show HN: ZWPlayer – Free player with interactive annotations and subtitle search",
+      "summary": "Show HN: ZWPlayer – Free player with interactive annotations and subtitle search",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.zwplayer.com/",
+      "published_at": "2026-07-26T01:49:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "3",
+      "item_id": "hn:49053805",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: ZWPlayer – Free player with interactive annotations and subtitle search",
+      "summary_zh": "Show HN: ZWPlayer – Free player with interactive annotations and subtitle search"
+    },
+    {
+      "title": "Git rebase -I is not that scary",
+      "summary": "Git rebase -I is not that scary",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://cachebag.sh/journal/interactive-rebasing/",
+      "published_at": "2026-07-26T00:37:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "30",
+      "item_id": "hn:49053385",
+      "summary_type": "extractive",
+      "title_zh": "Git rebase -I is not that scary",
+      "summary_zh": "Git rebase -I is not that scary"
+    },
+    {
+      "title": "Systems and Delays",
+      "summary": "Systems and Delays",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "published_at": "2026-07-26T00:37:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "32",
+      "item_id": "hn:49053382",
+      "summary_type": "extractive",
+      "title_zh": "Systems and Delays",
+      "summary_zh": "Systems and Delays"
+    },
+    {
+      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "summary": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "published_at": "2026-07-26T00:36:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "36",
+      "item_id": "hn:49053375",
+      "summary_type": "extractive",
+      "title_zh": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "summary_zh": "Inflect-Micro-v2: complete voice in 9.36M parameters"
+    },
+    {
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "summary": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "published_at": "2026-07-25T23:32:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "100",
+      "item_id": "hn:49052912",
+      "summary_type": "extractive",
+      "title_zh": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "summary_zh": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]"
+    },
+    {
+      "title": "Clinical failure rates over the decades: yikes",
+      "summary": "Clinical failure rates over the decades: yikes",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "published_at": "2026-07-25T22:57:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "63",
+      "item_id": "hn:49052628",
+      "summary_type": "extractive",
+      "title_zh": "Clinical failure rates over the decades: yikes",
+      "summary_zh": "Clinical failure rates over the decades: yikes"
+    },
+    {
+      "title": "Cloudflare's new AI traffic options for customers",
+      "summary": "Cloudflare's new AI traffic options for customers",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "published_at": "2026-07-25T22:50:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "57",
+      "item_id": "hn:49052564",
+      "summary_type": "extractive",
+      "title_zh": "Cloudflare's new AI traffic options for customers",
+      "summary_zh": "Cloudflare's new AI traffic options for customers"
+    },
+    {
+      "title": "Becoming a Research Engineer at a Big LLM Lab",
+      "summary": "Becoming a Research Engineer at a Big LLM Lab",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+      "published_at": "2026-07-25T21:19:42+00:00",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "24",
+      "item_id": "hn:49051707",
+      "summary_type": "extractive",
+      "title_zh": "Becoming a Research Engineer at a Big LLM Lab",
+      "summary_zh": "Becoming a Research Engineer at a Big LLM Lab"
+    },
+    {
+      "title": "Multicast TV Distribution on My Home Network",
+      "summary": "Multicast TV Distribution on My Home Network",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
+      "published_at": "2026-07-25T20:55:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "46",
+      "item_id": "hn:49051463",
+      "summary_type": "extractive",
+      "title_zh": "Multicast TV Distribution on My Home Network",
+      "summary_zh": "Multicast TV Distribution on My Home Network"
+    },
+    {
+      "title": "Turn And Face The Strange",
+      "summary": "Turn And Face The Strange",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "published_at": "2026-07-25T20:43:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "156",
+      "item_id": "hn:49051369",
+      "summary_type": "extractive",
+      "title_zh": "Turn And Face The Strange",
+      "summary_zh": "Turn And Face The Strange"
+    },
+    {
+      "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+      "summary": "I like writing Markdown, but do not like writing it inside a plain textarea.I wanted something I could use anywhere by dropping in a single web component:```&lt;writemark-editor name=&quot;body&quot;&gt;&lt;&#x2F;writemark-editor&gt;```That became Writemark.It renders Markdown while you write, but Markdown remains the value you read, store, and submit. It also has source, split, and preview modes, along with slash commands, tables, task lists, code blocks, native form support, and an API for add",
+      "full_text": "I like writing Markdown, but do not like writing it inside a plain textarea.I wanted something I could use anywhere by dropping in a single web component:```&lt;writemark-editor name=&quot;body&quot;&gt;&lt;&#x2F;writemark-editor&gt;```That became Writemark.It renders Markdown while you write, but Markdown remains the value you read, store, and submit. It also has source, split, and preview modes, along with slash commands, tables, task lists, code blocks, native form support, and an API for add",
+      "source": "hacker news",
+      "url": "https://news.ycombinator.com/item?id=49051130",
+      "published_at": "2026-07-25T20:18:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "34",
+      "item_id": "hn:49051130",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+      "summary_zh": "I like writing Markdown, but do not like writing it inside a plain textarea.I wanted something I could use anywhere by dropping in a single web component:```&lt;writemark-editor name=&quot;body&quot;&gt;&lt;&#x2F;writemark-editor&gt;```That became Writemark.It renders Markdown while you write, but Markdown remains the value you read, store, and submit. It also has source, split, and preview modes, along with slash commands, tables, task lists, code blocks, native form support, and an API for add"
+    },
+    {
+      "title": "Did They Ghost You?",
+      "summary": "Did They Ghost You?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://didtheyghostyou.com/",
+      "published_at": "2026-07-25T20:18:03+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "325",
+      "item_id": "hn:49051120",
+      "summary_type": "extractive",
+      "title_zh": "Did They Ghost You?",
+      "summary_zh": "Did They Ghost You?"
+    },
+    {
+      "title": "Memory Safety Absolutists",
+      "summary": "Memory Safety Absolutists",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+      "published_at": "2026-07-25T18:08:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "65",
+      "item_id": "hn:49050058",
+      "summary_type": "extractive",
+      "title_zh": "Memory Safety Absolutists",
+      "summary_zh": "Memory Safety Absolutists"
+    },
+    {
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "summary": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site.I made https:&#x2F;&#x2F;brolly.sh, a minimalist, plain text weather forecasting site. You can use it to view weather from around the world, with: 7 day forecast; Previous day log (so you can confirm it definitely was cooler &#x2F; hotter &#x2F; wetter &#x2F; drier yesterday!); Hourly",
+      "full_text": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site.I made https:&#x2F;&#x2F;brolly.sh, a minimalist, plain text weather forecasting site. You can use it to view weather from around the world, with: 7 day forecast; Previous day log (so you can confirm it definitely was cooler &#x2F; hotter &#x2F; wetter &#x2F; drier yesterday!); Hourly",
+      "source": "hacker news",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "published_at": "2026-07-25T17:34:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "141",
+      "item_id": "hn:49049693",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Brolly, a plain-text weather forecast site",
+      "summary_zh": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site.I made https:&#x2F;&#x2F;brolly.sh, a minimalist, plain text weather forecasting site. You can use it to view weather from around the world, with: 7 day forecast; Previous day log (so you can confirm it definitely was cooler &#x2F; hotter &#x2F; wetter &#x2F; drier yesterday!); Hourly"
     },
     {
       "title": "Bringing PyTorch Monarch to AMD GPUs",
@@ -44,59 +301,11 @@
       "tags": [
         "ai"
       ],
-      "score": "34",
+      "score": "71",
       "item_id": "hn:49048689",
       "summary_type": "extractive",
       "title_zh": "Bringing PyTorch Monarch to AMD GPUs",
       "summary_zh": "Bringing PyTorch Monarch to AMD GPUs"
-    },
-    {
-      "title": "The Dark Night of Mathematics",
-      "summary": "The Dark Night of Mathematics",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
-      "published_at": "2026-07-25T15:54:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "77",
-      "item_id": "hn:49048681",
-      "summary_type": "extractive",
-      "title_zh": "The Dark Night of Mathematics",
-      "summary_zh": "The Dark Night of Mathematics"
-    },
-    {
-      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
-      "summary": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
-      "published_at": "2026-07-25T15:51:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "45",
-      "item_id": "hn:49048645",
-      "summary_type": "extractive",
-      "title_zh": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
-      "summary_zh": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits"
-    },
-    {
-      "title": "Engineering management after the cost of code collapsed",
-      "summary": "Engineering management after the cost of code collapsed",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
-      "published_at": "2026-07-25T15:10:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "60",
-      "item_id": "hn:49048212",
-      "summary_type": "extractive",
-      "title_zh": "Engineering management after the cost of code collapsed",
-      "summary_zh": "Engineering management after the cost of code collapsed"
     },
     {
       "title": "Open-weight AI is having its Kubernetes moment",
@@ -108,75 +317,11 @@
       "tags": [
         "ai"
       ],
-      "score": "160",
+      "score": "329",
       "item_id": "hn:49048034",
       "summary_type": "extractive",
       "title_zh": "Open-weight AI is having its Kubernetes moment",
       "summary_zh": "Open-weight AI is having its Kubernetes moment"
-    },
-    {
-      "title": "Task-centered iproute2 user guide",
-      "summary": "Task-centered iproute2 user guide",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://baturin.org/docs/iproute2/",
-      "published_at": "2026-07-25T14:32:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "22",
-      "item_id": "hn:49047884",
-      "summary_type": "extractive",
-      "title_zh": "Task-centered iproute2 user guide",
-      "summary_zh": "Task-centered iproute2 user guide"
-    },
-    {
-      "title": "The Silurian Hypothesis (2020)",
-      "summary": "The Silurian Hypothesis (2020)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/",
-      "published_at": "2026-07-25T13:48:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "40",
-      "item_id": "hn:49047563",
-      "summary_type": "extractive",
-      "title_zh": "The Silurian Hypothesis (2020)",
-      "summary_zh": "The Silurian Hypothesis (2020)"
-    },
-    {
-      "title": "My web version of Mars MIPS, now have builtin C compiler",
-      "summary": "My web version of Mars MIPS, now have builtin C compiler",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://webmars.nfiles.top/",
-      "published_at": "2026-07-25T13:42:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "21",
-      "item_id": "hn:49047516",
-      "summary_type": "extractive",
-      "title_zh": "My web version of Mars MIPS, now have builtin C compiler",
-      "summary_zh": "My web version of Mars MIPS, now have builtin C compiler"
-    },
-    {
-      "title": "Harddrive Is Probably Full",
-      "summary": "Harddrive Is Probably Full",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.marginalia.nu/log/a_139_hdd/",
-      "published_at": "2026-07-25T13:33:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "27",
-      "item_id": "hn:49047449",
-      "summary_type": "extractive",
-      "title_zh": "Harddrive Is Probably Full",
-      "summary_zh": "Harddrive Is Probably Full"
     },
     {
       "title": "Bitchat is now on Radicle",
@@ -188,7 +333,7 @@
       "tags": [
         "ai"
       ],
-      "score": "131",
+      "score": "219",
       "item_id": "hn:49047365",
       "summary_type": "extractive",
       "title_zh": "Bitchat is now on Radicle",
@@ -211,38 +356,6 @@
       "summary_zh": "Kyber (YC W23) Is Hiring a Head of Engineering"
     },
     {
-      "title": "The Fedora 45 Sausage Factory",
-      "summary": "The Fedora 45 Sausage Factory",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
-      "published_at": "2026-07-25T11:04:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "104",
-      "item_id": "hn:49046525",
-      "summary_type": "extractive",
-      "title_zh": "The Fedora 45 Sausage Factory",
-      "summary_zh": "The Fedora 45 Sausage Factory"
-    },
-    {
-      "title": "MouthPad: A Tongue-Controlled Touchpad",
-      "summary": "MouthPad: A Tongue-Controlled Touchpad",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.augmental.tech/",
-      "published_at": "2026-07-25T07:51:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "129",
-      "item_id": "hn:49045446",
-      "summary_type": "extractive",
-      "title_zh": "MouthPad: A Tongue-Controlled Touchpad",
-      "summary_zh": "MouthPad: A Tongue-Controlled Touchpad"
-    },
-    {
       "title": "Android May Soon Restrict On-Device ADB",
       "summary": "Android May Soon Restrict On-Device ADB",
       "full_text": "",
@@ -252,59 +365,11 @@
       "tags": [
         "ai"
       ],
-      "score": "742",
+      "score": "888",
       "item_id": "hn:49045159",
       "summary_type": "extractive",
       "title_zh": "Android May Soon Restrict On-Device ADB",
       "summary_zh": "Android May Soon Restrict On-Device ADB"
-    },
-    {
-      "title": "Extinct Media Museum Tokyo",
-      "summary": "Extinct Media Museum Tokyo",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://extinct-media-museum.blog.jp/otemachi/",
-      "published_at": "2026-07-25T05:51:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "102",
-      "item_id": "hn:49044874",
-      "summary_type": "extractive",
-      "title_zh": "Extinct Media Museum Tokyo",
-      "summary_zh": "Extinct Media Museum Tokyo"
-    },
-    {
-      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-      "summary": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-      "published_at": "2026-07-25T04:20:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "119",
-      "item_id": "hn:49044492",
-      "summary_type": "extractive",
-      "title_zh": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-      "summary_zh": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities"
-    },
-    {
-      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-      "summary": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-      "published_at": "2026-07-25T01:44:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "539",
-      "item_id": "hn:49043724",
-      "summary_type": "extractive",
-      "title_zh": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-      "summary_zh": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach"
     },
     {
       "title": "Show HN: I made some transistor animations",
@@ -316,7 +381,7 @@
       "tags": [
         "ai"
       ],
-      "score": "28",
+      "score": "142",
       "item_id": "hn:49039868",
       "summary_type": "extractive",
       "title_zh": "Show HN: I made some transistor animations",
@@ -331,9 +396,9 @@
       "published_at": "2026-07-23T17:59:59Z",
       "tags": [
         "llm",
-        "paper",
         "vision",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21595v1",
@@ -384,9 +449,9 @@
       "published_at": "2026-07-23T17:55:21Z",
       "tags": [
         "llm",
-        "paper",
         "vision",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21577v1",
@@ -402,8 +467,8 @@
       "url": "http://arxiv.org/abs/2607.21573v1",
       "published_at": "2026-07-23T17:52:01Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21573v1",
@@ -419,8 +484,8 @@
       "url": "http://arxiv.org/abs/2607.21559v1",
       "published_at": "2026-07-23T17:40:51Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21559v1",
@@ -436,9 +501,9 @@
       "url": "http://arxiv.org/abs/2607.21558v1",
       "published_at": "2026-07-23T17:40:07Z",
       "tags": [
-        "paper",
         "vision",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21558v1",
@@ -455,9 +520,9 @@
       "published_at": "2026-07-23T17:38:30Z",
       "tags": [
         "llm",
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21557v1",
@@ -490,9 +555,9 @@
       "url": "http://arxiv.org/abs/2607.21552v1",
       "published_at": "2026-07-23T17:35:56Z",
       "tags": [
-        "paper",
         "vision",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21552v1",
@@ -526,8 +591,8 @@
       "published_at": "2026-07-23T17:15:53Z",
       "tags": [
         "llm",
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21530v1",
@@ -544,15 +609,31 @@
       "published_at": "2026-07-23T17:15:30Z",
       "tags": [
         "llm",
-        "paper",
         "vision",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21529v1",
       "summary_type": "extractive",
       "title_zh": "ElasticTTT: Prior-Preserving Test-Time Tuning for Video Editing",
       "summary_zh": "Test-Time Tuning (TTT) on pretrained diffusion models has emerged as a powerful paradigm for video editing. However, there exists a foundational mismatch between the distribution-mapping nature of generative models and the single-point optimization of standard TTT. In this paper, we demonstrate that this mismatch triggers \\textit{Prior Collapse}, a degenerate state where the model discards the text conditions and spatial latents, collapsing generations to the source video, or entangling the feat"
+    },
+    {
+      "title": "Rethinking Legal Education in the AI Era",
+      "summary": "Rethinking Legal Education in the AI Era",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+      "published_at": "2026-07-23T17:12:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:49024980",
+      "summary_type": "extractive",
+      "title_zh": "Rethinking Legal Education in the AI Era",
+      "summary_zh": "Rethinking Legal Education in the AI Era"
     },
     {
       "title": "GS-Agent: Creating 4D Physical Worlds With Generative Simulation",
@@ -562,10 +643,10 @@
       "url": "http://arxiv.org/abs/2607.21522v1",
       "published_at": "2026-07-23T17:04:36Z",
       "tags": [
-        "paper",
         "vision",
         "llm",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21522v1",
@@ -581,9 +662,9 @@
       "url": "http://arxiv.org/abs/2607.21518v1",
       "published_at": "2026-07-23T17:02:11Z",
       "tags": [
-        "paper",
+        "llm",
         "agent",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21518v1",
@@ -616,9 +697,9 @@
       "url": "http://arxiv.org/abs/2607.21503v1",
       "published_at": "2026-07-23T16:51:31Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21503v1",
@@ -634,8 +715,8 @@
       "url": "http://arxiv.org/abs/2607.21498v1",
       "published_at": "2026-07-23T16:47:39Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21498v1",
@@ -651,10 +732,10 @@
       "url": "http://arxiv.org/abs/2607.21495v1",
       "published_at": "2026-07-23T16:41:56Z",
       "tags": [
-        "paper",
         "vision",
         "tool",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21495v1",
@@ -670,9 +751,9 @@
       "url": "http://arxiv.org/abs/2607.21488v1",
       "published_at": "2026-07-23T16:28:35Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.21488v1",
@@ -681,52 +762,20 @@
       "summary_zh": "Coordinating autonomous vehicles at unsignalized intersections remains a critical challenge for multi-agent reinforcement learning (MARL) systems, which typically struggle with combinatorial action spaces, reliance on privileged information, or rigid agent designs. We propose Master-Agent Proto-plan System (MAPS), a hierarchical deep reinforcement learning (DRL) architecture in which a centralized Master agent generates a compact, continuous embedding, denoted as proto-plan, that encodes a globa"
     },
     {
-      "title": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
-      "summary": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
+      "title": "SIMD for Collision",
+      "summary": "SIMD for Collision",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
-      "published_at": "2026-07-22T21:58:42+00:00",
+      "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+      "published_at": "2026-07-22T21:09:59+00:00",
       "tags": [
         "ai"
       ],
-      "score": "88",
-      "item_id": "hn:49014034",
+      "score": "69",
+      "item_id": "hn:49013464",
       "summary_type": "extractive",
-      "title_zh": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
-      "summary_zh": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico"
-    },
-    {
-      "title": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
-      "summary": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit",
-      "published_at": "2026-07-22T19:42:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "17",
-      "item_id": "hn:49012337",
-      "summary_type": "extractive",
-      "title_zh": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
-      "summary_zh": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)"
-    },
-    {
-      "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
-      "summary": "Building a Tiny 3D Renderer for a Tiny Handheld",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
-      "published_at": "2026-07-22T18:09:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "194",
-      "item_id": "hn:49010993",
-      "summary_type": "extractive",
-      "title_zh": "Building a Tiny 3D Renderer for a Tiny Handheld",
-      "summary_zh": "Building a Tiny 3D Renderer for a Tiny Handheld"
+      "title_zh": "SIMD for Collision",
+      "summary_zh": "SIMD for Collision"
     },
     {
       "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
@@ -738,91 +787,43 @@
       "tags": [
         "ai"
       ],
-      "score": "155",
+      "score": "309",
       "item_id": "hn:49008396",
       "summary_type": "extractive",
       "title_zh": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
       "summary_zh": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings"
     },
     {
-      "title": "PyPI Blog: Releases now reject new files after 14 days",
-      "summary": "PyPI Blog: Releases now reject new files after 14 days",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-      "published_at": "2026-07-22T14:20:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "75",
-      "item_id": "hn:49007291",
-      "summary_type": "extractive",
-      "title_zh": "PyPI Blog: Releases now reject new files after 14 days",
-      "summary_zh": "PyPI Blog: Releases now reject new files after 14 days"
-    },
-    {
-      "title": "Spatial languages: Writing code in 2D",
-      "summary": "Spatial languages: Writing code in 2D",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://shukla.io/blog/2026-07/cccx.html",
-      "published_at": "2026-07-22T14:03:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "80",
-      "item_id": "hn:49007018",
-      "summary_type": "extractive",
-      "title_zh": "Spatial languages: Writing code in 2D",
-      "summary_zh": "Spatial languages: Writing code in 2D"
-    },
-    {
       "title": "GDID Windows – Cut the tracker that follows you even under VPN",
-      "summary": "GDID Windows – Cut the tracker that follows you even under VPN",
-      "full_text": "",
+      "summary": "https:&#x2F;&#x2F;www.windowslatest.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;you-cant-fully-disa...",
+      "full_text": "https:&#x2F;&#x2F;www.windowslatest.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;you-cant-fully-disa...",
       "source": "hacker news",
       "url": "https://korben.info/en/gdid-windows-cut-tracker-vpn.html",
       "published_at": "2026-07-21T13:22:11+00:00",
       "tags": [
         "ai"
       ],
-      "score": "45",
+      "score": "120",
       "item_id": "hn:48991984",
       "summary_type": "extractive",
       "title_zh": "GDID Windows – Cut the tracker that follows you even under VPN",
-      "summary_zh": "GDID Windows – Cut the tracker that follows you even under VPN"
+      "summary_zh": "https:&#x2F;&#x2F;www.windowslatest.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;you-cant-fully-disa..."
     },
     {
-      "title": "GC and Exceptions in Wasmtime",
-      "summary": "GC and Exceptions in Wasmtime",
+      "title": "What if they are all wrong? (2020)",
+      "summary": "What if they are all wrong? (2020)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://bytecodealliance.org/articles/wasmtime-gc",
-      "published_at": "2026-07-20T17:10:50+00:00",
+      "url": "https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/",
+      "published_at": "2026-07-21T07:45:49+00:00",
       "tags": [
         "ai"
       ],
-      "score": "144",
-      "item_id": "hn:48981665",
+      "score": "7",
+      "item_id": "hn:48989304",
       "summary_type": "extractive",
-      "title_zh": "GC and Exceptions in Wasmtime",
-      "summary_zh": "GC and Exceptions in Wasmtime"
-    },
-    {
-      "title": "NYC Apartment Aquaponics",
-      "summary": "NYC Apartment Aquaponics",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://erinmurphy.dev/projects/project-2/",
-      "published_at": "2026-07-20T15:00:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "166",
-      "item_id": "hn:48979836",
-      "summary_type": "extractive",
-      "title_zh": "NYC Apartment Aquaponics",
-      "summary_zh": "NYC Apartment Aquaponics"
+      "title_zh": "What if they are all wrong? (2020)",
+      "summary_zh": "What if they are all wrong? (2020)"
     },
     {
       "title": "Stolen Buttons",
@@ -834,7 +835,7 @@
       "tags": [
         "ai"
       ],
-      "score": "320",
+      "score": "630",
       "item_id": "hn:48976262",
       "summary_type": "extractive",
       "title_zh": "Stolen Buttons",

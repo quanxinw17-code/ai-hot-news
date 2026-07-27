@@ -1,54 +1,214 @@
 {
-  "updated_at": "2026-07-27T14:53:37.533748+00:00",
+  "updated_at": "2026-07-27T19:45:48.967764+00:00",
   "count": 50,
   "items": [
     {
-      "title": "The Glass Famine",
-      "summary": "The Glass Famine",
+      "title": "Self-contained highly-portable Python distributions",
+      "summary": "Self-contained highly-portable Python distributions",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://edconway.substack.com/p/the-glass-famine",
-      "published_at": "2026-07-27T14:18:23+00:00",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "published_at": "2026-07-27T18:43:31+00:00",
       "tags": [
         "ai"
       ],
-      "score": "4",
-      "item_id": "hn:49070073",
+      "score": "25",
+      "item_id": "hn:49073942",
       "summary_type": "extractive",
-      "title_zh": "The Glass Famine",
-      "summary_zh": "The Glass Famine"
+      "title_zh": "Self-contained highly-portable Python distributions",
+      "summary_zh": "Self-contained highly-portable Python distributions"
+    },
+    {
+      "title": "The Artist Who Colored Ghibli",
+      "summary": "The Artist Who Colored Ghibli",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli",
+      "published_at": "2026-07-27T18:32:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "18",
+      "item_id": "hn:49073785",
+      "summary_type": "extractive",
+      "title_zh": "The Artist Who Colored Ghibli",
+      "summary_zh": "The Artist Who Colored Ghibli"
+    },
+    {
+      "title": "Bytecode-to-Source Mapping",
+      "summary": "Bytecode-to-Source Mapping",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tidefield.dev/bytecode-to-source-mapping/",
+      "published_at": "2026-07-27T18:25:21+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "12",
+      "item_id": "hn:49073665",
+      "summary_type": "extractive",
+      "title_zh": "Bytecode-to-Source Mapping",
+      "summary_zh": "Bytecode-to-Source Mapping"
+    },
+    {
+      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "summary": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+      "published_at": "2026-07-27T18:15:35+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "47",
+      "item_id": "hn:49073513",
+      "summary_type": "extractive",
+      "title_zh": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "summary_zh": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped"
+    },
+    {
+      "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
+      "summary": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "published_at": "2026-07-27T17:02:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "1",
+      "item_id": "hn:49072523",
+      "summary_type": "extractive",
+      "title_zh": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
+      "summary_zh": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper"
+    },
+    {
+      "title": "MAI-Cyber-1-Flash inside MDASH",
+      "summary": "MAI-Cyber-1-Flash inside MDASH",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "published_at": "2026-07-27T16:52:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "174",
+      "item_id": "hn:49072361",
+      "summary_type": "extractive",
+      "title_zh": "MAI-Cyber-1-Flash inside MDASH",
+      "summary_zh": "MAI-Cyber-1-Flash inside MDASH"
+    },
+    {
+      "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
+      "summary": "Decathlon Germany adds Wero payment option to decathlon.de website",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
+      "published_at": "2026-07-27T16:49:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "181",
+      "item_id": "hn:49072310",
+      "summary_type": "extractive",
+      "title_zh": "Decathlon Germany adds Wero payment option to decathlon.de website",
+      "summary_zh": "Decathlon Germany adds Wero payment option to decathlon.de website"
+    },
+    {
+      "title": "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
+      "summary": "TLDR, Let&#x27;s Seal gives the finger to Adobe and every doc signing tool (docusign, google, etc) who pay to play with the Adobe Approved Trust List and then charge you for something that should be free.Currently even the person checking if a document&#x2F;contract is sealed or code is authentic has to also be inside the same Adobe walled garden too. Verification, the part that should be free is the part everyone charges for. Thats the shape Let&#x27;s Encrypt fixed for TLS, and I wanted the sa",
+      "full_text": "TLDR, Let&#x27;s Seal gives the finger to Adobe and every doc signing tool (docusign, google, etc) who pay to play with the Adobe Approved Trust List and then charge you for something that should be free.Currently even the person checking if a document&#x2F;contract is sealed or code is authentic has to also be inside the same Adobe walled garden too. Verification, the part that should be free is the part everyone charges for. Thats the shape Let&#x27;s Encrypt fixed for TLS, and I wanted the sa",
+      "source": "hacker news",
+      "url": "https://github.com/letsseal/letsseal",
+      "published_at": "2026-07-27T15:52:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "7",
+      "item_id": "hn:49071365",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
+      "summary_zh": "TLDR, Let&#x27;s Seal gives the finger to Adobe and every doc signing tool (docusign, google, etc) who pay to play with the Adobe Approved Trust List and then charge you for something that should be free.Currently even the person checking if a document&#x2F;contract is sealed or code is authentic has to also be inside the same Adobe walled garden too. Verification, the part that should be free is the part everyone charges for. Thats the shape Let&#x27;s Encrypt fixed for TLS, and I wanted the sa"
+    },
+    {
+      "title": "How real are real numbers? (2004)",
+      "summary": "How real are real numbers? (2004)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arxiv.org/abs/math/0411418",
+      "published_at": "2026-07-27T15:40:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:49071190",
+      "summary_type": "extractive",
+      "title_zh": "How real are real numbers? (2004)",
+      "summary_zh": "How real are real numbers? (2004)"
+    },
+    {
+      "title": "Kimi-K3 Technical Report [pdf]",
+      "summary": "Related: Kimi-K3 on HuggingFace - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49065752",
+      "full_text": "Related: Kimi-K3 on HuggingFace - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49065752",
+      "source": "hacker news",
+      "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+      "published_at": "2026-07-27T15:23:45+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "338",
+      "item_id": "hn:49070985",
+      "summary_type": "extractive",
+      "title_zh": "Kimi-K3 Technical Report [pdf]",
+      "summary_zh": "Related: Kimi-K3 on HuggingFace - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49065752"
+    },
+    {
+      "title": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
+      "summary": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/",
+      "published_at": "2026-07-27T15:10:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "7",
+      "item_id": "hn:49070805",
+      "summary_type": "extractive",
+      "title_zh": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
+      "summary_zh": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks"
+    },
+    {
+      "title": "Paged Out #9 [pdf]",
+      "summary": "Paged Out #9 [pdf]",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://pagedout.institute/download/PagedOut_009.pdf",
+      "published_at": "2026-07-27T14:22:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "94",
+      "item_id": "hn:49070138",
+      "summary_type": "extractive",
+      "title_zh": "Paged Out #9 [pdf]",
+      "summary_zh": "Paged Out #9 [pdf]"
     },
     {
       "title": "AI companies spend record sums on Washington lobbying",
-      "summary": "AI companies spend record sums on Washington lobbying",
-      "full_text": "",
+      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;PASMJ",
+      "full_text": "https:&#x2F;&#x2F;archive.ph&#x2F;PASMJ",
       "source": "hacker news",
       "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
       "published_at": "2026-07-27T14:07:48+00:00",
       "tags": [
         "ai"
       ],
-      "score": "5",
+      "score": "234",
       "item_id": "hn:49069939",
       "summary_type": "extractive",
       "title_zh": "AI companies spend record sums on Washington lobbying",
-      "summary_zh": "AI companies spend record sums on Washington lobbying"
-    },
-    {
-      "title": "We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles",
-      "summary": "We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding",
-      "published_at": "2026-07-27T13:29:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "35",
-      "item_id": "hn:49069447",
-      "summary_type": "extractive",
-      "title_zh": "We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles",
-      "summary_zh": "We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles"
+      "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;PASMJ"
     },
     {
       "title": "Should you wash your solar panels?",
@@ -60,75 +220,11 @@
       "tags": [
         "ai"
       ],
-      "score": "76",
+      "score": "186",
       "item_id": "hn:49069132",
       "summary_type": "extractive",
       "title_zh": "Should you wash your solar panels?",
       "summary_zh": "Should you wash your solar panels?"
-    },
-    {
-      "title": "AI companies are shredding rare books",
-      "summary": "AI companies are shredding rare books",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-      "published_at": "2026-07-27T12:32:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "379",
-      "item_id": "hn:49068738",
-      "summary_type": "extractive",
-      "title_zh": "AI companies are shredding rare books",
-      "summary_zh": "AI companies are shredding rare books"
-    },
-    {
-      "title": "The Proof Machine (2016)",
-      "summary": "The Proof Machine (2016)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://incredible.pm/",
-      "published_at": "2026-07-27T12:29:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "15",
-      "item_id": "hn:49068711",
-      "summary_type": "extractive",
-      "title_zh": "The Proof Machine (2016)",
-      "summary_zh": "The Proof Machine (2016)"
-    },
-    {
-      "title": "Worse on Purpose",
-      "summary": "Worse on Purpose",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ledger.worseonpurpose.com/brands",
-      "published_at": "2026-07-27T12:29:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "89",
-      "item_id": "hn:49068707",
-      "summary_type": "extractive",
-      "title_zh": "Worse on Purpose",
-      "summary_zh": "Worse on Purpose"
-    },
-    {
-      "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
-      "summary": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
-      "published_at": "2026-07-27T11:19:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "36",
-      "item_id": "hn:49067919",
-      "summary_type": "extractive",
-      "title_zh": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
-      "summary_zh": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included"
     },
     {
       "title": "How is the Bun Rewrite in Rust going?",
@@ -140,15 +236,15 @@
       "tags": [
         "ai"
       ],
-      "score": "253",
+      "score": "376",
       "item_id": "hn:49067854",
       "summary_type": "extractive",
       "title_zh": "How is the Bun Rewrite in Rust going?",
       "summary_zh": "How is the Bun Rewrite in Rust going?"
     },
     {
-      "title": "The Birth of the American 12-string Guitar",
-      "summary": "The Birth of the American 12-string Guitar",
+      "title": "The Birth of the American 12-string Guitar (2013)",
+      "summary": "The Birth of the American 12-string Guitar (2013)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.harpguitars.net/history/grunewald/12-string.htm",
@@ -156,11 +252,11 @@
       "tags": [
         "ai"
       ],
-      "score": "41",
+      "score": "64",
       "item_id": "hn:49067690",
       "summary_type": "extractive",
-      "title_zh": "The Birth of the American 12-string Guitar",
-      "summary_zh": "The Birth of the American 12-string Guitar"
+      "title_zh": "The Birth of the American 12-string Guitar (2013)",
+      "summary_zh": "The Birth of the American 12-string Guitar (2013)"
     },
     {
       "title": "Shay Locomotives",
@@ -172,27 +268,11 @@
       "tags": [
         "ai"
       ],
-      "score": "36",
+      "score": "63",
       "item_id": "hn:49067043",
       "summary_type": "extractive",
       "title_zh": "Shay Locomotives",
       "summary_zh": "Shay Locomotives"
-    },
-    {
-      "title": "Chinese chipmaker shares surge 470%",
-      "summary": "Chinese chipmaker shares surge 470%",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
-      "published_at": "2026-07-27T09:11:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "149",
-      "item_id": "hn:49066962",
-      "summary_type": "extractive",
-      "title_zh": "Chinese chipmaker shares surge 470%",
-      "summary_zh": "Chinese chipmaker shares surge 470%"
     },
     {
       "title": "VLC for Unity now supported on Linux",
@@ -204,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "72",
+      "score": "121",
       "item_id": "hn:49066928",
       "summary_type": "extractive",
       "title_zh": "VLC for Unity now supported on Linux",
@@ -220,27 +300,27 @@
       "tags": [
         "ai"
       ],
-      "score": "73",
+      "score": "139",
       "item_id": "hn:49066639",
       "summary_type": "extractive",
       "title_zh": "Modern email can be built from borrowed parts",
       "summary_zh": "Modern email can be built from borrowed parts"
     },
     {
-      "title": "Kimi-K3 Releases on HuggingFace 7/27",
-      "summary": "Kimi-K3 Releases on HuggingFace 7/27",
-      "full_text": "",
+      "title": "Kimi-K3 on HuggingFace",
+      "summary": "Related: Kimi-K3 Technical Report [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49070985",
+      "full_text": "Related: Kimi-K3 Technical Report [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49070985",
       "source": "hacker news",
       "url": "https://huggingface.co/moonshotai/Kimi-K3",
       "published_at": "2026-07-27T06:18:10+00:00",
       "tags": [
         "ai"
       ],
-      "score": "712",
+      "score": "🔥 1.1k",
       "item_id": "hn:49065752",
       "summary_type": "extractive",
-      "title_zh": "Kimi-K3 Releases on HuggingFace 7/27",
-      "summary_zh": "Kimi-K3 Releases on HuggingFace 7/27"
+      "title_zh": "Kimi-K3 on HuggingFace",
+      "summary_zh": "Related: Kimi-K3 Technical Report [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49070985"
     },
     {
       "title": "PGSimCity - How PostgreSQL Works",
@@ -252,91 +332,27 @@
       "tags": [
         "ai"
       ],
-      "score": "776",
+      "score": "861",
       "item_id": "hn:49063754",
       "summary_type": "extractive",
       "title_zh": "PGSimCity - How PostgreSQL Works",
       "summary_zh": "PGSimCity - How PostgreSQL Works"
     },
     {
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "summary": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "title": "Watching Go's new garbage collector move through the heap",
+      "summary": "Watching Go's new garbage collector move through the heap",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "published_at": "2026-07-26T22:46:10+00:00",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "published_at": "2026-07-25T07:55:19+00:00",
       "tags": [
         "ai"
       ],
-      "score": "231",
-      "item_id": "hn:49063175",
+      "score": "58",
+      "item_id": "hn:49045474",
       "summary_type": "extractive",
-      "title_zh": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "summary_zh": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary"
-    },
-    {
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "summary": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "published_at": "2026-07-26T22:21:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.0k",
-      "item_id": "hn:49063022",
-      "summary_type": "extractive",
-      "title_zh": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "summary_zh": "US citizen charged after GrapheneOS phone wipes during airport search"
-    },
-    {
-      "title": "We have proof automation now",
-      "summary": "We have proof automation now",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "published_at": "2026-07-26T20:53:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "206",
-      "item_id": "hn:49062291",
-      "summary_type": "extractive",
-      "title_zh": "We have proof automation now",
-      "summary_zh": "We have proof automation now"
-    },
-    {
-      "title": "Simulate cassette tape audio profiles using FFmpeg",
-      "summary": "Simulate cassette tape audio profiles using FFmpeg",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
-      "published_at": "2026-07-26T20:02:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "157",
-      "item_id": "hn:49061887",
-      "summary_type": "extractive",
-      "title_zh": "Simulate cassette tape audio profiles using FFmpeg",
-      "summary_zh": "Simulate cassette tape audio profiles using FFmpeg"
-    },
-    {
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "summary": "Introduction to Data-Oriented Design [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "published_at": "2026-07-26T18:11:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "218",
-      "item_id": "hn:49060724",
-      "summary_type": "extractive",
-      "title_zh": "Introduction to Data-Oriented Design [pdf]",
-      "summary_zh": "Introduction to Data-Oriented Design [pdf]"
+      "title_zh": "Watching Go's new garbage collector move through the heap",
+      "summary_zh": "Watching Go's new garbage collector move through the heap"
     },
     {
       "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
@@ -400,8 +416,8 @@
       "url": "http://arxiv.org/abs/2607.22516v1",
       "published_at": "2026-07-24T17:39:14Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22516v1",
@@ -508,8 +524,8 @@
       "published_at": "2026-07-24T16:29:06Z",
       "tags": [
         "llm",
-        "paper",
         "agent",
+        "paper",
         "tool"
       ],
       "score": "📄",
@@ -562,8 +578,8 @@
       "url": "http://arxiv.org/abs/2607.22445v1",
       "published_at": "2026-07-24T16:08:03Z",
       "tags": [
-        "agent",
         "paper",
+        "agent",
         "tool"
       ],
       "score": "📄",
@@ -580,8 +596,8 @@
       "url": "http://arxiv.org/abs/2607.22444v1",
       "published_at": "2026-07-24T16:06:38Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22444v1",
@@ -597,8 +613,8 @@
       "url": "http://arxiv.org/abs/2607.22434v1",
       "published_at": "2026-07-24T15:52:36Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22434v1",
@@ -614,8 +630,8 @@
       "url": "http://arxiv.org/abs/2607.22428v1",
       "published_at": "2026-07-24T15:48:38Z",
       "tags": [
-        "vision",
         "paper",
+        "vision",
         "tool"
       ],
       "score": "📄",
@@ -650,8 +666,8 @@
       "published_at": "2026-07-24T15:21:54Z",
       "tags": [
         "llm",
-        "paper",
         "agent",
+        "paper",
         "tool"
       ],
       "score": "📄",
@@ -668,11 +684,11 @@
       "url": "http://arxiv.org/abs/2607.22393v1",
       "published_at": "2026-07-24T15:16:47Z",
       "tags": [
-        "paper",
-        "tool",
         "llm",
+        "paper",
+        "agent",
         "vision",
-        "agent"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22393v1",
@@ -708,7 +724,7 @@
       "tags": [
         "ai"
       ],
-      "score": "30",
+      "score": "50",
       "item_id": "hn:49033114",
       "summary_type": "extractive",
       "title_zh": "Towards a Theory of Bugs: The Ruliology of the Unexpected",
@@ -724,7 +740,7 @@
       "tags": [
         "ai"
       ],
-      "score": "19",
+      "score": "62",
       "item_id": "hn:49026755",
       "summary_type": "extractive",
       "title_zh": "First Robotic Satellite Servicer Launched",
@@ -740,27 +756,43 @@
       "tags": [
         "ai"
       ],
-      "score": "406",
+      "score": "457",
       "item_id": "hn:49021270",
       "summary_type": "extractive",
       "title_zh": "Show HN: Physically accurate black hole you can put in your room",
       "summary_zh": "We have a black hole at home — with actual relativistic physics, live in your browser.I&#x27;m Sasha (Alexander) Plavin, an astrophysicist at Harvard&#x27;s Black Hole Initiative studying quasars and black hole environments. I work with raytracing&#x2F;radiative transfer simulations professionally, and wanted to make one anyone can play with — so I built this app.Put the black hole onto your screen (any browser), or directly into your room with AR or VR (requires WebXR, for example Chrome on And"
     },
     {
-      "title": "The Usefulness of Useless Knowledge (1939) [pdf]",
-      "summary": "The Usefulness of Useless Knowledge (1939) [pdf]",
+      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+      "summary": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
-      "published_at": "2026-07-23T12:58:02+00:00",
+      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+      "published_at": "2026-07-23T13:10:06+00:00",
       "tags": [
         "ai"
       ],
-      "score": "103",
-      "item_id": "hn:49020842",
+      "score": "4",
+      "item_id": "hn:49021007",
       "summary_type": "extractive",
-      "title_zh": "The Usefulness of Useless Knowledge (1939) [pdf]",
-      "summary_zh": "The Usefulness of Useless Knowledge (1939) [pdf]"
+      "title_zh": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+      "summary_zh": "Ray tracing massive amounts of animated geometry using tetrahedral cages"
+    },
+    {
+      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "summary": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+      "published_at": "2026-07-23T13:08:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "96",
+      "item_id": "hn:49020993",
+      "summary_type": "extractive",
+      "title_zh": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "summary_zh": "Glue bonds to nonstick surfaces and wipes clean with ethanol"
     },
     {
       "title": "I wanted a clock that never needed setting. Things escalated",
@@ -772,31 +804,31 @@
       "tags": [
         "ai"
       ],
-      "score": "148",
+      "score": "163",
       "item_id": "hn:49020219",
       "summary_type": "extractive",
       "title_zh": "I wanted a clock that never needed setting. Things escalated",
       "summary_zh": "I wanted a clock that never needed setting. Things escalated"
     },
     {
-      "title": "8086 Emulator Inside Scratch",
-      "summary": "8086 Emulator Inside Scratch",
+      "title": "If Scrubs Hurt, Your ZFS Design Is Broken",
+      "summary": "If Scrubs Hurt, Your ZFS Design Is Broken",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://turbowarp.org/1248315967?size=640x400",
-      "published_at": "2026-07-23T02:54:46+00:00",
+      "url": "https://klarasystems.com/articles/if-scrubs-hurt-your-zfs-design-is-broken/",
+      "published_at": "2026-07-22T23:34:00+00:00",
       "tags": [
         "ai"
       ],
-      "score": "24",
-      "item_id": "hn:49016303",
+      "score": "19",
+      "item_id": "hn:49014937",
       "summary_type": "extractive",
-      "title_zh": "8086 Emulator Inside Scratch",
-      "summary_zh": "8086 Emulator Inside Scratch"
+      "title_zh": "If Scrubs Hurt, Your ZFS Design Is Broken",
+      "summary_zh": "If Scrubs Hurt, Your ZFS Design Is Broken"
     },
     {
-      "title": "The Computer That Helped Win World War II",
-      "summary": "The Computer That Helped Win World War II",
+      "title": "The computer that helped win World War II",
+      "summary": "The computer that helped win World War II",
       "full_text": "",
       "source": "hacker news",
       "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
@@ -804,43 +836,11 @@
       "tags": [
         "ai"
       ],
-      "score": "8",
+      "score": "109",
       "item_id": "hn:49012309",
       "summary_type": "extractive",
-      "title_zh": "The Computer That Helped Win World War II",
-      "summary_zh": "The Computer That Helped Win World War II"
-    },
-    {
-      "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
-      "summary": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
-      "published_at": "2026-07-22T16:49:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "161",
-      "item_id": "hn:49009706",
-      "summary_type": "extractive",
-      "title_zh": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
-      "summary_zh": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees"
-    },
-    {
-      "title": "Building a Fast Lock-Free Queue in Modern C++ from Scratch",
-      "summary": "Building a Fast Lock-Free Queue in Modern C++ from Scratch",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/",
-      "published_at": "2026-07-22T14:58:36+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "46",
-      "item_id": "hn:49007852",
-      "summary_type": "extractive",
-      "title_zh": "Building a Fast Lock-Free Queue in Modern C++ from Scratch",
-      "summary_zh": "Building a Fast Lock-Free Queue in Modern C++ from Scratch"
+      "title_zh": "The computer that helped win World War II",
+      "summary_zh": "The computer that helped win World War II"
     }
   ]
 }

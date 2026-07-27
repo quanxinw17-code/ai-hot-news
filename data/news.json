@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-07-27T03:52:12.120784+00:00",
+  "updated_at": "2026-07-27T10:04:43.657974+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Chinese chipmaker shares surge 470%",
+      "summary": "Chinese chipmaker shares surge 470%",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
+      "published_at": "2026-07-27T09:11:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "8",
+      "item_id": "hn:49066962",
+      "summary_type": "extractive",
+      "title_zh": "Chinese chipmaker shares surge 470%",
+      "summary_zh": "Chinese chipmaker shares surge 470%"
+    },
+    {
+      "title": "How Unix spell ran in 64 kB of RAM",
+      "summary": "How Unix spell ran in 64 kB of RAM",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+      "published_at": "2026-07-27T08:43:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:49066750",
+      "summary_type": "extractive",
+      "title_zh": "How Unix spell ran in 64 kB of RAM",
+      "summary_zh": "How Unix spell ran in 64 kB of RAM"
+    },
+    {
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "summary": "Kimi-K3 Releases on HuggingFace 7/27",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "published_at": "2026-07-27T06:18:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "306",
+      "item_id": "hn:49065752",
+      "summary_type": "extractive",
+      "title_zh": "Kimi-K3 Releases on HuggingFace 7/27",
+      "summary_zh": "Kimi-K3 Releases on HuggingFace 7/27"
+    },
+    {
+      "title": "The old-school way of keeping the summer heat out of your home",
+      "summary": "The old-school way of keeping the summer heat out of your home",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/",
+      "published_at": "2026-07-27T02:33:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:49064588",
+      "summary_type": "extractive",
+      "title_zh": "The old-school way of keeping the summer heat out of your home",
+      "summary_zh": "The old-school way of keeping the summer heat out of your home"
+    },
     {
       "title": "PGSimCity - How PostgreSQL Works",
       "summary": "PGSimCity - How PostgreSQL Works",
@@ -12,27 +76,11 @@
       "tags": [
         "ai"
       ],
-      "score": "218",
+      "score": "595",
       "item_id": "hn:49063754",
       "summary_type": "extractive",
       "title_zh": "PGSimCity - How PostgreSQL Works",
       "summary_zh": "PGSimCity - How PostgreSQL Works"
-    },
-    {
-      "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
-      "summary": "Hi HN,Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking--why on earth are we still using simple numbers to describe which process to connect to? Why not use names instead?",
-      "full_text": "Hi HN,Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking--why on earth are we still using simple numbers to describe which process to connect to? Why not use names instead? I thought of all the times a program wouldn&#x27;t start because of port conflicts. The more I thought about it, the crazier it seemed.Modern operating systems already offer no-conflict ports: if you make",
-      "source": "hacker news",
-      "url": "https://portzero.net/",
-      "published_at": "2026-07-27T00:03:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "14",
-      "item_id": "hn:49063648",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
-      "summary_zh": "Hi HN,Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking--why on earth are we still using simple numbers to describe which process to connect to? Why not use names instead?"
     },
     {
       "title": "Fonts In Use – Find out where a font is used",
@@ -44,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "29",
+      "score": "69",
       "item_id": "hn:49063523",
       "summary_type": "extractive",
       "title_zh": "Fonts In Use – Find out where a font is used",
@@ -60,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "50",
+      "score": "179",
       "item_id": "hn:49063175",
       "summary_type": "extractive",
       "title_zh": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
@@ -76,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "339",
+      "score": "770",
       "item_id": "hn:49063022",
       "summary_type": "extractive",
       "title_zh": "US citizen charged after GrapheneOS phone wipes during airport search",
@@ -92,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "65",
+      "score": "89",
       "item_id": "hn:49062700",
       "summary_type": "extractive",
       "title_zh": "Teaching Kids Forth",
@@ -108,27 +156,11 @@
       "tags": [
         "ai"
       ],
-      "score": "107",
+      "score": "169",
       "item_id": "hn:49062291",
       "summary_type": "extractive",
       "title_zh": "We have proof automation now",
       "summary_zh": "We have proof automation now"
-    },
-    {
-      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-      "summary": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
-      "published_at": "2026-07-26T20:31:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "50",
-      "item_id": "hn:49062120",
-      "summary_type": "extractive",
-      "title_zh": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-      "summary_zh": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth"
     },
     {
       "title": "Simulate cassette tape audio profiles using FFmpeg",
@@ -140,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "94",
+      "score": "133",
       "item_id": "hn:49061887",
       "summary_type": "extractive",
       "title_zh": "Simulate cassette tape audio profiles using FFmpeg",
@@ -156,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "88",
+      "score": "103",
       "item_id": "hn:49060945",
       "summary_type": "extractive",
       "title_zh": "How to Block Some of the Bots",
@@ -172,7 +204,7 @@
       "tags": [
         "ai"
       ],
-      "score": "131",
+      "score": "176",
       "item_id": "hn:49060724",
       "summary_type": "extractive",
       "title_zh": "Introduction to Data-Oriented Design [pdf]",
@@ -188,15 +220,15 @@
       "tags": [
         "ai"
       ],
-      "score": "215",
+      "score": "380",
       "item_id": "hn:49060495",
       "summary_type": "extractive",
       "title_zh": "French firefighters face 'pyrocumulonimbus' for first time",
       "summary_zh": "French firefighters face 'pyrocumulonimbus' for first time"
     },
     {
-      "title": "How to Write English Prose",
-      "summary": "How to Write English Prose",
+      "title": "How to write English prose (2023)",
+      "summary": "How to write English prose (2023)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
@@ -204,11 +236,11 @@
       "tags": [
         "ai"
       ],
-      "score": "90",
+      "score": "121",
       "item_id": "hn:49060295",
       "summary_type": "extractive",
-      "title_zh": "How to Write English Prose",
-      "summary_zh": "How to Write English Prose"
+      "title_zh": "How to write English prose (2023)",
+      "summary_zh": "How to write English prose (2023)"
     },
     {
       "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
@@ -220,7 +252,7 @@
       "tags": [
         "ai"
       ],
-      "score": "117",
+      "score": "130",
       "item_id": "hn:49059398",
       "summary_type": "extractive",
       "title_zh": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
@@ -236,7 +268,7 @@
       "tags": [
         "ai"
       ],
-      "score": "208",
+      "score": "253",
       "item_id": "hn:49059367",
       "summary_type": "extractive",
       "title_zh": "Design is compromise",
@@ -252,27 +284,11 @@
       "tags": [
         "ai"
       ],
-      "score": "167",
+      "score": "193",
       "item_id": "hn:49058993",
       "summary_type": "extractive",
       "title_zh": "The relay market powering token resellers and fraud",
       "summary_zh": "The relay market powering token resellers and fraud"
-    },
-    {
-      "title": "London Gatwick has launched a robotic airport parking service",
-      "summary": "London Gatwick has launched a robotic airport parking service",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-      "published_at": "2026-07-26T14:40:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "272",
-      "item_id": "hn:49058669",
-      "summary_type": "extractive",
-      "title_zh": "London Gatwick has launched a robotic airport parking service",
-      "summary_zh": "London Gatwick has launched a robotic airport parking service"
     },
     {
       "title": "The New AI Superpowers: Focus and Followthrough",
@@ -284,7 +300,7 @@
       "tags": [
         "ai"
       ],
-      "score": "167",
+      "score": "201",
       "item_id": "hn:49057877",
       "summary_type": "extractive",
       "title_zh": "The New AI Superpowers: Focus and Followthrough",
@@ -300,7 +316,7 @@
       "tags": [
         "ai"
       ],
-      "score": "164",
+      "score": "223",
       "item_id": "hn:49057666",
       "summary_type": "extractive",
       "title_zh": "Show HN: Reverse Minesweeper",
@@ -316,7 +332,7 @@
       "tags": [
         "ai"
       ],
-      "score": "863",
+      "score": "🔥 1.0k",
       "item_id": "hn:49057175",
       "summary_type": "extractive",
       "title_zh": "Kill The Cookie Banner",
@@ -347,9 +363,9 @@
       "url": "http://arxiv.org/abs/2607.22525v1",
       "published_at": "2026-07-24T17:56:38Z",
       "tags": [
-        "tool",
+        "agent",
         "paper",
-        "agent"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22525v1",
@@ -365,10 +381,10 @@
       "url": "http://arxiv.org/abs/2607.22520v1",
       "published_at": "2026-07-24T17:50:03Z",
       "tags": [
-        "llm",
-        "paper",
         "tool",
-        "agent"
+        "agent",
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22520v1",
@@ -384,8 +400,8 @@
       "url": "http://arxiv.org/abs/2607.22516v1",
       "published_at": "2026-07-24T17:39:14Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22516v1",
@@ -419,10 +435,10 @@
       "url": "http://arxiv.org/abs/2607.22511v1",
       "published_at": "2026-07-24T17:32:35Z",
       "tags": [
-        "llm",
-        "paper",
         "tool",
-        "agent"
+        "agent",
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22511v1",
@@ -484,22 +500,6 @@
       "summary_zh": "Quantum state preparation is a key component of many quantum algorithms. Performing this step efficiently is essential for realizing practical quantum advantage in quantum chemistry applications. Iterative algorithms like ADAPT-VQE can produce shallow ground-state preparation circuits, but become computationally prohibitive for the larger molecules relevant to materials science and pharmaceutical development."
     },
     {
-      "title": "History of John Backus's functional programming project [draft]",
-      "summary": "History of John Backus's functional programming project [draft]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://softwarepreservation.computerhistory.org/FP/",
-      "published_at": "2026-07-24T16:32:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "16",
-      "item_id": "hn:49038035",
-      "summary_type": "extractive",
-      "title_zh": "History of John Backus's functional programming project [draft]",
-      "summary_zh": "History of John Backus's functional programming project [draft]"
-    },
-    {
       "title": "TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI",
       "summary": "Routing to select large language models (LLMs) with different cost-quality trade-offs has become a fundamental deployment feature of enterprise AI. Existing routers, primarily make independent routing decisions for each LLM call. However, agentic applications execute as long-horizon workflows whose quality is determined only by a delayed, task-level outcome.",
       "full_text": "",
@@ -507,10 +507,10 @@
       "url": "http://arxiv.org/abs/2607.22465v1",
       "published_at": "2026-07-24T16:29:06Z",
       "tags": [
+        "agent",
         "llm",
         "paper",
-        "tool",
-        "agent"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22465v1",
@@ -562,9 +562,9 @@
       "url": "http://arxiv.org/abs/2607.22445v1",
       "published_at": "2026-07-24T16:08:03Z",
       "tags": [
+        "agent",
         "tool",
-        "paper",
-        "agent"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22445v1",
@@ -580,8 +580,8 @@
       "url": "http://arxiv.org/abs/2607.22444v1",
       "published_at": "2026-07-24T16:06:38Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22444v1",
@@ -614,9 +614,9 @@
       "url": "http://arxiv.org/abs/2607.22428v1",
       "published_at": "2026-07-24T15:48:38Z",
       "tags": [
-        "tool",
         "paper",
-        "vision"
+        "vision",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22428v1",
@@ -649,10 +649,10 @@
       "url": "http://arxiv.org/abs/2607.22400v1",
       "published_at": "2026-07-24T15:21:54Z",
       "tags": [
+        "agent",
         "llm",
         "paper",
-        "tool",
-        "agent"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22400v1",
@@ -668,11 +668,11 @@
       "url": "http://arxiv.org/abs/2607.22393v1",
       "published_at": "2026-07-24T15:16:47Z",
       "tags": [
-        "tool",
+        "llm",
+        "agent",
         "paper",
         "vision",
-        "llm",
-        "agent"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.22393v1",
@@ -699,20 +699,20 @@
       "summary_zh": "With the rapid adoption of long-context large language models (LLMs), the continuously growing KV cache during decoding has become the critical memory bottleneck. To tackle this challenge, we propose HiKV, a novel algorithm-hardware co-design that exploits KV cache redundancy through hierarchical importance awareness. Algorithmically, HiKV compresses the KV cache at two granularities: Stage I evicts unimportant tokens within a fixed budget, and Stage II further loads only the significant element"
     },
     {
-      "title": "Rethinking legal education in the AI era",
-      "summary": "Rethinking legal education in the AI era",
+      "title": "Measuring developer productivity with the DX Core 4",
+      "summary": "Measuring developer productivity with the DX Core 4",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-      "published_at": "2026-07-23T17:12:48+00:00",
+      "url": "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/",
+      "published_at": "2026-07-24T10:28:33+00:00",
       "tags": [
         "ai"
       ],
-      "score": "142",
-      "item_id": "hn:49024980",
+      "score": "15",
+      "item_id": "hn:49033522",
       "summary_type": "extractive",
-      "title_zh": "Rethinking legal education in the AI era",
-      "summary_zh": "Rethinking legal education in the AI era"
+      "title_zh": "Measuring developer productivity with the DX Core 4",
+      "summary_zh": "Measuring developer productivity with the DX Core 4"
     },
     {
       "title": "I learned PCB design, 3D printing and C just to listen to music",
@@ -724,7 +724,7 @@
       "tags": [
         "ai"
       ],
-      "score": "187",
+      "score": "214",
       "item_id": "hn:49022355",
       "summary_type": "extractive",
       "title_zh": "I learned PCB design, 3D printing and C just to listen to music",
@@ -740,7 +740,7 @@
       "tags": [
         "ai"
       ],
-      "score": "105",
+      "score": "318",
       "item_id": "hn:49021270",
       "summary_type": "extractive",
       "title_zh": "Show HN: Physically accurate black hole you can put in your room",
@@ -756,43 +756,75 @@
       "tags": [
         "ai"
       ],
-      "score": "34",
+      "score": "81",
       "item_id": "hn:49020842",
       "summary_type": "extractive",
       "title_zh": "The Usefulness of Useless Knowledge (1939) [pdf]",
       "summary_zh": "The Usefulness of Useless Knowledge (1939) [pdf]"
     },
     {
-      "title": "Using sed to make indexes for books (1997)",
-      "summary": "Using sed to make indexes for books (1997)",
+      "title": "I wanted a clock that never needed setting. Things escalated",
+      "summary": "I wanted a clock that never needed setting. Things escalated",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.pement.org/sed/make_indexes.txt",
-      "published_at": "2026-07-23T04:25:24+00:00",
+      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+      "published_at": "2026-07-23T12:01:52+00:00",
       "tags": [
         "ai"
       ],
-      "score": "53",
-      "item_id": "hn:49016917",
+      "score": "106",
+      "item_id": "hn:49020219",
       "summary_type": "extractive",
-      "title_zh": "Using sed to make indexes for books (1997)",
-      "summary_zh": "Using sed to make indexes for books (1997)"
+      "title_zh": "I wanted a clock that never needed setting. Things escalated",
+      "summary_zh": "I wanted a clock that never needed setting. Things escalated"
     },
     {
-      "title": "Jacobian Conjecture for Baby",
-      "summary": "Jacobian Conjecture for Baby",
+      "title": "8086 Emulator Inside Scratch",
+      "summary": "8086 Emulator Inside Scratch",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://muchmirul.github.io/jacobian-conjecture/",
-      "published_at": "2026-07-22T18:25:12+00:00",
+      "url": "https://turbowarp.org/1248315967?size=640x400",
+      "published_at": "2026-07-23T02:54:46+00:00",
       "tags": [
         "ai"
       ],
-      "score": "21",
-      "item_id": "hn:49011210",
+      "score": "5",
+      "item_id": "hn:49016303",
       "summary_type": "extractive",
-      "title_zh": "Jacobian Conjecture for Baby",
-      "summary_zh": "Jacobian Conjecture for Baby"
+      "title_zh": "8086 Emulator Inside Scratch",
+      "summary_zh": "8086 Emulator Inside Scratch"
+    },
+    {
+      "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+      "summary": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
+      "published_at": "2026-07-22T16:49:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:49009706",
+      "summary_type": "extractive",
+      "title_zh": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+      "summary_zh": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees"
+    },
+    {
+      "title": "The Zen of Parallel Programming: The Posture of a Kernel",
+      "summary": "The Zen of Parallel Programming: The Posture of a Kernel",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming-the-posture-of-a-kernel",
+      "published_at": "2026-07-22T15:43:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:49008615",
+      "summary_type": "extractive",
+      "title_zh": "The Zen of Parallel Programming: The Posture of a Kernel",
+      "summary_zh": "The Zen of Parallel Programming: The Posture of a Kernel"
     },
     {
       "title": "What's Under Your Feet in New York City?",
@@ -804,43 +836,11 @@
       "tags": [
         "ai"
       ],
-      "score": "170",
+      "score": "189",
       "item_id": "hn:49006049",
       "summary_type": "extractive",
       "title_zh": "What's Under Your Feet in New York City?",
       "summary_zh": "What's Under Your Feet in New York City?"
-    },
-    {
-      "title": "Some more things about Django I've been enjoying",
-      "summary": "Some more things about Django I've been enjoying",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-      "published_at": "2026-07-21T20:30:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "138",
-      "item_id": "hn:48997828",
-      "summary_type": "extractive",
-      "title_zh": "Some more things about Django I've been enjoying",
-      "summary_zh": "Some more things about Django I've been enjoying"
-    },
-    {
-      "title": "Jimothy the raccoon has a rare spinal condition. Here's what that means",
-      "summary": "Jimothy the raccoon has a rare spinal condition. Here's what that means",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.popsci.com/science/whats-jimothy-raccoon-condition/",
-      "published_at": "2026-07-21T19:28:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "109",
-      "item_id": "hn:48997008",
-      "summary_type": "extractive",
-      "title_zh": "Jimothy the raccoon has a rare spinal condition. Here's what that means",
-      "summary_zh": "Jimothy the raccoon has a rare spinal condition. Here's what that means"
     }
   ]
 }

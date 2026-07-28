@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-07-28T03:23:04.904475+00:00",
+  "updated_at": "2026-07-28T08:46:55.946722+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "7.1 Earthquake in Japan",
+      "summary": "7.1 Earthquake in Japan",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "published_at": "2026-07-28T07:44:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "118",
+      "item_id": "hn:49080664",
+      "summary_type": "extractive",
+      "title_zh": "7.1 Earthquake in Japan",
+      "summary_zh": "7.1 Earthquake in Japan"
+    },
+    {
+      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "summary": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arsastronomica.com/",
+      "published_at": "2026-07-28T05:25:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "55",
+      "item_id": "hn:49079727",
+      "summary_type": "extractive",
+      "title_zh": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "summary_zh": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts"
+    },
+    {
+      "title": "Neutrino-1 8B",
+      "summary": "Neutrino-1 8B",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+      "published_at": "2026-07-28T04:49:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "69",
+      "item_id": "hn:49079490",
+      "summary_type": "extractive",
+      "title_zh": "Neutrino-1 8B",
+      "summary_zh": "Neutrino-1 8B"
+    },
+    {
+      "title": "PyTorch: A Reference Language",
+      "summary": "PyTorch: A Reference Language",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+      "published_at": "2026-07-28T04:46:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "27",
+      "item_id": "hn:49079454",
+      "summary_type": "extractive",
+      "title_zh": "PyTorch: A Reference Language",
+      "summary_zh": "PyTorch: A Reference Language"
+    },
+    {
+      "title": "The age of token efficiency, the age of libraries",
+      "summary": "The age of token efficiency, the age of libraries",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://golemui.com/blog/the-age-of-token-efficiency/",
+      "published_at": "2026-07-28T03:56:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "23",
+      "item_id": "hn:49079146",
+      "summary_type": "extractive",
+      "title_zh": "The age of token efficiency, the age of libraries",
+      "summary_zh": "The age of token efficiency, the age of libraries"
+    },
     {
       "title": "Using an open model feels surprisingly good",
       "summary": "Using an open model feels surprisingly good",
@@ -12,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "27",
+      "score": "262",
       "item_id": "hn:49078583",
       "summary_type": "extractive",
       "title_zh": "Using an open model feels surprisingly good",
@@ -28,27 +108,11 @@
       "tags": [
         "ai"
       ],
-      "score": "17",
+      "score": "65",
       "item_id": "hn:49078463",
       "summary_type": "extractive",
       "title_zh": "EYG: A Programming Language for Humans",
       "summary_zh": "EYG: A Programming Language for Humans"
-    },
-    {
-      "title": "Residential Proxies Are a National Security Threat",
-      "summary": "Residential Proxies Are a National Security Threat",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/",
-      "published_at": "2026-07-28T01:51:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "7",
-      "item_id": "hn:49078266",
-      "summary_type": "extractive",
-      "title_zh": "Residential Proxies Are a National Security Threat",
-      "summary_zh": "Residential Proxies Are a National Security Threat"
     },
     {
       "title": "Vehicle Motion Cues",
@@ -60,27 +124,11 @@
       "tags": [
         "ai"
       ],
-      "score": "15",
+      "score": "94",
       "item_id": "hn:49077999",
       "summary_type": "extractive",
       "title_zh": "Vehicle Motion Cues",
       "summary_zh": "Vehicle Motion Cues"
-    },
-    {
-      "title": "Offgrid, solar powered fridge, with no battery bank",
-      "summary": "Offgrid, solar powered fridge, with no battery bank",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://fridge0.branchable.com/",
-      "published_at": "2026-07-27T23:53:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "6",
-      "item_id": "hn:49077305",
-      "summary_type": "extractive",
-      "title_zh": "Offgrid, solar powered fridge, with no battery bank",
-      "summary_zh": "Offgrid, solar powered fridge, with no battery bank"
     },
     {
       "title": "The Burau representation of the braid group is faithful for n = 4",
@@ -92,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "25",
+      "score": "29",
       "item_id": "hn:49077209",
       "summary_type": "extractive",
       "title_zh": "The Burau representation of the braid group is faithful for n = 4",
@@ -108,27 +156,11 @@
       "tags": [
         "ai"
       ],
-      "score": "192",
+      "score": "305",
       "item_id": "hn:49076923",
       "summary_type": "extractive",
       "title_zh": "Netflix employee fired for sharing personal details in retreat trust exercise",
       "summary_zh": "https:&#x2F;&#x2F;www.inc.com&#x2F;amaya-nichole&#x2F;netflix-company-retreat-sp..."
-    },
-    {
-      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "summary": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-      "published_at": "2026-07-27T23:19:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "102",
-      "item_id": "hn:49076900",
-      "summary_type": "extractive",
-      "title_zh": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "summary_zh": "Astronauts describe persistent 'observer' sensation after 6 month missions"
     },
     {
       "title": "DConf 2026 in London",
@@ -140,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "56",
+      "score": "85",
       "item_id": "hn:49076840",
       "summary_type": "extractive",
       "title_zh": "DConf 2026 in London",
@@ -156,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "33",
+      "score": "56",
       "item_id": "hn:49076791",
       "summary_type": "extractive",
       "title_zh": "C/C++ projects packaged for Zig",
@@ -172,7 +204,7 @@
       "tags": [
         "ai"
       ],
-      "score": "182",
+      "score": "279",
       "item_id": "hn:49076116",
       "summary_type": "extractive",
       "title_zh": "A missing underscore sent innocent man to prison for 18 months",
@@ -188,27 +220,11 @@
       "tags": [
         "ai"
       ],
-      "score": "545",
+      "score": "857",
       "item_id": "hn:49076057",
       "summary_type": "extractive",
       "title_zh": "Our position on open-weights models",
       "summary_zh": "Our position on open-weights models"
-    },
-    {
-      "title": "Forth",
-      "summary": "Forth",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://xkcd.com/3277/",
-      "published_at": "2026-07-27T20:15:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "147",
-      "item_id": "hn:49074991",
-      "summary_type": "extractive",
-      "title_zh": "Forth",
-      "summary_zh": "Forth"
     },
     {
       "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
@@ -220,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "61",
+      "score": "71",
       "item_id": "hn:49074817",
       "summary_type": "extractive",
       "title_zh": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
@@ -236,7 +252,7 @@
       "tags": [
         "ai"
       ],
-      "score": "123",
+      "score": "143",
       "item_id": "hn:49073942",
       "summary_type": "extractive",
       "title_zh": "Self-contained highly-portable Python distributions",
@@ -252,27 +268,11 @@
       "tags": [
         "ai"
       ],
-      "score": "30",
+      "score": "64",
       "item_id": "hn:49073834",
       "summary_type": "extractive",
       "title_zh": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
       "summary_zh": "Hey HN! I wanted to share this OSS project I&#x27;ve been working on.It&#x27;s called Yap and its a small menu-bar app for macOS that does voice to text for any input. You&#x27;ll set a hotkey, press it, talk, press it again, and the text gets pasted into whatever field you were in."
-    },
-    {
-      "title": "Bytecode-to-Source Mapping",
-      "summary": "Bytecode-to-Source Mapping",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://tidefield.dev/bytecode-to-source-mapping/",
-      "published_at": "2026-07-27T18:25:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "39",
-      "item_id": "hn:49073665",
-      "summary_type": "extractive",
-      "title_zh": "Bytecode-to-Source Mapping",
-      "summary_zh": "Bytecode-to-Source Mapping"
     },
     {
       "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
@@ -284,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "282",
+      "score": "303",
       "item_id": "hn:49073513",
       "summary_type": "extractive",
       "title_zh": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
@@ -298,10 +298,10 @@
       "url": "http://arxiv.org/abs/2607.24743v1",
       "published_at": "2026-07-27T17:59:49Z",
       "tags": [
-        "vision",
+        "llm",
         "tool",
         "paper",
-        "llm"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24743v1",
@@ -317,8 +317,8 @@
       "url": "http://arxiv.org/abs/2607.24731v1",
       "published_at": "2026-07-27T17:57:02Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24731v1",
@@ -334,9 +334,9 @@
       "url": "http://arxiv.org/abs/2607.24730v1",
       "published_at": "2026-07-27T17:57:02Z",
       "tags": [
-        "vision",
+        "llm",
         "paper",
-        "llm"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24730v1",
@@ -352,9 +352,9 @@
       "url": "http://arxiv.org/abs/2607.24720v1",
       "published_at": "2026-07-27T17:55:03Z",
       "tags": [
-        "agent",
+        "llm",
         "paper",
-        "llm"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24720v1",
@@ -370,9 +370,9 @@
       "url": "http://arxiv.org/abs/2607.24717v1",
       "published_at": "2026-07-27T17:54:12Z",
       "tags": [
+        "llm",
         "tool",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24717v1",
@@ -388,8 +388,8 @@
       "url": "http://arxiv.org/abs/2607.24714v1",
       "published_at": "2026-07-27T17:51:18Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24714v1",
@@ -405,9 +405,9 @@
       "url": "http://arxiv.org/abs/2607.24707v1",
       "published_at": "2026-07-27T17:46:43Z",
       "tags": [
-        "vision",
+        "llm",
         "paper",
-        "llm"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24707v1",
@@ -457,9 +457,9 @@
       "url": "http://arxiv.org/abs/2607.24667v1",
       "published_at": "2026-07-27T17:08:27Z",
       "tags": [
+        "llm",
         "tool",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24667v1",
@@ -491,8 +491,8 @@
       "url": "http://arxiv.org/abs/2607.24663v1",
       "published_at": "2026-07-27T17:01:30Z",
       "tags": [
-        "agent",
         "tool",
+        "agent",
         "paper"
       ],
       "score": "📄",
@@ -502,22 +502,6 @@
       "summary_zh": "Scientific user facilities accumulate decades of operational knowledge that no single search index covers: electronic logbooks, technical documents, internal wikis, operations chat messages, maintenance records, and live control-system data. We present APS-RAG, Advanced Photon Source Retrieval Augmented Generation, a deployed platform that makes the institutional knowledge at the Advanced Photon Source (APS) accessible to staff through natural-language queries, along with an operations-grounded "
     },
     {
-      "title": "MAI-Cyber-1-Flash inside MDASH",
-      "summary": "MAI-Cyber-1-Flash inside MDASH",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-      "published_at": "2026-07-27T16:52:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "221",
-      "item_id": "hn:49072361",
-      "summary_type": "extractive",
-      "title_zh": "MAI-Cyber-1-Flash inside MDASH",
-      "summary_zh": "MAI-Cyber-1-Flash inside MDASH"
-    },
-    {
       "title": "Reason-Mediated Behavioral Models for Auditing LLM Social Simulators",
       "summary": "Large language models are increasingly used as social simulators, including as synthetic survey respondents. Most evaluations ask whether simulated outcomes resemble human outcomes. We argue that this is necessary but too weak: a simulator can match the final answer while using the wrong rationale-derived reason pattern.",
       "full_text": "",
@@ -525,8 +509,8 @@
       "url": "http://arxiv.org/abs/2607.24649v1",
       "published_at": "2026-07-27T16:47:27Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24649v1",
@@ -542,8 +526,8 @@
       "url": "http://arxiv.org/abs/2607.24647v1",
       "published_at": "2026-07-27T16:46:33Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24647v1",
@@ -576,10 +560,10 @@
       "url": "http://arxiv.org/abs/2607.24625v1",
       "published_at": "2026-07-27T16:19:45Z",
       "tags": [
-        "agent",
+        "llm",
         "tool",
-        "paper",
-        "llm"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24625v1",
@@ -595,9 +579,9 @@
       "url": "http://arxiv.org/abs/2607.24604v1",
       "published_at": "2026-07-27T16:05:23Z",
       "tags": [
+        "paper",
         "agent",
-        "vision",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24604v1",
@@ -613,8 +597,8 @@
       "url": "http://arxiv.org/abs/2607.24601v1",
       "published_at": "2026-07-27T16:04:24Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24601v1",
@@ -647,9 +631,9 @@
       "url": "http://arxiv.org/abs/2607.24588v1",
       "published_at": "2026-07-27T15:53:19Z",
       "tags": [
-        "agent",
+        "llm",
         "paper",
-        "llm"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24588v1",
@@ -665,8 +649,8 @@
       "url": "http://arxiv.org/abs/2607.24586v1",
       "published_at": "2026-07-27T15:52:33Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24586v1",
@@ -684,7 +668,7 @@
       "tags": [
         "ai"
       ],
-      "score": "56",
+      "score": "74",
       "item_id": "hn:49071190",
       "summary_type": "extractive",
       "title_zh": "How real are real numbers? (2004)",
@@ -700,7 +684,7 @@
       "tags": [
         "ai"
       ],
-      "score": "188",
+      "score": "231",
       "item_id": "hn:49070138",
       "summary_type": "extractive",
       "title_zh": "Paged Out #9 [pdf]",
@@ -716,7 +700,7 @@
       "tags": [
         "ai"
       ],
-      "score": "27",
+      "score": "48",
       "item_id": "hn:49050021",
       "summary_type": "extractive",
       "title_zh": "Three Theses on the Literacy Crisis",
@@ -732,7 +716,7 @@
       "tags": [
         "ai"
       ],
-      "score": "20",
+      "score": "50",
       "item_id": "hn:49049724",
       "summary_type": "extractive",
       "title_zh": "Some combinatorial applications of spacefilling curves",
@@ -748,7 +732,7 @@
       "tags": [
         "ai"
       ],
-      "score": "180",
+      "score": "215",
       "item_id": "hn:49045474",
       "summary_type": "extractive",
       "title_zh": "Watching Go's new garbage collector move through the heap",
@@ -764,11 +748,27 @@
       "tags": [
         "ai"
       ],
-      "score": "41",
+      "score": "96",
       "item_id": "hn:49041256",
       "summary_type": "extractive",
       "title_zh": "RTX 2080 Ti Memory Upgrade to 22 GB",
       "summary_zh": "RTX 2080 Ti Memory Upgrade to 22 GB"
+    },
+    {
+      "title": "A Dying Art: The last of the morticians",
+      "summary": "A Dying Art: The last of the morticians",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/",
+      "published_at": "2026-07-24T04:50:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "28",
+      "item_id": "hn:49031322",
+      "summary_type": "extractive",
+      "title_zh": "A Dying Art: The last of the morticians",
+      "summary_zh": "A Dying Art: The last of the morticians"
     },
     {
       "title": "Securing Services with Rootless Containers",
@@ -780,7 +780,7 @@
       "tags": [
         "ai"
       ],
-      "score": "74",
+      "score": "94",
       "item_id": "hn:49021024",
       "summary_type": "extractive",
       "title_zh": "Securing Services with Rootless Containers",
@@ -796,43 +796,43 @@
       "tags": [
         "ai"
       ],
-      "score": "82",
+      "score": "101",
       "item_id": "hn:49021007",
       "summary_type": "extractive",
       "title_zh": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
       "summary_zh": "Ray tracing massive amounts of animated geometry using tetrahedral cages"
     },
     {
-      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-      "summary": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "title": "Why copper still rules the motherboard trace",
+      "summary": "Why copper still rules the motherboard trace",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-      "published_at": "2026-07-23T13:08:52+00:00",
+      "url": "https://psyll.com/articles/technology/why-copper-still-rules-the-motherboard-trace",
+      "published_at": "2026-07-23T06:43:47+00:00",
       "tags": [
         "ai"
       ],
-      "score": "157",
-      "item_id": "hn:49020993",
+      "score": "7",
+      "item_id": "hn:49017741",
       "summary_type": "extractive",
-      "title_zh": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-      "summary_zh": "Glue bonds to nonstick surfaces and wipes clean with ethanol"
+      "title_zh": "Why copper still rules the motherboard trace",
+      "summary_zh": "Why copper still rules the motherboard trace"
     },
     {
-      "title": "The computer that helped win World War II",
-      "summary": "The computer that helped win World War II",
+      "title": "TWC Classics",
+      "summary": "TWC Classics",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "published_at": "2026-07-22T19:40:44+00:00",
+      "url": "https://twcclassics.com/",
+      "published_at": "2026-07-22T22:59:57+00:00",
       "tags": [
         "ai"
       ],
-      "score": "179",
-      "item_id": "hn:49012309",
+      "score": "6",
+      "item_id": "hn:49014622",
       "summary_type": "extractive",
-      "title_zh": "The computer that helped win World War II",
-      "summary_zh": "The computer that helped win World War II"
+      "title_zh": "TWC Classics",
+      "summary_zh": "TWC Classics"
     }
   ]
 }

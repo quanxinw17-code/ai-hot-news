@@ -1,22 +1,86 @@
 {
-  "updated_at": "2026-07-29T03:24:46.561606+00:00",
+  "updated_at": "2026-07-29T08:51:33.026314+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Does every question mark deserve a Betteridge?",
-      "summary": "Does every question mark deserve a Betteridge?",
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "summary": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://dynomight.net/betteridge/",
-      "published_at": "2026-07-29T02:29:12+00:00",
+      "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+      "published_at": "2026-07-29T07:18:24+00:00",
       "tags": [
         "ai"
       ],
-      "score": "6",
-      "item_id": "hn:49092781",
+      "score": "10",
+      "item_id": "hn:49094346",
       "summary_type": "extractive",
-      "title_zh": "Does every question mark deserve a Betteridge?",
-      "summary_zh": "Does every question mark deserve a Betteridge?"
+      "title_zh": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "summary_zh": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers"
+    },
+    {
+      "title": "eBay agrees $56M settlement with bloggers over harassment case",
+      "summary": "eBay agrees $56M settlement with bloggers over harassment case",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bbc.co.uk/news/articles/cj039p238r5o",
+      "published_at": "2026-07-29T07:12:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "13",
+      "item_id": "hn:49094320",
+      "summary_type": "extractive",
+      "title_zh": "eBay agrees $56M settlement with bloggers over harassment case",
+      "summary_zh": "eBay agrees $56M settlement with bloggers over harassment case"
+    },
+    {
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "summary": "More Tailscale tricks for your jailbroken Kindle",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "published_at": "2026-07-29T04:58:46+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "157",
+      "item_id": "hn:49093569",
+      "summary_type": "extractive",
+      "title_zh": "More Tailscale tricks for your jailbroken Kindle",
+      "summary_zh": "More Tailscale tricks for your jailbroken Kindle"
+    },
+    {
+      "title": "Cracking Windows Open: Porting RADV to Win32",
+      "summary": "Cracking Windows Open: Porting RADV to Win32",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+      "published_at": "2026-07-29T04:30:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "37",
+      "item_id": "hn:49093435",
+      "summary_type": "extractive",
+      "title_zh": "Cracking Windows Open: Porting RADV to Win32",
+      "summary_zh": "Cracking Windows Open: Porting RADV to Win32"
+    },
+    {
+      "title": "User Interfaces of the Demo Scene",
+      "summary": "User Interfaces of the Demo Scene",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.datagubbe.se/scenegui/",
+      "published_at": "2026-07-29T04:30:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "147",
+      "item_id": "hn:49093434",
+      "summary_type": "extractive",
+      "title_zh": "User Interfaces of the Demo Scene",
+      "summary_zh": "User Interfaces of the Demo Scene"
     },
     {
       "title": "Hooray for the Sockets Interface",
@@ -28,43 +92,11 @@
       "tags": [
         "ai"
       ],
-      "score": "6",
+      "score": "31",
       "item_id": "hn:49092754",
       "summary_type": "extractive",
       "title_zh": "Hooray for the Sockets Interface",
       "summary_zh": "Hooray for the Sockets Interface"
-    },
-    {
-      "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
-      "summary": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure.",
-      "full_text": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure.",
-      "source": "hacker news",
-      "url": "https://github.com/jagg-ix/zil-lean",
-      "published_at": "2026-07-29T02:22:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "5",
-      "item_id": "hn:49092730",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
-      "summary_zh": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure."
-    },
-    {
-      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "summary": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bbc.com/news/articles/cly8zng43npo",
-      "published_at": "2026-07-29T01:56:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "16",
-      "item_id": "hn:49092549",
-      "summary_type": "extractive",
-      "title_zh": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "summary_zh": "Chip stocks slide in US and Asia as AI jitters rattle investors"
     },
     {
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
@@ -76,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "41",
+      "score": "173",
       "item_id": "hn:49092499",
       "summary_type": "extractive",
       "title_zh": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
@@ -92,27 +124,11 @@
       "tags": [
         "ai"
       ],
-      "score": "29",
+      "score": "118",
       "item_id": "hn:49092112",
       "summary_type": "extractive",
       "title_zh": "Multiple Mouse Cursors in Wayland",
       "summary_zh": "Multiple Mouse Cursors in Wayland"
-    },
-    {
-      "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
-      "summary": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
-      "published_at": "2026-07-29T00:44:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "8",
-      "item_id": "hn:49091994",
-      "summary_type": "extractive",
-      "title_zh": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
-      "summary_zh": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]"
     },
     {
       "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
@@ -124,43 +140,11 @@
       "tags": [
         "ai"
       ],
-      "score": "16",
+      "score": "26",
       "item_id": "hn:49091895",
       "summary_type": "extractive",
       "title_zh": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
       "summary_zh": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana"
-    },
-    {
-      "title": "The Difference Between a Button and a Link",
-      "summary": "The Difference Between a Button and a Link",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-      "published_at": "2026-07-29T00:12:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "46",
-      "item_id": "hn:49091738",
-      "summary_type": "extractive",
-      "title_zh": "The Difference Between a Button and a Link",
-      "summary_zh": "The Difference Between a Button and a Link"
-    },
-    {
-      "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
-      "summary": "Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos.We reimplemented Manim with the same Python API, but the implementation underneath is Rust, connected to Python through PyO3. The Rust code uses wgpu, so rendering happens on the GPU.To run it in the browser, we compiled the Rust parts to WebAssembly so the PyO3 extension loads in Pyodide. In the browser, wgpu targets the WebGPU API, so animations render in real time on your GPU thro",
-      "full_text": "Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos.We reimplemented Manim with the same Python API, but the implementation underneath is Rust, connected to Python through PyO3. The Rust code uses wgpu, so rendering happens on the GPU.To run it in the browser, we compiled the Rust parts to WebAssembly so the PyO3 extension loads in Pyodide. In the browser, wgpu targets the WebGPU API, so animations render in real time on your GPU thro",
-      "source": "hacker news",
-      "url": "https://studio.academa.ai/",
-      "published_at": "2026-07-29T00:07:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "31",
-      "item_id": "hn:49091703",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
-      "summary_zh": "Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos.We reimplemented Manim with the same Python API, but the implementation underneath is Rust, connected to Python through PyO3. The Rust code uses wgpu, so rendering happens on the GPU.To run it in the browser, we compiled the Rust parts to WebAssembly so the PyO3 extension loads in Pyodide. In the browser, wgpu targets the WebGPU API, so animations render in real time on your GPU thro"
     },
     {
       "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
@@ -172,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "170",
+      "score": "301",
       "item_id": "hn:49090607",
       "summary_type": "extractive",
       "title_zh": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
@@ -188,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "174",
+      "score": "234",
       "item_id": "hn:49089814",
       "summary_type": "extractive",
       "title_zh": "Half-Life ported to Mac OS 9",
@@ -204,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "381",
+      "score": "490",
       "item_id": "hn:49089755",
       "summary_type": "extractive",
       "title_zh": "Codex Security",
@@ -220,27 +204,81 @@
       "tags": [
         "ai"
       ],
-      "score": "98",
+      "score": "127",
       "item_id": "hn:49089240",
       "summary_type": "extractive",
       "title_zh": "Pacing the frontier",
       "summary_zh": "Pacing the frontier"
     },
     {
-      "title": "MCP 2026-07-28 Specification: transport going stateless",
-      "summary": "MCP 2026-07-28 Specification: transport going stateless",
+      "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+      "summary": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and con",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-      "published_at": "2026-07-28T18:35:11+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.26057v1",
+      "published_at": "2026-07-28T17:59:46Z",
       "tags": [
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.26057v1",
+      "summary_type": "extractive",
+      "title_zh": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+      "summary_zh": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and con"
+    },
+    {
+      "title": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies",
+      "summary": "Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing \\emph{reactivity}. Replanning more often would restore it, but the perception-to-action pipeline (a large backbone plus multiple denoising steps) is too slow: this \\emph{latency} forbids frequent replanning and leaves committed actions stale, making such policies",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.26055v1",
+      "published_at": "2026-07-28T17:59:31Z",
+      "tags": [
+        "llm",
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.26055v1",
+      "summary_type": "extractive",
+      "title_zh": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies",
+      "summary_zh": "Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing \\emph{reactivity}. Replanning more often would restore it, but the perception-to-action pipeline (a large backbone plus multiple denoising steps) is too slow: this \\emph{latency} forbids frequent replanning and leaves committed actions stale, making such policies"
+    },
+    {
+      "title": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
+      "summary": "Computer-use agents (CUAs) increasingly act through desktop GUIs to complete long-horizon tasks. Current benchmarks primarily measure end-task success or single-frame grounding. Neither isolates whether a model can reconstruct the causal, task-relevant transition produced by an action- crucial for rejecting stale observations, verifying progress, and recovering from failure.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.26041v1",
+      "published_at": "2026-07-28T17:49:51Z",
+      "tags": [
+        "tool",
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.26041v1",
+      "summary_type": "extractive",
+      "title_zh": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
+      "summary_zh": "Computer-use agents (CUAs) increasingly act through desktop GUIs to complete long-horizon tasks. Current benchmarks primarily measure end-task success or single-frame grounding. Neither isolates whether a model can reconstruct the causal, task-relevant transition produced by an action- crucial for rejecting stale observations, verifying progress, and recovering from failure."
+    },
+    {
+      "title": "Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment",
+      "summary": "Technological races create tension between speed and safety: actors may gain by moving faster than competitors, even when risky development is harmful. This is prominent in debates about artificial intelligence (AI), where competitive pressure is often argued to incentivise riskier, less safety-conscious development. We study this using a framed behavioural experiment based on an idealised AI race, in which paired participants repeatedly chose between Safe and Unsafe development under an uncerta",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.26034v1",
+      "published_at": "2026-07-28T17:44:03Z",
+      "tags": [
+        "paper",
         "ai"
       ],
-      "score": "109",
-      "item_id": "hn:49088058",
+      "score": "📄",
+      "item_id": "arxiv:2607.26034v1",
       "summary_type": "extractive",
-      "title_zh": "MCP 2026-07-28 Specification: transport going stateless",
-      "summary_zh": "MCP 2026-07-28 Specification: transport going stateless"
+      "title_zh": "Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment",
+      "summary_zh": "Technological races create tension between speed and safety: actors may gain by moving faster than competitors, even when risky development is harmful. This is prominent in debates about artificial intelligence (AI), where competitive pressure is often argued to incentivise riskier, less safety-conscious development. We study this using a framed behavioural experiment based on an idealised AI race, in which paired participants repeatedly chose between Safe and Unsafe development under an uncerta"
     },
     {
       "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
@@ -252,11 +290,100 @@
       "tags": [
         "ai"
       ],
-      "score": "148",
+      "score": "175",
       "item_id": "hn:49087306",
       "summary_type": "extractive",
       "title_zh": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
       "summary_zh": "https:&#x2F;&#x2F;www.apple.com&#x2F;shop&#x2F;apple-upgrade"
+    },
+    {
+      "title": "CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer",
+      "summary": "Graph foundation models (GFMs) have emerged as a promising paradigm for transferring knowledge across graph domains and tasks. Real-world graphs associate nodes with text, images, and other modalities, making multimodal graphs essential for representing complex entities and relations. Moreover, collecting labels and adapting models for every new graph domain is costly and often infeasible, motivating zero-shot transfer.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.26023v1",
+      "published_at": "2026-07-28T17:35:26Z",
+      "tags": [
+        "llm",
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.26023v1",
+      "summary_type": "extractive",
+      "title_zh": "CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer",
+      "summary_zh": "Graph foundation models (GFMs) have emerged as a promising paradigm for transferring knowledge across graph domains and tasks. Real-world graphs associate nodes with text, images, and other modalities, making multimodal graphs essential for representing complex entities and relations. Moreover, collecting labels and adapting models for every new graph domain is costly and often infeasible, motivating zero-shot transfer."
+    },
+    {
+      "title": "MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar",
+      "summary": "Recently, photonic transformer accelerators (PTAs) have successfully achieved significant speedup and energy efficiency improvements over electronic accelerators for expediting Transformer inference. However, state-of-the-art rely on expensive multi-wavelength light generation and large dot-product units due to active phase-shifter components, thus making their approach inefficient and impractical. To address this, we propose MDTransformer, a novel hardware-software co-design of PTA based on mod",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.26016v1",
+      "published_at": "2026-07-28T17:27:49Z",
+      "tags": [
+        "llm",
+        "tool",
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.26016v1",
+      "summary_type": "extractive",
+      "title_zh": "MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar",
+      "summary_zh": "Recently, photonic transformer accelerators (PTAs) have successfully achieved significant speedup and energy efficiency improvements over electronic accelerators for expediting Transformer inference. However, state-of-the-art rely on expensive multi-wavelength light generation and large dot-product units due to active phase-shifter components, thus making their approach inefficient and impractical. To address this, we propose MDTransformer, a novel hardware-software co-design of PTA based on mod"
+    },
+    {
+      "title": "Pictura: Perspective-View Self-Play at Scale for Driving",
+      "summary": "Self-play in simulation produces robust driving policies at scale. Demonstrations of such behavior have been made using privileged vectorized observations such as exact poses and velocities, even for occluded agents. This assumes that perception is solved and introduces a representation gap with the partial observation of a deployed agent driving from the perspective view of egocentric cameras.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.26005v1",
+      "published_at": "2026-07-28T17:20:39Z",
+      "tags": [
+        "tool",
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.26005v1",
+      "summary_type": "extractive",
+      "title_zh": "Pictura: Perspective-View Self-Play at Scale for Driving",
+      "summary_zh": "Self-play in simulation produces robust driving policies at scale. Demonstrations of such behavior have been made using privileged vectorized observations such as exact poses and velocities, even for occluded agents. This assumes that perception is solved and introduces a representation gap with the partial observation of a deployed agent driving from the perspective view of egocentric cameras."
+    },
+    {
+      "title": "Empirical Evaluation of Out-Of-Distribution Performance of Tabular Foundation Models",
+      "summary": "Tabular Foundation Models (TFMs) have emerged as novel approaches for tabular predictive tasks, demonstrating competitive predictive performance to ensemble tree-based models. Most TFMs are trained and evaluated on independent and identically distributed data, but this assumption changes in real-world scenarios due to distribution shifts, which compromise the robustness of models. Limited research has been conducted of TFMs under distribution shifts.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.26000v1",
+      "published_at": "2026-07-28T17:16:01Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.26000v1",
+      "summary_type": "extractive",
+      "title_zh": "Empirical Evaluation of Out-Of-Distribution Performance of Tabular Foundation Models",
+      "summary_zh": "Tabular Foundation Models (TFMs) have emerged as novel approaches for tabular predictive tasks, demonstrating competitive predictive performance to ensemble tree-based models. Most TFMs are trained and evaluated on independent and identically distributed data, but this assumption changes in real-world scenarios due to distribution shifts, which compromise the robustness of models. Limited research has been conducted of TFMs under distribution shifts."
+    },
+    {
+      "title": "Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?",
+      "summary": "Kubernetes is central to the cloud-native ecosystem, orchestrating containerised workloads. Recent work suggests that large language models (LLMs) can automate cluster security remediation, generating configuration patches from Kubernetes Security Posture Management (KSPM) findings without human authoring. Such systems, however, prompt the model with each finding in isolation from the live service call graph, assuming general hardening knowledge suffices.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.25995v1",
+      "published_at": "2026-07-28T17:12:12Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.25995v1",
+      "summary_type": "extractive",
+      "title_zh": "Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?",
+      "summary_zh": "Kubernetes is central to the cloud-native ecosystem, orchestrating containerised workloads. Recent work suggests that large language models (LLMs) can automate cluster security remediation, generating configuration patches from Kubernetes Security Posture Management (KSPM) findings without human authoring. Such systems, however, prompt the model with each finding in isolation from the live service call graph, assuming general hardening knowledge suffices."
     },
     {
       "title": "Steel Bank Common Lisp version 2.6.7",
@@ -268,11 +395,29 @@
       "tags": [
         "ai"
       ],
-      "score": "206",
+      "score": "229",
       "item_id": "hn:49086971",
       "summary_type": "extractive",
       "title_zh": "Steel Bank Common Lisp version 2.6.7",
       "summary_zh": "Steel Bank Common Lisp version 2.6.7"
+    },
+    {
+      "title": "MemLens: A Value-Aware Memory Management System with Interactive Analytics for LLM-based Agents",
+      "summary": "Recently, memory management has become a key infrastructure for LLM-based agents, as it directly affects long-horizon reasoning, personalized responses, and knowledge reuse. However, existing LLM memory systems typically adopt a coarse-grained (utility-agnostic) manner that treats heterogeneous user-LLM interaction records uniformly, leading to redundant and low-impact records persisting in the memory repository. To address this challenge, we present MemLens, a value-aware memory management syst",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.25992v1",
+      "published_at": "2026-07-28T17:08:56Z",
+      "tags": [
+        "llm",
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.25992v1",
+      "summary_type": "extractive",
+      "title_zh": "MemLens: A Value-Aware Memory Management System with Interactive Analytics for LLM-based Agents",
+      "summary_zh": "Recently, memory management has become a key infrastructure for LLM-based agents, as it directly affects long-horizon reasoning, personalized responses, and knowledge reuse. However, existing LLM memory systems typically adopt a coarse-grained (utility-agnostic) manner that treats heterogeneous user-LLM interaction records uniformly, leading to redundant and low-impact records persisting in the memory repository. To address this challenge, we present MemLens, a value-aware memory management syst"
     },
     {
       "title": "Substack writers, you need a website",
@@ -284,27 +429,187 @@
       "tags": [
         "ai"
       ],
-      "score": "438",
+      "score": "523",
       "item_id": "hn:49086788",
       "summary_type": "extractive",
       "title_zh": "Substack writers, you need a website",
       "summary_zh": "Substack writers, you need a website"
     },
     {
-      "title": "How Do I Profile eBPF Code?",
-      "summary": "How Do I Profile eBPF Code?",
+      "title": "Reinforcement Learning for Code Optimization",
+      "summary": "RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightforward: just add execution time to the reward. But in practice, once timing drives the reward, small problems in measurement noise, reward sparsity, or GRPO instability overwhelm the signal and make RL fail: generated solutions are barely faster, and more of them can fail.",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-      "published_at": "2026-07-28T15:55:44+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.25970v1",
+      "published_at": "2026-07-28T16:52:31Z",
       "tags": [
+        "paper",
         "ai"
       ],
-      "score": "112",
-      "item_id": "hn:49085811",
+      "score": "📄",
+      "item_id": "arxiv:2607.25970v1",
       "summary_type": "extractive",
-      "title_zh": "How Do I Profile eBPF Code?",
-      "summary_zh": "How Do I Profile eBPF Code?"
+      "title_zh": "Reinforcement Learning for Code Optimization",
+      "summary_zh": "RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightforward: just add execution time to the reward. But in practice, once timing drives the reward, small problems in measurement noise, reward sparsity, or GRPO instability overwhelm the signal and make RL fail: generated solutions are barely faster, and more of them can fail."
+    },
+    {
+      "title": "Knowledge-Guided Multimodal Reasoning over Interacting Streams for Video-Level Ambivalence and Hesitancy Recognition",
+      "summary": "Ambivalence and hesitancy (A/H) are conflicting affective states that precede the delay or abandonment of health behaviour change. Recognition of A/H at the video level is difficult, since the signal arises from disagreement across and within facial, vocal, linguistic, and bodily modalities, and manifests differently across individuals. The proposed PRISM-AH (Predictive Reasoning over Interacting Streams for Multimodal Ambivalence/Hesitancy Recognition), is a framework that treats A/H as a multi",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.25961v1",
+      "published_at": "2026-07-28T16:44:38Z",
+      "tags": [
+        "vision",
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.25961v1",
+      "summary_type": "extractive",
+      "title_zh": "Knowledge-Guided Multimodal Reasoning over Interacting Streams for Video-Level Ambivalence and Hesitancy Recognition",
+      "summary_zh": "Ambivalence and hesitancy (A/H) are conflicting affective states that precede the delay or abandonment of health behaviour change. Recognition of A/H at the video level is difficult, since the signal arises from disagreement across and within facial, vocal, linguistic, and bodily modalities, and manifests differently across individuals. The proposed PRISM-AH (Predictive Reasoning over Interacting Streams for Multimodal Ambivalence/Hesitancy Recognition), is a framework that treats A/H as a multi"
+    },
+    {
+      "title": "Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs",
+      "summary": "Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when these modalities disagree, how can we detect and explain the conflict?",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.25959v1",
+      "published_at": "2026-07-28T16:43:56Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.25959v1",
+      "summary_type": "extractive",
+      "title_zh": "Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs",
+      "summary_zh": "Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when these modalities disagree, how can we detect and explain the conflict?"
+    },
+    {
+      "title": "Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation",
+      "summary": "Multi-warehouse inventory allocation is typically formulated as a mixed-integer programming (MIP) problem, yet no single formulation consistently matches heterogeneous instance-level regimes induced by demand concentration, inventory imbalance, replenishment scale, service constraints, and forecast volatility. We study this issue as instance-wise operations research (OR) formulation selection, where each allocation instance is assigned to a solver-executable formulation from a candidate OR exper",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.25956v1",
+      "published_at": "2026-07-28T16:41:54Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.25956v1",
+      "summary_type": "extractive",
+      "title_zh": "Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation",
+      "summary_zh": "Multi-warehouse inventory allocation is typically formulated as a mixed-integer programming (MIP) problem, yet no single formulation consistently matches heterogeneous instance-level regimes induced by demand concentration, inventory imbalance, replenishment scale, service constraints, and forecast volatility. We study this issue as instance-wise operations research (OR) formulation selection, where each allocation instance is assigned to a solver-executable formulation from a candidate OR exper"
+    },
+    {
+      "title": "MODUS: Decoder-Only Any-to-Any Modeling of Diverse Modalities",
+      "summary": "Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scratch using encoder-decoder or diffusion architectures, impacting their performance and preventing them from using strong pre-trained decoder-only models as a prior. In this work, we investigate decoder-only any",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.25948v1",
+      "published_at": "2026-07-28T16:34:23Z",
+      "tags": [
+        "llm",
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.25948v1",
+      "summary_type": "extractive",
+      "title_zh": "MODUS: Decoder-Only Any-to-Any Modeling of Diverse Modalities",
+      "summary_zh": "Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scratch using encoder-decoder or diffusion architectures, impacting their performance and preventing them from using strong pre-trained decoder-only models as a prior. In this work, we investigate decoder-only any"
+    },
+    {
+      "title": "A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series",
+      "summary": "Question answering (QA) over irregular clinical time series (ICTS) plays a pivotal role in a wide range of healthcare applications. Although recent multimodal time-series large language models (LLMs) have shown considerable promise in general-purpose time-series QA, they remain poorly equipped to model the sparsity, asynchrony, and irregular sampling patterns of clinical observations. To fill this gap, we propose ClinPRISM, a cost-effective multimodal LLM reasoning framework for question answeri",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.25947v1",
+      "published_at": "2026-07-28T16:33:41Z",
+      "tags": [
+        "llm",
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.25947v1",
+      "summary_type": "extractive",
+      "title_zh": "A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series",
+      "summary_zh": "Question answering (QA) over irregular clinical time series (ICTS) plays a pivotal role in a wide range of healthcare applications. Although recent multimodal time-series large language models (LLMs) have shown considerable promise in general-purpose time-series QA, they remain poorly equipped to model the sparsity, asynchrony, and irregular sampling patterns of clinical observations. To fill this gap, we propose ClinPRISM, a cost-effective multimodal LLM reasoning framework for question answeri"
+    },
+    {
+      "title": "Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases",
+      "summary": "Clinical diagnostic evaluation should not only assess whether models can provide correct diagnoses, but also reflect the realities of clinical practice, including progressive disclosure of multimodal information, dynamic updating of diagnostic hypotheses, and continuous refinement of clinical reasoning. However, existing evaluations of multimodal large language models (MLLMs) typically rely on single-turn or isolated tasks, making it difficult to fully capture the complexity of real-world clinic",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.25933v1",
+      "published_at": "2026-07-28T16:19:03Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.25933v1",
+      "summary_type": "extractive",
+      "title_zh": "Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases",
+      "summary_zh": "Clinical diagnostic evaluation should not only assess whether models can provide correct diagnoses, but also reflect the realities of clinical practice, including progressive disclosure of multimodal information, dynamic updating of diagnostic hypotheses, and continuous refinement of clinical reasoning. However, existing evaluations of multimodal large language models (MLLMs) typically rely on single-turn or isolated tasks, making it difficult to fully capture the complexity of real-world clinic"
+    },
+    {
+      "title": "Face De-Identification: A Domain-Centric Survey from Capture to Processing",
+      "summary": "Face de-identification (De-ID) aims to remove or conceal personally identifiable facial features in images or videos to prevent identity recognition while preserving utility for downstream tasks. With the rising emphasis on data privacy and responsible AI, face De-ID has emerged as an active research area spanning computer vision and privacy-preserving communities. Early approaches, and many contemporary ones, operate in the digital domain by modifying pixel-level or appearance-level features th",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.25926v1",
+      "published_at": "2026-07-28T16:15:12Z",
+      "tags": [
+        "vision",
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.25926v1",
+      "summary_type": "extractive",
+      "title_zh": "Face De-Identification: A Domain-Centric Survey from Capture to Processing",
+      "summary_zh": "Face de-identification (De-ID) aims to remove or conceal personally identifiable facial features in images or videos to prevent identity recognition while preserving utility for downstream tasks. With the rising emphasis on data privacy and responsible AI, face De-ID has emerged as an active research area spanning computer vision and privacy-preserving communities. Early approaches, and many contemporary ones, operate in the digital domain by modifying pixel-level or appearance-level features th"
+    },
+    {
+      "title": "dtControl2+$\\varepsilon$: Trading Optimality for Explainability in MDPs via Decision Trees",
+      "summary": "Over the past decade, decision trees have been used to represent controllers (a.k.a. policies) in an explainable way, with dtControl2 as a current state-of-the-art tool. However, for systems that are large or have many corner cases, even such representations tend to be too complex and not human-comprehensible.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.25925v1",
+      "published_at": "2026-07-28T16:15:11Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.25925v1",
+      "summary_type": "extractive",
+      "title_zh": "dtControl2+$\\varepsilon$: Trading Optimality for Explainability in MDPs via Decision Trees",
+      "summary_zh": "Over the past decade, decision trees have been used to represent controllers (a.k.a. policies) in an explainable way, with dtControl2 as a current state-of-the-art tool. However, for systems that are large or have many corner cases, even such representations tend to be too complex and not human-comprehensible."
+    },
+    {
+      "title": "Evaluating VLMs for Autonomous Agent-Driven Geometry Clipping Detection in Video Game QA",
+      "summary": "In this work, we study the use of Vision-Language Models (VLMs) for anomaly detection in an agent-driven game Quality Assurance (QA) pipeline focusing on geometry clipping. In this evaluation, a custom exploration agent navigates a game level to collect visual observations, while the automatic annotation pipeline provides frame-level clipping labels. This setup allows us to evaluate recent VLMs on a controlled anomaly detection task without manual annotation.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2607.25921v1",
+      "published_at": "2026-07-28T16:10:47Z",
+      "tags": [
+        "llm",
+        "paper",
+        "vision",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2607.25921v1",
+      "summary_type": "extractive",
+      "title_zh": "Evaluating VLMs for Autonomous Agent-Driven Geometry Clipping Detection in Video Game QA",
+      "summary_zh": "In this work, we study the use of Vision-Language Models (VLMs) for anomaly detection in an agent-driven game Quality Assurance (QA) pipeline focusing on geometry clipping. In this evaluation, a custom exploration agent navigates a game level to collect visual observations, while the automatic annotation pipeline provides frame-level clipping labels. This setup allows us to evaluate recent VLMs on a controlled anomaly detection task without manual annotation."
     },
     {
       "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
@@ -316,7 +621,7 @@
       "tags": [
         "ai"
       ],
-      "score": "250",
+      "score": "292",
       "item_id": "hn:49085731",
       "summary_type": "extractive",
       "title_zh": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
@@ -332,7 +637,7 @@
       "tags": [
         "ai"
       ],
-      "score": "335",
+      "score": "409",
       "item_id": "hn:49085698",
       "summary_type": "extractive",
       "title_zh": "Kimi K3 Architecture Overview and Notes",
@@ -348,11 +653,27 @@
       "tags": [
         "ai"
       ],
-      "score": "206",
+      "score": "236",
       "item_id": "hn:49085666",
       "summary_type": "extractive",
       "title_zh": "Zig's Incremental Compilation Internals",
       "summary_zh": "Zig's Incremental Compilation Internals"
+    },
+    {
+      "title": "Anthropeum – Where in the world, and when, does this human artifact belong?",
+      "summary": "Anthropeum – Where in the world, and when, does this human artifact belong?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://anthropeum.com/",
+      "published_at": "2026-07-28T15:01:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "164",
+      "item_id": "hn:49084989",
+      "summary_type": "extractive",
+      "title_zh": "Anthropeum – Where in the world, and when, does this human artifact belong?",
+      "summary_zh": "Anthropeum – Where in the world, and when, does this human artifact belong?"
     },
     {
       "title": "Now is the time to give LLMs access to the ACM digital library",
@@ -365,7 +686,7 @@
         "llm",
         "tool"
       ],
-      "score": "125",
+      "score": "154",
       "item_id": "hn:49084987",
       "summary_type": "extractive",
       "title_zh": "Now is the time to give LLMs access to the ACM digital library",
@@ -381,43 +702,43 @@
       "tags": [
         "ai"
       ],
-      "score": "148",
+      "score": "203",
       "item_id": "hn:49084813",
       "summary_type": "extractive",
       "title_zh": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
       "summary_zh": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly"
     },
     {
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "summary": "New HIV vaccine shows unprecedented success in preclinical study",
+      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
+      "summary": "DMARC has been public since 2012 but most company domains still don't enforce it",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "published_at": "2026-07-28T13:12:01+00:00",
+      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+      "published_at": "2026-07-28T10:20:50+00:00",
       "tags": [
         "ai"
       ],
-      "score": "585",
-      "item_id": "hn:49083314",
+      "score": "188",
+      "item_id": "hn:49081783",
       "summary_type": "extractive",
-      "title_zh": "New HIV vaccine shows unprecedented success in preclinical study",
-      "summary_zh": "New HIV vaccine shows unprecedented success in preclinical study"
+      "title_zh": "DMARC has been public since 2012 but most company domains still don't enforce it",
+      "summary_zh": "DMARC has been public since 2012 but most company domains still don't enforce it"
     },
     {
-      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
-      "summary": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
+      "title": "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",
+      "summary": "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://arxiv.org/abs/2510.26692",
-      "published_at": "2026-07-28T10:52:30+00:00",
+      "url": "https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/",
+      "published_at": "2026-07-27T22:42:11+00:00",
       "tags": [
         "ai"
       ],
-      "score": "290",
-      "item_id": "hn:49082022",
+      "score": "13",
+      "item_id": "hn:49076450",
       "summary_type": "extractive",
-      "title_zh": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
-      "summary_zh": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)"
+      "title_zh": "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",
+      "summary_zh": "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)"
     },
     {
       "title": "Beyond Greece and Rome",
@@ -429,363 +750,11 @@
       "tags": [
         "ai"
       ],
-      "score": "5",
+      "score": "30",
       "item_id": "hn:49073357",
       "summary_type": "extractive",
       "title_zh": "Beyond Greece and Rome",
       "summary_zh": "Beyond Greece and Rome"
-    },
-    {
-      "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
-      "summary": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with radiologists' clinical practice and provide an accurate, fine-grained and factualness-driven assessment. In this paper, we introduce ClinFusion, a vision-centric MLLM designed for holistic medical un",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24743v1",
-      "published_at": "2026-07-27T17:59:49Z",
-      "tags": [
-        "llm",
-        "vision",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24743v1",
-      "summary_type": "extractive",
-      "title_zh": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
-      "summary_zh": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with radiologists' clinical practice and provide an accurate, fine-grained and factualness-driven assessment. In this paper, we introduce ClinFusion, a vision-centric MLLM designed for holistic medical un"
-    },
-    {
-      "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
-      "summary": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods naturally extend velocity matching to the CFG-composed prediction, directly matching teacher and student guided velocities. We show that this objective is under-identified at the branch level: positive- and negat",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24731v1",
-      "published_at": "2026-07-27T17:57:02Z",
-      "tags": [
-        "vision",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24731v1",
-      "summary_type": "extractive",
-      "title_zh": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
-      "summary_zh": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods naturally extend velocity matching to the CFG-composed prediction, directly matching teacher and student guided velocities. We show that this objective is under-identified at the branch level: positive- and negat"
-    },
-    {
-      "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
-      "summary": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language Models (VLMs) to generate natural-language explanations. However, these systems add linguistic fluency without addressing the underlying opacity of the visual model.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24730v1",
-      "published_at": "2026-07-27T17:57:02Z",
-      "tags": [
-        "llm",
-        "vision",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24730v1",
-      "summary_type": "extractive",
-      "title_zh": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
-      "summary_zh": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language Models (VLMs) to generate natural-language explanations. However, these systems add linguistic fluency without addressing the underlying opacity of the visual model."
-    },
-    {
-      "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
-      "summary": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. To address this challenge, we introduce a unified and controlled multi-turn environment that enables precise control.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24720v1",
-      "published_at": "2026-07-27T17:55:03Z",
-      "tags": [
-        "llm",
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24720v1",
-      "summary_type": "extractive",
-      "title_zh": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
-      "summary_zh": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. To address this challenge, we introduce a unified and controlled multi-turn environment that enables precise control."
-    },
-    {
-      "title": "DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
-      "summary": "Pretraining data processing is critical to the downstream performance of Large Language Models (LLMs). However, many existing approaches define a fixed processing strategy at the corpus or domain level and apply it uniformly to many examples, without adapting to the needs of each example. We propose DataOrchestra, a framework that unifies different processing operations and orchestrates an example-specific pipeline for each example.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24717v1",
-      "published_at": "2026-07-27T17:54:12Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24717v1",
-      "summary_type": "extractive",
-      "title_zh": "DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
-      "summary_zh": "Pretraining data processing is critical to the downstream performance of Large Language Models (LLMs). However, many existing approaches define a fixed processing strategy at the corpus or domain level and apply it uniformly to many examples, without adapting to the needs of each example. We propose DataOrchestra, a framework that unifies different processing operations and orchestrates an example-specific pipeline for each example."
-    },
-    {
-      "title": "Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures",
-      "summary": "Trapped-ion quantum computers rely on shuttling compilers, which cast an input algorithm into a sequence of ion-qubit movements within a given architecture. We present the first study in which a single frontier large language model (LLM), Claude Opus 4.7, generates and iteratively refines the full Python code of shuttling compilers from written specifications. We start with a compiler for (i) a linear segmented trap, extend it to (ii) a trap with junctions, and finally achieve efficient compilat",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24714v1",
-      "published_at": "2026-07-27T17:51:18Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24714v1",
-      "summary_type": "extractive",
-      "title_zh": "Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures",
-      "summary_zh": "Trapped-ion quantum computers rely on shuttling compilers, which cast an input algorithm into a sequence of ion-qubit movements within a given architecture. We present the first study in which a single frontier large language model (LLM), Claude Opus 4.7, generates and iteratively refines the full Python code of shuttling compilers from written specifications. We start with a compiler for (i) a linear segmented trap, extend it to (ii) a trap with junctions, and finally achieve efficient compilat"
-    },
-    {
-      "title": "ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams",
-      "summary": "Entity-Relationship Diagrams (ERDs) are central to conceptual database design, yet they are typically available only as rendered images rather than machine-readable schemas, limiting AI-assisted database engineering. We introduce ERUnderstand, the first large-scale benchmark for structured understanding of ER diagrams, comprising 2,960 diagrams collected from curated educational sources, real-world schemas, and synthetically generated examples spanning diverse domains, notations, complexity leve",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24707v1",
-      "published_at": "2026-07-27T17:46:43Z",
-      "tags": [
-        "llm",
-        "vision",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24707v1",
-      "summary_type": "extractive",
-      "title_zh": "ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams",
-      "summary_zh": "Entity-Relationship Diagrams (ERDs) are central to conceptual database design, yet they are typically available only as rendered images rather than machine-readable schemas, limiting AI-assisted database engineering. We introduce ERUnderstand, the first large-scale benchmark for structured understanding of ER diagrams, comprising 2,960 diagrams collected from curated educational sources, real-world schemas, and synthetically generated examples spanning diverse domains, notations, complexity leve"
-    },
-    {
-      "title": "Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines",
-      "summary": "Inference systems increasingly combine a fast path that returns predictions within the application's latency deadline together with a higher-accuracy slow path that runs higher-compute methods on stronger, remote hardware, so its results can be returned on time and combined with the fast path predictions. Across several application domains, we abstract this inference architecture as a fast path, a slow path, and a coordination layer with two functions: a router that invokes the slow path and a m",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24692v1",
-      "published_at": "2026-07-27T17:34:09Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24692v1",
-      "summary_type": "extractive",
-      "title_zh": "Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines",
-      "summary_zh": "Inference systems increasingly combine a fast path that returns predictions within the application's latency deadline together with a higher-accuracy slow path that runs higher-compute methods on stronger, remote hardware, so its results can be returned on time and combined with the fast path predictions. Across several application domains, we abstract this inference architecture as a fast path, a slow path, and a coordination layer with two functions: a router that invokes the slow path and a m"
-    },
-    {
-      "title": "Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification",
-      "summary": "Multi-modal classification leverages complementary information across diverse data sources to enhance predictive performance. However, real-world scenarios subject to operational constraints, such as sensor failures or privacy restrictions, lead to inconsistent modality availability between training and inference times. To handle missing modalities, prior studies have mainly covered bimodal data setups and focused on designing robust fusion processes.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24683v1",
-      "published_at": "2026-07-27T17:23:30Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24683v1",
-      "summary_type": "extractive",
-      "title_zh": "Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification",
-      "summary_zh": "Multi-modal classification leverages complementary information across diverse data sources to enhance predictive performance. However, real-world scenarios subject to operational constraints, such as sensor failures or privacy restrictions, lead to inconsistent modality availability between training and inference times. To handle missing modalities, prior studies have mainly covered bimodal data setups and focused on designing robust fusion processes."
-    },
-    {
-      "title": "Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating",
-      "summary": "A language model with a bounded working memory must repeatedly decide which stored items to keep. Every deployed method decides the moment an item arrives, from the past (StreamingLLM, H2O) or from a guess about the future (SnapKV). We recast the choice as an estimation problem on a hidden signal, whether an item will be reused, placing existing methods on one axis, the commit lag $H$: online filters and learned predictors commit at $H=0$, while Belady's offline optimum sits where the whole futu",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24667v1",
-      "published_at": "2026-07-27T17:08:27Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24667v1",
-      "summary_type": "extractive",
-      "title_zh": "Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating",
-      "summary_zh": "A language model with a bounded working memory must repeatedly decide which stored items to keep. Every deployed method decides the moment an item arrives, from the past (StreamingLLM, H2O) or from a guess about the future (SnapKV). We recast the choice as an estimation problem on a hidden signal, whether an item will be reused, placing existing methods on one axis, the commit lag $H$: online filters and learned predictors commit at $H=0$, while Belady's offline optimum sits where the whole futu"
-    },
-    {
-      "title": "A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility",
-      "summary": "Scientific user facilities accumulate decades of operational knowledge that no single search index covers: electronic logbooks, technical documents, internal wikis, operations chat messages, maintenance records, and live control-system data. We present APS-RAG, Advanced Photon Source Retrieval Augmented Generation, a deployed platform that makes the institutional knowledge at the Advanced Photon Source (APS) accessible to staff through natural-language queries, along with an operations-grounded ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24663v1",
-      "published_at": "2026-07-27T17:01:30Z",
-      "tags": [
-        "agent",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24663v1",
-      "summary_type": "extractive",
-      "title_zh": "A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility",
-      "summary_zh": "Scientific user facilities accumulate decades of operational knowledge that no single search index covers: electronic logbooks, technical documents, internal wikis, operations chat messages, maintenance records, and live control-system data. We present APS-RAG, Advanced Photon Source Retrieval Augmented Generation, a deployed platform that makes the institutional knowledge at the Advanced Photon Source (APS) accessible to staff through natural-language queries, along with an operations-grounded "
-    },
-    {
-      "title": "Reason-Mediated Behavioral Models for Auditing LLM Social Simulators",
-      "summary": "Large language models are increasingly used as social simulators, including as synthetic survey respondents. Most evaluations ask whether simulated outcomes resemble human outcomes. We argue that this is necessary but too weak: a simulator can match the final answer while using the wrong rationale-derived reason pattern.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24649v1",
-      "published_at": "2026-07-27T16:47:27Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24649v1",
-      "summary_type": "extractive",
-      "title_zh": "Reason-Mediated Behavioral Models for Auditing LLM Social Simulators",
-      "summary_zh": "Large language models are increasingly used as social simulators, including as synthetic survey respondents. Most evaluations ask whether simulated outcomes resemble human outcomes. We argue that this is necessary but too weak: a simulator can match the final answer while using the wrong rationale-derived reason pattern."
-    },
-    {
-      "title": "Efficiency Matters in Autonomous Research",
-      "summary": "AI-driven autonomous research (AR) systems are becoming increasingly effective across a broad range of tasks. Their performance, however, is still evaluated primarily by the quality of the final outcome. In this paper, we argue that the efficiency of the solution-search process is an equally important but often overlooked dimension of performance.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24647v1",
-      "published_at": "2026-07-27T16:46:33Z",
-      "tags": [
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24647v1",
-      "summary_type": "extractive",
-      "title_zh": "Efficiency Matters in Autonomous Research",
-      "summary_zh": "AI-driven autonomous research (AR) systems are becoming increasingly effective across a broad range of tasks. Their performance, however, is still evaluated primarily by the quality of the final outcome. In this paper, we argue that the efficiency of the solution-search process is an equally important but often overlooked dimension of performance."
-    },
-    {
-      "title": "Sparse Autoencoders Encode Both Concepts and Functions: The Downstream Geometry of Feature Effects",
-      "summary": "The wide-scale use of sparse autoencoders (SAEs) as interpretability tools is limited by inconsistent links between SAE features and model behavior. Features with clear activation descriptions may have weak or unexpected causal effects; steering can vary across prompts or oppose the intended direction; and activation-based feature selection can miss features that produce the desired output change. Prior work has studied feature geometry inside the model, where features are computed.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24645v1",
-      "published_at": "2026-07-27T16:45:08Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24645v1",
-      "summary_type": "extractive",
-      "title_zh": "Sparse Autoencoders Encode Both Concepts and Functions: The Downstream Geometry of Feature Effects",
-      "summary_zh": "The wide-scale use of sparse autoencoders (SAEs) as interpretability tools is limited by inconsistent links between SAE features and model behavior. Features with clear activation descriptions may have weak or unexpected causal effects; steering can vary across prompts or oppose the intended direction; and activation-based feature selection can miss features that produce the desired output change. Prior work has studied feature geometry inside the model, where features are computed."
-    },
-    {
-      "title": "Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents",
-      "summary": "Autonomous LLM agents processing mixed-confidentiality data face severe security risks from prompt injection attacks and reasoning errors. While dynamic Information Flow Control (IFC) provides structural security guarantees, traditional taint tracking permanently taints an agent's context upon reading unvetted data, severely restricting downstream utility. We present APPA (Agentic Permissions Policy Algebra), an IFC framework that resolves this usability bottleneck through engine-managed context",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24625v1",
-      "published_at": "2026-07-27T16:19:45Z",
-      "tags": [
-        "llm",
-        "agent",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24625v1",
-      "summary_type": "extractive",
-      "title_zh": "Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents",
-      "summary_zh": "Autonomous LLM agents processing mixed-confidentiality data face severe security risks from prompt injection attacks and reasoning errors. While dynamic Information Flow Control (IFC) provides structural security guarantees, traditional taint tracking permanently taints an agent's context upon reading unvetted data, severely restricting downstream utility. We present APPA (Agentic Permissions Policy Algebra), an IFC framework that resolves this usability bottleneck through engine-managed context"
-    },
-    {
-      "title": "Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair",
-      "summary": "Generate--test--revise loops are common in coding agents, but repetition alone provides no reliability guarantee. We study the gap between finding a correct patch and retaining, verifying, and submitting it. A sealed five-seed study over 30 HumanEval repairs produces 900 three-revision trajectories.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24604v1",
-      "published_at": "2026-07-27T16:05:23Z",
-      "tags": [
-        "vision",
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24604v1",
-      "summary_type": "extractive",
-      "title_zh": "Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair",
-      "summary_zh": "Generate--test--revise loops are common in coding agents, but repetition alone provides no reliability guarantee. We study the gap between finding a correct patch and retaining, verifying, and submitting it. A sealed five-seed study over 30 HumanEval repairs produces 900 three-revision trajectories."
-    },
-    {
-      "title": "Evaluating the Impact of Explainable AI on Trust in AI-Assisted Code Review",
-      "summary": "Background: Large language models (LLMs) are increasingly used to automate code review, but the reasoning behind their decisions remains hard to understand. Developers struggle to assess the validity of LLM-generated reviews, making it difficult to gauge how much trust to place in them. The role of Explainable AI (XAI) in code review and its impact on trust remain underexplored.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24601v1",
-      "published_at": "2026-07-27T16:04:24Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24601v1",
-      "summary_type": "extractive",
-      "title_zh": "Evaluating the Impact of Explainable AI on Trust in AI-Assisted Code Review",
-      "summary_zh": "Background: Large language models (LLMs) are increasingly used to automate code review, but the reasoning behind their decisions remains hard to understand. Developers struggle to assess the validity of LLM-generated reviews, making it difficult to gauge how much trust to place in them. The role of Explainable AI (XAI) in code review and its impact on trust remain underexplored."
-    },
-    {
-      "title": "Artificial Intelligence and Innovation Ecosystem: Evolutionary Developments, Challenges, and Future Directions",
-      "summary": "The development of the Innovative Ecosystem (IE) presents a new paradigm for economic integration, collaborative advancement, and shared achievements. The rise of Artificial Intelligence (AI) has significantly accelerated the global processes of digitization, informatization, and intelligence. Exploring how AI can leverage inherent characteristics to influence the development trajectory of IE is a topic that warrants further investigation.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24589v1",
-      "published_at": "2026-07-27T15:54:23Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24589v1",
-      "summary_type": "extractive",
-      "title_zh": "Artificial Intelligence and Innovation Ecosystem: Evolutionary Developments, Challenges, and Future Directions",
-      "summary_zh": "The development of the Innovative Ecosystem (IE) presents a new paradigm for economic integration, collaborative advancement, and shared achievements. The rise of Artificial Intelligence (AI) has significantly accelerated the global processes of digitization, informatization, and intelligence. Exploring how AI can leverage inherent characteristics to influence the development trajectory of IE is a topic that warrants further investigation."
-    },
-    {
-      "title": "SIREN: Towards End-to-End Extreme-Weather Early Warning with Experience-Grounded LLM Agents",
-      "summary": "Early warning of extreme weather is essential for mitigating the societal, economic, and environmental risks posed by hazardous weather events. However, expert-centered warning workflows are costly, labor-intensive, and difficult to scale throughout the warning-to-action process. Although recent advances in Large Language Model (LLM) agents have enabled the automation of weather-related tasks, existing studies remain centered on isolated scientific tasks and overlook the chain of interdependent ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24588v1",
-      "published_at": "2026-07-27T15:53:19Z",
-      "tags": [
-        "llm",
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24588v1",
-      "summary_type": "extractive",
-      "title_zh": "SIREN: Towards End-to-End Extreme-Weather Early Warning with Experience-Grounded LLM Agents",
-      "summary_zh": "Early warning of extreme weather is essential for mitigating the societal, economic, and environmental risks posed by hazardous weather events. However, expert-centered warning workflows are costly, labor-intensive, and difficult to scale throughout the warning-to-action process. Although recent advances in Large Language Model (LLM) agents have enabled the automation of weather-related tasks, existing studies remain centered on isolated scientific tasks and overlook the chain of interdependent "
-    },
-    {
-      "title": "D-Score: A Spectral Hidden-State Signal for Hallucination Detection in Large Language Models",
-      "summary": "Large Language Models can produce fluent text that is false, unsupported by the available evidence, or inconsistent with information that appears to be internally represented by the model. We study hallucination detection from the geometry of hidden activations and introduce the D-Score, a simple spectral statistic computed from a single forward pass. For a fixed model, layer, and tolerance parameter, the D-Score counts how many singular directions of the hidden activation matrix have singular v",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2607.24586v1",
-      "published_at": "2026-07-27T15:52:33Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2607.24586v1",
-      "summary_type": "extractive",
-      "title_zh": "D-Score: A Spectral Hidden-State Signal for Hallucination Detection in Large Language Models",
-      "summary_zh": "Large Language Models can produce fluent text that is false, unsupported by the available evidence, or inconsistent with information that appears to be internally represented by the model. We study hallucination detection from the geometry of hidden activations and introduce the D-Score, a simple spectral statistic computed from a single forward pass. For a fixed model, layer, and tolerance parameter, the D-Score counts how many singular directions of the hidden activation matrix have singular v"
     },
     {
       "title": "Teach yourself programming in ten years (1998)",
@@ -797,7 +766,7 @@
       "tags": [
         "ai"
       ],
-      "score": "66",
+      "score": "127",
       "item_id": "hn:49055816",
       "summary_type": "extractive",
       "title_zh": "Teach yourself programming in ten years (1998)",
@@ -813,27 +782,59 @@
       "tags": [
         "ai"
       ],
-      "score": "85",
+      "score": "96",
       "item_id": "hn:49036460",
       "summary_type": "extractive",
       "title_zh": "The Fabled Flatbreads of Uzbekistan (2015)",
       "summary_zh": "The Fabled Flatbreads of Uzbekistan (2015)"
     },
     {
-      "title": "Show HN: How far do I have to go to run into 100k people?",
-      "summary": "Show HN: How far do I have to go to run into 100k people?",
+      "title": "Mag Computer: A Mag History of RAM (1960–2025)",
+      "summary": "Mag Computer: A Mag History of RAM (1960–2025)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://imjasonh.github.io/playground/population-rays/",
-      "published_at": "2026-07-23T21:33:28+00:00",
+      "url": "https://magworld.pw/episodes/computer/",
+      "published_at": "2026-07-24T14:26:09+00:00",
       "tags": [
         "ai"
       ],
-      "score": "55",
-      "item_id": "hn:49028358",
+      "score": "21",
+      "item_id": "hn:49036182",
       "summary_type": "extractive",
-      "title_zh": "Show HN: How far do I have to go to run into 100k people?",
-      "summary_zh": "Show HN: How far do I have to go to run into 100k people?"
+      "title_zh": "Mag Computer: A Mag History of RAM (1960–2025)",
+      "summary_zh": "Mag Computer: A Mag History of RAM (1960–2025)"
+    },
+    {
+      "title": "Log is non-monotonic in PHP and Lua",
+      "summary": "Log is non-monotonic in PHP and Lua",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/",
+      "published_at": "2026-07-23T14:00:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "51",
+      "item_id": "hn:49021756",
+      "summary_type": "extractive",
+      "title_zh": "Log is non-monotonic in PHP and Lua",
+      "summary_zh": "Log is non-monotonic in PHP and Lua"
+    },
+    {
+      "title": "Fixing a bug with byte order marks",
+      "summary": "Fixing a bug with byte order marks",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://alexwlchan.net/2026/byte-order-marks/",
+      "published_at": "2026-07-23T13:41:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:49021447",
+      "summary_type": "extractive",
+      "title_zh": "Fixing a bug with byte order marks",
+      "summary_zh": "Fixing a bug with byte order marks"
     }
   ]
 }

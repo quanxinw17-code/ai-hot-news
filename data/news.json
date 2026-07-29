@@ -1,38 +1,230 @@
 {
-  "updated_at": "2026-07-28T19:43:44.419525+00:00",
+  "updated_at": "2026-07-29T03:24:46.561606+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Donate to GrapheneOS",
-      "summary": "Donate to GrapheneOS",
+      "title": "Does every question mark deserve a Betteridge?",
+      "summary": "Does every question mark deserve a Betteridge?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://grapheneos.org/donate",
-      "published_at": "2026-07-28T19:06:10+00:00",
+      "url": "https://dynomight.net/betteridge/",
+      "published_at": "2026-07-29T02:29:12+00:00",
       "tags": [
         "ai"
       ],
-      "score": "79",
-      "item_id": "hn:49088451",
+      "score": "6",
+      "item_id": "hn:49092781",
       "summary_type": "extractive",
-      "title_zh": "Donate to GrapheneOS",
-      "summary_zh": "Donate to GrapheneOS"
+      "title_zh": "Does every question mark deserve a Betteridge?",
+      "summary_zh": "Does every question mark deserve a Betteridge?"
     },
     {
-      "title": "Deflock Casa Grande",
-      "summary": "Deflock Casa Grande",
+      "title": "Hooray for the Sockets Interface",
+      "summary": "Hooray for the Sockets Interface",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://deflockcg.com/",
-      "published_at": "2026-07-28T18:41:48+00:00",
+      "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+      "published_at": "2026-07-29T02:25:29+00:00",
       "tags": [
         "ai"
       ],
-      "score": "144",
-      "item_id": "hn:49088148",
+      "score": "6",
+      "item_id": "hn:49092754",
       "summary_type": "extractive",
-      "title_zh": "Deflock Casa Grande",
-      "summary_zh": "Deflock Casa Grande"
+      "title_zh": "Hooray for the Sockets Interface",
+      "summary_zh": "Hooray for the Sockets Interface"
+    },
+    {
+      "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+      "summary": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure.",
+      "full_text": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure.",
+      "source": "hacker news",
+      "url": "https://github.com/jagg-ix/zil-lean",
+      "published_at": "2026-07-29T02:22:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:49092730",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+      "summary_zh": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure."
+    },
+    {
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "summary": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+      "published_at": "2026-07-29T01:56:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:49092549",
+      "summary_type": "extractive",
+      "title_zh": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "summary_zh": "Chip stocks slide in US and Asia as AI jitters rattle investors"
+    },
+    {
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "summary": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://learnvector.ai/",
+      "published_at": "2026-07-29T01:49:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "41",
+      "item_id": "hn:49092499",
+      "summary_type": "extractive",
+      "title_zh": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "summary_zh": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences"
+    },
+    {
+      "title": "Multiple Mouse Cursors in Wayland",
+      "summary": "Multiple Mouse Cursors in Wayland",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blinry.org/multi-seat-wayland/",
+      "published_at": "2026-07-29T00:59:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "29",
+      "item_id": "hn:49092112",
+      "summary_type": "extractive",
+      "title_zh": "Multiple Mouse Cursors in Wayland",
+      "summary_zh": "Multiple Mouse Cursors in Wayland"
+    },
+    {
+      "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
+      "summary": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
+      "published_at": "2026-07-29T00:44:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "8",
+      "item_id": "hn:49091994",
+      "summary_type": "extractive",
+      "title_zh": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
+      "summary_zh": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]"
+    },
+    {
+      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+      "summary": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+      "published_at": "2026-07-29T00:32:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:49091895",
+      "summary_type": "extractive",
+      "title_zh": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+      "summary_zh": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana"
+    },
+    {
+      "title": "The Difference Between a Button and a Link",
+      "summary": "The Difference Between a Button and a Link",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+      "published_at": "2026-07-29T00:12:14+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "46",
+      "item_id": "hn:49091738",
+      "summary_type": "extractive",
+      "title_zh": "The Difference Between a Button and a Link",
+      "summary_zh": "The Difference Between a Button and a Link"
+    },
+    {
+      "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+      "summary": "Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos.We reimplemented Manim with the same Python API, but the implementation underneath is Rust, connected to Python through PyO3. The Rust code uses wgpu, so rendering happens on the GPU.To run it in the browser, we compiled the Rust parts to WebAssembly so the PyO3 extension loads in Pyodide. In the browser, wgpu targets the WebGPU API, so animations render in real time on your GPU thro",
+      "full_text": "Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos.We reimplemented Manim with the same Python API, but the implementation underneath is Rust, connected to Python through PyO3. The Rust code uses wgpu, so rendering happens on the GPU.To run it in the browser, we compiled the Rust parts to WebAssembly so the PyO3 extension loads in Pyodide. In the browser, wgpu targets the WebGPU API, so animations render in real time on your GPU thro",
+      "source": "hacker news",
+      "url": "https://studio.academa.ai/",
+      "published_at": "2026-07-29T00:07:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "31",
+      "item_id": "hn:49091703",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+      "summary_zh": "Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos.We reimplemented Manim with the same Python API, but the implementation underneath is Rust, connected to Python through PyO3. The Rust code uses wgpu, so rendering happens on the GPU.To run it in the browser, we compiled the Rust parts to WebAssembly so the PyO3 extension loads in Pyodide. In the browser, wgpu targets the WebGPU API, so animations render in real time on your GPU thro"
+    },
+    {
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "summary": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.I figured there was probably a simpler way, so I threw together this userscript to merge the two.1. Clicking a link from Hacker News opens the article with a side panel containing the discussion.",
+      "full_text": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.I figured there was probably a simpler way, so I threw together this userscript to merge the two.1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn&#x27;t require your credentials, is resizable, and is ",
+      "source": "hacker news",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "published_at": "2026-07-28T22:09:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "170",
+      "item_id": "hn:49090607",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "summary_zh": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.I figured there was probably a simpler way, so I threw together this userscript to merge the two.1. Clicking a link from Hacker News opens the article with a side panel containing the discussion."
+    },
+    {
+      "title": "Half-Life ported to Mac OS 9",
+      "summary": "Half-Life ported to Mac OS 9",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "published_at": "2026-07-28T20:58:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "174",
+      "item_id": "hn:49089814",
+      "summary_type": "extractive",
+      "title_zh": "Half-Life ported to Mac OS 9",
+      "summary_zh": "Half-Life ported to Mac OS 9"
+    },
+    {
+      "title": "Codex Security",
+      "summary": "Codex Security",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/openai/codex-security",
+      "published_at": "2026-07-28T20:52:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "381",
+      "item_id": "hn:49089755",
+      "summary_type": "extractive",
+      "title_zh": "Codex Security",
+      "summary_zh": "Codex Security"
+    },
+    {
+      "title": "Pacing the frontier",
+      "summary": "Pacing the frontier",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.pacingthefrontier.com/",
+      "published_at": "2026-07-28T20:09:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "98",
+      "item_id": "hn:49089240",
+      "summary_type": "extractive",
+      "title_zh": "Pacing the frontier",
+      "summary_zh": "Pacing the frontier"
     },
     {
       "title": "MCP 2026-07-28 Specification: transport going stateless",
@@ -44,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "25",
+      "score": "109",
       "item_id": "hn:49088058",
       "summary_type": "extractive",
       "title_zh": "MCP 2026-07-28 Specification: transport going stateless",
@@ -60,7 +252,7 @@
       "tags": [
         "ai"
       ],
-      "score": "46",
+      "score": "148",
       "item_id": "hn:49087306",
       "summary_type": "extractive",
       "title_zh": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
@@ -76,27 +268,11 @@
       "tags": [
         "ai"
       ],
-      "score": "97",
+      "score": "206",
       "item_id": "hn:49086971",
       "summary_type": "extractive",
       "title_zh": "Steel Bank Common Lisp version 2.6.7",
       "summary_zh": "Steel Bank Common Lisp version 2.6.7"
-    },
-    {
-      "title": "WOFF 1.0: a milestone on W3C's journey of fonts on the web",
-      "summary": "WOFF 1.0: a milestone on W3C's journey of fonts on the web",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/",
-      "published_at": "2026-07-28T17:05:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "39",
-      "item_id": "hn:49086890",
-      "summary_type": "extractive",
-      "title_zh": "WOFF 1.0: a milestone on W3C's journey of fonts on the web",
-      "summary_zh": "WOFF 1.0: a milestone on W3C's journey of fonts on the web"
     },
     {
       "title": "Substack writers, you need a website",
@@ -108,27 +284,11 @@
       "tags": [
         "ai"
       ],
-      "score": "140",
+      "score": "438",
       "item_id": "hn:49086788",
       "summary_type": "extractive",
       "title_zh": "Substack writers, you need a website",
       "summary_zh": "Substack writers, you need a website"
-    },
-    {
-      "title": "A walk through of the DeltaNet family of linear attention variants",
-      "summary": "A walk through of the DeltaNet family of linear attention variants",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-      "published_at": "2026-07-28T16:02:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "253",
-      "item_id": "hn:49085909",
-      "summary_type": "extractive",
-      "title_zh": "A walk through of the DeltaNet family of linear attention variants",
-      "summary_zh": "A walk through of the DeltaNet family of linear attention variants"
     },
     {
       "title": "How Do I Profile eBPF Code?",
@@ -140,7 +300,7 @@
       "tags": [
         "ai"
       ],
-      "score": "82",
+      "score": "112",
       "item_id": "hn:49085811",
       "summary_type": "extractive",
       "title_zh": "How Do I Profile eBPF Code?",
@@ -156,7 +316,7 @@
       "tags": [
         "ai"
       ],
-      "score": "141",
+      "score": "250",
       "item_id": "hn:49085731",
       "summary_type": "extractive",
       "title_zh": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
@@ -172,7 +332,7 @@
       "tags": [
         "ai"
       ],
-      "score": "139",
+      "score": "335",
       "item_id": "hn:49085698",
       "summary_type": "extractive",
       "title_zh": "Kimi K3 Architecture Overview and Notes",
@@ -188,63 +348,15 @@
       "tags": [
         "ai"
       ],
-      "score": "118",
+      "score": "206",
       "item_id": "hn:49085666",
       "summary_type": "extractive",
       "title_zh": "Zig's Incremental Compilation Internals",
       "summary_zh": "Zig's Incremental Compilation Internals"
     },
     {
-      "title": "So, you want to make a game engine (2023)",
-      "summary": "So, you want to make a game engine (2023)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
-      "published_at": "2026-07-28T15:36:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "37",
-      "item_id": "hn:49085509",
-      "summary_type": "extractive",
-      "title_zh": "So, you want to make a game engine (2023)",
-      "summary_zh": "So, you want to make a game engine (2023)"
-    },
-    {
-      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-      "summary": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arxiv.org/abs/1202.4212",
-      "published_at": "2026-07-28T15:20:35+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "68",
-      "item_id": "hn:49085280",
-      "summary_type": "extractive",
-      "title_zh": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-      "summary_zh": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)"
-    },
-    {
-      "title": "Anthropeum – Where in the world, and when, does this human artifact belong?",
-      "summary": "Anthropeum – Where in the world, and when, does this human artifact belong?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://anthropeum.com/",
-      "published_at": "2026-07-28T15:01:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "101",
-      "item_id": "hn:49084989",
-      "summary_type": "extractive",
-      "title_zh": "Anthropeum – Where in the world, and when, does this human artifact belong?",
-      "summary_zh": "Anthropeum – Where in the world, and when, does this human artifact belong?"
-    },
-    {
-      "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
-      "summary": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+      "title": "Now is the time to give LLMs access to the ACM digital library",
+      "summary": "Now is the time to give LLMs access to the ACM digital library",
       "full_text": "",
       "source": "hacker news",
       "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
@@ -253,27 +365,11 @@
         "llm",
         "tool"
       ],
-      "score": "70",
+      "score": "125",
       "item_id": "hn:49084987",
       "summary_type": "extractive",
-      "title_zh": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
-      "summary_zh": "Now Is the Time to Give LLMs Access to the ACM Digital Library"
-    },
-    {
-      "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
-      "summary": "Stop Killing the Internet: No Digital ID and No Age Verification",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
-      "published_at": "2026-07-28T14:58:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "288",
-      "item_id": "hn:49084938",
-      "summary_type": "extractive",
-      "title_zh": "Stop Killing the Internet: No Digital ID and No Age Verification",
-      "summary_zh": "Stop Killing the Internet: No Digital ID and No Age Verification"
+      "title_zh": "Now is the time to give LLMs access to the ACM digital library",
+      "summary_zh": "Now is the time to give LLMs access to the ACM digital library"
     },
     {
       "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
@@ -285,27 +381,11 @@
       "tags": [
         "ai"
       ],
-      "score": "59",
+      "score": "148",
       "item_id": "hn:49084813",
       "summary_type": "extractive",
       "title_zh": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
       "summary_zh": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly"
-    },
-    {
-      "title": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
-      "summary": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/utmapp/UTM/issues/7658",
-      "published_at": "2026-07-28T13:33:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "61",
-      "item_id": "hn:49083634",
-      "summary_type": "extractive",
-      "title_zh": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
-      "summary_zh": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines"
     },
     {
       "title": "New HIV vaccine shows unprecedented success in preclinical study",
@@ -317,27 +397,11 @@
       "tags": [
         "ai"
       ],
-      "score": "427",
+      "score": "585",
       "item_id": "hn:49083314",
       "summary_type": "extractive",
       "title_zh": "New HIV vaccine shows unprecedented success in preclinical study",
       "summary_zh": "New HIV vaccine shows unprecedented success in preclinical study"
-    },
-    {
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "summary": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formedness conditions on the triangulation.This project is also an experiment in avoiding having to trust AI-generated code. A human reviewer only needs to read 93 lines of formal specification and run the ",
-      "full_text": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formedness conditions on the triangulation.This project is also an experiment in avoiding having to trust AI-generated code. A human reviewer only needs to read 93 lines of formal specification and run the ",
-      "source": "hacker news",
-      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "published_at": "2026-07-28T13:07:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "99",
-      "item_id": "hn:49083239",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "summary_zh": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formedness conditions on the triangulation.This project is also an experiment in avoiding having to trust AI-generated code. A human reviewer only needs to read 93 lines of formal specification and run the "
     },
     {
       "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
@@ -349,91 +413,27 @@
       "tags": [
         "ai"
       ],
-      "score": "237",
+      "score": "290",
       "item_id": "hn:49082022",
       "summary_type": "extractive",
       "title_zh": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
       "summary_zh": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)"
     },
     {
-      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
-      "summary": "DMARC has been public since 2012 but most company domains still don't enforce it",
+      "title": "Beyond Greece and Rome",
+      "summary": "Beyond Greece and Rome",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-      "published_at": "2026-07-28T10:20:50+00:00",
+      "url": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
+      "published_at": "2026-07-27T18:04:30+00:00",
       "tags": [
         "ai"
       ],
-      "score": "149",
-      "item_id": "hn:49081783",
+      "score": "5",
+      "item_id": "hn:49073357",
       "summary_type": "extractive",
-      "title_zh": "DMARC has been public since 2012 but most company domains still don't enforce it",
-      "summary_zh": "DMARC has been public since 2012 but most company domains still don't enforce it"
-    },
-    {
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "summary": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "published_at": "2026-07-28T09:59:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "135",
-      "item_id": "hn:49081644",
-      "summary_type": "extractive",
-      "title_zh": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "summary_zh": "Google's Beyond Zero: Enterprise Security for the AI Era"
-    },
-    {
-      "title": "About the security content of macOS Tahoe 26.6",
-      "summary": "About the security content of macOS Tahoe 26.6",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://support.apple.com/en-us/128067",
-      "published_at": "2026-07-28T09:45:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "183",
-      "item_id": "hn:49081555",
-      "summary_type": "extractive",
-      "title_zh": "About the security content of macOS Tahoe 26.6",
-      "summary_zh": "About the security content of macOS Tahoe 26.6"
-    },
-    {
-      "title": "7.1 Earthquake in Japan",
-      "summary": "7.1 Earthquake in Japan",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "published_at": "2026-07-28T07:44:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "738",
-      "item_id": "hn:49080664",
-      "summary_type": "extractive",
-      "title_zh": "7.1 Earthquake in Japan",
-      "summary_zh": "7.1 Earthquake in Japan"
-    },
-    {
-      "title": "Solving Fermat: Andrew Wiles",
-      "summary": "Solving Fermat: Andrew Wiles",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.pbs.org/wgbh/nova/proof/wiles.html",
-      "published_at": "2026-07-27T20:42:46+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "67",
-      "item_id": "hn:49075264",
-      "summary_type": "extractive",
-      "title_zh": "Solving Fermat: Andrew Wiles",
-      "summary_zh": "Solving Fermat: Andrew Wiles"
+      "title_zh": "Beyond Greece and Rome",
+      "summary_zh": "Beyond Greece and Rome"
     },
     {
       "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
@@ -498,8 +498,8 @@
       "published_at": "2026-07-27T17:55:03Z",
       "tags": [
         "llm",
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24720v1",
@@ -690,8 +690,8 @@
       "published_at": "2026-07-27T16:19:45Z",
       "tags": [
         "llm",
-        "paper",
         "agent",
+        "paper",
         "tool"
       ],
       "score": "📄",
@@ -708,9 +708,9 @@
       "url": "http://arxiv.org/abs/2607.24604v1",
       "published_at": "2026-07-27T16:05:23Z",
       "tags": [
-        "paper",
         "vision",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24604v1",
@@ -761,8 +761,8 @@
       "published_at": "2026-07-27T15:53:19Z",
       "tags": [
         "llm",
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.24588v1",
@@ -788,52 +788,52 @@
       "summary_zh": "Large Language Models can produce fluent text that is false, unsupported by the available evidence, or inconsistent with information that appears to be internally represented by the model. We study hallucination detection from the geometry of hidden activations and introduce the D-Score, a simple spectral statistic computed from a single forward pass. For a fixed model, layer, and tolerance parameter, the D-Score counts how many singular directions of the hidden activation matrix have singular v"
     },
     {
-      "title": "The most advanced robotic servicing satellite–that we know about",
-      "summary": "The most advanced robotic servicing satellite–that we know about",
+      "title": "Teach yourself programming in ten years (1998)",
+      "summary": "Teach yourself programming in ten years (1998)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
-      "published_at": "2026-07-24T18:39:32+00:00",
+      "url": "https://www.norvig.com/21-days.html",
+      "published_at": "2026-07-26T08:06:45+00:00",
       "tags": [
         "ai"
       ],
-      "score": "15",
-      "item_id": "hn:49039904",
+      "score": "66",
+      "item_id": "hn:49055816",
       "summary_type": "extractive",
-      "title_zh": "The most advanced robotic servicing satellite–that we know about",
-      "summary_zh": "The most advanced robotic servicing satellite–that we know about"
+      "title_zh": "Teach yourself programming in ten years (1998)",
+      "summary_zh": "Teach yourself programming in ten years (1998)"
     },
     {
-      "title": "How to survive boiling water",
-      "summary": "How to survive boiling water",
+      "title": "The Fabled Flatbreads of Uzbekistan (2015)",
+      "summary": "The Fabled Flatbreads of Uzbekistan (2015)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-      "published_at": "2026-07-24T14:19:16+00:00",
+      "url": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
+      "published_at": "2026-07-24T14:43:57+00:00",
       "tags": [
         "ai"
       ],
-      "score": "381",
-      "item_id": "hn:49036068",
+      "score": "85",
+      "item_id": "hn:49036460",
       "summary_type": "extractive",
-      "title_zh": "How to survive boiling water",
-      "summary_zh": "How to survive boiling water"
+      "title_zh": "The Fabled Flatbreads of Uzbekistan (2015)",
+      "summary_zh": "The Fabled Flatbreads of Uzbekistan (2015)"
     },
     {
-      "title": "Using a Gaming PC's RTX 5070 from a separate Linux workstation",
-      "summary": "Using a Gaming PC's RTX 5070 from a separate Linux workstation",
+      "title": "Show HN: How far do I have to go to run into 100k people?",
+      "summary": "Show HN: How far do I have to go to run into 100k people?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://stephenkrings.com/posts/rtx-5070-linux-gpu-server/",
-      "published_at": "2026-07-22T18:59:35+00:00",
+      "url": "https://imjasonh.github.io/playground/population-rays/",
+      "published_at": "2026-07-23T21:33:28+00:00",
       "tags": [
         "ai"
       ],
-      "score": "28",
-      "item_id": "hn:49011739",
+      "score": "55",
+      "item_id": "hn:49028358",
       "summary_type": "extractive",
-      "title_zh": "Using a Gaming PC's RTX 5070 from a separate Linux workstation",
-      "summary_zh": "Using a Gaming PC's RTX 5070 from a separate Linux workstation"
+      "title_zh": "Show HN: How far do I have to go to run into 100k people?",
+      "summary_zh": "Show HN: How far do I have to go to run into 100k people?"
     }
   ]
 }

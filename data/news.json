@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-07-30T03:12:51.165984+00:00",
+  "updated_at": "2026-07-30T08:41:44.428077+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "I Have Thoughts on the iPhone Air",
+      "summary": "I Have Thoughts on the iPhone Air",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://christianselig.com/2026/07/iphone-air-review/",
+      "published_at": "2026-07-30T07:54:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "21",
+      "item_id": "hn:49107145",
+      "summary_type": "extractive",
+      "title_zh": "I Have Thoughts on the iPhone Air",
+      "summary_zh": "I Have Thoughts on the iPhone Air"
+    },
+    {
+      "title": "Why the future is local app",
+      "summary": "Why the future is local app",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://getapps.cafe/blog/why-the-future-is-local-app",
+      "published_at": "2026-07-30T03:44:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:49105924",
+      "summary_type": "extractive",
+      "title_zh": "Why the future is local app",
+      "summary_zh": "Why the future is local app"
+    },
     {
       "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
       "summary": "Flume Water Monitor 915 MHz Security Is Pretty Good",
@@ -12,15 +44,15 @@
       "tags": [
         "ai"
       ],
-      "score": "17",
+      "score": "30",
       "item_id": "hn:49105136",
       "summary_type": "extractive",
       "title_zh": "Flume Water Monitor 915 MHz Security Is Pretty Good",
       "summary_zh": "Flume Water Monitor 915 MHz Security Is Pretty Good"
     },
     {
-      "title": "Logic for Programmers by Hillel Wayne",
-      "summary": "Logic for Programmers by Hillel Wayne",
+      "title": "Logic for Programmers",
+      "summary": "Logic for Programmers",
       "full_text": "",
       "source": "hacker news",
       "url": "https://logicforprogrammers.com/",
@@ -28,11 +60,11 @@
       "tags": [
         "ai"
       ],
-      "score": "8",
+      "score": "106",
       "item_id": "hn:49104937",
       "summary_type": "extractive",
-      "title_zh": "Logic for Programmers by Hillel Wayne",
-      "summary_zh": "Logic for Programmers by Hillel Wayne"
+      "title_zh": "Logic for Programmers",
+      "summary_zh": "Logic for Programmers"
     },
     {
       "title": "Show HN: A local merge queue for parallel Claude Code agents",
@@ -42,10 +74,10 @@
       "url": "https://github.com/funador/claude-code-merge-queue",
       "published_at": "2026-07-30T00:20:16+00:00",
       "tags": [
-        "agent",
-        "llm"
+        "llm",
+        "agent"
       ],
-      "score": "17",
+      "score": "35",
       "item_id": "hn:49104747",
       "summary_type": "extractive",
       "title_zh": "Show HN: A local merge queue for parallel Claude Code agents",
@@ -61,27 +93,27 @@
       "tags": [
         "ai"
       ],
-      "score": "23",
+      "score": "46",
       "item_id": "hn:49104140",
       "summary_type": "extractive",
       "title_zh": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
       "summary_zh": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)"
     },
     {
-      "title": "GitHub is the wrong shape for this new world",
-      "summary": "GitHub is the wrong shape for this new world",
+      "title": "Dr. Dobb's Journal (articles from 1988 – 2009)",
+      "summary": "Dr. Dobb's Journal (articles from 1988 – 2009)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
-      "published_at": "2026-07-29T22:27:09+00:00",
+      "url": "https://jacobfilipp.com/thedoctor/",
+      "published_at": "2026-07-29T21:17:47+00:00",
       "tags": [
         "ai"
       ],
-      "score": "48",
-      "item_id": "hn:49103910",
+      "score": "28",
+      "item_id": "hn:49103219",
       "summary_type": "extractive",
-      "title_zh": "GitHub is the wrong shape for this new world",
-      "summary_zh": "GitHub is the wrong shape for this new world"
+      "title_zh": "Dr. Dobb's Journal (articles from 1988 – 2009)",
+      "summary_zh": "Dr. Dobb's Journal (articles from 1988 – 2009)"
     },
     {
       "title": "The Cold Email",
@@ -93,7 +125,7 @@
       "tags": [
         "ai"
       ],
-      "score": "107",
+      "score": "193",
       "item_id": "hn:49103089",
       "summary_type": "extractive",
       "title_zh": "The Cold Email",
@@ -125,7 +157,7 @@
       "tags": [
         "ai"
       ],
-      "score": "75",
+      "score": "105",
       "item_id": "hn:49102425",
       "summary_type": "extractive",
       "title_zh": "A Trampoline",
@@ -141,43 +173,11 @@
       "tags": [
         "ai"
       ],
-      "score": "357",
+      "score": "422",
       "item_id": "hn:49101852",
       "summary_type": "extractive",
       "title_zh": "Kimi K3-256k",
       "summary_zh": "Kimi K3-256k"
-    },
-    {
-      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "summary": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-      "published_at": "2026-07-29T18:57:10+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "63",
-      "item_id": "hn:49101529",
-      "summary_type": "extractive",
-      "title_zh": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "summary_zh": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals"
-    },
-    {
-      "title": "How to think about software quality (2022)",
-      "summary": "How to think about software quality (2022)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
-      "published_at": "2026-07-29T18:42:10+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "50",
-      "item_id": "hn:49101351",
-      "summary_type": "extractive",
-      "title_zh": "How to think about software quality (2022)",
-      "summary_zh": "How to think about software quality (2022)"
     },
     {
       "title": "Turning a dumb AC unit smart (without losing my security deposit)",
@@ -189,7 +189,7 @@
       "tags": [
         "ai"
       ],
-      "score": "117",
+      "score": "160",
       "item_id": "hn:49101198",
       "summary_type": "extractive",
       "title_zh": "Turning a dumb AC unit smart (without losing my security deposit)",
@@ -203,8 +203,8 @@
       "url": "http://arxiv.org/abs/2607.27191v1",
       "published_at": "2026-07-29T17:57:19Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27191v1",
@@ -253,8 +253,8 @@
       "url": "http://arxiv.org/abs/2607.27177v1",
       "published_at": "2026-07-29T17:50:39Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27177v1",
@@ -287,9 +287,9 @@
       "url": "http://arxiv.org/abs/2607.27155v1",
       "published_at": "2026-07-29T17:33:47Z",
       "tags": [
-        "agent",
         "paper",
-        "llm"
+        "llm",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27155v1",
@@ -358,8 +358,8 @@
       "published_at": "2026-07-29T17:04:36Z",
       "tags": [
         "paper",
-        "tool",
-        "llm"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27134v1",
@@ -377,7 +377,7 @@
       "tags": [
         "ai"
       ],
-      "score": "139",
+      "score": "199",
       "item_id": "hn:49100043",
       "summary_type": "extractive",
       "title_zh": "Show HN: CheapFoodMap – A map of good meals under $10",
@@ -391,10 +391,10 @@
       "url": "http://arxiv.org/abs/2607.27130v1",
       "published_at": "2026-07-29T16:58:10Z",
       "tags": [
-        "agent",
-        "tool",
+        "paper",
         "llm",
-        "paper"
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27130v1",
@@ -411,8 +411,8 @@
       "published_at": "2026-07-29T16:38:08Z",
       "tags": [
         "paper",
-        "tool",
-        "llm"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27109v1",
@@ -430,7 +430,7 @@
       "tags": [
         "ai"
       ],
-      "score": "302",
+      "score": "367",
       "item_id": "hn:49099715",
       "summary_type": "extractive",
       "title_zh": "Keychron announces first open-source firmware for gaming mice",
@@ -461,10 +461,10 @@
       "url": "http://arxiv.org/abs/2607.27083v1",
       "published_at": "2026-07-29T16:07:37Z",
       "tags": [
-        "agent",
-        "tool",
+        "paper",
         "llm",
-        "paper"
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27083v1",
@@ -497,8 +497,8 @@
       "url": "http://arxiv.org/abs/2607.27080v1",
       "published_at": "2026-07-29T16:06:54Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27080v1",
@@ -550,7 +550,7 @@
       "tags": [
         "ai"
       ],
-      "score": "53",
+      "score": "61",
       "item_id": "hn:49099143",
       "summary_type": "extractive",
       "title_zh": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
@@ -600,7 +600,7 @@
       "tags": [
         "ai"
       ],
-      "score": "550",
+      "score": "676",
       "item_id": "hn:49098965",
       "summary_type": "extractive",
       "title_zh": "Superlogical",
@@ -616,7 +616,7 @@
       "tags": [
         "ai"
       ],
-      "score": "673",
+      "score": "777",
       "item_id": "hn:49098510",
       "summary_type": "extractive",
       "title_zh": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
@@ -632,7 +632,7 @@
       "tags": [
         "ai"
       ],
-      "score": "231",
+      "score": "279",
       "item_id": "hn:49098198",
       "summary_type": "extractive",
       "title_zh": "A.I. companies are recruiting electricians and carpenters by the thousands",
@@ -648,7 +648,7 @@
       "tags": [
         "ai"
       ],
-      "score": "125",
+      "score": "135",
       "item_id": "hn:49098130",
       "summary_type": "extractive",
       "title_zh": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
@@ -664,43 +664,11 @@
       "tags": [
         "ai"
       ],
-      "score": "109",
+      "score": "111",
       "item_id": "hn:49096811",
       "summary_type": "extractive",
       "title_zh": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
       "summary_zh": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem"
-    },
-    {
-      "title": "Darktable",
-      "summary": "Darktable",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.darktable.org/",
-      "published_at": "2026-07-29T12:33:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "308",
-      "item_id": "hn:49096654",
-      "summary_type": "extractive",
-      "title_zh": "Darktable",
-      "summary_zh": "Darktable"
-    },
-    {
-      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "summary": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "published_at": "2026-07-29T11:44:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "352",
-      "item_id": "hn:49096188",
-      "summary_type": "extractive",
-      "title_zh": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "summary_zh": "Document-borne AI worms can self-propagate through Copilot for Word"
     },
     {
       "title": "KOReader",
@@ -712,27 +680,27 @@
       "tags": [
         "ai"
       ],
-      "score": "681",
+      "score": "707",
       "item_id": "hn:49095865",
       "summary_type": "extractive",
       "title_zh": "KOReader",
       "summary_zh": "KOReader"
     },
     {
-      "title": "User Interfaces of the Demo Scene",
-      "summary": "User Interfaces of the Demo Scene",
+      "title": "Amiga Graphics Archive",
+      "summary": "Amiga Graphics Archive",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.datagubbe.se/scenegui/",
-      "published_at": "2026-07-29T04:30:36+00:00",
+      "url": "https://amiga.lychesis.net/index.html",
+      "published_at": "2026-07-29T10:19:44+00:00",
       "tags": [
         "ai"
       ],
-      "score": "402",
-      "item_id": "hn:49093434",
+      "score": "157",
+      "item_id": "hn:49095511",
       "summary_type": "extractive",
-      "title_zh": "User Interfaces of the Demo Scene",
-      "summary_zh": "User Interfaces of the Demo Scene"
+      "title_zh": "Amiga Graphics Archive",
+      "summary_zh": "Amiga Graphics Archive"
     },
     {
       "title": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
@@ -744,11 +712,27 @@
       "tags": [
         "ai"
       ],
-      "score": "15",
+      "score": "39",
       "item_id": "hn:49080031",
       "summary_type": "extractive",
       "title_zh": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
       "summary_zh": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman"
+    },
+    {
+      "title": "Concurrency, interactivity, mutability, choose two",
+      "summary": "Concurrency, interactivity, mutability, choose two",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/",
+      "published_at": "2026-07-27T06:38:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:49065874",
+      "summary_type": "extractive",
+      "title_zh": "Concurrency, interactivity, mutability, choose two",
+      "summary_zh": "Concurrency, interactivity, mutability, choose two"
     },
     {
       "title": "Hamburg's Stadtpark: A Park Built to Be Used",
@@ -760,7 +744,7 @@
       "tags": [
         "ai"
       ],
-      "score": "117",
+      "score": "148",
       "item_id": "hn:49065785",
       "summary_type": "extractive",
       "title_zh": "Hamburg's Stadtpark: A Park Built to Be Used",
@@ -776,7 +760,7 @@
       "tags": [
         "ai"
       ],
-      "score": "142",
+      "score": "145",
       "item_id": "hn:49063983",
       "summary_type": "extractive",
       "title_zh": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
@@ -792,7 +776,7 @@
       "tags": [
         "ai"
       ],
-      "score": "27",
+      "score": "52",
       "item_id": "hn:49062997",
       "summary_type": "extractive",
       "title_zh": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
@@ -808,11 +792,27 @@
       "tags": [
         "ai"
       ],
-      "score": "12",
+      "score": "45",
       "item_id": "hn:49061213",
       "summary_type": "extractive",
       "title_zh": "Angels in Coptic Magic I: Introduction",
       "summary_zh": "Angels in Coptic Magic I: Introduction"
+    },
+    {
+      "title": "London’s most equidistant pub",
+      "summary": "London’s most equidistant pub",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://equidistance.io/londons-most-equidistant-pub/",
+      "published_at": "2026-07-25T14:08:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "35",
+      "item_id": "hn:49047692",
+      "summary_type": "extractive",
+      "title_zh": "London’s most equidistant pub",
+      "summary_zh": "London’s most equidistant pub"
     },
     {
       "title": "The Rust on ESP Book",
@@ -824,7 +824,7 @@
       "tags": [
         "ai"
       ],
-      "score": "128",
+      "score": "152",
       "item_id": "hn:49047351",
       "summary_type": "extractive",
       "title_zh": "The Rust on ESP Book",

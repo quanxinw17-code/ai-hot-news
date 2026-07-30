@@ -1,54 +1,330 @@
 {
-  "updated_at": "2026-07-30T08:41:44.428077+00:00",
+  "updated_at": "2026-07-30T14:23:32.148078+00:00",
   "count": 50,
   "items": [
     {
-      "title": "I Have Thoughts on the iPhone Air",
-      "summary": "I Have Thoughts on the iPhone Air",
+      "title": "Europe's fires are just the start",
+      "summary": "Europe's fires are just the start",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://christianselig.com/2026/07/iphone-air-review/",
-      "published_at": "2026-07-30T07:54:13+00:00",
+      "url": "https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start",
+      "published_at": "2026-07-30T13:55:09+00:00",
       "tags": [
         "ai"
       ],
       "score": "21",
-      "item_id": "hn:49107145",
+      "item_id": "hn:49110085",
       "summary_type": "extractive",
-      "title_zh": "I Have Thoughts on the iPhone Air",
-      "summary_zh": "I Have Thoughts on the iPhone Air"
+      "title_zh": "Europe's fires are just the start",
+      "summary_zh": "Europe's fires are just the start"
     },
     {
-      "title": "Why the future is local app",
-      "summary": "Why the future is local app",
+      "title": "RFC 8890 – The Internet is for End Users (2020)",
+      "summary": "RFC 8890 – The Internet is for End Users (2020)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://getapps.cafe/blog/why-the-future-is-local-app",
-      "published_at": "2026-07-30T03:44:38+00:00",
+      "url": "https://mnot.net/blog/2020/for_the_users",
+      "published_at": "2026-07-30T13:07:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "31",
+      "item_id": "hn:49109474",
+      "summary_type": "extractive",
+      "title_zh": "RFC 8890 – The Internet is for End Users (2020)",
+      "summary_zh": "RFC 8890 – The Internet is for End Users (2020)"
+    },
+    {
+      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+      "summary": "Why Is Everyone Trying to Build a Solid-State Battery?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+      "published_at": "2026-07-30T12:38:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "39",
+      "item_id": "hn:49109193",
+      "summary_type": "extractive",
+      "title_zh": "Why Is Everyone Trying to Build a Solid-State Battery?",
+      "summary_zh": "Why Is Everyone Trying to Build a Solid-State Battery?"
+    },
+    {
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "summary": "OpenJDK Interim Policy on Generative AI",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://openjdk.org/legal/ai",
+      "published_at": "2026-07-30T12:36:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "47",
+      "item_id": "hn:49109165",
+      "summary_type": "extractive",
+      "title_zh": "OpenJDK Interim Policy on Generative AI",
+      "summary_zh": "OpenJDK Interim Policy on Generative AI"
+    },
+    {
+      "title": "Why Don't People Use Formal Methods?",
+      "summary": "Why Don't People Use Formal Methods?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
+      "published_at": "2026-07-30T12:21:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "39",
+      "item_id": "hn:49109026",
+      "summary_type": "extractive",
+      "title_zh": "Why Don't People Use Formal Methods?",
+      "summary_zh": "Why Don't People Use Formal Methods?"
+    },
+    {
+      "title": "How Old Is Ann?",
+      "summary": "How Old Is Ann?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
+      "published_at": "2026-07-30T12:14:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "28",
+      "item_id": "hn:49108971",
+      "summary_type": "extractive",
+      "title_zh": "How Old Is Ann?",
+      "summary_zh": "How Old Is Ann?"
+    },
+    {
+      "title": "CosmosEscape: Taking over Every Database in Azure Cosmos DB",
+      "summary": "CosmosEscape: Taking over Every Database in Azure Cosmos DB",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db",
+      "published_at": "2026-07-30T12:13:42+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:49108963",
+      "summary_type": "extractive",
+      "title_zh": "CosmosEscape: Taking over Every Database in Azure Cosmos DB",
+      "summary_zh": "CosmosEscape: Taking over Every Database in Azure Cosmos DB"
+    },
+    {
+      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "summary": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/grafana/ai-sdk",
+      "published_at": "2026-07-30T11:55:39+00:00",
+      "tags": [
+        "tool",
+        "llm",
+        "agent"
+      ],
+      "score": "24",
+      "item_id": "hn:49108778",
+      "summary_type": "extractive",
+      "title_zh": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "summary_zh": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)"
+    },
+    {
+      "title": "GCC steering committee announces AI policy",
+      "summary": "GCC steering committee announces AI policy",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://lwn.net/Articles/1086041/",
+      "published_at": "2026-07-30T11:45:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "146",
+      "item_id": "hn:49108685",
+      "summary_type": "extractive",
+      "title_zh": "GCC steering committee announces AI policy",
+      "summary_zh": "GCC steering committee announces AI policy"
+    },
+    {
+      "title": "Are We Stuck with Lean?",
+      "summary": "Are We Stuck with Lean?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://mathoverflow.net/questions/513742/are-we-stuck-with-lean",
+      "published_at": "2026-07-30T11:45:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:49108678",
+      "summary_type": "extractive",
+      "title_zh": "Are We Stuck with Lean?",
+      "summary_zh": "Are We Stuck with Lean?"
+    },
+    {
+      "title": "I made a game where you build a CPU from logic gates",
+      "summary": "I made a game where you build a CPU from logic gates",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://select.supply/game/chipbuilder",
+      "published_at": "2026-07-30T11:33:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:49108571",
+      "summary_type": "extractive",
+      "title_zh": "I made a game where you build a CPU from logic gates",
+      "summary_zh": "I made a game where you build a CPU from logic gates"
+    },
+    {
+      "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+      "summary": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+      "published_at": "2026-07-30T11:30:34+00:00",
+      "tags": [
+        "tool",
+        "llm"
+      ],
+      "score": "45",
+      "item_id": "hn:49108556",
+      "summary_type": "extractive",
+      "title_zh": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+      "summary_zh": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms"
+    },
+    {
+      "title": "You can't solve computer use by ignoring the interface",
+      "summary": "You can't solve computer use by ignoring the interface",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://steelmanlabs.com/blog/computer-use-is-far-from-solved",
+      "published_at": "2026-07-30T11:28:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:49108542",
+      "summary_type": "extractive",
+      "title_zh": "You can't solve computer use by ignoring the interface",
+      "summary_zh": "You can't solve computer use by ignoring the interface"
+    },
+    {
+      "title": "3D Pinball for Windows (1995)",
+      "summary": "3D Pinball for Windows (1995)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://98.js.org/programs/pinball/space-cadet.html",
+      "published_at": "2026-07-30T11:23:12+00:00",
       "tags": [
         "ai"
       ],
       "score": "16",
-      "item_id": "hn:49105924",
+      "item_id": "hn:49108485",
       "summary_type": "extractive",
-      "title_zh": "Why the future is local app",
-      "summary_zh": "Why the future is local app"
+      "title_zh": "3D Pinball for Windows (1995)",
+      "summary_zh": "3D Pinball for Windows (1995)"
     },
     {
-      "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
-      "summary": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+      "title": "Software Foundations Series",
+      "summary": "Software Foundations Series",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://waveformsecurity.com/blog/flume/",
-      "published_at": "2026-07-30T01:27:12+00:00",
+      "url": "https://softwarefoundations.cis.upenn.edu/",
+      "published_at": "2026-07-30T11:02:35+00:00",
       "tags": [
         "ai"
       ],
-      "score": "30",
-      "item_id": "hn:49105136",
+      "score": "5",
+      "item_id": "hn:49108299",
       "summary_type": "extractive",
-      "title_zh": "Flume Water Monitor 915 MHz Security Is Pretty Good",
-      "summary_zh": "Flume Water Monitor 915 MHz Security Is Pretty Good"
+      "title_zh": "Software Foundations Series",
+      "summary_zh": "Software Foundations Series"
+    },
+    {
+      "title": "Gpiozero Flow",
+      "summary": "Gpiozero Flow",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+      "published_at": "2026-07-30T10:32:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "92",
+      "item_id": "hn:49108048",
+      "summary_type": "extractive",
+      "title_zh": "Gpiozero Flow",
+      "summary_zh": "Gpiozero Flow"
+    },
+    {
+      "title": "Google will expand age checks on Android worldwide till the end of the year",
+      "summary": "Google will expand age checks on Android worldwide till the end of the year",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+      "published_at": "2026-07-30T10:13:46+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "197",
+      "item_id": "hn:49107950",
+      "summary_type": "extractive",
+      "title_zh": "Google will expand age checks on Android worldwide till the end of the year",
+      "summary_zh": "Google will expand age checks on Android worldwide till the end of the year"
+    },
+    {
+      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "summary": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "published_at": "2026-07-30T09:34:27+00:00",
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": "61",
+      "item_id": "hn:49107749",
+      "summary_type": "extractive",
+      "title_zh": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "summary_zh": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode"
+    },
+    {
+      "title": "Carolina Cloud pays SOFR on unused prepaid credits",
+      "summary": "Carolina Cloud pays SOFR on unused prepaid credits",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
+      "published_at": "2026-07-30T09:28:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "51",
+      "item_id": "hn:49107713",
+      "summary_type": "extractive",
+      "title_zh": "Carolina Cloud pays SOFR on unused prepaid credits",
+      "summary_zh": "Carolina Cloud pays SOFR on unused prepaid credits"
+    },
+    {
+      "title": "The Apple Calculator Language",
+      "summary": "The Apple Calculator Language",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://wadetregaskis.com/the-apple-calculator-language/",
+      "published_at": "2026-07-30T08:44:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "25",
+      "item_id": "hn:49107437",
+      "summary_type": "extractive",
+      "title_zh": "The Apple Calculator Language",
+      "summary_zh": "The Apple Calculator Language"
     },
     {
       "title": "Logic for Programmers",
@@ -60,60 +336,11 @@
       "tags": [
         "ai"
       ],
-      "score": "106",
+      "score": "169",
       "item_id": "hn:49104937",
       "summary_type": "extractive",
       "title_zh": "Logic for Programmers",
       "summary_zh": "Logic for Programmers"
-    },
-    {
-      "title": "Show HN: A local merge queue for parallel Claude Code agents",
-      "summary": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day.So I designed a local merge queue to have all commits land one at a time and fully tested.",
-      "full_text": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day.So I designed a local merge queue to have all commits land one at a time and fully tested. Hopefully this helps other folks with more modest machines. Appreciate any feedback.",
-      "source": "hacker news",
-      "url": "https://github.com/funador/claude-code-merge-queue",
-      "published_at": "2026-07-30T00:20:16+00:00",
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": "35",
-      "item_id": "hn:49104747",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: A local merge queue for parallel Claude Code agents",
-      "summary_zh": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day.So I designed a local merge queue to have all commits land one at a time and fully tested."
-    },
-    {
-      "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
-      "summary": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://archive.org/details/mancomputerbyjoh0000john",
-      "published_at": "2026-07-29T22:53:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "46",
-      "item_id": "hn:49104140",
-      "summary_type": "extractive",
-      "title_zh": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
-      "summary_zh": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)"
-    },
-    {
-      "title": "Dr. Dobb's Journal (articles from 1988 – 2009)",
-      "summary": "Dr. Dobb's Journal (articles from 1988 – 2009)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://jacobfilipp.com/thedoctor/",
-      "published_at": "2026-07-29T21:17:47+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "28",
-      "item_id": "hn:49103219",
-      "summary_type": "extractive",
-      "title_zh": "Dr. Dobb's Journal (articles from 1988 – 2009)",
-      "summary_zh": "Dr. Dobb's Journal (articles from 1988 – 2009)"
     },
     {
       "title": "The Cold Email",
@@ -125,43 +352,11 @@
       "tags": [
         "ai"
       ],
-      "score": "193",
+      "score": "266",
       "item_id": "hn:49103089",
       "summary_type": "extractive",
       "title_zh": "The Cold Email",
       "summary_zh": "The Cold Email"
-    },
-    {
-      "title": "SalesPatriot (YC W25) Is Hiring FDEs",
-      "summary": "SalesPatriot (YC W25) Is Hiring FDEs",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-      "published_at": "2026-07-29T21:01:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:49103026",
-      "summary_type": "extractive",
-      "title_zh": "SalesPatriot (YC W25) Is Hiring FDEs",
-      "summary_zh": "SalesPatriot (YC W25) Is Hiring FDEs"
-    },
-    {
-      "title": "A Trampoline",
-      "summary": "A Trampoline",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-      "published_at": "2026-07-29T20:14:36+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "105",
-      "item_id": "hn:49102425",
-      "summary_type": "extractive",
-      "title_zh": "A Trampoline",
-      "summary_zh": "A Trampoline"
     },
     {
       "title": "Kimi K3-256k",
@@ -173,27 +368,11 @@
       "tags": [
         "ai"
       ],
-      "score": "422",
+      "score": "473",
       "item_id": "hn:49101852",
       "summary_type": "extractive",
       "title_zh": "Kimi K3-256k",
       "summary_zh": "Kimi K3-256k"
-    },
-    {
-      "title": "Turning a dumb AC unit smart (without losing my security deposit)",
-      "summary": "Turning a dumb AC unit smart (without losing my security deposit)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-      "published_at": "2026-07-29T18:28:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "160",
-      "item_id": "hn:49101198",
-      "summary_type": "extractive",
-      "title_zh": "Turning a dumb AC unit smart (without losing my security deposit)",
-      "summary_zh": "Turning a dumb AC unit smart (without losing my security deposit)"
     },
     {
       "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
@@ -203,8 +382,8 @@
       "url": "http://arxiv.org/abs/2607.27191v1",
       "published_at": "2026-07-29T17:57:19Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27191v1",
@@ -236,8 +415,8 @@
       "url": "http://arxiv.org/abs/2607.27179v1",
       "published_at": "2026-07-29T17:51:32Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27179v1",
@@ -253,8 +432,8 @@
       "url": "http://arxiv.org/abs/2607.27177v1",
       "published_at": "2026-07-29T17:50:39Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27177v1",
@@ -270,8 +449,8 @@
       "url": "http://arxiv.org/abs/2607.27172v1",
       "published_at": "2026-07-29T17:46:35Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27172v1",
@@ -287,9 +466,9 @@
       "url": "http://arxiv.org/abs/2607.27155v1",
       "published_at": "2026-07-29T17:33:47Z",
       "tags": [
-        "paper",
         "llm",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27155v1",
@@ -305,9 +484,9 @@
       "url": "http://arxiv.org/abs/2607.27154v1",
       "published_at": "2026-07-29T17:32:57Z",
       "tags": [
-        "paper",
         "llm",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27154v1",
@@ -323,8 +502,8 @@
       "url": "http://arxiv.org/abs/2607.27143v1",
       "published_at": "2026-07-29T17:15:33Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27143v1",
@@ -340,8 +519,8 @@
       "url": "http://arxiv.org/abs/2607.27138v1",
       "published_at": "2026-07-29T17:09:48Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27138v1",
@@ -357,9 +536,9 @@
       "url": "http://arxiv.org/abs/2607.27134v1",
       "published_at": "2026-07-29T17:04:36Z",
       "tags": [
-        "paper",
+        "tool",
         "llm",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27134v1",
@@ -377,7 +556,7 @@
       "tags": [
         "ai"
       ],
-      "score": "199",
+      "score": "254",
       "item_id": "hn:49100043",
       "summary_type": "extractive",
       "title_zh": "Show HN: CheapFoodMap – A map of good meals under $10",
@@ -391,10 +570,10 @@
       "url": "http://arxiv.org/abs/2607.27130v1",
       "published_at": "2026-07-29T16:58:10Z",
       "tags": [
-        "paper",
-        "llm",
         "tool",
-        "agent"
+        "llm",
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27130v1",
@@ -410,31 +589,15 @@
       "url": "http://arxiv.org/abs/2607.27109v1",
       "published_at": "2026-07-29T16:38:08Z",
       "tags": [
-        "paper",
+        "tool",
         "llm",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27109v1",
       "summary_type": "extractive",
       "title_zh": "MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning",
       "summary_zh": "With the development of audio large language models (AudioLLMs), audio captioning needs to move from brief descriptions toward open-ended and fine-grained free-form descriptions. Existing evaluations often focus on generation quality or task performance, making it difficult to diagnose information coverage and description reliability. We propose MMAC, a \\textbf{M}assive \\textbf{M}ulti-dimensional benchmark for \\textbf{A}udio \\textbf{C}aptioning."
-    },
-    {
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "summary": "Keychron announces first open-source firmware for gaming mice",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "published_at": "2026-07-29T16:36:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "367",
-      "item_id": "hn:49099715",
-      "summary_type": "extractive",
-      "title_zh": "Keychron announces first open-source firmware for gaming mice",
-      "summary_zh": "Keychron announces first open-source firmware for gaming mice"
     },
     {
       "title": "SciFigQual-Bench: A Benchmark for Scientific Figure Quality Assessment with Full-Manuscript Context",
@@ -444,8 +607,8 @@
       "url": "http://arxiv.org/abs/2607.27084v1",
       "published_at": "2026-07-29T16:07:44Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27084v1",
@@ -461,10 +624,10 @@
       "url": "http://arxiv.org/abs/2607.27083v1",
       "published_at": "2026-07-29T16:07:37Z",
       "tags": [
-        "paper",
-        "llm",
         "tool",
-        "agent"
+        "llm",
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27083v1",
@@ -480,8 +643,8 @@
       "url": "http://arxiv.org/abs/2607.27081v1",
       "published_at": "2026-07-29T16:07:19Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27081v1",
@@ -497,8 +660,8 @@
       "url": "http://arxiv.org/abs/2607.27080v1",
       "published_at": "2026-07-29T16:06:54Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27080v1",
@@ -514,8 +677,8 @@
       "url": "http://arxiv.org/abs/2607.27073v1",
       "published_at": "2026-07-29T15:58:18Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27073v1",
@@ -531,30 +694,14 @@
       "url": "http://arxiv.org/abs/2607.27069v1",
       "published_at": "2026-07-29T15:55:31Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27069v1",
       "summary_type": "extractive",
       "title_zh": "Visual Credit Audit for Multimodal Spatial Reasoning",
       "summary_zh": "Closed yes/no spatial benchmarks can reward a correct answer even when the image adds little support beyond no-image contexts. Under a fixed forced-choice interface, Visual Credit Audit (VCA) separates two estimands: whether the benchmark image gives the model's declared decision more support than text-only and blank controls, and whether the model responds to relation-specific visual evidence. The first audit is training- and label-free and does not require an answer flip."
-    },
-    {
-      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-      "summary": "Hi HN, Rohit here from Tokenless (https:&#x2F;&#x2F;usetokenless.com&#x2F;), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend.The cost of AI tokens is top-of-mind for many. Companies like Uber and Salesforce have been complaining about blowing their yearly AI spend faster than expected.Frontier models are amazing for dev work, but are so expensive.",
-      "full_text": "Hi HN, Rohit here from Tokenless (https:&#x2F;&#x2F;usetokenless.com&#x2F;), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend.The cost of AI tokens is top-of-mind for many. Companies like Uber and Salesforce have been complaining about blowing their yearly AI spend faster than expected.Frontier models are amazing for dev work, but are so expensive. Open-source mo",
-      "source": "hacker news",
-      "url": "https://usetokenless.com/",
-      "published_at": "2026-07-29T15:55:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "61",
-      "item_id": "hn:49099143",
-      "summary_type": "extractive",
-      "title_zh": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-      "summary_zh": "Hi HN, Rohit here from Tokenless (https:&#x2F;&#x2F;usetokenless.com&#x2F;), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend.The cost of AI tokens is top-of-mind for many. Companies like Uber and Salesforce have been complaining about blowing their yearly AI spend faster than expected.Frontier models are amazing for dev work, but are so expensive."
     },
     {
       "title": "SciFigAlign: Scoring Scientific Figures by Fine-tuned Alignment of Visuals with Manuscript Evidence",
@@ -564,9 +711,9 @@
       "url": "http://arxiv.org/abs/2607.27066v1",
       "published_at": "2026-07-29T15:54:14Z",
       "tags": [
-        "paper",
         "llm",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.27066v1",
@@ -591,132 +738,52 @@
       "summary_zh": "While automated defect detection such as the detection of surface scratched is an important aspect in industrial quality control, the scarcity of annotated defect data make this task challenging. This paper presents a procedural rendering pipeline that generates large-scale annotated synthetic training data using BlenderProc, with configurable material appearance, camera modes, and domain randomization, producing automatic COCO-format annotations. To show the potential of our approach, we evalua"
     },
     {
-      "title": "Superlogical",
-      "summary": "https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical",
-      "full_text": "https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical",
-      "source": "hacker news",
-      "url": "https://www.superlogical.com/",
-      "published_at": "2026-07-29T15:41:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "676",
-      "item_id": "hn:49098965",
-      "summary_type": "extractive",
-      "title_zh": "Superlogical",
-      "summary_zh": "https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical"
-    },
-    {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "summary": "Hi HN,I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone.",
-      "full_text": "Hi HN,I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory.The model’s 4-bit quantized weights occupy roughly 14 GB, which makes running it with conventional inference tools ",
-      "source": "hacker news",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "published_at": "2026-07-29T15:05:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "777",
-      "item_id": "hn:49098510",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "summary_zh": "Hi HN,I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone."
-    },
-    {
-      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
-      "summary": "A.I. companies are recruiting electricians and carpenters by the thousands",
+      "title": "Azulejo",
+      "summary": "Azulejo",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "published_at": "2026-07-29T14:43:47+00:00",
+      "url": "https://en.wikipedia.org/wiki/Azulejo",
+      "published_at": "2026-07-28T20:29:03+00:00",
       "tags": [
         "ai"
       ],
-      "score": "279",
-      "item_id": "hn:49098198",
+      "score": "98",
+      "item_id": "hn:49089502",
       "summary_type": "extractive",
-      "title_zh": "A.I. companies are recruiting electricians and carpenters by the thousands",
-      "summary_zh": "A.I. companies are recruiting electricians and carpenters by the thousands"
+      "title_zh": "Azulejo",
+      "summary_zh": "Azulejo"
     },
     {
-      "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
-      "summary": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
+      "title": "The Glass Famine",
+      "summary": "The Glass Famine",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
-      "published_at": "2026-07-29T14:38:35+00:00",
+      "url": "https://edconway.substack.com/p/the-glass-famine",
+      "published_at": "2026-07-27T14:18:23+00:00",
       "tags": [
         "ai"
       ],
-      "score": "135",
-      "item_id": "hn:49098130",
+      "score": "57",
+      "item_id": "hn:49070073",
       "summary_type": "extractive",
-      "title_zh": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
-      "summary_zh": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution"
+      "title_zh": "The Glass Famine",
+      "summary_zh": "The Glass Famine"
     },
     {
-      "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
-      "summary": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
+      "title": "The Alice and Bob After Dinner Speech (1984)",
+      "summary": "The Alice and Bob After Dinner Speech (1984)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
-      "published_at": "2026-07-29T12:48:18+00:00",
+      "url": "https://hex.ooo/library/alicebob.html",
+      "published_at": "2026-07-27T09:39:16+00:00",
       "tags": [
         "ai"
       ],
-      "score": "111",
-      "item_id": "hn:49096811",
+      "score": "4",
+      "item_id": "hn:49067162",
       "summary_type": "extractive",
-      "title_zh": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
-      "summary_zh": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem"
-    },
-    {
-      "title": "KOReader",
-      "summary": "KOReader",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://koreader.rocks/",
-      "published_at": "2026-07-29T11:05:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "707",
-      "item_id": "hn:49095865",
-      "summary_type": "extractive",
-      "title_zh": "KOReader",
-      "summary_zh": "KOReader"
-    },
-    {
-      "title": "Amiga Graphics Archive",
-      "summary": "Amiga Graphics Archive",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://amiga.lychesis.net/index.html",
-      "published_at": "2026-07-29T10:19:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "157",
-      "item_id": "hn:49095511",
-      "summary_type": "extractive",
-      "title_zh": "Amiga Graphics Archive",
-      "summary_zh": "Amiga Graphics Archive"
-    },
-    {
-      "title": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
-      "summary": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.staszewski.xyz/blog/recursive-filters/",
-      "published_at": "2026-07-28T06:11:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "39",
-      "item_id": "hn:49080031",
-      "summary_type": "extractive",
-      "title_zh": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",
-      "summary_zh": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman"
+      "title_zh": "The Alice and Bob After Dinner Speech (1984)",
+      "summary_zh": "The Alice and Bob After Dinner Speech (1984)"
     },
     {
       "title": "Concurrency, interactivity, mutability, choose two",
@@ -728,107 +795,43 @@
       "tags": [
         "ai"
       ],
-      "score": "11",
+      "score": "52",
       "item_id": "hn:49065874",
       "summary_type": "extractive",
       "title_zh": "Concurrency, interactivity, mutability, choose two",
       "summary_zh": "Concurrency, interactivity, mutability, choose two"
     },
     {
-      "title": "Hamburg's Stadtpark: A Park Built to Be Used",
-      "summary": "Hamburg's Stadtpark: A Park Built to Be Used",
+      "title": "The first watch featuring computer functions",
+      "summary": "The first watch featuring computer functions",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
-      "published_at": "2026-07-27T06:23:46+00:00",
+      "url": "https://by.seiko-design.com/140th/en/topic/58.html",
+      "published_at": "2026-07-26T11:46:32+00:00",
       "tags": [
         "ai"
       ],
-      "score": "148",
-      "item_id": "hn:49065785",
+      "score": "53",
+      "item_id": "hn:49057130",
       "summary_type": "extractive",
-      "title_zh": "Hamburg's Stadtpark: A Park Built to Be Used",
-      "summary_zh": "Hamburg's Stadtpark: A Park Built to Be Used"
+      "title_zh": "The first watch featuring computer functions",
+      "summary_zh": "The first watch featuring computer functions"
     },
     {
-      "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
-      "summary": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+      "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
+      "summary": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
-      "published_at": "2026-07-27T00:58:45+00:00",
+      "url": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
+      "published_at": "2026-07-25T18:27:41+00:00",
       "tags": [
         "ai"
       ],
-      "score": "145",
-      "item_id": "hn:49063983",
+      "score": "49",
+      "item_id": "hn:49050218",
       "summary_type": "extractive",
-      "title_zh": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
-      "summary_zh": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago"
-    },
-    {
-      "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
-      "summary": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
-      "published_at": "2026-07-26T22:18:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "52",
-      "item_id": "hn:49062997",
-      "summary_type": "extractive",
-      "title_zh": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
-      "summary_zh": "Refactoring cuisine: how an Iraqi stew sailed to Singapore"
-    },
-    {
-      "title": "Angels in Coptic Magic I: Introduction",
-      "summary": "Angels in Coptic Magic I: Introduction",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/",
-      "published_at": "2026-07-26T18:57:36+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "45",
-      "item_id": "hn:49061213",
-      "summary_type": "extractive",
-      "title_zh": "Angels in Coptic Magic I: Introduction",
-      "summary_zh": "Angels in Coptic Magic I: Introduction"
-    },
-    {
-      "title": "London’s most equidistant pub",
-      "summary": "London’s most equidistant pub",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://equidistance.io/londons-most-equidistant-pub/",
-      "published_at": "2026-07-25T14:08:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "35",
-      "item_id": "hn:49047692",
-      "summary_type": "extractive",
-      "title_zh": "London’s most equidistant pub",
-      "summary_zh": "London’s most equidistant pub"
-    },
-    {
-      "title": "The Rust on ESP Book",
-      "summary": "The Rust on ESP Book",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://docs.espressif.com/projects/rust/book/",
-      "published_at": "2026-07-25T13:15:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "152",
-      "item_id": "hn:49047351",
-      "summary_type": "extractive",
-      "title_zh": "The Rust on ESP Book",
-      "summary_zh": "The Rust on ESP Book"
+      "title_zh": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
+      "summary_zh": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison"
     }
   ]
 }

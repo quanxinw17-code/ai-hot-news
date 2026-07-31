@@ -1,86 +1,375 @@
 {
-  "updated_at": "2026-07-31T14:25:58.035142+00:00",
+  "updated_at": "2026-07-31T19:44:53.631539+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Better to Beg Forgiveness",
-      "summary": "Better to Beg Forgiveness",
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "summary": "Tailscale didn't stop the Hugging Face intrusion",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://pluralistic.net/2026/07/31/just-do-it/",
-      "published_at": "2026-07-31T14:05:02+00:00",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "published_at": "2026-07-31T19:03:45+00:00",
       "tags": [
         "ai"
       ],
-      "score": "3",
-      "item_id": "hn:49123300",
+      "score": "45",
+      "item_id": "hn:49127306",
       "summary_type": "extractive",
-      "title_zh": "Better to Beg Forgiveness",
-      "summary_zh": "Better to Beg Forgiveness"
+      "title_zh": "Tailscale didn't stop the Hugging Face intrusion",
+      "summary_zh": "Tailscale didn't stop the Hugging Face intrusion"
     },
     {
-      "title": "Situational Awareness Down 67% in July in AI Stock Rout",
-      "summary": "Situational Awareness Down 67% in July in AI Stock Rout",
+      "title": "AI companies destroy rare and non recoverable physical books",
+      "summary": "AI companies destroy rare and non recoverable physical books",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-      "published_at": "2026-07-31T13:37:36+00:00",
+      "url": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
+      "published_at": "2026-07-31T19:01:52+00:00",
       "tags": [
         "ai"
       ],
-      "score": "49",
-      "item_id": "hn:49122994",
+      "score": "37",
+      "item_id": "hn:49127284",
       "summary_type": "extractive",
-      "title_zh": "Situational Awareness Down 67% in July in AI Stock Rout",
-      "summary_zh": "Situational Awareness Down 67% in July in AI Stock Rout"
+      "title_zh": "AI companies destroy rare and non recoverable physical books",
+      "summary_zh": "AI companies destroy rare and non recoverable physical books"
     },
     {
-      "title": "Moonshot built on 20k Nvidia chip cluster from Alibaba",
-      "summary": "Moonshot built on 20k Nvidia chip cluster from Alibaba",
+      "title": "Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons",
+      "summary": "Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
-      "published_at": "2026-07-31T13:24:03+00:00",
+      "url": "https://www.gao.gov/products/gao-26-108082",
+      "published_at": "2026-07-31T18:54:13+00:00",
       "tags": [
         "ai"
       ],
-      "score": "9",
-      "item_id": "hn:49122838",
+      "score": "4",
+      "item_id": "hn:49127205",
       "summary_type": "extractive",
-      "title_zh": "Moonshot built on 20k Nvidia chip cluster from Alibaba",
-      "summary_zh": "Moonshot built on 20k Nvidia chip cluster from Alibaba"
+      "title_zh": "Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons",
+      "summary_zh": "Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons"
     },
     {
-      "title": "Ruby Central's Destructive Legacy",
-      "summary": "Ruby Central's Destructive Legacy",
+      "title": "Lerd, an open source Herd-like PHP development environment for Linux and macOS",
+      "summary": "Lerd, an open source Herd-like PHP development environment for Linux and macOS",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-      "published_at": "2026-07-31T12:10:55+00:00",
+      "url": "https://github.com/lerd-env/lerd",
+      "published_at": "2026-07-31T18:46:36+00:00",
       "tags": [
         "ai"
       ],
-      "score": "42",
-      "item_id": "hn:49122105",
+      "score": "4",
+      "item_id": "hn:49127108",
       "summary_type": "extractive",
-      "title_zh": "Ruby Central's Destructive Legacy",
-      "summary_zh": "Ruby Central's Destructive Legacy"
+      "title_zh": "Lerd, an open source Herd-like PHP development environment for Linux and macOS",
+      "summary_zh": "Lerd, an open source Herd-like PHP development environment for Linux and macOS"
     },
     {
-      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
-      "summary": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "title": "Golang proposal: container/: generic collection types",
+      "summary": "Golang proposal: container/: generic collection types",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://tasklet.ai/careers/customer-success-engineer",
-      "published_at": "2026-07-31T12:00:59+00:00",
+      "url": "https://github.com/golang/go/issues/80590",
+      "published_at": "2026-07-31T18:39:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "18",
+      "item_id": "hn:49127031",
+      "summary_type": "extractive",
+      "title_zh": "Golang proposal: container/: generic collection types",
+      "summary_zh": "Golang proposal: container/: generic collection types"
+    },
+    {
+      "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+      "summary": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arxiv.org/abs/2607.28545",
+      "published_at": "2026-07-31T18:32:43+00:00",
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": "8",
+      "item_id": "hn:49126943",
+      "summary_type": "extractive",
+      "title_zh": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+      "summary_zh": "Orca-Bench: How Ready Are Language Model Agents for Oncall?"
+    },
+    {
+      "title": "Termixer (TUI DJ Mixer)",
+      "summary": "Termixer (TUI DJ Mixer)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/l00sed/termixer",
+      "published_at": "2026-07-31T18:28:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:49126883",
+      "summary_type": "extractive",
+      "title_zh": "Termixer (TUI DJ Mixer)",
+      "summary_zh": "Termixer (TUI DJ Mixer)"
+    },
+    {
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "summary": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "published_at": "2026-07-31T18:17:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:49126765",
+      "summary_type": "extractive",
+      "title_zh": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "summary_zh": "June in Servo: real world compat, media queries, SharedWorker, and more"
+    },
+    {
+      "title": "qm",
+      "summary": "qm",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/yc-software/qm",
+      "published_at": "2026-07-31T18:04:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "133",
+      "item_id": "hn:49126604",
+      "summary_type": "extractive",
+      "title_zh": "qm",
+      "summary_zh": "qm"
+    },
+    {
+      "title": "AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
+      "summary": "AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
+      "published_at": "2026-07-31T17:33:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "35",
+      "item_id": "hn:49126201",
+      "summary_type": "extractive",
+      "title_zh": "AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
+      "summary_zh": "AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup"
+    },
+    {
+      "title": "Severance",
+      "summary": "Severance",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://lcamtuf.substack.com/p/severance",
+      "published_at": "2026-07-31T17:15:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "35",
+      "item_id": "hn:49125971",
+      "summary_type": "extractive",
+      "title_zh": "Severance",
+      "summary_zh": "Severance"
+    },
+    {
+      "title": "Miso (YC S16) is hiring for U.S. expansion",
+      "summary": "Miso (YC S16) is hiring for U.S. expansion",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
+      "published_at": "2026-07-31T17:01:08+00:00",
       "tags": [
         "ai"
       ],
       "score": "1",
-      "item_id": "hn:49122034",
+      "item_id": "hn:49125785",
       "summary_type": "extractive",
-      "title_zh": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
-      "summary_zh": "Tasklet (YC P26) Is Hiring a Customer Success Engineer"
+      "title_zh": "Miso (YC S16) is hiring for U.S. expansion",
+      "summary_zh": "Miso (YC S16) is hiring for U.S. expansion"
+    },
+    {
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "summary": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "published_at": "2026-07-31T16:15:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "77",
+      "item_id": "hn:49125034",
+      "summary_type": "extractive",
+      "title_zh": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "summary_zh": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio"
+    },
+    {
+      "title": "Big Food vs. the People",
+      "summary": "Big Food vs. the People",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "published_at": "2026-07-31T16:04:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "121",
+      "item_id": "hn:49124858",
+      "summary_type": "extractive",
+      "title_zh": "Big Food vs. the People",
+      "summary_zh": "Big Food vs. the People"
+    },
+    {
+      "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+      "summary": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+      "published_at": "2026-07-31T15:53:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "59",
+      "item_id": "hn:49124658",
+      "summary_type": "extractive",
+      "title_zh": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+      "summary_zh": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion"
+    },
+    {
+      "title": "The Art of Decision-Making (2019)",
+      "summary": "The Art of Decision-Making (2019)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making",
+      "published_at": "2026-07-31T15:42:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "28",
+      "item_id": "hn:49124525",
+      "summary_type": "extractive",
+      "title_zh": "The Art of Decision-Making (2019)",
+      "summary_zh": "The Art of Decision-Making (2019)"
+    },
+    {
+      "title": "A GTK4 SSH-askpass in Zig",
+      "summary": "A GTK4 SSH-askpass in Zig",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
+      "published_at": "2026-07-31T15:40:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "47",
+      "item_id": "hn:49124496",
+      "summary_type": "extractive",
+      "title_zh": "A GTK4 SSH-askpass in Zig",
+      "summary_zh": "A GTK4 SSH-askpass in Zig"
+    },
+    {
+      "title": "Elevators",
+      "summary": "Elevators",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://john.fun/elevators",
+      "published_at": "2026-07-31T15:17:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "577",
+      "item_id": "hn:49124218",
+      "summary_type": "extractive",
+      "title_zh": "Elevators",
+      "summary_zh": "Elevators"
+    },
+    {
+      "title": "The most official water costs $120k a gallon",
+      "summary": "The most official water costs $120k a gallon",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+      "published_at": "2026-07-31T15:00:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "77",
+      "item_id": "hn:49124042",
+      "summary_type": "extractive",
+      "title_zh": "The most official water costs $120k a gallon",
+      "summary_zh": "The most official water costs $120k a gallon"
+    },
+    {
+      "title": "Show HN: BitBang – Reach machines behind NAT from a browser, no account",
+      "summary": "Show HN: BitBang – Reach machines behind NAT from a browser, no account",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/richlegrand/bitbang-cli",
+      "published_at": "2026-07-31T14:41:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "50",
+      "item_id": "hn:49123789",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: BitBang – Reach machines behind NAT from a browser, no account",
+      "summary_zh": "Show HN: BitBang – Reach machines behind NAT from a browser, no account"
+    },
+    {
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "summary": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/sqliteai/waste",
+      "published_at": "2026-07-31T14:12:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "65",
+      "item_id": "hn:49123386",
+      "summary_type": "extractive",
+      "title_zh": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "summary_zh": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s"
+    },
+    {
+      "title": "Arch Linux disables AUR package adoption",
+      "summary": "Arch Linux disables AUR package adoption",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://lwn.net/Articles/1086489/",
+      "published_at": "2026-07-31T13:57:35+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "101",
+      "item_id": "hn:49123208",
+      "summary_type": "extractive",
+      "title_zh": "Arch Linux disables AUR package adoption",
+      "summary_zh": "Arch Linux disables AUR package adoption"
+    },
+    {
+      "title": "The C ``Clockwise/Spiral Rule''",
+      "summary": "The C ``Clockwise/Spiral Rule''",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://c-faq.com/decl/spiral.anderson.html",
+      "published_at": "2026-07-31T13:56:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "50",
+      "item_id": "hn:49123199",
+      "summary_type": "extractive",
+      "title_zh": "The C ``Clockwise/Spiral Rule''",
+      "summary_zh": "The C ``Clockwise/Spiral Rule''"
     },
     {
       "title": "The End of an Era",
@@ -92,7 +381,7 @@
       "tags": [
         "ai"
       ],
-      "score": "196",
+      "score": "345",
       "item_id": "hn:49121980",
       "summary_type": "extractive",
       "title_zh": "The End of an Era",
@@ -103,16 +392,32 @@
       "summary": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
       "published_at": "2026-07-31T07:59:11+00:00",
       "tags": [
         "ai"
       ],
-      "score": "239",
+      "score": "466",
       "item_id": "hn:49120299",
       "summary_type": "extractive",
       "title_zh": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
       "summary_zh": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis"
+    },
+    {
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "summary": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
+      "published_at": "2026-07-31T07:33:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "103",
+      "item_id": "hn:49120120",
+      "summary_type": "extractive",
+      "title_zh": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "summary_zh": "Danube's record low levels force shutdown of Hungary's only nuclear plant"
     },
     {
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
@@ -124,7 +429,7 @@
       "tags": [
         "ai"
       ],
-      "score": "258",
+      "score": "452",
       "item_id": "hn:49120097",
       "summary_type": "extractive",
       "title_zh": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
@@ -140,123 +445,11 @@
       "tags": [
         "ai"
       ],
-      "score": "449",
+      "score": "615",
       "item_id": "hn:49119559",
       "summary_type": "extractive",
       "title_zh": "DeepSeek-V4-Flash Update",
       "summary_zh": "DeepSeek-V4-Flash Update"
-    },
-    {
-      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-      "summary": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/openjdk/jdk/pull/31120",
-      "published_at": "2026-07-31T04:38:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "179",
-      "item_id": "hn:49119063",
-      "summary_type": "extractive",
-      "title_zh": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-      "summary_zh": "JEP 401: Value Objects (Preview) merged to OpenJDK master"
-    },
-    {
-      "title": "The session you cannot take with you",
-      "summary": "The session you cannot take with you",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://earendil.com/posts/session-portability/",
-      "published_at": "2026-07-31T03:47:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "570",
-      "item_id": "hn:49118781",
-      "summary_type": "extractive",
-      "title_zh": "The session you cannot take with you",
-      "summary_zh": "The session you cannot take with you"
-    },
-    {
-      "title": "The Religion of Speed",
-      "summary": "The Religion of Speed",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://graybeard.ing/the-religion-of-speed/",
-      "published_at": "2026-07-30T23:43:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "219",
-      "item_id": "hn:49117284",
-      "summary_type": "extractive",
-      "title_zh": "The Religion of Speed",
-      "summary_zh": "The Religion of Speed"
-    },
-    {
-      "title": "Premier league bans gambling sponsors",
-      "summary": "Premier league bans gambling sponsors",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html",
-      "published_at": "2026-07-30T23:40:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "124",
-      "item_id": "hn:49117266",
-      "summary_type": "extractive",
-      "title_zh": "Premier league bans gambling sponsors",
-      "summary_zh": "Premier league bans gambling sponsors"
-    },
-    {
-      "title": "The AI Aesthetic",
-      "summary": "The AI Aesthetic",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-      "published_at": "2026-07-30T23:22:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "348",
-      "item_id": "hn:49117099",
-      "summary_type": "extractive",
-      "title_zh": "The AI Aesthetic",
-      "summary_zh": "The AI Aesthetic"
-    },
-    {
-      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
-      "summary": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://rune.build/blog/rune-1-1-release",
-      "published_at": "2026-07-30T21:47:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "91",
-      "item_id": "hn:49116272",
-      "summary_type": "extractive",
-      "title_zh": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
-      "summary_zh": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free"
-    },
-    {
-      "title": "UEFA and its national associations will not participate in FIFA competitions",
-      "summary": "UEFA and its national associations will not participate in FIFA competitions",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-      "published_at": "2026-07-30T18:40:52+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.1k",
-      "item_id": "hn:49113929",
-      "summary_type": "extractive",
-      "title_zh": "UEFA and its national associations will not participate in FIFA competitions",
-      "summary_zh": "UEFA and its national associations will not participate in FIFA competitions"
     },
     {
       "title": "Learning to Trace Seiberg Dualities",
@@ -283,9 +476,9 @@
       "published_at": "2026-07-30T17:59:56Z",
       "tags": [
         "llm",
-        "vision",
+        "tool",
         "paper",
-        "tool"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28627v1",
@@ -301,9 +494,9 @@
       "url": "http://arxiv.org/abs/2607.28623v1",
       "published_at": "2026-07-30T17:59:35Z",
       "tags": [
-        "vision",
+        "tool",
         "paper",
-        "tool"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28623v1",
@@ -319,8 +512,8 @@
       "url": "http://arxiv.org/abs/2607.28618v1",
       "published_at": "2026-07-30T17:59:11Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28618v1",
@@ -354,33 +547,17 @@
       "url": "http://arxiv.org/abs/2607.28609v1",
       "published_at": "2026-07-30T17:57:41Z",
       "tags": [
-        "llm",
-        "vision",
-        "tool",
         "paper",
-        "agent"
+        "tool",
+        "llm",
+        "agent",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28609v1",
       "summary_type": "extractive",
       "title_zh": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
       "summary_zh": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA evaluation, data curation, and reinforcement learning."
-    },
-    {
-      "title": "CodePen 2.0",
-      "summary": "CodePen 2.0",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-      "published_at": "2026-07-30T17:52:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "181",
-      "item_id": "hn:49113338",
-      "summary_type": "extractive",
-      "title_zh": "CodePen 2.0",
-      "summary_zh": "CodePen 2.0"
     },
     {
       "title": "PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks",
@@ -407,9 +584,9 @@
       "url": "http://arxiv.org/abs/2607.28580v1",
       "published_at": "2026-07-30T17:40:05Z",
       "tags": [
-        "vision",
+        "tool",
         "paper",
-        "tool"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28580v1",
@@ -442,8 +619,8 @@
       "url": "http://arxiv.org/abs/2607.28575v1",
       "published_at": "2026-07-30T17:37:14Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28575v1",
@@ -459,9 +636,9 @@
       "url": "http://arxiv.org/abs/2607.28573v1",
       "published_at": "2026-07-30T17:36:36Z",
       "tags": [
-        "agent",
         "tool",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28573v1",
@@ -477,8 +654,8 @@
       "url": "http://arxiv.org/abs/2607.28553v1",
       "published_at": "2026-07-30T17:21:58Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28553v1",
@@ -494,32 +671,16 @@
       "url": "http://arxiv.org/abs/2607.28545v1",
       "published_at": "2026-07-30T17:14:07Z",
       "tags": [
-        "agent",
         "llm",
-        "vision",
-        "paper"
+        "paper",
+        "agent",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28545v1",
       "summary_type": "extractive",
       "title_zh": "ORCA-bench: How Ready Are Language Model Agents for Oncall?",
       "summary_zh": "Large language models can write, patch, and search code, but oncall root cause analysis (RCA) demands something different: reasoning over noisy metrics, logs, traces, and source code, starting from ambiguous user-facing reports, often hours after the incident began. We introduce ORCA-bench, a benchmark that puts general-purpose coding agents in a production-fidelity oncall setting. ORCA-bench pairs a live OpenTelemetry-instrumented microservice system--exposing six days of metrics, logs, and tra"
-    },
-    {
-      "title": "Read this before you buy that TV streaming stick",
-      "summary": "Read this before you buy that TV streaming stick",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "published_at": "2026-07-30T17:04:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "760",
-      "item_id": "hn:49112744",
-      "summary_type": "extractive",
-      "title_zh": "Read this before you buy that TV streaming stick",
-      "summary_zh": "Read this before you buy that TV streaming stick"
     },
     {
       "title": "MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems",
@@ -529,10 +690,10 @@
       "url": "http://arxiv.org/abs/2607.28527v1",
       "published_at": "2026-07-30T17:01:27Z",
       "tags": [
-        "agent",
         "llm",
+        "paper",
         "tool",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28527v1",
@@ -548,9 +709,9 @@
       "url": "http://arxiv.org/abs/2607.28526v1",
       "published_at": "2026-07-30T17:01:24Z",
       "tags": [
-        "vision",
+        "tool",
         "paper",
-        "tool"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28526v1",
@@ -566,8 +727,8 @@
       "url": "http://arxiv.org/abs/2607.28523v1",
       "published_at": "2026-07-30T17:00:38Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28523v1",
@@ -583,8 +744,8 @@
       "url": "http://arxiv.org/abs/2607.28520v1",
       "published_at": "2026-07-30T16:57:57Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28520v1",
@@ -633,8 +794,8 @@
       "url": "http://arxiv.org/abs/2607.28488v1",
       "published_at": "2026-07-30T16:38:57Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28488v1",
@@ -643,196 +804,36 @@
       "summary_zh": "Can supply-chain AI move beyond isolated decision modules toward unified operational planning? A complete replenishment plan specifies which products each location carries, which upstream facility supplies it, how often it is replenished, and how deliveries are routed. These decisions are operationally coupled: the selected assortment changes the demand and load passed to later stages; source assignment and replenishment frequency reshape the delivery requests; and route feasibility and cost, in"
     },
     {
-      "title": "Stacked PRs are now live on GitHub",
-      "summary": "Stacked PRs are now live on GitHub",
+      "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
+      "summary": "How JPEG works: Interactively explore JPEG's lossy compression methods",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "published_at": "2026-07-30T16:26:16+00:00",
+      "url": "https://cgjennings.ca/articles/jpeg-compression/",
+      "published_at": "2026-07-27T15:11:14+00:00",
       "tags": [
         "ai"
       ],
-      "score": "726",
-      "item_id": "hn:49112232",
+      "score": "49",
+      "item_id": "hn:49070810",
       "summary_type": "extractive",
-      "title_zh": "Stacked PRs are now live on GitHub",
-      "summary_zh": "Stacked PRs are now live on GitHub"
+      "title_zh": "How JPEG works: Interactively explore JPEG's lossy compression methods",
+      "summary_zh": "How JPEG works: Interactively explore JPEG's lossy compression methods"
     },
     {
-      "title": "The Economic Benefit of Refactoring",
-      "summary": "The Economic Benefit of Refactoring",
+      "title": "Making Referential Stability a Type",
+      "summary": "Making Referential Stability a Type",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-      "published_at": "2026-07-30T15:10:27+00:00",
+      "url": "https://jovidecroock.com/blog/referential-stability-types/",
+      "published_at": "2026-07-27T02:45:34+00:00",
       "tags": [
         "ai"
       ],
-      "score": "262",
-      "item_id": "hn:49111176",
+      "score": "6",
+      "item_id": "hn:49064656",
       "summary_type": "extractive",
-      "title_zh": "The Economic Benefit of Refactoring",
-      "summary_zh": "The Economic Benefit of Refactoring"
-    },
-    {
-      "title": "The lost civic life of movie rental stores",
-      "summary": "The lost civic life of movie rental stores",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
-      "published_at": "2026-07-30T14:11:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "194",
-      "item_id": "hn:49110308",
-      "summary_type": "extractive",
-      "title_zh": "The lost civic life of movie rental stores",
-      "summary_zh": "The lost civic life of movie rental stores"
-    },
-    {
-      "title": "Why is everyone trying to build a solid-state battery?",
-      "summary": "Why is everyone trying to build a solid-state battery?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-      "published_at": "2026-07-30T12:38:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "210",
-      "item_id": "hn:49109193",
-      "summary_type": "extractive",
-      "title_zh": "Why is everyone trying to build a solid-state battery?",
-      "summary_zh": "Why is everyone trying to build a solid-state battery?"
-    },
-    {
-      "title": "GCC steering committee announces AI policy",
-      "summary": "GCC steering committee announces AI policy",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lwn.net/Articles/1086041/",
-      "published_at": "2026-07-30T11:45:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "319",
-      "item_id": "hn:49108685",
-      "summary_type": "extractive",
-      "title_zh": "GCC steering committee announces AI policy",
-      "summary_zh": "GCC steering committee announces AI policy"
-    },
-    {
-      "title": "We shall dwell amidst wonder and glory for ever: On weird fiction",
-      "summary": "We shall dwell amidst wonder and glory for ever: On weird fiction",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://clereviewofbooks.com/we-shall-dwell-amidst-wonder-and-glory-for-ever-on-weird-fiction/",
-      "published_at": "2026-07-29T23:06:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "33",
-      "item_id": "hn:49104245",
-      "summary_type": "extractive",
-      "title_zh": "We shall dwell amidst wonder and glory for ever: On weird fiction",
-      "summary_zh": "We shall dwell amidst wonder and glory for ever: On weird fiction"
-    },
-    {
-      "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
-      "summary": "I&#x27;m building Kedge, a globally distributed platform for stateful serverless apps. Here&#x27;s how you make a simple static site: `echo &#x27;# Hello world!&#x27; | ssh kedge.dev`I helped build Fly.io for 4 years and shared enthusiasm for the founders&#x27; vision of a &#x27;global Heroku&#x27;.  While there, I wrote &quot;The Serverless Server&quot; (https:&#x2F;&#x2F;fly.io&#x2F;blog&#x2F;the-serverless-server&#x2F;) as a study of Lambda and a sketch of a modern serverless product built ar",
-      "full_text": "I&#x27;m building Kedge, a globally distributed platform for stateful serverless apps. Here&#x27;s how you make a simple static site: `echo &#x27;# Hello world!&#x27; | ssh kedge.dev`I helped build Fly.io for 4 years and shared enthusiasm for the founders&#x27; vision of a &#x27;global Heroku&#x27;.  While there, I wrote &quot;The Serverless Server&quot; (https:&#x2F;&#x2F;fly.io&#x2F;blog&#x2F;the-serverless-server&#x2F;) as a study of Lambda and a sketch of a modern serverless product built ar",
-      "source": "hacker news",
-      "url": "https://kedge.dev/",
-      "published_at": "2026-07-29T16:15:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "125",
-      "item_id": "hn:49099434",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
-      "summary_zh": "I&#x27;m building Kedge, a globally distributed platform for stateful serverless apps. Here&#x27;s how you make a simple static site: `echo &#x27;# Hello world!&#x27; | ssh kedge.dev`I helped build Fly.io for 4 years and shared enthusiasm for the founders&#x27; vision of a &#x27;global Heroku&#x27;.  While there, I wrote &quot;The Serverless Server&quot; (https:&#x2F;&#x2F;fly.io&#x2F;blog&#x2F;the-serverless-server&#x2F;) as a study of Lambda and a sketch of a modern serverless product built ar"
-    },
-    {
-      "title": "Simulating TCP loss and congestion in browser using Go/WASM",
-      "summary": "Simulating TCP loss and congestion in browser using Go/WASM",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ccsim.fly.dev",
-      "published_at": "2026-07-28T18:38:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "47",
-      "item_id": "hn:49088098",
-      "summary_type": "extractive",
-      "title_zh": "Simulating TCP loss and congestion in browser using Go/WASM",
-      "summary_zh": "Simulating TCP loss and congestion in browser using Go/WASM"
-    },
-    {
-      "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
-      "summary": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/MemoireMorte/Memo-1",
-      "published_at": "2026-07-28T13:56:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "93",
-      "item_id": "hn:49083970",
-      "summary_type": "extractive",
-      "title_zh": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
-      "summary_zh": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal"
-    },
-    {
-      "title": "Where USB Memory Sticks are Born (2013)",
-      "summary": "Where USB Memory Sticks are Born (2013)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
-      "published_at": "2026-07-27T23:59:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "77",
-      "item_id": "hn:49077372",
-      "summary_type": "extractive",
-      "title_zh": "Where USB Memory Sticks are Born (2013)",
-      "summary_zh": "Where USB Memory Sticks are Born (2013)"
-    },
-    {
-      "title": "Bad Apple but It's Traceroute",
-      "summary": "Bad Apple but It's Traceroute",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
-      "published_at": "2026-07-27T15:48:09+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "143",
-      "item_id": "hn:49071299",
-      "summary_type": "extractive",
-      "title_zh": "Bad Apple but It's Traceroute",
-      "summary_zh": "Bad Apple but It's Traceroute"
-    },
-    {
-      "title": "Winding Down Artichoke Ruby",
-      "summary": "Winding Down Artichoke Ruby",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://hyperbo.la/w/winding-down-artichoke-ruby/",
-      "published_at": "2026-07-25T18:04:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "5",
-      "item_id": "hn:49049992",
-      "summary_type": "extractive",
-      "title_zh": "Winding Down Artichoke Ruby",
-      "summary_zh": "Winding Down Artichoke Ruby"
+      "title_zh": "Making Referential Stability a Type",
+      "summary_zh": "Making Referential Stability a Type"
     }
   ]
 }

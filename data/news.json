@@ -1,54 +1,214 @@
 {
-  "updated_at": "2026-08-02T08:33:22.931840+00:00",
+  "updated_at": "2026-08-02T13:44:17.936427+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Nerd culture is murdering intellectuals",
-      "summary": "Nerd culture is murdering intellectuals",
+      "title": "Has the New Cocaine Arrived?",
+      "summary": "Has the New Cocaine Arrived?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals",
-      "published_at": "2026-08-02T07:57:52+00:00",
+      "url": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
+      "published_at": "2026-08-02T13:05:06+00:00",
       "tags": [
         "ai"
       ],
-      "score": "9",
-      "item_id": "hn:49142128",
+      "score": "25",
+      "item_id": "hn:49144273",
       "summary_type": "extractive",
-      "title_zh": "Nerd culture is murdering intellectuals",
-      "summary_zh": "Nerd culture is murdering intellectuals"
+      "title_zh": "Has the New Cocaine Arrived?",
+      "summary_zh": "Has the New Cocaine Arrived?"
     },
     {
-      "title": "Show HN: Tone Generator",
-      "summary": "Show HN: Tone Generator",
+      "title": "Twenty Years of RISC OS Open",
+      "summary": "Twenty Years of RISC OS Open",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://soundtonegenerator.com/",
-      "published_at": "2026-08-02T07:31:40+00:00",
+      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+      "published_at": "2026-08-02T12:36:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "37",
+      "item_id": "hn:49143967",
+      "summary_type": "extractive",
+      "title_zh": "Twenty Years of RISC OS Open",
+      "summary_zh": "Twenty Years of RISC OS Open"
+    },
+    {
+      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "summary": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+      "published_at": "2026-08-02T12:01:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "1",
+      "item_id": "hn:49143683",
+      "summary_type": "extractive",
+      "title_zh": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "summary_zh": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager"
+    },
+    {
+      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+      "summary": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+      "published_at": "2026-08-02T11:24:20+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "160",
+      "item_id": "hn:49143414",
+      "summary_type": "extractive",
+      "title_zh": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+      "summary_zh": "Wikimedia Foundation refuses union recognition, hires union-busting law firm"
+    },
+    {
+      "title": "Show HN: Fuse – statically typed functional programming language",
+      "summary": "Hi HN! I&#x27;ve been working on the fuse programming language, it&#x27;s a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program optimizer, producing LLVM-generated native code.Fuse supports ADTs, Generics, Type Methods, Traits, Pattern matching etc.",
+      "full_text": "Hi HN! I&#x27;ve been working on the fuse programming language, it&#x27;s a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program optimizer, producing LLVM-generated native code.Fuse supports ADTs, Generics, Type Methods, Traits, Pattern matching etc. all in a functional style with no mutations.I’ve been developing the language for 5 years, with code written in Scala. I’ve started coding the language from the base of S",
+      "source": "hacker news",
+      "url": "https://fuselang.org",
+      "published_at": "2026-08-02T11:23:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "23",
+      "item_id": "hn:49143412",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Fuse – statically typed functional programming language",
+      "summary_zh": "Hi HN! I&#x27;ve been working on the fuse programming language, it&#x27;s a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program optimizer, producing LLVM-generated native code.Fuse supports ADTs, Generics, Type Methods, Traits, Pattern matching etc."
+    },
+    {
+      "title": "US Treasury undertakes historic intervention in yen market",
+      "summary": "US Treasury undertakes historic intervention in yen market",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+      "published_at": "2026-08-02T10:46:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "45",
+      "item_id": "hn:49143188",
+      "summary_type": "extractive",
+      "title_zh": "US Treasury undertakes historic intervention in yen market",
+      "summary_zh": "US Treasury undertakes historic intervention in yen market"
+    },
+    {
+      "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+      "summary": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/kamalfarahani/katharos",
+      "published_at": "2026-08-02T10:45:11+00:00",
       "tags": [
         "ai"
       ],
       "score": "6",
-      "item_id": "hn:49142002",
+      "item_id": "hn:49143179",
       "summary_type": "extractive",
-      "title_zh": "Show HN: Tone Generator",
-      "summary_zh": "Show HN: Tone Generator"
+      "title_zh": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+      "summary_zh": "Show HN: Katharos Functional programming and CSP-style concurrency for Python"
     },
     {
-      "title": "I don't recommend Tailwind CSS",
-      "summary": "I don't recommend Tailwind CSS",
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "summary": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
-      "published_at": "2026-08-02T07:09:38+00:00",
+      "url": "https://publicdomainreview.org/essay/ars-notoria/",
+      "published_at": "2026-08-02T10:18:24+00:00",
       "tags": [
         "ai"
       ],
-      "score": "12",
-      "item_id": "hn:49141891",
+      "score": "52",
+      "item_id": "hn:49143001",
       "summary_type": "extractive",
-      "title_zh": "I don't recommend Tailwind CSS",
-      "summary_zh": "I don't recommend Tailwind CSS"
+      "title_zh": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "summary_zh": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge"
+    },
+    {
+      "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+      "summary": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/syncular/syncular",
+      "published_at": "2026-08-02T09:48:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "39",
+      "item_id": "hn:49142794",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+      "summary_zh": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores"
+    },
+    {
+      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+      "summary": "Hi HN! I&#x27;ve been working on Bor, an open-source system for centralized Linux desktop management.Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS&#x2F;gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.Version 0.8 introduces several new policy types - Thunderbird, Microsoft Edge for Business and FirewallD zones, along with a number of improvements and fixes.I&#x",
+      "full_text": "Hi HN! I&#x27;ve been working on Bor, an open-source system for centralized Linux desktop management.Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS&#x2F;gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.Version 0.8 introduces several new policy types - Thunderbird, Microsoft Edge for Business and FirewallD zones, along with a number of improvements and fixes.I&#x",
+      "source": "hacker news",
+      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+      "published_at": "2026-08-02T09:06:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "77",
+      "item_id": "hn:49142569",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Bor – Open-source policy management for Linux desktops",
+      "summary_zh": "Hi HN! I&#x27;ve been working on Bor, an open-source system for centralized Linux desktop management.Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS&#x2F;gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.Version 0.8 introduces several new policy types - Thunderbird, Microsoft Edge for Business and FirewallD zones, along with a number of improvements and fixes.I&#x"
+    },
+    {
+      "title": "Cyberscript",
+      "summary": "Cyberscript",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://cyberscript.dev",
+      "published_at": "2026-08-02T07:58:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "30",
+      "item_id": "hn:49142130",
+      "summary_type": "extractive",
+      "title_zh": "Cyberscript",
+      "summary_zh": "Cyberscript"
+    },
+    {
+      "title": "IBM i (OS/400) the Database Operating System",
+      "summary": "IBM i (OS/400) the Database Operating System",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
+      "published_at": "2026-08-02T07:17:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "32",
+      "item_id": "hn:49141937",
+      "summary_type": "extractive",
+      "title_zh": "IBM i (OS/400) the Database Operating System",
+      "summary_zh": "IBM i (OS/400) the Database Operating System"
+    },
+    {
+      "title": "ESP32-C3 SuperMini antenna modification",
+      "summary": "ESP32-C3 SuperMini antenna modification",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
+      "published_at": "2026-08-02T06:56:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "13",
+      "item_id": "hn:49141828",
+      "summary_type": "extractive",
+      "title_zh": "ESP32-C3 SuperMini antenna modification",
+      "summary_zh": "ESP32-C3 SuperMini antenna modification"
     },
     {
       "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
@@ -60,7 +220,7 @@
       "tags": [
         "ai"
       ],
-      "score": "114",
+      "score": "158",
       "item_id": "hn:49141073",
       "summary_type": "extractive",
       "title_zh": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
@@ -76,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "50",
+      "score": "70",
       "item_id": "hn:49140702",
       "summary_type": "extractive",
       "title_zh": "MkLinux and the pimped-out Apple Workgroup Server 9150",
@@ -92,7 +252,7 @@
       "tags": [
         "ai"
       ],
-      "score": "46",
+      "score": "72",
       "item_id": "hn:49140599",
       "summary_type": "extractive",
       "title_zh": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
@@ -108,7 +268,7 @@
       "tags": [
         "ai"
       ],
-      "score": "33",
+      "score": "66",
       "item_id": "hn:49140405",
       "summary_type": "extractive",
       "title_zh": "When random.bytes() runs but doesn't work",
@@ -124,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "137",
+      "score": "202",
       "item_id": "hn:49140396",
       "summary_type": "extractive",
       "title_zh": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
@@ -140,7 +300,7 @@
       "tags": [
         "ai"
       ],
-      "score": "185",
+      "score": "269",
       "item_id": "hn:49140218",
       "summary_type": "extractive",
       "title_zh": "Go 1.27 Interactive Tour",
@@ -156,11 +316,27 @@
       "tags": [
         "ai"
       ],
-      "score": "55",
+      "score": "83",
       "item_id": "hn:49140213",
       "summary_type": "extractive",
       "title_zh": "ASRock BC-250: Building the Budget Steam Machine",
       "summary_zh": "ASRock BC-250: Building the Budget Steam Machine"
+    },
+    {
+      "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
+      "summary": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://yarchive.net/comp/128bit.html",
+      "published_at": "2026-08-02T01:26:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "31",
+      "item_id": "hn:49140174",
+      "summary_type": "extractive",
+      "title_zh": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
+      "summary_zh": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)"
     },
     {
       "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
@@ -172,7 +348,7 @@
       "tags": [
         "ai"
       ],
-      "score": "56",
+      "score": "66",
       "item_id": "hn:49139711",
       "summary_type": "extractive",
       "title_zh": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
@@ -188,59 +364,11 @@
       "tags": [
         "ai"
       ],
-      "score": "73",
+      "score": "88",
       "item_id": "hn:49139383",
       "summary_type": "extractive",
       "title_zh": "Unraveling the mysteries of habit formation",
       "summary_zh": "Unraveling the mysteries of habit formation"
-    },
-    {
-      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
-      "summary": "Morph (YC S23) Is Hiring Member of Technical Staff",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
-      "published_at": "2026-08-01T22:52:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:49139352",
-      "summary_type": "extractive",
-      "title_zh": "Morph (YC S23) Is Hiring Member of Technical Staff",
-      "summary_zh": "Morph (YC S23) Is Hiring Member of Technical Staff"
-    },
-    {
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "summary": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "published_at": "2026-08-01T22:25:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "292",
-      "item_id": "hn:49139102",
-      "summary_type": "extractive",
-      "title_zh": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "summary_zh": "AI financial advice is surprisingly good, especially if you ask right questions"
-    },
-    {
-      "title": "Drug reverses autism-like brain changes in adult mice within hours",
-      "summary": "Drug reverses autism-like brain changes in adult mice within hours",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
-      "published_at": "2026-08-01T22:20:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "21",
-      "item_id": "hn:49139052",
-      "summary_type": "extractive",
-      "title_zh": "Drug reverses autism-like brain changes in adult mice within hours",
-      "summary_zh": "Drug reverses autism-like brain changes in adult mice within hours"
     },
     {
       "title": "Atom is better than RSS, in ways that matter",
@@ -252,7 +380,7 @@
       "tags": [
         "ai"
       ],
-      "score": "66",
+      "score": "106",
       "item_id": "hn:49138897",
       "summary_type": "extractive",
       "title_zh": "Atom is better than RSS, in ways that matter",
@@ -268,7 +396,7 @@
       "tags": [
         "ai"
       ],
-      "score": "317",
+      "score": "388",
       "item_id": "hn:49138302",
       "summary_type": "extractive",
       "title_zh": "Seedance 2.5",
@@ -284,7 +412,7 @@
       "tags": [
         "ai"
       ],
-      "score": "324",
+      "score": "402",
       "item_id": "hn:49138188",
       "summary_type": "extractive",
       "title_zh": "Diátaxis",
@@ -300,7 +428,7 @@
       "tags": [
         "ai"
       ],
-      "score": "93",
+      "score": "102",
       "item_id": "hn:49137713",
       "summary_type": "extractive",
       "title_zh": "But can your calculator run Linux?",
@@ -316,75 +444,11 @@
       "tags": [
         "ai"
       ],
-      "score": "144",
+      "score": "156",
       "item_id": "hn:49137060",
       "summary_type": "extractive",
       "title_zh": "Postmortem for Kernel Soundness Bug #14576",
       "summary_zh": "Postmortem for Kernel Soundness Bug #14576"
-    },
-    {
-      "title": "How Google helped destroy adoption of RSS feeds (2023)",
-      "summary": "How Google helped destroy adoption of RSS feeds (2023)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "published_at": "2026-08-01T18:07:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "513",
-      "item_id": "hn:49136821",
-      "summary_type": "extractive",
-      "title_zh": "How Google helped destroy adoption of RSS feeds (2023)",
-      "summary_zh": "How Google helped destroy adoption of RSS feeds (2023)"
-    },
-    {
-      "title": "NetBSD 11.0",
-      "summary": "NetBSD 11.0",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "published_at": "2026-08-01T17:56:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "273",
-      "item_id": "hn:49136736",
-      "summary_type": "extractive",
-      "title_zh": "NetBSD 11.0",
-      "summary_zh": "NetBSD 11.0"
-    },
-    {
-      "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
-      "summary": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
-      "published_at": "2026-08-01T15:46:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "140",
-      "item_id": "hn:49135426",
-      "summary_type": "extractive",
-      "title_zh": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
-      "summary_zh": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga"
-    },
-    {
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "summary": "Explorative modeling: Train on the best of K guesses",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "published_at": "2026-08-01T15:23:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "99",
-      "item_id": "hn:49135245",
-      "summary_type": "extractive",
-      "title_zh": "Explorative modeling: Train on the best of K guesses",
-      "summary_zh": "Explorative modeling: Train on the best of K guesses"
     },
     {
       "title": "A big win for Android interoperability",
@@ -396,43 +460,27 @@
       "tags": [
         "ai"
       ],
-      "score": "39",
+      "score": "160",
       "item_id": "hn:49124051",
       "summary_type": "extractive",
       "title_zh": "A big win for Android interoperability",
       "summary_zh": "A big win for Android interoperability"
     },
     {
-      "title": "We accidentally built an LLVM compiler for Jax",
-      "summary": "We accidentally built an LLVM compiler for Jax",
+      "title": "Holocloth",
+      "summary": "Holocloth",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
-      "published_at": "2026-07-30T23:46:05+00:00",
+      "url": "https://holocloth.vercel.app",
+      "published_at": "2026-07-30T22:59:27+00:00",
       "tags": [
         "ai"
       ],
-      "score": "40",
-      "item_id": "hn:49117303",
+      "score": "41",
+      "item_id": "hn:49116917",
       "summary_type": "extractive",
-      "title_zh": "We accidentally built an LLVM compiler for Jax",
-      "summary_zh": "We accidentally built an LLVM compiler for Jax"
-    },
-    {
-      "title": "P[drive failure]: how reliable is your NAS?",
-      "summary": "P[drive failure]: how reliable is your NAS?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://khz.ac/low-voltage/drive-failure.html",
-      "published_at": "2026-07-30T19:18:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:49114441",
-      "summary_type": "extractive",
-      "title_zh": "P[drive failure]: how reliable is your NAS?",
-      "summary_zh": "P[drive failure]: how reliable is your NAS?"
+      "title_zh": "Holocloth",
+      "summary_zh": "Holocloth"
     },
     {
       "title": "Learning to Trace Seiberg Dualities",
@@ -460,8 +508,8 @@
       "tags": [
         "paper",
         "tool",
-        "vision",
-        "llm"
+        "llm",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28627v1",
@@ -495,8 +543,8 @@
       "url": "http://arxiv.org/abs/2607.28618v1",
       "published_at": "2026-07-30T17:59:11Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28618v1",
@@ -531,9 +579,9 @@
       "published_at": "2026-07-30T17:57:41Z",
       "tags": [
         "tool",
-        "llm",
-        "paper",
         "vision",
+        "paper",
+        "llm",
         "agent"
       ],
       "score": "📄",
@@ -619,9 +667,9 @@
       "url": "http://arxiv.org/abs/2607.28573v1",
       "published_at": "2026-07-30T17:36:36Z",
       "tags": [
-        "paper",
+        "agent",
         "tool",
-        "agent"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28573v1",
@@ -654,10 +702,10 @@
       "url": "http://arxiv.org/abs/2607.28545v1",
       "published_at": "2026-07-30T17:14:07Z",
       "tags": [
-        "paper",
-        "vision",
+        "agent",
         "llm",
-        "agent"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28545v1",
@@ -673,10 +721,10 @@
       "url": "http://arxiv.org/abs/2607.28527v1",
       "published_at": "2026-07-30T17:01:27Z",
       "tags": [
-        "paper",
+        "agent",
         "tool",
         "llm",
-        "agent"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28527v1",
@@ -710,8 +758,8 @@
       "url": "http://arxiv.org/abs/2607.28523v1",
       "published_at": "2026-07-30T17:00:38Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28523v1",
@@ -727,8 +775,8 @@
       "url": "http://arxiv.org/abs/2607.28520v1",
       "published_at": "2026-07-30T16:57:57Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28520v1",
@@ -777,62 +825,14 @@
       "url": "http://arxiv.org/abs/2607.28488v1",
       "published_at": "2026-07-30T16:38:57Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.28488v1",
       "summary_type": "extractive",
       "title_zh": "SCOPE: Supply-Chain Operations through Coupled Policies for End-to-End Coordination",
       "summary_zh": "Can supply-chain AI move beyond isolated decision modules toward unified operational planning? A complete replenishment plan specifies which products each location carries, which upstream facility supplies it, how often it is replenished, and how deliveries are routed. These decisions are operationally coupled: the selected assortment changes the demand and load passed to later stages; source assignment and replenishment frequency reshape the delivery requests; and route feasibility and cost, in"
-    },
-    {
-      "title": "The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes",
-      "summary": "The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/",
-      "published_at": "2026-07-28T21:38:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "9",
-      "item_id": "hn:49090268",
-      "summary_type": "extractive",
-      "title_zh": "The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes",
-      "summary_zh": "The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes"
-    },
-    {
-      "title": "Glyphs 4 – the leading Mac font editor",
-      "summary": "Glyphs 4 – the leading Mac font editor",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://glyphsapp.com",
-      "published_at": "2026-07-28T15:06:38+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "82",
-      "item_id": "hn:49085065",
-      "summary_type": "extractive",
-      "title_zh": "Glyphs 4 – the leading Mac font editor",
-      "summary_zh": "Glyphs 4 – the leading Mac font editor"
-    },
-    {
-      "title": "Nyctography: A substituton cypher by Lewis Carroll",
-      "summary": "Nyctography: A substituton cypher by Lewis Carroll",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://en.wikipedia.org/wiki/Nyctography",
-      "published_at": "2026-07-28T10:30:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "74",
-      "item_id": "hn:49081851",
-      "summary_type": "extractive",
-      "title_zh": "Nyctography: A substituton cypher by Lewis Carroll",
-      "summary_zh": "Nyctography: A substituton cypher by Lewis Carroll"
     }
   ]
 }

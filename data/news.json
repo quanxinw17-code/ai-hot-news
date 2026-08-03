@@ -1,22 +1,214 @@
 {
-  "updated_at": "2026-08-03T03:41:30.754010+00:00",
+  "updated_at": "2026-08-03T10:00:32.819474+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
-      "summary": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
+      "title": "What DMARC Protects You From, and What It Does Not",
+      "summary": "What DMARC Protects You From, and What It Does Not",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic",
-      "published_at": "2026-08-03T03:00:52+00:00",
+      "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+      "published_at": "2026-08-03T09:29:46+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:49153361",
+      "summary_type": "extractive",
+      "title_zh": "What DMARC Protects You From, and What It Does Not",
+      "summary_zh": "What DMARC Protects You From, and What It Does Not"
+    },
+    {
+      "title": "Less Coffee, Better Sleep",
+      "summary": "Less Coffee, Better Sleep",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.marginalia.nu/log/a_109_sleep2/",
+      "published_at": "2026-08-03T09:10:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:49153158",
+      "summary_type": "extractive",
+      "title_zh": "Less Coffee, Better Sleep",
+      "summary_zh": "Less Coffee, Better Sleep"
+    },
+    {
+      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "summary": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+      "published_at": "2026-08-03T08:54:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "4",
+      "item_id": "hn:49153029",
+      "summary_type": "extractive",
+      "title_zh": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "summary_zh": "PISIGuard: Protect your personal and sensitive info when you chat with AI"
+    },
+    {
+      "title": "The true power of regular expressions (2012)",
+      "summary": "The true power of regular expressions (2012)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+      "published_at": "2026-08-03T08:47:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "3",
+      "item_id": "hn:49152973",
+      "summary_type": "extractive",
+      "title_zh": "The true power of regular expressions (2012)",
+      "summary_zh": "The true power of regular expressions (2012)"
+    },
+    {
+      "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+      "summary": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+      "published_at": "2026-08-03T08:34:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "6",
+      "item_id": "hn:49152871",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+      "summary_zh": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge"
+    },
+    {
+      "title": "The Shape of Things to Come",
+      "summary": "The Shape of Things to Come",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://yegge.ai/essays/the-shape-of-things-to-come/",
+      "published_at": "2026-08-03T07:22:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:49152316",
+      "summary_type": "extractive",
+      "title_zh": "The Shape of Things to Come",
+      "summary_zh": "The Shape of Things to Come"
+    },
+    {
+      "title": "The AI Productivity Gap",
+      "summary": "The AI Productivity Gap",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+      "published_at": "2026-08-03T07:07:20+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:49152222",
+      "summary_type": "extractive",
+      "title_zh": "The AI Productivity Gap",
+      "summary_zh": "The AI Productivity Gap"
+    },
+    {
+      "title": "Show HN: I created a project management system",
+      "summary": "Show HN: I created a project management system",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://is.team",
+      "published_at": "2026-08-03T06:47:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "7",
+      "item_id": "hn:49152054",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: I created a project management system",
+      "summary_zh": "Show HN: I created a project management system"
+    },
+    {
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "summary": "Rust project goals: Immobile types and guaranteed destructors",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "published_at": "2026-08-03T06:42:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "70",
+      "item_id": "hn:49152023",
+      "summary_type": "extractive",
+      "title_zh": "Rust project goals: Immobile types and guaranteed destructors",
+      "summary_zh": "Rust project goals: Immobile types and guaranteed destructors"
+    },
+    {
+      "title": "Don't be a meat proxy",
+      "summary": "Don't be a meat proxy",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://gruhn.me/blog/2026-08-03/",
+      "published_at": "2026-08-03T06:28:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "553",
+      "item_id": "hn:49151933",
+      "summary_type": "extractive",
+      "title_zh": "Don't be a meat proxy",
+      "summary_zh": "Don't be a meat proxy"
+    },
+    {
+      "title": "Situational Awareness and the Impending Stock Market Volatility",
+      "summary": "Situational Awareness and the Impending Stock Market Volatility",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
+      "published_at": "2026-08-03T06:17:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "9",
+      "item_id": "hn:49151871",
+      "summary_type": "extractive",
+      "title_zh": "Situational Awareness and the Impending Stock Market Volatility",
+      "summary_zh": "Situational Awareness and the Impending Stock Market Volatility"
+    },
+    {
+      "title": "More German than many Germans",
+      "summary": "More German than many Germans",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://mertbulan.com/more-german-than-many-germans/",
+      "published_at": "2026-08-03T06:00:14+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "267",
+      "item_id": "hn:49151734",
+      "summary_type": "extractive",
+      "title_zh": "More German than many Germans",
+      "summary_zh": "More German than many Germans"
+    },
+    {
+      "title": "AI migrated legacy COBOL programs to Java, bugs included",
+      "summary": "AI migrated legacy COBOL programs to Java, bugs included",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arxiv.org/abs/2607.28271",
+      "published_at": "2026-08-03T03:06:12+00:00",
       "tags": [
         "ai"
       ],
       "score": "65",
-      "item_id": "hn:49150738",
+      "item_id": "hn:49150773",
       "summary_type": "extractive",
-      "title_zh": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
-      "summary_zh": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&T"
+      "title_zh": "AI migrated legacy COBOL programs to Java, bugs included",
+      "summary_zh": "AI migrated legacy COBOL programs to Java, bugs included"
     },
     {
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
@@ -28,7 +220,7 @@
       "tags": [
         "ai"
       ],
-      "score": "89",
+      "score": "564",
       "item_id": "hn:49150470",
       "summary_type": "extractive",
       "title_zh": "Qwen3.8-Max: A New Bar for Coding and Cowork",
@@ -44,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "19",
+      "score": "36",
       "item_id": "hn:49150181",
       "summary_type": "extractive",
       "title_zh": "RFC 9851: TLS 1.2 is in Feature Freeze",
@@ -60,7 +252,7 @@
       "tags": [
         "ai"
       ],
-      "score": "76",
+      "score": "221",
       "item_id": "hn:49149966",
       "summary_type": "extractive",
       "title_zh": "Show HN: Isopolis – Isometric pixel map of SF",
@@ -76,7 +268,7 @@
       "tags": [
         "ai"
       ],
-      "score": "42",
+      "score": "69",
       "item_id": "hn:49149898",
       "summary_type": "extractive",
       "title_zh": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
@@ -92,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "47",
+      "score": "115",
       "item_id": "hn:49149805",
       "summary_type": "extractive",
       "title_zh": "Show HN: ssh ssh.place",
@@ -108,108 +300,11 @@
       "tags": [
         "ai"
       ],
-      "score": "58",
+      "score": "97",
       "item_id": "hn:49149746",
       "summary_type": "extractive",
       "title_zh": "Why Book Corners won't sync contributions back to OpenStreetMap",
       "summary_zh": "Why Book Corners won't sync contributions back to OpenStreetMap"
-    },
-    {
-      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-      "summary": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/pg83/shitty",
-      "published_at": "2026-08-02T23:05:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "98",
-      "item_id": "hn:49149326",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-      "summary_zh": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours"
-    },
-    {
-      "title": "The Computational Theory of Mind (2015)",
-      "summary": "The Computational Theory of Mind (2015)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://plato.stanford.edu/entries/computational-mind/",
-      "published_at": "2026-08-02T22:35:35+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "40",
-      "item_id": "hn:49149125",
-      "summary_type": "extractive",
-      "title_zh": "The Computational Theory of Mind (2015)",
-      "summary_zh": "The Computational Theory of Mind (2015)"
-    },
-    {
-      "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
-      "summary": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
-      "published_at": "2026-08-02T22:16:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "110",
-      "item_id": "hn:49148987",
-      "summary_type": "extractive",
-      "title_zh": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
-      "summary_zh": "Californians' data deletion requests, DROP, become enforceable Aug. 1"
-    },
-    {
-      "title": "Show HN: Mu – Tools for Agents",
-      "summary": "Show HN: Mu – Tools for Agents",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/micro/mu",
-      "published_at": "2026-08-02T22:06:34+00:00",
-      "tags": [
-        "agent",
-        "tool"
-      ],
-      "score": "39",
-      "item_id": "hn:49148899",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Mu – Tools for Agents",
-      "summary_zh": "Show HN: Mu – Tools for Agents"
-    },
-    {
-      "title": "TinyNES Review – A Super Niche NES Console",
-      "summary": "TinyNES Review – A Super Niche NES Console",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
-      "published_at": "2026-08-02T20:01:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "41",
-      "item_id": "hn:49147760",
-      "summary_type": "extractive",
-      "title_zh": "TinyNES Review – A Super Niche NES Console",
-      "summary_zh": "TinyNES Review – A Super Niche NES Console"
-    },
-    {
-      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-      "summary": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-      "published_at": "2026-08-02T19:19:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "207",
-      "item_id": "hn:49147435",
-      "summary_type": "extractive",
-      "title_zh": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-      "summary_zh": "'Crush this lady': how eBay harassment campaign led to $56M payout"
     },
     {
       "title": "SwiftUI After 7 Years",
@@ -221,15 +316,15 @@
       "tags": [
         "ai"
       ],
-      "score": "129",
+      "score": "194",
       "item_id": "hn:49147263",
       "summary_type": "extractive",
       "title_zh": "SwiftUI After 7 Years",
       "summary_zh": "SwiftUI After 7 Years"
     },
     {
-      "title": "The Myth of Snow Leopard",
-      "summary": "The Myth of Snow Leopard",
+      "title": "The myth of Snow Leopard",
+      "summary": "The myth of Snow Leopard",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
@@ -237,43 +332,11 @@
       "tags": [
         "ai"
       ],
-      "score": "52",
+      "score": "99",
       "item_id": "hn:49146960",
       "summary_type": "extractive",
-      "title_zh": "The Myth of Snow Leopard",
-      "summary_zh": "The Myth of Snow Leopard"
-    },
-    {
-      "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-      "summary": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-      "published_at": "2026-08-02T17:45:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "37",
-      "item_id": "hn:49146605",
-      "summary_type": "extractive",
-      "title_zh": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-      "summary_zh": "Harvesting SSH Credentials: Insights from My Honeypot Network"
-    },
-    {
-      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-      "summary": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.See my 5 minute lightning talk from Planet Nix for an intro: https:&#x2F;&#x2F;youtu.be&#x2F;AvK_gi_snJE?si=MPKv3iiuS9B5elIE",
-      "full_text": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.See my 5 minute lightning talk from Planet Nix for an intro: https:&#x2F;&#x2F;youtu.be&#x2F;AvK_gi_snJE?si=MPKv3iiuS9B5elIE",
-      "source": "hacker news",
-      "url": "https://github.com/graham33/nixos-dgx-spark",
-      "published_at": "2026-08-02T17:05:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "102",
-      "item_id": "hn:49146267",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-      "summary_zh": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.See my 5 minute lightning talk from Planet Nix for an intro: https:&#x2F;&#x2F;youtu.be&#x2F;AvK_gi_snJE?si=MPKv3iiuS9B5elIE"
+      "title_zh": "The myth of Snow Leopard",
+      "summary_zh": "The myth of Snow Leopard"
     },
     {
       "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
@@ -285,75 +348,11 @@
       "tags": [
         "ai"
       ],
-      "score": "190",
+      "score": "220",
       "item_id": "hn:49145937",
       "summary_type": "extractive",
       "title_zh": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
       "summary_zh": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM"
-    },
-    {
-      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-      "summary": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-      "published_at": "2026-08-02T16:19:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "86",
-      "item_id": "hn:49145883",
-      "summary_type": "extractive",
-      "title_zh": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-      "summary_zh": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N"
-    },
-    {
-      "title": "How the words we teach English language learners changed",
-      "summary": "How the words we teach English language learners changed",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://pudding.cool/2026/07/essential-words/",
-      "published_at": "2026-08-02T15:41:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "194",
-      "item_id": "hn:49145590",
-      "summary_type": "extractive",
-      "title_zh": "How the words we teach English language learners changed",
-      "summary_zh": "How the words we teach English language learners changed"
-    },
-    {
-      "title": "Twenty Years of RISC OS Open",
-      "summary": "Twenty Years of RISC OS Open",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "published_at": "2026-08-02T12:36:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "154",
-      "item_id": "hn:49143967",
-      "summary_type": "extractive",
-      "title_zh": "Twenty Years of RISC OS Open",
-      "summary_zh": "Twenty Years of RISC OS Open"
-    },
-    {
-      "title": "F*: A general-purpose proof-oriented programming language",
-      "summary": "F*: A general-purpose proof-oriented programming language",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://fstar-lang.org/",
-      "published_at": "2026-08-02T12:31:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "166",
-      "item_id": "hn:49143925",
-      "summary_type": "extractive",
-      "title_zh": "F*: A general-purpose proof-oriented programming language",
-      "summary_zh": "F*: A general-purpose proof-oriented programming language"
     },
     {
       "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
@@ -381,7 +380,7 @@
       "tags": [
         "ai"
       ],
-      "score": "476",
+      "score": "570",
       "item_id": "hn:49140998",
       "summary_type": "extractive",
       "title_zh": "Karpathy’s Pelican",
@@ -397,7 +396,7 @@
       "tags": [
         "ai"
       ],
-      "score": "65",
+      "score": "99",
       "item_id": "hn:49129676",
       "summary_type": "extractive",
       "title_zh": "Read the novels and forget everything else",
@@ -411,8 +410,8 @@
       "url": "http://arxiv.org/abs/2607.29677v1",
       "published_at": "2026-07-31T17:55:58Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29677v1",
@@ -428,8 +427,8 @@
       "url": "http://arxiv.org/abs/2607.29657v1",
       "published_at": "2026-07-31T17:37:34Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29657v1",
@@ -446,8 +445,8 @@
       "published_at": "2026-07-31T16:58:00Z",
       "tags": [
         "llm",
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29626v1",
@@ -479,8 +478,8 @@
       "url": "http://arxiv.org/abs/2607.29621v1",
       "published_at": "2026-07-31T16:56:27Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29621v1",
@@ -497,8 +496,8 @@
       "published_at": "2026-07-31T16:52:47Z",
       "tags": [
         "llm",
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29617v1",
@@ -514,8 +513,8 @@
       "url": "http://arxiv.org/abs/2607.29614v1",
       "published_at": "2026-07-31T16:50:51Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29614v1",
@@ -531,10 +530,10 @@
       "url": "http://arxiv.org/abs/2607.29602v1",
       "published_at": "2026-07-31T16:33:39Z",
       "tags": [
-        "llm",
         "vision",
-        "tool",
-        "paper"
+        "llm",
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29602v1",
@@ -550,8 +549,8 @@
       "url": "http://arxiv.org/abs/2607.29586v1",
       "published_at": "2026-07-31T16:09:44Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29586v1",
@@ -567,8 +566,8 @@
       "url": "http://arxiv.org/abs/2607.29577v1",
       "published_at": "2026-07-31T16:03:38Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29577v1",
@@ -585,8 +584,8 @@
       "published_at": "2026-07-31T15:52:07Z",
       "tags": [
         "llm",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29561v1",
@@ -602,8 +601,8 @@
       "url": "http://arxiv.org/abs/2607.29559v1",
       "published_at": "2026-07-31T15:50:29Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29559v1",
@@ -620,8 +619,8 @@
       "published_at": "2026-07-31T15:46:02Z",
       "tags": [
         "vision",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29553v1",
@@ -638,9 +637,9 @@
       "published_at": "2026-07-31T15:42:00Z",
       "tags": [
         "llm",
-        "agent",
+        "paper",
         "tool",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29549v1",
@@ -674,8 +673,8 @@
       "published_at": "2026-07-31T15:27:26Z",
       "tags": [
         "llm",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29527v1",
@@ -691,9 +690,9 @@
       "url": "http://arxiv.org/abs/2607.29516v1",
       "published_at": "2026-07-31T15:17:25Z",
       "tags": [
-        "agent",
+        "paper",
         "tool",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29516v1",
@@ -709,8 +708,8 @@
       "url": "http://arxiv.org/abs/2607.29491v1",
       "published_at": "2026-07-31T14:58:23Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29491v1",
@@ -726,9 +725,9 @@
       "url": "http://arxiv.org/abs/2607.29468v1",
       "published_at": "2026-07-31T14:32:52Z",
       "tags": [
-        "agent",
+        "paper",
         "tool",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29468v1",
@@ -745,8 +744,8 @@
       "published_at": "2026-07-31T14:24:26Z",
       "tags": [
         "llm",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2607.29459v1",
@@ -755,68 +754,36 @@
       "summary_zh": "Large-scale multivariate time series from heterogeneous IoT sensors demand accurate long-term forecasting for resource scheduling and predictive maintenance. While recent time series foundation models exhibit strong generalization, they rely on static parametric knowledge and lack dynamic access to external historical patterns during inference. Retrieval-Augmented Generation (RAG) offers a potential remedy, yet its application to time series forecasting is challenged by magnitude variations acro"
     },
     {
-      "title": "When transit passes were designed by hand (2022)",
-      "summary": "When transit passes were designed by hand (2022)",
+      "title": "Medieval Ideas About Food",
+      "summary": "Medieval Ideas About Food",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://letterformarchive.org/news/milwaukee-transit-passes/",
-      "published_at": "2026-07-31T13:38:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "116",
-      "item_id": "hn:49123003",
-      "summary_type": "extractive",
-      "title_zh": "When transit passes were designed by hand (2022)",
-      "summary_zh": "When transit passes were designed by hand (2022)"
-    },
-    {
-      "title": "A Playable History of Sudoku",
-      "summary": "A Playable History of Sudoku",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://doku.su/history-of-sudoku",
-      "published_at": "2026-07-29T14:14:10+00:00",
+      "url": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
+      "published_at": "2026-07-31T07:16:28+00:00",
       "tags": [
         "ai"
       ],
       "score": "6",
-      "item_id": "hn:49097836",
+      "item_id": "hn:49120003",
       "summary_type": "extractive",
-      "title_zh": "A Playable History of Sudoku",
-      "summary_zh": "A Playable History of Sudoku"
+      "title_zh": "Medieval Ideas About Food",
+      "summary_zh": "Medieval Ideas About Food"
     },
     {
-      "title": "Playing with Georgia",
-      "summary": "Playing with Georgia",
+      "title": "How do you rewrite C/C++ projects to Rust?",
+      "summary": "How do you rewrite C/C++ projects to Rust?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://mighil.com/playing-with-georgia",
-      "published_at": "2026-07-29T12:41:10+00:00",
+      "url": "https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/",
+      "published_at": "2026-07-29T01:12:09+00:00",
       "tags": [
         "ai"
       ],
       "score": "14",
-      "item_id": "hn:49096748",
+      "item_id": "hn:49092215",
       "summary_type": "extractive",
-      "title_zh": "Playing with Georgia",
-      "summary_zh": "Playing with Georgia"
-    },
-    {
-      "title": "Fasttracker II clone in C using SDL 2",
-      "summary": "Fasttracker II clone in C using SDL 2",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://16-bits.org/ft2.php",
-      "published_at": "2026-07-29T06:47:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "118",
-      "item_id": "hn:49094151",
-      "summary_type": "extractive",
-      "title_zh": "Fasttracker II clone in C using SDL 2",
-      "summary_zh": "Fasttracker II clone in C using SDL 2"
+      "title_zh": "How do you rewrite C/C++ projects to Rust?",
+      "summary_zh": "How do you rewrite C/C++ projects to Rust?"
     },
     {
       "title": "Note-Taking and Personal Knowledge Management",
@@ -828,11 +795,43 @@
       "tags": [
         "ai"
       ],
-      "score": "148",
+      "score": "202",
       "item_id": "hn:49084324",
       "summary_type": "extractive",
       "title_zh": "Note-Taking and Personal Knowledge Management",
       "summary_zh": "Note-Taking and Personal Knowledge Management"
+    },
+    {
+      "title": "Norway became a global salmon behemoth. Now it's facing the consequences",
+      "summary": "Norway became a global salmon behemoth. Now it's facing the consequences",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872",
+      "published_at": "2026-07-28T01:54:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "163",
+      "item_id": "hn:49078283",
+      "summary_type": "extractive",
+      "title_zh": "Norway became a global salmon behemoth. Now it's facing the consequences",
+      "summary_zh": "Norway became a global salmon behemoth. Now it's facing the consequences"
+    },
+    {
+      "title": "Convergence is not enough",
+      "summary": "Convergence is not enough",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-02/",
+      "published_at": "2026-07-27T23:23:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "32",
+      "item_id": "hn:49076945",
+      "summary_type": "extractive",
+      "title_zh": "Convergence is not enough",
+      "summary_zh": "Convergence is not enough"
     }
   ]
 }

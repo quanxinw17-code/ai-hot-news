@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-08-04T03:26:19.980540+00:00",
+  "updated_at": "2026-08-04T08:50:01.953762+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "CollectWise (YC F24) Is Hiring",
+      "summary": "CollectWise (YC F24) Is Hiring",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
+      "published_at": "2026-08-04T07:01:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "1",
+      "item_id": "hn:49165170",
+      "summary_type": "extractive",
+      "title_zh": "CollectWise (YC F24) Is Hiring",
+      "summary_zh": "CollectWise (YC F24) Is Hiring"
+    },
+    {
+      "title": "Harness Engineering for Self-Improvement",
+      "summary": "Harness Engineering for Self-Improvement",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "published_at": "2026-08-04T06:17:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "9",
+      "item_id": "hn:49164896",
+      "summary_type": "extractive",
+      "title_zh": "Harness Engineering for Self-Improvement",
+      "summary_zh": "Harness Engineering for Self-Improvement"
+    },
+    {
+      "title": "Apple is getting this wrong",
+      "summary": "Apple is getting this wrong",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+      "published_at": "2026-08-04T05:32:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "165",
+      "item_id": "hn:49164649",
+      "summary_type": "extractive",
+      "title_zh": "Apple is getting this wrong",
+      "summary_zh": "Apple is getting this wrong"
+    },
     {
       "title": "Why did we wait so long for the bicycle? (2019)",
       "summary": "Why did we wait so long for the bicycle? (2019)",
@@ -12,7 +60,7 @@
       "tags": [
         "ai"
       ],
-      "score": "6",
+      "score": "40",
       "item_id": "hn:49162787",
       "summary_type": "extractive",
       "title_zh": "Why did we wait so long for the bicycle? (2019)",
@@ -28,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "50",
+      "score": "148",
       "item_id": "hn:49162653",
       "summary_type": "extractive",
       "title_zh": "There Will Come Soft Rains (1950) [pdf]",
@@ -44,43 +92,11 @@
       "tags": [
         "ai"
       ],
-      "score": "25",
+      "score": "46",
       "item_id": "hn:49161801",
       "summary_type": "extractive",
       "title_zh": "ZX Spectrum System Tour: Text Mode",
       "summary_zh": "ZX Spectrum System Tour: Text Mode"
-    },
-    {
-      "title": "Ioskeley Mono",
-      "summary": "Ioskeley Mono",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/ahatem/IoskeleyMono",
-      "published_at": "2026-08-03T21:34:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:49161743",
-      "summary_type": "extractive",
-      "title_zh": "Ioskeley Mono",
-      "summary_zh": "Ioskeley Mono"
-    },
-    {
-      "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
-      "summary": "The Dunning-Kruger effect may just be a data artefact (2020)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
-      "published_at": "2026-08-03T19:39:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "131",
-      "item_id": "hn:49160437",
-      "summary_type": "extractive",
-      "title_zh": "The Dunning-Kruger effect may just be a data artefact (2020)",
-      "summary_zh": "The Dunning-Kruger effect may just be a data artefact (2020)"
     },
     {
       "title": "KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer",
@@ -92,27 +108,11 @@
       "tags": [
         "ai"
       ],
-      "score": "49",
+      "score": "69",
       "item_id": "hn:49159970",
       "summary_type": "extractive",
       "title_zh": "KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer",
       "summary_zh": "KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer"
-    },
-    {
-      "title": "ZX Spectrum System Tour: Sound",
-      "summary": "ZX Spectrum System Tour: Sound",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
-      "published_at": "2026-08-03T18:32:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "33",
-      "item_id": "hn:49159676",
-      "summary_type": "extractive",
-      "title_zh": "ZX Spectrum System Tour: Sound",
-      "summary_zh": "ZX Spectrum System Tour: Sound"
     },
     {
       "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
@@ -175,8 +175,8 @@
       "published_at": "2026-08-03T17:45:58Z",
       "tags": [
         "tool",
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.02569v1",
@@ -244,8 +244,8 @@
       "url": "http://arxiv.org/abs/2608.02519v1",
       "published_at": "2026-08-03T17:17:00Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.02519v1",
@@ -281,7 +281,7 @@
       "tags": [
         "ai"
       ],
-      "score": "161",
+      "score": "211",
       "item_id": "hn:49158581",
       "summary_type": "extractive",
       "title_zh": "Smaller, faster, safer: running Kimi and GLM at scale",
@@ -313,8 +313,8 @@
       "published_at": "2026-08-03T17:05:31Z",
       "tags": [
         "tool",
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.02505v1",
@@ -330,9 +330,9 @@
       "url": "http://arxiv.org/abs/2608.02502v1",
       "published_at": "2026-08-03T17:04:43Z",
       "tags": [
-        "vision",
+        "paper",
         "llm",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.02502v1",
@@ -368,7 +368,7 @@
       "tags": [
         "ai"
       ],
-      "score": "135",
+      "score": "159",
       "item_id": "hn:49158474",
       "summary_type": "extractive",
       "title_zh": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
@@ -382,8 +382,8 @@
       "url": "http://arxiv.org/abs/2608.02495v1",
       "published_at": "2026-08-03T17:01:19Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.02495v1",
@@ -419,7 +419,7 @@
       "tags": [
         "ai"
       ],
-      "score": "14",
+      "score": "160",
       "item_id": "hn:49158333",
       "summary_type": "extractive",
       "title_zh": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
@@ -433,9 +433,9 @@
       "url": "http://arxiv.org/abs/2608.02471v1",
       "published_at": "2026-08-03T16:38:47Z",
       "tags": [
-        "vision",
         "tool",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.02471v1",
@@ -453,9 +453,9 @@
       "tags": [
         "vision",
         "tool",
+        "paper",
         "llm",
-        "agent",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.02470v1",
@@ -473,8 +473,8 @@
       "tags": [
         "tool",
         "llm",
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.02464v1",
@@ -493,7 +493,7 @@
         "tool",
         "agent"
       ],
-      "score": "62",
+      "score": "70",
       "item_id": "hn:49157997",
       "summary_type": "extractive",
       "title_zh": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
@@ -524,8 +524,8 @@
       "url": "http://arxiv.org/abs/2608.02454v1",
       "published_at": "2026-08-03T16:30:26Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.02454v1",
@@ -543,27 +543,11 @@
       "tags": [
         "ai"
       ],
-      "score": "466",
+      "score": "532",
       "item_id": "hn:49157930",
       "summary_type": "extractive",
       "title_zh": "Ten advances in mathematics and theoretical computer science",
       "summary_zh": "Ten advances in mathematics and theoretical computer science"
-    },
-    {
-      "title": "What's the largest software project AI can complete on its own?",
-      "summary": "What's the largest software project AI can complete on its own?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://epoch.ai/MirrorCode",
-      "published_at": "2026-08-03T16:16:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "70",
-      "item_id": "hn:49157786",
-      "summary_type": "extractive",
-      "title_zh": "What's the largest software project AI can complete on its own?",
-      "summary_zh": "What's the largest software project AI can complete on its own?"
     },
     {
       "title": "Twenty Years of Pandoc",
@@ -575,7 +559,7 @@
       "tags": [
         "ai"
       ],
-      "score": "124",
+      "score": "239",
       "item_id": "hn:49156750",
       "summary_type": "extractive",
       "title_zh": "Twenty Years of Pandoc",
@@ -591,7 +575,7 @@
       "tags": [
         "ai"
       ],
-      "score": "123",
+      "score": "171",
       "item_id": "hn:49156683",
       "summary_type": "extractive",
       "title_zh": "Ask HN: Who is hiring? (August 2026)",
@@ -607,7 +591,7 @@
       "tags": [
         "ai"
       ],
-      "score": "70",
+      "score": "112",
       "item_id": "hn:49156682",
       "summary_type": "extractive",
       "title_zh": "Ask HN: Who wants to be hired? (August 2026)",
@@ -623,7 +607,7 @@
       "tags": [
         "ai"
       ],
-      "score": "282",
+      "score": "308",
       "item_id": "hn:49156011",
       "summary_type": "extractive",
       "title_zh": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
@@ -640,7 +624,7 @@
         "tool",
         "llm"
       ],
-      "score": "196",
+      "score": "218",
       "item_id": "hn:49154228",
       "summary_type": "extractive",
       "title_zh": "AirLLM 70B inference with single 4GB GPU",
@@ -656,7 +640,7 @@
       "tags": [
         "ai"
       ],
-      "score": "420",
+      "score": "519",
       "item_id": "hn:49151734",
       "summary_type": "extractive",
       "title_zh": "More German than many Germans",
@@ -679,22 +663,6 @@
       "summary_zh": "Qwen3.8-Max: A New Bar for Coding and Cowork"
     },
     {
-      "title": "Living in the Math World Means Threading the Needle",
-      "summary": "Living in the Math World Means Threading the Needle",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/",
-      "published_at": "2026-08-02T02:03:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "7",
-      "item_id": "hn:49140370",
-      "summary_type": "extractive",
-      "title_zh": "Living in the Math World Means Threading the Needle",
-      "summary_zh": "Living in the Math World Means Threading the Needle"
-    },
-    {
       "title": "200 Milliseconds",
       "summary": "200 Milliseconds",
       "full_text": "",
@@ -704,7 +672,7 @@
       "tags": [
         "ai"
       ],
-      "score": "208",
+      "score": "269",
       "item_id": "hn:49132992",
       "summary_type": "extractive",
       "title_zh": "200 Milliseconds",
@@ -720,11 +688,27 @@
       "tags": [
         "ai"
       ],
-      "score": "39",
+      "score": "50",
       "item_id": "hn:49131250",
       "summary_type": "extractive",
       "title_zh": "Battle of the Beams",
       "summary_zh": "Battle of the Beams"
+    },
+    {
+      "title": "IPC-7351B Electronic Component Zero Orientation [pdf] (2010)",
+      "summary": "IPC-7351B Electronic Component Zero Orientation [pdf] (2010)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf",
+      "published_at": "2026-07-31T17:54:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "12",
+      "item_id": "hn:49126468",
+      "summary_type": "extractive",
+      "title_zh": "IPC-7351B Electronic Component Zero Orientation [pdf] (2010)",
+      "summary_zh": "IPC-7351B Electronic Component Zero Orientation [pdf] (2010)"
     },
     {
       "title": "Decades-old fish sauce at abandoned factory in Canada finally being removed",
@@ -736,7 +720,7 @@
       "tags": [
         "ai"
       ],
-      "score": "206",
+      "score": "242",
       "item_id": "hn:49125168",
       "summary_type": "extractive",
       "title_zh": "Decades-old fish sauce at abandoned factory in Canada finally being removed",
@@ -752,27 +736,43 @@
       "tags": [
         "ai"
       ],
-      "score": "94",
+      "score": "106",
       "item_id": "hn:49124213",
       "summary_type": "extractive",
       "title_zh": "Massively Parallel Postgres Backups",
       "summary_zh": "Massively Parallel Postgres Backups"
     },
     {
-      "title": "Kelly Criterion Simulator",
-      "summary": "Kelly Criterion Simulator",
+      "title": "Beauty in my backyard",
+      "summary": "Beauty in my backyard",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://kellysimulator.com/",
-      "published_at": "2026-07-31T13:47:58+00:00",
+      "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
+      "published_at": "2026-07-31T06:25:48+00:00",
       "tags": [
         "ai"
       ],
-      "score": "60",
-      "item_id": "hn:49123105",
+      "score": "16",
+      "item_id": "hn:49119671",
       "summary_type": "extractive",
-      "title_zh": "Kelly Criterion Simulator",
-      "summary_zh": "Kelly Criterion Simulator"
+      "title_zh": "Beauty in my backyard",
+      "summary_zh": "Beauty in my backyard"
+    },
+    {
+      "title": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
+      "summary": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx",
+      "published_at": "2026-07-31T04:57:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "8",
+      "item_id": "hn:49119166",
+      "summary_type": "extractive",
+      "title_zh": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
+      "summary_zh": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle"
     },
     {
       "title": "Replacing the Kobo Libra H2O Battery",
@@ -784,7 +784,7 @@
       "tags": [
         "ai"
       ],
-      "score": "52",
+      "score": "72",
       "item_id": "hn:49106935",
       "summary_type": "extractive",
       "title_zh": "Replacing the Kobo Libra H2O Battery",
@@ -800,7 +800,7 @@
       "tags": [
         "ai"
       ],
-      "score": "57",
+      "score": "139",
       "item_id": "hn:49099336",
       "summary_type": "extractive",
       "title_zh": "Amazonian civilization had estimated 3M people in 3% of forest area",
@@ -816,7 +816,7 @@
       "tags": [
         "ai"
       ],
-      "score": "8",
+      "score": "47",
       "item_id": "hn:49095386",
       "summary_type": "extractive",
       "title_zh": "That time when I failed the Microsoft interview",
@@ -832,7 +832,7 @@
       "tags": [
         "ai"
       ],
-      "score": "176",
+      "score": "193",
       "item_id": "hn:49082937",
       "summary_type": "extractive",
       "title_zh": "How Hollywood stopped making movies in Hollywood",

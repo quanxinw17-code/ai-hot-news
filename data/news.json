@@ -1,70 +1,296 @@
 {
-  "updated_at": "2026-08-06T14:29:04.672928+00:00",
+  "updated_at": "2026-08-07T00:09:28.500355+00:00",
   "count": 50,
   "items": [
     {
-      "title": "I added a real-time chat to my blog, people used it to attack me",
-      "summary": "I added a real-time chat to my blog, people used it to attack me",
+      "title": "US agency ends 39% household cap on local TV station owners",
+      "summary": "US agency ends 39% household cap on local TV station owners",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/",
-      "published_at": "2026-08-06T13:53:16+00:00",
+      "url": "https://www.reuters.com/business/media-telecom/us-agency-votes-end-39-local-tv-station-ownership-cap-2026-08-06/",
+      "published_at": "2026-08-06T23:28:53+00:00",
       "tags": [
         "ai"
       ],
-      "score": "24",
-      "item_id": "hn:49196745",
+      "score": "7",
+      "item_id": "hn:49204042",
       "summary_type": "extractive",
-      "title_zh": "I added a real-time chat to my blog, people used it to attack me",
-      "summary_zh": "I added a real-time chat to my blog, people used it to attack me"
+      "title_zh": "US agency ends 39% household cap on local TV station owners",
+      "summary_zh": "US agency ends 39% household cap on local TV station owners"
     },
     {
-      "title": "US beef prices have soared but farmers aren't making more money",
-      "summary": "US beef prices have soared but farmers aren't making more money",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "summary": "Welcoming the Nepalese Government to Have I Been Pwned",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.bbc.com/news/articles/cdrv0k0j662o",
-      "published_at": "2026-08-06T13:38:22+00:00",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "published_at": "2026-08-06T21:52:16+00:00",
       "tags": [
         "ai"
       ],
-      "score": "15",
-      "item_id": "hn:49196510",
+      "score": "54",
+      "item_id": "hn:49203105",
       "summary_type": "extractive",
-      "title_zh": "US beef prices have soared but farmers aren't making more money",
-      "summary_zh": "US beef prices have soared but farmers aren't making more money"
+      "title_zh": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "summary_zh": "Welcoming the Nepalese Government to Have I Been Pwned"
     },
     {
-      "title": "Telephones Caught in Between",
-      "summary": "Telephones Caught in Between",
+      "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+      "summary": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance&#x27;s video hardware is reimplemented in software on the second core.",
+      "full_text": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance&#x27;s video hardware is reimplemented in software on the second core.",
+      "source": "hacker news",
+      "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
+      "published_at": "2026-08-06T21:49:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "34",
+      "item_id": "hn:49203059",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+      "summary_zh": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance&#x27;s video hardware is reimplemented in software on the second core."
+    },
+    {
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "summary": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://computer.rip/2026-08-02-telephone-leasing.html",
-      "published_at": "2026-08-06T12:36:50+00:00",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "published_at": "2026-08-06T21:30:21+00:00",
       "tags": [
-        "ai"
+        "llm",
+        "tool"
       ],
-      "score": "9",
-      "item_id": "hn:49195819",
+      "score": "41",
+      "item_id": "hn:49202852",
       "summary_type": "extractive",
-      "title_zh": "Telephones Caught in Between",
-      "summary_zh": "Telephones Caught in Between"
+      "title_zh": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "summary_zh": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)"
     },
     {
-      "title": "Show HN: demake – one source project compiles to any retro game console ROM",
-      "summary": "This started life as a graphics tool for a specific problem: gen AI can make retro-styled sprites but can&#x27;t follow exact hardware constraints of pixels and colors.While building this I liked the idea that I can fan-out to any retro videogame console or handheld&#x27;s specifications.I then devised my own declarative language - Demotic - to express the game you want to build as concisely and naturally as possible without implementation detail. To work on different machines, you use relative ",
-      "full_text": "This started life as a graphics tool for a specific problem: gen AI can make retro-styled sprites but can&#x27;t follow exact hardware constraints of pixels and colors.While building this I liked the idea that I can fan-out to any retro videogame console or handheld&#x27;s specifications.I then devised my own declarative language - Demotic - to express the game you want to build as concisely and naturally as possible without implementation detail. To work on different machines, you use relative ",
+      "title": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
+      "summary": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
+      "full_text": "",
       "source": "hacker news",
-      "url": "https://geosona.com/demake/",
-      "published_at": "2026-08-06T11:28:00+00:00",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "published_at": "2026-08-06T21:18:32+00:00",
       "tags": [
         "ai"
       ],
-      "score": "18",
-      "item_id": "hn:49195251",
+      "score": "36",
+      "item_id": "hn:49202716",
       "summary_type": "extractive",
-      "title_zh": "Show HN: demake – one source project compiles to any retro game console ROM",
-      "summary_zh": "This started life as a graphics tool for a specific problem: gen AI can make retro-styled sprites but can&#x27;t follow exact hardware constraints of pixels and colors.While building this I liked the idea that I can fan-out to any retro videogame console or handheld&#x27;s specifications.I then devised my own declarative language - Demotic - to express the game you want to build as concisely and naturally as possible without implementation detail. To work on different machines, you use relative "
+      "title_zh": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
+      "summary_zh": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers"
+    },
+    {
+      "title": "Quake – 30th Anniversary Update",
+      "summary": "Quake – 30th Anniversary Update",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+      "published_at": "2026-08-06T20:21:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "191",
+      "item_id": "hn:49201930",
+      "summary_type": "extractive",
+      "title_zh": "Quake – 30th Anniversary Update",
+      "summary_zh": "Quake – 30th Anniversary Update"
+    },
+    {
+      "title": "State-oriented consistency: Why we stopped looking for one right answer",
+      "summary": "State-oriented consistency: Why we stopped looking for one right answer",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://keel-iot.eu/blog/state-oriented-consistency.html",
+      "published_at": "2026-08-06T19:54:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "7",
+      "item_id": "hn:49201540",
+      "summary_type": "extractive",
+      "title_zh": "State-oriented consistency: Why we stopped looking for one right answer",
+      "summary_zh": "State-oriented consistency: Why we stopped looking for one right answer"
+    },
+    {
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "summary": "Herdr is joining Y Combinator. The runtime stays open",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "published_at": "2026-08-06T19:14:21+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "124",
+      "item_id": "hn:49201003",
+      "summary_type": "extractive",
+      "title_zh": "Herdr is joining Y Combinator. The runtime stays open",
+      "summary_zh": "Herdr is joining Y Combinator. The runtime stays open"
+    },
+    {
+      "title": "Can you reverse engineer an ASIC?",
+      "summary": "Can you reverse engineer an ASIC?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
+      "published_at": "2026-08-06T19:07:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "52",
+      "item_id": "hn:49200933",
+      "summary_type": "extractive",
+      "title_zh": "Can you reverse engineer an ASIC?",
+      "summary_zh": "Can you reverse engineer an ASIC?"
+    },
+    {
+      "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+      "summary": "My phone detects going on a run as “someone snatching my phone and running off”",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+      "published_at": "2026-08-06T18:26:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "76",
+      "item_id": "hn:49200439",
+      "summary_type": "extractive",
+      "title_zh": "My phone detects going on a run as “someone snatching my phone and running off”",
+      "summary_zh": "My phone detects going on a run as “someone snatching my phone and running off”"
+    },
+    {
+      "title": "Federal Communications Commission scraps limit on broadcast TV ownership",
+      "summary": "Federal Communications Commission scraps limit on broadcast TV ownership",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641",
+      "published_at": "2026-08-06T18:22:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "124",
+      "item_id": "hn:49200390",
+      "summary_type": "extractive",
+      "title_zh": "Federal Communications Commission scraps limit on broadcast TV ownership",
+      "summary_zh": "Federal Communications Commission scraps limit on broadcast TV ownership"
+    },
+    {
+      "title": "Taste Is All That's Left",
+      "summary": "Taste Is All That's Left",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "published_at": "2026-08-06T17:01:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "166",
+      "item_id": "hn:49199346",
+      "summary_type": "extractive",
+      "title_zh": "Taste Is All That's Left",
+      "summary_zh": "Taste Is All That's Left"
+    },
+    {
+      "title": "Zapscape (CVE-2026-64561): Guest-to-Host Escape in KVM/x86",
+      "summary": "Zapscape (CVE-2026-64561): Guest-to-Host Escape in KVM/x86",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/V4bel/Zapscape",
+      "published_at": "2026-08-06T16:24:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "63",
+      "item_id": "hn:49198843",
+      "summary_type": "extractive",
+      "title_zh": "Zapscape (CVE-2026-64561): Guest-to-Host Escape in KVM/x86",
+      "summary_zh": "Zapscape (CVE-2026-64561): Guest-to-Host Escape in KVM/x86"
+    },
+    {
+      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+      "summary": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/CopilotKit/channels-sdk",
+      "published_at": "2026-08-06T16:05:51+00:00",
+      "tags": [
+        "agent",
+        "tool"
+      ],
+      "score": "82",
+      "item_id": "hn:49198583",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+      "summary_zh": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)"
+    },
+    {
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "summary": "Hey HN, we’re Will &amp; Johnny from ProvenMetal (https:&#x2F;&#x2F;provenmetal.com). You send us design files or specs and we give you assembled boards domestically in days.The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of global production.Now, the need for a domestic PCB supply chain is higher than ever before, yet the infrastructure has been dissolving over the last 2 decades.",
+      "full_text": "Hey HN, we’re Will &amp; Johnny from ProvenMetal (https:&#x2F;&#x2F;provenmetal.com). You send us design files or specs and we give you assembled boards domestically in days.The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of global production.Now, the need for a domestic PCB supply chain is higher than ever before, yet the infrastructure has been dissolving over the last 2 decades. What is left is mostly small f",
+      "source": "hacker news",
+      "url": "https://provenmetal.com",
+      "published_at": "2026-08-06T15:59:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "182",
+      "item_id": "hn:49198464",
+      "summary_type": "extractive",
+      "title_zh": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "summary_zh": "Hey HN, we’re Will &amp; Johnny from ProvenMetal (https:&#x2F;&#x2F;provenmetal.com). You send us design files or specs and we give you assembled boards domestically in days.The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of global production.Now, the need for a domestic PCB supply chain is higher than ever before, yet the infrastructure has been dissolving over the last 2 decades."
+    },
+    {
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "summary": "https:&#x2F;&#x2F;www.githubstatus.com&#x2F;uptime&#x2F;br0l2tvcx85d",
+      "full_text": "https:&#x2F;&#x2F;www.githubstatus.com&#x2F;uptime&#x2F;br0l2tvcx85d",
+      "source": "hacker news",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "published_at": "2026-08-06T15:49:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "303",
+      "item_id": "hn:49198302",
+      "summary_type": "extractive",
+      "title_zh": "GitHub Actions and Pages are experiencing degraded availability",
+      "summary_zh": "https:&#x2F;&#x2F;www.githubstatus.com&#x2F;uptime&#x2F;br0l2tvcx85d"
+    },
+    {
+      "title": "Almost no skill required to cook a steak",
+      "summary": "Almost no skill required to cook a steak",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "published_at": "2026-08-06T15:30:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "260",
+      "item_id": "hn:49198069",
+      "summary_type": "extractive",
+      "title_zh": "Almost no skill required to cook a steak",
+      "summary_zh": "Almost no skill required to cook a steak"
+    },
+    {
+      "title": "Four simple rules behind Japan's most liveable cities",
+      "summary": "Four simple rules behind Japan's most liveable cities",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bbc.com/travel/article/20260805-four-simple-rules-behind-japans-most-liveable-cities",
+      "published_at": "2026-08-06T13:08:21+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "78",
+      "item_id": "hn:49196174",
+      "summary_type": "extractive",
+      "title_zh": "Four simple rules behind Japan's most liveable cities",
+      "summary_zh": "Four simple rules behind Japan's most liveable cities"
     },
     {
       "title": "Mario Meets Pareto",
@@ -76,43 +302,11 @@
       "tags": [
         "ai"
       ],
-      "score": "246",
+      "score": "849",
       "item_id": "hn:49195231",
       "summary_type": "extractive",
       "title_zh": "Mario Meets Pareto",
       "summary_zh": "Mario Meets Pareto"
-    },
-    {
-      "title": "What I love about Django",
-      "summary": "What I love about Django",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://buttondown.com/blog/what-i-love-about-django",
-      "published_at": "2026-08-06T07:34:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "114",
-      "item_id": "hn:49193673",
-      "summary_type": "extractive",
-      "title_zh": "What I love about Django",
-      "summary_zh": "What I love about Django"
-    },
-    {
-      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
-      "summary": "On non-rooted Android 17, ADB uninstall of system apps fails",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
-      "published_at": "2026-08-06T06:24:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "152",
-      "item_id": "hn:49193173",
-      "summary_type": "extractive",
-      "title_zh": "On non-rooted Android 17, ADB uninstall of system apps fails",
-      "summary_zh": "On non-rooted Android 17, ADB uninstall of system apps fails"
     },
     {
       "title": "Crime Pays but Botany Doesn't",
@@ -124,107 +318,11 @@
       "tags": [
         "ai"
       ],
-      "score": "390",
+      "score": "645",
       "item_id": "hn:49192566",
       "summary_type": "extractive",
       "title_zh": "Crime Pays but Botany Doesn't",
       "summary_zh": "Crime Pays but Botany Doesn't"
-    },
-    {
-      "title": "Nashville uses eminent domain to block data center near zoo",
-      "summary": "Nashville uses eminent domain to block data center near zoo",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-      "published_at": "2026-08-06T02:15:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "291",
-      "item_id": "hn:49191624",
-      "summary_type": "extractive",
-      "title_zh": "Nashville uses eminent domain to block data center near zoo",
-      "summary_zh": "Nashville uses eminent domain to block data center near zoo"
-    },
-    {
-      "title": "The title cards in Blade Runner are amazing",
-      "summary": "The title cards in Blade Runner are amazing",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "published_at": "2026-08-05T21:29:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "337",
-      "item_id": "hn:49189287",
-      "summary_type": "extractive",
-      "title_zh": "The title cards in Blade Runner are amazing",
-      "summary_zh": "The title cards in Blade Runner are amazing"
-    },
-    {
-      "title": "I'm switching my phone from Android to Linux",
-      "summary": "I'm switching my phone from Android to Linux",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://runarcn.no/android-to-linux/",
-      "published_at": "2026-08-05T19:50:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "397",
-      "item_id": "hn:49188022",
-      "summary_type": "extractive",
-      "title_zh": "I'm switching my phone from Android to Linux",
-      "summary_zh": "I'm switching my phone from Android to Linux"
-    },
-    {
-      "title": "Muse Code and Muse Spark 1.2",
-      "summary": "Muse Code and Muse Spark 1.2",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "published_at": "2026-08-05T19:15:52+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "287",
-      "item_id": "hn:49187575",
-      "summary_type": "extractive",
-      "title_zh": "Muse Code and Muse Spark 1.2",
-      "summary_zh": "Muse Code and Muse Spark 1.2"
-    },
-    {
-      "title": "Zed DeltaDB",
-      "summary": "Zed DeltaDB",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://zed.dev/deltadb",
-      "published_at": "2026-08-05T18:52:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "475",
-      "item_id": "hn:49187256",
-      "summary_type": "extractive",
-      "title_zh": "Zed DeltaDB",
-      "summary_zh": "Zed DeltaDB"
-    },
-    {
-      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "summary": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arxiv.org/abs/2510.01395",
-      "published_at": "2026-08-05T18:17:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "151",
-      "item_id": "hn:49186720",
-      "summary_type": "extractive",
-      "title_zh": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "summary_zh": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)"
     },
     {
       "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
@@ -234,8 +332,8 @@
       "url": "http://arxiv.org/abs/2608.05144v1",
       "published_at": "2026-08-05T17:58:58Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.05144v1",
@@ -251,8 +349,8 @@
       "url": "http://arxiv.org/abs/2608.05141v1",
       "published_at": "2026-08-05T17:58:15Z",
       "tags": [
-        "paper",
         "agent",
+        "paper",
         "llm"
       ],
       "score": "📄",
@@ -269,10 +367,10 @@
       "url": "http://arxiv.org/abs/2608.05138v1",
       "published_at": "2026-08-05T17:56:40Z",
       "tags": [
-        "vision",
         "paper",
-        "tool",
-        "llm"
+        "llm",
+        "vision",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.05138v1",
@@ -288,9 +386,9 @@
       "url": "http://arxiv.org/abs/2608.05131v1",
       "published_at": "2026-08-05T17:53:06Z",
       "tags": [
-        "vision",
         "paper",
-        "llm"
+        "llm",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.05131v1",
@@ -324,8 +422,8 @@
       "published_at": "2026-08-05T17:50:08Z",
       "tags": [
         "paper",
-        "tool",
-        "llm"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.05124v1",
@@ -341,9 +439,9 @@
       "url": "http://arxiv.org/abs/2608.05115v1",
       "published_at": "2026-08-05T17:46:28Z",
       "tags": [
-        "vision",
         "paper",
-        "tool"
+        "tool",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.05115v1",
@@ -376,8 +474,8 @@
       "url": "http://arxiv.org/abs/2608.05107v1",
       "published_at": "2026-08-05T17:43:51Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.05107v1",
@@ -411,10 +509,10 @@
       "url": "http://arxiv.org/abs/2608.05095v1",
       "published_at": "2026-08-05T17:32:43Z",
       "tags": [
-        "vision",
         "agent",
         "paper",
-        "llm"
+        "llm",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.05095v1",
@@ -431,8 +529,8 @@
       "published_at": "2026-08-05T17:25:27Z",
       "tags": [
         "paper",
-        "tool",
-        "llm"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.05086v1",
@@ -448,8 +546,8 @@
       "url": "http://arxiv.org/abs/2608.05085v1",
       "published_at": "2026-08-05T17:25:17Z",
       "tags": [
-        "paper",
         "agent",
+        "paper",
         "tool"
       ],
       "score": "📄",
@@ -457,22 +555,6 @@
       "summary_type": "extractive",
       "title_zh": "Capability-Gated Planning: Cost-to-Goal Discovery and the Limits of Myopic Experiment Selection",
       "summary_zh": "Systems that automate scientific discovery must repeatedly decide which experiment to run, which hypothesis to test, which tool to build, and when to stop. Many systems make these decisions by maximizing a myopic score such as expected information gain per unit cost or a learned plausibility score. We identify a structural limitation of this approach."
-    },
-    {
-      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "summary": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "published_at": "2026-08-05T17:23:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "264",
-      "item_id": "hn:49185983",
-      "summary_type": "extractive",
-      "title_zh": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "summary_zh": "Atlassian Rovo Exfiltrates Data, Bypassing Controls"
     },
     {
       "title": "MultiPathFormer: Towards a Foundation Model for Multipath Wireless Propagation",
@@ -499,8 +581,8 @@
       "url": "http://arxiv.org/abs/2608.05069v1",
       "published_at": "2026-08-05T17:12:39Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.05069v1",
@@ -517,8 +599,8 @@
       "published_at": "2026-08-05T17:11:04Z",
       "tags": [
         "paper",
-        "tool",
-        "llm"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.05064v1",
@@ -552,8 +634,8 @@
       "published_at": "2026-08-05T17:08:31Z",
       "tags": [
         "paper",
-        "tool",
-        "llm"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.05060v1",
@@ -596,85 +678,36 @@
       "summary_zh": "Against the backdrop of violence in police interactions with the U.S. public, we explore how deferentially police officers speak to virtual characters depicted as Black adult males in vir- tual reality (VR) simulations. We evaluate the effect of seeing and communicating with these characters through a causal in- ference lens, where the assignment of the Black man character to a police officer and simulation is the treatment variable."
     },
     {
-      "title": "Celld: Self-hosted, distributed Durable Objects",
-      "summary": "Celld: Self-hosted, distributed Durable Objects",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/denoland/celld",
-      "published_at": "2026-08-05T16:50:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "246",
-      "item_id": "hn:49185430",
-      "summary_type": "extractive",
-      "title_zh": "Celld: Self-hosted, distributed Durable Objects",
-      "summary_zh": "Celld: Self-hosted, distributed Durable Objects"
-    },
-    {
-      "title": "Discovery Loop",
-      "summary": "Discovery Loop",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.discoveryloop.com/",
-      "published_at": "2026-08-05T16:19:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "816",
-      "item_id": "hn:49184960",
-      "summary_type": "extractive",
-      "title_zh": "Discovery Loop",
-      "summary_zh": "Discovery Loop"
-    },
-    {
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "summary": "https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassa...https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leaders...https:&#x2F;&#x2F;www.discoveryloop.com&#x2F;, https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49184960https:&#x2F;&#x2F;twitter.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724, https:&#x2F;&#x2F;xcancel.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724",
-      "full_text": "https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassa...https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leaders...https:&#x2F;&#x2F;www.discoveryloop.com&#x2F;, https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49184960https:&#x2F;&#x2F;twitter.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724, https:&#x2F;&#x2F;xcancel.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724",
-      "source": "hacker news",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "published_at": "2026-08-05T16:05:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "739",
-      "item_id": "hn:49184755",
-      "summary_type": "extractive",
-      "title_zh": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "summary_zh": "https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassa...https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leaders...https:&#x2F;&#x2F;www.discoveryloop.com&#x2F;, https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49184960https:&#x2F;&#x2F;twitter.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724, https:&#x2F;&#x2F;xcancel.com&#x2F;JeffDean&#x2F;status&#x2F;2085034604172603724"
-    },
-    {
-      "title": "Tiny Black Holes May Be Exploding Stars Across the Milky Way",
-      "summary": "Tiny Black Holes May Be Exploding Stars Across the Milky Way",
-      "full_text": "",
+      "title": "Tiny black holes may be exploding stars across the Milky Way",
+      "summary": "https:&#x2F;&#x2F;iopscience.iop.org&#x2F;article&#x2F;10.3847&#x2F;1538-4357&#x2F;ae6db7",
+      "full_text": "https:&#x2F;&#x2F;iopscience.iop.org&#x2F;article&#x2F;10.3847&#x2F;1538-4357&#x2F;ae6db7",
       "source": "hacker news",
       "url": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
       "published_at": "2026-08-05T15:57:54+00:00",
       "tags": [
         "ai"
       ],
-      "score": "12",
+      "score": "70",
       "item_id": "hn:49184656",
       "summary_type": "extractive",
-      "title_zh": "Tiny Black Holes May Be Exploding Stars Across the Milky Way",
-      "summary_zh": "Tiny Black Holes May Be Exploding Stars Across the Milky Way"
+      "title_zh": "Tiny black holes may be exploding stars across the Milky Way",
+      "summary_zh": "https:&#x2F;&#x2F;iopscience.iop.org&#x2F;article&#x2F;10.3847&#x2F;1538-4357&#x2F;ae6db7"
     },
     {
-      "title": "Cloudflare OS: an open platform for agents, apps, and work",
-      "summary": "Cloudflare OS: an open platform for agents, apps, and work",
-      "full_text": "",
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "summary": "https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o, https:&#x2F;&#x2F;archive.is&#x2F;YDn6S",
+      "full_text": "https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o, https:&#x2F;&#x2F;archive.is&#x2F;YDn6S",
       "source": "hacker news",
-      "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "published_at": "2026-08-05T13:58:53+00:00",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "published_at": "2026-08-05T15:33:23+00:00",
       "tags": [
-        "agent",
-        "tool"
+        "ai"
       ],
-      "score": "602",
-      "item_id": "hn:49182996",
+      "score": "117",
+      "item_id": "hn:49184355",
       "summary_type": "extractive",
-      "title_zh": "Cloudflare OS: an open platform for agents, apps, and work",
-      "summary_zh": "Cloudflare OS: an open platform for agents, apps, and work"
+      "title_zh": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "summary_zh": "https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o, https:&#x2F;&#x2F;archive.is&#x2F;YDn6S"
     },
     {
       "title": "How to Make a Nintendo 64 Game in 2026",
@@ -686,75 +719,43 @@
       "tags": [
         "ai"
       ],
-      "score": "275",
+      "score": "453",
       "item_id": "hn:49168622",
       "summary_type": "extractive",
       "title_zh": "How to Make a Nintendo 64 Game in 2026",
       "summary_zh": "How to Make a Nintendo 64 Game in 2026"
     },
     {
-      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
-      "summary": "Decimen Optical Transfer: fountain-coded QR file transfer",
+      "title": "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization",
+      "summary": "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "published_at": "2026-08-03T16:17:03+00:00",
+      "url": "https://arxiv.org/abs/2607.25373",
+      "published_at": "2026-08-03T21:22:01+00:00",
       "tags": [
         "ai"
       ],
-      "score": "42",
-      "item_id": "hn:49157792",
+      "score": "9",
+      "item_id": "hn:49161617",
       "summary_type": "extractive",
-      "title_zh": "Decimen Optical Transfer: fountain-coded QR file transfer",
-      "summary_zh": "Decimen Optical Transfer: fountain-coded QR file transfer"
+      "title_zh": "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization",
+      "summary_zh": "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization"
     },
     {
-      "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
-      "summary": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "summary": "I stopped trusting USB-C cable labels and started testing them",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.greyblake.com/blog/branchless-rust/",
-      "published_at": "2026-08-03T06:37:05+00:00",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "published_at": "2026-08-03T07:12:57+00:00",
       "tags": [
         "ai"
       ],
-      "score": "239",
-      "item_id": "hn:49151991",
+      "score": "45",
+      "item_id": "hn:49152255",
       "summary_type": "extractive",
-      "title_zh": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
-      "summary_zh": "Branchless Rust: Making a Filter 4x Faster by Removing an If"
-    },
-    {
-      "title": "GNU Hurd News 2026-Q2",
-      "summary": "GNU Hurd News 2026-Q2",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-      "published_at": "2026-08-02T16:57:32+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "202",
-      "item_id": "hn:49146183",
-      "summary_type": "extractive",
-      "title_zh": "GNU Hurd News 2026-Q2",
-      "summary_zh": "GNU Hurd News 2026-Q2"
-    },
-    {
-      "title": "Morioka Shoten",
-      "summary": "Morioka Shoten",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
-      "published_at": "2026-07-31T23:14:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "34",
-      "item_id": "hn:49129551",
-      "summary_type": "extractive",
-      "title_zh": "Morioka Shoten",
-      "summary_zh": "Morioka Shoten"
+      "title_zh": "I stopped trusting USB-C cable labels and started testing them",
+      "summary_zh": "I stopped trusting USB-C cable labels and started testing them"
     },
     {
       "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer",
@@ -766,59 +767,59 @@
       "tags": [
         "ai"
       ],
-      "score": "65",
+      "score": "159",
       "item_id": "hn:49129008",
       "summary_type": "extractive",
       "title_zh": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer",
       "summary_zh": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer"
     },
     {
-      "title": "Join Me in Jamverse",
-      "summary": "Join Me in Jamverse",
+      "title": "The Sylvester–Gallai Theorem",
+      "summary": "The Sylvester–Gallai Theorem",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://contraptions.venkateshrao.com/p/join-me-in-jamverse",
-      "published_at": "2026-07-31T12:20:26+00:00",
+      "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
+      "published_at": "2026-07-31T14:00:34+00:00",
       "tags": [
         "ai"
       ],
-      "score": "16",
-      "item_id": "hn:49122190",
+      "score": "4",
+      "item_id": "hn:49123247",
       "summary_type": "extractive",
-      "title_zh": "Join Me in Jamverse",
-      "summary_zh": "Join Me in Jamverse"
+      "title_zh": "The Sylvester–Gallai Theorem",
+      "summary_zh": "The Sylvester–Gallai Theorem"
     },
     {
-      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
-      "summary": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+      "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
+      "summary": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
-      "published_at": "2026-07-30T20:09:43+00:00",
+      "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+      "published_at": "2026-07-31T07:37:13+00:00",
       "tags": [
         "ai"
       ],
-      "score": "145",
-      "item_id": "hn:49115096",
+      "score": "101",
+      "item_id": "hn:49120149",
       "summary_type": "extractive",
-      "title_zh": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
-      "summary_zh": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast"
+      "title_zh": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
+      "summary_zh": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation"
     },
     {
-      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
-      "summary": "Quantego: A Family of Lego Models of IBM Quantum Computers",
+      "title": "Building Progressively Enhanced Forms Using htmx",
+      "summary": "Building Progressively Enhanced Forms Using htmx",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://quantego.org/",
-      "published_at": "2026-07-30T16:35:08+00:00",
+      "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+      "published_at": "2026-07-30T21:45:48+00:00",
       "tags": [
         "ai"
       ],
       "score": "52",
-      "item_id": "hn:49112348",
+      "item_id": "hn:49116252",
       "summary_type": "extractive",
-      "title_zh": "Quantego: A Family of Lego Models of IBM Quantum Computers",
-      "summary_zh": "Quantego: A Family of Lego Models of IBM Quantum Computers"
+      "title_zh": "Building Progressively Enhanced Forms Using htmx",
+      "summary_zh": "Building Progressively Enhanced Forms Using htmx"
     },
     {
       "title": "Pareto Front",
@@ -830,7 +831,7 @@
       "tags": [
         "ai"
       ],
-      "score": "106",
+      "score": "214",
       "item_id": "hn:49096439",
       "summary_type": "extractive",
       "title_zh": "Pareto Front",

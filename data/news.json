@@ -1,22 +1,172 @@
 {
-  "updated_at": "2026-08-11T19:12:23.433996+00:00",
+  "updated_at": "2026-08-12T02:32:44.137715+00:00",
   "count": 50,
   "items": [
     {
-      "title": "The Tradeoffs Facing Japan's Economy",
-      "summary": "The Tradeoffs Facing Japan's Economy",
+      "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "summary": "New Bedford police officer accused of using Flock cameras to track ex-partner",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
-      "published_at": "2026-08-11T18:47:54+00:00",
+      "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+      "published_at": "2026-08-12T01:42:46+00:00",
       "tags": [
         "ai"
       ],
-      "score": "12",
-      "item_id": "hn:49262761",
+      "score": "17",
+      "item_id": "hn:49266899",
       "summary_type": "extractive",
-      "title_zh": "The Tradeoffs Facing Japan's Economy",
-      "summary_zh": "The Tradeoffs Facing Japan's Economy"
+      "title_zh": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "summary_zh": "New Bedford police officer accused of using Flock cameras to track ex-partner"
+    },
+    {
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "summary": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "published_at": "2026-08-12T00:58:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "20",
+      "item_id": "hn:49266560",
+      "summary_type": "extractive",
+      "title_zh": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "summary_zh": "DEF CON crowd suspected in fake-hotspot attack on Delta flight"
+    },
+    {
+      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "summary": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+      "published_at": "2026-08-11T21:54:25+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "36",
+      "item_id": "hn:49265031",
+      "summary_type": "extractive",
+      "title_zh": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "summary_zh": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries"
+    },
+    {
+      "title": "Compression is prediction",
+      "summary": "Compression is prediction",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "published_at": "2026-08-11T19:49:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "271",
+      "item_id": "hn:49263497",
+      "summary_type": "extractive",
+      "title_zh": "Compression is prediction",
+      "summary_zh": "Compression is prediction"
+    },
+    {
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "summary": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "published_at": "2026-08-11T19:35:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "187",
+      "item_id": "hn:49263340",
+      "summary_type": "extractive",
+      "title_zh": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "summary_zh": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard"
+    },
+    {
+      "title": "Making holograms with a pen plotter",
+      "summary": "Making holograms with a pen plotter",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "published_at": "2026-08-11T18:51:35+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "122",
+      "item_id": "hn:49262811",
+      "summary_type": "extractive",
+      "title_zh": "Making holograms with a pen plotter",
+      "summary_zh": "Making holograms with a pen plotter"
+    },
+    {
+      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+      "summary": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical tasks demand precise contact handling, long-horizon reasoning, and bimanual coordination. Endoscopic video is comparatively inexpensive and abundant relative to synchronized video--kinematics trajectories, and a natural way to exploit it is to learn world models o",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11204v1",
+      "published_at": "2026-08-11T17:59:13Z",
+      "tags": [
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11204v1",
+      "summary_type": "extractive",
+      "title_zh": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+      "summary_zh": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical tasks demand precise contact handling, long-horizon reasoning, and bimanual coordination. Endoscopic video is comparatively inexpensive and abundant relative to synchronized video--kinematics trajectories, and a natural way to exploit it is to learn world models o"
+    },
+    {
+      "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+      "summary": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviours such as surveillance, isolation, stalking, and physical violence may be planned, disclosed, or referred to conversationally. Privacy and legal constraints make it difficult the release of large-scale real conversation d",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11200v1",
+      "published_at": "2026-08-11T17:57:34Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11200v1",
+      "summary_type": "extractive",
+      "title_zh": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+      "summary_zh": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats and coercion can appear directly in messages, while behaviours such as surveillance, isolation, stalking, and physical violence may be planned, disclosed, or referred to conversationally. Privacy and legal constraints make it difficult the release of large-scale real conversation d"
+    },
+    {
+      "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+      "summary": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck constant $K_G$, which captures the hardness between combinatorial problems and their continuous relaxations. Specifically, while the precise value of $K_G$ is not known, we recently tightened the best known bounds to \\[\n  \\frac{6π}{11}\n  \\;\\le\\;\n  K_G\n  \\;\\le\\;\n  \\fracπ{2\\log(1+\\sqrt",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11195v1",
+      "published_at": "2026-08-11T17:53:48Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11195v1",
+      "summary_type": "extractive",
+      "title_zh": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+      "summary_zh": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck constant $K_G$, which captures the hardness between combinatorial problems and their continuous relaxations. Specifically, while the precise value of $K_G$ is not known, we recently tightened the best known bounds to \\[\n  \\frac{6π}{11}\n  \\;\\le\\;\n  K_G\n  \\;\\le\\;\n  \\fracπ{2\\log(1+\\sqrt"
+    },
+    {
+      "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+      "summary": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attempt to adapt models via test-time reinforcement learning, they cannot reflect upon failed exploration.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11191v1",
+      "published_at": "2026-08-11T17:50:25Z",
+      "tags": [
+        "agent",
+        "tool",
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11191v1",
+      "summary_type": "extractive",
+      "title_zh": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+      "summary_zh": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attempt to adapt models via test-time reinforcement learning, they cannot reflect upon failed exploration."
     },
     {
       "title": "OpenSSH 10.5/10.5p1",
@@ -28,15 +178,66 @@
       "tags": [
         "ai"
       ],
-      "score": "35",
+      "score": "103",
       "item_id": "hn:49261895",
       "summary_type": "extractive",
       "title_zh": "OpenSSH 10.5/10.5p1",
       "summary_zh": "OpenSSH 10.5/10.5p1"
     },
     {
-      "title": "CSS Properties You Should Know for Better Text Designs",
-      "summary": "CSS Properties You Should Know for Better Text Designs",
+      "title": "How to Verify Consistency of Probabilistic Claims",
+      "summary": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, where safety is derived from honesty about probabilistic predictions of unwanted outcomes potentially caused by an AI action. We construct an interactive PCP as follows.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11181v1",
+      "published_at": "2026-08-11T17:41:39Z",
+      "tags": [
+        "paper",
+        "ai"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11181v1",
+      "summary_type": "extractive",
+      "title_zh": "How to Verify Consistency of Probabilistic Claims",
+      "summary_zh": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, where safety is derived from honesty about probabilistic predictions of unwanted outcomes potentially caused by an AI action. We construct an interactive PCP as follows."
+    },
+    {
+      "title": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+      "summary": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a field-wide transition from post-hoc interpretability of static models to mechanistic understanding and proactive control of generative systems. We synthesize insights from all 144 proceedings papers, classifying them along six trust dimensions grounded in established frameworks (TrustLLM, DecodingTrust). W",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11171v1",
+      "published_at": "2026-08-11T17:30:16Z",
+      "tags": [
+        "tool",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11171v1",
+      "summary_type": "extractive",
+      "title_zh": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+      "summary_zh": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a field-wide transition from post-hoc interpretability of static models to mechanistic understanding and proactive control of generative systems. We synthesize insights from all 144 proceedings papers, classifying them along six trust dimensions grounded in established frameworks (TrustLLM, DecodingTrust). W"
+    },
+    {
+      "title": "Grok Bot",
+      "summary": "Grok Bot",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://x.ai/bot",
+      "published_at": "2026-08-11T17:23:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "159",
+      "item_id": "hn:49261514",
+      "summary_type": "extractive",
+      "title_zh": "Grok Bot",
+      "summary_zh": "Grok Bot"
+    },
+    {
+      "title": "CSS properties you should know for better text designs",
+      "summary": "CSS properties you should know for better text designs",
       "full_text": "",
       "source": "hacker news",
       "url": "https://master.dev/blog/typographic-css-tricks/",
@@ -44,15 +245,67 @@
       "tags": [
         "ai"
       ],
-      "score": "4",
+      "score": "80",
       "item_id": "hn:49261417",
       "summary_type": "extractive",
-      "title_zh": "CSS Properties You Should Know for Better Text Designs",
-      "summary_zh": "CSS Properties You Should Know for Better Text Designs"
+      "title_zh": "CSS properties you should know for better text designs",
+      "summary_zh": "CSS properties you should know for better text designs"
     },
     {
-      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
-      "summary": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+      "title": "RSI Simulator",
+      "summary": "https:&#x2F;&#x2F;www.paradigm.xyz&#x2F;research&#x2F;rsi&#x2F;game",
+      "full_text": "https:&#x2F;&#x2F;www.paradigm.xyz&#x2F;research&#x2F;rsi&#x2F;game",
+      "source": "hacker news",
+      "url": "https://www.paradigm.xyz/writing/rsi-simulator",
+      "published_at": "2026-08-11T17:01:21+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:49261192",
+      "summary_type": "extractive",
+      "title_zh": "RSI Simulator",
+      "summary_zh": "https:&#x2F;&#x2F;www.paradigm.xyz&#x2F;research&#x2F;rsi&#x2F;game"
+    },
+    {
+      "title": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models",
+      "summary": "We propose that a model's uncertainty about a token is reflected not only in the breadth of its output distribution but also in whether a confident prediction is \\emph{fragile} under perturbation of its attention pathways. We instantiate this as ASMI (Attention-Subnetwork Mutual Information), a training-free estimator that masks attention heads and measures the BALD mutual information among the resulting subnetworks, with a semantic-agreement kernel to discount surface-form disagreement. The sig",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11138v1",
+      "published_at": "2026-08-11T16:59:02Z",
+      "tags": [
+        "tool",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11138v1",
+      "summary_type": "extractive",
+      "title_zh": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models",
+      "summary_zh": "We propose that a model's uncertainty about a token is reflected not only in the breadth of its output distribution but also in whether a confident prediction is \\emph{fragile} under perturbation of its attention pathways. We instantiate this as ASMI (Attention-Subnetwork Mutual Information), a training-free estimator that masks attention heads and measures the BALD mutual information among the resulting subnetworks, with a semantic-agreement kernel to discount surface-form disagreement. The sig"
+    },
+    {
+      "title": "sLTN: Structural Logic Tensor Networks",
+      "summary": "Logic Tensor Networks (LTN) provide a neurosymbolic framework in which first-order logic is interpreted through tensor operations, enabling logical constraints to be integrated with differentiable learning. However, the original formulation of LTN is primarily suited to data represented as flat collections of individuals, and does not explicitly capture structural organization such as temporal order, sequential position, or graph connectivity. We introduce sLTN, an extension of LTN that makes st",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11136v1",
+      "published_at": "2026-08-11T16:58:38Z",
+      "tags": [
+        "tool",
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11136v1",
+      "summary_type": "extractive",
+      "title_zh": "sLTN: Structural Logic Tensor Networks",
+      "summary_zh": "Logic Tensor Networks (LTN) provide a neurosymbolic framework in which first-order logic is interpreted through tensor operations, enabling logical constraints to be integrated with differentiable learning. However, the original formulation of LTN is primarily suited to data represented as flat collections of individuals, and does not explicitly capture structural organization such as temporal order, sequential position, or graph connectivity. We introduce sLTN, an extension of LTN that makes st"
+    },
+    {
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "summary": "Go is an ideal language for AI-assisted software engineering",
       "full_text": "",
       "source": "hacker news",
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
@@ -60,11 +313,11 @@
       "tags": [
         "ai"
       ],
-      "score": "124",
+      "score": "284",
       "item_id": "hn:49261133",
       "summary_type": "extractive",
-      "title_zh": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
-      "summary_zh": "Why Go Is an Ideal Language for AI-Assisted Software Engineering"
+      "title_zh": "Go is an ideal language for AI-assisted software engineering",
+      "summary_zh": "Go is an ideal language for AI-assisted software engineering"
     },
     {
       "title": "Mojo 1.0",
@@ -76,15 +329,187 @@
       "tags": [
         "ai"
       ],
-      "score": "56",
+      "score": "301",
       "item_id": "hn:49261128",
       "summary_type": "extractive",
       "title_zh": "Mojo 1.0",
       "summary_zh": "Mojo 1.0"
     },
     {
-      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
-      "summary": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+      "title": "Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting",
+      "summary": "Probabilistic forecasting plays an essential role in risk-sensitive decision-making, particularly in long-horizon settings. However, existing approaches often face a fundamental trade-off between distributional flexibility and accurate mean prediction. Traditional parametric methods, such as Mean Variance Estimation (MVE), can suffer from degraded point accuracy when trained under joint Negative Log-Likelihood (NLL) objectives, while modern-flexible generative models, including Normalizing Flows",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11114v1",
+      "published_at": "2026-08-11T16:22:47Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11114v1",
+      "summary_type": "extractive",
+      "title_zh": "Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting",
+      "summary_zh": "Probabilistic forecasting plays an essential role in risk-sensitive decision-making, particularly in long-horizon settings. However, existing approaches often face a fundamental trade-off between distributional flexibility and accurate mean prediction. Traditional parametric methods, such as Mean Variance Estimation (MVE), can suffer from degraded point accuracy when trained under joint Negative Log-Likelihood (NLL) objectives, while modern-flexible generative models, including Normalizing Flows"
+    },
+    {
+      "title": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding",
+      "summary": "Agentic coding READMEs like CLAUDE.md grow without bound in real repositories, stopping only when the repository retires or someone rewrites the file wholesale. We trace this to imperfect recall: appending an instruction is always cheap, but once an instruction's rationale is gone, deleting it without risking a correctness regression costs O(2^|D|) in a prompt of |D| instructions. We name the resulting divergence catastrophic remembering, the inverse of catastrophic forgetting around which conti",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11095v1",
+      "published_at": "2026-08-11T16:00:55Z",
+      "tags": [
+        "agent",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11095v1",
+      "summary_type": "extractive",
+      "title_zh": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding",
+      "summary_zh": "Agentic coding READMEs like CLAUDE.md grow without bound in real repositories, stopping only when the repository retires or someone rewrites the file wholesale. We trace this to imperfect recall: appending an instruction is always cheap, but once an instruction's rationale is gone, deleting it without risking a correctness regression costs O(2^|D|) in a prompt of |D| instructions. We name the resulting divergence catastrophic remembering, the inverse of catastrophic forgetting around which conti"
+    },
+    {
+      "title": "RTSKG: Building a Rail Transit Station Knowledge Graph Dataset",
+      "summary": "Rail transit systems play a vital role in urban mobility and economic development. As key components of such systems, rail transit stations function as critical transport hubs that enhance urban accessibility and stimulate development in surrounding areas. City-level rail transit station related tasks (e.g., ridership prediction) require large-scale urban data, but current studies often neglect complex interactions among various urban entities in terms of data organization.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11080v1",
+      "published_at": "2026-08-11T15:41:34Z",
+      "tags": [
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11080v1",
+      "summary_type": "extractive",
+      "title_zh": "RTSKG: Building a Rail Transit Station Knowledge Graph Dataset",
+      "summary_zh": "Rail transit systems play a vital role in urban mobility and economic development. As key components of such systems, rail transit stations function as critical transport hubs that enhance urban accessibility and stimulate development in surrounding areas. City-level rail transit station related tasks (e.g., ridership prediction) require large-scale urban data, but current studies often neglect complex interactions among various urban entities in terms of data organization."
+    },
+    {
+      "title": "SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure",
+      "summary": "Self-evolving agents accumulate reusable skills by appending successful procedures and failure fixes. Over time, the same requirement is often restated in several branches, examples, and warnings, while common action sequences are copied rather than reused. The resulting skill becomes expensive to inject and difficult to maintain.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11079v1",
+      "published_at": "2026-08-11T15:41:19Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11079v1",
+      "summary_type": "extractive",
+      "title_zh": "SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure",
+      "summary_zh": "Self-evolving agents accumulate reusable skills by appending successful procedures and failure fixes. Over time, the same requirement is often restated in several branches, examples, and warnings, while common action sequences are copied rather than reused. The resulting skill becomes expensive to inject and difficult to maintain."
+    },
+    {
+      "title": "Quantum Coordination Advantages in AI State-Tracking Tasks: Semantic Compilation and Latent Memory",
+      "summary": "We prove inference-time quantum coordination advantages for specified AI state-tracking tasks. A solver compresses semantic history into a future-accessible boundary state and later answers a query. We count communication $B$, persistent instance-dependent memory $M$, and local work $D$; classical recurrence, caches, tools, and recomputation are allowed and charged.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11066v1",
+      "published_at": "2026-08-11T15:32:15Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11066v1",
+      "summary_type": "extractive",
+      "title_zh": "Quantum Coordination Advantages in AI State-Tracking Tasks: Semantic Compilation and Latent Memory",
+      "summary_zh": "We prove inference-time quantum coordination advantages for specified AI state-tracking tasks. A solver compresses semantic history into a future-accessible boundary state and later answers a query. We count communication $B$, persistent instance-dependent memory $M$, and local work $D$; classical recurrence, caches, tools, and recomputation are allowed and charged."
+    },
+    {
+      "title": "Entropy-Centric Explainable AI for Remote Sensing Image Segmentation",
+      "summary": "Artificial intelligence (AI) has become a powerful approach to solving complex problems in critical domains. Many concerns arise regarding the decision-making process of its models, mainly due to deep neural networks outperforming their peers at the cost of ambiguity in feature extraction and prediction. Consequently, in critical domains such as remote sensing, where high-resolution imagery must be analyzed using black-box models, the lack of transparency limits trust in these models and, thus, ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11064v1",
+      "published_at": "2026-08-11T15:31:07Z",
+      "tags": [
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11064v1",
+      "summary_type": "extractive",
+      "title_zh": "Entropy-Centric Explainable AI for Remote Sensing Image Segmentation",
+      "summary_zh": "Artificial intelligence (AI) has become a powerful approach to solving complex problems in critical domains. Many concerns arise regarding the decision-making process of its models, mainly due to deep neural networks outperforming their peers at the cost of ambiguity in feature extraction and prediction. Consequently, in critical domains such as remote sensing, where high-resolution imagery must be analyzed using black-box models, the lack of transparency limits trust in these models and, thus, "
+    },
+    {
+      "title": "A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa",
+      "summary": "The application of computer vision in agriculture has shown significant potential for improving crop monitoring and precision farming. However, many existing approaches rely on controlled datasets that do not adequately represent realworld farming conditions, particularly in underrepresented regions such as Africa. This study presents a comparative evaluation of six object detection models YOLOv5, YOLOv8, YOLO11, YOLO26, Faster R-CNN, and RT-DETR using a real-world dataset, AgriAISeg 1 , collect",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11053v1",
+      "published_at": "2026-08-11T15:22:58Z",
+      "tags": [
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11053v1",
+      "summary_type": "extractive",
+      "title_zh": "A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa",
+      "summary_zh": "The application of computer vision in agriculture has shown significant potential for improving crop monitoring and precision farming. However, many existing approaches rely on controlled datasets that do not adequately represent realworld farming conditions, particularly in underrepresented regions such as Africa. This study presents a comparative evaluation of six object detection models YOLOv5, YOLOv8, YOLO11, YOLO26, Faster R-CNN, and RT-DETR using a real-world dataset, AgriAISeg 1 , collect"
+    },
+    {
+      "title": "3D Weighted Geometric Graph Neural Networks for Sheep Facial Pain Assessment",
+      "summary": "Deep learning systems perform mainly within the 2D for a single image domain and take the face as a single-dimension representation, losing sight of the 3D anatomy of sheep and cross-landmark spatial relationships that are intrinsic to the clinically proven Sheep Pain Facial Expression Scale (SPFES). This paper presents the \\textbf{3D Sheep Pain Facial Expression System (3D-SPFES)}, a novel, monocular depth-aware geometric graph neural network system that integrates each SPFES facial landmark, s",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11050v1",
+      "published_at": "2026-08-11T15:21:36Z",
+      "tags": [
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11050v1",
+      "summary_type": "extractive",
+      "title_zh": "3D Weighted Geometric Graph Neural Networks for Sheep Facial Pain Assessment",
+      "summary_zh": "Deep learning systems perform mainly within the 2D for a single image domain and take the face as a single-dimension representation, losing sight of the 3D anatomy of sheep and cross-landmark spatial relationships that are intrinsic to the clinically proven Sheep Pain Facial Expression Scale (SPFES). This paper presents the \\textbf{3D Sheep Pain Facial Expression System (3D-SPFES)}, a novel, monocular depth-aware geometric graph neural network system that integrates each SPFES facial landmark, s"
+    },
+    {
+      "title": "Multiclass Sentiment Analysis for Identifying Political Viewpoints",
+      "summary": "The rapid growth of social media has created vast amounts of political discourse, which provides valuable opportunities to analyze public opinions and identify different political perspectives. Sentiment Analysis (SA) is a core task in Natural Language Processing (NLP) that allows the computational study of attitudes and opinions in textual data, and has become increasingly important for understanding political discourse. In this work, we investigate multiclass sentiment analysis of political vi",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11049v1",
+      "published_at": "2026-08-11T15:21:23Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11049v1",
+      "summary_type": "extractive",
+      "title_zh": "Multiclass Sentiment Analysis for Identifying Political Viewpoints",
+      "summary_zh": "The rapid growth of social media has created vast amounts of political discourse, which provides valuable opportunities to analyze public opinions and identify different political perspectives. Sentiment Analysis (SA) is a core task in Natural Language Processing (NLP) that allows the computational study of attitudes and opinions in textual data, and has become increasingly important for understanding political discourse. In this work, we investigate multiclass sentiment analysis of political vi"
+    },
+    {
+      "title": "V-FiLLM: Verified Financial LLM Reasoning Benchmark",
+      "summary": "While existing benchmarks have made substantial progress in evaluating LLMs across STEM domains, financial reasoning over structured data remains comparatively less explored. We introduce V-FiLLM, a framework that generates financial reasoning benchmarks from executable computation trees grounded in real tables, yielding items whose answers are correct by construction. Trees are evaluated symbolically to obtain ground truth and rendered into natural-language questions, removing any model from th",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11047v1",
+      "published_at": "2026-08-11T15:18:47Z",
+      "tags": [
+        "tool",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11047v1",
+      "summary_type": "extractive",
+      "title_zh": "V-FiLLM: Verified Financial LLM Reasoning Benchmark",
+      "summary_zh": "While existing benchmarks have made substantial progress in evaluating LLMs across STEM domains, financial reasoning over structured data remains comparatively less explored. We introduce V-FiLLM, a framework that generates financial reasoning benchmarks from executable computation trees grounded in real tables, yielding items whose answers are correct by construction. Trees are evaluated symbolically to obtain ground truth and rendered into natural-language questions, removing any model from th"
+    },
+    {
+      "title": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
+      "summary": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
       "full_text": "",
       "source": "hacker news",
       "url": "https://github.com/TheRealYT/git-knife",
@@ -92,28 +517,44 @@
       "tags": [
         "ai"
       ],
-      "score": "78",
+      "score": "133",
       "item_id": "hn:49259611",
       "summary_type": "extractive",
-      "title_zh": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
-      "summary_zh": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet"
+      "title_zh": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
+      "summary_zh": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet"
     },
     {
-      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-      "summary": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "title": "Workflow Cards: Structured Summaries of Workflow Executions Using Provenance Data",
+      "summary": "Model Cards and Data Cards have demonstrated the value of structured, human-readable documentation for machine learning artifacts, capturing their context, parameters, limitations, and intended use. However, these practices remain focused on static artifacts (the datasets and trained models themselves) while overlooking the workflow executions that produce, transform, and evaluate them. Such executions hold critical details about data preparation, parameter choice, runtime behavior, resource use",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "published_at": "2026-08-11T14:50:33+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11022v1",
+      "published_at": "2026-08-11T15:02:11Z",
       "tags": [
-        "tool",
-        "llm"
+        "paper"
       ],
-      "score": "226",
-      "item_id": "hn:49259339",
+      "score": "📄",
+      "item_id": "arxiv:2608.11022v1",
       "summary_type": "extractive",
-      "title_zh": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-      "summary_zh": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp"
+      "title_zh": "Workflow Cards: Structured Summaries of Workflow Executions Using Provenance Data",
+      "summary_zh": "Model Cards and Data Cards have demonstrated the value of structured, human-readable documentation for machine learning artifacts, capturing their context, parameters, limitations, and intended use. However, these practices remain focused on static artifacts (the datasets and trained models themselves) while overlooking the workflow executions that produce, transform, and evaluate them. Such executions hold critical details about data preparation, parameter choice, runtime behavior, resource use"
+    },
+    {
+      "title": "R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video",
+      "summary": "Long-horizon egocentric video is a rich substrate for wearable AI assistants, but object-centric questions such as where an item was moved, when it last changed state, or why it was relocated remain difficult because caption- and transcript-based memories rarely preserve persistent object identity or structured spatial change. Existing long-video QA methods mainly emphasize temporal grounding and clip retrieval, while prior 3D scene-graph methods typically assume stronger geometry than free-moti",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.11017v1",
+      "published_at": "2026-08-11T15:00:15Z",
+      "tags": [
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.11017v1",
+      "summary_type": "extractive",
+      "title_zh": "R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video",
+      "summary_zh": "Long-horizon egocentric video is a rich substrate for wearable AI assistants, but object-centric questions such as where an item was moved, when it last changed state, or why it was relocated remain difficult because caption- and transcript-based memories rarely preserve persistent object identity or structured spatial change. Existing long-video QA methods mainly emphasize temporal grounding and clip retrieval, while prior 3D scene-graph methods typically assume stronger geometry than free-moti"
     },
     {
       "title": "Manus will return to operating as an independent company",
@@ -125,27 +566,27 @@
       "tags": [
         "ai"
       ],
-      "score": "91",
+      "score": "138",
       "item_id": "hn:49258764",
       "summary_type": "extractive",
       "title_zh": "Manus will return to operating as an independent company",
       "summary_zh": "Manus will return to operating as an independent company"
     },
     {
-      "title": "Nvidia Nemotron 3.5 Lightning",
-      "summary": "Nvidia Nemotron 3.5 Lightning",
+      "title": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",
+      "summary": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-      "published_at": "2026-08-11T13:26:02+00:00",
+      "url": "https://writemd.app/",
+      "published_at": "2026-08-11T13:30:39+00:00",
       "tags": [
         "ai"
       ],
-      "score": "105",
-      "item_id": "hn:49257947",
+      "score": "85",
+      "item_id": "hn:49258011",
       "summary_type": "extractive",
-      "title_zh": "Nvidia Nemotron 3.5 Lightning",
-      "summary_zh": "Nvidia Nemotron 3.5 Lightning"
+      "title_zh": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",
+      "summary_zh": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS"
     },
     {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
@@ -158,11 +599,27 @@
         "tool",
         "llm"
       ],
-      "score": "302",
+      "score": "508",
       "item_id": "hn:49257876",
       "summary_type": "extractive",
       "title_zh": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "summary_zh": "Stealing Reasoning Traces from Proprietary LLM APIs"
+    },
+    {
+      "title": "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
+      "summary": "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
+      "published_at": "2026-08-11T13:20:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "6",
+      "item_id": "hn:49257853",
+      "summary_type": "extractive",
+      "title_zh": "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
+      "summary_zh": "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle"
     },
     {
       "title": "England set to be one of the first countries to eliminate hepatitis C",
@@ -174,7 +631,7 @@
       "tags": [
         "ai"
       ],
-      "score": "418",
+      "score": "492",
       "item_id": "hn:49257377",
       "summary_type": "extractive",
       "title_zh": "England set to be one of the first countries to eliminate hepatitis C",
@@ -190,7 +647,7 @@
       "tags": [
         "ai"
       ],
-      "score": "111",
+      "score": "164",
       "item_id": "hn:49256057",
       "summary_type": "extractive",
       "title_zh": "What I learned by putting GitHub Copilot behind a MitM proxy",
@@ -206,91 +663,27 @@
       "tags": [
         "ai"
       ],
-      "score": "219",
+      "score": "298",
       "item_id": "hn:49255710",
       "summary_type": "extractive",
       "title_zh": "Nvidia's Risky Business",
       "summary_zh": "Nvidia's Risky Business"
     },
     {
-      "title": "France to ban unsolicited telemarketing calls",
-      "summary": "France to ban unsolicited telemarketing calls",
+      "title": "London Underground begins scanning passengers' faces",
+      "summary": "London Underground begins scanning passengers' faces",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "published_at": "2026-08-11T08:15:46+00:00",
+      "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
+      "published_at": "2026-08-11T09:40:02+00:00",
       "tags": [
         "ai"
       ],
-      "score": "947",
-      "item_id": "hn:49254880",
+      "score": "233",
+      "item_id": "hn:49255496",
       "summary_type": "extractive",
-      "title_zh": "France to ban unsolicited telemarketing calls",
-      "summary_zh": "France to ban unsolicited telemarketing calls"
-    },
-    {
-      "title": "Recycle – Floppydisks",
-      "summary": "Recycle – Floppydisks",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.floppydisk.com/recycle",
-      "published_at": "2026-08-11T02:01:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "108",
-      "item_id": "hn:49252462",
-      "summary_type": "extractive",
-      "title_zh": "Recycle – Floppydisks",
-      "summary_zh": "Recycle – Floppydisks"
-    },
-    {
-      "title": "Chicken Scheme 6.0",
-      "summary": "Chicken Scheme 6.0",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "published_at": "2026-08-11T00:24:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "281",
-      "item_id": "hn:49251702",
-      "summary_type": "extractive",
-      "title_zh": "Chicken Scheme 6.0",
-      "summary_zh": "Chicken Scheme 6.0"
-    },
-    {
-      "title": "The UK's war on anonymity has come to America",
-      "summary": "The UK's war on anonymity has come to America",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.effort.news/uk-lobby",
-      "published_at": "2026-08-10T23:45:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "626",
-      "item_id": "hn:49251411",
-      "summary_type": "extractive",
-      "title_zh": "The UK's war on anonymity has come to America",
-      "summary_zh": "The UK's war on anonymity has come to America"
-    },
-    {
-      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-      "summary": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://everycube.alen.is/",
-      "published_at": "2026-08-10T23:16:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "275",
-      "item_id": "hn:49251179",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-      "summary_zh": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states"
+      "title_zh": "London Underground begins scanning passengers' faces",
+      "summary_zh": "London Underground begins scanning passengers' faces"
     },
     {
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
@@ -302,414 +695,11 @@
       "tags": [
         "ai"
       ],
-      "score": "788",
+      "score": "872",
       "item_id": "hn:49250836",
       "summary_type": "extractive",
       "title_zh": "As AI eats the web, the internet’s collective memory is disappearing",
       "summary_zh": "As AI eats the web, the internet’s collective memory is disappearing"
-    },
-    {
-      "title": "Rust SIMD on the GPU",
-      "summary": "Rust SIMD on the GPU",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "published_at": "2026-08-10T18:12:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "216",
-      "item_id": "hn:49247477",
-      "summary_type": "extractive",
-      "title_zh": "Rust SIMD on the GPU",
-      "summary_zh": "Rust SIMD on the GPU"
-    },
-    {
-      "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
-      "summary": "Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expected to reflect human perception, yet it is unclear how well they capture the distinct aspects of speech that listeners actually perceive. We deconstruct \"naturalness\" into a linguistically grounded annotation schema spanning 10 distinct perceptual dimensions, and use it to construct the first dimension-level meta-evaluation benchmark for TTS, compris",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09930v1",
-      "published_at": "2026-08-10T17:59:51Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09930v1",
-      "summary_type": "extractive",
-      "title_zh": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
-      "summary_zh": "Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expected to reflect human perception, yet it is unclear how well they capture the distinct aspects of speech that listeners actually perceive. We deconstruct \"naturalness\" into a linguistically grounded annotation schema spanning 10 distinct perceptual dimensions, and use it to construct the first dimension-level meta-evaluation benchmark for TTS, compris"
-    },
-    {
-      "title": "Multimodal Model Diffing for Feature Discovery and Control",
-      "summary": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to post-hoc inspection, hidden states that are decomposed into interpretable feature directions using sparse autoencoders (SAEs) neither readily isolate which features are changed by multimodal training, nor are they directly useful for targeted control. We introduce MMDiff, a multimodal model-diffing ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09928v1",
-      "published_at": "2026-08-10T17:59:30Z",
-      "tags": [
-        "vision",
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09928v1",
-      "summary_type": "extractive",
-      "title_zh": "Multimodal Model Diffing for Feature Discovery and Control",
-      "summary_zh": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to post-hoc inspection, hidden states that are decomposed into interpretable feature directions using sparse autoencoders (SAEs) neither readily isolate which features are changed by multimodal training, nor are they directly useful for targeted control. We introduce MMDiff, a multimodal model-diffing "
-    },
-    {
-      "title": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
-      "summary": "Large language models are increasingly being deployed in governmental settings, yet few existing evaluation frameworks jointly reflect the values of public administration and the linguistic requirements of non-English contexts. We present the \"Grip on LLMs\" framework, a systematic evaluation suite for Dutch governmental use developed in collaboration with domain experts from a major Dutch municipal organisation. Through an advisory board process, user research, and a survey of the users of a civ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09925v1",
-      "published_at": "2026-08-10T17:59:05Z",
-      "tags": [
-        "vision",
-        "tool",
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09925v1",
-      "summary_type": "extractive",
-      "title_zh": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
-      "summary_zh": "Large language models are increasingly being deployed in governmental settings, yet few existing evaluation frameworks jointly reflect the values of public administration and the linguistic requirements of non-English contexts. We present the \"Grip on LLMs\" framework, a systematic evaluation suite for Dutch governmental use developed in collaboration with domain experts from a major Dutch municipal organisation. Through an advisory board process, user research, and a survey of the users of a civ"
-    },
-    {
-      "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
-      "summary": "Foundation models are transforming business workflows and boosting productivity, yet they remain largely absent from engineering domains such as power system analysis, where strict physical consistency must be enforced.\n  We present GENCO (GEometric Neural Corrective Optimizer), a unified neural solver for steady-state transmission grid analysis that handles power flow (PF), optimal power flow (OPF), and state estimation (SE) within a single architecture and shared network representation. To sup",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09921v1",
-      "published_at": "2026-08-10T17:57:49Z",
-      "tags": [
-        "tool",
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09921v1",
-      "summary_type": "extractive",
-      "title_zh": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
-      "summary_zh": "Foundation models are transforming business workflows and boosting productivity, yet they remain largely absent from engineering domains such as power system analysis, where strict physical consistency must be enforced.\n  We present GENCO (GEometric Neural Corrective Optimizer), a unified neural solver for steady-state transmission grid analysis that handles power flow (PF), optimal power flow (OPF), and state estimation (SE) within a single architecture and shared network representation. To sup"
-    },
-    {
-      "title": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
-      "summary": "We introduce the Dark Souls Learning Environment (DSLE), a containerized platform that presents all 22 boss encounters of Dark Souls: Remastered as game-playing agent benchmarks through a Gymnasium-style interface. DSLE combines real-time combat, high-dimensional visual input, and sparse terminal rewards, with each environment step being a real action executed against the running game. To support controlled comparison, we define DSLE-5, a representative five-boss subset, spanning a melee fight, ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09902v1",
-      "published_at": "2026-08-10T17:48:45Z",
-      "tags": [
-        "vision",
-        "agent",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09902v1",
-      "summary_type": "extractive",
-      "title_zh": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
-      "summary_zh": "We introduce the Dark Souls Learning Environment (DSLE), a containerized platform that presents all 22 boss encounters of Dark Souls: Remastered as game-playing agent benchmarks through a Gymnasium-style interface. DSLE combines real-time combat, high-dimensional visual input, and sparse terminal rewards, with each environment step being a real action executed against the running game. To support controlled comparison, we define DSLE-5, a representative five-boss subset, spanning a melee fight, "
-    },
-    {
-      "title": "Fusion Training for Mathematical Generalization in Large Language Models",
-      "summary": "Thinking Mode Fusion (TMF) enables large language models to support both concise responses and long-form reasoning by unifying a non-thinking mode and a thinking mode within a single model. However, its training dynamics, including the \\emph{data ratio} and \\emph{training schedule} between the two modes, remain underexplored. In this work, we present a systematic study of TMF by analyzing the effects of the training schedule and data ratio between thinking and non-thinking modes.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09893v1",
-      "published_at": "2026-08-10T17:41:19Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09893v1",
-      "summary_type": "extractive",
-      "title_zh": "Fusion Training for Mathematical Generalization in Large Language Models",
-      "summary_zh": "Thinking Mode Fusion (TMF) enables large language models to support both concise responses and long-form reasoning by unifying a non-thinking mode and a thinking mode within a single model. However, its training dynamics, including the \\emph{data ratio} and \\emph{training schedule} between the two modes, remain underexplored. In this work, we present a systematic study of TMF by analyzing the effects of the training schedule and data ratio between thinking and non-thinking modes."
-    },
-    {
-      "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
-      "summary": "We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model then solves a query through iterative computation in a high-dimensional latent space, without verbalizing its intermediate reasoning. We evaluate the model on the public ARC-AGI-1 evaluation set and use controlled ARC-like interventions to study what it learns from demonstrations, how consistently ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09888v1",
-      "published_at": "2026-08-10T17:39:16Z",
-      "tags": [
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09888v1",
-      "summary_type": "extractive",
-      "title_zh": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
-      "summary_zh": "We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model then solves a query through iterative computation in a high-dimensional latent space, without verbalizing its intermediate reasoning. We evaluate the model on the public ARC-AGI-1 evaluation set and use controlled ARC-like interventions to study what it learns from demonstrations, how consistently "
-    },
-    {
-      "title": "SHE: Trajectory-driven Safety Harness Evolution for LLM Agents",
-      "summary": "The safety of large language model (LLM) agents depends not only on model weights but also on the agent harness that manages context, memory, tools, permissions, and runtime control. Existing safety mechanisms often treat the harness as a fixed deployment artifact, limiting their ability to evolve with emerging risks. Moreover, coupled functions across harness components obscure safety responsibility attribution, making localized evolution difficult.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09885v1",
-      "published_at": "2026-08-10T17:35:08Z",
-      "tags": [
-        "agent",
-        "tool",
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09885v1",
-      "summary_type": "extractive",
-      "title_zh": "SHE: Trajectory-driven Safety Harness Evolution for LLM Agents",
-      "summary_zh": "The safety of large language model (LLM) agents depends not only on model weights but also on the agent harness that manages context, memory, tools, permissions, and runtime control. Existing safety mechanisms often treat the harness as a fixed deployment artifact, limiting their ability to evolve with emerging risks. Moreover, coupled functions across harness components obscure safety responsibility attribution, making localized evolution difficult."
-    },
-    {
-      "title": "Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning",
-      "summary": "Physically consistent motion planning remains a fundamental challenge in embodied AI, as generated trajectories must strictly conform to real-world execution dynamics. While latent world models offer a promising approach by predicting these dynamics, existing methods learn unconstrained future representations where absorbed physics remains implicit. Therefore, they fail to form reusable physical knowledge, which compromises reliability in unpredictable open-world navigation.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09876v1",
-      "published_at": "2026-08-10T17:31:18Z",
-      "tags": [
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09876v1",
-      "summary_type": "extractive",
-      "title_zh": "Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning",
-      "summary_zh": "Physically consistent motion planning remains a fundamental challenge in embodied AI, as generated trajectories must strictly conform to real-world execution dynamics. While latent world models offer a promising approach by predicting these dynamics, existing methods learn unconstrained future representations where absorbed physics remains implicit. Therefore, they fail to form reusable physical knowledge, which compromises reliability in unpredictable open-world navigation."
-    },
-    {
-      "title": "ArchAgent v2: A Case Study with the Data Prefetching Championship",
-      "summary": "Agentic artificial intelligence has shown great promise in automating algorithm design, but scaling similar techniques to computer microarchitecture discovery remains challenging due to vast search spaces, strict hardware budgets, and long simulation times. In this work, we present ArchAgent v2, a framework which scales automated microarchitecture search to multi-level data prefetching. While the original ArchAgent successfully discovered single-level cache replacement policies in competition se",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09874v1",
-      "published_at": "2026-08-10T17:28:05Z",
-      "tags": [
-        "agent",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09874v1",
-      "summary_type": "extractive",
-      "title_zh": "ArchAgent v2: A Case Study with the Data Prefetching Championship",
-      "summary_zh": "Agentic artificial intelligence has shown great promise in automating algorithm design, but scaling similar techniques to computer microarchitecture discovery remains challenging due to vast search spaces, strict hardware budgets, and long simulation times. In this work, we present ArchAgent v2, a framework which scales automated microarchitecture search to multi-level data prefetching. While the original ArchAgent successfully discovered single-level cache replacement policies in competition se"
-    },
-    {
-      "title": "Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains",
-      "summary": "We introduce Sci-VBench, a comprehensive benchmark for evaluating knowledge- and reasoning-intensive video generation across scientific domains. It contains 1,253 expert-annotated examples spanning 60 subjects across four core disciplines: Natural Science, Healthcare, Humanities &amp; Social Sciences, and Engineering. Each example requires models to generate temporally rich videos that demand scientific reasoning and knowledge-grounded synthesis, going beyond surface-level visual plausibility.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09873v1",
-      "published_at": "2026-08-10T17:27:32Z",
-      "tags": [
-        "vision",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09873v1",
-      "summary_type": "extractive",
-      "title_zh": "Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains",
-      "summary_zh": "We introduce Sci-VBench, a comprehensive benchmark for evaluating knowledge- and reasoning-intensive video generation across scientific domains. It contains 1,253 expert-annotated examples spanning 60 subjects across four core disciplines: Natural Science, Healthcare, Humanities &amp; Social Sciences, and Engineering. Each example requires models to generate temporally rich videos that demand scientific reasoning and knowledge-grounded synthesis, going beyond surface-level visual plausibility."
-    },
-    {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "summary": "Leading large language model providers now conceal their models' step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the client passes back with each subsequent request. Building on prior research, we identify an architectural vulnerability: these encrypted blocks are fully compatible and interchangeable across different ses",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09867v1",
-      "published_at": "2026-08-10T17:24:50Z",
-      "tags": [
-        "tool",
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09867v1",
-      "summary_type": "extractive",
-      "title_zh": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "summary_zh": "Leading large language model providers now conceal their models' step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the client passes back with each subsequent request. Building on prior research, we identify an architectural vulnerability: these encrypted blocks are fully compatible and interchangeable across different ses"
-    },
-    {
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "summary": "Hey HN,Henry from Cactus here!We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2.The whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens&#x2F;sec decode speed on a Raspberry Pi 5, sits betw",
-      "full_text": "Hey HN,Henry from Cactus here!We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2.The whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens&#x2F;sec decode speed on a Raspberry Pi 5, sits betw",
-      "source": "hacker news",
-      "url": "https://cactuscompute.com/needle",
-      "published_at": "2026-08-10T17:22:07+00:00",
-      "tags": [
-        "agent",
-        "llm"
-      ],
-      "score": "488",
-      "item_id": "hn:49246804",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "summary_zh": "Hey HN,Henry from Cactus here!We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2.The whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens&#x2F;sec decode speed on a Raspberry Pi 5, sits betw"
-    },
-    {
-      "title": "Towards Expert-level Medical AI for Real-time Video Consultations",
-      "summary": "Audio-visual interaction is the standard for patient-physician consultations, enabling natural communication and effective assessment of illness through non-verbal cues. While text-based AI has shown promise, it discards essential perceptual dimensions and limits patients who cannot articulate symptoms in writing. Early efforts to extend medical AI to audio-visual interaction have demonstrated feasibility but not reached clinician-level performance.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09861v1",
-      "published_at": "2026-08-10T17:19:31Z",
-      "tags": [
-        "vision",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09861v1",
-      "summary_type": "extractive",
-      "title_zh": "Towards Expert-level Medical AI for Real-time Video Consultations",
-      "summary_zh": "Audio-visual interaction is the standard for patient-physician consultations, enabling natural communication and effective assessment of illness through non-verbal cues. While text-based AI has shown promise, it discards essential perceptual dimensions and limits patients who cannot articulate symptoms in writing. Early efforts to extend medical AI to audio-visual interaction have demonstrated feasibility but not reached clinician-level performance."
-    },
-    {
-      "title": "Agentic Harnesses: LLM-Driven Verification Layers for Robot Autonomy",
-      "summary": "Advances in advanced artificial intelligence tools have sparked research in robot autonomy, but the development of such systems has largely focused on execution rather than verifying the feasibility actions planning models propose. Like general-purpose LLMs, robotics planning models carry risks: biased toward user-specified goals, they may suggest actions misaligned with scientific ethics, they may be unsafe due to an inability to \"remember\" prior safety risks, or they may be vulnerable to adver",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09857v1",
-      "published_at": "2026-08-10T17:15:55Z",
-      "tags": [
-        "agent",
-        "tool",
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09857v1",
-      "summary_type": "extractive",
-      "title_zh": "Agentic Harnesses: LLM-Driven Verification Layers for Robot Autonomy",
-      "summary_zh": "Advances in advanced artificial intelligence tools have sparked research in robot autonomy, but the development of such systems has largely focused on execution rather than verifying the feasibility actions planning models propose. Like general-purpose LLMs, robotics planning models carry risks: biased toward user-specified goals, they may suggest actions misaligned with scientific ethics, they may be unsafe due to an inability to \"remember\" prior safety risks, or they may be vulnerable to adver"
-    },
-    {
-      "title": "Agentic Auto-Research is Fuzz Testing",
-      "summary": "Autonomous research agents can generate experiments faster than researchers can validate them. Researchers have responded by scaling the proposer and ranking more samples with a learned judge or human reviewers. We argue that this *generate-and-rank* paradigm misses the problem of sparse feedback.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09855v1",
-      "published_at": "2026-08-10T17:13:02Z",
-      "tags": [
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09855v1",
-      "summary_type": "extractive",
-      "title_zh": "Agentic Auto-Research is Fuzz Testing",
-      "summary_zh": "Autonomous research agents can generate experiments faster than researchers can validate them. Researchers have responded by scaling the proposer and ranking more samples with a learned judge or human reviewers. We argue that this *generate-and-rank* paradigm misses the problem of sparse feedback."
-    },
-    {
-      "title": "CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems",
-      "summary": "The development of embodied Intelligent Virtual Agents (IVAs) that have cognitive capabilities in real-time interactive virtual environments remains a challenge, even with today's advancements in technology. Existing architectures are often focused on either the implementation of low-level reactive control systems that are constrained by commercial game engines, or high-level representations of reasoning models that can be difficult to implement in virtual worlds. This paper builds on that notio",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09848v1",
-      "published_at": "2026-08-10T17:07:41Z",
-      "tags": [
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09848v1",
-      "summary_type": "extractive",
-      "title_zh": "CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems",
-      "summary_zh": "The development of embodied Intelligent Virtual Agents (IVAs) that have cognitive capabilities in real-time interactive virtual environments remains a challenge, even with today's advancements in technology. Existing architectures are often focused on either the implementation of low-level reactive control systems that are constrained by commercial game engines, or high-level representations of reasoning models that can be difficult to implement in virtual worlds. This paper builds on that notio"
-    },
-    {
-      "title": "Mismatch Matters: On-Policy Distillation Beyond Token Agreement",
-      "summary": "On-policy distillation (OPD) has emerged as a core component of modern LLM post-training pipelines, yet we reveal a failure mode: degenerate agreement, where students exploit repetitive loops to achieve near-perfect token agreement with the teacher despite globally flawed responses. We therefore shift our focus from agreement to teacher-student mismatch, and find that mismatch tokens can be mainly categorized into two types: student-excess tokens and student-deficit tokens. Student-excess tokens",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09836v1",
-      "published_at": "2026-08-10T16:53:14Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09836v1",
-      "summary_type": "extractive",
-      "title_zh": "Mismatch Matters: On-Policy Distillation Beyond Token Agreement",
-      "summary_zh": "On-policy distillation (OPD) has emerged as a core component of modern LLM post-training pipelines, yet we reveal a failure mode: degenerate agreement, where students exploit repetitive loops to achieve near-perfect token agreement with the teacher despite globally flawed responses. We therefore shift our focus from agreement to teacher-student mismatch, and find that mismatch tokens can be mainly categorized into two types: student-excess tokens and student-deficit tokens. Student-excess tokens"
-    },
-    {
-      "title": "Multi-Agent AI Safety as an Institutional Design Problem",
-      "summary": "AI agents increasingly work inside systems that govern how they delegate tasks, move information, execute actions, and use shared resources. Recent work already shows that deployment rules can change collective behavior. Here we ask which parts of an AI institution produce safety and how they do it.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09828v1",
-      "published_at": "2026-08-10T16:47:01Z",
-      "tags": [
-        "agent",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09828v1",
-      "summary_type": "extractive",
-      "title_zh": "Multi-Agent AI Safety as an Institutional Design Problem",
-      "summary_zh": "AI agents increasingly work inside systems that govern how they delegate tasks, move information, execute actions, and use shared resources. Recent work already shows that deployment rules can change collective behavior. Here we ask which parts of an AI institution produce safety and how they do it."
-    },
-    {
-      "title": "Distill Skills into Weights, Not Prompts: Abstract Skills as Privileged Signals for On-Policy Self-Distillation",
-      "summary": "Reinforcement learning with verifiable rewards yields no group-relative signal when rollout groups are uniformly correct or uniformly wrong, which account for 63.0-68.0% of groups in our experiments. We propose SKALD (Skill-Anchored Latent Distillation), an on-policy self-distillation framework that uses two context views of the same Qwen3-Base model: a question-only student and a teacher conditioned on an abstract, explicit-answer-filtered skill card. The student is trained on its own prefixes,",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09826v1",
-      "published_at": "2026-08-10T16:43:18Z",
-      "tags": [
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09826v1",
-      "summary_type": "extractive",
-      "title_zh": "Distill Skills into Weights, Not Prompts: Abstract Skills as Privileged Signals for On-Policy Self-Distillation",
-      "summary_zh": "Reinforcement learning with verifiable rewards yields no group-relative signal when rollout groups are uniformly correct or uniformly wrong, which account for 63.0-68.0% of groups in our experiments. We propose SKALD (Skill-Anchored Latent Distillation), an on-policy self-distillation framework that uses two context views of the same Qwen3-Base model: a question-only student and a teacher conditioned on an abstract, explicit-answer-filtered skill card. The student is trained on its own prefixes,"
-    },
-    {
-      "title": "MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation",
-      "summary": "Reliable medical image understanding requires models to connect clinical language and visual reasoning with pixel-level grounding. Yet medical vision-language models often lack precise localization, whereas medical segmenters typically rely on explicit target categories or precise spatial prompts. This divide is reinforced by a supervision mismatch: segmentation datasets provide precise masks but little language supervision, whereas medical vision-language data rarely pair language with dense sp",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.09818v1",
-      "published_at": "2026-08-10T16:37:24Z",
-      "tags": [
-        "vision",
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.09818v1",
-      "summary_type": "extractive",
-      "title_zh": "MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation",
-      "summary_zh": "Reliable medical image understanding requires models to connect clinical language and visual reasoning with pixel-level grounding. Yet medical vision-language models often lack precise localization, whereas medical segmenters typically rely on explicit target categories or precise spatial prompts. This divide is reinforced by a supervision mismatch: segmentation datasets provide precise masks but little language supervision, whereas medical vision-language data rarely pair language with dense sp"
-    },
-    {
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "summary": "https:&#x2F;&#x2F;archive.is&#x2F;20LOJhttps:&#x2F;&#x2F;www.meta.com&#x2F;thefutureisforeveryone&#x2F;",
-      "full_text": "https:&#x2F;&#x2F;archive.is&#x2F;20LOJhttps:&#x2F;&#x2F;www.meta.com&#x2F;thefutureisforeveryone&#x2F;",
-      "source": "hacker news",
-      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "published_at": "2026-08-10T14:06:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "619",
-      "item_id": "hn:49243880",
-      "summary_type": "extractive",
-      "title_zh": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "summary_zh": "https:&#x2F;&#x2F;archive.is&#x2F;20LOJhttps:&#x2F;&#x2F;www.meta.com&#x2F;thefutureisforeveryone&#x2F;"
     },
     {
       "title": "Archive of Animal Photography Reveals 18,000 Species and Counting",
@@ -721,7 +711,7 @@
       "tags": [
         "ai"
       ],
-      "score": "19",
+      "score": "35",
       "item_id": "hn:49227610",
       "summary_type": "extractive",
       "title_zh": "Archive of Animal Photography Reveals 18,000 Species and Counting",
@@ -737,63 +727,95 @@
       "tags": [
         "ai"
       ],
-      "score": "83",
+      "score": "153",
       "item_id": "hn:49223965",
       "summary_type": "extractive",
       "title_zh": "Jolt: Clojure compiler implemented with Chez Scheme",
       "summary_zh": "Jolt: Clojure compiler implemented with Chez Scheme"
     },
     {
-      "title": "Stowaway – Take the window seat on any plane or satellite overhead",
-      "summary": "Stowaway – Take the window seat on any plane or satellite overhead",
+      "title": "The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics",
+      "summary": "The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://stowaway.live/",
-      "published_at": "2026-08-07T13:15:10+00:00",
+      "url": "https://momath.org/the-hat/",
+      "published_at": "2026-08-08T02:43:01+00:00",
       "tags": [
         "ai"
       ],
-      "score": "417",
-      "item_id": "hn:49209918",
+      "score": "19",
+      "item_id": "hn:49218463",
       "summary_type": "extractive",
-      "title_zh": "Stowaway – Take the window seat on any plane or satellite overhead",
-      "summary_zh": "Stowaway – Take the window seat on any plane or satellite overhead"
+      "title_zh": "The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics",
+      "summary_zh": "The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics"
     },
     {
-      "title": "Sonic Pi v5",
-      "summary": "Sonic Pi v5",
+      "title": "Show HN: Tamron Lens Utility Alternative on Linux",
+      "summary": "Show HN: Tamron Lens Utility Alternative on Linux",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "published_at": "2026-08-07T10:26:34+00:00",
+      "url": "https://github.com/yikerman/tamron-lens-control",
+      "published_at": "2026-08-07T13:36:39+00:00",
       "tags": [
         "ai"
       ],
-      "score": "422",
-      "item_id": "hn:49208296",
+      "score": "27",
+      "item_id": "hn:49210199",
       "summary_type": "extractive",
-      "title_zh": "Sonic Pi v5",
-      "summary_zh": "Sonic Pi v5"
+      "title_zh": "Show HN: Tamron Lens Utility Alternative on Linux",
+      "summary_zh": "Show HN: Tamron Lens Utility Alternative on Linux"
     },
     {
-      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
-      "summary": "The “mechanical miracle” that ruined Mark Twain’s life",
+      "title": "The hardest working font in Manhattan (2025)",
+      "summary": "The hardest working font in Manhattan (2025)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "published_at": "2026-08-05T15:22:23+00:00",
+      "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+      "published_at": "2026-08-06T20:22:29+00:00",
       "tags": [
         "ai"
       ],
-      "score": "213",
-      "item_id": "hn:49184220",
+      "score": "6",
+      "item_id": "hn:49201953",
       "summary_type": "extractive",
-      "title_zh": "The “mechanical miracle” that ruined Mark Twain’s life",
-      "summary_zh": "The “mechanical miracle” that ruined Mark Twain’s life"
+      "title_zh": "The hardest working font in Manhattan (2025)",
+      "summary_zh": "The hardest working font in Manhattan (2025)"
     },
     {
-      "title": "Employees Like Their A.I. Boss. Its Shop Is Kind of a Disaster",
-      "summary": "Employees Like Their A.I. Boss. Its Shop Is Kind of a Disaster",
+      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
+      "summary": "Line9 is a new rendering engine for Mermaid flowchart diagrams that aims to remove the need for manual adjustment of layout. Mermaid is a popular text-based language for describing multiple types of diagrams.Several Mermaid rendering engines already exist. Most, like the original mermaid.js, use Dagre or ELK graph drawing libraries to automatically lay out their diagrams.",
+      "full_text": "Line9 is a new rendering engine for Mermaid flowchart diagrams that aims to remove the need for manual adjustment of layout. Mermaid is a popular text-based language for describing multiple types of diagrams.Several Mermaid rendering engines already exist. Most, like the original mermaid.js, use Dagre or ELK graph drawing libraries to automatically lay out their diagrams. I’ve used Mermaid for the past four years but often recreated my flowcharts in a diagram editor so that I could modify the la",
+      "source": "hacker news",
+      "url": "https://line9.ai/diagram",
+      "published_at": "2026-08-06T13:47:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "30",
+      "item_id": "hn:49196657",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
+      "summary_zh": "Line9 is a new rendering engine for Mermaid flowchart diagrams that aims to remove the need for manual adjustment of layout. Mermaid is a popular text-based language for describing multiple types of diagrams.Several Mermaid rendering engines already exist. Most, like the original mermaid.js, use Dagre or ELK graph drawing libraries to automatically lay out their diagrams."
+    },
+    {
+      "title": "Retire the Abstractions",
+      "summary": "Retire the Abstractions",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions",
+      "published_at": "2026-08-06T01:05:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "14",
+      "item_id": "hn:49191130",
+      "summary_type": "extractive",
+      "title_zh": "Retire the Abstractions",
+      "summary_zh": "Retire the Abstractions"
+    },
+    {
+      "title": "A new study of a bot running a store finds it is friendly but not very smart",
+      "summary": "A new study of a bot running a store finds it is friendly but not very smart",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
@@ -801,43 +823,11 @@
       "tags": [
         "ai"
       ],
-      "score": "3",
+      "score": "54",
       "item_id": "hn:49174088",
       "summary_type": "extractive",
-      "title_zh": "Employees Like Their A.I. Boss. Its Shop Is Kind of a Disaster",
-      "summary_zh": "Employees Like Their A.I. Boss. Its Shop Is Kind of a Disaster"
-    },
-    {
-      "title": "The Law of Jante (2015)",
-      "summary": "The Law of Jante (2015)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.theparisreview.org/blog/2015/02/11/the-law-of-jante/",
-      "published_at": "2026-08-04T18:52:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "31",
-      "item_id": "hn:49173175",
-      "summary_type": "extractive",
-      "title_zh": "The Law of Jante (2015)",
-      "summary_zh": "The Law of Jante (2015)"
-    },
-    {
-      "title": "LFM2.5 2.6B model competitive with 4x larger models",
-      "summary": "LFM2.5 2.6B model competitive with 4x larger models",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "published_at": "2026-08-04T18:47:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "148",
-      "item_id": "hn:49173107",
-      "summary_type": "extractive",
-      "title_zh": "LFM2.5 2.6B model competitive with 4x larger models",
-      "summary_zh": "LFM2.5 2.6B model competitive with 4x larger models"
+      "title_zh": "A new study of a bot running a store finds it is friendly but not very smart",
+      "summary_zh": "A new study of a bot running a store finds it is friendly but not very smart"
     }
   ]
 }

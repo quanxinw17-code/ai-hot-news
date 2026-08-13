@@ -1,22 +1,54 @@
 {
-  "updated_at": "2026-08-13T07:44:49.193411+00:00",
+  "updated_at": "2026-08-13T13:34:20.300785+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Celld: Self-hosted, distributed Durable Objects",
-      "summary": "Celld: Self-hosted, distributed Durable Objects",
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "summary": "Choosing an AI model: one prompt, 11 models, different results",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://celld.dev/",
-      "published_at": "2026-08-13T04:37:31+00:00",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "published_at": "2026-08-13T13:05:29+00:00",
       "tags": [
         "ai"
       ],
-      "score": "16",
-      "item_id": "hn:49281839",
+      "score": "17",
+      "item_id": "hn:49285327",
       "summary_type": "extractive",
-      "title_zh": "Celld: Self-hosted, distributed Durable Objects",
-      "summary_zh": "Celld: Self-hosted, distributed Durable Objects"
+      "title_zh": "Choosing an AI model: one prompt, 11 models, different results",
+      "summary_zh": "Choosing an AI model: one prompt, 11 models, different results"
+    },
+    {
+      "title": "My Rules for Using Spreadsheets",
+      "summary": "My Rules for Using Spreadsheets",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
+      "published_at": "2026-08-13T13:00:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:49285268",
+      "summary_type": "extractive",
+      "title_zh": "My Rules for Using Spreadsheets",
+      "summary_zh": "My Rules for Using Spreadsheets"
+    },
+    {
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "summary": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "published_at": "2026-08-13T12:09:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "155",
+      "item_id": "hn:49284774",
+      "summary_type": "extractive",
+      "title_zh": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "summary_zh": "Deutsche Bank becomes first foreign yuan clearing bank in Europe"
     },
     {
       "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
@@ -28,7 +60,7 @@
       "tags": [
         "ai"
       ],
-      "score": "76",
+      "score": "104",
       "item_id": "hn:49280103",
       "summary_type": "extractive",
       "title_zh": "Happy 45th Birthday to the IBM PC and Model F/XT",
@@ -44,27 +76,11 @@
       "tags": [
         "ai"
       ],
-      "score": "78",
+      "score": "155",
       "item_id": "hn:49280061",
       "summary_type": "extractive",
       "title_zh": "Flutter 3.47",
       "summary_zh": "Flutter 3.47"
-    },
-    {
-      "title": "Build Wide, Ship Narrow",
-      "summary": "Build Wide, Ship Narrow",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://adapt.com/blog/build-wide-ship-narrow",
-      "published_at": "2026-08-12T23:43:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "79",
-      "item_id": "hn:49280047",
-      "summary_type": "extractive",
-      "title_zh": "Build Wide, Ship Narrow",
-      "summary_zh": "Build Wide, Ship Narrow"
     },
     {
       "title": "Principia Mathematica is modern and insightful",
@@ -76,27 +92,11 @@
       "tags": [
         "ai"
       ],
-      "score": "134",
+      "score": "219",
       "item_id": "hn:49279928",
       "summary_type": "extractive",
       "title_zh": "Principia Mathematica is modern and insightful",
       "summary_zh": "Principia Mathematica is modern and insightful"
-    },
-    {
-      "title": "Process as a Proxy for Motivation",
-      "summary": "Process as a Proxy for Motivation",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://bengodfrey.dev/blog/process/",
-      "published_at": "2026-08-12T22:01:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "52",
-      "item_id": "hn:49279197",
-      "summary_type": "extractive",
-      "title_zh": "Process as a Proxy for Motivation",
-      "summary_zh": "Process as a Proxy for Motivation"
     },
     {
       "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
@@ -108,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "110",
+      "score": "157",
       "item_id": "hn:49279013",
       "summary_type": "extractive",
       "title_zh": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
@@ -124,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "94",
+      "score": "138",
       "item_id": "hn:49277799",
       "summary_type": "extractive",
       "title_zh": "Breaking the WAL",
@@ -140,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "516",
+      "score": "608",
       "item_id": "hn:49276574",
       "summary_type": "extractive",
       "title_zh": "Delta",
@@ -189,8 +189,8 @@
       "url": "http://arxiv.org/abs/2608.12306v1",
       "published_at": "2026-08-12T17:53:15Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.12306v1",
@@ -206,8 +206,8 @@
       "url": "http://arxiv.org/abs/2608.12304v1",
       "published_at": "2026-08-12T17:50:39Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -224,8 +224,8 @@
       "url": "http://arxiv.org/abs/2608.12299v1",
       "published_at": "2026-08-12T17:45:03Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm",
         "vision"
       ],
@@ -262,8 +262,8 @@
       "published_at": "2026-08-12T17:27:27Z",
       "tags": [
         "agent",
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.12282v1",
@@ -296,8 +296,8 @@
       "url": "http://arxiv.org/abs/2608.12274v1",
       "published_at": "2026-08-12T17:13:59Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm",
         "vision"
       ],
@@ -317,8 +317,8 @@
       "tags": [
         "agent",
         "paper",
-        "llm",
-        "tool"
+        "tool",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.12273v1",
@@ -342,22 +342,6 @@
       "summary_type": "extractive",
       "title_zh": "Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams",
       "summary_zh": "Multimodal Large Language Models (MLLMs) have been growing the capability for scientific writing and collaboration. For example, OpenAI Prism is a free workspace for scientific writing and collaboration. One important feature in Prism is turning scientific diagrams directly into LaTeX TikZ code."
-    },
-    {
-      "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
-      "summary": "Reflex (YC W23) Is hiring Growth and GTM Roles",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
-      "published_at": "2026-08-12T17:00:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:49275465",
-      "summary_type": "extractive",
-      "title_zh": "Reflex (YC W23) Is hiring Growth and GTM Roles",
-      "summary_zh": "Reflex (YC W23) Is hiring Growth and GTM Roles"
     },
     {
       "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
@@ -387,7 +371,7 @@
       "tags": [
         "ai"
       ],
-      "score": "185",
+      "score": "226",
       "item_id": "hn:49275335",
       "summary_type": "extractive",
       "title_zh": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
@@ -419,8 +403,8 @@
       "published_at": "2026-08-12T16:45:49Z",
       "tags": [
         "agent",
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.12246v1",
@@ -454,8 +438,8 @@
       "url": "http://arxiv.org/abs/2608.12236v1",
       "published_at": "2026-08-12T16:32:52Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm",
         "vision"
       ],
@@ -473,8 +457,8 @@
       "url": "http://arxiv.org/abs/2608.12230v1",
       "published_at": "2026-08-12T16:28:01Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "vision"
       ],
       "score": "📄",
@@ -501,22 +485,6 @@
       "summary_zh": "Hyperspectral imaging (HSI) offers nondestructive assessment of fish freshness by detecting biochemical alterations across spectral bands. However, conventional deep learning approaches do not fully address the particular characteristics of HSI data, such as spectral dominance over spatial textures, ordinal label structure, and a small number of training samples. We propose SGNet (Spectral-Grouped Network), a lightweight architecture that separates spectral and spatial feature extraction using g"
     },
     {
-      "title": "Lovable raises $400M Series C",
-      "summary": "Lovable raises $400M Series C",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lovable.dev/blog/series-c",
-      "published_at": "2026-08-12T16:20:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "133",
-      "item_id": "hn:49274858",
-      "summary_type": "extractive",
-      "title_zh": "Lovable raises $400M Series C",
-      "summary_zh": "Lovable raises $400M Series C"
-    },
-    {
       "title": "Pixel Watch 5",
       "summary": "Pixel Watch 5",
       "full_text": "",
@@ -526,7 +494,7 @@
       "tags": [
         "ai"
       ],
-      "score": "137",
+      "score": "154",
       "item_id": "hn:49274757",
       "summary_type": "extractive",
       "title_zh": "Pixel Watch 5",
@@ -558,8 +526,8 @@
       "url": "http://arxiv.org/abs/2608.12218v1",
       "published_at": "2026-08-12T16:13:05Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -578,7 +546,7 @@
       "tags": [
         "ai"
       ],
-      "score": "885",
+      "score": "984",
       "item_id": "hn:49274600",
       "summary_type": "extractive",
       "title_zh": "DeepSeek V4 Pro 0813",
@@ -594,7 +562,7 @@
       "tags": [
         "ai"
       ],
-      "score": "520",
+      "score": "596",
       "item_id": "hn:49274027",
       "summary_type": "extractive",
       "title_zh": "Grok 4.6",
@@ -610,15 +578,15 @@
       "tags": [
         "ai"
       ],
-      "score": "591",
+      "score": "678",
       "item_id": "hn:49273478",
       "summary_type": "extractive",
       "title_zh": "Qwen3.8-2.4T",
       "summary_zh": "https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8"
     },
     {
-      "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
-      "summary": "We tracked down the 16-year-old WAL-reset SQLite bug",
+      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+      "summary": "Tracking down the 16-year-old WAL-reset SQLite bug",
       "full_text": "",
       "source": "hacker news",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
@@ -626,11 +594,11 @@
       "tags": [
         "ai"
       ],
-      "score": "990",
+      "score": "🔥 1.1k",
       "item_id": "hn:49272832",
       "summary_type": "extractive",
-      "title_zh": "We tracked down the 16-year-old WAL-reset SQLite bug",
-      "summary_zh": "We tracked down the 16-year-old WAL-reset SQLite bug"
+      "title_zh": "Tracking down the 16-year-old WAL-reset SQLite bug",
+      "summary_zh": "Tracking down the 16-year-old WAL-reset SQLite bug"
     },
     {
       "title": "Tim King, AmigaDOS developer, has died",
@@ -642,7 +610,7 @@
       "tags": [
         "ai"
       ],
-      "score": "264",
+      "score": "287",
       "item_id": "hn:49272655",
       "summary_type": "extractive",
       "title_zh": "Tim King, AmigaDOS developer, has died",
@@ -658,27 +626,11 @@
       "tags": [
         "ai"
       ],
-      "score": "291",
+      "score": "323",
       "item_id": "hn:49272549",
       "summary_type": "extractive",
       "title_zh": "Why tiny JPEGs look different in Chrome",
       "summary_zh": "Why tiny JPEGs look different in Chrome"
-    },
-    {
-      "title": "AI is removing the middle class of software engineering?",
-      "summary": "AI is removing the middle class of software engineering?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "published_at": "2026-08-12T13:20:05+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "848",
-      "item_id": "hn:49271994",
-      "summary_type": "extractive",
-      "title_zh": "AI is removing the middle class of software engineering?",
-      "summary_zh": "AI is removing the middle class of software engineering?"
     },
     {
       "title": "Shade Map",
@@ -690,7 +642,7 @@
       "tags": [
         "ai"
       ],
-      "score": "183",
+      "score": "228",
       "item_id": "hn:49271757",
       "summary_type": "extractive",
       "title_zh": "Shade Map",
@@ -706,7 +658,7 @@
       "tags": [
         "ai"
       ],
-      "score": "476",
+      "score": "501",
       "item_id": "hn:49270953",
       "summary_type": "extractive",
       "title_zh": "2026 Eclipse Webcams",
@@ -722,27 +674,11 @@
       "tags": [
         "ai"
       ],
-      "score": "434",
+      "score": "620",
       "item_id": "hn:49270726",
       "summary_type": "extractive",
       "title_zh": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
       "summary_zh": "https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_dis...https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-bloc..."
-    },
-    {
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "summary": "Woxi is an interpreter for the Wolfram Language written in Rust.It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.Compared with wolframscript &#x2F; Mathematica, the main differences are:- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived processe",
-      "full_text": "Woxi is an interpreter for the Wolfram Language written in Rust.It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.Compared with wolframscript &#x2F; Mathematica, the main differences are:- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived processe",
-      "source": "hacker news",
-      "url": "https://woxi.ad-si.com",
-      "published_at": "2026-08-12T10:06:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "288",
-      "item_id": "hn:49270040",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "summary_zh": "Woxi is an interpreter for the Wolfram Language written in Rust.It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.Compared with wolframscript &#x2F; Mathematica, the main differences are:- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived processe"
     },
     {
       "title": "Why Target Common Lisp for Code Generation?",
@@ -754,11 +690,43 @@
       "tags": [
         "ai"
       ],
-      "score": "86",
+      "score": "131",
       "item_id": "hn:49269429",
       "summary_type": "extractive",
       "title_zh": "Why Target Common Lisp for Code Generation?",
       "summary_zh": "Why Target Common Lisp for Code Generation?"
+    },
+    {
+      "title": "Come for Eniac, Stay for Univac and Skeduflo",
+      "summary": "Come for Eniac, Stay for Univac and Skeduflo",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
+      "published_at": "2026-08-11T13:55:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "12",
+      "item_id": "hn:49258428",
+      "summary_type": "extractive",
+      "title_zh": "Come for Eniac, Stay for Univac and Skeduflo",
+      "summary_zh": "Come for Eniac, Stay for Univac and Skeduflo"
+    },
+    {
+      "title": "The lattice of sets of natural numbers is rich (2021)",
+      "summary": "The lattice of sets of natural numbers is rich (2021)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+      "published_at": "2026-08-10T13:53:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "71",
+      "item_id": "hn:49243687",
+      "summary_type": "extractive",
+      "title_zh": "The lattice of sets of natural numbers is rich (2021)",
+      "summary_zh": "The lattice of sets of natural numbers is rich (2021)"
     },
     {
       "title": "Antiqua–Fraktur dispute",
@@ -770,7 +738,7 @@
       "tags": [
         "ai"
       ],
-      "score": "70",
+      "score": "125",
       "item_id": "hn:49242698",
       "summary_type": "extractive",
       "title_zh": "Antiqua–Fraktur dispute",
@@ -786,27 +754,43 @@
       "tags": [
         "ai"
       ],
-      "score": "17",
+      "score": "33",
       "item_id": "hn:49238831",
       "summary_type": "extractive",
       "title_zh": "From rubber boots to Copa: When MicroProse Soccer revolutionized football",
       "summary_zh": "From rubber boots to Copa: When MicroProse Soccer revolutionized football"
     },
     {
-      "title": "Locating an unknown source of radiation in a heterogeneous environment (2019)",
-      "summary": "Locating an unknown source of radiation in a heterogeneous environment (2019)",
+      "title": "Better Gaussian Splatting in Julia",
+      "summary": "Better Gaussian Splatting in Julia",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
-      "published_at": "2026-08-08T19:01:18+00:00",
+      "url": "https://pxl-th.github.io/blog/better-gs-julia/",
+      "published_at": "2026-08-09T15:01:04+00:00",
       "tags": [
         "ai"
       ],
-      "score": "25",
-      "item_id": "hn:49224802",
+      "score": "24",
+      "item_id": "hn:49232039",
       "summary_type": "extractive",
-      "title_zh": "Locating an unknown source of radiation in a heterogeneous environment (2019)",
-      "summary_zh": "Locating an unknown source of radiation in a heterogeneous environment (2019)"
+      "title_zh": "Better Gaussian Splatting in Julia",
+      "summary_zh": "Better Gaussian Splatting in Julia"
+    },
+    {
+      "title": "Picking berries is my meditation",
+      "summary": "Picking berries is my meditation",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+      "published_at": "2026-08-08T19:24:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "45",
+      "item_id": "hn:49224997",
+      "summary_type": "extractive",
+      "title_zh": "Picking berries is my meditation",
+      "summary_zh": "Picking berries is my meditation"
     },
     {
       "title": "Mushroom behind 'tiny people' hallucinations identified",
@@ -818,11 +802,27 @@
       "tags": [
         "ai"
       ],
-      "score": "84",
+      "score": "219",
       "item_id": "hn:49218040",
       "summary_type": "extractive",
       "title_zh": "Mushroom behind 'tiny people' hallucinations identified",
       "summary_zh": "Mushroom behind 'tiny people' hallucinations identified"
+    },
+    {
+      "title": "The punched card tabulator",
+      "summary": "The punched card tabulator",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.ibm.com/history/punched-card-tabulator",
+      "published_at": "2026-08-07T15:01:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "28",
+      "item_id": "hn:49211530",
+      "summary_type": "extractive",
+      "title_zh": "The punched card tabulator",
+      "summary_zh": "The punched card tabulator"
     },
     {
       "title": "The Three-Stroke Problem",
@@ -834,7 +834,7 @@
       "tags": [
         "ai"
       ],
-      "score": "4",
+      "score": "25",
       "item_id": "hn:49193533",
       "summary_type": "extractive",
       "title_zh": "The Three-Stroke Problem",

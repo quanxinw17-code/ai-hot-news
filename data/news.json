@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-08-14T02:32:23.957264+00:00",
+  "updated_at": "2026-08-14T07:42:29.923747+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Why Books Don't Work: Constructivism over Transmissionism (2021)",
+      "summary": "Why Books Don't Work: Constructivism over Transmissionism (2021)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/",
+      "published_at": "2026-08-14T07:31:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "4",
+      "item_id": "hn:49295666",
+      "summary_type": "extractive",
+      "title_zh": "Why Books Don't Work: Constructivism over Transmissionism (2021)",
+      "summary_zh": "Why Books Don't Work: Constructivism over Transmissionism (2021)"
+    },
+    {
+      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+      "summary": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://z.ai/blog/glm-5.3",
+      "published_at": "2026-08-14T05:19:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "294",
+      "item_id": "hn:49294997",
+      "summary_type": "extractive",
+      "title_zh": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+      "summary_zh": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities"
+    },
     {
       "title": "Bluesky Protocol Services",
       "summary": "Bluesky Protocol Services",
@@ -12,43 +44,11 @@
       "tags": [
         "ai"
       ],
-      "score": "73",
+      "score": "152",
       "item_id": "hn:49293324",
       "summary_type": "extractive",
       "title_zh": "Bluesky Protocol Services",
       "summary_zh": "Bluesky Protocol Services"
-    },
-    {
-      "title": "SparrowMap – Cameras that watch government vehicles",
-      "summary": "SparrowMap – Cameras that watch government vehicles",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://sparrowmap.com/",
-      "published_at": "2026-08-14T00:10:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "55",
-      "item_id": "hn:49293294",
-      "summary_type": "extractive",
-      "title_zh": "SparrowMap – Cameras that watch government vehicles",
-      "summary_zh": "SparrowMap – Cameras that watch government vehicles"
-    },
-    {
-      "title": "TRS-80 Color Computer Extended Basic Emulator in JavaScript",
-      "summary": "TRS-80 Color Computer Extended Basic Emulator in JavaScript",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/bshichman/trs80-coco-basic",
-      "published_at": "2026-08-14T00:04:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "5",
-      "item_id": "hn:49293261",
-      "summary_type": "extractive",
-      "title_zh": "TRS-80 Color Computer Extended Basic Emulator in JavaScript",
-      "summary_zh": "TRS-80 Color Computer Extended Basic Emulator in JavaScript"
     },
     {
       "title": "Blog about things you don't understand yet",
@@ -60,27 +60,11 @@
       "tags": [
         "ai"
       ],
-      "score": "17",
+      "score": "83",
       "item_id": "hn:49293087",
       "summary_type": "extractive",
       "title_zh": "Blog about things you don't understand yet",
       "summary_zh": "Blog about things you don't understand yet"
-    },
-    {
-      "title": "How AI text watermarking works",
-      "summary": "How AI text watermarking works",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://declaude.org/watermarking/",
-      "published_at": "2026-08-13T23:16:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "83",
-      "item_id": "hn:49292932",
-      "summary_type": "extractive",
-      "title_zh": "How AI text watermarking works",
-      "summary_zh": "How AI text watermarking works"
     },
     {
       "title": "NP-overrated",
@@ -92,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "157",
+      "score": "197",
       "item_id": "hn:49291268",
       "summary_type": "extractive",
       "title_zh": "NP-overrated",
@@ -108,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "74",
+      "score": "99",
       "item_id": "hn:49290969",
       "summary_type": "extractive",
       "title_zh": "How Gödel's Proof Works (2020)",
@@ -122,10 +106,10 @@
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
       "published_at": "2026-08-13T19:25:38+00:00",
       "tags": [
-        "vision",
-        "llm"
+        "llm",
+        "vision"
       ],
-      "score": "69",
+      "score": "99",
       "item_id": "hn:49290768",
       "summary_type": "extractive",
       "title_zh": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
@@ -141,7 +125,7 @@
       "tags": [
         "ai"
       ],
-      "score": "215",
+      "score": "297",
       "item_id": "hn:49290299",
       "summary_type": "extractive",
       "title_zh": "Understanding is the new bottleneck",
@@ -157,7 +141,7 @@
       "tags": [
         "ai"
       ],
-      "score": "154",
+      "score": "199",
       "item_id": "hn:49290215",
       "summary_type": "extractive",
       "title_zh": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
@@ -173,7 +157,7 @@
       "tags": [
         "ai"
       ],
-      "score": "32",
+      "score": "170",
       "item_id": "hn:49290166",
       "summary_type": "extractive",
       "title_zh": "Hello, me. It's been a while",
@@ -187,9 +171,9 @@
       "url": "http://arxiv.org/abs/2608.13560v1",
       "published_at": "2026-08-13T17:59:57Z",
       "tags": [
-        "agent",
+        "paper",
         "tool",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13560v1",
@@ -205,9 +189,9 @@
       "url": "http://arxiv.org/abs/2608.13558v1",
       "published_at": "2026-08-13T17:59:52Z",
       "tags": [
+        "paper",
         "tool",
-        "llm",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13558v1",
@@ -223,9 +207,9 @@
       "url": "http://arxiv.org/abs/2608.13555v1",
       "published_at": "2026-08-13T17:59:40Z",
       "tags": [
-        "vision",
+        "paper",
         "tool",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13555v1",
@@ -243,7 +227,7 @@
       "tags": [
         "ai"
       ],
-      "score": "111",
+      "score": "149",
       "item_id": "hn:49289654",
       "summary_type": "extractive",
       "title_zh": "How Compaction Works in Pi",
@@ -257,10 +241,10 @@
       "url": "http://arxiv.org/abs/2608.13547v1",
       "published_at": "2026-08-13T17:57:20Z",
       "tags": [
-        "agent",
-        "tool",
+        "paper",
         "llm",
-        "paper"
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13547v1",
@@ -276,8 +260,8 @@
       "url": "http://arxiv.org/abs/2608.13545v1",
       "published_at": "2026-08-13T17:56:12Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13545v1",
@@ -295,7 +279,7 @@
       "tags": [
         "ai"
       ],
-      "score": "134",
+      "score": "170",
       "item_id": "hn:49289532",
       "summary_type": "extractive",
       "title_zh": "Where did the old web go? We followed 657,607 links to find out",
@@ -311,7 +295,7 @@
       "tags": [
         "ai"
       ],
-      "score": "262",
+      "score": "326",
       "item_id": "hn:49289512",
       "summary_type": "extractive",
       "title_zh": "Choose Boring Technology (2015)",
@@ -327,7 +311,7 @@
       "tags": [
         "ai"
       ],
-      "score": "195",
+      "score": "225",
       "item_id": "hn:49289465",
       "summary_type": "extractive",
       "title_zh": "Donkey.bas is 45 Years Old – 131 line of Glory",
@@ -341,8 +325,8 @@
       "url": "http://arxiv.org/abs/2608.13522v1",
       "published_at": "2026-08-13T17:41:27Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13522v1",
@@ -358,8 +342,8 @@
       "url": "http://arxiv.org/abs/2608.13520v1",
       "published_at": "2026-08-13T17:40:17Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13520v1",
@@ -375,30 +359,14 @@
       "url": "http://arxiv.org/abs/2608.13517v1",
       "published_at": "2026-08-13T17:37:53Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13517v1",
       "summary_type": "extractive",
       "title_zh": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
       "summary_zh": "Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mimir v1, a 1-billion-parameter language model based on the Hierarchical Reasoning Model (HRM) architecture, that is trained from scratch and delivers highly competitive performance for English and sets a new state of the art for Danish using only permissible post-training data. Trained on a mixture o"
-    },
-    {
-      "title": "I want extern \"fil-C\"",
-      "summary": "I want extern \"fil-C\"",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-      "published_at": "2026-08-13T17:32:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "33",
-      "item_id": "hn:49289260",
-      "summary_type": "extractive",
-      "title_zh": "I want extern \"fil-C\"",
-      "summary_zh": "I want extern \"fil-C\""
     },
     {
       "title": "AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)",
@@ -418,22 +386,6 @@
       "summary_zh": "This report presents an improved version of AlayaWorld. While the backbone architecture, chunk-wise autoregressive generation scheme, and training data remain unchanged from the previous release, we substantially revise how conditioning signals are represented and integrated into the model. The new design is guided by a simple principle: conditioning signals should match the generated content as closely as possible in both latent representation and temporal structure."
     },
     {
-      "title": "Tocharian Online",
-      "summary": "Tocharian Online",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
-      "published_at": "2026-08-13T17:15:46+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "58",
-      "item_id": "hn:49289026",
-      "summary_type": "extractive",
-      "title_zh": "Tocharian Online",
-      "summary_zh": "Tocharian Online"
-    },
-    {
       "title": "Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity",
       "summary": "When asked about entities outside their knowledge boundary, LLMs routinely fabricate plausible-sounding details rather than backing off to safer, more general claims. We frame this failure through a Gricean lens: a cooperative speaker who is uncertain about a referent retreats up the specificity hierarchy, trading informativeness for truthfulness. We ask whether LLMs have the ingredients to perform this retreat.",
       "full_text": "",
@@ -441,8 +393,8 @@
       "url": "http://arxiv.org/abs/2608.13484v1",
       "published_at": "2026-08-13T17:13:41Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13484v1",
@@ -458,10 +410,10 @@
       "url": "http://arxiv.org/abs/2608.13482v1",
       "published_at": "2026-08-13T17:12:04Z",
       "tags": [
-        "agent",
-        "tool",
+        "paper",
         "llm",
-        "paper"
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13482v1",
@@ -477,10 +429,10 @@
       "url": "http://arxiv.org/abs/2608.13476v1",
       "published_at": "2026-08-13T17:00:08Z",
       "tags": [
+        "paper",
         "agent",
         "tool",
-        "llm",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13476v1",
@@ -496,9 +448,9 @@
       "url": "http://arxiv.org/abs/2608.13472v1",
       "published_at": "2026-08-13T16:57:07Z",
       "tags": [
-        "tool",
+        "paper",
         "llm",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13472v1",
@@ -531,10 +483,10 @@
       "url": "http://arxiv.org/abs/2608.13463v1",
       "published_at": "2026-08-13T16:45:24Z",
       "tags": [
+        "paper",
         "agent",
         "vision",
-        "llm",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13463v1",
@@ -550,8 +502,8 @@
       "url": "http://arxiv.org/abs/2608.13459v1",
       "published_at": "2026-08-13T16:43:44Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13459v1",
@@ -567,8 +519,8 @@
       "url": "http://arxiv.org/abs/2608.13456v1",
       "published_at": "2026-08-13T16:40:35Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13456v1",
@@ -584,9 +536,9 @@
       "url": "http://arxiv.org/abs/2608.13453v1",
       "published_at": "2026-08-13T16:38:57Z",
       "tags": [
-        "agent",
+        "paper",
         "vision",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13453v1",
@@ -602,9 +554,9 @@
       "url": "http://arxiv.org/abs/2608.13447v1",
       "published_at": "2026-08-13T16:32:44Z",
       "tags": [
-        "vision",
+        "paper",
         "tool",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13447v1",
@@ -620,8 +572,8 @@
       "url": "http://arxiv.org/abs/2608.13438v1",
       "published_at": "2026-08-13T16:25:54Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13438v1",
@@ -639,7 +591,7 @@
       "tags": [
         "ai"
       ],
-      "score": "92",
+      "score": "115",
       "item_id": "hn:49288293",
       "summary_type": "extractive",
       "title_zh": "AI At Home Part 1: A Box Of Scraps",
@@ -655,7 +607,7 @@
       "tags": [
         "ai"
       ],
-      "score": "99",
+      "score": "117",
       "item_id": "hn:49287153",
       "summary_type": "extractive",
       "title_zh": "Text AI watermarks will always be trivial to remove",
@@ -671,7 +623,7 @@
       "tags": [
         "ai"
       ],
-      "score": "160",
+      "score": "183",
       "item_id": "hn:49286485",
       "summary_type": "extractive",
       "title_zh": "Kubernetes on Oxide: How customer needs shaped our integrations",
@@ -687,11 +639,27 @@
       "tags": [
         "ai"
       ],
-      "score": "505",
+      "score": "591",
       "item_id": "hn:49286341",
       "summary_type": "extractive",
       "title_zh": "Spaghettifying DRAM",
       "summary_zh": "Spaghettifying DRAM"
+    },
+    {
+      "title": "Heart aerospace completes first flight of largest electric aircraft",
+      "summary": "Heart aerospace completes first flight of largest electric aircraft",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+      "published_at": "2026-08-13T14:11:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "128",
+      "item_id": "hn:49286270",
+      "summary_type": "extractive",
+      "title_zh": "Heart aerospace completes first flight of largest electric aircraft",
+      "summary_zh": "Heart aerospace completes first flight of largest electric aircraft"
     },
     {
       "title": "Gloomberb",
@@ -703,15 +671,15 @@
       "tags": [
         "ai"
       ],
-      "score": "387",
+      "score": "409",
       "item_id": "hn:49285982",
       "summary_type": "extractive",
       "title_zh": "Gloomberb",
       "summary_zh": "Gloomberb"
     },
     {
-      "title": "Ordinary abundance",
-      "summary": "Ordinary abundance",
+      "title": "Ordinary Abundance",
+      "summary": "Ordinary Abundance",
       "full_text": "",
       "source": "hacker news",
       "url": "https://ordinaryabundance.com/",
@@ -719,11 +687,11 @@
       "tags": [
         "ai"
       ],
-      "score": "225",
+      "score": "287",
       "item_id": "hn:49285770",
       "summary_type": "extractive",
-      "title_zh": "Ordinary abundance",
-      "summary_zh": "Ordinary abundance"
+      "title_zh": "Ordinary Abundance",
+      "summary_zh": "Ordinary Abundance"
     },
     {
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
@@ -735,7 +703,7 @@
       "tags": [
         "ai"
       ],
-      "score": "250",
+      "score": "298",
       "item_id": "hn:49285418",
       "summary_type": "extractive",
       "title_zh": "Nine PBS sues Iron Mountain over blocked access to archival data",
@@ -751,7 +719,7 @@
       "tags": [
         "ai"
       ],
-      "score": "179",
+      "score": "198",
       "item_id": "hn:49285327",
       "summary_type": "extractive",
       "title_zh": "Choosing an AI model: one prompt, 11 models, different results",
@@ -767,31 +735,47 @@
       "tags": [
         "ai"
       ],
-      "score": "564",
+      "score": "636",
       "item_id": "hn:49285244",
       "summary_type": "extractive",
       "title_zh": "DeepSeek Harness developer preview",
       "summary_zh": "https:&#x2F;&#x2F;github.com&#x2F;deepseek-ai&#x2F;deepseek-harnesshttps:&#x2F;&#x2F;deepseek-harness.github.io&#x2F;deepseek-harness&#x2F;en&#x2F;guide..."
     },
     {
-      "title": "Smooth Move: Taming Trajectories with Polynomials",
-      "summary": "Smooth Move: Taming Trajectories with Polynomials",
+      "title": "Show HN: C# Game Engine with its own scripting language and IDE",
+      "summary": "Show HN: C# Game Engine with its own scripting language and IDE",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
-      "published_at": "2026-08-10T15:06:15+00:00",
+      "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
+      "published_at": "2026-08-11T13:34:54+00:00",
       "tags": [
         "ai"
       ],
-      "score": "22",
-      "item_id": "hn:49244696",
+      "score": "14",
+      "item_id": "hn:49258085",
       "summary_type": "extractive",
-      "title_zh": "Smooth Move: Taming Trajectories with Polynomials",
-      "summary_zh": "Smooth Move: Taming Trajectories with Polynomials"
+      "title_zh": "Show HN: C# Game Engine with its own scripting language and IDE",
+      "summary_zh": "Show HN: C# Game Engine with its own scripting language and IDE"
     },
     {
-      "title": "An ambiguity in c89 which will never be fixed",
-      "summary": "An ambiguity in c89 which will never be fixed",
+      "title": "Credibility is the barrier to entry in silicon",
+      "summary": "Credibility is the barrier to entry in silicon",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry",
+      "published_at": "2026-08-10T11:32:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:49242287",
+      "summary_type": "extractive",
+      "title_zh": "Credibility is the barrier to entry in silicon",
+      "summary_zh": "Credibility is the barrier to entry in silicon"
+    },
+    {
+      "title": "an ambiguity in C89 which will never be fixed",
+      "summary": "an ambiguity in C89 which will never be fixed",
       "full_text": "",
       "source": "hacker news",
       "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
@@ -799,11 +783,11 @@
       "tags": [
         "ai"
       ],
-      "score": "35",
+      "score": "58",
       "item_id": "hn:49240615",
       "summary_type": "extractive",
-      "title_zh": "An ambiguity in c89 which will never be fixed",
-      "summary_zh": "An ambiguity in c89 which will never be fixed"
+      "title_zh": "an ambiguity in C89 which will never be fixed",
+      "summary_zh": "an ambiguity in C89 which will never be fixed"
     },
     {
       "title": "Finite State Machines in Forth (1994)",
@@ -815,11 +799,27 @@
       "tags": [
         "ai"
       ],
-      "score": "50",
+      "score": "72",
       "item_id": "hn:49223964",
       "summary_type": "extractive",
       "title_zh": "Finite State Machines in Forth (1994)",
       "summary_zh": "Finite State Machines in Forth (1994)"
+    },
+    {
+      "title": "Cave of the Crystals",
+      "summary": "Cave of the Crystals",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
+      "published_at": "2026-08-08T12:55:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "39",
+      "item_id": "hn:49221431",
+      "summary_type": "extractive",
+      "title_zh": "Cave of the Crystals",
+      "summary_zh": "Cave of the Crystals"
     },
     {
       "title": "How a device finds encrypted DNS by itself",
@@ -831,7 +831,7 @@
       "tags": [
         "ai"
       ],
-      "score": "17",
+      "score": "29",
       "item_id": "hn:49210740",
       "summary_type": "extractive",
       "title_zh": "How a device finds encrypted DNS by itself",

@@ -1,7 +1,290 @@
 {
-  "updated_at": "2026-08-13T19:12:27.852165+00:00",
+  "updated_at": "2026-08-14T02:32:23.957264+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Bluesky Protocol Services",
+      "summary": "Bluesky Protocol Services",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "published_at": "2026-08-14T00:14:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "73",
+      "item_id": "hn:49293324",
+      "summary_type": "extractive",
+      "title_zh": "Bluesky Protocol Services",
+      "summary_zh": "Bluesky Protocol Services"
+    },
+    {
+      "title": "SparrowMap – Cameras that watch government vehicles",
+      "summary": "SparrowMap – Cameras that watch government vehicles",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://sparrowmap.com/",
+      "published_at": "2026-08-14T00:10:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "55",
+      "item_id": "hn:49293294",
+      "summary_type": "extractive",
+      "title_zh": "SparrowMap – Cameras that watch government vehicles",
+      "summary_zh": "SparrowMap – Cameras that watch government vehicles"
+    },
+    {
+      "title": "TRS-80 Color Computer Extended Basic Emulator in JavaScript",
+      "summary": "TRS-80 Color Computer Extended Basic Emulator in JavaScript",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/bshichman/trs80-coco-basic",
+      "published_at": "2026-08-14T00:04:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:49293261",
+      "summary_type": "extractive",
+      "title_zh": "TRS-80 Color Computer Extended Basic Emulator in JavaScript",
+      "summary_zh": "TRS-80 Color Computer Extended Basic Emulator in JavaScript"
+    },
+    {
+      "title": "Blog about things you don't understand yet",
+      "summary": "Blog about things you don't understand yet",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+      "published_at": "2026-08-13T23:39:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:49293087",
+      "summary_type": "extractive",
+      "title_zh": "Blog about things you don't understand yet",
+      "summary_zh": "Blog about things you don't understand yet"
+    },
+    {
+      "title": "How AI text watermarking works",
+      "summary": "How AI text watermarking works",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://declaude.org/watermarking/",
+      "published_at": "2026-08-13T23:16:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "83",
+      "item_id": "hn:49292932",
+      "summary_type": "extractive",
+      "title_zh": "How AI text watermarking works",
+      "summary_zh": "How AI text watermarking works"
+    },
+    {
+      "title": "NP-overrated",
+      "summary": "NP-overrated",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "published_at": "2026-08-13T20:14:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "157",
+      "item_id": "hn:49291268",
+      "summary_type": "extractive",
+      "title_zh": "NP-overrated",
+      "summary_zh": "NP-overrated"
+    },
+    {
+      "title": "How Gödel's Proof Works (2020)",
+      "summary": "How Gödel's Proof Works (2020)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "published_at": "2026-08-13T19:44:46+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "74",
+      "item_id": "hn:49290969",
+      "summary_type": "extractive",
+      "title_zh": "How Gödel's Proof Works (2020)",
+      "summary_zh": "How Gödel's Proof Works (2020)"
+    },
+    {
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "summary": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "published_at": "2026-08-13T19:25:38+00:00",
+      "tags": [
+        "vision",
+        "llm"
+      ],
+      "score": "69",
+      "item_id": "hn:49290768",
+      "summary_type": "extractive",
+      "title_zh": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "summary_zh": "How Organizations Use AI: Evidence from ChatGPT [pdf]"
+    },
+    {
+      "title": "Understanding is the new bottleneck",
+      "summary": "Understanding is the new bottleneck",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "published_at": "2026-08-13T18:47:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "215",
+      "item_id": "hn:49290299",
+      "summary_type": "extractive",
+      "title_zh": "Understanding is the new bottleneck",
+      "summary_zh": "Understanding is the new bottleneck"
+    },
+    {
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "summary": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/systemd/systemd/issues/40262",
+      "published_at": "2026-08-13T18:41:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "154",
+      "item_id": "hn:49290215",
+      "summary_type": "extractive",
+      "title_zh": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "summary_zh": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes"
+    },
+    {
+      "title": "Hello, me. It's been a while",
+      "summary": "Hello, me. It's been a while",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "published_at": "2026-08-13T18:37:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "32",
+      "item_id": "hn:49290166",
+      "summary_type": "extractive",
+      "title_zh": "Hello, me. It's been a while",
+      "summary_zh": "Hello, me. It's been a while"
+    },
+    {
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "summary": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to drive recursive self-improvement, existing paradigms remain static and fall short of this capability. In this paper, we present AutoDesign, a framework that aligns with human design ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13560v1",
+      "published_at": "2026-08-13T17:59:57Z",
+      "tags": [
+        "agent",
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13560v1",
+      "summary_type": "extractive",
+      "title_zh": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "summary_zh": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to drive recursive self-improvement, existing paradigms remain static and fall short of this capability. In this paper, we present AutoDesign, a framework that aligns with human design "
+    },
+    {
+      "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+      "summary": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone does not provide access to the full evidence on which scientific discovery depends. Existing systems typically reason over text, code, labels, or precomputed summaries, leaving scientifically decisive spatial, temporal, cross-channel, and procedural relations unavailable to the ag",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13558v1",
+      "published_at": "2026-08-13T17:59:52Z",
+      "tags": [
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13558v1",
+      "summary_type": "extractive",
+      "title_zh": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+      "summary_zh": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone does not provide access to the full evidence on which scientific discovery depends. Existing systems typically reason over text, code, labels, or precomputed summaries, leaving scientifically decisive spatial, temporal, cross-channel, and procedural relations unavailable to the ag"
+    },
+    {
+      "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+      "summary": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physical artifacts that matter most, particularly unstable support and incorrect contacts such as foot skating and mistimed touch-downs. Meanwhile, widely used test suites are small and lack the diversity needed to stress contact-rich, long-horizon behaviors.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13555v1",
+      "published_at": "2026-08-13T17:59:40Z",
+      "tags": [
+        "vision",
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13555v1",
+      "summary_type": "extractive",
+      "title_zh": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+      "summary_zh": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physical artifacts that matter most, particularly unstable support and incorrect contacts such as foot skating and mistimed touch-downs. Meanwhile, widely used test suites are small and lack the diversity needed to stress contact-rich, long-horizon behaviors."
+    },
+    {
+      "title": "How Compaction Works in Pi",
+      "summary": "How Compaction Works in Pi",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://earendil.com/posts/compaction-in-pi/",
+      "published_at": "2026-08-13T17:57:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "111",
+      "item_id": "hn:49289654",
+      "summary_type": "extractive",
+      "title_zh": "How Compaction Works in Pi",
+      "summary_zh": "How Compaction Works in Pi"
+    },
+    {
+      "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+      "summary": "LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures introduced after generation. QuoteBench measures this boundary with exact final-state validation on 56 one-shot tasks from 14 incident-derived families, crossing the generation contract with the execution transport around one deliberately unescaped added parser.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13547v1",
+      "published_at": "2026-08-13T17:57:20Z",
+      "tags": [
+        "agent",
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13547v1",
+      "summary_type": "extractive",
+      "title_zh": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+      "summary_zh": "LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures introduced after generation. QuoteBench measures this boundary with exact final-state validation on 56 one-shot tasks from 14 incident-derived families, crossing the generation contract with the execution transport around one deliberately unescaped added parser."
+    },
+    {
+      "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+      "summary": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to characterize. To address this challenge, we introduce LITTLECURRICULUM, a curated 88B-token pretraining corpus tailored to U.S.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13545v1",
+      "published_at": "2026-08-13T17:56:12Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13545v1",
+      "summary_type": "extractive",
+      "title_zh": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+      "summary_zh": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to characterize. To address this challenge, we introduce LITTLECURRICULUM, a curated 88B-token pretraining corpus tailored to U.S."
+    },
     {
       "title": "Where did the old web go? We followed 657,607 links to find out",
       "summary": "Where did the old web go? We followed 657,607 links to find out",
@@ -12,7 +295,7 @@
       "tags": [
         "ai"
       ],
-      "score": "36",
+      "score": "134",
       "item_id": "hn:49289532",
       "summary_type": "extractive",
       "title_zh": "Where did the old web go? We followed 657,607 links to find out",
@@ -28,7 +311,7 @@
       "tags": [
         "ai"
       ],
-      "score": "83",
+      "score": "262",
       "item_id": "hn:49289512",
       "summary_type": "extractive",
       "title_zh": "Choose Boring Technology (2015)",
@@ -44,59 +327,95 @@
       "tags": [
         "ai"
       ],
-      "score": "57",
+      "score": "195",
       "item_id": "hn:49289465",
       "summary_type": "extractive",
       "title_zh": "Donkey.bas is 45 Years Old – 131 line of Glory",
       "summary_zh": "Donkey.bas is 45 Years Old – 131 line of Glory"
     },
     {
-      "title": "Flock (Again) Activates a Camera System a Town Had Voted to Shut Down",
-      "summary": "Flock (Again) Activates a Camera System a Town Had Voted to Shut Down",
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "summary": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and a machine-checked proof of its specification, offers a stronger path toward trustworthy AI-generated software. Existing benchmarks in this direction either focus on individual functions or only evaluate proof generation with provided implementations.",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.techdirt.com/2026/08/13/flock-again-activates-a-camera-system-a-town-had-voted-to-shut-down/",
-      "published_at": "2026-08-13T17:42:49+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13522v1",
+      "published_at": "2026-08-13T17:41:27Z",
       "tags": [
-        "ai"
+        "agent",
+        "paper"
       ],
-      "score": "15",
-      "item_id": "hn:49289424",
+      "score": "📄",
+      "item_id": "arxiv:2608.13522v1",
       "summary_type": "extractive",
-      "title_zh": "Flock (Again) Activates a Camera System a Town Had Voted to Shut Down",
-      "summary_zh": "Flock (Again) Activates a Camera System a Town Had Voted to Shut Down"
+      "title_zh": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "summary_zh": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and a machine-checked proof of its specification, offers a stronger path toward trustworthy AI-generated software. Existing benchmarks in this direction either focus on individual functions or only evaluate proof generation with provided implementations."
     },
     {
-      "title": "Hillock – Local neuro-symbolic memory engine running in <1.2GB VRAM",
-      "summary": "Hillock – Local neuro-symbolic memory engine running in <1.2GB VRAM",
+      "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
+      "summary": "We study masking diffusion for discrete sampling and introduce a path-resolved measure of data geometry called the \\emph{unmasking growth complexity} ({\\textsf{UGC}\\xspace}). Its local increments directly control Kullback--Leibler (KL) discretization error, yielding a unified analysis of Bernoulli-subset and fixed-cardinality unmasking schemes. In log-reveal-odds coordinates, this structure yields optimized single-block and multi-block schedules, and quantifies the gains from adapting computatio",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/roandejager/Hillock",
-      "published_at": "2026-08-13T17:26:17+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13520v1",
+      "published_at": "2026-08-13T17:40:17Z",
       "tags": [
-        "ai"
+        "vision",
+        "paper"
       ],
-      "score": "5",
-      "item_id": "hn:49289158",
+      "score": "📄",
+      "item_id": "arxiv:2608.13520v1",
       "summary_type": "extractive",
-      "title_zh": "Hillock – Local neuro-symbolic memory engine running in <1.2GB VRAM",
-      "summary_zh": "Hillock – Local neuro-symbolic memory engine running in <1.2GB VRAM"
+      "title_zh": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
+      "summary_zh": "We study masking diffusion for discrete sampling and introduce a path-resolved measure of data geometry called the \\emph{unmasking growth complexity} ({\\textsf{UGC}\\xspace}). Its local increments directly control Kullback--Leibler (KL) discretization error, yielding a unified analysis of Bernoulli-subset and fixed-cardinality unmasking schemes. In log-reveal-odds coordinates, this structure yields optimized single-block and multi-block schedules, and quantifies the gains from adapting computatio"
     },
     {
-      "title": "JDK 27 G1/Parallel/Serial GC Changes",
-      "summary": "JDK 27 G1/Parallel/Serial GC Changes",
+      "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
+      "summary": "Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mimir v1, a 1-billion-parameter language model based on the Hierarchical Reasoning Model (HRM) architecture, that is trained from scratch and delivers highly competitive performance for English and sets a new state of the art for Danish using only permissible post-training data. Trained on a mixture o",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13517v1",
+      "published_at": "2026-08-13T17:37:53Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13517v1",
+      "summary_type": "extractive",
+      "title_zh": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
+      "summary_zh": "Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mimir v1, a 1-billion-parameter language model based on the Hierarchical Reasoning Model (HRM) architecture, that is trained from scratch and delivers highly competitive performance for English and sets a new state of the art for Danish using only permissible post-training data. Trained on a mixture o"
+    },
+    {
+      "title": "I want extern \"fil-C\"",
+      "summary": "I want extern \"fil-C\"",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
-      "published_at": "2026-08-13T17:22:39+00:00",
+      "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+      "published_at": "2026-08-13T17:32:07+00:00",
       "tags": [
         "ai"
       ],
-      "score": "17",
-      "item_id": "hn:49289101",
+      "score": "33",
+      "item_id": "hn:49289260",
       "summary_type": "extractive",
-      "title_zh": "JDK 27 G1/Parallel/Serial GC Changes",
-      "summary_zh": "JDK 27 G1/Parallel/Serial GC Changes"
+      "title_zh": "I want extern \"fil-C\"",
+      "summary_zh": "I want extern \"fil-C\""
+    },
+    {
+      "title": "AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)",
+      "summary": "This report presents an improved version of AlayaWorld. While the backbone architecture, chunk-wise autoregressive generation scheme, and training data remain unchanged from the previous release, we substantially revise how conditioning signals are represented and integrated into the model. The new design is guided by a simple principle: conditioning signals should match the generated content as closely as possible in both latent representation and temporal structure.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13492v1",
+      "published_at": "2026-08-13T17:21:03Z",
+      "tags": [
+        "paper",
+        "ai"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13492v1",
+      "summary_type": "extractive",
+      "title_zh": "AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)",
+      "summary_zh": "This report presents an improved version of AlayaWorld. While the backbone architecture, chunk-wise autoregressive generation scheme, and training data remain unchanged from the previous release, we substantially revise how conditioning signals are represented and integrated into the model. The new design is guided by a simple principle: conditioning signals should match the generated content as closely as possible in both latent representation and temporal structure."
     },
     {
       "title": "Tocharian Online",
@@ -108,27 +427,207 @@
       "tags": [
         "ai"
       ],
-      "score": "30",
+      "score": "58",
       "item_id": "hn:49289026",
       "summary_type": "extractive",
       "title_zh": "Tocharian Online",
       "summary_zh": "Tocharian Online"
     },
     {
-      "title": "GoAccess – Open-source real-time log analyzer and interactive viewer",
-      "summary": "GoAccess – Open-source real-time log analyzer and interactive viewer",
+      "title": "Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity",
+      "summary": "When asked about entities outside their knowledge boundary, LLMs routinely fabricate plausible-sounding details rather than backing off to safer, more general claims. We frame this failure through a Gricean lens: a cooperative speaker who is uncertain about a referent retreats up the specificity hierarchy, trading informativeness for truthfulness. We ask whether LLMs have the ingredients to perform this retreat.",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://goaccess.io/",
-      "published_at": "2026-08-13T16:22:16+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13484v1",
+      "published_at": "2026-08-13T17:13:41Z",
       "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13484v1",
+      "summary_type": "extractive",
+      "title_zh": "Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity",
+      "summary_zh": "When asked about entities outside their knowledge boundary, LLMs routinely fabricate plausible-sounding details rather than backing off to safer, more general claims. We frame this failure through a Gricean lens: a cooperative speaker who is uncertain about a referent retreats up the specificity hierarchy, trading informativeness for truthfulness. We ask whether LLMs have the ingredients to perform this retreat."
+    },
+    {
+      "title": "Synthetic Persona Pretraining: Alignment from Token Zero",
+      "summary": "As language-model-based AI is increasingly deployed in autonomous settings, aligning its goals and values with those of humans becomes critical. Today, alignment, and the assistant identity itself, are typically introduced only after pretraining, once behavioral priors are already established. This can make values a thin overlay, rather than deeply rooted, and facilitate subsequent misalignment.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13482v1",
+      "published_at": "2026-08-13T17:12:04Z",
+      "tags": [
+        "agent",
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13482v1",
+      "summary_type": "extractive",
+      "title_zh": "Synthetic Persona Pretraining: Alignment from Token Zero",
+      "summary_zh": "As language-model-based AI is increasingly deployed in autonomous settings, aligning its goals and values with those of humans becomes critical. Today, alignment, and the assistant identity itself, are typically introduced only after pretraining, once behavioral priors are already established. This can make values a thin overlay, rather than deeply rooted, and facilitate subsequent misalignment."
+    },
+    {
+      "title": "MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination",
+      "summary": "We present Multi-Agent Reasoning and Coordination (MARC), an open-source framework that replaces monolithic LLM prompting with deterministic multi-agent orchestration for clinical reasoning. MARC coordinates role-specialized agents for extraction, reasoning, answer generation, and evaluation, with explicit context passing and traceable intermediate outputs, enabling stage-wise failure attribution. We additionally introduce a Decomposer module that generates task-specific agent prompts from a pla",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13476v1",
+      "published_at": "2026-08-13T17:00:08Z",
+      "tags": [
+        "agent",
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13476v1",
+      "summary_type": "extractive",
+      "title_zh": "MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination",
+      "summary_zh": "We present Multi-Agent Reasoning and Coordination (MARC), an open-source framework that replaces monolithic LLM prompting with deterministic multi-agent orchestration for clinical reasoning. MARC coordinates role-specialized agents for extraction, reasoning, answer generation, and evaluation, with explicit context passing and traceable intermediate outputs, enabling stage-wise failure attribution. We additionally introduce a Decomposer module that generates task-specific agent prompts from a pla"
+    },
+    {
+      "title": "AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models",
+      "summary": "Analog circuit design is a time-consuming, iterative process in a nonlinear and high-dimensional design space that relies heavily on expert intuition. Among recent developments, LLMs have introduced a promising approach by bringing natural language reasoning to circuit design tasks. The majority of conventional LLM-based approaches provide fragmented solutions that focus either only on sizing or topology generation.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13472v1",
+      "published_at": "2026-08-13T16:57:07Z",
+      "tags": [
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13472v1",
+      "summary_type": "extractive",
+      "title_zh": "AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models",
+      "summary_zh": "Analog circuit design is a time-consuming, iterative process in a nonlinear and high-dimensional design space that relies heavily on expert intuition. Among recent developments, LLMs have introduced a promising approach by bringing natural language reasoning to circuit design tasks. The majority of conventional LLM-based approaches provide fragmented solutions that focus either only on sizing or topology generation."
+    },
+    {
+      "title": "Concept Drift Detection and Adaptive Retraining of Malware Classification Models",
+      "summary": "Concept drift refers to changes over time in the statistical properties of data, as compared to the data that was used to train a learning model. Machine learning models for malware detection or classification are particularly susceptible to performance degradation caused by concept drift, as attackers constantly modify existing malware. In this chapter, we analyze two machine learning-based approaches to automated concept drift detection-a novel approach based on One-Class Support Vector Machin",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13465v1",
+      "published_at": "2026-08-13T16:46:56Z",
+      "tags": [
+        "paper",
         "ai"
       ],
-      "score": "21",
-      "item_id": "hn:49288296",
+      "score": "📄",
+      "item_id": "arxiv:2608.13465v1",
       "summary_type": "extractive",
-      "title_zh": "GoAccess – Open-source real-time log analyzer and interactive viewer",
-      "summary_zh": "GoAccess – Open-source real-time log analyzer and interactive viewer"
+      "title_zh": "Concept Drift Detection and Adaptive Retraining of Malware Classification Models",
+      "summary_zh": "Concept drift refers to changes over time in the statistical properties of data, as compared to the data that was used to train a learning model. Machine learning models for malware detection or classification are particularly susceptible to performance degradation caused by concept drift, as attackers constantly modify existing malware. In this chapter, we analyze two machine learning-based approaches to automated concept drift detection-a novel approach based on One-Class Support Vector Machin"
+    },
+    {
+      "title": "MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification",
+      "summary": "Modern image classification models excel when trained on single task-specific datasets but often struggle to generalize across domains and difficulty levels. We propose ARMDIL, an Adaptive Router for Multi-Domain Image classification with LLMs. ARMDIL is an ensemble that uses a multimodal large language model (MLLM) agent to dynamically route each image to the most suitable vision backbone.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13463v1",
+      "published_at": "2026-08-13T16:45:24Z",
+      "tags": [
+        "agent",
+        "vision",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13463v1",
+      "summary_type": "extractive",
+      "title_zh": "MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification",
+      "summary_zh": "Modern image classification models excel when trained on single task-specific datasets but often struggle to generalize across domains and difficulty levels. We propose ARMDIL, an Adaptive Router for Multi-Domain Image classification with LLMs. ARMDIL is an ensemble that uses a multimodal large language model (MLLM) agent to dynamically route each image to the most suitable vision backbone."
+    },
+    {
+      "title": "CAPRI: Contract-Aware Proof Repair for Isabelle",
+      "summary": "We address the use of large language models (LLMs) to help discover Isabelle proofs. An Isabelle build establishes that the submitted theory is accepted, but not that an LLM changed only what the developer authorised. We present CAPRI, a contract-aware repair workflow in which Isabelle checks the proof and an independent checker enforces a machine-readable edit contract.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13459v1",
+      "published_at": "2026-08-13T16:43:44Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13459v1",
+      "summary_type": "extractive",
+      "title_zh": "CAPRI: Contract-Aware Proof Repair for Isabelle",
+      "summary_zh": "We address the use of large language models (LLMs) to help discover Isabelle proofs. An Isabelle build establishes that the submitted theory is accepted, but not that an LLM changed only what the developer authorised. We present CAPRI, a contract-aware repair workflow in which Isabelle checks the proof and an independent checker enforces a machine-readable edit contract."
+    },
+    {
+      "title": "A Unifying Perspective on Causal World Models: From Observations to Representations to Structure",
+      "summary": "World Models (WM) are increasingly seen as a foundation for intelligent agents that can predict, plan, and act beyond their training distribution. In this paper, we study WMs from a causal perspective across multiple levels of abstraction, ranging from perceptual observations to building a conceptual representation of the structure governing the environment dynamics. We argue that useful WMs must go beyond generative capabilities alone: they should also capture entity properties, entity-to-entit",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13456v1",
+      "published_at": "2026-08-13T16:40:35Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13456v1",
+      "summary_type": "extractive",
+      "title_zh": "A Unifying Perspective on Causal World Models: From Observations to Representations to Structure",
+      "summary_zh": "World Models (WM) are increasingly seen as a foundation for intelligent agents that can predict, plan, and act beyond their training distribution. In this paper, we study WMs from a causal perspective across multiple levels of abstraction, ranging from perceptual observations to building a conceptual representation of the structure governing the environment dynamics. We argue that useful WMs must go beyond generative capabilities alone: they should also capture entity properties, entity-to-entit"
+    },
+    {
+      "title": "UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models",
+      "summary": "Vision-Language-Action (VLA) models have emerged as generalist robotic policies capable of following diverse language instructions and performing a wide range of manipulation tasks. However, their direct control over embodied agents also exposes them to adversarial interference that may cause unsafe physical behaviors. Existing attacks on robotic policies are typically optimized for a single task or instruction, leaving the cross-task vulnerabilities of multitask VLAs largely unexplored.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13453v1",
+      "published_at": "2026-08-13T16:38:57Z",
+      "tags": [
+        "agent",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13453v1",
+      "summary_type": "extractive",
+      "title_zh": "UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models",
+      "summary_zh": "Vision-Language-Action (VLA) models have emerged as generalist robotic policies capable of following diverse language instructions and performing a wide range of manipulation tasks. However, their direct control over embodied agents also exposes them to adversarial interference that may cause unsafe physical behaviors. Existing attacks on robotic policies are typically optimized for a single task or instruction, leaving the cross-task vulnerabilities of multitask VLAs largely unexplored."
+    },
+    {
+      "title": "Academic League of Artificial Intelligence - An Integrative Perspective of Teaching, Research, and Extension",
+      "summary": "Academic leagues have become important mechanisms for promoting extracurricular education and strengthening the integration between universities and society. This paper presents the organizational framework adopted by the Academic League of Artificial Intelligence (LIA) at the Federal University of Santa Catarina (UFSC), designed to integrate teaching, research, and university extension through a student-centered, project-based approach. The framework combines democratic governance, collaborativ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13447v1",
+      "published_at": "2026-08-13T16:32:44Z",
+      "tags": [
+        "vision",
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13447v1",
+      "summary_type": "extractive",
+      "title_zh": "Academic League of Artificial Intelligence - An Integrative Perspective of Teaching, Research, and Extension",
+      "summary_zh": "Academic leagues have become important mechanisms for promoting extracurricular education and strengthening the integration between universities and society. This paper presents the organizational framework adopted by the Academic League of Artificial Intelligence (LIA) at the Federal University of Santa Catarina (UFSC), designed to integrate teaching, research, and university extension through a student-centered, project-based approach. The framework combines democratic governance, collaborativ"
+    },
+    {
+      "title": "ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models",
+      "summary": "Contact-rich manipulation failures are often detected only after the robot has committed to contact. This is especially limiting in wrist-camera setups: close gripper--object views help observe contact, but a poor approach may already push, miss, slip, or disturb the object before conventional detectors react. We introduce \\emph{ContactGuard}, a pre-contact execution monitor for chunked visuomotor policies.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.13438v1",
+      "published_at": "2026-08-13T16:25:54Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.13438v1",
+      "summary_type": "extractive",
+      "title_zh": "ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models",
+      "summary_zh": "Contact-rich manipulation failures are often detected only after the robot has committed to contact. This is especially limiting in wrist-camera setups: close gripper--object views help observe contact, but a poor approach may already push, miss, slip, or disturb the object before conventional detectors react. We introduce \\emph{ContactGuard}, a pre-contact execution monitor for chunked visuomotor policies."
     },
     {
       "title": "AI At Home Part 1: A Box Of Scraps",
@@ -140,27 +639,27 @@
       "tags": [
         "ai"
       ],
-      "score": "35",
+      "score": "92",
       "item_id": "hn:49288293",
       "summary_type": "extractive",
       "title_zh": "AI At Home Part 1: A Box Of Scraps",
       "summary_zh": "AI At Home Part 1: A Box Of Scraps"
     },
     {
-      "title": "I requested a copy of my data from McDonald’s loyalty program",
-      "summary": "I requested a copy of my data from McDonald’s loyalty program",
+      "title": "Text AI watermarks will always be trivial to remove",
+      "summary": "Text AI watermarks will always be trivial to remove",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-      "published_at": "2026-08-13T14:37:51+00:00",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+      "published_at": "2026-08-13T15:07:10+00:00",
       "tags": [
         "ai"
       ],
-      "score": "168",
-      "item_id": "hn:49286662",
+      "score": "99",
+      "item_id": "hn:49287153",
       "summary_type": "extractive",
-      "title_zh": "I requested a copy of my data from McDonald’s loyalty program",
-      "summary_zh": "I requested a copy of my data from McDonald’s loyalty program"
+      "title_zh": "Text AI watermarks will always be trivial to remove",
+      "summary_zh": "Text AI watermarks will always be trivial to remove"
     },
     {
       "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
@@ -172,27 +671,11 @@
       "tags": [
         "ai"
       ],
-      "score": "101",
+      "score": "160",
       "item_id": "hn:49286485",
       "summary_type": "extractive",
       "title_zh": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "summary_zh": "Kubernetes on Oxide: How customer needs shaped our integrations"
-    },
-    {
-      "title": "Graduate student proves a quantum uncertainty principle for fractals",
-      "summary": "Graduate student proves a quantum uncertainty principle for fractals",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-      "published_at": "2026-08-13T14:22:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "48",
-      "item_id": "hn:49286424",
-      "summary_type": "extractive",
-      "title_zh": "Graduate student proves a quantum uncertainty principle for fractals",
-      "summary_zh": "Graduate student proves a quantum uncertainty principle for fractals"
     },
     {
       "title": "Spaghettifying DRAM",
@@ -204,27 +687,11 @@
       "tags": [
         "ai"
       ],
-      "score": "328",
+      "score": "505",
       "item_id": "hn:49286341",
       "summary_type": "extractive",
       "title_zh": "Spaghettifying DRAM",
       "summary_zh": "Spaghettifying DRAM"
-    },
-    {
-      "title": "Time to Move On: Querying Without Nulls and Bags",
-      "summary": "Time to Move On: Querying Without Nulls and Bags",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arxiv.org/abs/2608.10863",
-      "published_at": "2026-08-13T13:54:56+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "43",
-      "item_id": "hn:49286030",
-      "summary_type": "extractive",
-      "title_zh": "Time to Move On: Querying Without Nulls and Bags",
-      "summary_zh": "Time to Move On: Querying Without Nulls and Bags"
     },
     {
       "title": "Gloomberb",
@@ -236,7 +703,7 @@
       "tags": [
         "ai"
       ],
-      "score": "305",
+      "score": "387",
       "item_id": "hn:49285982",
       "summary_type": "extractive",
       "title_zh": "Gloomberb",
@@ -252,43 +719,27 @@
       "tags": [
         "ai"
       ],
-      "score": "120",
+      "score": "225",
       "item_id": "hn:49285770",
       "summary_type": "extractive",
       "title_zh": "Ordinary abundance",
       "summary_zh": "Ordinary abundance"
     },
     {
-      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
-      "summary": "I built a 500k-domain search engine for makers in a weekend for $10",
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "summary": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-      "published_at": "2026-08-13T13:36:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "95",
-      "item_id": "hn:49285718",
-      "summary_type": "extractive",
-      "title_zh": "I built a 500k-domain search engine for makers in a weekend for $10",
-      "summary_zh": "I built a 500k-domain search engine for makers in a weekend for $10"
-    },
-    {
-      "title": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
-      "summary": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
       "published_at": "2026-08-13T13:14:12+00:00",
       "tags": [
         "ai"
       ],
-      "score": "139",
+      "score": "250",
       "item_id": "hn:49285418",
       "summary_type": "extractive",
-      "title_zh": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
-      "summary_zh": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct"
+      "title_zh": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "summary_zh": "Nine PBS sues Iron Mountain over blocked access to archival data"
     },
     {
       "title": "Choosing an AI model: one prompt, 11 models, different results",
@@ -300,7 +751,7 @@
       "tags": [
         "ai"
       ],
-      "score": "132",
+      "score": "179",
       "item_id": "hn:49285327",
       "summary_type": "extractive",
       "title_zh": "Choosing an AI model: one prompt, 11 models, different results",
@@ -316,529 +767,75 @@
       "tags": [
         "ai"
       ],
-      "score": "457",
+      "score": "564",
       "item_id": "hn:49285244",
       "summary_type": "extractive",
       "title_zh": "DeepSeek Harness developer preview",
       "summary_zh": "https:&#x2F;&#x2F;github.com&#x2F;deepseek-ai&#x2F;deepseek-harnesshttps:&#x2F;&#x2F;deepseek-harness.github.io&#x2F;deepseek-harness&#x2F;en&#x2F;guide..."
     },
     {
-      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "summary": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "title": "Smooth Move: Taming Trajectories with Polynomials",
+      "summary": "Smooth Move: Taming Trajectories with Polynomials",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "published_at": "2026-08-13T12:09:50+00:00",
+      "url": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
+      "published_at": "2026-08-10T15:06:15+00:00",
       "tags": [
         "ai"
       ],
-      "score": "349",
-      "item_id": "hn:49284774",
+      "score": "22",
+      "item_id": "hn:49244696",
       "summary_type": "extractive",
-      "title_zh": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "summary_zh": "Deutsche Bank becomes first foreign yuan clearing bank in Europe"
+      "title_zh": "Smooth Move: Taming Trajectories with Polynomials",
+      "summary_zh": "Smooth Move: Taming Trajectories with Polynomials"
     },
     {
-      "title": "How art invented humanity",
-      "summary": "How art invented humanity",
+      "title": "An ambiguity in c89 which will never be fixed",
+      "summary": "An ambiguity in c89 which will never be fixed",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-      "published_at": "2026-08-12T22:47:40+00:00",
+      "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+      "published_at": "2026-08-10T07:49:09+00:00",
       "tags": [
         "ai"
       ],
-      "score": "52",
-      "item_id": "hn:49279638",
+      "score": "35",
+      "item_id": "hn:49240615",
       "summary_type": "extractive",
-      "title_zh": "How art invented humanity",
-      "summary_zh": "How art invented humanity"
+      "title_zh": "An ambiguity in c89 which will never be fixed",
+      "summary_zh": "An ambiguity in c89 which will never be fixed"
     },
     {
-      "title": "The Indo-European Family Tree",
-      "summary": "The Indo-European Family Tree",
+      "title": "Finite State Machines in Forth (1994)",
+      "summary": "Finite State Machines in Forth (1994)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://djbinder.com/language-tree/",
-      "published_at": "2026-08-12T22:47:12+00:00",
+      "url": "https://www.forth.org/literature/noble.html",
+      "published_at": "2026-08-08T17:38:15+00:00",
       "tags": [
         "ai"
       ],
-      "score": "45",
-      "item_id": "hn:49279627",
+      "score": "50",
+      "item_id": "hn:49223964",
       "summary_type": "extractive",
-      "title_zh": "The Indo-European Family Tree",
-      "summary_zh": "The Indo-European Family Tree"
+      "title_zh": "Finite State Machines in Forth (1994)",
+      "summary_zh": "Finite State Machines in Forth (1994)"
     },
     {
-      "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
-      "summary": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability. Although recent VLA models offer a promising perception-to-action paradigm, adapting them to aerial navigation remains challenging due to limited historical context, short planning horizons, and unreliable implicit termination. To address these challenges, we propose DreamFly, a diffusion-b",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12308v1",
-      "published_at": "2026-08-12T17:54:33Z",
-      "tags": [
-        "vision",
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12308v1",
-      "summary_type": "extractive",
-      "title_zh": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
-      "summary_zh": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability. Although recent VLA models offer a promising perception-to-action paradigm, adapting them to aerial navigation remains challenging due to limited historical context, short planning horizons, and unreliable implicit termination. To address these challenges, we propose DreamFly, a diffusion-b"
-    },
-    {
-      "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
-      "summary": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In this paper, we ask whether such transfer can instead occur at test time. We study strong-to-weak scaffolding: whether a stronger builder model can construct inference-time harnesses that help a weaker target model solve tasks more reliably without any parameter updates.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12307v1",
-      "published_at": "2026-08-12T17:53:18Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12307v1",
-      "summary_type": "extractive",
-      "title_zh": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
-      "summary_zh": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In this paper, we ask whether such transfer can instead occur at test time. We study strong-to-weak scaffolding: whether a stronger builder model can construct inference-time harnesses that help a weaker target model solve tasks more reliably without any parameter updates."
-    },
-    {
-      "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
-      "summary": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, with no per-step attribution. We frame this as a temporal credit assignment problem and propose the Redistribution-based Cost Inference (RCI) framework, which converts sparse stop-feedback into dense per-step costs via return decomposition, then trains a constrained offline policy on the augmented dat",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12306v1",
-      "published_at": "2026-08-12T17:53:15Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12306v1",
-      "summary_type": "extractive",
-      "title_zh": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
-      "summary_zh": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, with no per-step attribution. We frame this as a temporal credit assignment problem and propose the Redistribution-based Cost Inference (RCI) framework, which converts sparse stop-feedback into dense per-step costs via return decomposition, then trains a constrained offline policy on the augmented dat"
-    },
-    {
-      "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
-      "summary": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically relies on expert interpretation of technical documentation, limiting scalability for complex systems. This study presents a framework for automated construction of DML models from system descriptions and their representation as Knowledge Graphs (KG-DML), using Retrieval-Augmented Generation and Large ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12304v1",
-      "published_at": "2026-08-12T17:50:39Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12304v1",
-      "summary_type": "extractive",
-      "title_zh": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
-      "summary_zh": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically relies on expert interpretation of technical documentation, limiting scalability for complex systems. This study presents a framework for automated construction of DML models from system descriptions and their representation as Knowledge Graphs (KG-DML), using Retrieval-Augmented Generation and Large "
-    },
-    {
-      "title": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
-      "summary": "Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpose is intuitive: it converts internal model evidence into a heatmap that highlights the image regions, convolutional channels, tokens, or patches that support a target class or concept. Since the first CAM formulation in 2016, the field has moved far beyond global-average-pooled CNN classifiers.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12299v1",
-      "published_at": "2026-08-12T17:45:03Z",
-      "tags": [
-        "vision",
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12299v1",
-      "summary_type": "extractive",
-      "title_zh": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
-      "summary_zh": "Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpose is intuitive: it converts internal model evidence into a heatmap that highlights the image regions, convolutional channels, tokens, or patches that support a target class or concept. Since the first CAM formulation in 2016, the field has moved far beyond global-average-pooled CNN classifiers."
-    },
-    {
-      "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
-      "summary": "Modern black-box Image-to-Video (I2V) models offer powerful capabilities in automated content creation, yet their lack of fine-grained control and reliability presents significant challenges in professional workflows. Their inherent stochasticity causes minor variations in textual prompts or hyperparameters to yield drastically different outputs often necessitating inefficient, brute-force trial-and-error processes. To address these limitations, we introduce the ``Agentic Self-Improvement\" frame",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12290v1",
-      "published_at": "2026-08-12T17:35:16Z",
-      "tags": [
-        "vision",
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12290v1",
-      "summary_type": "extractive",
-      "title_zh": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
-      "summary_zh": "Modern black-box Image-to-Video (I2V) models offer powerful capabilities in automated content creation, yet their lack of fine-grained control and reliability presents significant challenges in professional workflows. Their inherent stochasticity causes minor variations in textual prompts or hyperparameters to yield drastically different outputs often necessitating inefficient, brute-force trial-and-error processes. To address these limitations, we introduce the ``Agentic Self-Improvement\" frame"
-    },
-    {
-      "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
-      "summary": "Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\\textbf{V}aluating \\textbf{A}PI and \\textbf{K}nowledge \\textbf{R}etrieval \\textbf{A}gents), a benchmark of over $8{,}000$ executable APIs across $62$ domains with tasks spanning three settings of increasing difficulty: diverse API interaction styles, multi-hop reasoning over structured APIs, and multi-source rea",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12282v1",
-      "published_at": "2026-08-12T17:27:27Z",
-      "tags": [
-        "agent",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12282v1",
-      "summary_type": "extractive",
-      "title_zh": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
-      "summary_zh": "Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\\textbf{V}aluating \\textbf{A}PI and \\textbf{K}nowledge \\textbf{R}etrieval \\textbf{A}gents), a benchmark of over $8{,}000$ executable APIs across $62$ domains with tasks spanning three settings of increasing difficulty: diverse API interaction styles, multi-hop reasoning over structured APIs, and multi-source rea"
-    },
-    {
-      "title": "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages",
-      "summary": "Artificial intelligence tools for education and language support are increasingly framed as scalable responses to access gaps in under-resourced communities. Yet the infrastructure underlying these tools, including training corpora, tokenization schemes, evaluation benchmarks, and deployment architectures, can systematically disadvantage speakers of underrepresented languages before a model is trained.\n  This paper examines these structural barriers through Bengali, one of the world's most widel",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12278v1",
-      "published_at": "2026-08-12T17:17:25Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12278v1",
-      "summary_type": "extractive",
-      "title_zh": "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages",
-      "summary_zh": "Artificial intelligence tools for education and language support are increasingly framed as scalable responses to access gaps in under-resourced communities. Yet the infrastructure underlying these tools, including training corpora, tokenization schemes, evaluation benchmarks, and deployment architectures, can systematically disadvantage speakers of underrepresented languages before a model is trained.\n  This paper examines these structural barriers through Bengali, one of the world's most widel"
-    },
-    {
-      "title": "A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery",
-      "summary": "Background: Accurate segmentation of the Left Anterior Descending (LAD) artery in 3D free-breathing, non-contrast CT is critical for cardiac dose sparing in thoracic radiotherapy. The LAD is extremely small, has poor soft-tissue contrast, and varies substantially across patients; even manual contours show limited inter-observer agreement, underscoring the ambiguity of the vessel boundaries. Purpose: To develop a transformer-based framework that improves LAD delineation in low-contrast, imbalance",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12274v1",
-      "published_at": "2026-08-12T17:13:59Z",
-      "tags": [
-        "vision",
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12274v1",
-      "summary_type": "extractive",
-      "title_zh": "A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery",
-      "summary_zh": "Background: Accurate segmentation of the Left Anterior Descending (LAD) artery in 3D free-breathing, non-contrast CT is critical for cardiac dose sparing in thoracic radiotherapy. The LAD is extremely small, has poor soft-tissue contrast, and varies substantially across patients; even manual contours show limited inter-observer agreement, underscoring the ambiguity of the vessel boundaries. Purpose: To develop a transformer-based framework that improves LAD delineation in low-contrast, imbalance"
-    },
-    {
-      "title": "Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents",
-      "summary": "LLM agents increasingly rely on third-party skills, using natural-language descriptions for selection and instruction bodies for planning. This progressive-disclosure design exposes two sequential control points to untrusted publishers: a static skill may steer an otherwise correct task onto an unnecessarily costly trajectory. Prior work studies selection manipulation, malicious skill instructions, and tool-chain resource amplification largely separately, leaving their end-to-end composition unc",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12273v1",
-      "published_at": "2026-08-12T17:12:49Z",
-      "tags": [
-        "llm",
-        "paper",
-        "agent",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12273v1",
-      "summary_type": "extractive",
-      "title_zh": "Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents",
-      "summary_zh": "LLM agents increasingly rely on third-party skills, using natural-language descriptions for selection and instruction bodies for planning. This progressive-disclosure design exposes two sequential control points to untrusted publishers: a static skill may steer an otherwise correct task onto an unnecessarily costly trajectory. Prior work studies selection manipulation, malicious skill instructions, and tool-chain resource amplification largely separately, leaving their end-to-end composition unc"
-    },
-    {
-      "title": "Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams",
-      "summary": "Multimodal Large Language Models (MLLMs) have been growing the capability for scientific writing and collaboration. For example, OpenAI Prism is a free workspace for scientific writing and collaboration. One important feature in Prism is turning scientific diagrams directly into LaTeX TikZ code.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12262v1",
-      "published_at": "2026-08-12T17:04:13Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12262v1",
-      "summary_type": "extractive",
-      "title_zh": "Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams",
-      "summary_zh": "Multimodal Large Language Models (MLLMs) have been growing the capability for scientific writing and collaboration. For example, OpenAI Prism is a free workspace for scientific writing and collaboration. One important feature in Prism is turning scientific diagrams directly into LaTeX TikZ code."
-    },
-    {
-      "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
-      "summary": "Multi-agent reinforcement learning for human-AI interaction typically relies on a single large language model to simulate user behavior. We show that this approach systematically fails to generalize, and trace the failure to simulator collapse: because the simulator LLM is mode-collapsed, an LLM policy trained against it overfits to narrow strategies that exploit the simulator's dominant mode, and such a policy transfers poorly to unseen simulators and real users. We formalize this collapse theo",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12253v1",
-      "published_at": "2026-08-12T16:55:50Z",
-      "tags": [
-        "llm",
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12253v1",
-      "summary_type": "extractive",
-      "title_zh": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
-      "summary_zh": "Multi-agent reinforcement learning for human-AI interaction typically relies on a single large language model to simulate user behavior. We show that this approach systematically fails to generalize, and trace the failure to simulator collapse: because the simulator LLM is mode-collapsed, an LLM policy trained against it overfits to narrow strategies that exploit the simulator's dominant mode, and such a policy transfers poorly to unseen simulators and real users. We formalize this collapse theo"
-    },
-    {
-      "title": "An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS",
-      "summary": "Modernizing legacy Fortran is a problem of volume: the transformations are individually routine, but the codebases can be enormous, and across much of computational science the work simply goes undone. We propose an agentic workflow that takes this work on at production scale, and we set out to measure how far such delegation can reach. In this work, three prompt-specialized agent roles operate under a version-controlled specification that the agents themselves authored and revised, while humans",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12249v1",
-      "published_at": "2026-08-12T16:48:47Z",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12249v1",
-      "summary_type": "extractive",
-      "title_zh": "An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS",
-      "summary_zh": "Modernizing legacy Fortran is a problem of volume: the transformations are individually routine, but the codebases can be enormous, and across much of computational science the work simply goes undone. We propose an agentic workflow that takes this work on at production scale, and we set out to measure how far such delegation can reach. In this work, three prompt-specialized agent roles operate under a version-controlled specification that the agents themselves authored and revised, while humans"
-    },
-    {
-      "title": "VICBench: A Multi-Language Benchmark for Code Vulnerability Detection",
-      "summary": "Evaluating security vulnerability detection tools requires benchmark datasets with vulnerability-inducing commits (VICs) - the commits that first introduce vulnerabilities into codebases. VICs are essential for determining the full range of vulnerable software versions. Existing vulnerability datasets suffer from limited programming language coverage, restricted patch complexity, and narrow project scope.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12246v1",
-      "published_at": "2026-08-12T16:45:49Z",
-      "tags": [
-        "agent",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12246v1",
-      "summary_type": "extractive",
-      "title_zh": "VICBench: A Multi-Language Benchmark for Code Vulnerability Detection",
-      "summary_zh": "Evaluating security vulnerability detection tools requires benchmark datasets with vulnerability-inducing commits (VICs) - the commits that first introduce vulnerabilities into codebases. VICs are essential for determining the full range of vulnerable software versions. Existing vulnerability datasets suffer from limited programming language coverage, restricted patch complexity, and narrow project scope."
-    },
-    {
-      "title": "HAMP-LIC: Hessian-Aware Mixed-Precision Post-Training Quantization for Learned Image Compression",
-      "summary": "Use this plain-text version for the arXiv abstract field: Learned image compression (LIC) models achieve strong rate-distortion performance but are hindered by high computational complexity and encoding-decoding mismatches across heterogeneous hardware platforms. Uniform fixed-precision quantization alleviates these issues but suffers severe quality degradation at low bit widths because it ignores differences in the quantization sensitivities of individual layers. To enable efficient and accurat",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12239v1",
-      "published_at": "2026-08-12T16:41:33Z",
-      "tags": [
-        "vision",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12239v1",
-      "summary_type": "extractive",
-      "title_zh": "HAMP-LIC: Hessian-Aware Mixed-Precision Post-Training Quantization for Learned Image Compression",
-      "summary_zh": "Use this plain-text version for the arXiv abstract field: Learned image compression (LIC) models achieve strong rate-distortion performance but are hindered by high computational complexity and encoding-decoding mismatches across heterogeneous hardware platforms. Uniform fixed-precision quantization alleviates these issues but suffers severe quality degradation at low bit widths because it ignores differences in the quantization sensitivities of individual layers. To enable efficient and accurat"
-    },
-    {
-      "title": "How Organizations Use AI: Evidence from ChatGPT",
-      "summary": "We study how organizations use frontier generative AI by linking ChatGPT Enterprise account records to usage, worker roles, task classifications, and public-company financial data through March 2026. These linked data enable a privacy-preserving analysis of adoption, worker roles, and message-level tasks at scale: for instance, the worker-level sample we analyze at the six-month adoption horizon includes over 1,500 organizations and over 17 million messages. We document four facts about enterpri",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12236v1",
-      "published_at": "2026-08-12T16:32:52Z",
-      "tags": [
-        "vision",
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12236v1",
-      "summary_type": "extractive",
-      "title_zh": "How Organizations Use AI: Evidence from ChatGPT",
-      "summary_zh": "We study how organizations use frontier generative AI by linking ChatGPT Enterprise account records to usage, worker roles, task classifications, and public-company financial data through March 2026. These linked data enable a privacy-preserving analysis of adoption, worker roles, and message-level tasks at scale: for instance, the worker-level sample we analyze at the six-month adoption horizon includes over 1,500 organizations and over 17 million messages. We document four facts about enterpri"
-    },
-    {
-      "title": "Few-Shot Ordinal Learning for Day-Wise Freshness Estimation with Hyperspectral Fish Images",
-      "summary": "Non-destructive food quality assessment has increasingly benefited from hyperspectral imaging (HSI), which captures spectral signatures linked to biochemical changes during storage. Estimating day-wise freshness, however, remains challenging owing to strong inter-fillet variability and scarce labelled data per product. All existing deep learning approaches for HSI-based freshness prediction operate under full supervision, requiring densely annotated training sets that are costly to obtain at the",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12230v1",
-      "published_at": "2026-08-12T16:28:01Z",
-      "tags": [
-        "vision",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12230v1",
-      "summary_type": "extractive",
-      "title_zh": "Few-Shot Ordinal Learning for Day-Wise Freshness Estimation with Hyperspectral Fish Images",
-      "summary_zh": "Non-destructive food quality assessment has increasingly benefited from hyperspectral imaging (HSI), which captures spectral signatures linked to biochemical changes during storage. Estimating day-wise freshness, however, remains challenging owing to strong inter-fillet variability and scarce labelled data per product. All existing deep learning approaches for HSI-based freshness prediction operate under full supervision, requiring densely annotated training sets that are costly to obtain at the"
-    },
-    {
-      "title": "Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification",
-      "summary": "Hyperspectral imaging (HSI) offers nondestructive assessment of fish freshness by detecting biochemical alterations across spectral bands. However, conventional deep learning approaches do not fully address the particular characteristics of HSI data, such as spectral dominance over spatial textures, ordinal label structure, and a small number of training samples. We propose SGNet (Spectral-Grouped Network), a lightweight architecture that separates spectral and spatial feature extraction using g",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12227v1",
-      "published_at": "2026-08-12T16:25:19Z",
-      "tags": [
-        "paper",
-        "ai"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12227v1",
-      "summary_type": "extractive",
-      "title_zh": "Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification",
-      "summary_zh": "Hyperspectral imaging (HSI) offers nondestructive assessment of fish freshness by detecting biochemical alterations across spectral bands. However, conventional deep learning approaches do not fully address the particular characteristics of HSI data, such as spectral dominance over spatial textures, ordinal label structure, and a small number of training samples. We propose SGNet (Spectral-Grouped Network), a lightweight architecture that separates spectral and spatial feature extraction using g"
-    },
-    {
-      "title": "SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward",
-      "summary": "Existing Vision-Language Models (VLMs) exhibits a critical bottleneck in robust spatial reasoning. Recent reinforcement learning (RL) methods aim to close this gap with verifiable outcomes, yet they suffer from poor credit assignment across intermediate reasoning steps. Concurrently, structured reasoning approaches overlook the critical depth perception necessary for comprehensive 3D understanding.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12220v1",
-      "published_at": "2026-08-12T16:14:25Z",
-      "tags": [
-        "vision",
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12220v1",
-      "summary_type": "extractive",
-      "title_zh": "SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward",
-      "summary_zh": "Existing Vision-Language Models (VLMs) exhibits a critical bottleneck in robust spatial reasoning. Recent reinforcement learning (RL) methods aim to close this gap with verifiable outcomes, yet they suffer from poor credit assignment across intermediate reasoning steps. Concurrently, structured reasoning approaches overlook the critical depth perception necessary for comprehensive 3D understanding."
-    },
-    {
-      "title": "Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge",
-      "summary": "Large language models are increasingly trained and deployed with long contexts that span documents, code repositories, and interaction histories. This scaling reflects the implicit assumption that training on longer contexts will only help the model by exposing it to richer evidence. We challenge this view by studying how the context window shapes a model's mode of learning, shifting it between parametric internalization and contextualization.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.12218v1",
-      "published_at": "2026-08-12T16:13:05Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.12218v1",
-      "summary_type": "extractive",
-      "title_zh": "Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge",
-      "summary_zh": "Large language models are increasingly trained and deployed with long contexts that span documents, code repositories, and interaction histories. This scaling reflects the implicit assumption that training on longer contexts will only help the model by exposing it to richer evidence. We challenge this view by studying how the context window shapes a model's mode of learning, shifting it between parametric internalization and contextualization."
-    },
-    {
-      "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
-      "summary": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
+      "title": "How a device finds encrypted DNS by itself",
+      "summary": "How a device finds encrypted DNS by itself",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-      "published_at": "2026-08-11T13:55:26+00:00",
+      "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+      "published_at": "2026-08-07T14:11:55+00:00",
       "tags": [
         "ai"
       ],
-      "score": "46",
-      "item_id": "hn:49258428",
+      "score": "17",
+      "item_id": "hn:49210740",
       "summary_type": "extractive",
-      "title_zh": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
-      "summary_zh": "Come for ENIAC, Stay for UNIVAC and Skeduflo"
-    },
-    {
-      "title": "The mathematical physics of rainbows and glories (2001) [pdf]",
-      "summary": "The mathematical physics of rainbows and glories (2001) [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
-      "published_at": "2026-08-11T07:03:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "27",
-      "item_id": "hn:49254376",
-      "summary_type": "extractive",
-      "title_zh": "The mathematical physics of rainbows and glories (2001) [pdf]",
-      "summary_zh": "The mathematical physics of rainbows and glories (2001) [pdf]"
-    },
-    {
-      "title": "The lattice of sets of natural numbers is rich (2021)",
-      "summary": "The lattice of sets of natural numbers is rich (2021)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
-      "published_at": "2026-08-10T13:53:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "95",
-      "item_id": "hn:49243687",
-      "summary_type": "extractive",
-      "title_zh": "The lattice of sets of natural numbers is rich (2021)",
-      "summary_zh": "The lattice of sets of natural numbers is rich (2021)"
-    },
-    {
-      "title": "Better Gaussian Splatting in Julia",
-      "summary": "Better Gaussian Splatting in Julia",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://pxl-th.github.io/blog/better-gs-julia/",
-      "published_at": "2026-08-09T15:01:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "100",
-      "item_id": "hn:49232039",
-      "summary_type": "extractive",
-      "title_zh": "Better Gaussian Splatting in Julia",
-      "summary_zh": "Better Gaussian Splatting in Julia"
-    },
-    {
-      "title": "Show HN: Inertia – Not your Grandfathers animation editor",
-      "summary": "Show HN: Inertia – Not your Grandfathers animation editor",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://inertiagraphics.com/",
-      "published_at": "2026-08-08T22:27:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "7",
-      "item_id": "hn:49226487",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Inertia – Not your Grandfathers animation editor",
-      "summary_zh": "Show HN: Inertia – Not your Grandfathers animation editor"
-    },
-    {
-      "title": "Picking berries is my meditation",
-      "summary": "Picking berries is my meditation",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
-      "published_at": "2026-08-08T19:24:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "98",
-      "item_id": "hn:49224997",
-      "summary_type": "extractive",
-      "title_zh": "Picking berries is my meditation",
-      "summary_zh": "Picking berries is my meditation"
-    },
-    {
-      "title": "Translating the Renaissance: 17,000+ historical source texts",
-      "summary": "Translating the Renaissance: 17,000+ historical source texts",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://sourcelibrary.org",
-      "published_at": "2026-08-08T02:55:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "12",
-      "item_id": "hn:49218514",
-      "summary_type": "extractive",
-      "title_zh": "Translating the Renaissance: 17,000+ historical source texts",
-      "summary_zh": "Translating the Renaissance: 17,000+ historical source texts"
+      "title_zh": "How a device finds encrypted DNS by itself",
+      "summary_zh": "How a device finds encrypted DNS by itself"
     }
   ]
 }

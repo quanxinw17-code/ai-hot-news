@@ -1,38 +1,22 @@
 {
-  "updated_at": "2026-08-15T06:50:23.532526+00:00",
+  "updated_at": "2026-08-15T12:51:34.702690+00:00",
   "count": 50,
   "items": [
     {
-      "title": "\"That's not SoC 2 compliant\"",
-      "summary": "\"That's not SoC 2 compliant\"",
+      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+      "summary": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ampcode.com/notes/thats-not-soc-2-compliant",
-      "published_at": "2026-08-15T06:01:19+00:00",
+      "url": "https://uecker.codeberg.page/2026-07-14.html",
+      "published_at": "2026-08-15T07:59:42+00:00",
       "tags": [
         "ai"
       ],
-      "score": "16",
-      "item_id": "hn:49308073",
+      "score": "37",
+      "item_id": "hn:49308685",
       "summary_type": "extractive",
-      "title_zh": "\"That's not SoC 2 compliant\"",
-      "summary_zh": "\"That's not SoC 2 compliant\""
-    },
-    {
-      "title": "Ask HN: How do you keep up with HN these days?",
-      "summary": "In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder.How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more.",
-      "full_text": "In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder.How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more.",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=49308059",
-      "published_at": "2026-08-15T05:59:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "17",
-      "item_id": "hn:49308059",
-      "summary_type": "extractive",
-      "title_zh": "Ask HN: How do you keep up with HN these days?",
-      "summary_zh": "In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder.How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more."
+      "title_zh": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+      "summary_zh": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II"
     },
     {
       "title": "The other Sean Byrne doesn't exist",
@@ -44,27 +28,11 @@
       "tags": [
         "ai"
       ],
-      "score": "44",
+      "score": "245",
       "item_id": "hn:49307592",
       "summary_type": "extractive",
       "title_zh": "The other Sean Byrne doesn't exist",
       "summary_zh": "The other Sean Byrne doesn't exist"
-    },
-    {
-      "title": "The End of Mathematics",
-      "summary": "The End of Mathematics",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
-      "published_at": "2026-08-15T03:37:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "18",
-      "item_id": "hn:49307383",
-      "summary_type": "extractive",
-      "title_zh": "The End of Mathematics",
-      "summary_zh": "The End of Mathematics"
     },
     {
       "title": "Show HN: Deltix – AI Driven Testing",
@@ -76,7 +44,7 @@
       "tags": [
         "ai"
       ],
-      "score": "23",
+      "score": "37",
       "item_id": "hn:49307099",
       "summary_type": "extractive",
       "title_zh": "Show HN: Deltix – AI Driven Testing",
@@ -92,7 +60,7 @@
       "tags": [
         "ai"
       ],
-      "score": "171",
+      "score": "207",
       "item_id": "hn:49306577",
       "summary_type": "extractive",
       "title_zh": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
@@ -108,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "91",
+      "score": "111",
       "item_id": "hn:49306443",
       "summary_type": "extractive",
       "title_zh": "The Ploopy A+ Trackball Is Here",
@@ -124,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "74",
+      "score": "106",
       "item_id": "hn:49306196",
       "summary_type": "extractive",
       "title_zh": "Simplifying and Refactoring Introductory Calculus (2018)",
@@ -140,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "114",
+      "score": "187",
       "item_id": "hn:49305250",
       "summary_type": "extractive",
       "title_zh": "eigendrum",
@@ -156,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "295",
+      "score": "372",
       "item_id": "hn:49304447",
       "summary_type": "extractive",
       "title_zh": "Going Dark, and the era of law enforcement hacking",
@@ -172,28 +140,11 @@
       "tags": [
         "ai"
       ],
-      "score": "775",
+      "score": "🔥 1.2k",
       "item_id": "hn:49303202",
       "summary_type": "extractive",
       "title_zh": "Firefox is now the last major browser that still supports uBlock Origin",
       "summary_zh": "Firefox is now the last major browser that still supports uBlock Origin"
-    },
-    {
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "summary": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don&#x27;t even give you the best possible answer, just sound confident.And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.1. Never spend more than you budgeted (measured overshoot is 0%). 2.",
-      "full_text": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don&#x27;t even give you the best possible answer, just sound confident.And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.1. Never spend more than you budgeted (measured overshoot is 0%).\n2. Every claim carr",
-      "source": "hacker news",
-      "url": "https://github.com/lajosdeme/mole",
-      "published_at": "2026-08-14T18:52:48+00:00",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "65",
-      "item_id": "hn:49303046",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Mole – Deep research agent for your terminal",
-      "summary_zh": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don&#x27;t even give you the best possible answer, just sound confident.And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.1. Never spend more than you budgeted (measured overshoot is 0%). 2."
     },
     {
       "title": "Racket v9.3",
@@ -205,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "69",
+      "score": "111",
       "item_id": "hn:49302562",
       "summary_type": "extractive",
       "title_zh": "Racket v9.3",
@@ -221,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "262",
+      "score": "317",
       "item_id": "hn:49300759",
       "summary_type": "extractive",
       "title_zh": "RustDesk now supports true unattended remote access on Wayland",
@@ -237,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "273",
+      "score": "331",
       "item_id": "hn:49300568",
       "summary_type": "extractive",
       "title_zh": "AI by Hand",
@@ -253,7 +204,7 @@
       "tags": [
         "ai"
       ],
-      "score": "352",
+      "score": "428",
       "item_id": "hn:49300314",
       "summary_type": "extractive",
       "title_zh": "Google is making private AI practical with homomorphic encryption",
@@ -269,7 +220,7 @@
       "tags": [
         "ai"
       ],
-      "score": "194",
+      "score": "210",
       "item_id": "hn:49299746",
       "summary_type": "extractive",
       "title_zh": "Introducing Toast 1",
@@ -285,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.0k",
+      "score": "🔥 1.2k",
       "item_id": "hn:49299605",
       "summary_type": "extractive",
       "title_zh": "Qwen 3.8 27B",
@@ -301,7 +252,7 @@
       "tags": [
         "ai"
       ],
-      "score": "839",
+      "score": "894",
       "item_id": "hn:49296740",
       "summary_type": "extractive",
       "title_zh": "Why does Opus 5 feel worse to work with?",
@@ -317,7 +268,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.0k",
+      "score": "🔥 1.1k",
       "item_id": "hn:49294997",
       "summary_type": "extractive",
       "title_zh": "GLM-5.3: Frontier coding with emergent cyber capabilities",
@@ -331,9 +282,9 @@
       "url": "http://arxiv.org/abs/2608.13560v1",
       "published_at": "2026-08-13T17:59:57Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13560v1",
@@ -349,9 +300,9 @@
       "url": "http://arxiv.org/abs/2608.13558v1",
       "published_at": "2026-08-13T17:59:52Z",
       "tags": [
-        "paper",
+        "tool",
         "llm",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13558v1",
@@ -367,9 +318,9 @@
       "url": "http://arxiv.org/abs/2608.13555v1",
       "published_at": "2026-08-13T17:59:40Z",
       "tags": [
-        "paper",
+        "tool",
         "vision",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13555v1",
@@ -385,10 +336,10 @@
       "url": "http://arxiv.org/abs/2608.13547v1",
       "published_at": "2026-08-13T17:57:20Z",
       "tags": [
-        "paper",
+        "tool",
         "llm",
-        "agent",
-        "tool"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13547v1",
@@ -421,8 +372,8 @@
       "url": "http://arxiv.org/abs/2608.13522v1",
       "published_at": "2026-08-13T17:41:27Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13522v1",
@@ -438,8 +389,8 @@
       "url": "http://arxiv.org/abs/2608.13520v1",
       "published_at": "2026-08-13T17:40:17Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13520v1",
@@ -455,8 +406,8 @@
       "url": "http://arxiv.org/abs/2608.13517v1",
       "published_at": "2026-08-13T17:37:53Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13517v1",
@@ -472,8 +423,8 @@
       "url": "http://arxiv.org/abs/2608.13492v1",
       "published_at": "2026-08-13T17:21:03Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13492v1",
@@ -489,8 +440,8 @@
       "url": "http://arxiv.org/abs/2608.13484v1",
       "published_at": "2026-08-13T17:13:41Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13484v1",
@@ -506,10 +457,10 @@
       "url": "http://arxiv.org/abs/2608.13482v1",
       "published_at": "2026-08-13T17:12:04Z",
       "tags": [
-        "paper",
+        "tool",
         "llm",
-        "agent",
-        "tool"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13482v1",
@@ -525,10 +476,10 @@
       "url": "http://arxiv.org/abs/2608.13476v1",
       "published_at": "2026-08-13T17:00:08Z",
       "tags": [
-        "paper",
+        "tool",
         "llm",
-        "agent",
-        "tool"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13476v1",
@@ -544,9 +495,9 @@
       "url": "http://arxiv.org/abs/2608.13472v1",
       "published_at": "2026-08-13T16:57:07Z",
       "tags": [
+        "tool",
         "paper",
-        "llm",
-        "tool"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13472v1",
@@ -562,8 +513,8 @@
       "url": "http://arxiv.org/abs/2608.13465v1",
       "published_at": "2026-08-13T16:46:56Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13465v1",
@@ -579,9 +530,9 @@
       "url": "http://arxiv.org/abs/2608.13463v1",
       "published_at": "2026-08-13T16:45:24Z",
       "tags": [
+        "llm",
         "paper",
         "vision",
-        "llm",
         "agent"
       ],
       "score": "📄",
@@ -615,8 +566,8 @@
       "url": "http://arxiv.org/abs/2608.13456v1",
       "published_at": "2026-08-13T16:40:35Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13456v1",
@@ -650,9 +601,9 @@
       "url": "http://arxiv.org/abs/2608.13447v1",
       "published_at": "2026-08-13T16:32:44Z",
       "tags": [
-        "paper",
+        "tool",
         "vision",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.13447v1",
@@ -687,7 +638,7 @@
       "tags": [
         "ai"
       ],
-      "score": "40",
+      "score": "103",
       "item_id": "hn:49282951",
       "summary_type": "extractive",
       "title_zh": "Coin-sized device can hack a Boeing 737",
@@ -703,27 +654,11 @@
       "tags": [
         "ai"
       ],
-      "score": "4",
+      "score": "47",
       "item_id": "hn:49277535",
       "summary_type": "extractive",
       "title_zh": "Show HN: Silent Shark – tactical map-based WWII submarine sim",
       "summary_zh": "I posted an early beta of this game a few months ago: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48180924 - May 2026 (45 comments) and today released the full version.You all gave extremely valuable and helpful feedback back then - thank you so much for that. It led to a lot of improvements:* I reworked the onboarding tutorials multiple times for clarity, adding protections to stop players from shooting themselves in the foot* I dropped the Comic Sans-reminiscent font and replaced it wi"
-    },
-    {
-      "title": "Show HN: A website for exploring historical photographs of my city",
-      "summary": "Show HN: A website for exploring historical photographs of my city",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://yesterdays.maprva.org/",
-      "published_at": "2026-08-12T14:53:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "19",
-      "item_id": "hn:49273346",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: A website for exploring historical photographs of my city",
-      "summary_zh": "Show HN: A website for exploring historical photographs of my city"
     },
     {
       "title": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
@@ -735,11 +670,43 @@
       "tags": [
         "ai"
       ],
-      "score": "68",
+      "score": "104",
       "item_id": "hn:49272784",
       "summary_type": "extractive",
       "title_zh": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
       "summary_zh": "Unearthing a 31 year old Easter egg in Ecco the Dolphin"
+    },
+    {
+      "title": "Understanding WCAG 2.2 as ePub and PDF",
+      "summary": "Understanding WCAG 2.2 as ePub and PDF",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://doeken.org/wcag-ebook",
+      "published_at": "2026-08-12T12:36:20+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "35",
+      "item_id": "hn:49271442",
+      "summary_type": "extractive",
+      "title_zh": "Understanding WCAG 2.2 as ePub and PDF",
+      "summary_zh": "Understanding WCAG 2.2 as ePub and PDF"
+    },
+    {
+      "title": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
+      "summary": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
+      "published_at": "2026-08-12T12:31:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "65",
+      "item_id": "hn:49271382",
+      "summary_type": "extractive",
+      "title_zh": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
+      "summary_zh": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace"
     },
     {
       "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS",
@@ -751,11 +718,27 @@
       "tags": [
         "ai"
       ],
-      "score": "90",
+      "score": "97",
       "item_id": "hn:49269809",
       "summary_type": "extractive",
       "title_zh": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS",
       "summary_zh": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS"
+    },
+    {
+      "title": "Geometric Reasoning",
+      "summary": "Geometric Reasoning",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://sophontic.ai/",
+      "published_at": "2026-08-12T04:19:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "3",
+      "item_id": "hn:49267776",
+      "summary_type": "extractive",
+      "title_zh": "Geometric Reasoning",
+      "summary_zh": "Geometric Reasoning"
     },
     {
       "title": "This Hi-Fi Tape Recorder Changed Radio Forever",
@@ -767,43 +750,59 @@
       "tags": [
         "ai"
       ],
-      "score": "35",
+      "score": "54",
       "item_id": "hn:49263186",
       "summary_type": "extractive",
       "title_zh": "This Hi-Fi Tape Recorder Changed Radio Forever",
       "summary_zh": "This Hi-Fi Tape Recorder Changed Radio Forever"
     },
     {
-      "title": "I close SSH port 22 (and what I use instead)",
-      "summary": "I close SSH port 22 (and what I use instead)",
+      "title": "The Color of White Light",
+      "summary": "The Color of White Light",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/",
-      "published_at": "2026-08-10T19:19:03+00:00",
+      "url": "https://ludens.cl/photo/spectra/spectra.html",
+      "published_at": "2026-08-11T16:18:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "13",
+      "item_id": "hn:49260582",
+      "summary_type": "extractive",
+      "title_zh": "The Color of White Light",
+      "summary_zh": "The Color of White Light"
+    },
+    {
+      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "summary": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://baselashraf81.github.io/eigendrum/",
+      "published_at": "2026-08-10T16:53:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "44",
+      "item_id": "hn:49246366",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "summary_zh": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum"
+    },
+    {
+      "title": "The mathematical beauty of hyperbezier curves",
+      "summary": "The mathematical beauty of hyperbezier curves",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://linebender.org/blog/hyperbezier/",
+      "published_at": "2026-08-09T23:09:04+00:00",
       "tags": [
         "ai"
       ],
       "score": "46",
-      "item_id": "hn:49248388",
+      "item_id": "hn:49237183",
       "summary_type": "extractive",
-      "title_zh": "I close SSH port 22 (and what I use instead)",
-      "summary_zh": "I close SSH port 22 (and what I use instead)"
-    },
-    {
-      "title": "Show HN: Ember – Redshift safe color palettes",
-      "summary": "Most color palettes collapse if you&#x27;ve got a strong redshift&#x2F;nightshift color filter actively suppressing green and blue channels. I made one that doesn&#x27;t.Ember has terminal, chart, heatmap, and UI palettes designed and tested to be as distinguishable as possible under both the redshift &amp; non-redshift condition... so no more duplicate color appearances (or worse yet, disappearing colors!).",
-      "full_text": "Most color palettes collapse if you&#x27;ve got a strong redshift&#x2F;nightshift color filter actively suppressing green and blue channels. I made one that doesn&#x27;t.Ember has terminal, chart, heatmap, and UI palettes designed and tested to be as distinguishable as possible under both the redshift &amp; non-redshift condition... so no more duplicate color appearances (or worse yet, disappearing colors!).",
-      "source": "hacker news",
-      "url": "https://github.com/carpdiem/ember",
-      "published_at": "2026-08-09T16:26:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "87",
-      "item_id": "hn:49232870",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Ember – Redshift safe color palettes",
-      "summary_zh": "Most color palettes collapse if you&#x27;ve got a strong redshift&#x2F;nightshift color filter actively suppressing green and blue channels. I made one that doesn&#x27;t.Ember has terminal, chart, heatmap, and UI palettes designed and tested to be as distinguishable as possible under both the redshift &amp; non-redshift condition... so no more duplicate color appearances (or worse yet, disappearing colors!)."
+      "title_zh": "The mathematical beauty of hyperbezier curves",
+      "summary_zh": "The mathematical beauty of hyperbezier curves"
     },
     {
       "title": "Super Mario Derivations",
@@ -815,7 +814,7 @@
       "tags": [
         "ai"
       ],
-      "score": "87",
+      "score": "117",
       "item_id": "hn:49215682",
       "summary_type": "extractive",
       "title_zh": "Super Mario Derivations",
@@ -831,7 +830,7 @@
       "tags": [
         "ai"
       ],
-      "score": "135",
+      "score": "157",
       "item_id": "hn:49211375",
       "summary_type": "extractive",
       "title_zh": "Ultraviolet Bird Photography",

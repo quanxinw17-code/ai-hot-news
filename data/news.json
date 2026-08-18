@@ -1,23 +1,7 @@
 {
-  "updated_at": "2026-08-18T01:42:08.063475+00:00",
-  "count": 30,
+  "updated_at": "2026-08-18T06:56:01.076262+00:00",
+  "count": 50,
   "items": [
-    {
-      "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
-      "summary": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
-      "published_at": "2026-08-18T00:29:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "13",
-      "item_id": "hn:49339599",
-      "summary_type": "extractive",
-      "title_zh": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
-      "summary_zh": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents"
-    },
     {
       "title": "Repair Cafe – Fix Your Broken Items",
       "summary": "Repair Cafe – Fix Your Broken Items",
@@ -28,27 +12,11 @@
       "tags": [
         "ai"
       ],
-      "score": "10",
+      "score": "82",
       "item_id": "hn:49339097",
       "summary_type": "extractive",
       "title_zh": "Repair Cafe – Fix Your Broken Items",
       "summary_zh": "Repair Cafe – Fix Your Broken Items"
-    },
-    {
-      "title": "Puppy PPE",
-      "summary": "Puppy PPE",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
-      "published_at": "2026-08-17T23:10:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "16",
-      "item_id": "hn:49338953",
-      "summary_type": "extractive",
-      "title_zh": "Puppy PPE",
-      "summary_zh": "Puppy PPE"
     },
     {
       "title": "How Bluesky draws its logo on screenshots",
@@ -60,7 +28,7 @@
       "tags": [
         "ai"
       ],
-      "score": "214",
+      "score": "408",
       "item_id": "hn:49338459",
       "summary_type": "extractive",
       "title_zh": "How Bluesky draws its logo on screenshots",
@@ -76,7 +44,7 @@
       "tags": [
         "ai"
       ],
-      "score": "16",
+      "score": "31",
       "item_id": "hn:49338428",
       "summary_type": "extractive",
       "title_zh": "scScript for Linux",
@@ -92,7 +60,7 @@
       "tags": [
         "ai"
       ],
-      "score": "140",
+      "score": "279",
       "item_id": "hn:49338328",
       "summary_type": "extractive",
       "title_zh": "Quake Shareware, a CD-ROM just a little too full",
@@ -108,27 +76,11 @@
       "tags": [
         "ai"
       ],
-      "score": "79",
+      "score": "142",
       "item_id": "hn:49338285",
       "summary_type": "extractive",
       "title_zh": "Fairphone 6 and PostmarketOS working main camera",
       "summary_zh": "Fairphone 6 and PostmarketOS working main camera"
-    },
-    {
-      "title": "My friends all hate AI; I just joined an AI startup",
-      "summary": "My friends all hate AI; I just joined an AI startup",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
-      "published_at": "2026-08-17T21:47:30+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "24",
-      "item_id": "hn:49338139",
-      "summary_type": "extractive",
-      "title_zh": "My friends all hate AI; I just joined an AI startup",
-      "summary_zh": "My friends all hate AI; I just joined an AI startup"
     },
     {
       "title": "How do functions like alloca allocate memory from the stack?",
@@ -140,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "30",
+      "score": "49",
       "item_id": "hn:49337630",
       "summary_type": "extractive",
       "title_zh": "How do functions like alloca allocate memory from the stack?",
@@ -156,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "65",
+      "score": "353",
       "item_id": "hn:49337392",
       "summary_type": "extractive",
       "title_zh": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
@@ -172,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "586",
+      "score": "785",
       "item_id": "hn:49336573",
       "summary_type": "extractive",
       "title_zh": "AI;DR (AI; Didn't Read)",
@@ -188,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "91",
+      "score": "133",
       "item_id": "hn:49336304",
       "summary_type": "extractive",
       "title_zh": "India has paved the way for charging merchants a fee on UPI transactions",
@@ -204,11 +156,63 @@
       "tags": [
         "ai"
       ],
-      "score": "103",
+      "score": "135",
       "item_id": "hn:49335600",
       "summary_type": "extractive",
       "title_zh": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
       "summary_zh": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia"
+    },
+    {
+      "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+      "summary": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently constrains the next. A promising recipe freezes the VLA and puts an LLM agent in charge: it plans in language, moves in free space with analytic primitives, invokes the VLA only for contact-rich segments, and writes adapta",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16889v1",
+      "published_at": "2026-08-17T17:59:57Z",
+      "tags": [
+        "vision",
+        "paper",
+        "llm",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16889v1",
+      "summary_type": "extractive",
+      "title_zh": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+      "summary_zh": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently constrains the next. A promising recipe freezes the VLA and puts an LLM agent in charge: it plans in language, moves in free space with analytic primitives, invokes the VLA only for contact-rich segments, and writes adapta"
+    },
+    {
+      "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+      "summary": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alman et al., 2025). In this note, we address the optimization problem at the core of this approach and propose several improvements. First, we reformulate the optimization problem allowing us to solve it in a larger setting than was previously possible.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16884v1",
+      "published_at": "2026-08-17T17:59:05Z",
+      "tags": [
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16884v1",
+      "summary_type": "extractive",
+      "title_zh": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+      "summary_zh": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alman et al., 2025). In this note, we address the optimization problem at the core of this approach and propose several improvements. First, we reformulate the optimization problem allowing us to solve it in a larger setting than was previously possible."
+    },
+    {
+      "title": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+      "summary": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolated equations. Finite, noisy data often yield numerically competitive expressions that imply very different behavior outside the observed regime, making numerical fit and syntactic complexity insufficient measures of scientific credibility. Existing approaches largely focus on improving expressions, y",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16876v1",
+      "published_at": "2026-08-17T17:55:26Z",
+      "tags": [
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16876v1",
+      "summary_type": "extractive",
+      "title_zh": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+      "summary_zh": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolated equations. Finite, noisy data often yield numerically competitive expressions that imply very different behavior outside the observed regime, making numerical fit and syntactic complexity insufficient measures of scientific credibility. Existing approaches largely focus on improving expressions, y"
     },
     {
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
@@ -220,27 +224,116 @@
       "tags": [
         "ai"
       ],
-      "score": "158",
+      "score": "192",
       "item_id": "hn:49334991",
       "summary_type": "extractive",
       "title_zh": "GPU Offload in Rust: Portable, Safe, and Fast",
       "summary_zh": "GPU Offload in Rust: Portable, Safe, and Fast"
     },
     {
-      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "title": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
+      "summary": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable evidence of which causally relevant internal state occurred. We test a bounded form of this idea in two controlled architectures: a modular feed-forward neural network and a transformer-based model.",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "published_at": "2026-08-17T17:25:17+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16868v1",
+      "published_at": "2026-08-17T17:50:04Z",
       "tags": [
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16868v1",
+      "summary_type": "extractive",
+      "title_zh": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
+      "summary_zh": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable evidence of which causally relevant internal state occurred. We test a bounded form of this idea in two controlled architectures: a modular feed-forward neural network and a transformer-based model."
+    },
+    {
+      "title": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
+      "summary": "Regulatory compliance monitoring in deployed language models is increasingly implemented as a legal and audit control, checking model outputs against written rules spanning data protection, healthcare, financial regulation, and platform policy. Such monitoring is meaningful only if a detector's verdict depends on the stated rule rather than on surface features of the scenario. We show this condition fails across the current class of compliance detectors, a failure we call rule blindness.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16852v1",
+      "published_at": "2026-08-17T17:37:07Z",
+      "tags": [
+        "paper",
+        "llm",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16852v1",
+      "summary_type": "extractive",
+      "title_zh": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
+      "summary_zh": "Regulatory compliance monitoring in deployed language models is increasingly implemented as a legal and audit control, checking model outputs against written rules spanning data protection, healthcare, financial regulation, and platform policy. Such monitoring is meaningful only if a detector's verdict depends on the stated rule rather than on surface features of the scenario. We show this condition fails across the current class of compliance detectors, a failure we call rule blindness."
+    },
+    {
+      "title": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
+      "summary": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most existing memory models expose a static memory throughout the entire sequence. Because early tokens face no compression pressure, they occupy too many degrees of freedom and \"pollute\" the memory state, leaving little capacity for later context and increasing interference between what is stored and what",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16844v1",
+      "published_at": "2026-08-17T17:30:43Z",
+      "tags": [
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16844v1",
+      "summary_type": "extractive",
+      "title_zh": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
+      "summary_zh": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most existing memory models expose a static memory throughout the entire sequence. Because early tokens face no compression pressure, they occupy too many degrees of freedom and \"pollute\" the memory state, leaving little capacity for later context and increasing interference between what is stored and what"
+    },
+    {
+      "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
+      "summary": "Humanoid robots hold great promise as general-purpose agents in human-centered environments, yet generalist vision-language-action (VLA) foundation models are not readily applicable to humanoid whole-body loco-manipulation. The high dimensionality and interdependence of humanoid motions make it challenging for conventional single-stage VLA architectures to coordinate locomotion, waist posture, and dual-arm manipulation effectively. Moreover, policies trained through offline behavior cloning can ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16837v1",
+      "published_at": "2026-08-17T17:22:33Z",
+      "tags": [
+        "vision",
+        "paper",
+        "llm",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16837v1",
+      "summary_type": "extractive",
+      "title_zh": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
+      "summary_zh": "Humanoid robots hold great promise as general-purpose agents in human-centered environments, yet generalist vision-language-action (VLA) foundation models are not readily applicable to humanoid whole-body loco-manipulation. The high dimensionality and interdependence of humanoid motions make it challenging for conventional single-stage VLA architectures to coordinate locomotion, waist posture, and dual-arm manipulation effectively. Moreover, policies trained through offline behavior cloning can "
+    },
+    {
+      "title": "Model Hypnosis: Strong control of AI via additive subliminal effects",
+      "summary": "We demonstrate that AI models are broadly susceptible to a phenomenon we call model hypnosis, in which individually weak and seemingly irrelevant cues in the prompt can be systematically combined to strongly control model behavior. Model hypnosis occurs across model families and scales, including in frontier reasoning models, and hypnotic prompts can transfer between models. Because the model is controlled by inconspicuous textual choices, such as paraphrases and typos, model hypnosis presents n",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16834v1",
+      "published_at": "2026-08-17T17:20:10Z",
+      "tags": [
+        "paper",
         "ai"
       ],
-      "score": "307",
-      "item_id": "hn:49334544",
+      "score": "📄",
+      "item_id": "arxiv:2608.16834v1",
       "summary_type": "extractive",
-      "title_zh": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary_zh": "Qwen3.8 27B scores 52 on Artificial Analysis"
+      "title_zh": "Model Hypnosis: Strong control of AI via additive subliminal effects",
+      "summary_zh": "We demonstrate that AI models are broadly susceptible to a phenomenon we call model hypnosis, in which individually weak and seemingly irrelevant cues in the prompt can be systematically combined to strongly control model behavior. Model hypnosis occurs across model families and scales, including in frontier reasoning models, and hypnotic prompts can transfer between models. Because the model is controlled by inconspicuous textual choices, such as paraphrases and typos, model hypnosis presents n"
+    },
+    {
+      "title": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
+      "summary": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instructions and demonstrations. Policy Iteration with Human Feedback (PIHF) builds on this development and the recurrent evaluate-and-improve structure of generalized policy iteration. PIHF uses a pretrained language model as its execution substrate and moves persistent revision to a versioned natural-lan",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16831v1",
+      "published_at": "2026-08-17T17:16:43Z",
+      "tags": [
+        "vision",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16831v1",
+      "summary_type": "extractive",
+      "title_zh": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
+      "summary_zh": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instructions and demonstrations. Policy Iteration with Human Feedback (PIHF) builds on this development and the recurrent evaluate-and-improve structure of generalized policy iteration. PIHF uses a pretrained language model as its execution substrate and moves persistent revision to a versioned natural-lan"
     },
     {
       "title": "An update on leaving Gmail for Fastmail",
@@ -252,11 +345,204 @@
       "tags": [
         "ai"
       ],
-      "score": "107",
+      "score": "185",
       "item_id": "hn:49334409",
       "summary_type": "extractive",
       "title_zh": "An update on leaving Gmail for Fastmail",
       "summary_zh": "An update on leaving Gmail for Fastmail"
+    },
+    {
+      "title": "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?",
+      "summary": "Video world models approximate the stochastic distribution of physical outcomes through generative sampling, but existing benchmarks score individual generations or compare distributions coarsely over a whole dataset, leaving the fine-grained aleatoric uncertainty of specific phenomena untested. We introduce CaliBench, which scores outcomes in a physically interpretable discrete space - a bin index, a die face, a suit, a colour - rather than a learned feature space such as in FID, so the distanc",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16829v1",
+      "published_at": "2026-08-17T17:14:50Z",
+      "tags": [
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16829v1",
+      "summary_type": "extractive",
+      "title_zh": "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?",
+      "summary_zh": "Video world models approximate the stochastic distribution of physical outcomes through generative sampling, but existing benchmarks score individual generations or compare distributions coarsely over a whole dataset, leaving the fine-grained aleatoric uncertainty of specific phenomena untested. We introduce CaliBench, which scores outcomes in a physically interpretable discrete space - a bin index, a die face, a suit, a colour - rather than a learned feature space such as in FID, so the distanc"
+    },
+    {
+      "title": "Quipu: A Governed Bitemporal Knowledge Graph Store",
+      "summary": "Agents now write knowledge graphs, but knowledge-graph stores still carry defaults set when humans curated them: accept writes now and clean later, keep one time axis or none, treat every writer's facts as equally trustworthy, and leave governance to dashboards and middleware. These four defaults are individually convenient and jointly untenable under agent workloads. We present Quipu, an embeddable store that inverts all four: no fact enters except through a gate whose predicates evaluate the p",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16813v1",
+      "published_at": "2026-08-17T17:04:29Z",
+      "tags": [
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16813v1",
+      "summary_type": "extractive",
+      "title_zh": "Quipu: A Governed Bitemporal Knowledge Graph Store",
+      "summary_zh": "Agents now write knowledge graphs, but knowledge-graph stores still carry defaults set when humans curated them: accept writes now and clean later, keep one time axis or none, treat every writer's facts as equally trustworthy, and leave governance to dashboards and middleware. These four defaults are individually convenient and jointly untenable under agent workloads. We present Quipu, an embeddable store that inverts all four: no fact enters except through a gate whose predicates evaluate the p"
+    },
+    {
+      "title": "When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents",
+      "summary": "Large Language Models (LLMs) have demonstrated capabilities in in-context learning, task decomposition, step-by-step reasoning, and code generation, driving their gradual evolution from text generation models into the core of agents capable of perceiving environments, invoking tools, and executing tasks. Traditional LLM Agents typically obtain information through webpages, documents, databases, or external tools and generate corresponding invocation sequences according to user goals; when this t",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16806v1",
+      "published_at": "2026-08-17T17:02:07Z",
+      "tags": [
+        "paper",
+        "agent",
+        "llm",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16806v1",
+      "summary_type": "extractive",
+      "title_zh": "When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents",
+      "summary_zh": "Large Language Models (LLMs) have demonstrated capabilities in in-context learning, task decomposition, step-by-step reasoning, and code generation, driving their gradual evolution from text generation models into the core of agents capable of perceiving environments, invoking tools, and executing tasks. Traditional LLM Agents typically obtain information through webpages, documents, databases, or external tools and generate corresponding invocation sequences according to user goals; when this t"
+    },
+    {
+      "title": "Diagnosing Dense Same-Class Attribute Misbinding in Large Vision-Language Models",
+      "summary": "Large vision-language models can recognize the objects and attributes in a crowded scene yet assign an attribute to the wrong same-class instance. Generic visual-question-answering accuracy marks the response as wrong, while object-hallucination metrics may regard both the object and attribute as image-supported; neither reveals the transfer. This study formalizes this blind spot as Dense Same-Class Attribute Misbinding (DSCAM) and presents InstaBind-Lite, a controlled benchmark that makes it di",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16805v1",
+      "published_at": "2026-08-17T17:01:21Z",
+      "tags": [
+        "vision",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16805v1",
+      "summary_type": "extractive",
+      "title_zh": "Diagnosing Dense Same-Class Attribute Misbinding in Large Vision-Language Models",
+      "summary_zh": "Large vision-language models can recognize the objects and attributes in a crowded scene yet assign an attribute to the wrong same-class instance. Generic visual-question-answering accuracy marks the response as wrong, while object-hallucination metrics may regard both the object and attribute as image-supported; neither reveals the transfer. This study formalizes this blind spot as Dense Same-Class Attribute Misbinding (DSCAM) and presents InstaBind-Lite, a controlled benchmark that makes it di"
+    },
+    {
+      "title": "Cross-Sign Language Transfer Learning Using Domain Adaptation with Multi-scale Temporal Alignment",
+      "summary": "Sign language serves as a vital means of communication for individuals with hearing impairments, yet recognition resources for the over 100 distinct sign languages are severely lacking. In response, we present our work on sign language recognition using transfer learning and the domain adaptation method TA3N, which utilizes the Temporal Relational Network (TRN) module for aligning multi-scale temporal relations. Our findings highlight the superior performance of Domain Adaptation to neural netwo",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16804v1",
+      "published_at": "2026-08-17T17:00:36Z",
+      "tags": [
+        "paper",
+        "ai"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16804v1",
+      "summary_type": "extractive",
+      "title_zh": "Cross-Sign Language Transfer Learning Using Domain Adaptation with Multi-scale Temporal Alignment",
+      "summary_zh": "Sign language serves as a vital means of communication for individuals with hearing impairments, yet recognition resources for the over 100 distinct sign languages are severely lacking. In response, we present our work on sign language recognition using transfer learning and the domain adaptation method TA3N, which utilizes the Temporal Relational Network (TRN) module for aligning multi-scale temporal relations. Our findings highlight the superior performance of Domain Adaptation to neural netwo"
+    },
+    {
+      "title": "When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding",
+      "summary": "We study how teams of AI coding agents coordinate while solving programming tasks. Current evaluations usually report whether the agents complete the task and how much the run costs, leaving the coordination inside the team largely unmeasured. We introduce an instrument to measure this coordination.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16801v1",
+      "published_at": "2026-08-17T16:57:38Z",
+      "tags": [
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16801v1",
+      "summary_type": "extractive",
+      "title_zh": "When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding",
+      "summary_zh": "We study how teams of AI coding agents coordinate while solving programming tasks. Current evaluations usually report whether the agents complete the task and how much the run costs, leaving the coordination inside the team largely unmeasured. We introduce an instrument to measure this coordination."
+    },
+    {
+      "title": "ClawGym II: Exploring Black-Box RL on Agent Harness",
+      "summary": "Agent harnesses have substantially improved performance on long-horizon tasks by coordinating agent interactions with the environment. However, reinforcement learning through complex harnesses remains largely unexplored, as scaling such training to long-horizon agent tasks introduces fundamental challenges. In this work, we present a unified black-box RL framework for stable and scalable optimization of general agents through complex harnesses.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16798v1",
+      "published_at": "2026-08-17T16:53:03Z",
+      "tags": [
+        "paper",
+        "agent",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16798v1",
+      "summary_type": "extractive",
+      "title_zh": "ClawGym II: Exploring Black-Box RL on Agent Harness",
+      "summary_zh": "Agent harnesses have substantially improved performance on long-horizon tasks by coordinating agent interactions with the environment. However, reinforcement learning through complex harnesses remains largely unexplored, as scaling such training to long-horizon agent tasks introduces fundamental challenges. In this work, we present a unified black-box RL framework for stable and scalable optimization of general agents through complex harnesses."
+    },
+    {
+      "title": "UniDot: A Unified Network for Sequence Modeling and Feature Interaction in Large-scale Recommendation",
+      "summary": "Industrial recommenders rely on two model families that have evolved largely independently: feature-interaction models over multi-field user/item features, and sequential models over user-behavior histories. Production systems couple them only loosely. To unify the two, we present UniDot, a novel architecture for post-click conversion prediction built from the factorization-machine (FM) point of view: the embedding inner product---which powers collaborative filtering and lets a recommender gener",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16797v1",
+      "published_at": "2026-08-17T16:52:56Z",
+      "tags": [
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16797v1",
+      "summary_type": "extractive",
+      "title_zh": "UniDot: A Unified Network for Sequence Modeling and Feature Interaction in Large-scale Recommendation",
+      "summary_zh": "Industrial recommenders rely on two model families that have evolved largely independently: feature-interaction models over multi-field user/item features, and sequential models over user-behavior histories. Production systems couple them only loosely. To unify the two, we present UniDot, a novel architecture for post-click conversion prediction built from the factorization-machine (FM) point of view: the embedding inner product---which powers collaborative filtering and lets a recommender gener"
+    },
+    {
+      "title": "Historical Backtesting for Scientific Question Discovery: A Protocol and Astronomy Pilot",
+      "summary": "Systems that generate scientific research questions are evaluated today by expert scores, LLM-as-judge ratings, or curated case studies -- all subjective, none falsifiable. We formalize historical backtesting as an alternative: a system generates questions from a corpus frozen at a historical cutoff, the questions are frozen before any access to later literature, and a temporally isolated future corpus then determines whether each question was subsequently answered, partially addressed, independ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16795v1",
+      "published_at": "2026-08-17T16:51:06Z",
+      "tags": [
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16795v1",
+      "summary_type": "extractive",
+      "title_zh": "Historical Backtesting for Scientific Question Discovery: A Protocol and Astronomy Pilot",
+      "summary_zh": "Systems that generate scientific research questions are evaluated today by expert scores, LLM-as-judge ratings, or curated case studies -- all subjective, none falsifiable. We formalize historical backtesting as an alternative: a system generates questions from a corpus frozen at a historical cutoff, the questions are frozen before any access to later literature, and a temporally isolated future corpus then determines whether each question was subsequently answered, partially addressed, independ"
+    },
+    {
+      "title": "Neurosymbolic Embodied Agents",
+      "summary": "Language and vision-language models generate plausible embodied plans but do not guarantee executability, as their outputs can violate environment dynamics or act on incorrectly grounded entities. We present a neurosymbolic agent that factors long-horizon household tasks into task-directed visual exploration and constrained symbolic planning. In the first phase, a vision-language model and exploration harness acquire goal-relevant predicates and instance bindings from egocentric observations and",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16794v1",
+      "published_at": "2026-08-17T16:50:59Z",
+      "tags": [
+        "vision",
+        "paper",
+        "llm",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16794v1",
+      "summary_type": "extractive",
+      "title_zh": "Neurosymbolic Embodied Agents",
+      "summary_zh": "Language and vision-language models generate plausible embodied plans but do not guarantee executability, as their outputs can violate environment dynamics or act on incorrectly grounded entities. We present a neurosymbolic agent that factors long-horizon household tasks into task-directed visual exploration and constrained symbolic planning. In the first phase, a vision-language model and exploration harness acquire goal-relevant predicates and instance bindings from egocentric observations and"
+    },
+    {
+      "title": "Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching",
+      "summary": "Model Inversion Attacks (MIAs) aim to reconstruct representative training samples of target identities from face recognition models, exposing critical security vulnerabilities. Existing methods typically rely on indirect guidance or highly stochastic guidance, making it difficult to stably optimize generation trajectories toward target facial images. In this paper, we propose Steering Flow Model Inversion (SFMI), a novel two-stage white-box model inversion method that reformulates inversion as a",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.16791v1",
+      "published_at": "2026-08-17T16:47:09Z",
+      "tags": [
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.16791v1",
+      "summary_type": "extractive",
+      "title_zh": "Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching",
+      "summary_zh": "Model Inversion Attacks (MIAs) aim to reconstruct representative training samples of target identities from face recognition models, exposing critical security vulnerabilities. Existing methods typically rely on indirect guidance or highly stochastic guidance, making it difficult to stably optimize generation trajectories toward target facial images. In this paper, we propose Steering Flow Model Inversion (SFMI), a novel two-stage white-box model inversion method that reformulates inversion as a"
     },
     {
       "title": "Sun Clock",
@@ -268,7 +554,7 @@
       "tags": [
         "ai"
       ],
-      "score": "170",
+      "score": "212",
       "item_id": "hn:49333824",
       "summary_type": "extractive",
       "title_zh": "Sun Clock",
@@ -284,7 +570,7 @@
       "tags": [
         "ai"
       ],
-      "score": "91",
+      "score": "99",
       "item_id": "hn:49332751",
       "summary_type": "extractive",
       "title_zh": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
@@ -300,7 +586,7 @@
       "tags": [
         "ai"
       ],
-      "score": "101",
+      "score": "108",
       "item_id": "hn:49331474",
       "summary_type": "extractive",
       "title_zh": "How to put 170 atoms in an atom",
@@ -316,7 +602,7 @@
       "tags": [
         "ai"
       ],
-      "score": "317",
+      "score": "354",
       "item_id": "hn:49331423",
       "summary_type": "extractive",
       "title_zh": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
@@ -332,7 +618,7 @@
       "tags": [
         "ai"
       ],
-      "score": "254",
+      "score": "282",
       "item_id": "hn:49331220",
       "summary_type": "extractive",
       "title_zh": "How to disable or avoid intrusive AI",
@@ -348,7 +634,7 @@
       "tags": [
         "ai"
       ],
-      "score": "495",
+      "score": "567",
       "item_id": "hn:49331033",
       "summary_type": "extractive",
       "title_zh": "Ask HN: Alternatives to GitHub",
@@ -364,7 +650,7 @@
       "tags": [
         "ai"
       ],
-      "score": "536",
+      "score": "602",
       "item_id": "hn:49330781",
       "summary_type": "extractive",
       "title_zh": "A Preview of DuckDB v2.0",
@@ -381,11 +667,59 @@
         "vision",
         "llm"
       ],
-      "score": "301",
+      "score": "329",
       "item_id": "hn:49329575",
       "summary_type": "extractive",
       "title_zh": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "summary_zh": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released"
+    },
+    {
+      "title": "On AI regulation and messaging",
+      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;DarioAmodei&#x2F;status&#x2F;2088758816376807762",
+      "full_text": "https:&#x2F;&#x2F;xcancel.com&#x2F;DarioAmodei&#x2F;status&#x2F;2088758816376807762",
+      "source": "hacker news",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "published_at": "2026-08-17T01:59:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "239",
+      "item_id": "hn:49325789",
+      "summary_type": "extractive",
+      "title_zh": "On AI regulation and messaging",
+      "summary_zh": "https:&#x2F;&#x2F;xcancel.com&#x2F;DarioAmodei&#x2F;status&#x2F;2088758816376807762"
+    },
+    {
+      "title": "Ghosts of the Past and Devils of the Present",
+      "summary": "Ghosts of the Past and Devils of the Present",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://thenewcuriosityshop.substack.com/p/ghosts-of-the-past-and-devils-of",
+      "published_at": "2026-08-16T22:11:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:49324256",
+      "summary_type": "extractive",
+      "title_zh": "Ghosts of the Past and Devils of the Present",
+      "summary_zh": "Ghosts of the Past and Devils of the Present"
+    },
+    {
+      "title": "Wellington second-hand bookstore's mysterious orders",
+      "summary": "Wellington second-hand bookstore's mysterious orders",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders",
+      "published_at": "2026-08-16T21:40:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "62",
+      "item_id": "hn:49323983",
+      "summary_type": "extractive",
+      "title_zh": "Wellington second-hand bookstore's mysterious orders",
+      "summary_zh": "Wellington second-hand bookstore's mysterious orders"
     },
     {
       "title": "A digestion of the proof of Sendov's conjecture",
@@ -397,7 +731,7 @@
       "tags": [
         "ai"
       ],
-      "score": "4",
+      "score": "23",
       "item_id": "hn:49294913",
       "summary_type": "extractive",
       "title_zh": "A digestion of the proof of Sendov's conjecture",
@@ -413,27 +747,43 @@
       "tags": [
         "ai"
       ],
-      "score": "67",
+      "score": "71",
       "item_id": "hn:49289898",
       "summary_type": "extractive",
       "title_zh": "The oldest bar in every state",
       "summary_zh": "The oldest bar in every state"
     },
     {
-      "title": "Intriguing stories in computer science",
-      "summary": "Intriguing stories in computer science",
+      "title": "The 37signals Manager Playbook",
+      "summary": "The 37signals Manager Playbook",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
-      "published_at": "2026-08-12T21:56:40+00:00",
+      "url": "https://basecamp.com/managers",
+      "published_at": "2026-08-13T16:12:01+00:00",
       "tags": [
         "ai"
       ],
-      "score": "32",
-      "item_id": "hn:49279146",
+      "score": "38",
+      "item_id": "hn:49288129",
       "summary_type": "extractive",
-      "title_zh": "Intriguing stories in computer science",
-      "summary_zh": "Intriguing stories in computer science"
+      "title_zh": "The 37signals Manager Playbook",
+      "summary_zh": "The 37signals Manager Playbook"
+    },
+    {
+      "title": "Shattered skeleton is first confirmed death from trebuchet",
+      "summary": "Shattered skeleton is first confirmed death from trebuchet",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
+      "published_at": "2026-08-13T12:47:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "52",
+      "item_id": "hn:49285139",
+      "summary_type": "extractive",
+      "title_zh": "Shattered skeleton is first confirmed death from trebuchet",
+      "summary_zh": "Shattered skeleton is first confirmed death from trebuchet"
     },
     {
       "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
@@ -445,7 +795,7 @@
       "tags": [
         "ai"
       ],
-      "score": "101",
+      "score": "123",
       "item_id": "hn:49272891",
       "summary_type": "extractive",
       "title_zh": "A particle made of force: physicists say they've found mysterious 'glueball'",
@@ -461,7 +811,7 @@
       "tags": [
         "ai"
       ],
-      "score": "317",
+      "score": "397",
       "item_id": "hn:49270194",
       "summary_type": "extractive",
       "title_zh": "Olo (Color)",
@@ -477,7 +827,7 @@
       "tags": [
         "ai"
       ],
-      "score": "18",
+      "score": "55",
       "item_id": "hn:49269966",
       "summary_type": "extractive",
       "title_zh": "The Road to MS-DOS 2.0",

@@ -1,10 +1,122 @@
 {
-  "updated_at": "2026-08-20T06:57:08.867510+00:00",
+  "updated_at": "2026-08-20T13:02:55.343141+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Windows brings out the Rorschach test in everyone",
-      "summary": "Windows brings out the Rorschach test in everyone",
+      "title": "Browser De-Slop",
+      "summary": "Browser De-Slop",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+      "published_at": "2026-08-20T12:19:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "13",
+      "item_id": "hn:49373616",
+      "summary_type": "extractive",
+      "title_zh": "Browser De-Slop",
+      "summary_zh": "Browser De-Slop"
+    },
+    {
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "summary": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes&#x2F;sec on an iPhone 15).The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn&#x27;t work.",
+      "full_text": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes&#x2F;sec on an iPhone 15).The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn&#x27;t work.",
+      "source": "hacker news",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "published_at": "2026-08-20T12:04:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "48",
+      "item_id": "hn:49373456",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "summary_zh": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes&#x2F;sec on an iPhone 15).The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn&#x27;t work."
+    },
+    {
+      "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+      "summary": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+      "published_at": "2026-08-20T12:00:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "1",
+      "item_id": "hn:49373423",
+      "summary_type": "extractive",
+      "title_zh": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+      "summary_zh": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff"
+    },
+    {
+      "title": "Australia passes law to levy tech giants that fail to pay for local news",
+      "summary": "Australia passes law to levy tech giants that fail to pay for local news",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+      "published_at": "2026-08-20T11:23:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:49373123",
+      "summary_type": "extractive",
+      "title_zh": "Australia passes law to levy tech giants that fail to pay for local news",
+      "summary_zh": "Australia passes law to levy tech giants that fail to pay for local news"
+    },
+    {
+      "title": "Risk Engineering",
+      "summary": "Risk Engineering",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://risk-engineering.org/",
+      "published_at": "2026-08-20T10:18:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "9",
+      "item_id": "hn:49372661",
+      "summary_type": "extractive",
+      "title_zh": "Risk Engineering",
+      "summary_zh": "Risk Engineering"
+    },
+    {
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "summary": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "published_at": "2026-08-20T10:08:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "209",
+      "item_id": "hn:49372583",
+      "summary_type": "extractive",
+      "title_zh": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "summary_zh": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint"
+    },
+    {
+      "title": "Don't Paste the AI, please",
+      "summary": "Don't Paste the AI, please",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dontpastetheai.com/",
+      "published_at": "2026-08-20T08:20:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "638",
+      "item_id": "hn:49371857",
+      "summary_type": "extractive",
+      "title_zh": "Don't Paste the AI, please",
+      "summary_zh": "Don't Paste the AI, please"
+    },
+    {
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
+      "summary": "Windows brings out the Rorschach test in everyone (2003)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
@@ -12,27 +124,11 @@
       "tags": [
         "ai"
       ],
-      "score": "5",
+      "score": "255",
       "item_id": "hn:49371006",
       "summary_type": "extractive",
-      "title_zh": "Windows brings out the Rorschach test in everyone",
-      "summary_zh": "Windows brings out the Rorschach test in everyone"
-    },
-    {
-      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "summary": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-      "published_at": "2026-08-20T04:42:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "39",
-      "item_id": "hn:49370440",
-      "summary_type": "extractive",
-      "title_zh": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "summary_zh": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?"
+      "title_zh": "Windows brings out the Rorschach test in everyone (2003)",
+      "summary_zh": "Windows brings out the Rorschach test in everyone (2003)"
     },
     {
       "title": "Turns are Better than Radians (2022)",
@@ -44,27 +140,11 @@
       "tags": [
         "ai"
       ],
-      "score": "144",
+      "score": "255",
       "item_id": "hn:49369408",
       "summary_type": "extractive",
       "title_zh": "Turns are Better than Radians (2022)",
       "summary_zh": "Turns are Better than Radians (2022)"
-    },
-    {
-      "title": "Universality of Gradient Descent Neural Network Training",
-      "summary": "Universality of Gradient Descent Neural Network Training",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arxiv.org/abs/2007.13664",
-      "published_at": "2026-08-20T00:05:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "27",
-      "item_id": "hn:49368828",
-      "summary_type": "extractive",
-      "title_zh": "Universality of Gradient Descent Neural Network Training",
-      "summary_zh": "Universality of Gradient Descent Neural Network Training"
     },
     {
       "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
@@ -76,43 +156,11 @@
       "tags": [
         "ai"
       ],
-      "score": "80",
+      "score": "106",
       "item_id": "hn:49367256",
       "summary_type": "extractive",
       "title_zh": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
       "summary_zh": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a"
-    },
-    {
-      "title": "DFlash 2: Keep Drafting Parallel",
-      "summary": "DFlash 2: Keep Drafting Parallel",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://inco.ai/blog/dflash2/",
-      "published_at": "2026-08-19T20:28:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "86",
-      "item_id": "hn:49366792",
-      "summary_type": "extractive",
-      "title_zh": "DFlash 2: Keep Drafting Parallel",
-      "summary_zh": "DFlash 2: Keep Drafting Parallel"
-    },
-    {
-      "title": "Pressed Penny Machine Map",
-      "summary": "Pressed Penny Machine Map",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://pennypresses.net/home/map.php",
-      "published_at": "2026-08-19T20:13:47+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "61",
-      "item_id": "hn:49366597",
-      "summary_type": "extractive",
-      "title_zh": "Pressed Penny Machine Map",
-      "summary_zh": "Pressed Penny Machine Map"
     },
     {
       "title": "Pixel 11 Pro Fold feels like the end of an era",
@@ -124,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "55",
+      "score": "80",
       "item_id": "hn:49366264",
       "summary_type": "extractive",
       "title_zh": "Pixel 11 Pro Fold feels like the end of an era",
@@ -140,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "190",
+      "score": "238",
       "item_id": "hn:49365841",
       "summary_type": "extractive",
       "title_zh": "Unlocking a locked/deactivated e-waste Cricut Maker",
@@ -156,7 +204,7 @@
       "tags": [
         "ai"
       ],
-      "score": "233",
+      "score": "296",
       "item_id": "hn:49365443",
       "summary_type": "extractive",
       "title_zh": "Unsloth Dynamic 3.0 GGUFs",
@@ -172,7 +220,7 @@
       "tags": [
         "ai"
       ],
-      "score": "582",
+      "score": "698",
       "item_id": "hn:49365405",
       "summary_type": "extractive",
       "title_zh": "Go 1.27",
@@ -186,10 +234,10 @@
       "url": "http://arxiv.org/abs/2608.19197v1",
       "published_at": "2026-08-19T17:58:56Z",
       "tags": [
-        "paper",
-        "agent",
         "tool",
-        "llm"
+        "agent",
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19197v1",
@@ -205,9 +253,9 @@
       "url": "http://arxiv.org/abs/2608.19182v1",
       "published_at": "2026-08-19T17:55:06Z",
       "tags": [
-        "paper",
         "tool",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19182v1",
@@ -240,8 +288,8 @@
       "url": "http://arxiv.org/abs/2608.19174v1",
       "published_at": "2026-08-19T17:51:50Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19174v1",
@@ -259,7 +307,7 @@
       "tags": [
         "ai"
       ],
-      "score": "445",
+      "score": "687",
       "item_id": "hn:49364745",
       "summary_type": "extractive",
       "title_zh": "Google has stopped pushing Git tags for some Android source code",
@@ -289,9 +337,9 @@
       "url": "http://arxiv.org/abs/2608.19161v1",
       "published_at": "2026-08-19T17:43:22Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19161v1",
@@ -307,9 +355,9 @@
       "url": "http://arxiv.org/abs/2608.19147v1",
       "published_at": "2026-08-19T17:33:28Z",
       "tags": [
-        "paper",
         "tool",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19147v1",
@@ -327,7 +375,7 @@
       "tags": [
         "ai"
       ],
-      "score": "794",
+      "score": "898",
       "item_id": "hn:49364559",
       "summary_type": "extractive",
       "title_zh": "OpenRouter is joining Stripe",
@@ -341,9 +389,9 @@
       "url": "http://arxiv.org/abs/2608.19140v1",
       "published_at": "2026-08-19T17:29:47Z",
       "tags": [
-        "paper",
         "tool",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19140v1",
@@ -376,9 +424,9 @@
       "url": "http://arxiv.org/abs/2608.19125v1",
       "published_at": "2026-08-19T17:18:53Z",
       "tags": [
-        "paper",
         "tool",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19125v1",
@@ -394,9 +442,9 @@
       "url": "http://arxiv.org/abs/2608.19121v1",
       "published_at": "2026-08-19T17:17:31Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19121v1",
@@ -412,8 +460,8 @@
       "url": "http://arxiv.org/abs/2608.19119v1",
       "published_at": "2026-08-19T17:16:27Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19119v1",
@@ -429,9 +477,9 @@
       "url": "http://arxiv.org/abs/2608.19098v1",
       "published_at": "2026-08-19T16:50:39Z",
       "tags": [
-        "paper",
         "vision",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19098v1",
@@ -447,9 +495,9 @@
       "url": "http://arxiv.org/abs/2608.19088v1",
       "published_at": "2026-08-19T16:38:39Z",
       "tags": [
-        "paper",
+        "tool",
         "vision",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19088v1",
@@ -465,8 +513,8 @@
       "url": "http://arxiv.org/abs/2608.19085v1",
       "published_at": "2026-08-19T16:33:02Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19085v1",
@@ -482,9 +530,9 @@
       "url": "http://arxiv.org/abs/2608.19075v1",
       "published_at": "2026-08-19T16:23:56Z",
       "tags": [
-        "paper",
         "vision",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19075v1",
@@ -500,8 +548,8 @@
       "url": "http://arxiv.org/abs/2608.19073v1",
       "published_at": "2026-08-19T16:22:48Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19073v1",
@@ -517,9 +565,9 @@
       "url": "http://arxiv.org/abs/2608.19072v1",
       "published_at": "2026-08-19T16:17:39Z",
       "tags": [
-        "paper",
         "agent",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19072v1",
@@ -535,9 +583,9 @@
       "url": "http://arxiv.org/abs/2608.19066v1",
       "published_at": "2026-08-19T16:08:10Z",
       "tags": [
-        "paper",
+        "tool",
         "vision",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19066v1",
@@ -553,31 +601,15 @@
       "url": "http://arxiv.org/abs/2608.19047v1",
       "published_at": "2026-08-19T15:40:21Z",
       "tags": [
-        "paper",
+        "tool",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.19047v1",
       "summary_type": "extractive",
       "title_zh": "Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery",
       "summary_zh": "We present Eureka, a task-conditioned Meta-Agent architecture that compiles long-horizon tasks into dynamic obligation graphs with explicit acceptance semantics. During execution, Eureka forms Macro-Agents with specialized state, memory, operators, tools, verifiers, and local topology via receding-horizon planning, architecture promotion, and minimal-sufficient compilation. When bottlenecks recur, cost-benefit-gated evolution updates the local architecture under constraints."
-    },
-    {
-      "title": "Remote workers report the highest well-being in study of 7,700 employees",
-      "summary": "Remote workers report the highest well-being in study of 7,700 employees",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
-      "published_at": "2026-08-19T15:32:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "556",
-      "item_id": "hn:49362934",
-      "summary_type": "extractive",
-      "title_zh": "Remote workers report the highest well-being in study of 7,700 employees",
-      "summary_zh": "Remote workers report the highest well-being in study of 7,700 employees"
     },
     {
       "title": "Casio F-B100W-1A",
@@ -589,7 +621,7 @@
       "tags": [
         "ai"
       ],
-      "score": "337",
+      "score": "419",
       "item_id": "hn:49362887",
       "summary_type": "extractive",
       "title_zh": "Casio F-B100W-1A",
@@ -605,27 +637,11 @@
       "tags": [
         "ai"
       ],
-      "score": "153",
+      "score": "189",
       "item_id": "hn:49362728",
       "summary_type": "extractive",
       "title_zh": "Mathematics in the age of AI",
       "summary_zh": "Mathematics in the age of AI"
-    },
-    {
-      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "summary": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ornith.ai/ornith_1_5.html",
-      "published_at": "2026-08-19T14:48:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "188",
-      "item_id": "hn:49362401",
-      "summary_type": "extractive",
-      "title_zh": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "summary_zh": "Ornith-1.5: From Self-Scaffolding to Self-Improvement"
     },
     {
       "title": "PostgreSQL for Everything",
@@ -637,7 +653,7 @@
       "tags": [
         "ai"
       ],
-      "score": "348",
+      "score": "399",
       "item_id": "hn:49361279",
       "summary_type": "extractive",
       "title_zh": "PostgreSQL for Everything",
@@ -653,7 +669,7 @@
       "tags": [
         "ai"
       ],
-      "score": "457",
+      "score": "495",
       "item_id": "hn:49360545",
       "summary_type": "extractive",
       "title_zh": "Geolocating a random island using geometry and CUDA programming",
@@ -669,7 +685,7 @@
       "tags": [
         "ai"
       ],
-      "score": "847",
+      "score": "953",
       "item_id": "hn:49360015",
       "summary_type": "extractive",
       "title_zh": "A joke domain purchase turned in geopolitical warfare",
@@ -685,27 +701,11 @@
       "tags": [
         "ai"
       ],
-      "score": "269",
+      "score": "288",
       "item_id": "hn:49359425",
       "summary_type": "extractive",
       "title_zh": "Air Theremin – A browser theremin you play by waving at your webcam",
       "summary_zh": "Air Theremin – A browser theremin you play by waving at your webcam"
-    },
-    {
-      "title": "OpenLogi",
-      "summary": "OpenLogi",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://openlogi.org/en",
-      "published_at": "2026-08-19T01:58:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.5k",
-      "item_id": "hn:49355606",
-      "summary_type": "extractive",
-      "title_zh": "OpenLogi",
-      "summary_zh": "OpenLogi"
     },
     {
       "title": "Pacing model development in an era of cyber-critical capabilities",
@@ -717,7 +717,7 @@
       "tags": [
         "ai"
       ],
-      "score": "147",
+      "score": "157",
       "item_id": "hn:49350031",
       "summary_type": "extractive",
       "title_zh": "Pacing model development in an era of cyber-critical capabilities",
@@ -733,11 +733,27 @@
       "tags": [
         "ai"
       ],
-      "score": "138",
+      "score": "196",
       "item_id": "hn:49348189",
       "summary_type": "extractive",
       "title_zh": "Sol loves to cheat",
       "summary_zh": "Sol loves to cheat"
+    },
+    {
+      "title": "The Chauffeur Problem",
+      "summary": "The Chauffeur Problem",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://engines.egr.uh.edu/episode/1495",
+      "published_at": "2026-08-16T23:55:35+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:49325037",
+      "summary_type": "extractive",
+      "title_zh": "The Chauffeur Problem",
+      "summary_zh": "The Chauffeur Problem"
     },
     {
       "title": "A faster way to calculate the day of the week",
@@ -749,7 +765,7 @@
       "tags": [
         "ai"
       ],
-      "score": "106",
+      "score": "196",
       "item_id": "hn:49323795",
       "summary_type": "extractive",
       "title_zh": "A faster way to calculate the day of the week",
@@ -765,27 +781,11 @@
       "tags": [
         "ai"
       ],
-      "score": "17",
+      "score": "42",
       "item_id": "hn:49321934",
       "summary_type": "extractive",
       "title_zh": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
       "summary_zh": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)"
-    },
-    {
-      "title": "Rewriting in Rust",
-      "summary": "Rewriting in Rust",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/",
-      "published_at": "2026-08-15T23:43:09+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "32",
-      "item_id": "hn:49315372",
-      "summary_type": "extractive",
-      "title_zh": "Rewriting in Rust",
-      "summary_zh": "Rewriting in Rust"
     },
     {
       "title": "The little-known winstart.bat batch file",
@@ -797,11 +797,27 @@
       "tags": [
         "ai"
       ],
-      "score": "108",
+      "score": "121",
       "item_id": "hn:49314109",
       "summary_type": "extractive",
       "title_zh": "The little-known winstart.bat batch file",
       "summary_zh": "The little-known winstart.bat batch file"
+    },
+    {
+      "title": "Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",
+      "summary": "Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://qdrant.tech/articles/filtered-vector-search-acorn/",
+      "published_at": "2026-08-15T17:27:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "6",
+      "item_id": "hn:49312446",
+      "summary_type": "extractive",
+      "title_zh": "Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",
+      "summary_zh": "Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn"
     },
     {
       "title": "Xorshift Generators",
@@ -813,27 +829,11 @@
       "tags": [
         "ai"
       ],
-      "score": "74",
+      "score": "93",
       "item_id": "hn:49310128",
       "summary_type": "extractive",
       "title_zh": "Xorshift Generators",
       "summary_zh": "Xorshift Generators"
-    },
-    {
-      "title": "Simulacra and Simulation",
-      "summary": "Simulacra and Simulation",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
-      "published_at": "2026-08-12T14:33:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "57",
-      "item_id": "hn:49273010",
-      "summary_type": "extractive",
-      "title_zh": "Simulacra and Simulation",
-      "summary_zh": "Simulacra and Simulation"
     }
   ]
 }

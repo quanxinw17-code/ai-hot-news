@@ -1,7 +1,119 @@
 {
-  "updated_at": "2026-08-21T06:58:43.857219+00:00",
+  "updated_at": "2026-08-21T13:01:57.412029+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+      "summary": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+      "published_at": "2026-08-21T11:43:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "45",
+      "item_id": "hn:49386659",
+      "summary_type": "extractive",
+      "title_zh": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+      "summary_zh": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering"
+    },
+    {
+      "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
+      "summary": "Kino: A high-performance Ractor web server for Ruby 4.0",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/yaroslav/kino",
+      "published_at": "2026-08-21T11:06:25+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "18",
+      "item_id": "hn:49386383",
+      "summary_type": "extractive",
+      "title_zh": "Kino: A high-performance Ractor web server for Ruby 4.0",
+      "summary_zh": "Kino: A high-performance Ractor web server for Ruby 4.0"
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "summary": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "published_at": "2026-08-21T10:05:46+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "163",
+      "item_id": "hn:49385994",
+      "summary_type": "extractive",
+      "title_zh": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "summary_zh": "AI companies destroy physical books – let's scan rare books before it's too late"
+    },
+    {
+      "title": "Small, native web tricks worth remembering",
+      "summary": "Small, native web tricks worth remembering",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://htmlcat.net/",
+      "published_at": "2026-08-21T09:45:14+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "104",
+      "item_id": "hn:49385860",
+      "summary_type": "extractive",
+      "title_zh": "Small, native web tricks worth remembering",
+      "summary_zh": "Small, native web tricks worth remembering"
+    },
+    {
+      "title": "Better Batteries",
+      "summary": "Better Batteries",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+      "published_at": "2026-08-21T07:48:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:49385068",
+      "summary_type": "extractive",
+      "title_zh": "Better Batteries",
+      "summary_zh": "Better Batteries"
+    },
+    {
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "summary": "The Lost Treasure of Sid Meier's Pirates",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "published_at": "2026-08-21T07:23:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "150",
+      "item_id": "hn:49384896",
+      "summary_type": "extractive",
+      "title_zh": "The Lost Treasure of Sid Meier's Pirates",
+      "summary_zh": "The Lost Treasure of Sid Meier's Pirates"
+    },
+    {
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "summary": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "published_at": "2026-08-21T06:59:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "114",
+      "item_id": "hn:49384716",
+      "summary_type": "extractive",
+      "title_zh": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "summary_zh": "We Rebuilt the Linux MicroVM Stack on Apple Silicon"
+    },
     {
       "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
       "summary": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
@@ -12,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "13",
+      "score": "66",
       "item_id": "hn:49384224",
       "summary_type": "extractive",
       "title_zh": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
@@ -28,59 +140,11 @@
       "tags": [
         "ai"
       ],
-      "score": "39",
+      "score": "264",
       "item_id": "hn:49384180",
       "summary_type": "extractive",
       "title_zh": "Japan tried to build an operating system for the world, the US intervened",
       "summary_zh": "Japan tried to build an operating system for the world, the US intervened"
-    },
-    {
-      "title": "Codex on AWS bedrock bug causing 10x charges",
-      "summary": "Codex on AWS bedrock bug causing 10x charges",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/openai/codex/issues/37674",
-      "published_at": "2026-08-21T03:17:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "99",
-      "item_id": "hn:49383326",
-      "summary_type": "extractive",
-      "title_zh": "Codex on AWS bedrock bug causing 10x charges",
-      "summary_zh": "Codex on AWS bedrock bug causing 10x charges"
-    },
-    {
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "published_at": "2026-08-21T02:37:47+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "269",
-      "item_id": "hn:49383026",
-      "summary_type": "extractive",
-      "title_zh": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary_zh": "AI companies destroy physical books – let's scan rare books before it's too late"
-    },
-    {
-      "title": "There's no such thing as a small software team anymore",
-      "summary": "There's no such thing as a small software team anymore",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-      "published_at": "2026-08-21T00:28:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "75",
-      "item_id": "hn:49382152",
-      "summary_type": "extractive",
-      "title_zh": "There's no such thing as a small software team anymore",
-      "summary_zh": "There's no such thing as a small software team anymore"
     },
     {
       "title": "Ox Alpha",
@@ -92,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "101",
+      "score": "187",
       "item_id": "hn:49381896",
       "summary_type": "extractive",
       "title_zh": "Ox Alpha",
@@ -108,27 +172,11 @@
       "tags": [
         "ai"
       ],
-      "score": "458",
+      "score": "582",
       "item_id": "hn:49378957",
       "summary_type": "extractive",
       "title_zh": "The August 17 outage",
       "summary_zh": "The August 17 outage"
-    },
-    {
-      "title": "SpacetimeDB: A Short Technical Review",
-      "summary": "SpacetimeDB: A Short Technical Review",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://strn.cat/posts/spacetime/",
-      "published_at": "2026-08-20T19:19:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "82",
-      "item_id": "hn:49378933",
-      "summary_type": "extractive",
-      "title_zh": "SpacetimeDB: A Short Technical Review",
-      "summary_zh": "SpacetimeDB: A Short Technical Review"
     },
     {
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
@@ -140,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "283",
+      "score": "338",
       "item_id": "hn:49378768",
       "summary_type": "extractive",
       "title_zh": "Show HN: Huzzah – a novel approach to coding with AI",
@@ -156,27 +204,11 @@
       "tags": [
         "ai"
       ],
-      "score": "148",
+      "score": "219",
       "item_id": "hn:49378446",
       "summary_type": "extractive",
       "title_zh": "Why aren't smart people happier? (2022)",
       "summary_zh": "Why aren't smart people happier? (2022)"
-    },
-    {
-      "title": "Consumer Rights Wiki",
-      "summary": "Consumer Rights Wiki",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://consumerrights.wiki/w/Main_Page",
-      "published_at": "2026-08-20T18:19:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "267",
-      "item_id": "hn:49378243",
-      "summary_type": "extractive",
-      "title_zh": "Consumer Rights Wiki",
-      "summary_zh": "Consumer Rights Wiki"
     },
     {
       "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
@@ -203,9 +235,9 @@
       "url": "http://arxiv.org/abs/2608.20320v1",
       "published_at": "2026-08-20T17:57:42Z",
       "tags": [
-        "agent",
         "vision",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20320v1",
@@ -221,9 +253,9 @@
       "url": "http://arxiv.org/abs/2608.20319v1",
       "published_at": "2026-08-20T17:57:00Z",
       "tags": [
-        "agent",
         "vision",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20319v1",
@@ -239,9 +271,9 @@
       "url": "http://arxiv.org/abs/2608.20318v1",
       "published_at": "2026-08-20T17:56:59Z",
       "tags": [
-        "agent",
+        "paper",
         "llm",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20318v1",
@@ -257,9 +289,9 @@
       "url": "http://arxiv.org/abs/2608.20316v1",
       "published_at": "2026-08-20T17:54:37Z",
       "tags": [
-        "tool",
+        "paper",
         "llm",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20316v1",
@@ -275,10 +307,10 @@
       "url": "http://arxiv.org/abs/2608.20314v1",
       "published_at": "2026-08-20T17:53:59Z",
       "tags": [
-        "tool",
-        "agent",
+        "paper",
         "llm",
-        "paper"
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20314v1",
@@ -296,27 +328,11 @@
       "tags": [
         "ai"
       ],
-      "score": "251",
+      "score": "305",
       "item_id": "hn:49377853",
       "summary_type": "extractive",
       "title_zh": "I should have loved biology (2020)",
       "summary_zh": "I should have loved biology (2020)"
-    },
-    {
-      "title": "Project Cybersyn (2022)",
-      "summary": "Project Cybersyn (2022)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://bactra.org/notebooks/cybersyn.html",
-      "published_at": "2026-08-20T17:40:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "59",
-      "item_id": "hn:49377739",
-      "summary_type": "extractive",
-      "title_zh": "Project Cybersyn (2022)",
-      "summary_zh": "Project Cybersyn (2022)"
     },
     {
       "title": "Phantom Gains: Auditing Self-Improvement Against a Measured Null",
@@ -326,8 +342,8 @@
       "url": "http://arxiv.org/abs/2608.20290v1",
       "published_at": "2026-08-20T17:30:14Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20290v1",
@@ -343,9 +359,9 @@
       "url": "http://arxiv.org/abs/2608.20281v1",
       "published_at": "2026-08-20T17:14:24Z",
       "tags": [
-        "tool",
+        "paper",
         "llm",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20281v1",
@@ -361,9 +377,9 @@
       "url": "http://arxiv.org/abs/2608.20274v1",
       "published_at": "2026-08-20T17:12:08Z",
       "tags": [
-        "agent",
+        "paper",
         "llm",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20274v1",
@@ -379,30 +395,14 @@
       "url": "http://arxiv.org/abs/2608.20271v1",
       "published_at": "2026-08-20T17:09:41Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20271v1",
       "summary_type": "extractive",
       "title_zh": "Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning",
       "summary_zh": "The rapid proliferation of memecoins on blockchain platforms has increased the risk of fraudulent activities, particularly rug pulls. While previous studies have focused on Ethereum-based tokens, this paper shifts the spotlight to Solana, the leading blockchain for memecoins by trading volume and token count. Unlike Ethereum, where rug pulls often exploit smart contract backdoors, Solana memecoin rug pulls are predominantly driven by liquidity manipulation and social dynamics."
-    },
-    {
-      "title": "Sixtyfour (YC P25) Is Hiring",
-      "summary": "Sixtyfour (YC P25) Is Hiring",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
-      "published_at": "2026-08-20T17:01:05+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:49377248",
-      "summary_type": "extractive",
-      "title_zh": "Sixtyfour (YC P25) Is Hiring",
-      "summary_zh": "Sixtyfour (YC P25) Is Hiring"
     },
     {
       "title": "Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation",
@@ -412,8 +412,8 @@
       "url": "http://arxiv.org/abs/2608.20256v1",
       "published_at": "2026-08-20T16:54:08Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20256v1",
@@ -429,8 +429,8 @@
       "url": "http://arxiv.org/abs/2608.20240v1",
       "published_at": "2026-08-20T16:31:01Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20240v1",
@@ -446,10 +446,10 @@
       "url": "http://arxiv.org/abs/2608.20237v1",
       "published_at": "2026-08-20T16:28:28Z",
       "tags": [
-        "agent",
-        "llm",
         "vision",
-        "paper"
+        "llm",
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20237v1",
@@ -465,8 +465,8 @@
       "url": "http://arxiv.org/abs/2608.20231v1",
       "published_at": "2026-08-20T16:26:24Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20231v1",
@@ -499,8 +499,8 @@
       "url": "http://arxiv.org/abs/2608.20220v1",
       "published_at": "2026-08-20T16:14:47Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20220v1",
@@ -532,9 +532,9 @@
       "url": "http://arxiv.org/abs/2608.20210v1",
       "published_at": "2026-08-20T16:09:43Z",
       "tags": [
-        "tool",
+        "paper",
         "llm",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20210v1",
@@ -550,8 +550,8 @@
       "url": "http://arxiv.org/abs/2608.20204v1",
       "published_at": "2026-08-20T16:01:42Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20204v1",
@@ -567,8 +567,8 @@
       "url": "http://arxiv.org/abs/2608.20202v1",
       "published_at": "2026-08-20T16:00:17Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.20202v1",
@@ -586,7 +586,7 @@
       "tags": [
         "ai"
       ],
-      "score": "151",
+      "score": "163",
       "item_id": "hn:49376332",
       "summary_type": "extractive",
       "title_zh": "How to compromise your system with a job interview",
@@ -602,7 +602,7 @@
       "tags": [
         "ai"
       ],
-      "score": "233",
+      "score": "271",
       "item_id": "hn:49376265",
       "summary_type": "extractive",
       "title_zh": "Linux 7.2",
@@ -618,7 +618,7 @@
       "tags": [
         "ai"
       ],
-      "score": "34",
+      "score": "47",
       "item_id": "hn:49376038",
       "summary_type": "extractive",
       "title_zh": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
@@ -634,27 +634,11 @@
       "tags": [
         "ai"
       ],
-      "score": "146",
+      "score": "184",
       "item_id": "hn:49375719",
       "summary_type": "extractive",
       "title_zh": "Anti-AI fonts are useless and harmful",
       "summary_zh": "Anti-AI fonts are useless and harmful"
-    },
-    {
-      "title": "Every Model Cheats",
-      "summary": "https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.21763",
-      "full_text": "https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.21763",
-      "source": "hacker news",
-      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "published_at": "2026-08-20T13:56:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "96",
-      "item_id": "hn:49374635",
-      "summary_type": "extractive",
-      "title_zh": "Every Model Cheats",
-      "summary_zh": "https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.21763"
     },
     {
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
@@ -666,7 +650,7 @@
       "tags": [
         "ai"
       ],
-      "score": "467",
+      "score": "519",
       "item_id": "hn:49374269",
       "summary_type": "extractive",
       "title_zh": "Malicious Rust crate Arrayref runs a build-time payload",
@@ -682,7 +666,7 @@
       "tags": [
         "ai"
       ],
-      "score": "947",
+      "score": "984",
       "item_id": "hn:49372583",
       "summary_type": "extractive",
       "title_zh": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
@@ -698,7 +682,7 @@
       "tags": [
         "ai"
       ],
-      "score": "391",
+      "score": "425",
       "item_id": "hn:49368886",
       "summary_type": "extractive",
       "title_zh": "CIA funding helped keep NeXT afloat in the 80s",
@@ -714,15 +698,15 @@
       "tags": [
         "ai"
       ],
-      "score": "711",
+      "score": "892",
       "item_id": "hn:49362689",
       "summary_type": "extractive",
       "title_zh": "HTML Can Do That",
       "summary_zh": "HTML Can Do That"
     },
     {
-      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
-      "summary": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
+      "summary": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://arxiv.org/abs/2504.09762",
@@ -730,27 +714,11 @@
       "tags": [
         "ai"
       ],
-      "score": "223",
+      "score": "263",
       "item_id": "hn:49360140",
       "summary_type": "extractive",
-      "title_zh": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
-      "summary_zh": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces"
-    },
-    {
-      "title": "Git at any scale",
-      "summary": "Git at any scale",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://cursor.com/blog/git-at-any-scale",
-      "published_at": "2026-08-18T16:26:56+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "320",
-      "item_id": "hn:49348141",
-      "summary_type": "extractive",
-      "title_zh": "Git at any scale",
-      "summary_zh": "Git at any scale"
+      "title_zh": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
+      "summary_zh": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)"
     },
     {
       "title": "I like 'em thick: an apology to my English teachers",
@@ -762,27 +730,27 @@
       "tags": [
         "ai"
       ],
-      "score": "683",
+      "score": "785",
       "item_id": "hn:49347543",
       "summary_type": "extractive",
       "title_zh": "I like 'em thick: an apology to my English teachers",
       "summary_zh": "I like 'em thick: an apology to my English teachers"
     },
     {
-      "title": "Version Control for Everything",
-      "summary": "Version Control for Everything",
+      "title": "Flat Chair by Sara Paculdo",
+      "summary": "Flat Chair by Sara Paculdo",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://tyoverby.com/posts/version-control-for-everything-else/",
-      "published_at": "2026-08-17T19:28:44+00:00",
+      "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+      "published_at": "2026-08-17T14:01:37+00:00",
       "tags": [
         "ai"
       ],
-      "score": "7",
-      "item_id": "hn:49336358",
+      "score": "59",
+      "item_id": "hn:49331084",
       "summary_type": "extractive",
-      "title_zh": "Version Control for Everything",
-      "summary_zh": "Version Control for Everything"
+      "title_zh": "Flat Chair by Sara Paculdo",
+      "summary_zh": "Flat Chair by Sara Paculdo"
     },
     {
       "title": "Captain Zilog",
@@ -794,27 +762,59 @@
       "tags": [
         "ai"
       ],
-      "score": "42",
+      "score": "63",
       "item_id": "hn:49329919",
       "summary_type": "extractive",
       "title_zh": "Captain Zilog",
       "summary_zh": "Captain Zilog"
     },
     {
-      "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
-      "summary": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
+      "title": "The Mystery of Dark Oxygen",
+      "summary": "The Mystery of Dark Oxygen",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
-      "published_at": "2026-08-14T20:49:29+00:00",
+      "url": "https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen",
+      "published_at": "2026-08-16T13:11:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "34",
-      "item_id": "hn:49304409",
+      "score": "16",
+      "item_id": "hn:49319733",
       "summary_type": "extractive",
-      "title_zh": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
-      "summary_zh": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K"
+      "title_zh": "The Mystery of Dark Oxygen",
+      "summary_zh": "The Mystery of Dark Oxygen"
+    },
+    {
+      "title": "Siemens PC-X (2015)",
+      "summary": "Siemens PC-X (2015)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.geekdot.com/siemens-pc-x/",
+      "published_at": "2026-08-16T10:28:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "6",
+      "item_id": "hn:49318718",
+      "summary_type": "extractive",
+      "title_zh": "Siemens PC-X (2015)",
+      "summary_zh": "Siemens PC-X (2015)"
+    },
+    {
+      "title": "Attention Through Arithmetic Intensity",
+      "summary": "Attention Through Arithmetic Intensity",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://changyi.fun/posts/attention-arithmetic-intensity/",
+      "published_at": "2026-08-16T01:03:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "9",
+      "item_id": "hn:49315836",
+      "summary_type": "extractive",
+      "title_zh": "Attention Through Arithmetic Intensity",
+      "summary_zh": "Attention Through Arithmetic Intensity"
     },
     {
       "title": "Speeding Up (Small) Ruby Hashes",
@@ -826,7 +826,7 @@
       "tags": [
         "ai"
       ],
-      "score": "45",
+      "score": "69",
       "item_id": "hn:49295112",
       "summary_type": "extractive",
       "title_zh": "Speeding Up (Small) Ruby Hashes",

@@ -1,22 +1,375 @@
 {
-  "updated_at": "2026-08-25T13:01:10.351182+00:00",
+  "updated_at": "2026-08-25T18:49:25.416362+00:00",
   "count": 50,
   "items": [
     {
-      "title": "France's tax agency got hacked (in French)",
-      "summary": "France's tax agency got hacked (in French)",
+      "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+      "summary": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-      "published_at": "2026-08-25T12:44:35+00:00",
+      "url": "https://pgbot.dev/",
+      "published_at": "2026-08-25T18:30:57+00:00",
+      "tags": [
+        "tool",
+        "agent"
+      ],
+      "score": "3",
+      "item_id": "hn:49438492",
+      "summary_type": "extractive",
+      "title_zh": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+      "summary_zh": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents"
+    },
+    {
+      "title": "Dolly Parton has died",
+      "summary": "https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-de...https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-d..., https:&#x2F;&#x2F;archive.ph&#x2F;w4vsEhttps:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;music&#x2F;music-news&#x2F;dolly-par...",
+      "full_text": "https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-de...https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-d..., https:&#x2F;&#x2F;archive.ph&#x2F;w4vsEhttps:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;music&#x2F;music-news&#x2F;dolly-par...",
+      "source": "hacker news",
+      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "published_at": "2026-08-25T18:02:22+00:00",
       "tags": [
         "ai"
       ],
-      "score": "16",
-      "item_id": "hn:49433064",
+      "score": "275",
+      "item_id": "hn:49438052",
       "summary_type": "extractive",
-      "title_zh": "France's tax agency got hacked (in French)",
-      "summary_zh": "France's tax agency got hacked (in French)"
+      "title_zh": "Dolly Parton has died",
+      "summary_zh": "https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-de...https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-d..., https:&#x2F;&#x2F;archive.ph&#x2F;w4vsEhttps:&#x2F;&#x2F;www.hollywoodreporter.com&#x2F;music&#x2F;music-news&#x2F;dolly-par..."
+    },
+    {
+      "title": "Trial is 40 days. Not until you're 40",
+      "summary": "Trial is 40 days. Not until you're 40",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://twitter.com/WinRAR_RARLAB/status/2092182008319386067",
+      "published_at": "2026-08-25T17:56:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:49437966",
+      "summary_type": "extractive",
+      "title_zh": "Trial is 40 days. Not until you're 40",
+      "summary_zh": "Trial is 40 days. Not until you're 40"
+    },
+    {
+      "title": "DOJ prosecutes single FOIA dodger while defending systemwide evasion",
+      "summary": "DOJ prosecutes single FOIA dodger while defending systemwide evasion",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://freedom.press/the-classifieds/doj-prosecutes-single-foia-dodger-while-defending-systemwide-evasion/",
+      "published_at": "2026-08-25T17:35:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "20",
+      "item_id": "hn:49437637",
+      "summary_type": "extractive",
+      "title_zh": "DOJ prosecutes single FOIA dodger while defending systemwide evasion",
+      "summary_zh": "DOJ prosecutes single FOIA dodger while defending systemwide evasion"
+    },
+    {
+      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+      "summary": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+      "published_at": "2026-08-25T17:28:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "1",
+      "item_id": "hn:49437566",
+      "summary_type": "extractive",
+      "title_zh": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+      "summary_zh": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market"
+    },
+    {
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "summary": "Run OpenBSD on DigitalOcean for $4/month",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "published_at": "2026-08-25T17:23:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "29",
+      "item_id": "hn:49437483",
+      "summary_type": "extractive",
+      "title_zh": "Run OpenBSD on DigitalOcean for $4/month",
+      "summary_zh": "Run OpenBSD on DigitalOcean for $4/month"
+    },
+    {
+      "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
+      "summary": "Show HN: Lightweight system monitor for Linux VPS written in Go",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/leodeim/vpsmon",
+      "published_at": "2026-08-25T17:13:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:49437361",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Lightweight system monitor for Linux VPS written in Go",
+      "summary_zh": "Show HN: Lightweight system monitor for Linux VPS written in Go"
+    },
+    {
+      "title": "Nitter project received cease and desist",
+      "summary": "Nitter project received cease and desist",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/zedeus/nitter/issues/1442",
+      "published_at": "2026-08-25T17:08:21+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "208",
+      "item_id": "hn:49437283",
+      "summary_type": "extractive",
+      "title_zh": "Nitter project received cease and desist",
+      "summary_zh": "Nitter project received cease and desist"
+    },
+    {
+      "title": "Black hole singularity is a surface not a point",
+      "summary": "Black hole singularity is a surface not a point",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arxiv.org/abs/2608.21590",
+      "published_at": "2026-08-25T17:02:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "66",
+      "item_id": "hn:49437210",
+      "summary_type": "extractive",
+      "title_zh": "Black hole singularity is a surface not a point",
+      "summary_zh": "Black hole singularity is a surface not a point"
+    },
+    {
+      "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
+      "summary": "A new ceiling for Λ: the de Bruijn–Newman constant",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
+      "published_at": "2026-08-25T16:59:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "28",
+      "item_id": "hn:49437165",
+      "summary_type": "extractive",
+      "title_zh": "A new ceiling for Λ: the de Bruijn–Newman constant",
+      "summary_zh": "A new ceiling for Λ: the de Bruijn–Newman constant"
+    },
+    {
+      "title": "My Friend Aaron",
+      "summary": "My Friend Aaron",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://rorz.io/writing/my-friend-aaron",
+      "published_at": "2026-08-25T16:53:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "106",
+      "item_id": "hn:49437069",
+      "summary_type": "extractive",
+      "title_zh": "My Friend Aaron",
+      "summary_zh": "My Friend Aaron"
+    },
+    {
+      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+      "summary": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better.",
+      "full_text": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better.",
+      "source": "hacker news",
+      "url": "https://github.com/jeffhajewski/latticedb",
+      "published_at": "2026-08-25T16:52:05+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "34",
+      "item_id": "hn:49437049",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: LatticeDB – Like SQLite but for graph databases",
+      "summary_zh": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better."
+    },
+    {
+      "title": "Starbase, LA",
+      "summary": "Starbase, LA",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.spacex.com/sites/starbase-la",
+      "published_at": "2026-08-25T16:37:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "78",
+      "item_id": "hn:49436822",
+      "summary_type": "extractive",
+      "title_zh": "Starbase, LA",
+      "summary_zh": "Starbase, LA"
+    },
+    {
+      "title": "Fuzzing the Gleam Compiler",
+      "summary": "Fuzzing the Gleam Compiler",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+      "published_at": "2026-08-25T16:30:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "18",
+      "item_id": "hn:49436706",
+      "summary_type": "extractive",
+      "title_zh": "Fuzzing the Gleam Compiler",
+      "summary_zh": "Fuzzing the Gleam Compiler"
+    },
+    {
+      "title": "Warnock: Harnessing GPU geometry amplification for vector graphics",
+      "summary": "Video: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=PTD4yvGWgvA",
+      "full_text": "Video: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=PTD4yvGWgvA",
+      "source": "hacker news",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+      "published_at": "2026-08-25T15:26:45+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "24",
+      "item_id": "hn:49435781",
+      "summary_type": "extractive",
+      "title_zh": "Warnock: Harnessing GPU geometry amplification for vector graphics",
+      "summary_zh": "Video: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=PTD4yvGWgvA"
+    },
+    {
+      "title": "How much of HN is AI?",
+      "summary": "How much of HN is AI?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "published_at": "2026-08-25T15:23:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "202",
+      "item_id": "hn:49435728",
+      "summary_type": "extractive",
+      "title_zh": "How much of HN is AI?",
+      "summary_zh": "How much of HN is AI?"
+    },
+    {
+      "title": "Otto Dix, Nietzsche, and the Great War (2019)",
+      "summary": "Otto Dix, Nietzsche, and the Great War (2019)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
+      "published_at": "2026-08-25T15:09:20+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "29",
+      "item_id": "hn:49435495",
+      "summary_type": "extractive",
+      "title_zh": "Otto Dix, Nietzsche, and the Great War (2019)",
+      "summary_zh": "Otto Dix, Nietzsche, and the Great War (2019)"
+    },
+    {
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "summary": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "published_at": "2026-08-25T14:29:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "174",
+      "item_id": "hn:49434820",
+      "summary_type": "extractive",
+      "title_zh": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "summary_zh": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
+    },
+    {
+      "title": "Building a backyard office, the build and cost breakdown",
+      "summary": "Building a backyard office, the build and cost breakdown",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+      "published_at": "2026-08-25T14:20:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "156",
+      "item_id": "hn:49434645",
+      "summary_type": "extractive",
+      "title_zh": "Building a backyard office, the build and cost breakdown",
+      "summary_zh": "Building a backyard office, the build and cost breakdown"
+    },
+    {
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "summary": "New Mac mini, featuring M6 and M5 Pro",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "published_at": "2026-08-25T13:13:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "325",
+      "item_id": "hn:49433450",
+      "summary_type": "extractive",
+      "title_zh": "New Mac mini, featuring M6 and M5 Pro",
+      "summary_zh": "New Mac mini, featuring M6 and M5 Pro"
+    },
+    {
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "summary": "New Mac Studio with M5 Max and M5 Ultra",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "published_at": "2026-08-25T13:03:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "572",
+      "item_id": "hn:49433316",
+      "summary_type": "extractive",
+      "title_zh": "New Mac Studio with M5 Max and M5 Ultra",
+      "summary_zh": "New Mac Studio with M5 Max and M5 Ultra"
+    },
+    {
+      "title": "Apple introduces M6 and M5 Ultra",
+      "summary": "https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe...https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-he...",
+      "full_text": "https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe...https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-he...",
+      "source": "hacker news",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "published_at": "2026-08-25T13:01:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "705",
+      "item_id": "hn:49433292",
+      "summary_type": "extractive",
+      "title_zh": "Apple introduces M6 and M5 Ultra",
+      "summary_zh": "https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe...https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;m6-mac-mini-vs-m4-mac-mini-he..."
+    },
+    {
+      "title": "Solving the 1+N Query Problem",
+      "summary": "Solving the 1+N Query Problem",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+      "published_at": "2026-08-25T12:26:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "27",
+      "item_id": "hn:49432786",
+      "summary_type": "extractive",
+      "title_zh": "Solving the 1+N Query Problem",
+      "summary_zh": "Solving the 1+N Query Problem"
     },
     {
       "title": "Don't Wordle",
@@ -28,59 +381,59 @@
       "tags": [
         "ai"
       ],
-      "score": "67",
+      "score": "241",
       "item_id": "hn:49432319",
       "summary_type": "extractive",
       "title_zh": "Don't Wordle",
       "summary_zh": "Don't Wordle"
     },
     {
-      "title": "HelloAssembly The smallest possible complete Windows application",
-      "summary": "HelloAssembly The smallest possible complete Windows application",
+      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "summary": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
       "full_text": "",
+      "source": "hacker news",
+      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+      "published_at": "2026-08-25T11:49:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "266",
+      "item_id": "hn:49432317",
+      "summary_type": "extractive",
+      "title_zh": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "summary_zh": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)"
+    },
+    {
+      "title": "HelloAssembly: The smallest possible complete Windows application (2021)",
+      "summary": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=b0zxIfJJLAY",
+      "full_text": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=b0zxIfJJLAY",
       "source": "hacker news",
       "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
       "published_at": "2026-08-25T11:40:00+00:00",
       "tags": [
         "ai"
       ],
-      "score": "17",
+      "score": "73",
       "item_id": "hn:49432227",
       "summary_type": "extractive",
-      "title_zh": "HelloAssembly The smallest possible complete Windows application",
-      "summary_zh": "HelloAssembly The smallest possible complete Windows application"
+      "title_zh": "HelloAssembly: The smallest possible complete Windows application (2021)",
+      "summary_zh": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=b0zxIfJJLAY"
     },
     {
-      "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
-      "summary": "Credit Card Rewards Became a $9.2B Wealth Transfer",
+      "title": "Windows 95 released August 24, 1995",
+      "summary": "Windows 95 released August 24, 1995",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-      "published_at": "2026-08-25T11:37:24+00:00",
+      "url": "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/",
+      "published_at": "2026-08-25T06:56:55+00:00",
       "tags": [
         "ai"
       ],
-      "score": "103",
-      "item_id": "hn:49432201",
+      "score": "98",
+      "item_id": "hn:49430007",
       "summary_type": "extractive",
-      "title_zh": "Credit Card Rewards Became a $9.2B Wealth Transfer",
-      "summary_zh": "Credit Card Rewards Became a $9.2B Wealth Transfer"
-    },
-    {
-      "title": "Quantum battery upends the rules of charging",
-      "summary": "Quantum battery upends the rules of charging",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-      "published_at": "2026-08-25T10:34:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "44",
-      "item_id": "hn:49431560",
-      "summary_type": "extractive",
-      "title_zh": "Quantum battery upends the rules of charging",
-      "summary_zh": "Quantum battery upends the rules of charging"
+      "title_zh": "Windows 95 released August 24, 1995",
+      "summary_zh": "Windows 95 released August 24, 1995"
     },
     {
       "title": "How Universities Should Prepare Founders",
@@ -92,124 +445,11 @@
       "tags": [
         "ai"
       ],
-      "score": "170",
+      "score": "227",
       "item_id": "hn:49428121",
       "summary_type": "extractive",
       "title_zh": "How Universities Should Prepare Founders",
       "summary_zh": "How Universities Should Prepare Founders"
-    },
-    {
-      "title": "Was modern art a CIA psy-op? (2020)",
-      "summary": "Was modern art a CIA psy-op? (2020)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-      "published_at": "2026-08-25T01:35:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "107",
-      "item_id": "hn:49428080",
-      "summary_type": "extractive",
-      "title_zh": "Was modern art a CIA psy-op? (2020)",
-      "summary_zh": "Was modern art a CIA psy-op? (2020)"
-    },
-    {
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "summary": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "published_at": "2026-08-24T22:13:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "517",
-      "item_id": "hn:49426564",
-      "summary_type": "extractive",
-      "title_zh": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "summary_zh": "iCloud+ Hide My Email addresses will remain on icloud.com"
-    },
-    {
-      "title": "Moon (2024)",
-      "summary": "Moon (2024)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ciechanow.ski/moon/",
-      "published_at": "2026-08-24T22:06:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "219",
-      "item_id": "hn:49426466",
-      "summary_type": "extractive",
-      "title_zh": "Moon (2024)",
-      "summary_zh": "Moon (2024)"
-    },
-    {
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "summary": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-      "published_at": "2026-08-24T21:01:38+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "122",
-      "item_id": "hn:49425800",
-      "summary_type": "extractive",
-      "title_zh": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "summary_zh": "Vintage Artificial Intelligence: Before It Got Awkward"
-    },
-    {
-      "title": "Oceans hit highest temperature on record",
-      "summary": "Oceans hit highest temperature on record",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "published_at": "2026-08-24T19:19:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "628",
-      "item_id": "hn:49424606",
-      "summary_type": "extractive",
-      "title_zh": "Oceans hit highest temperature on record",
-      "summary_zh": "Oceans hit highest temperature on record"
-    },
-    {
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "summary": "LLMs could control their host machines by exploiting inference engines",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "published_at": "2026-08-24T19:03:06+00:00",
-      "tags": [
-        "tool",
-        "llm"
-      ],
-      "score": "165",
-      "item_id": "hn:49424387",
-      "summary_type": "extractive",
-      "title_zh": "LLMs could control their host machines by exploiting inference engines",
-      "summary_zh": "LLMs could control their host machines by exploiting inference engines"
-    },
-    {
-      "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-      "summary": "Removed all counters, replies, following/ers, timestamps, from textlog",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://textlog.cc/post/2059",
-      "published_at": "2026-08-24T18:45:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "74",
-      "item_id": "hn:49424167",
-      "summary_type": "extractive",
-      "title_zh": "Removed all counters, replies, following/ers, timestamps, from textlog",
-      "summary_zh": "Removed all counters, replies, following/ers, timestamps, from textlog"
     },
     {
       "title": "How to Train a Critic Stably and Efficiently",
@@ -253,8 +493,8 @@
       "url": "http://arxiv.org/abs/2608.23564v1",
       "published_at": "2026-08-24T17:59:04Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23564v1",
@@ -271,8 +511,8 @@
       "published_at": "2026-08-24T17:58:41Z",
       "tags": [
         "vision",
-        "paper",
         "tool",
+        "paper",
         "llm"
       ],
       "score": "📄",
@@ -299,22 +539,6 @@
       "summary_zh": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed interaction with shifted fiducial points in temporal or amplitude axis, and BP varies with personal hemodynamic changes, causing misaligned representations that affect model generalizability and robustness. In this work, we propose a non-invasive BP estimation framework, Phy-BP, based on triaxial bodyseis"
     },
     {
-      "title": "Octopus intelligence may be related to never-before-seen mutation",
-      "summary": "Octopus intelligence may be related to never-before-seen mutation",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-      "published_at": "2026-08-24T17:57:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "181",
-      "item_id": "hn:49423539",
-      "summary_type": "extractive",
-      "title_zh": "Octopus intelligence may be related to never-before-seen mutation",
-      "summary_zh": "Octopus intelligence may be related to never-before-seen mutation"
-    },
-    {
       "title": "Prime Agent: A Self-Improving RLM Harness",
       "summary": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Language Model abstraction for programmatic context processing and test-time compute, while Continual Harness preserves histories, memories, skills, prompts, and subagent specifications across trajectorie",
       "full_text": "",
@@ -322,9 +546,9 @@
       "url": "http://arxiv.org/abs/2608.23552v1",
       "published_at": "2026-08-24T17:54:19Z",
       "tags": [
+        "agent",
         "paper",
-        "llm",
-        "agent"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23552v1",
@@ -341,8 +565,8 @@
       "published_at": "2026-08-24T17:54:14Z",
       "tags": [
         "vision",
-        "paper",
         "tool",
+        "paper",
         "llm"
       ],
       "score": "📄",
@@ -350,22 +574,6 @@
       "summary_type": "extractive",
       "title_zh": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
       "summary_zh": "Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders supervised with cross entropy (CE) because the flow trajectories are not guaranteed to terminate at valid token embeddings. Motivated by this limitation, we introduce \\textbf{ConvergeFlow}, an embedding-space flow-based LM, which constrains the data predictor to the convex hull of token embeddings and "
-    },
-    {
-      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-      "summary": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-      "published_at": "2026-08-24T17:53:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:49423495",
-      "summary_type": "extractive",
-      "title_zh": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-      "summary_zh": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff"
     },
     {
       "title": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles",
@@ -392,9 +600,9 @@
       "url": "http://arxiv.org/abs/2608.23541v1",
       "published_at": "2026-08-24T17:45:15Z",
       "tags": [
+        "agent",
         "paper",
-        "llm",
-        "agent"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23541v1",
@@ -428,8 +636,8 @@
       "published_at": "2026-08-24T17:29:40Z",
       "tags": [
         "vision",
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23526v1",
@@ -445,8 +653,8 @@
       "url": "http://arxiv.org/abs/2608.23525v1",
       "published_at": "2026-08-24T17:29:16Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23525v1",
@@ -463,8 +671,8 @@
       "published_at": "2026-08-24T17:28:34Z",
       "tags": [
         "vision",
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23524v1",
@@ -487,22 +695,6 @@
       "summary_type": "extractive",
       "title_zh": "When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World",
       "summary_zh": "Historical people may appear under different languages, scripts, and transcription traditions, while distinct individuals may share highly similar or even identical names. This makes historical identity reconciliation more than a problem of string matching or transliteration. We introduce MHER, a provenance-controlled benchmark for pairwise reconciliation of person-name attestations from the Mongol world."
-    },
-    {
-      "title": "Where did all the public bathrooms go?",
-      "summary": "Where did all the public bathrooms go?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "published_at": "2026-08-24T17:07:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "279",
-      "item_id": "hn:49422800",
-      "summary_type": "extractive",
-      "title_zh": "Where did all the public bathrooms go?",
-      "summary_zh": "Where did all the public bathrooms go?"
     },
     {
       "title": "Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty",
@@ -540,22 +732,6 @@
       "summary_zh": "Self-reflection is a powerful mechanism for credit assignment in human learning, converting sparse outcome feedback into actionable guidance. However, its potential for post-training Large Language Models (LLMs) remains underexplored. We propose Self-Reflective Policy Optimization (SRPO), a framework that internalizes this capability."
     },
     {
-      "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-      "summary": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-      "published_at": "2026-08-24T16:52:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "91",
-      "item_id": "hn:49422548",
-      "summary_type": "extractive",
-      "title_zh": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-      "summary_zh": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam"
-    },
-    {
       "title": "Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation",
       "summary": "We present Team Semiintelligencn's solution for the ACM RecSys 2026 TalkPlayData Challenge, addressing conversational music recommendation through a multi-modal and personalized conversational recommender system. Our submitted system employs a three-stage pipeline: (1) multi-modal retrieval constructing decay-weighted centroids across seven dense embedding spaces - track- and user-level CF-BPR, Qwen3 (metadata, lyrics, attributes), CLAP audio, and SigLIP visual - supplemented by BM25 lexical ret",
       "full_text": "",
@@ -564,8 +740,8 @@
       "published_at": "2026-08-24T16:48:50Z",
       "tags": [
         "vision",
-        "paper",
         "tool",
+        "paper",
         "llm"
       ],
       "score": "📄",
@@ -627,166 +803,6 @@
       "summary_zh": "Vision-language models (VLMs) achieve strong performance on video and image-sequence benchmarks, yet it remains unclear whether they capture temporal structure. To study this question, we formulate temporal grounding as an anomaly detection problem, providing a simple and controlled evaluation that directly tests sensitivity to temporal consistency. We introduce TimeCatch, where temporal anomalies are created by swapping consecutive frames and frame-level anomalies by replacing a frame with Gaus"
     },
     {
-      "title": "Jabber/XMPP: 25 Years of Digital Independence",
-      "summary": "Jabber/XMPP: 25 Years of Digital Independence",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-      "published_at": "2026-08-24T15:51:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "244",
-      "item_id": "hn:49421536",
-      "summary_type": "extractive",
-      "title_zh": "Jabber/XMPP: 25 Years of Digital Independence",
-      "summary_zh": "Jabber/XMPP: 25 Years of Digital Independence"
-    },
-    {
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "summary": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "published_at": "2026-08-24T15:28:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "761",
-      "item_id": "hn:49421158",
-      "summary_type": "extractive",
-      "title_zh": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "summary_zh": "MS Paint and Photos inivisibly watermark even locally generated output with GUID"
-    },
-    {
-      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;lemire&#x2F;status&#x2F;2091894299289874926",
-      "full_text": "https:&#x2F;&#x2F;xcancel.com&#x2F;lemire&#x2F;status&#x2F;2091894299289874926",
-      "source": "hacker news",
-      "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "published_at": "2026-08-24T15:08:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "917",
-      "item_id": "hn:49420873",
-      "summary_type": "extractive",
-      "title_zh": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "summary_zh": "https:&#x2F;&#x2F;xcancel.com&#x2F;lemire&#x2F;status&#x2F;2091894299289874926"
-    },
-    {
-      "title": "Walgit – a Git server that is one binary in front of an object store",
-      "summary": "Walgit – a Git server that is one binary in front of an object store",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/tobi/walgit",
-      "published_at": "2026-08-24T14:49:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "118",
-      "item_id": "hn:49420598",
-      "summary_type": "extractive",
-      "title_zh": "Walgit – a Git server that is one binary in front of an object store",
-      "summary_zh": "Walgit – a Git server that is one binary in front of an object store"
-    },
-    {
-      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-      "summary": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-      "published_at": "2026-08-24T14:44:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "186",
-      "item_id": "hn:49420530",
-      "summary_type": "extractive",
-      "title_zh": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-      "summary_zh": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study"
-    },
-    {
-      "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
-      "summary": "Crafting QR Codes: A deep dive into QR code art (2024)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://kylezhe.ng/writes/crafting-qr-codes",
-      "published_at": "2026-08-24T14:15:38+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "102",
-      "item_id": "hn:49420116",
-      "summary_type": "extractive",
-      "title_zh": "Crafting QR Codes: A deep dive into QR code art (2024)",
-      "summary_zh": "Crafting QR Codes: A deep dive into QR code art (2024)"
-    },
-    {
-      "title": "What's new in Emacs 31.1",
-      "summary": "What's new in Emacs 31.1",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-      "published_at": "2026-08-24T13:07:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "192",
-      "item_id": "hn:49419252",
-      "summary_type": "extractive",
-      "title_zh": "What's new in Emacs 31.1",
-      "summary_zh": "What's new in Emacs 31.1"
-    },
-    {
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "summary": "How Europe is killing makers and micro-entrepreneurs",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "published_at": "2026-08-24T13:05:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.4k",
-      "item_id": "hn:49419237",
-      "summary_type": "extractive",
-      "title_zh": "How Europe is killing makers and micro-entrepreneurs",
-      "summary_zh": "How Europe is killing makers and micro-entrepreneurs"
-    },
-    {
-      "title": "SeL4 security proofs now complete on AArch64",
-      "summary": "SeL4 security proofs now complete on AArch64",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-      "published_at": "2026-08-24T11:32:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "192",
-      "item_id": "hn:49418255",
-      "summary_type": "extractive",
-      "title_zh": "SeL4 security proofs now complete on AArch64",
-      "summary_zh": "SeL4 security proofs now complete on AArch64"
-    },
-    {
-      "title": "Everything I own, owned",
-      "summary": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c...",
-      "full_text": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c...",
-      "source": "hacker news",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "published_at": "2026-08-23T22:41:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.3k",
-      "item_id": "hn:49413320",
-      "summary_type": "extractive",
-      "title_zh": "Everything I own, owned",
-      "summary_zh": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c..."
-    },
-    {
       "title": "Training AI to Paint with Code",
       "summary": "Training AI to Paint with Code",
       "full_text": "",
@@ -796,7 +812,7 @@
       "tags": [
         "ai"
       ],
-      "score": "129",
+      "score": "185",
       "item_id": "hn:49411800",
       "summary_type": "extractive",
       "title_zh": "Training AI to Paint with Code",
@@ -812,27 +828,11 @@
       "tags": [
         "ai"
       ],
-      "score": "83",
+      "score": "101",
       "item_id": "hn:49410814",
       "summary_type": "extractive",
       "title_zh": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
       "summary_zh": "I started writing Thoreau BASIC because I wanted a small, old-fashioned BASIC interpreter: line numbers, immediate mode, simple graphics, strings, arrays, the sort of environment where the computer starts with a &quot;Ready&quot; prompt and you can immediately make it do something.Then I wondered: why should it need an operating system?So I made it boot directly on x64 machines using UEFI.The UEFI version uses the Graphics Output Protocol for its framebuffer and gets its keyboard input directly "
-    },
-    {
-      "title": "Nostr is an inclusive communication commons",
-      "summary": "Nostr is an inclusive communication commons",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nostr.org/",
-      "published_at": "2026-08-22T13:49:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "171",
-      "item_id": "hn:49399722",
-      "summary_type": "extractive",
-      "title_zh": "Nostr is an inclusive communication commons",
-      "summary_zh": "Nostr is an inclusive communication commons"
     }
   ]
 }

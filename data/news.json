@@ -1,38 +1,86 @@
 {
-  "updated_at": "2026-08-25T06:59:13.521650+00:00",
+  "updated_at": "2026-08-25T13:01:10.351182+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-      "summary": "It&#x27;s a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.Point Claude Code (or anything with file access) at the folder and ask &quot;what did I work on Tuesday?&quot; or have it build memory about your projects.",
-      "full_text": "It&#x27;s a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.Point Claude Code (or anything with file access) at the folder and ask &quot;what did I work on Tuesday?&quot; or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.Thought it might be useful for someone so chucked ",
-      "source": "hacker news",
-      "url": "https://github.com/dragthelake/ambient-context",
-      "published_at": "2026-08-25T04:33:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "24",
-      "item_id": "hn:49429095",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Screen memory without screenshots, just text to Markdown",
-      "summary_zh": "It&#x27;s a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.Point Claude Code (or anything with file access) at the folder and ask &quot;what did I work on Tuesday?&quot; or have it build memory about your projects."
-    },
-    {
-      "title": "Thomson Reuters Launches Its Own Frontier Model",
-      "summary": "Thomson Reuters Launches Its Own Frontier Model",
+      "title": "France's tax agency got hacked (in French)",
+      "summary": "France's tax agency got hacked (in French)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
-      "published_at": "2026-08-25T02:11:39+00:00",
+      "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+      "published_at": "2026-08-25T12:44:35+00:00",
       "tags": [
         "ai"
       ],
-      "score": "84",
-      "item_id": "hn:49428318",
+      "score": "16",
+      "item_id": "hn:49433064",
       "summary_type": "extractive",
-      "title_zh": "Thomson Reuters Launches Its Own Frontier Model",
-      "summary_zh": "Thomson Reuters Launches Its Own Frontier Model"
+      "title_zh": "France's tax agency got hacked (in French)",
+      "summary_zh": "France's tax agency got hacked (in French)"
+    },
+    {
+      "title": "Don't Wordle",
+      "summary": "Don't Wordle",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dontwordle.com/",
+      "published_at": "2026-08-25T11:49:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "67",
+      "item_id": "hn:49432319",
+      "summary_type": "extractive",
+      "title_zh": "Don't Wordle",
+      "summary_zh": "Don't Wordle"
+    },
+    {
+      "title": "HelloAssembly The smallest possible complete Windows application",
+      "summary": "HelloAssembly The smallest possible complete Windows application",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+      "published_at": "2026-08-25T11:40:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:49432227",
+      "summary_type": "extractive",
+      "title_zh": "HelloAssembly The smallest possible complete Windows application",
+      "summary_zh": "HelloAssembly The smallest possible complete Windows application"
+    },
+    {
+      "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
+      "summary": "Credit Card Rewards Became a $9.2B Wealth Transfer",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+      "published_at": "2026-08-25T11:37:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "103",
+      "item_id": "hn:49432201",
+      "summary_type": "extractive",
+      "title_zh": "Credit Card Rewards Became a $9.2B Wealth Transfer",
+      "summary_zh": "Credit Card Rewards Became a $9.2B Wealth Transfer"
+    },
+    {
+      "title": "Quantum battery upends the rules of charging",
+      "summary": "Quantum battery upends the rules of charging",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+      "published_at": "2026-08-25T10:34:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "44",
+      "item_id": "hn:49431560",
+      "summary_type": "extractive",
+      "title_zh": "Quantum battery upends the rules of charging",
+      "summary_zh": "Quantum battery upends the rules of charging"
     },
     {
       "title": "How Universities Should Prepare Founders",
@@ -44,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "91",
+      "score": "170",
       "item_id": "hn:49428121",
       "summary_type": "extractive",
       "title_zh": "How Universities Should Prepare Founders",
@@ -60,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "62",
+      "score": "107",
       "item_id": "hn:49428080",
       "summary_type": "extractive",
       "title_zh": "Was modern art a CIA psy-op? (2020)",
@@ -76,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "389",
+      "score": "517",
       "item_id": "hn:49426564",
       "summary_type": "extractive",
       "title_zh": "iCloud+ Hide My Email addresses will remain on icloud.com",
@@ -92,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "153",
+      "score": "219",
       "item_id": "hn:49426466",
       "summary_type": "extractive",
       "title_zh": "Moon (2024)",
@@ -108,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "80",
+      "score": "122",
       "item_id": "hn:49425800",
       "summary_type": "extractive",
       "title_zh": "Vintage Artificial Intelligence: Before It Got Awkward",
@@ -124,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "493",
+      "score": "628",
       "item_id": "hn:49424606",
       "summary_type": "extractive",
       "title_zh": "Oceans hit highest temperature on record",
@@ -141,11 +189,27 @@
         "tool",
         "llm"
       ],
-      "score": "128",
+      "score": "165",
       "item_id": "hn:49424387",
       "summary_type": "extractive",
       "title_zh": "LLMs could control their host machines by exploiting inference engines",
       "summary_zh": "LLMs could control their host machines by exploiting inference engines"
+    },
+    {
+      "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
+      "summary": "Removed all counters, replies, following/ers, timestamps, from textlog",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://textlog.cc/post/2059",
+      "published_at": "2026-08-24T18:45:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "74",
+      "item_id": "hn:49424167",
+      "summary_type": "extractive",
+      "title_zh": "Removed all counters, replies, following/ers, timestamps, from textlog",
+      "summary_zh": "Removed all counters, replies, following/ers, timestamps, from textlog"
     },
     {
       "title": "How to Train a Critic Stably and Efficiently",
@@ -155,8 +219,8 @@
       "url": "http://arxiv.org/abs/2608.23566v1",
       "published_at": "2026-08-24T17:59:39Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23566v1",
@@ -189,8 +253,8 @@
       "url": "http://arxiv.org/abs/2608.23564v1",
       "published_at": "2026-08-24T17:59:04Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23564v1",
@@ -207,9 +271,9 @@
       "published_at": "2026-08-24T17:58:41Z",
       "tags": [
         "vision",
+        "paper",
         "tool",
-        "llm",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23563v1",
@@ -244,7 +308,7 @@
       "tags": [
         "ai"
       ],
-      "score": "138",
+      "score": "181",
       "item_id": "hn:49423539",
       "summary_type": "extractive",
       "title_zh": "Octopus intelligence may be related to never-before-seen mutation",
@@ -258,9 +322,9 @@
       "url": "http://arxiv.org/abs/2608.23552v1",
       "published_at": "2026-08-24T17:54:19Z",
       "tags": [
-        "agent",
+        "paper",
         "llm",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23552v1",
@@ -277,9 +341,9 @@
       "published_at": "2026-08-24T17:54:14Z",
       "tags": [
         "vision",
+        "paper",
         "tool",
-        "llm",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23551v1",
@@ -311,8 +375,8 @@
       "url": "http://arxiv.org/abs/2608.23543v1",
       "published_at": "2026-08-24T17:46:11Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23543v1",
@@ -328,9 +392,9 @@
       "url": "http://arxiv.org/abs/2608.23541v1",
       "published_at": "2026-08-24T17:45:15Z",
       "tags": [
-        "agent",
+        "paper",
         "llm",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23541v1",
@@ -346,8 +410,8 @@
       "url": "http://arxiv.org/abs/2608.23536v1",
       "published_at": "2026-08-24T17:41:15Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23536v1",
@@ -363,9 +427,9 @@
       "url": "http://arxiv.org/abs/2608.23526v1",
       "published_at": "2026-08-24T17:29:40Z",
       "tags": [
-        "agent",
         "vision",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23526v1",
@@ -381,8 +445,8 @@
       "url": "http://arxiv.org/abs/2608.23525v1",
       "published_at": "2026-08-24T17:29:16Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23525v1",
@@ -399,8 +463,8 @@
       "published_at": "2026-08-24T17:28:34Z",
       "tags": [
         "vision",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23524v1",
@@ -434,7 +498,7 @@
       "tags": [
         "ai"
       ],
-      "score": "210",
+      "score": "279",
       "item_id": "hn:49422800",
       "summary_type": "extractive",
       "title_zh": "Where did all the public bathrooms go?",
@@ -448,8 +512,8 @@
       "url": "http://arxiv.org/abs/2608.23497v1",
       "published_at": "2026-08-24T16:57:28Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23497v1",
@@ -466,8 +530,8 @@
       "published_at": "2026-08-24T16:55:09Z",
       "tags": [
         "tool",
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23493v1",
@@ -485,7 +549,7 @@
       "tags": [
         "ai"
       ],
-      "score": "86",
+      "score": "91",
       "item_id": "hn:49422548",
       "summary_type": "extractive",
       "title_zh": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
@@ -500,9 +564,9 @@
       "published_at": "2026-08-24T16:48:50Z",
       "tags": [
         "vision",
+        "paper",
         "tool",
-        "llm",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23484v1",
@@ -535,8 +599,8 @@
       "url": "http://arxiv.org/abs/2608.23475v1",
       "published_at": "2026-08-24T16:41:10Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23475v1",
@@ -553,30 +617,14 @@
       "published_at": "2026-08-24T16:40:49Z",
       "tags": [
         "vision",
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.23474v1",
       "summary_type": "extractive",
       "title_zh": "What's the Catch? Evaluating Temporal Consistency in Vision-Language Models",
       "summary_zh": "Vision-language models (VLMs) achieve strong performance on video and image-sequence benchmarks, yet it remains unclear whether they capture temporal structure. To study this question, we formulate temporal grounding as an anomaly detection problem, providing a simple and controlled evaluation that directly tests sensitivity to temporal consistency. We introduce TimeCatch, where temporal anomalies are created by swapping consecutive frames and frame-level anomalies by replacing a frame with Gaus"
-    },
-    {
-      "title": "Ox-Alpha Is GLM?",
-      "summary": "Ox-Alpha Is GLM?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://dejan.ai/blog/ox-alpha/",
-      "published_at": "2026-08-24T16:30:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "70",
-      "item_id": "hn:49422226",
-      "summary_type": "extractive",
-      "title_zh": "Ox-Alpha Is GLM?",
-      "summary_zh": "Ox-Alpha Is GLM?"
     },
     {
       "title": "Jabber/XMPP: 25 Years of Digital Independence",
@@ -588,27 +636,11 @@
       "tags": [
         "ai"
       ],
-      "score": "210",
+      "score": "244",
       "item_id": "hn:49421536",
       "summary_type": "extractive",
       "title_zh": "Jabber/XMPP: 25 Years of Digital Independence",
       "summary_zh": "Jabber/XMPP: 25 Years of Digital Independence"
-    },
-    {
-      "title": "IPFS Maintainers Winding Down",
-      "summary": "IPFS Maintainers Winding Down",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "published_at": "2026-08-24T15:48:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "341",
-      "item_id": "hn:49421489",
-      "summary_type": "extractive",
-      "title_zh": "IPFS Maintainers Winding Down",
-      "summary_zh": "IPFS Maintainers Winding Down"
     },
     {
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
@@ -620,7 +652,7 @@
       "tags": [
         "ai"
       ],
-      "score": "663",
+      "score": "761",
       "item_id": "hn:49421158",
       "summary_type": "extractive",
       "title_zh": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
@@ -636,43 +668,11 @@
       "tags": [
         "ai"
       ],
-      "score": "821",
+      "score": "917",
       "item_id": "hn:49420873",
       "summary_type": "extractive",
       "title_zh": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "summary_zh": "https:&#x2F;&#x2F;xcancel.com&#x2F;lemire&#x2F;status&#x2F;2091894299289874926"
-    },
-    {
-      "title": "Could we dredge the Netherlands without fossil fuels? (2018)",
-      "summary": "Could we dredge the Netherlands without fossil fuels? (2018)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
-      "published_at": "2026-08-24T15:07:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "49",
-      "item_id": "hn:49420861",
-      "summary_type": "extractive",
-      "title_zh": "Could we dredge the Netherlands without fossil fuels? (2018)",
-      "summary_zh": "Could we dredge the Netherlands without fossil fuels? (2018)"
-    },
-    {
-      "title": "Show HN: How to mentally calculate the day of the week for any date",
-      "summary": "Show HN: How to mentally calculate the day of the week for any date",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://tinkerandsee.com/weekday/",
-      "published_at": "2026-08-24T14:57:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "63",
-      "item_id": "hn:49420714",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: How to mentally calculate the day of the week for any date",
-      "summary_zh": "Show HN: How to mentally calculate the day of the week for any date"
     },
     {
       "title": "Walgit – a Git server that is one binary in front of an object store",
@@ -684,7 +684,7 @@
       "tags": [
         "ai"
       ],
-      "score": "66",
+      "score": "118",
       "item_id": "hn:49420598",
       "summary_type": "extractive",
       "title_zh": "Walgit – a Git server that is one binary in front of an object store",
@@ -700,7 +700,7 @@
       "tags": [
         "ai"
       ],
-      "score": "136",
+      "score": "186",
       "item_id": "hn:49420530",
       "summary_type": "extractive",
       "title_zh": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
@@ -716,7 +716,7 @@
       "tags": [
         "ai"
       ],
-      "score": "48",
+      "score": "102",
       "item_id": "hn:49420116",
       "summary_type": "extractive",
       "title_zh": "Crafting QR Codes: A deep dive into QR code art (2024)",
@@ -732,7 +732,7 @@
       "tags": [
         "ai"
       ],
-      "score": "99",
+      "score": "192",
       "item_id": "hn:49419252",
       "summary_type": "extractive",
       "title_zh": "What's new in Emacs 31.1",
@@ -748,7 +748,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.2k",
+      "score": "🔥 1.4k",
       "item_id": "hn:49419237",
       "summary_type": "extractive",
       "title_zh": "How Europe is killing makers and micro-entrepreneurs",
@@ -764,11 +764,27 @@
       "tags": [
         "ai"
       ],
-      "score": "182",
+      "score": "192",
       "item_id": "hn:49418255",
       "summary_type": "extractive",
       "title_zh": "SeL4 security proofs now complete on AArch64",
       "summary_zh": "SeL4 security proofs now complete on AArch64"
+    },
+    {
+      "title": "Everything I own, owned",
+      "summary": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c...",
+      "full_text": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c...",
+      "source": "hacker news",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "published_at": "2026-08-23T22:41:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "🔥 1.3k",
+      "item_id": "hn:49413320",
+      "summary_type": "extractive",
+      "title_zh": "Everything I own, owned",
+      "summary_zh": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c..."
     },
     {
       "title": "Training AI to Paint with Code",
@@ -780,7 +796,7 @@
       "tags": [
         "ai"
       ],
-      "score": "71",
+      "score": "129",
       "item_id": "hn:49411800",
       "summary_type": "extractive",
       "title_zh": "Training AI to Paint with Code",
@@ -796,7 +812,7 @@
       "tags": [
         "ai"
       ],
-      "score": "35",
+      "score": "83",
       "item_id": "hn:49410814",
       "summary_type": "extractive",
       "title_zh": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
@@ -812,27 +828,11 @@
       "tags": [
         "ai"
       ],
-      "score": "95",
+      "score": "171",
       "item_id": "hn:49399722",
       "summary_type": "extractive",
       "title_zh": "Nostr is an inclusive communication commons",
       "summary_zh": "Nostr is an inclusive communication commons"
-    },
-    {
-      "title": "Show HN: SteppeWM – a stacking IceWM-like Wayland compositor",
-      "summary": "Every Wayland compositor I could find is a tiling one: sway, river, Hyprland, dwl, niri. If you want windows that float and overlap with titlebars and a taskbar, the way IceWM does it, there&#x27;s almost nothing. That is Steppewm",
-      "full_text": "Every Wayland compositor I could find is a tiling one: sway, river, Hyprland, dwl, niri. If you want windows that float and overlap with titlebars and a taskbar, the way IceWM does it, there&#x27;s almost nothing. That is Steppewm",
-      "source": "hacker news",
-      "url": "https://github.com/uncognic/steppewm",
-      "published_at": "2026-08-21T15:27:38+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "13",
-      "item_id": "hn:49389593",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: SteppeWM – a stacking IceWM-like Wayland compositor",
-      "summary_zh": "Every Wayland compositor I could find is a tiling one: sway, river, Hyprland, dwl, niri. If you want windows that float and overlap with titlebars and a taskbar, the way IceWM does it, there&#x27;s almost nothing. That is Steppewm"
     }
   ]
 }

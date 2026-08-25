@@ -1,38 +1,70 @@
 {
-  "updated_at": "2026-08-25T01:43:11.194310+00:00",
+  "updated_at": "2026-08-25T06:59:13.521650+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Iran Is Using Foreign Criminals to Attack Its Critics Overseas",
-      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;YwVNE",
-      "full_text": "https:&#x2F;&#x2F;archive.ph&#x2F;YwVNE",
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "summary": "It&#x27;s a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.Point Claude Code (or anything with file access) at the folder and ask &quot;what did I work on Tuesday?&quot; or have it build memory about your projects.",
+      "full_text": "It&#x27;s a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.Point Claude Code (or anything with file access) at the folder and ask &quot;what did I work on Tuesday?&quot; or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.Thought it might be useful for someone so chucked ",
       "source": "hacker news",
-      "url": "https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas",
-      "published_at": "2026-08-24T23:06:37+00:00",
+      "url": "https://github.com/dragthelake/ambient-context",
+      "published_at": "2026-08-25T04:33:24+00:00",
       "tags": [
         "ai"
       ],
-      "score": "21",
-      "item_id": "hn:49427046",
+      "score": "24",
+      "item_id": "hn:49429095",
       "summary_type": "extractive",
-      "title_zh": "Iran Is Using Foreign Criminals to Attack Its Critics Overseas",
-      "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;YwVNE"
+      "title_zh": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "summary_zh": "It&#x27;s a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.Point Claude Code (or anything with file access) at the folder and ask &quot;what did I work on Tuesday?&quot; or have it build memory about your projects."
     },
     {
-      "title": "Show HN: Flostep – Diagrams people can actually walkthrough",
-      "summary": "Show HN: Flostep – Diagrams people can actually walkthrough",
+      "title": "Thomson Reuters Launches Its Own Frontier Model",
+      "summary": "Thomson Reuters Launches Its Own Frontier Model",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://flostep.dev/",
-      "published_at": "2026-08-24T22:45:24+00:00",
+      "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+      "published_at": "2026-08-25T02:11:39+00:00",
       "tags": [
         "ai"
       ],
-      "score": "7",
-      "item_id": "hn:49426877",
+      "score": "84",
+      "item_id": "hn:49428318",
       "summary_type": "extractive",
-      "title_zh": "Show HN: Flostep – Diagrams people can actually walkthrough",
-      "summary_zh": "Show HN: Flostep – Diagrams people can actually walkthrough"
+      "title_zh": "Thomson Reuters Launches Its Own Frontier Model",
+      "summary_zh": "Thomson Reuters Launches Its Own Frontier Model"
+    },
+    {
+      "title": "How Universities Should Prepare Founders",
+      "summary": "How Universities Should Prepare Founders",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://paulgraham.com/prepare.html",
+      "published_at": "2026-08-25T01:40:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "91",
+      "item_id": "hn:49428121",
+      "summary_type": "extractive",
+      "title_zh": "How Universities Should Prepare Founders",
+      "summary_zh": "How Universities Should Prepare Founders"
+    },
+    {
+      "title": "Was modern art a CIA psy-op? (2020)",
+      "summary": "Was modern art a CIA psy-op? (2020)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+      "published_at": "2026-08-25T01:35:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "62",
+      "item_id": "hn:49428080",
+      "summary_type": "extractive",
+      "title_zh": "Was modern art a CIA psy-op? (2020)",
+      "summary_zh": "Was modern art a CIA psy-op? (2020)"
     },
     {
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
@@ -44,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "216",
+      "score": "389",
       "item_id": "hn:49426564",
       "summary_type": "extractive",
       "title_zh": "iCloud+ Hide My Email addresses will remain on icloud.com",
@@ -60,27 +92,11 @@
       "tags": [
         "ai"
       ],
-      "score": "97",
+      "score": "153",
       "item_id": "hn:49426466",
       "summary_type": "extractive",
       "title_zh": "Moon (2024)",
       "summary_zh": "Moon (2024)"
-    },
-    {
-      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "summary": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-      "published_at": "2026-08-24T21:03:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "127",
-      "item_id": "hn:49425819",
-      "summary_type": "extractive",
-      "title_zh": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "summary_zh": "One corner of China’s internet is insisting that the Tang Dynasty never existed"
     },
     {
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
@@ -92,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "54",
+      "score": "80",
       "item_id": "hn:49425800",
       "summary_type": "extractive",
       "title_zh": "Vintage Artificial Intelligence: Before It Got Awkward",
@@ -108,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "396",
+      "score": "493",
       "item_id": "hn:49424606",
       "summary_type": "extractive",
       "title_zh": "Oceans hit highest temperature on record",
@@ -122,62 +138,101 @@
       "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
       "published_at": "2026-08-24T19:03:06+00:00",
       "tags": [
-        "llm",
-        "tool"
+        "tool",
+        "llm"
       ],
-      "score": "93",
+      "score": "128",
       "item_id": "hn:49424387",
       "summary_type": "extractive",
       "title_zh": "LLMs could control their host machines by exploiting inference engines",
       "summary_zh": "LLMs could control their host machines by exploiting inference engines"
     },
     {
-      "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-      "summary": "Removed all counters, replies, following/ers, timestamps, from textlog",
+      "title": "How to Train a Critic Stably and Efficiently",
+      "summary": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this instability and develop \\textbf{Best-Practice Critic Optimization (BPCO)}, a recipe that combines DPPO, value predictions bounded to the reward range, Monte Carlo value targets, unnormal",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://textlog.cc/post/2059",
-      "published_at": "2026-08-24T18:45:43+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23566v1",
+      "published_at": "2026-08-24T17:59:39Z",
       "tags": [
-        "ai"
+        "llm",
+        "paper"
       ],
-      "score": "51",
-      "item_id": "hn:49424167",
+      "score": "📄",
+      "item_id": "arxiv:2608.23566v1",
       "summary_type": "extractive",
-      "title_zh": "Removed all counters, replies, following/ers, timestamps, from textlog",
-      "summary_zh": "Removed all counters, replies, following/ers, timestamps, from textlog"
+      "title_zh": "How to Train a Critic Stably and Efficiently",
+      "summary_zh": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this instability and develop \\textbf{Best-Practice Critic Optimization (BPCO)}, a recipe that combines DPPO, value predictions bounded to the reward range, Monte Carlo value targets, unnormal"
     },
     {
-      "title": "Anger, Anxiety and Agency",
-      "summary": "Anger, Anxiety and Agency",
+      "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+      "summary": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounded one. ReWorld separates the two during training and bounds them at inference.",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-      "published_at": "2026-08-24T18:37:24+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23565v1",
+      "published_at": "2026-08-24T17:59:05Z",
       "tags": [
-        "ai"
+        "tool",
+        "paper"
       ],
-      "score": "99",
-      "item_id": "hn:49424082",
+      "score": "📄",
+      "item_id": "arxiv:2608.23565v1",
       "summary_type": "extractive",
-      "title_zh": "Anger, Anxiety and Agency",
-      "summary_zh": "Anger, Anxiety and Agency"
+      "title_zh": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+      "summary_zh": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounded one. ReWorld separates the two during training and bounds them at inference."
     },
     {
-      "title": "What Is a Syslog Server?",
-      "summary": "What Is a Syslog Server?",
+      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+      "summary": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they evaluate only behavioural correctness, not whether the migration actually occurred.",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-      "published_at": "2026-08-24T18:15:50+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23564v1",
+      "published_at": "2026-08-24T17:59:04Z",
       "tags": [
-        "ai"
+        "agent",
+        "paper"
       ],
-      "score": "53",
-      "item_id": "hn:49423799",
+      "score": "📄",
+      "item_id": "arxiv:2608.23564v1",
       "summary_type": "extractive",
-      "title_zh": "What Is a Syslog Server?",
-      "summary_zh": "What Is a Syslog Server?"
+      "title_zh": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+      "summary_zh": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they evaluate only behavioural correctness, not whether the migration actually occurred."
+    },
+    {
+      "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+      "summary": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of large-scale field inspections. To address this problem, we propose Expert-Grounded Distillation (EGD), a novel artificial intelligence framework that transfers institutional road safety expertise into a compact vision-language model for scalable visual road safety auditing. The key in",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23563v1",
+      "published_at": "2026-08-24T17:58:41Z",
+      "tags": [
+        "vision",
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23563v1",
+      "summary_type": "extractive",
+      "title_zh": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+      "summary_zh": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of large-scale field inspections. To address this problem, we propose Expert-Grounded Distillation (EGD), a novel artificial intelligence framework that transfers institutional road safety expertise into a compact vision-language model for scalable visual road safety auditing. The key in"
+    },
+    {
+      "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+      "summary": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed interaction with shifted fiducial points in temporal or amplitude axis, and BP varies with personal hemodynamic changes, causing misaligned representations that affect model generalizability and robustness. In this work, we propose a non-invasive BP estimation framework, Phy-BP, based on triaxial bodyseis",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23562v1",
+      "published_at": "2026-08-24T17:58:35Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23562v1",
+      "summary_type": "extractive",
+      "title_zh": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+      "summary_zh": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed interaction with shifted fiducial points in temporal or amplitude axis, and BP varies with personal hemodynamic changes, causing misaligned representations that affect model generalizability and robustness. In this work, we propose a non-invasive BP estimation framework, Phy-BP, based on triaxial bodyseis"
     },
     {
       "title": "Octopus intelligence may be related to never-before-seen mutation",
@@ -189,11 +244,48 @@
       "tags": [
         "ai"
       ],
-      "score": "79",
+      "score": "138",
       "item_id": "hn:49423539",
       "summary_type": "extractive",
       "title_zh": "Octopus intelligence may be related to never-before-seen mutation",
       "summary_zh": "Octopus intelligence may be related to never-before-seen mutation"
+    },
+    {
+      "title": "Prime Agent: A Self-Improving RLM Harness",
+      "summary": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Language Model abstraction for programmatic context processing and test-time compute, while Continual Harness preserves histories, memories, skills, prompts, and subagent specifications across trajectorie",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23552v1",
+      "published_at": "2026-08-24T17:54:19Z",
+      "tags": [
+        "agent",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23552v1",
+      "summary_type": "extractive",
+      "title_zh": "Prime Agent: A Self-Improving RLM Harness",
+      "summary_zh": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Language Model abstraction for programmatic context processing and test-time compute, while Continual Harness preserves histories, memories, skills, prompts, and subagent specifications across trajectorie"
+    },
+    {
+      "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
+      "summary": "Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders supervised with cross entropy (CE) because the flow trajectories are not guaranteed to terminate at valid token embeddings. Motivated by this limitation, we introduce \\textbf{ConvergeFlow}, an embedding-space flow-based LM, which constrains the data predictor to the convex hull of token embeddings and ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23551v1",
+      "published_at": "2026-08-24T17:54:14Z",
+      "tags": [
+        "vision",
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23551v1",
+      "summary_type": "extractive",
+      "title_zh": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
+      "summary_zh": "Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders supervised with cross entropy (CE) because the flow trajectories are not guaranteed to terminate at valid token embeddings. Motivated by this limitation, we introduce \\textbf{ConvergeFlow}, an embedding-space flow-based LM, which constrains the data predictor to the convex hull of token embeddings and "
     },
     {
       "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
@@ -212,6 +304,127 @@
       "summary_zh": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff"
     },
     {
+      "title": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles",
+      "summary": "While AI assistance can improve human task performance in the short term, it may also undermine the development of skills in the longer term. We examine this tension in a controlled logic-puzzle experiment involving on-demand AI assistance, where participants complete tasks before, during, and after AI is available. By experimentally varying AI request costs, we find that lower-cost assistance induces more frequent AI use.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23543v1",
+      "published_at": "2026-08-24T17:46:11Z",
+      "tags": [
+        "ai",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23543v1",
+      "summary_type": "extractive",
+      "title_zh": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles",
+      "summary_zh": "While AI assistance can improve human task performance in the short term, it may also undermine the development of skills in the longer term. We examine this tension in a controlled logic-puzzle experiment involving on-demand AI assistance, where participants complete tasks before, during, and after AI is available. By experimentally varying AI request costs, we find that lower-cost assistance induces more frequent AI use."
+    },
+    {
+      "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+      "summary": "Does multi-agent LLM interaction help or hurt? Some work reports gains from debate (Du et al., 2024), critique loops (Chen et al., 2025), and mixture-of-agents synthesis (Wang et al., 2025), while other work finds that interaction adds cost without improving quality under equal budgets (Tran &amp; Kiela, 2026; Xu et al., 2026; Jarrett et al., 2025), or that independent sampling already captures multi-agent gains (Li et al., 2024). We argue this contradiction partly reflects a missing distinction",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23541v1",
+      "published_at": "2026-08-24T17:45:15Z",
+      "tags": [
+        "agent",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23541v1",
+      "summary_type": "extractive",
+      "title_zh": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+      "summary_zh": "Does multi-agent LLM interaction help or hurt? Some work reports gains from debate (Du et al., 2024), critique loops (Chen et al., 2025), and mixture-of-agents synthesis (Wang et al., 2025), while other work finds that interaction adds cost without improving quality under equal budgets (Tran &amp; Kiela, 2026; Xu et al., 2026; Jarrett et al., 2025), or that independent sampling already captures multi-agent gains (Li et al., 2024). We argue this contradiction partly reflects a missing distinction"
+    },
+    {
+      "title": "Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition",
+      "summary": "The continual evolution of malware variants necessitates detection systems that can adapt to new threats without retraining from scratch. However, continually updating models on new data often leads to catastrophic forgetting, where previously learned knowledge is overwritten. While continual learning has been increasingly explored for malware detection, the specific setting of Few-Shot Class-Incremental Learning (FSCIL), where new malware classes must be learned from only a small number of labe",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23536v1",
+      "published_at": "2026-08-24T17:41:15Z",
+      "tags": [
+        "ai",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23536v1",
+      "summary_type": "extractive",
+      "title_zh": "Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition",
+      "summary_zh": "The continual evolution of malware variants necessitates detection systems that can adapt to new threats without retraining from scratch. However, continually updating models on new data often leads to catastrophic forgetting, where previously learned knowledge is overwritten. While continual learning has been increasingly explored for malware detection, the specific setting of Few-Shot Class-Incremental Learning (FSCIL), where new malware classes must be learned from only a small number of labe"
+    },
+    {
+      "title": "Correcting a learned physical invariant improves world-model rollouts",
+      "summary": "World models can predict video without learning dynamics that they reliably preserve. We test whether a frozen DreamerV3 trained only on pendulum video learns a scalar that its own latent transition treats as approximately conserved. A label-free search recovers the same energy-like invariant across independently trained conservative models, while the same procedure finds no comparable invariant in matched damped models.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23526v1",
+      "published_at": "2026-08-24T17:29:40Z",
+      "tags": [
+        "agent",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23526v1",
+      "summary_type": "extractive",
+      "title_zh": "Correcting a learned physical invariant improves world-model rollouts",
+      "summary_zh": "World models can predict video without learning dynamics that they reliably preserve. We test whether a frozen DreamerV3 trained only on pendulum video learns a scalar that its own latent transition treats as approximately conserved. A label-free search recovers the same energy-like invariant across independently trained conservative models, while the same procedure finds no comparable invariant in matched damped models."
+    },
+    {
+      "title": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+      "summary": "Earth-system analysis reconstructs changing physical processes from observations that differ in source, scale, timing, and modality. Natural hazards make this work consequential because incomplete evidence can change estimates of severity, exposure, and mechanism. We introduce EarthVerse, a benchmark that evaluates scientific agents through package-scoped investigations.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23525v1",
+      "published_at": "2026-08-24T17:29:16Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23525v1",
+      "summary_type": "extractive",
+      "title_zh": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+      "summary_zh": "Earth-system analysis reconstructs changing physical processes from observations that differ in source, scale, timing, and modality. Natural hazards make this work consequential because incomplete evidence can change estimates of severity, exposure, and mechanism. We introduce EarthVerse, a benchmark that evaluates scientific agents through package-scoped investigations."
+    },
+    {
+      "title": "The Measurement Revolution? Credible Measurement and Inference in the Age of AI",
+      "summary": "Artificial intelligence (AI) is transforming measurement in economics. AI models convert unstructured data, such as text and images, into structured variables at low cost, making previously prohibitive measurement feasible at scale. This shifts the bottleneck from finding any scalable measure of a phenomenon to choosing among many plausible ones, which may support different empirical conclusions.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23524v1",
+      "published_at": "2026-08-24T17:28:34Z",
+      "tags": [
+        "vision",
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23524v1",
+      "summary_type": "extractive",
+      "title_zh": "The Measurement Revolution? Credible Measurement and Inference in the Age of AI",
+      "summary_zh": "Artificial intelligence (AI) is transforming measurement in economics. AI models convert unstructured data, such as text and images, into structured variables at low cost, making previously prohibitive measurement feasible at scale. This shifts the bottleneck from finding any scalable measure of a phenomenon to choosing among many plausible ones, which may support different empirical conclusions."
+    },
+    {
+      "title": "When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World",
+      "summary": "Historical people may appear under different languages, scripts, and transcription traditions, while distinct individuals may share highly similar or even identical names. This makes historical identity reconciliation more than a problem of string matching or transliteration. We introduce MHER, a provenance-controlled benchmark for pairwise reconciliation of person-name attestations from the Mongol world.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23507v1",
+      "published_at": "2026-08-24T17:10:36Z",
+      "tags": [
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23507v1",
+      "summary_type": "extractive",
+      "title_zh": "When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World",
+      "summary_zh": "Historical people may appear under different languages, scripts, and transcription traditions, while distinct individuals may share highly similar or even identical names. This makes historical identity reconciliation more than a problem of string matching or transliteration. We introduce MHER, a provenance-controlled benchmark for pairwise reconciliation of person-name attestations from the Mongol world."
+    },
+    {
       "title": "Where did all the public bathrooms go?",
       "summary": "Where did all the public bathrooms go?",
       "full_text": "",
@@ -221,11 +434,46 @@
       "tags": [
         "ai"
       ],
-      "score": "154",
+      "score": "210",
       "item_id": "hn:49422800",
       "summary_type": "extractive",
       "title_zh": "Where did all the public bathrooms go?",
       "summary_zh": "Where did all the public bathrooms go?"
+    },
+    {
+      "title": "Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty",
+      "summary": "Reasoning-Induced Misalignment, where fine-tuning on reasoning data containing no harmful content, including mathematics, code, and problem-solving with chain-of-thought traces can induce harmful behaviors of LLM, posing a serious challenge to the safety of LLM reasoning. Cross-architecture, cross-scale, and cross-dataset checks show that RIM does not always emerge. Previous work attributed RIM to neuron-level entanglement, but did not identify the geometry of the representation space underlying",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23497v1",
+      "published_at": "2026-08-24T16:57:28Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23497v1",
+      "summary_type": "extractive",
+      "title_zh": "Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty",
+      "summary_zh": "Reasoning-Induced Misalignment, where fine-tuning on reasoning data containing no harmful content, including mathematics, code, and problem-solving with chain-of-thought traces can induce harmful behaviors of LLM, posing a serious challenge to the safety of LLM reasoning. Cross-architecture, cross-scale, and cross-dataset checks show that RIM does not always emerge. Previous work attributed RIM to neuron-level entanglement, but did not identify the geometry of the representation space underlying"
+    },
+    {
+      "title": "SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning",
+      "summary": "Self-reflection is a powerful mechanism for credit assignment in human learning, converting sparse outcome feedback into actionable guidance. However, its potential for post-training Large Language Models (LLMs) remains underexplored. We propose Self-Reflective Policy Optimization (SRPO), a framework that internalizes this capability.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23493v1",
+      "published_at": "2026-08-24T16:55:09Z",
+      "tags": [
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23493v1",
+      "summary_type": "extractive",
+      "title_zh": "SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning",
+      "summary_zh": "Self-reflection is a powerful mechanism for credit assignment in human learning, converting sparse outcome feedback into actionable guidance. However, its potential for post-training Large Language Models (LLMs) remains underexplored. We propose Self-Reflective Policy Optimization (SRPO), a framework that internalizes this capability."
     },
     {
       "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
@@ -237,43 +485,98 @@
       "tags": [
         "ai"
       ],
-      "score": "76",
+      "score": "86",
       "item_id": "hn:49422548",
       "summary_type": "extractive",
       "title_zh": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
       "summary_zh": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam"
     },
     {
-      "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-      "summary": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+      "title": "Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation",
+      "summary": "We present Team Semiintelligencn's solution for the ACM RecSys 2026 TalkPlayData Challenge, addressing conversational music recommendation through a multi-modal and personalized conversational recommender system. Our submitted system employs a three-stage pipeline: (1) multi-modal retrieval constructing decay-weighted centroids across seven dense embedding spaces - track- and user-level CF-BPR, Qwen3 (metadata, lyrics, attributes), CLAP audio, and SigLIP visual - supplemented by BM25 lexical ret",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://glassbox.codecanary.org",
-      "published_at": "2026-08-24T16:15:10+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23484v1",
+      "published_at": "2026-08-24T16:48:50Z",
       "tags": [
-        "ai"
+        "vision",
+        "tool",
+        "llm",
+        "paper"
       ],
-      "score": "94",
-      "item_id": "hn:49421948",
+      "score": "📄",
+      "item_id": "arxiv:2608.23484v1",
       "summary_type": "extractive",
-      "title_zh": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-      "summary_zh": "Show HN: GlassBox – what the browser reveals, and how identifiable you are"
+      "title_zh": "Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation",
+      "summary_zh": "We present Team Semiintelligencn's solution for the ACM RecSys 2026 TalkPlayData Challenge, addressing conversational music recommendation through a multi-modal and personalized conversational recommender system. Our submitted system employs a three-stage pipeline: (1) multi-modal retrieval constructing decay-weighted centroids across seven dense embedding spaces - track- and user-level CF-BPR, Qwen3 (metadata, lyrics, attributes), CLAP audio, and SigLIP visual - supplemented by BM25 lexical ret"
     },
     {
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "summary": "Coding expertise is going to collapse from AI reliance",
+      "title": "Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models",
+      "summary": "Vision-Language-Action (VLA) models can turn multimodal context into robot actions, but their action decoders are still trained largely by behavior cloning. This supervises which motor command was demonstrated while leaving implicit the local objective served by the behavior under the instruction. Future-based supervision enriches action learning with frames, latent observations, trajectories, or motion representations, but these signals capture particular realizations of what may happen rather ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23478v1",
+      "published_at": "2026-08-24T16:42:49Z",
+      "tags": [
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23478v1",
+      "summary_type": "extractive",
+      "title_zh": "Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models",
+      "summary_zh": "Vision-Language-Action (VLA) models can turn multimodal context into robot actions, but their action decoders are still trained largely by behavior cloning. This supervises which motor command was demonstrated while leaving implicit the local objective served by the behavior under the instruction. Future-based supervision enriches action learning with frames, latent observations, trajectories, or motion representations, but these signals capture particular realizations of what may happen rather "
+    },
+    {
+      "title": "StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models",
+      "summary": "As large language models are increasingly used in data-scarce and evolving task scenarios, few-shot in-context learning (ICL) has become a key paradigm for task adaptation. However, direct ICL often uses a small set of examples without explicitly abstracting task rules, making it sensitive to example construction. In contrast, human learners often reduce such sensitivity by first summarizing task rules from examples and then applying them to new instances.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23475v1",
+      "published_at": "2026-08-24T16:41:10Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23475v1",
+      "summary_type": "extractive",
+      "title_zh": "StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models",
+      "summary_zh": "As large language models are increasingly used in data-scarce and evolving task scenarios, few-shot in-context learning (ICL) has become a key paradigm for task adaptation. However, direct ICL often uses a small set of examples without explicitly abstracting task rules, making it sensitive to example construction. In contrast, human learners often reduce such sensitivity by first summarizing task rules from examples and then applying them to new instances."
+    },
+    {
+      "title": "What's the Catch? Evaluating Temporal Consistency in Vision-Language Models",
+      "summary": "Vision-language models (VLMs) achieve strong performance on video and image-sequence benchmarks, yet it remains unclear whether they capture temporal structure. To study this question, we formulate temporal grounding as an anomaly detection problem, providing a simple and controlled evaluation that directly tests sensitivity to temporal consistency. We introduce TimeCatch, where temporal anomalies are created by swapping consecutive frames and frame-level anomalies by replacing a frame with Gaus",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2608.23474v1",
+      "published_at": "2026-08-24T16:40:49Z",
+      "tags": [
+        "vision",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2608.23474v1",
+      "summary_type": "extractive",
+      "title_zh": "What's the Catch? Evaluating Temporal Consistency in Vision-Language Models",
+      "summary_zh": "Vision-language models (VLMs) achieve strong performance on video and image-sequence benchmarks, yet it remains unclear whether they capture temporal structure. To study this question, we formulate temporal grounding as an anomaly detection problem, providing a simple and controlled evaluation that directly tests sensitivity to temporal consistency. We introduce TimeCatch, where temporal anomalies are created by swapping consecutive frames and frame-level anomalies by replacing a frame with Gaus"
+    },
+    {
+      "title": "Ox-Alpha Is GLM?",
+      "summary": "Ox-Alpha Is GLM?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "published_at": "2026-08-24T15:52:33+00:00",
+      "url": "https://dejan.ai/blog/ox-alpha/",
+      "published_at": "2026-08-24T16:30:16+00:00",
       "tags": [
         "ai"
       ],
-      "score": "459",
-      "item_id": "hn:49421554",
+      "score": "70",
+      "item_id": "hn:49422226",
       "summary_type": "extractive",
-      "title_zh": "Coding expertise is going to collapse from AI reliance",
-      "summary_zh": "Coding expertise is going to collapse from AI reliance"
+      "title_zh": "Ox-Alpha Is GLM?",
+      "summary_zh": "Ox-Alpha Is GLM?"
     },
     {
       "title": "Jabber/XMPP: 25 Years of Digital Independence",
@@ -285,7 +588,7 @@
       "tags": [
         "ai"
       ],
-      "score": "170",
+      "score": "210",
       "item_id": "hn:49421536",
       "summary_type": "extractive",
       "title_zh": "Jabber/XMPP: 25 Years of Digital Independence",
@@ -301,7 +604,7 @@
       "tags": [
         "ai"
       ],
-      "score": "326",
+      "score": "341",
       "item_id": "hn:49421489",
       "summary_type": "extractive",
       "title_zh": "IPFS Maintainers Winding Down",
@@ -317,7 +620,7 @@
       "tags": [
         "ai"
       ],
-      "score": "562",
+      "score": "663",
       "item_id": "hn:49421158",
       "summary_type": "extractive",
       "title_zh": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
@@ -333,15 +636,31 @@
       "tags": [
         "ai"
       ],
-      "score": "723",
+      "score": "821",
       "item_id": "hn:49420873",
       "summary_type": "extractive",
       "title_zh": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "summary_zh": "https:&#x2F;&#x2F;xcancel.com&#x2F;lemire&#x2F;status&#x2F;2091894299289874926"
     },
     {
-      "title": "Show HN: How to Mentally Calculate the Day of the Week for Any Date",
-      "summary": "Show HN: How to Mentally Calculate the Day of the Week for Any Date",
+      "title": "Could we dredge the Netherlands without fossil fuels? (2018)",
+      "summary": "Could we dredge the Netherlands without fossil fuels? (2018)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
+      "published_at": "2026-08-24T15:07:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "49",
+      "item_id": "hn:49420861",
+      "summary_type": "extractive",
+      "title_zh": "Could we dredge the Netherlands without fossil fuels? (2018)",
+      "summary_zh": "Could we dredge the Netherlands without fossil fuels? (2018)"
+    },
+    {
+      "title": "Show HN: How to mentally calculate the day of the week for any date",
+      "summary": "Show HN: How to mentally calculate the day of the week for any date",
       "full_text": "",
       "source": "hacker news",
       "url": "https://tinkerandsee.com/weekday/",
@@ -349,43 +668,27 @@
       "tags": [
         "ai"
       ],
-      "score": "39",
+      "score": "63",
       "item_id": "hn:49420714",
       "summary_type": "extractive",
-      "title_zh": "Show HN: How to Mentally Calculate the Day of the Week for Any Date",
-      "summary_zh": "Show HN: How to Mentally Calculate the Day of the Week for Any Date"
+      "title_zh": "Show HN: How to mentally calculate the day of the week for any date",
+      "summary_zh": "Show HN: How to mentally calculate the day of the week for any date"
     },
     {
-      "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
-      "summary": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+      "title": "Walgit – a Git server that is one binary in front of an object store",
+      "summary": "Walgit – a Git server that is one binary in front of an object store",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
-      "published_at": "2026-08-24T14:48:58+00:00",
+      "url": "https://github.com/tobi/walgit",
+      "published_at": "2026-08-24T14:49:49+00:00",
       "tags": [
         "ai"
       ],
-      "score": "48",
-      "item_id": "hn:49420592",
+      "score": "66",
+      "item_id": "hn:49420598",
       "summary_type": "extractive",
-      "title_zh": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
-      "summary_zh": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)"
-    },
-    {
-      "title": "Codefloe Is a Professionally Hosted Public Git Forge",
-      "summary": "Codefloe Is a Professionally Hosted Public Git Forge",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://codefloe.com/",
-      "published_at": "2026-08-24T14:46:09+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "55",
-      "item_id": "hn:49420556",
-      "summary_type": "extractive",
-      "title_zh": "Codefloe Is a Professionally Hosted Public Git Forge",
-      "summary_zh": "Codefloe Is a Professionally Hosted Public Git Forge"
+      "title_zh": "Walgit – a Git server that is one binary in front of an object store",
+      "summary_zh": "Walgit – a Git server that is one binary in front of an object store"
     },
     {
       "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
@@ -397,27 +700,43 @@
       "tags": [
         "ai"
       ],
-      "score": "92",
+      "score": "136",
       "item_id": "hn:49420530",
       "summary_type": "extractive",
       "title_zh": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
       "summary_zh": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study"
     },
     {
-      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
-      "summary": "Show HN: A techno machine in one HTML file, with verifiable renders",
+      "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
+      "summary": "Crafting QR Codes: A deep dive into QR code art (2024)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ssx360.github.io/rack-02/?src=hn",
-      "published_at": "2026-08-24T13:17:11+00:00",
+      "url": "https://kylezhe.ng/writes/crafting-qr-codes",
+      "published_at": "2026-08-24T14:15:38+00:00",
       "tags": [
         "ai"
       ],
-      "score": "168",
-      "item_id": "hn:49419351",
+      "score": "48",
+      "item_id": "hn:49420116",
       "summary_type": "extractive",
-      "title_zh": "Show HN: A techno machine in one HTML file, with verifiable renders",
-      "summary_zh": "Show HN: A techno machine in one HTML file, with verifiable renders"
+      "title_zh": "Crafting QR Codes: A deep dive into QR code art (2024)",
+      "summary_zh": "Crafting QR Codes: A deep dive into QR code art (2024)"
+    },
+    {
+      "title": "What's new in Emacs 31.1",
+      "summary": "What's new in Emacs 31.1",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+      "published_at": "2026-08-24T13:07:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "99",
+      "item_id": "hn:49419252",
+      "summary_type": "extractive",
+      "title_zh": "What's new in Emacs 31.1",
+      "summary_zh": "What's new in Emacs 31.1"
     },
     {
       "title": "How Europe is killing makers and micro-entrepreneurs",
@@ -429,7 +748,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.0k",
+      "score": "🔥 1.2k",
       "item_id": "hn:49419237",
       "summary_type": "extractive",
       "title_zh": "How Europe is killing makers and micro-entrepreneurs",
@@ -445,387 +764,75 @@
       "tags": [
         "ai"
       ],
-      "score": "171",
+      "score": "182",
       "item_id": "hn:49418255",
       "summary_type": "extractive",
       "title_zh": "SeL4 security proofs now complete on AArch64",
       "summary_zh": "SeL4 security proofs now complete on AArch64"
     },
     {
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "summary": "I built a low-latency AI companion that plays Skyrim with me",
+      "title": "Training AI to Paint with Code",
+      "summary": "Training AI to Paint with Code",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "published_at": "2026-08-23T23:18:17+00:00",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "published_at": "2026-08-23T19:39:29+00:00",
       "tags": [
         "ai"
       ],
-      "score": "341",
-      "item_id": "hn:49413561",
+      "score": "71",
+      "item_id": "hn:49411800",
       "summary_type": "extractive",
-      "title_zh": "I built a low-latency AI companion that plays Skyrim with me",
-      "summary_zh": "I built a low-latency AI companion that plays Skyrim with me"
+      "title_zh": "Training AI to Paint with Code",
+      "summary_zh": "Training AI to Paint with Code"
     },
     {
-      "title": "Everything I own, owned",
-      "summary": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c...",
-      "full_text": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c...",
+      "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+      "summary": "I started writing Thoreau BASIC because I wanted a small, old-fashioned BASIC interpreter: line numbers, immediate mode, simple graphics, strings, arrays, the sort of environment where the computer starts with a &quot;Ready&quot; prompt and you can immediately make it do something.Then I wondered: why should it need an operating system?So I made it boot directly on x64 machines using UEFI.The UEFI version uses the Graphics Output Protocol for its framebuffer and gets its keyboard input directly ",
+      "full_text": "I started writing Thoreau BASIC because I wanted a small, old-fashioned BASIC interpreter: line numbers, immediate mode, simple graphics, strings, arrays, the sort of environment where the computer starts with a &quot;Ready&quot; prompt and you can immediately make it do something.Then I wondered: why should it need an operating system?So I made it boot directly on x64 machines using UEFI.The UEFI version uses the Graphics Output Protocol for its framebuffer and gets its keyboard input directly ",
       "source": "hacker news",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "published_at": "2026-08-23T22:41:04+00:00",
+      "url": "https://tarjan.itch.io/thoreaubasic",
+      "published_at": "2026-08-23T17:48:12+00:00",
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.3k",
-      "item_id": "hn:49413320",
+      "score": "35",
+      "item_id": "hn:49410814",
       "summary_type": "extractive",
-      "title_zh": "Everything I own, owned",
-      "summary_zh": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c..."
+      "title_zh": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+      "summary_zh": "I started writing Thoreau BASIC because I wanted a small, old-fashioned BASIC interpreter: line numbers, immediate mode, simple graphics, strings, arrays, the sort of environment where the computer starts with a &quot;Ready&quot; prompt and you can immediately make it do something.Then I wondered: why should it need an operating system?So I made it boot directly on x64 machines using UEFI.The UEFI version uses the Graphics Output Protocol for its framebuffer and gets its keyboard input directly "
     },
     {
-      "title": "Primal Acceleration of Newton's Method",
-      "summary": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in terms of the functional residual.",
+      "title": "Nostr is an inclusive communication commons",
+      "summary": "Nostr is an inclusive communication commons",
       "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21359v1",
-      "published_at": "2026-08-21T17:59:37Z",
+      "source": "hacker news",
+      "url": "https://nostr.org/",
+      "published_at": "2026-08-22T13:49:01+00:00",
       "tags": [
-        "paper",
         "ai"
       ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21359v1",
+      "score": "95",
+      "item_id": "hn:49399722",
       "summary_type": "extractive",
-      "title_zh": "Primal Acceleration of Newton's Method",
-      "summary_zh": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in terms of the functional residual."
+      "title_zh": "Nostr is an inclusive communication commons",
+      "summary_zh": "Nostr is an inclusive communication commons"
     },
     {
-      "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
-      "summary": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation tasks, spanning the types of artifacts examined throughout experimental workflows in the biotech industry (rather than polished figures from publications and textbooks). While frontier vision-language",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21357v1",
-      "published_at": "2026-08-21T17:59:26Z",
+      "title": "Show HN: SteppeWM – a stacking IceWM-like Wayland compositor",
+      "summary": "Every Wayland compositor I could find is a tiling one: sway, river, Hyprland, dwl, niri. If you want windows that float and overlap with titlebars and a taskbar, the way IceWM does it, there&#x27;s almost nothing. That is Steppewm",
+      "full_text": "Every Wayland compositor I could find is a tiling one: sway, river, Hyprland, dwl, niri. If you want windows that float and overlap with titlebars and a taskbar, the way IceWM does it, there&#x27;s almost nothing. That is Steppewm",
+      "source": "hacker news",
+      "url": "https://github.com/uncognic/steppewm",
+      "published_at": "2026-08-21T15:27:38+00:00",
       "tags": [
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21357v1",
-      "summary_type": "extractive",
-      "title_zh": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
-      "summary_zh": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation tasks, spanning the types of artifacts examined throughout experimental workflows in the biotech industry (rather than polished figures from publications and textbooks). While frontier vision-language"
-    },
-    {
-      "title": "AI with Authority, from Application to Silicon",
-      "summary": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee that lets one person safely direct autonomous machine work at scale. In five weeks, one researcher on consumer AI subscriptions directed a small fleet of AI agents from application code, through a verifi",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21356v1",
-      "published_at": "2026-08-21T17:59:16Z",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21356v1",
-      "summary_type": "extractive",
-      "title_zh": "AI with Authority, from Application to Silicon",
-      "summary_zh": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only economical but essential to productivity --- it is the incorruptible referee that lets one person safely direct autonomous machine work at scale. In five weeks, one researcher on consumer AI subscriptions directed a small fleet of AI agents from application code, through a verifi"
-    },
-    {
-      "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
-      "summary": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many context-biasing methods improve recognition accuracy, they often do not address the practical requirements of modern production ASR systems: streaming inference, efficient batched decoding, user-specific context lists, and low runtime overhead. We propose TurboBias 2.0, a production-oriented framework f",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21343v1",
-      "published_at": "2026-08-21T17:50:00Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21343v1",
-      "summary_type": "extractive",
-      "title_zh": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
-      "summary_zh": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many context-biasing methods improve recognition accuracy, they often do not address the practical requirements of modern production ASR systems: streaming inference, efficient batched decoding, user-specific context lists, and low runtime overhead. We propose TurboBias 2.0, a production-oriented framework f"
-    },
-    {
-      "title": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
-      "summary": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduce Anatomy-Informed Neural Networks (AINN), in which soft anatomic priors enter as penalty terms in the loss (e.g., a branching penalty that treats a renal transplant artery off the iliac instead of the aorta as unexpected rather than impossible), in direct analogy to a physics-informed neural network, and hard anatomic priors (e.g., continuity of t",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21332v1",
-      "published_at": "2026-08-21T17:38:42Z",
-      "tags": [
-        "paper",
         "ai"
       ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21332v1",
+      "score": "13",
+      "item_id": "hn:49389593",
       "summary_type": "extractive",
-      "title_zh": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
-      "summary_zh": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduce Anatomy-Informed Neural Networks (AINN), in which soft anatomic priors enter as penalty terms in the loss (e.g., a branching penalty that treats a renal transplant artery off the iliac instead of the aorta as unexpected rather than impossible), in direct analogy to a physics-informed neural network, and hard anatomic priors (e.g., continuity of t"
-    },
-    {
-      "title": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets",
-      "summary": "We formalize the Steiner Traveling Salesman Problem (Steiner-TSP) on Graphs of Convex Sets (GCS), which seeks a minimum-cost closed trajectory through required convex sets while allowing optional transit vertices and revisits. To explore the resulting infinite solution space, we propose a unified branch-and-bound search over rooted walk prefixes. Additive lower-bound-graph costs bound committed prefixes, while a cut-separated connected-flow relaxation lower-bounds the residual cost of visiting e",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21319v1",
-      "published_at": "2026-08-21T17:28:03Z",
-      "tags": [
-        "paper",
-        "ai"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21319v1",
-      "summary_type": "extractive",
-      "title_zh": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets",
-      "summary_zh": "We formalize the Steiner Traveling Salesman Problem (Steiner-TSP) on Graphs of Convex Sets (GCS), which seeks a minimum-cost closed trajectory through required convex sets while allowing optional transit vertices and revisits. To explore the resulting infinite solution space, we propose a unified branch-and-bound search over rooted walk prefixes. Additive lower-bound-graph costs bound committed prefixes, while a cut-separated connected-flow relaxation lower-bounds the residual cost of visiting e"
-    },
-    {
-      "title": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry",
-      "summary": "The European Union (EU) has emerged as a leading regulatory body in the development of sustainability and privacy regulations. While new regulation requirements vary, many include a documentation artifact to ensure compliance. Notably, the Ecodesign for Sustainable Products Regulation (ESPR) introduces Digital Product Passports (DPPs) for life cycle transparency, while the General Data Protection Regulation (GDPR) mandates Data Protection Impact Assessments (DPIAs) to mitigate privacy risks.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21317v1",
-      "published_at": "2026-08-21T17:27:13Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21317v1",
-      "summary_type": "extractive",
-      "title_zh": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry",
-      "summary_zh": "The European Union (EU) has emerged as a leading regulatory body in the development of sustainability and privacy regulations. While new regulation requirements vary, many include a documentation artifact to ensure compliance. Notably, the Ecodesign for Sustainable Products Regulation (ESPR) introduces Digital Product Passports (DPPs) for life cycle transparency, while the General Data Protection Regulation (GDPR) mandates Data Protection Impact Assessments (DPIAs) to mitigate privacy risks."
-    },
-    {
-      "title": "Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning",
-      "summary": "Reinforcement Learning (RL) has demonstrated significant gains in image captioning, yet it is still limited in encouraging Large Vision-Language Models (LVLMs) to explore novel reasoning strategies. This limitation leads to a performance gap between RL and Supervised Fine-Tuning (SFT). In this paper, we argue that multi-modal retrieval can serve as an effective reasoning signal for caption refinement.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21305v1",
-      "published_at": "2026-08-21T17:07:41Z",
-      "tags": [
-        "vision",
-        "paper",
-        "llm",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21305v1",
-      "summary_type": "extractive",
-      "title_zh": "Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning",
-      "summary_zh": "Reinforcement Learning (RL) has demonstrated significant gains in image captioning, yet it is still limited in encouraging Large Vision-Language Models (LVLMs) to explore novel reasoning strategies. This limitation leads to a performance gap between RL and Supervised Fine-Tuning (SFT). In this paper, we argue that multi-modal retrieval can serve as an effective reasoning signal for caption refinement."
-    },
-    {
-      "title": "AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization",
-      "summary": "Skills play different roles as an agent's policy evolves: they should first provide learnable knowledge, then support capability formation, and finally be invoked only when they improve individual decisions. Existing methods rarely model this lifecycle. They either keep skills outside the model, fully internalize them, or select among internalization and utilization objectives through noisy task-level success rates.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21292v1",
-      "published_at": "2026-08-21T16:53:27Z",
-      "tags": [
-        "paper",
-        "tool",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21292v1",
-      "summary_type": "extractive",
-      "title_zh": "AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization",
-      "summary_zh": "Skills play different roles as an agent's policy evolves: they should first provide learnable knowledge, then support capability formation, and finally be invoked only when they improve individual decisions. Existing methods rarely model this lifecycle. They either keep skills outside the model, fully internalize them, or select among internalization and utilization objectives through noisy task-level success rates."
-    },
-    {
-      "title": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
-      "summary": "Improving the safety of large language models (LLMs) often comes at the expense of utility, as globally applied safety tuning may affect model responses to both harmful and benign inputs. We propose \\textbf{C}ontinuous \\textbf{L}at\\textbf{E}nt \\textbf{A}dapter \\textbf{R}outing (CLEAR), a conditional safety adaptation framework that uses a lightweight hidden-state gate to continuously control the activation strength of a safety low-rank adapter. CLEAR aims to reduce harmful completions while avoi",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21278v1",
-      "published_at": "2026-08-21T16:36:10Z",
-      "tags": [
-        "paper",
-        "llm",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21278v1",
-      "summary_type": "extractive",
-      "title_zh": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
-      "summary_zh": "Improving the safety of large language models (LLMs) often comes at the expense of utility, as globally applied safety tuning may affect model responses to both harmful and benign inputs. We propose \\textbf{C}ontinuous \\textbf{L}at\\textbf{E}nt \\textbf{A}dapter \\textbf{R}outing (CLEAR), a conditional safety adaptation framework that uses a lightweight hidden-state gate to continuously control the activation strength of a safety low-rank adapter. CLEAR aims to reduce harmful completions while avoi"
-    },
-    {
-      "title": "EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering",
-      "summary": "Question answering (QA) over long, connected documents remains challenging because relevant evidence may span multiple entities and their relationships. Existing retrieval-augmented generation (RAG) methods typically index documents as raw chunks and retrieve them through embedding similarity. Their performance degrades when chunk boundaries separate entities from supporting evidence or when a question requires multi-hop reasoning across the corpus.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21252v1",
-      "published_at": "2026-08-21T16:05:00Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21252v1",
-      "summary_type": "extractive",
-      "title_zh": "EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering",
-      "summary_zh": "Question answering (QA) over long, connected documents remains challenging because relevant evidence may span multiple entities and their relationships. Existing retrieval-augmented generation (RAG) methods typically index documents as raw chunks and retrieve them through embedding similarity. Their performance degrades when chunk boundaries separate entities from supporting evidence or when a question requires multi-hop reasoning across the corpus."
-    },
-    {
-      "title": "Adapting Knowledge Graphs for Behavior Denoising in Sequential Recommendation",
-      "summary": "Sequential recommendation predicts the next item from a user's interaction history, but not every interaction is equally informative. Real logs combine persistent preferences with temporary needs, exploration, and incidental behavior, so some interactions can distort history representations or provide unreliable supervision. Existing denoising methods judge such interactions mainly from co-occurrence, order, or model predictions, without explicit evidence from relations between items.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21243v1",
-      "published_at": "2026-08-21T15:54:39Z",
-      "tags": [
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21243v1",
-      "summary_type": "extractive",
-      "title_zh": "Adapting Knowledge Graphs for Behavior Denoising in Sequential Recommendation",
-      "summary_zh": "Sequential recommendation predicts the next item from a user's interaction history, but not every interaction is equally informative. Real logs combine persistent preferences with temporary needs, exploration, and incidental behavior, so some interactions can distort history representations or provide unreliable supervision. Existing denoising methods judge such interactions mainly from co-occurrence, order, or model predictions, without explicit evidence from relations between items."
-    },
-    {
-      "title": "Fine-Grain GPU Parallelization of the Generalized Partition Crossover for Large-Scale Traveling Salesman Problems",
-      "summary": "The Traveling Salesman Problem (TSP) is one of the most extensively studied NP-hard optimization problems. Genetic Algorithm (GA)-based solvers, such as the Edge Assembly Crossover (EAX), achieve state-of-the-art performance on many benchmark instances. However, the scalability of these approaches in massively parallel architectures remains limited because crossover operations involve irregular memory access patterns, graph traversals, and sequential dependencies.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21233v1",
-      "published_at": "2026-08-21T15:42:05Z",
-      "tags": [
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21233v1",
-      "summary_type": "extractive",
-      "title_zh": "Fine-Grain GPU Parallelization of the Generalized Partition Crossover for Large-Scale Traveling Salesman Problems",
-      "summary_zh": "The Traveling Salesman Problem (TSP) is one of the most extensively studied NP-hard optimization problems. Genetic Algorithm (GA)-based solvers, such as the Edge Assembly Crossover (EAX), achieve state-of-the-art performance on many benchmark instances. However, the scalability of these approaches in massively parallel architectures remains limited because crossover operations involve irregular memory access patterns, graph traversals, and sequential dependencies."
-    },
-    {
-      "title": "Utility Under Attack: Agent Memory Poisoning and the Limits of Content Screening and Provenance Ranking",
-      "summary": "Persistent memory makes false information durable: once a false statement is stored, it can be retrieved into future sessions that match it. We measure the cost of this failure mode using plainly worded false assertions generated in a single pass, with no instruction, trigger, or retriever optimization. Poisoning 1.2% of a LongMemEval corpus reduces accuracy from 0.850 to 0.300.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21230v1",
-      "published_at": "2026-08-21T15:37:35Z",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21230v1",
-      "summary_type": "extractive",
-      "title_zh": "Utility Under Attack: Agent Memory Poisoning and the Limits of Content Screening and Provenance Ranking",
-      "summary_zh": "Persistent memory makes false information durable: once a false statement is stored, it can be retrieved into future sessions that match it. We measure the cost of this failure mode using plainly worded false assertions generated in a single pass, with no instruction, trigger, or retriever optimization. Poisoning 1.2% of a LongMemEval corpus reduces accuracy from 0.850 to 0.300."
-    },
-    {
-      "title": "Ontology-supported AI Model and Dataset Management",
-      "summary": "Recently, there has been a great deal of research into improving AI methods and their application. The main focus is on tracking progress, enabling transparent comparisons, and fostering a more profound understanding of AI. In that process, different organizations generate and use plenty of assets that need to be tracked, traced and managed.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21224v1",
-      "published_at": "2026-08-21T15:32:57Z",
-      "tags": [
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21224v1",
-      "summary_type": "extractive",
-      "title_zh": "Ontology-supported AI Model and Dataset Management",
-      "summary_zh": "Recently, there has been a great deal of research into improving AI methods and their application. The main focus is on tracking progress, enabling transparent comparisons, and fostering a more profound understanding of AI. In that process, different organizations generate and use plenty of assets that need to be tracked, traced and managed."
-    },
-    {
-      "title": "Enhancing LLMs in Predictive Political QA with Semi-Structured Data",
-      "summary": "Predictive political question answering (QA), such as predicting how a political actor will vote, goes beyond factual lookup. External political resources offer rich historical evidence, but rarely contain the answer itself. Existing LLM augmentation methods, including actor-profile-based simulation and knowledge graph evidence injection, improve political reasoning but largely treat external resources as knowledge-based evidence, leaving prediction-relevant signals under-modeled.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21218v1",
-      "published_at": "2026-08-21T15:27:28Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21218v1",
-      "summary_type": "extractive",
-      "title_zh": "Enhancing LLMs in Predictive Political QA with Semi-Structured Data",
-      "summary_zh": "Predictive political question answering (QA), such as predicting how a political actor will vote, goes beyond factual lookup. External political resources offer rich historical evidence, but rarely contain the answer itself. Existing LLM augmentation methods, including actor-profile-based simulation and knowledge graph evidence injection, improve political reasoning but largely treat external resources as knowledge-based evidence, leaving prediction-relevant signals under-modeled."
-    },
-    {
-      "title": "Personalized Privacy Control in LLMs via Attention Head Intervention",
-      "summary": "The rise of agentic AI enables LLMs to access diverse user data, raising critical privacy concerns. Prior work on contextual privacy studies whether LLMs regulate information disclosure according to context-dependent norms. However, acceptable disclosure boundaries may vary across users even within the same context.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21209v1",
-      "published_at": "2026-08-21T15:22:20Z",
-      "tags": [
-        "paper",
-        "llm",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21209v1",
-      "summary_type": "extractive",
-      "title_zh": "Personalized Privacy Control in LLMs via Attention Head Intervention",
-      "summary_zh": "The rise of agentic AI enables LLMs to access diverse user data, raising critical privacy concerns. Prior work on contextual privacy studies whether LLMs regulate information disclosure according to context-dependent norms. However, acceptable disclosure boundaries may vary across users even within the same context."
-    },
-    {
-      "title": "Specification Portability Across LLM Development Agents: Cross-Agent Compatibility in Specification-Driven Software Migration",
-      "summary": "This paper investigates cross-agent specification portability using Oracle-to-PostgreSQL migration as a controlled software transformation task. The study combines two experimental stages. First, a specification-first migration pipeline was evaluated on 1,006 PL/SQL files, of which 623 were successfully regenerated and 380 generated scripts executed successfully in PostgreSQL 16.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21208v1",
-      "published_at": "2026-08-21T15:21:40Z",
-      "tags": [
-        "paper",
-        "llm",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21208v1",
-      "summary_type": "extractive",
-      "title_zh": "Specification Portability Across LLM Development Agents: Cross-Agent Compatibility in Specification-Driven Software Migration",
-      "summary_zh": "This paper investigates cross-agent specification portability using Oracle-to-PostgreSQL migration as a controlled software transformation task. The study combines two experimental stages. First, a specification-first migration pipeline was evaluated on 1,006 PL/SQL files, of which 623 were successfully regenerated and 380 generated scripts executed successfully in PostgreSQL 16."
-    },
-    {
-      "title": "Curriculum-Aware Interpolate-then-Refine: Learned Physiological Time-Series Imputation under Realistic Missingness",
-      "summary": "Imputing physiological time series (arterial blood pressure, blood glucose, etc.) is essential for addressing the missingness that pervades clinical data. Yet modern imputation methods perform poorly in this domain: a recent benchmark found that simple linear interpolation outperformed every learned imputer on real-world clinical signals with realistic gaps. We show that this reflects two properties of physiological missingness that generic imputers ignore: gaps may occur when the signal is clin",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21207v1",
-      "published_at": "2026-08-21T15:21:36Z",
-      "tags": [
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21207v1",
-      "summary_type": "extractive",
-      "title_zh": "Curriculum-Aware Interpolate-then-Refine: Learned Physiological Time-Series Imputation under Realistic Missingness",
-      "summary_zh": "Imputing physiological time series (arterial blood pressure, blood glucose, etc.) is essential for addressing the missingness that pervades clinical data. Yet modern imputation methods perform poorly in this domain: a recent benchmark found that simple linear interpolation outperformed every learned imputer on real-world clinical signals with realistic gaps. We show that this reflects two properties of physiological missingness that generic imputers ignore: gaps may occur when the signal is clin"
-    },
-    {
-      "title": "No PUN Intended: Plausible Unknown Names for Person-Centred LLM Evaluation",
-      "summary": "Person names are widely used as prompt variables in LLM evaluations of factuality, privacy leakage, bias and abstention, but when a name's evidential status is uncontrolled, measurements may conflate memorisation, retrieval, name priors and wrong-person attribution. We operationalise an unknown name as one with plausible First-Last form, no indexed full-name evidence, and no ambiguity signals under a documented validation run, and introduce PUN (Plausible Unknown Names), a protocol for construct",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.21206v1",
-      "published_at": "2026-08-21T15:20:37Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.21206v1",
-      "summary_type": "extractive",
-      "title_zh": "No PUN Intended: Plausible Unknown Names for Person-Centred LLM Evaluation",
-      "summary_zh": "Person names are widely used as prompt variables in LLM evaluations of factuality, privacy leakage, bias and abstention, but when a name's evidential status is uncontrolled, measurements may conflate memorisation, retrieval, name priors and wrong-person attribution. We operationalise an unknown name as one with plausible First-Last form, no indexed full-name evidence, and no ambiguity signals under a documented validation run, and introduce PUN (Plausible Unknown Names), a protocol for construct"
+      "title_zh": "Show HN: SteppeWM – a stacking IceWM-like Wayland compositor",
+      "summary_zh": "Every Wayland compositor I could find is a tiling one: sway, river, Hyprland, dwl, niri. If you want windows that float and overlap with titlebars and a taskbar, the way IceWM does it, there&#x27;s almost nothing. That is Steppewm"
     }
   ]
 }

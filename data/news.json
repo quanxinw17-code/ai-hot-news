@@ -1,55 +1,406 @@
 {
-  "updated_at": "2026-08-27T08:56:08.611451+00:00",
+  "updated_at": "2026-08-27T22:10:40.871574+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Kusama Yayoi has died",
-      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;axjMFhttps:&#x2F;&#x2F;yayoi-kusama.jp&#x2F;en&#x2F;news4518&#x2F;",
-      "full_text": "https:&#x2F;&#x2F;archive.ph&#x2F;axjMFhttps:&#x2F;&#x2F;yayoi-kusama.jp&#x2F;en&#x2F;news4518&#x2F;",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "summary": "Hi HN, we built an open source model gateway. It&#x27;s a single place to manage our own self hosted, frontier, and open source models in one place.It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parameters, rate limits, and different error behavior).The gateway adds under 1 ms for BYOK requests and under 2 ms when Experiential supplies the provider key. It has every major inference provider, and 1",
+      "full_text": "Hi HN, we built an open source model gateway. It&#x27;s a single place to manage our own self hosted, frontier, and open source models in one place.It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parameters, rate limits, and different error behavior).The gateway adds under 1 ms for BYOK requests and under 2 ms when Experiential supplies the provider key. It has every major inference provider, and 1",
       "source": "hacker news",
-      "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
-      "published_at": "2026-08-27T02:21:18+00:00",
+      "url": "https://github.com/experientiallabs/experiential",
+      "published_at": "2026-08-27T21:18:35+00:00",
       "tags": [
         "ai"
       ],
-      "score": "163",
-      "item_id": "hn:49458709",
+      "score": "14",
+      "item_id": "hn:49471407",
       "summary_type": "extractive",
-      "title_zh": "Kusama Yayoi has died",
-      "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;axjMFhttps:&#x2F;&#x2F;yayoi-kusama.jp&#x2F;en&#x2F;news4518&#x2F;"
+      "title_zh": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "summary_zh": "Hi HN, we built an open source model gateway. It&#x27;s a single place to manage our own self hosted, frontier, and open source models in one place.It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parameters, rate limits, and different error behavior).The gateway adds under 1 ms for BYOK requests and under 2 ms when Experiential supplies the provider key. It has every major inference provider, and 1"
     },
     {
-      "title": "Laion Big Video Dataset",
-      "summary": "Laion Big Video Dataset",
+      "title": "Autism mutations drive neurodevelopmental pathology",
+      "summary": "Autism mutations drive neurodevelopmental pathology",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://projects.laion.ai/bvd/",
-      "published_at": "2026-08-27T01:50:26+00:00",
-      "tags": [
-        "vision",
-        "paper"
-      ],
-      "score": "59",
-      "item_id": "hn:49458478",
-      "summary_type": "extractive",
-      "title_zh": "Laion Big Video Dataset",
-      "summary_zh": "Laion Big Video Dataset"
-    },
-    {
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "summary": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "published_at": "2026-08-27T01:46:22+00:00",
+      "url": "https://www.science.org/doi/10.1126/science.ady4523",
+      "published_at": "2026-08-27T18:23:43+00:00",
       "tags": [
         "ai"
       ],
-      "score": "557",
-      "item_id": "hn:49458418",
+      "score": "65",
+      "item_id": "hn:49469098",
       "summary_type": "extractive",
-      "title_zh": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "summary_zh": "CEO fired developers to make room for AI. Developers create open source AI CEO"
+      "title_zh": "Autism mutations drive neurodevelopmental pathology",
+      "summary_zh": "Autism mutations drive neurodevelopmental pathology"
+    },
+    {
+      "title": "Previewing the Model Hardware Standard",
+      "summary": "Previewing the Model Hardware Standard",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "published_at": "2026-08-27T18:04:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "51",
+      "item_id": "hn:49468834",
+      "summary_type": "extractive",
+      "title_zh": "Previewing the Model Hardware Standard",
+      "summary_zh": "Previewing the Model Hardware Standard"
+    },
+    {
+      "title": "Show HN: Voronoi Go",
+      "summary": "I posted once before but wanted to share again because a lot has changed. There&#x27;s now a fairly strong bot to play against (contributed by a community member) and also correspondence games. The combination of these things helps a bit in finding people to play against.",
+      "full_text": "I posted once before but wanted to share again because a lot has changed. There&#x27;s now a fairly strong bot to play against (contributed by a community member) and also correspondence games. The combination of these things helps a bit in finding people to play against.",
+      "source": "hacker news",
+      "url": "https://voronoigo.com/",
+      "published_at": "2026-08-27T18:03:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "51",
+      "item_id": "hn:49468816",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Voronoi Go",
+      "summary_zh": "I posted once before but wanted to share again because a lot has changed. There&#x27;s now a fairly strong bot to play against (contributed by a community member) and also correspondence games. The combination of these things helps a bit in finding people to play against."
+    },
+    {
+      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "summary": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
+      "published_at": "2026-08-27T17:33:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "148",
+      "item_id": "hn:49468315",
+      "summary_type": "extractive",
+      "title_zh": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "summary_zh": "Two German airport workers die of malaria after 'mosquito arrives on plane'"
+    },
+    {
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "summary": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "published_at": "2026-08-27T17:17:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "363",
+      "item_id": "hn:49468083",
+      "summary_type": "extractive",
+      "title_zh": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "summary_zh": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache"
+    },
+    {
+      "title": "Bild AI (YC W25) is hiring product and AI engineers",
+      "summary": "Bild AI (YC W25) is hiring product and AI engineers",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bild.ai/jobs",
+      "published_at": "2026-08-27T17:00:14+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "1",
+      "item_id": "hn:49467837",
+      "summary_type": "extractive",
+      "title_zh": "Bild AI (YC W25) is hiring product and AI engineers",
+      "summary_zh": "Bild AI (YC W25) is hiring product and AI engineers"
+    },
+    {
+      "title": "Markdown Database Pattern",
+      "summary": "Markdown Database Pattern",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://wayofmarkdown.com/markdown-database",
+      "published_at": "2026-08-27T16:01:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "24",
+      "item_id": "hn:49466988",
+      "summary_type": "extractive",
+      "title_zh": "Markdown Database Pattern",
+      "summary_zh": "Markdown Database Pattern"
+    },
+    {
+      "title": "Small Models Have Arrived",
+      "summary": "Small Models Have Arrived",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://calv.info/small-models-have-arrived",
+      "published_at": "2026-08-27T15:56:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "352",
+      "item_id": "hn:49466917",
+      "summary_type": "extractive",
+      "title_zh": "Small Models Have Arrived",
+      "summary_zh": "Small Models Have Arrived"
+    },
+    {
+      "title": "Suica, Japan's First IC Transit Card",
+      "summary": "Suica, Japan's First IC Transit Card",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.tokyodev.com/articles/the-story-of-suica",
+      "published_at": "2026-08-27T15:55:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "146",
+      "item_id": "hn:49466894",
+      "summary_type": "extractive",
+      "title_zh": "Suica, Japan's First IC Transit Card",
+      "summary_zh": "Suica, Japan's First IC Transit Card"
+    },
+    {
+      "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+      "summary": "Hi HN, we&#x27;re the founders of Salem Robotics (https:&#x2F;&#x2F;salemroboticsinc.com). We give existing mobile robots the task-specific intelligence to carry out surveys and physically interactive inspections in hazardous industrial facilities.Here&#x27;s a video of it running on real robot hardware with a few words from us:\nhttps:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=U_228h3NE7cWe came to Salem through robotics research at UT Austin and a combined 15 years working in nuclear, including a",
+      "full_text": "Hi HN, we&#x27;re the founders of Salem Robotics (https:&#x2F;&#x2F;salemroboticsinc.com). We give existing mobile robots the task-specific intelligence to carry out surveys and physically interactive inspections in hazardous industrial facilities.Here&#x27;s a video of it running on real robot hardware with a few words from us:\nhttps:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=U_228h3NE7cWe came to Salem through robotics research at UT Austin and a combined 15 years working in nuclear, including a",
+      "source": "hacker news",
+      "url": "https://news.ycombinator.com/item?id=49466715",
+      "published_at": "2026-08-27T15:46:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "32",
+      "item_id": "hn:49466715",
+      "summary_type": "extractive",
+      "title_zh": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+      "summary_zh": "Hi HN, we&#x27;re the founders of Salem Robotics (https:&#x2F;&#x2F;salemroboticsinc.com). We give existing mobile robots the task-specific intelligence to carry out surveys and physically interactive inspections in hazardous industrial facilities.Here&#x27;s a video of it running on real robot hardware with a few words from us:\nhttps:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=U_228h3NE7cWe came to Salem through robotics research at UT Austin and a combined 15 years working in nuclear, including a"
+    },
+    {
+      "title": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
+      "summary": "Hey HN,I’m Abhishek. I&#x27;m building Opslane, an open-source agent that identifies user-facing issues and investigates them. It only creates a PR if it can verify the fix.Demo: https:&#x2F;&#x2F;youtu.be&#x2F;ccuOTYQMeYg\nDocs: https:&#x2F;&#x2F;docs.opslane.comAt my last job at Robinhood, we used to do a quarterly bug bash.",
+      "full_text": "Hey HN,I’m Abhishek. I&#x27;m building Opslane, an open-source agent that identifies user-facing issues and investigates them. It only creates a PR if it can verify the fix.Demo: https:&#x2F;&#x2F;youtu.be&#x2F;ccuOTYQMeYg\nDocs: https:&#x2F;&#x2F;docs.opslane.comAt my last job at Robinhood, we used to do a quarterly bug bash. We would go through our Sentry backlog and try to fix as many of them as possible. We only fixed bugs we knew were reported by customers. We had hundreds of bugs, and Sentr",
+      "source": "hacker news",
+      "url": "https://github.com/opslane/opslane",
+      "published_at": "2026-08-27T15:45:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "3",
+      "item_id": "hn:49466704",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
+      "summary_zh": "Hey HN,I’m Abhishek. I&#x27;m building Opslane, an open-source agent that identifies user-facing issues and investigates them. It only creates a PR if it can verify the fix.Demo: https:&#x2F;&#x2F;youtu.be&#x2F;ccuOTYQMeYg\nDocs: https:&#x2F;&#x2F;docs.opslane.comAt my last job at Robinhood, we used to do a quarterly bug bash."
+    },
+    {
+      "title": "Engineered yeast for converting plastic and biomass compounds into food",
+      "summary": "Engineered yeast for converting plastic and biomass compounds into food",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://acs.digitellinc.com/live/37/session/586399",
+      "published_at": "2026-08-27T15:40:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "58",
+      "item_id": "hn:49466622",
+      "summary_type": "extractive",
+      "title_zh": "Engineered yeast for converting plastic and biomass compounds into food",
+      "summary_zh": "Engineered yeast for converting plastic and biomass compounds into food"
+    },
+    {
+      "title": "The mechanics of the Nepali flash flood",
+      "summary": "The mechanics of the Nepali flash flood",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood",
+      "published_at": "2026-08-27T15:13:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "55",
+      "item_id": "hn:49466188",
+      "summary_type": "extractive",
+      "title_zh": "The mechanics of the Nepali flash flood",
+      "summary_zh": "The mechanics of the Nepali flash flood"
+    },
+    {
+      "title": "Decompiling a Nintendo 64 game in 84 days",
+      "summary": "Decompiling a Nintendo 64 game in 84 days",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+      "published_at": "2026-08-27T15:01:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "152",
+      "item_id": "hn:49466006",
+      "summary_type": "extractive",
+      "title_zh": "Decompiling a Nintendo 64 game in 84 days",
+      "summary_zh": "Decompiling a Nintendo 64 game in 84 days"
+    },
+    {
+      "title": "Launching Route 53 Files",
+      "summary": "Launching Route 53 Files",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
+      "published_at": "2026-08-27T14:45:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "87",
+      "item_id": "hn:49465732",
+      "summary_type": "extractive",
+      "title_zh": "Launching Route 53 Files",
+      "summary_zh": "Launching Route 53 Files"
+    },
+    {
+      "title": "Show HN: Restoredrill – proves your Postgres backups restore",
+      "summary": "Show HN: Restoredrill – proves your Postgres backups restore",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/ahmadpiran/restoredrill",
+      "published_at": "2026-08-27T14:16:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "38",
+      "item_id": "hn:49465291",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Restoredrill – proves your Postgres backups restore",
+      "summary_zh": "Show HN: Restoredrill – proves your Postgres backups restore"
+    },
+    {
+      "title": "507 Mechanical Movements",
+      "summary": "Book (1868): https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;fivehundredseven00browiala",
+      "full_text": "Book (1868): https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;fivehundredseven00browiala",
+      "source": "hacker news",
+      "url": "https://507movements.com/",
+      "published_at": "2026-08-27T14:08:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "415",
+      "item_id": "hn:49465169",
+      "summary_type": "extractive",
+      "title_zh": "507 Mechanical Movements",
+      "summary_zh": "Book (1868): https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;fivehundredseven00browiala"
+    },
+    {
+      "title": "Tmp.0ut Volume 5",
+      "summary": "Tmp.0ut Volume 5",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tmpout.sh/5/",
+      "published_at": "2026-08-27T14:07:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "25",
+      "item_id": "hn:49465158",
+      "summary_type": "extractive",
+      "title_zh": "Tmp.0ut Volume 5",
+      "summary_zh": "Tmp.0ut Volume 5"
+    },
+    {
+      "title": "Trade (and Tariffs)",
+      "summary": "Trade (and Tariffs)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://xkcd.com/3290/",
+      "published_at": "2026-08-27T13:49:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "439",
+      "item_id": "hn:49464896",
+      "summary_type": "extractive",
+      "title_zh": "Trade (and Tariffs)",
+      "summary_zh": "Trade (and Tariffs)"
+    },
+    {
+      "title": "CoMaps integration with the wider FLOSS ecosystem",
+      "summary": "CoMaps integration with the wider FLOSS ecosystem",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem/",
+      "published_at": "2026-08-27T13:29:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "125",
+      "item_id": "hn:49464637",
+      "summary_type": "extractive",
+      "title_zh": "CoMaps integration with the wider FLOSS ecosystem",
+      "summary_zh": "CoMaps integration with the wider FLOSS ecosystem"
+    },
+    {
+      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "summary": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "published_at": "2026-08-27T13:22:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "137",
+      "item_id": "hn:49464543",
+      "summary_type": "extractive",
+      "title_zh": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "summary_zh": "Emacs 31: An unofficial guide to Markdown-ts-mode"
+    },
+    {
+      "title": "Aphantasia Beginner's Guide",
+      "summary": "Aphantasia Beginner's Guide",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://aphantasia.com/guide",
+      "published_at": "2026-08-27T13:14:20+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "95",
+      "item_id": "hn:49464414",
+      "summary_type": "extractive",
+      "title_zh": "Aphantasia Beginner's Guide",
+      "summary_zh": "Aphantasia Beginner's Guide"
+    },
+    {
+      "title": "Microduck",
+      "summary": "Microduck",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://pollen-robotics.com/microduck/",
+      "published_at": "2026-08-27T10:57:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "443",
+      "item_id": "hn:49462763",
+      "summary_type": "extractive",
+      "title_zh": "Microduck",
+      "summary_zh": "Microduck"
+    },
+    {
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https:&#x2F;&#x2F;www.economist.com&#x2F;by-invitation&#x2F;2026&#x2F;08&#x2F;20&#x2F;dont-mist..., https:&#x2F;&#x2F;archive.ph&#x2F;IeSZg",
+      "full_text": "https:&#x2F;&#x2F;archive.ph&#x2F;uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https:&#x2F;&#x2F;www.economist.com&#x2F;by-invitation&#x2F;2026&#x2F;08&#x2F;20&#x2F;dont-mist..., https:&#x2F;&#x2F;archive.ph&#x2F;IeSZg",
+      "source": "hacker news",
+      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+      "published_at": "2026-08-27T02:37:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "65",
+      "item_id": "hn:49458875",
+      "summary_type": "extractive",
+      "title_zh": "Humanity has the debate about AI consciousness backwards",
+      "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https:&#x2F;&#x2F;www.economist.com&#x2F;by-invitation&#x2F;2026&#x2F;08&#x2F;20&#x2F;dont-mist..., https:&#x2F;&#x2F;archive.ph&#x2F;IeSZg"
     },
     {
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
@@ -61,27 +412,27 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.0k",
+      "score": "🔥 1.8k",
       "item_id": "hn:49458161",
       "summary_type": "extractive",
       "title_zh": "Nvidia agrees to acquire Hugging Face for $13B",
       "summary_zh": "https:&#x2F;&#x2F;www.theinformation.com&#x2F;articles&#x2F;nvidia-agrees-buy-op... (paywalled)https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;24&#x2F;hugging-face-reportedly-in..."
     },
     {
-      "title": "Mechanical Turk shutting down September 30",
-      "summary": "Mechanical Turk shutting down September 30",
+      "title": "Afterglow: Run classic After Dark screen savers on modern macOS",
+      "summary": "Afterglow: Run classic After Dark screen savers on modern macOS",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.mturk.com/",
-      "published_at": "2026-08-26T23:55:44+00:00",
+      "url": "https://morphing.cloud/afterglow/",
+      "published_at": "2026-08-27T00:18:27+00:00",
       "tags": [
         "ai"
       ],
-      "score": "332",
-      "item_id": "hn:49457545",
+      "score": "65",
+      "item_id": "hn:49457722",
       "summary_type": "extractive",
-      "title_zh": "Mechanical Turk shutting down September 30",
-      "summary_zh": "Mechanical Turk shutting down September 30"
+      "title_zh": "Afterglow: Run classic After Dark screen savers on modern macOS",
+      "summary_zh": "Afterglow: Run classic After Dark screen savers on modern macOS"
     },
     {
       "title": "Zohran and the Short Link",
@@ -93,139 +444,11 @@
       "tags": [
         "ai"
       ],
-      "score": "192",
+      "score": "285",
       "item_id": "hn:49457512",
       "summary_type": "extractive",
       "title_zh": "Zohran and the Short Link",
       "summary_zh": "Zohran and the Short Link"
-    },
-    {
-      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
-      "summary": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
-      "published_at": "2026-08-26T22:44:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "166",
-      "item_id": "hn:49456929",
-      "summary_type": "extractive",
-      "title_zh": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
-      "summary_zh": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022"
-    },
-    {
-      "title": "Asahi Linux Progress Report: Linux 7.2",
-      "summary": "Asahi Linux Progress Report: Linux 7.2",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
-      "published_at": "2026-08-26T22:35:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "264",
-      "item_id": "hn:49456851",
-      "summary_type": "extractive",
-      "title_zh": "Asahi Linux Progress Report: Linux 7.2",
-      "summary_zh": "Asahi Linux Progress Report: Linux 7.2"
-    },
-    {
-      "title": "Stripe acquires Clerky",
-      "summary": "https:&#x2F;&#x2F;twitter.com&#x2F;darbyw&#x2F;status&#x2F;2092718828405096955",
-      "full_text": "https:&#x2F;&#x2F;twitter.com&#x2F;darbyw&#x2F;status&#x2F;2092718828405096955",
-      "source": "hacker news",
-      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
-      "published_at": "2026-08-26T21:09:32+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "168",
-      "item_id": "hn:49455956",
-      "summary_type": "extractive",
-      "title_zh": "Stripe acquires Clerky",
-      "summary_zh": "https:&#x2F;&#x2F;twitter.com&#x2F;darbyw&#x2F;status&#x2F;2092718828405096955"
-    },
-    {
-      "title": "Mold: A Massively Parallel Linker",
-      "summary": "Mold: A Massively Parallel Linker",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arxiv.org/abs/2608.23228",
-      "published_at": "2026-08-26T20:37:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "125",
-      "item_id": "hn:49455530",
-      "summary_type": "extractive",
-      "title_zh": "Mold: A Massively Parallel Linker",
-      "summary_zh": "Mold: A Massively Parallel Linker"
-    },
-    {
-      "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
-      "summary": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
-      "published_at": "2026-08-26T20:32:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "124",
-      "item_id": "hn:49455471",
-      "summary_type": "extractive",
-      "title_zh": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
-      "summary_zh": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE"
-    },
-    {
-      "title": "GitHub Outage Tracker: Is GitHub Cooked?",
-      "summary": "GitHub Outage Tracker: Is GitHub Cooked?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://isgithubcooked.com/",
-      "published_at": "2026-08-26T19:43:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "231",
-      "item_id": "hn:49454728",
-      "summary_type": "extractive",
-      "title_zh": "GitHub Outage Tracker: Is GitHub Cooked?",
-      "summary_zh": "GitHub Outage Tracker: Is GitHub Cooked?"
-    },
-    {
-      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-      "summary": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-      "published_at": "2026-08-26T19:23:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "161",
-      "item_id": "hn:49454419",
-      "summary_type": "extractive",
-      "title_zh": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-      "summary_zh": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)"
-    },
-    {
-      "title": "The Hugging Face incident and the road ahead",
-      "summary": "The Hugging Face incident and the road ahead",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-      "published_at": "2026-08-26T19:15:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "257",
-      "item_id": "hn:49454314",
-      "summary_type": "extractive",
-      "title_zh": "The Hugging Face incident and the road ahead",
-      "summary_zh": "The Hugging Face incident and the road ahead"
     },
     {
       "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
@@ -252,10 +475,10 @@
       "url": "http://arxiv.org/abs/2608.26095v1",
       "published_at": "2026-08-26T17:57:04Z",
       "tags": [
-        "llm",
-        "tool",
         "vision",
-        "paper"
+        "llm",
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.26095v1",
@@ -279,22 +502,6 @@
       "summary_type": "extractive",
       "title_zh": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
       "summary_zh": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanically grounded feedback. We introduce MyoMechanix, a multimodal ecosystem for weight-loaded actions that aligns motion with muscle activity."
-    },
-    {
-      "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
-      "summary": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://thetariffcost.com/",
-      "published_at": "2026-08-26T17:54:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "193",
-      "item_id": "hn:49453161",
-      "summary_type": "extractive",
-      "title_zh": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
-      "summary_zh": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada"
     },
     {
       "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
@@ -322,9 +529,9 @@
       "published_at": "2026-08-26T17:50:52Z",
       "tags": [
         "llm",
+        "paper",
         "tool",
-        "agent",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.26088v1",
@@ -341,8 +548,8 @@
       "published_at": "2026-08-26T17:50:13Z",
       "tags": [
         "llm",
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.26086v1",
@@ -358,8 +565,8 @@
       "url": "http://arxiv.org/abs/2608.26083v1",
       "published_at": "2026-08-26T17:47:49Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.26083v1",
@@ -375,32 +582,16 @@
       "url": "http://arxiv.org/abs/2608.26081v1",
       "published_at": "2026-08-26T17:45:34Z",
       "tags": [
-        "llm",
-        "agent",
         "vision",
-        "paper"
+        "llm",
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.26081v1",
       "summary_type": "extractive",
       "title_zh": "SwarmWorld: Stigmergic technological evolution in societies of language-model agents",
       "summary_zh": "Collective intelligence can emerge when individuals coordinate through a shared environment, allowing local actions to accumulate into durable social organization. Language-model agents offer a new substrate for this process, yet most multi-agent systems rely on direct conversation, predefined roles, or centralized workflows. It remains unclear whether decentralized agents can build functional technologies and outperform independent search."
-    },
-    {
-      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "summary": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/tailscale/tailcat",
-      "published_at": "2026-08-26T17:42:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "568",
-      "item_id": "hn:49452990",
-      "summary_type": "extractive",
-      "title_zh": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "summary_zh": "Tailcat – Like netcat, but over Tailscale’s data plane"
     },
     {
       "title": "Gating Before Commitment: Anticipating Intent Divergence to Prevent Post-Interaction Decision Failures in Autonomous Driving",
@@ -410,30 +601,14 @@
       "url": "http://arxiv.org/abs/2608.26074v1",
       "published_at": "2026-08-26T17:42:03Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.26074v1",
       "summary_type": "extractive",
       "title_zh": "Gating Before Commitment: Anticipating Intent Divergence to Prevent Post-Interaction Decision Failures in Autonomous Driving",
       "summary_zh": "Intent misinterpretation during vehicle interactions causes recurring planning failures. We study a decision layer in which a language-guided intent module reads structured descriptors, computes a smoothed intent-geometry divergence score, and gates the planned maneuver before commitment, upstream of a corridor envelope. On a replayed off-road departure and four crash clips under a frozen, disclosed implementation, gating is the only layer that repairs the plan: on the main case it fires 72 ms a"
-    },
-    {
-      "title": "An ongoing 3D-printer AGPL violation",
-      "summary": "An ongoing 3D-printer AGPL violation",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-      "published_at": "2026-08-26T17:41:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "400",
-      "item_id": "hn:49452980",
-      "summary_type": "extractive",
-      "title_zh": "An ongoing 3D-printer AGPL violation",
-      "summary_zh": "An ongoing 3D-printer AGPL violation"
     },
     {
       "title": "Prefix Sliding for efficient test-time scaling",
@@ -503,38 +678,6 @@
       "summary_zh": "We consider optimization applications with unknown parameters where the decision maker believes that the optimal value of the nominal problem-the optimization problem they would have solved if the true parameters were known-is unlikely to be large. This belief derives from information that humans have that is not captured in datasets, obtained from domain knowledge and interacting with the physical world. We propose an approach to evaluating policies that provides tighter performance guarantees "
     },
     {
-      "title": "U.S. State Department pauses immigrant visa applications",
-      "summary": "U.S. State Department pauses immigrant visa applications",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
-      "published_at": "2026-08-26T17:22:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "490",
-      "item_id": "hn:49452709",
-      "summary_type": "extractive",
-      "title_zh": "U.S. State Department pauses immigrant visa applications",
-      "summary_zh": "U.S. State Department pauses immigrant visa applications"
-    },
-    {
-      "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
-      "summary": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
-      "published_at": "2026-08-26T17:20:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "270",
-      "item_id": "hn:49452671",
-      "summary_type": "extractive",
-      "title_zh": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
-      "summary_zh": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela"
-    },
-    {
       "title": "Trace Integrity for LLM Data Agents: A Vision for Auditable Structured Reasoning in Real-World Systems",
       "summary": "Answer accuracy is an insufficient reliability signal for LLM data agents. In structured-data tasks, a benchmark-correct answer can be produced by an invalid trace. This paper introduces Trace Integrity, a deployment reliability criterion for evaluating whether the computation recorded behind an answer is explicit, executable, schema-valid, operator-faithful, replayable, answer-consistent, and auditable.",
       "full_text": "",
@@ -542,11 +685,11 @@
       "url": "http://arxiv.org/abs/2608.26036v1",
       "published_at": "2026-08-26T17:15:24Z",
       "tags": [
-        "vision",
-        "agent",
         "llm",
+        "vision",
         "paper",
-        "tool"
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.26036v1",
@@ -562,31 +705,15 @@
       "url": "http://arxiv.org/abs/2608.26019v1",
       "published_at": "2026-08-26T17:01:21Z",
       "tags": [
-        "tool",
         "vision",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.26019v1",
       "summary_type": "extractive",
       "title_zh": "DualOPSD: Adaptive Privileged Teachers for On-Policy Self-Distillation",
       "summary_zh": "On-policy self-distillation (OPSD) uses a privileged copy of the student model to provide dense supervision without an external teacher. OPSD keeps this privileged teacher fixed, even though the student distribution and output style change during training. We propose DualOPSD, an asymmetric alternating framework that adapts both policies."
-    },
-    {
-      "title": "The Harness Is the Thing",
-      "summary": "The Harness Is the Thing",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
-      "published_at": "2026-08-26T16:59:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "112",
-      "item_id": "hn:49452346",
-      "summary_type": "extractive",
-      "title_zh": "The Harness Is the Thing",
-      "summary_zh": "The Harness Is the Thing"
     },
     {
       "title": "Imitation Learning for Connection-Tableau Construction",
@@ -596,8 +723,8 @@
       "url": "http://arxiv.org/abs/2608.26009v1",
       "published_at": "2026-08-26T16:53:25Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.26009v1",
@@ -614,8 +741,8 @@
       "published_at": "2026-08-26T16:50:05Z",
       "tags": [
         "llm",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.26005v1",
@@ -632,9 +759,9 @@
       "published_at": "2026-08-26T16:50:02Z",
       "tags": [
         "llm",
+        "paper",
         "tool",
-        "agent",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.26004v1",
@@ -651,30 +778,14 @@
       "published_at": "2026-08-26T16:42:02Z",
       "tags": [
         "llm",
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.25992v1",
       "summary_type": "extractive",
       "title_zh": "ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs",
       "summary_zh": "Multi-agent large language model (LLM) workflows have emerged as a powerful paradigm for solving complex, open-ended tasks through collaborative reasoning among specialized LLM agents, but they incur substantial operating costs due to repeated LLM invocations and long-horizon context accumulation. Existing cascade routing methods make one-shot, query-level decisions and cannot adapt to the dynamic, state-dependent nature of multi-step workflows, in which the right LLM at each step depends on evo"
-    },
-    {
-      "title": "Show HN: Build your own theme park",
-      "summary": "I built an agent that helps you build Rollercoaster Tycoon-influenced theme parks. You can prompt something like “Build me a cool theme park” and it’ll build a cohesive theme park with multiple worlds and connected with paths and rides.The weird part is that I built it using the same ideas we use to make AI-generated websites follow a company’s design system.I work as an engineer at Magic Patterns, focused on building our Design System Agent, aimed to use your existing brand, components, and con",
-      "full_text": "I built an agent that helps you build Rollercoaster Tycoon-influenced theme parks. You can prompt something like “Build me a cool theme park” and it’ll build a cohesive theme park with multiple worlds and connected with paths and rides.The weird part is that I built it using the same ideas we use to make AI-generated websites follow a company’s design system.I work as an engineer at Magic Patterns, focused on building our Design System Agent, aimed to use your existing brand, components, and con",
-      "source": "hacker news",
-      "url": "https://www.magicpatterns.com/theme-park",
-      "published_at": "2026-08-26T16:40:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "45",
-      "item_id": "hn:49452037",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Build your own theme park",
-      "summary_zh": "I built an agent that helps you build Rollercoaster Tycoon-influenced theme parks. You can prompt something like “Build me a cool theme park” and it’ll build a cohesive theme park with multiple worlds and connected with paths and rides.The weird part is that I built it using the same ideas we use to make AI-generated websites follow a company’s design system.I work as an engineer at Magic Patterns, focused on building our Design System Agent, aimed to use your existing brand, components, and con"
     },
     {
       "title": "Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs",
@@ -685,8 +796,8 @@
       "published_at": "2026-08-26T16:38:02Z",
       "tags": [
         "llm",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.25986v1",
@@ -695,148 +806,36 @@
       "summary_zh": "Retrieval-augmented generation (RAG) is widely used to mitigate hallucination issues in large language models (LLMs) and multimodal large language models (MLLMs). In particular, knowledge graph (KG)-based RAG leverages structured knowledge to provide (M)LLMs with high-quality external information. Building on these works, recent studies have explored multimodal knowledge graphs (MMKGs) as knowledge bases for GraphRAG."
     },
     {
-      "title": "FDA approves first in class targeted therapy for metastatic pancreatic cancer",
-      "summary": "FDA approves first in class targeted therapy for metastatic pancreatic cancer",
+      "title": "A curmudgeon tries a language server",
+      "summary": "A curmudgeon tries a language server",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
-      "published_at": "2026-08-26T16:19:03+00:00",
+      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+      "published_at": "2026-08-26T12:48:37+00:00",
       "tags": [
         "ai"
       ],
-      "score": "212",
-      "item_id": "hn:49451675",
+      "score": "97",
+      "item_id": "hn:49448150",
       "summary_type": "extractive",
-      "title_zh": "FDA approves first in class targeted therapy for metastatic pancreatic cancer",
-      "summary_zh": "FDA approves first in class targeted therapy for metastatic pancreatic cancer"
-    },
-    {
-      "title": "Tim Curry has died",
-      "summary": "Tim Curry has died",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-      "published_at": "2026-08-26T16:03:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "653",
-      "item_id": "hn:49451448",
-      "summary_type": "extractive",
-      "title_zh": "Tim Curry has died",
-      "summary_zh": "Tim Curry has died"
+      "title_zh": "A curmudgeon tries a language server",
+      "summary_zh": "A curmudgeon tries a language server"
     },
     {
       "title": "The turbulent AI era is here",
       "summary": "The turbulent AI era is here",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "published_at": "2026-08-26T15:55:15+00:00",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "published_at": "2026-08-26T11:23:54+00:00",
       "tags": [
         "ai"
       ],
-      "score": "239",
-      "item_id": "hn:49451313",
+      "score": "157",
+      "item_id": "hn:49447057",
       "summary_type": "extractive",
       "title_zh": "The turbulent AI era is here",
       "summary_zh": "The turbulent AI era is here"
-    },
-    {
-      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "summary": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-      "published_at": "2026-08-26T15:30:05+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "215",
-      "item_id": "hn:49450898",
-      "summary_type": "extractive",
-      "title_zh": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "summary_zh": "It’s so hard to finish an idea that is not yours and is just suggested by AI"
-    },
-    {
-      "title": "Nebula Sans",
-      "summary": "Nebula Sans",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nebulasans.com",
-      "published_at": "2026-08-26T15:03:52+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "412",
-      "item_id": "hn:49450448",
-      "summary_type": "extractive",
-      "title_zh": "Nebula Sans",
-      "summary_zh": "Nebula Sans"
-    },
-    {
-      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
-      "summary": "Taylor Farms: How One Company's Reach Became a National Risk",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://farmaction.us/taylorfarmsreport/",
-      "published_at": "2026-08-26T14:21:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "274",
-      "item_id": "hn:49449749",
-      "summary_type": "extractive",
-      "title_zh": "Taylor Farms: How One Company's Reach Became a National Risk",
-      "summary_zh": "Taylor Farms: How One Company's Reach Became a National Risk"
-    },
-    {
-      "title": "Twitter Viewer – View Twitter Without Account",
-      "summary": "Twitter Viewer – View Twitter Without Account",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://twitterwebviewer.com/",
-      "published_at": "2026-08-26T14:11:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "430",
-      "item_id": "hn:49449576",
-      "summary_type": "extractive",
-      "title_zh": "Twitter Viewer – View Twitter Without Account",
-      "summary_zh": "Twitter Viewer – View Twitter Without Account"
-    },
-    {
-      "title": "GLM-5.3-Flash",
-      "summary": "https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49450353",
-      "full_text": "https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49450353",
-      "source": "hacker news",
-      "url": "https://z.ai/blog/glm-5.3-flash",
-      "published_at": "2026-08-26T14:08:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.0k",
-      "item_id": "hn:49449507",
-      "summary_type": "extractive",
-      "title_zh": "GLM-5.3-Flash",
-      "summary_zh": "https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49450353"
-    },
-    {
-      "title": "AWS Acquires DuckLabs",
-      "summary": "AWS Acquires DuckLabs",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "published_at": "2026-08-26T12:59:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.0k",
-      "item_id": "hn:49448321",
-      "summary_type": "extractive",
-      "title_zh": "AWS Acquires DuckLabs",
-      "summary_zh": "AWS Acquires DuckLabs"
     }
   ]
 }

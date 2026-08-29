@@ -1,7 +1,119 @@
 {
-  "updated_at": "2026-08-29T06:52:58.005854+00:00",
+  "updated_at": "2026-08-29T16:38:13.737112+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Nancy Grace Roman Space Telescope",
+      "summary": "Nancy Grace Roman Space Telescope",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "published_at": "2026-08-29T15:48:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "8",
+      "item_id": "hn:49490870",
+      "summary_type": "extractive",
+      "title_zh": "Nancy Grace Roman Space Telescope",
+      "summary_zh": "Nancy Grace Roman Space Telescope"
+    },
+    {
+      "title": "Parsing the Infamous Japanese Postal CSV",
+      "summary": "Parsing the Infamous Japanese Postal CSV",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.dampfkraft.com/posuto.html",
+      "published_at": "2026-08-29T15:42:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "12",
+      "item_id": "hn:49490826",
+      "summary_type": "extractive",
+      "title_zh": "Parsing the Infamous Japanese Postal CSV",
+      "summary_zh": "Parsing the Infamous Japanese Postal CSV"
+    },
+    {
+      "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+      "summary": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+      "published_at": "2026-08-29T15:26:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "22",
+      "item_id": "hn:49490702",
+      "summary_type": "extractive",
+      "title_zh": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+      "summary_zh": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)"
+    },
+    {
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "summary": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://uecker.codeberg.page/2026-08-29.html",
+      "published_at": "2026-08-29T14:20:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:49490138",
+      "summary_type": "extractive",
+      "title_zh": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "summary_zh": "Indirect Calling of Nested Functions on GCC Without Executable Stack"
+    },
+    {
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "summary": "Debian votes to allow \"responsible use of generative AI\"",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://lwn.net/Articles/1091231/",
+      "published_at": "2026-08-29T14:02:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "282",
+      "item_id": "hn:49489982",
+      "summary_type": "extractive",
+      "title_zh": "Debian votes to allow \"responsible use of generative AI\"",
+      "summary_zh": "Debian votes to allow \"responsible use of generative AI\""
+    },
+    {
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "summary": "Iceland votes on whether to restart talks on joining EU",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "published_at": "2026-08-29T11:39:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "269",
+      "item_id": "hn:49489057",
+      "summary_type": "extractive",
+      "title_zh": "Iceland votes on whether to restart talks on joining EU",
+      "summary_zh": "Iceland votes on whether to restart talks on joining EU"
+    },
+    {
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "summary": "Samsung's Processing-in-Memory (PIM)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "published_at": "2026-08-29T06:06:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "196",
+      "item_id": "hn:49487341",
+      "summary_type": "extractive",
+      "title_zh": "Samsung's Processing-in-Memory (PIM)",
+      "summary_zh": "Samsung's Processing-in-Memory (PIM)"
+    },
     {
       "title": "TurboKV: Insanely fast Rust key-value store",
       "summary": "TurboKV: Insanely fast Rust key-value store",
@@ -12,27 +124,11 @@
       "tags": [
         "ai"
       ],
-      "score": "67",
+      "score": "154",
       "item_id": "hn:49486334",
       "summary_type": "extractive",
       "title_zh": "TurboKV: Insanely fast Rust key-value store",
       "summary_zh": "TurboKV: Insanely fast Rust key-value store"
-    },
-    {
-      "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-      "summary": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.kumander.org/",
-      "published_at": "2026-08-29T01:48:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "34",
-      "item_id": "hn:49486176",
-      "summary_type": "extractive",
-      "title_zh": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-      "summary_zh": "Kumander Linux – A Linux Distro with a Windows 7 Desktop"
     },
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -44,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "400",
+      "score": "701",
       "item_id": "hn:49486172",
       "summary_type": "extractive",
       "title_zh": "Our decision on Cursor following its acquisition by SpaceX",
@@ -60,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "69",
+      "score": "171",
       "item_id": "hn:49486081",
       "summary_type": "extractive",
       "title_zh": "StemDeck, a free, open-source and local AI stem separator",
@@ -76,59 +172,11 @@
       "tags": [
         "ai"
       ],
-      "score": "86",
+      "score": "122",
       "item_id": "hn:49485532",
       "summary_type": "extractive",
       "title_zh": "Does the Sumerian King List Align with Paleoclimate Events?",
       "summary_zh": "Does the Sumerian King List Align with Paleoclimate Events?"
-    },
-    {
-      "title": "9th Circuit sides with states in Kalshi gambling fight",
-      "summary": "9th Circuit sides with states in Kalshi gambling fight",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-      "published_at": "2026-08-28T23:32:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "115",
-      "item_id": "hn:49485452",
-      "summary_type": "extractive",
-      "title_zh": "9th Circuit sides with states in Kalshi gambling fight",
-      "summary_zh": "9th Circuit sides with states in Kalshi gambling fight"
-    },
-    {
-      "title": "Identifying fake cosmetics using AI",
-      "summary": "Identifying fake cosmetics using AI",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-      "published_at": "2026-08-28T22:18:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "48",
-      "item_id": "hn:49484925",
-      "summary_type": "extractive",
-      "title_zh": "Identifying fake cosmetics using AI",
-      "summary_zh": "Identifying fake cosmetics using AI"
-    },
-    {
-      "title": "Show HN: Sesame - a local-first, open-source password manager",
-      "summary": "I have been working on Sesame, an open-source password manager that keeps your vault local by default. You don&#x27;t need an account to create or use a vault, and the hosted service never receives the vault itself.\nIt&#x27;s still early software and the independent security review isn&#x27;t finished yet, so I am mainly interested in feedback, testing, and people looking through the code.(Linux support is yet to be released on v0.1.2, but currently is in the works.)",
-      "full_text": "I have been working on Sesame, an open-source password manager that keeps your vault local by default. You don&#x27;t need an account to create or use a vault, and the hosted service never receives the vault itself.\nIt&#x27;s still early software and the independent security review isn&#x27;t finished yet, so I am mainly interested in feedback, testing, and people looking through the code.(Linux support is yet to be released on v0.1.2, but currently is in the works.)",
-      "source": "hacker news",
-      "url": "https://usesesame.app/",
-      "published_at": "2026-08-28T19:14:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "50",
-      "item_id": "hn:49483038",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Sesame - a local-first, open-source password manager",
-      "summary_zh": "I have been working on Sesame, an open-source password manager that keeps your vault local by default. You don&#x27;t need an account to create or use a vault, and the hosted service never receives the vault itself.\nIt&#x27;s still early software and the independent security review isn&#x27;t finished yet, so I am mainly interested in feedback, testing, and people looking through the code.(Linux support is yet to be released on v0.1.2, but currently is in the works.)"
     },
     {
       "title": "Just the rumour of a bug is enough to find an exploit these days",
@@ -140,59 +188,11 @@
       "tags": [
         "ai"
       ],
-      "score": "294",
+      "score": "361",
       "item_id": "hn:49480466",
       "summary_type": "extractive",
       "title_zh": "Just the rumour of a bug is enough to find an exploit these days",
       "summary_zh": "Just the rumour of a bug is enough to find an exploit these days"
-    },
-    {
-      "title": "Run Qwen3.8 27B locally: real numbers from my Mac Studio",
-      "summary": "Run Qwen3.8 27B locally: real numbers from my Mac Studio",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally/",
-      "published_at": "2026-08-28T15:24:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "98",
-      "item_id": "hn:49479951",
-      "summary_type": "extractive",
-      "title_zh": "Run Qwen3.8 27B locally: real numbers from my Mac Studio",
-      "summary_zh": "Run Qwen3.8 27B locally: real numbers from my Mac Studio"
-    },
-    {
-      "title": "EasyEffects can improve laptop speaker sound quality",
-      "summary": "EasyEffects can improve laptop speaker sound quality",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-      "published_at": "2026-08-28T15:23:10+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "129",
-      "item_id": "hn:49479924",
-      "summary_type": "extractive",
-      "title_zh": "EasyEffects can improve laptop speaker sound quality",
-      "summary_zh": "EasyEffects can improve laptop speaker sound quality"
-    },
-    {
-      "title": "GLM-5.3 is now open-weight",
-      "summary": "https:&#x2F;&#x2F;twitter.com&#x2F;Zai_org&#x2F;status&#x2F;2093354097122455713https:&#x2F;&#x2F;z.ai&#x2F;blog&#x2F;glm-5.3",
-      "full_text": "https:&#x2F;&#x2F;twitter.com&#x2F;Zai_org&#x2F;status&#x2F;2093354097122455713https:&#x2F;&#x2F;z.ai&#x2F;blog&#x2F;glm-5.3",
-      "source": "hacker news",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "published_at": "2026-08-28T15:20:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "660",
-      "item_id": "hn:49479878",
-      "summary_type": "extractive",
-      "title_zh": "GLM-5.3 is now open-weight",
-      "summary_zh": "https:&#x2F;&#x2F;twitter.com&#x2F;Zai_org&#x2F;status&#x2F;2093354097122455713https:&#x2F;&#x2F;z.ai&#x2F;blog&#x2F;glm-5.3"
     },
     {
       "title": "GUIs should be fully keyboard-driven",
@@ -204,59 +204,27 @@
       "tags": [
         "ai"
       ],
-      "score": "732",
+      "score": "949",
       "item_id": "hn:49479837",
       "summary_type": "extractive",
       "title_zh": "GUIs should be fully keyboard-driven",
       "summary_zh": "GUIs should be fully keyboard-driven"
     },
     {
-      "title": "Verschlimmbesserung: The Word Your Software Updates Need",
-      "summary": "Verschlimmbesserung: The Word Your Software Updates Need",
+      "title": "Creating the Aetheryte Radio",
+      "summary": "Creating the Aetheryte Radio",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
-      "published_at": "2026-08-28T14:30:33+00:00",
+      "url": "https://haz.ee/posts/aetheryte-radio.html",
+      "published_at": "2026-08-28T14:59:15+00:00",
       "tags": [
         "ai"
       ],
-      "score": "122",
-      "item_id": "hn:49479072",
+      "score": "33",
+      "item_id": "hn:49479546",
       "summary_type": "extractive",
-      "title_zh": "Verschlimmbesserung: The Word Your Software Updates Need",
-      "summary_zh": "Verschlimmbesserung: The Word Your Software Updates Need"
-    },
-    {
-      "title": "State of the Map 2026",
-      "summary": "State of the Map 2026",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://2026.stateofthemap.org/",
-      "published_at": "2026-08-28T13:46:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "151",
-      "item_id": "hn:49478401",
-      "summary_type": "extractive",
-      "title_zh": "State of the Map 2026",
-      "summary_zh": "State of the Map 2026"
-    },
-    {
-      "title": "Get your Windows license refund",
-      "summary": "Get your Windows license refund",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://en.refund4freedom.org/",
-      "published_at": "2026-08-28T13:42:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "672",
-      "item_id": "hn:49478340",
-      "summary_type": "extractive",
-      "title_zh": "Get your Windows license refund",
-      "summary_zh": "Get your Windows license refund"
+      "title_zh": "Creating the Aetheryte Radio",
+      "summary_zh": "Creating the Aetheryte Radio"
     },
     {
       "title": "Htmx 4.0",
@@ -268,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "616",
+      "score": "749",
       "item_id": "hn:49478178",
       "summary_type": "extractive",
       "title_zh": "Htmx 4.0",
@@ -284,27 +252,11 @@
       "tags": [
         "ai"
       ],
-      "score": "552",
+      "score": "671",
       "item_id": "hn:49477854",
       "summary_type": "extractive",
       "title_zh": "U.S. sanctions against the A/I Collective",
       "summary_zh": "Earlier:US Government designates host of noblogs.org a &quot;global terrorist&quot; - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49464391 -  (131 comments)US sanctions Italian hosting provider Autistici Inventati - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49451343 - (219 comments)"
-    },
-    {
-      "title": "An investigation into the state of corvid–human relations",
-      "summary": "An investigation into the state of corvid–human relations",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.audubon.org/magazine/are-crows-really-our-friends",
-      "published_at": "2026-08-28T12:53:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "125",
-      "item_id": "hn:49477813",
-      "summary_type": "extractive",
-      "title_zh": "An investigation into the state of corvid–human relations",
-      "summary_zh": "An investigation into the state of corvid–human relations"
     },
     {
       "title": "Inception-style curved map for turn-by-turn directions",
@@ -316,27 +268,11 @@
       "tags": [
         "ai"
       ],
-      "score": "473",
+      "score": "566",
       "item_id": "hn:49477564",
       "summary_type": "extractive",
       "title_zh": "Inception-style curved map for turn-by-turn directions",
       "summary_zh": "Inception-style curved map for turn-by-turn directions"
-    },
-    {
-      "title": "Migrating to HTTPX2",
-      "summary": "Migrating to HTTPX2",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-      "published_at": "2026-08-28T11:51:20+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "190",
-      "item_id": "hn:49477212",
-      "summary_type": "extractive",
-      "title_zh": "Migrating to HTTPX2",
-      "summary_zh": "Migrating to HTTPX2"
     },
     {
       "title": "The Twelve-Factor App (2025)",
@@ -348,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "258",
+      "score": "297",
       "item_id": "hn:49472216",
       "summary_type": "extractive",
       "title_zh": "The Twelve-Factor App (2025)",
@@ -362,8 +298,8 @@
       "url": "http://arxiv.org/abs/2608.27454v1",
       "published_at": "2026-08-27T17:59:11Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "agent"
       ],
       "score": "📄",
@@ -380,11 +316,11 @@
       "url": "http://arxiv.org/abs/2608.27449v1",
       "published_at": "2026-08-27T17:58:10Z",
       "tags": [
-        "vision",
         "paper",
-        "llm",
+        "tool",
+        "vision",
         "agent",
-        "tool"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.27449v1",
@@ -417,9 +353,9 @@
       "url": "http://arxiv.org/abs/2608.27439v1",
       "published_at": "2026-08-27T17:55:33Z",
       "tags": [
-        "tool",
         "paper",
         "llm",
+        "tool",
         "agent"
       ],
       "score": "📄",
@@ -453,10 +389,10 @@
       "url": "http://arxiv.org/abs/2608.27427v1",
       "published_at": "2026-08-27T17:50:07Z",
       "tags": [
-        "vision",
         "paper",
         "llm",
-        "agent"
+        "agent",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.27427v1",
@@ -489,8 +425,8 @@
       "url": "http://arxiv.org/abs/2608.27421v1",
       "published_at": "2026-08-27T17:46:21Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.27421v1",
@@ -508,8 +444,8 @@
       "tags": [
         "vision",
         "tool",
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.27406v1",
@@ -525,9 +461,9 @@
       "url": "http://arxiv.org/abs/2608.27402v1",
       "published_at": "2026-08-27T17:30:30Z",
       "tags": [
-        "vision",
         "paper",
-        "llm"
+        "llm",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.27402v1",
@@ -543,8 +479,8 @@
       "url": "http://arxiv.org/abs/2608.27397v1",
       "published_at": "2026-08-27T17:28:35Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -561,10 +497,10 @@
       "url": "http://arxiv.org/abs/2608.27395v1",
       "published_at": "2026-08-27T17:26:24Z",
       "tags": [
-        "tool",
-        "vision",
         "paper",
-        "llm"
+        "llm",
+        "tool",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.27395v1",
@@ -614,10 +550,10 @@
       "url": "http://arxiv.org/abs/2608.27367v1",
       "published_at": "2026-08-27T17:04:57Z",
       "tags": [
-        "tool",
-        "vision",
         "paper",
-        "llm"
+        "llm",
+        "tool",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.27367v1",
@@ -667,8 +603,8 @@
       "url": "http://arxiv.org/abs/2608.27364v1",
       "published_at": "2026-08-27T17:03:10Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2608.27364v1",
@@ -711,68 +647,116 @@
       "summary_zh": "Recent video generation models are increasingly framed as world models. Many physical processes can unfold in more than one valid way. Therefore, a world model should reproduce not only a plausible trajectory, but also the distribution of possible behaviors under the same initial observation and action."
     },
     {
-      "title": "Global demand for sand spawned a worldwide boom in illegal mining (2015)",
-      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;vyzt8",
-      "full_text": "https:&#x2F;&#x2F;archive.ph&#x2F;vyzt8",
-      "source": "hacker news",
-      "url": "https://www.wired.com/2015/03/illegal-sand-mining/",
-      "published_at": "2026-08-25T22:03:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "62",
-      "item_id": "hn:49441316",
-      "summary_type": "extractive",
-      "title_zh": "Global demand for sand spawned a worldwide boom in illegal mining (2015)",
-      "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;vyzt8"
-    },
-    {
-      "title": "Flyway for freeloaders, rollback implemented in Python",
-      "summary": "Flyway for freeloaders, rollback implemented in Python",
+      "title": "Europe's last regular standard-gauge steam passenger service",
+      "summary": "Europe's last regular standard-gauge steam passenger service",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://aconcan.io/blog/flyway-for-freeloaders/",
-      "published_at": "2026-08-25T17:54:58+00:00",
+      "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+      "published_at": "2026-08-26T22:32:00+00:00",
       "tags": [
         "ai"
       ],
-      "score": "5",
-      "item_id": "hn:49437936",
+      "score": "89",
+      "item_id": "hn:49456819",
       "summary_type": "extractive",
-      "title_zh": "Flyway for freeloaders, rollback implemented in Python",
-      "summary_zh": "Flyway for freeloaders, rollback implemented in Python"
+      "title_zh": "Europe's last regular standard-gauge steam passenger service",
+      "summary_zh": "Europe's last regular standard-gauge steam passenger service"
     },
     {
-      "title": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
-      "summary": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
+      "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+      "summary": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/",
-      "published_at": "2026-08-25T02:17:19+00:00",
+      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+      "published_at": "2026-08-26T15:22:48+00:00",
       "tags": [
         "ai"
       ],
-      "score": "8",
-      "item_id": "hn:49428343",
+      "score": "79",
+      "item_id": "hn:49450782",
       "summary_type": "extractive",
-      "title_zh": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
-      "summary_zh": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?"
+      "title_zh": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+      "summary_zh": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems"
     },
     {
-      "title": "Curvature Beziers: Improving on a timeless recipe",
-      "summary": "Curvature Beziers: Improving on a timeless recipe",
-      "full_text": "",
+      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "summary": "Hey HN!I built Typebase, a library that gives you Convex&#x27;s DX with Supabase&#x27;s openness.After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn&#x27;t like using RLS and SQL for authorization. With Convex I loved how your server &quot;lives&quot; in your code, but disliked the DB model and the realtime-first defaults.With Typebase you just write TS files inside a typebase&#x2F; folder in your existing repo. You can define your DB tables inside a schema.ts ",
+      "full_text": "Hey HN!I built Typebase, a library that gives you Convex&#x27;s DX with Supabase&#x27;s openness.After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn&#x27;t like using RLS and SQL for authorization. With Convex I loved how your server &quot;lives&quot; in your code, but disliked the DB model and the realtime-first defaults.With Typebase you just write TS files inside a typebase&#x2F; folder in your existing repo. You can define your DB tables inside a schema.ts ",
       "source": "hacker news",
-      "url": "https://acko.net/blog/curvature-beziers/",
-      "published_at": "2026-08-24T17:03:12+00:00",
+      "url": "https://typebase.io",
+      "published_at": "2026-08-26T11:33:31+00:00",
       "tags": [
         "ai"
       ],
-      "score": "104",
-      "item_id": "hn:49422743",
+      "score": "42",
+      "item_id": "hn:49447178",
       "summary_type": "extractive",
-      "title_zh": "Curvature Beziers: Improving on a timeless recipe",
-      "summary_zh": "Curvature Beziers: Improving on a timeless recipe"
+      "title_zh": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "summary_zh": "Hey HN!I built Typebase, a library that gives you Convex&#x27;s DX with Supabase&#x27;s openness.After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn&#x27;t like using RLS and SQL for authorization. With Convex I loved how your server &quot;lives&quot; in your code, but disliked the DB model and the realtime-first defaults.With Typebase you just write TS files inside a typebase&#x2F; folder in your existing repo. You can define your DB tables inside a schema.ts "
+    },
+    {
+      "title": "Time complexity of operations on Python's built-in types",
+      "summary": "Time complexity of operations on Python's built-in types",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://docs.python.org/3.16/library/time-complexity.html",
+      "published_at": "2026-08-25T15:15:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "50",
+      "item_id": "hn:49435595",
+      "summary_type": "extractive",
+      "title_zh": "Time complexity of operations on Python's built-in types",
+      "summary_zh": "Time complexity of operations on Python's built-in types"
+    },
+    {
+      "title": "EVE Online moves to Python 3",
+      "summary": "EVE Online moves to Python 3",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "published_at": "2026-08-25T13:04:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "148",
+      "item_id": "hn:49433328",
+      "summary_type": "extractive",
+      "title_zh": "EVE Online moves to Python 3",
+      "summary_zh": "EVE Online moves to Python 3"
+    },
+    {
+      "title": "SQLite as a Document Database (2020)",
+      "summary": "SQLite as a Document Database (2020)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dgl.cx/2020/06/sqlite-json-support",
+      "published_at": "2026-08-24T23:00:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "45",
+      "item_id": "hn:49426995",
+      "summary_type": "extractive",
+      "title_zh": "SQLite as a Document Database (2020)",
+      "summary_zh": "SQLite as a Document Database (2020)"
+    },
+    {
+      "title": "Glacier Mice",
+      "summary": "Glacier Mice",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+      "published_at": "2026-08-24T18:58:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "145",
+      "item_id": "hn:49424320",
+      "summary_type": "extractive",
+      "title_zh": "Glacier Mice",
+      "summary_zh": "Glacier Mice"
     },
     {
       "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
@@ -784,11 +768,27 @@
       "tags": [
         "ai"
       ],
-      "score": "8",
+      "score": "37",
       "item_id": "hn:49422397",
       "summary_type": "extractive",
       "title_zh": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
       "summary_zh": "Queen Caroline turned King Arthur into an 18C royal PR strategy"
+    },
+    {
+      "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+      "summary": "Show HN: Galaxium, an experimental WebGPU space explorer",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://galaxium.app",
+      "published_at": "2026-08-24T14:44:20+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "61",
+      "item_id": "hn:49420524",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Galaxium, an experimental WebGPU space explorer",
+      "summary_zh": "Show HN: Galaxium, an experimental WebGPU space explorer"
     },
     {
       "title": "Experiments with Plotter Art",
@@ -800,27 +800,11 @@
       "tags": [
         "ai"
       ],
-      "score": "40",
+      "score": "83",
       "item_id": "hn:49419409",
       "summary_type": "extractive",
       "title_zh": "Experiments with Plotter Art",
       "summary_zh": "Experiments with Plotter Art"
-    },
-    {
-      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-      "summary": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-      "published_at": "2026-08-24T12:30:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "28",
-      "item_id": "hn:49418813",
-      "summary_type": "extractive",
-      "title_zh": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-      "summary_zh": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo"
     },
     {
       "title": "Monzo Stand-In",
@@ -832,11 +816,27 @@
       "tags": [
         "ai"
       ],
-      "score": "54",
+      "score": "109",
       "item_id": "hn:49417298",
       "summary_type": "extractive",
       "title_zh": "Monzo Stand-In",
       "summary_zh": "Monzo Stand-In"
+    },
+    {
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "summary": "Tether: iMessage, SMS, etc. on Linux",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "published_at": "2026-08-24T05:09:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "26",
+      "item_id": "hn:49415386",
+      "summary_type": "extractive",
+      "title_zh": "Tether: iMessage, SMS, etc. on Linux",
+      "summary_zh": "Tether: iMessage, SMS, etc. on Linux"
     }
   ]
 }

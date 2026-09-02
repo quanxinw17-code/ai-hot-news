@@ -1,22 +1,167 @@
 {
-  "updated_at": "2026-09-01T20:56:03.478165+00:00",
+  "updated_at": "2026-09-02T04:11:48.678182+00:00",
   "count": 50,
   "items": [
     {
-      "title": "The EU's repair policies are changing the way tech is designed",
-      "summary": "The EU's repair policies are changing the way tech is designed",
+      "title": "WebFPGA",
+      "summary": "WebFPGA",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://theconversation.com/the-eus-repair-policies-are-changing-the-way-tech-is-designed-288468",
-      "published_at": "2026-09-01T19:59:32+00:00",
+      "url": "https://webfpga.io/",
+      "published_at": "2026-09-02T03:54:58+00:00",
       "tags": [
         "ai"
       ],
-      "score": "10",
-      "item_id": "hn:49527287",
+      "score": "4",
+      "item_id": "hn:49531525",
       "summary_type": "extractive",
-      "title_zh": "The EU's repair policies are changing the way tech is designed",
-      "summary_zh": "The EU's repair policies are changing the way tech is designed"
+      "title_zh": "WebFPGA",
+      "summary_zh": "WebFPGA"
+    },
+    {
+      "title": "True Rate of Unemployment",
+      "summary": "True Rate of Unemployment",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.lisep.org/tru",
+      "published_at": "2026-09-02T02:21:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "25",
+      "item_id": "hn:49530989",
+      "summary_type": "extractive",
+      "title_zh": "True Rate of Unemployment",
+      "summary_zh": "True Rate of Unemployment"
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "summary": "The efficient frontier of LLM inference",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "published_at": "2026-09-01T23:48:05+00:00",
+      "tags": [
+        "tool",
+        "llm"
+      ],
+      "score": "62",
+      "item_id": "hn:49529898",
+      "summary_type": "extractive",
+      "title_zh": "The efficient frontier of LLM inference",
+      "summary_zh": "The efficient frontier of LLM inference"
+    },
+    {
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "summary": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "published_at": "2026-09-01T23:17:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "73",
+      "item_id": "hn:49529621",
+      "summary_type": "extractive",
+      "title_zh": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "summary_zh": "FBI Probes Service Selling 153M+ Drivers Licenses"
+    },
+    {
+      "title": "Improving our alignment and security efforts",
+      "summary": "Improving our alignment and security efforts",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "published_at": "2026-09-01T23:12:45+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:49529567",
+      "summary_type": "extractive",
+      "title_zh": "Improving our alignment and security efforts",
+      "summary_zh": "Improving our alignment and security efforts"
+    },
+    {
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "summary": "My local model setup on an M4 Pro Mac Mini",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://lws.io/blog/my-local-model-setup/",
+      "published_at": "2026-09-01T22:30:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "102",
+      "item_id": "hn:49529132",
+      "summary_type": "extractive",
+      "title_zh": "My local model setup on an M4 Pro Mac Mini",
+      "summary_zh": "My local model setup on an M4 Pro Mac Mini"
+    },
+    {
+      "title": "Fluorescent lamps (don't) have ears",
+      "summary": "Fluorescent lamps (don't) have ears",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
+      "published_at": "2026-09-01T21:19:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "37",
+      "item_id": "hn:49528366",
+      "summary_type": "extractive",
+      "title_zh": "Fluorescent lamps (don't) have ears",
+      "summary_zh": "Fluorescent lamps (don't) have ears"
+    },
+    {
+      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+      "summary": "Hi!Every month the &quot;Who Wants to Be Hired?&quot; and &quot;Who&#x27;s Hiring?&quot; Threads come through I would think to myself, &quot;there should be a match maker for these two threads&quot;.So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote&#x2F;onsite, etc., and then eliminate incompatible postings, like &#x27;looking for remote work&#x27; and &#x27;onsite only&#x27;. The ",
+      "full_text": "Hi!Every month the &quot;Who Wants to Be Hired?&quot; and &quot;Who&#x27;s Hiring?&quot; Threads come through I would think to myself, &quot;there should be a match maker for these two threads&quot;.So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote&#x2F;onsite, etc., and then eliminate incompatible postings, like &#x27;looking for remote work&#x27; and &#x27;onsite only&#x27;. The ",
+      "source": "hacker news",
+      "url": "https://hnmatchmaker.com/",
+      "published_at": "2026-09-01T20:53:35+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "54",
+      "item_id": "hn:49528057",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+      "summary_zh": "Hi!Every month the &quot;Who Wants to Be Hired?&quot; and &quot;Who&#x27;s Hiring?&quot; Threads come through I would think to myself, &quot;there should be a match maker for these two threads&quot;.So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote&#x2F;onsite, etc., and then eliminate incompatible postings, like &#x27;looking for remote work&#x27; and &#x27;onsite only&#x27;. The "
+    },
+    {
+      "title": "Hang on to Your Firefox",
+      "summary": "Hang on to Your Firefox",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "published_at": "2026-09-01T20:30:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "720",
+      "item_id": "hn:49527748",
+      "summary_type": "extractive",
+      "title_zh": "Hang on to Your Firefox",
+      "summary_zh": "Hang on to Your Firefox"
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary": "Path to Astra: critical capabilities and frontier safeguards",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://openai.com/index/path-to-astra/",
+      "published_at": "2026-09-01T20:20:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "105",
+      "item_id": "hn:49527595",
+      "summary_type": "extractive",
+      "title_zh": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary_zh": "Path to Astra: critical capabilities and frontier safeguards"
     },
     {
       "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
@@ -28,27 +173,11 @@
       "tags": [
         "ai"
       ],
-      "score": "22",
+      "score": "100",
       "item_id": "hn:49527232",
       "summary_type": "extractive",
       "title_zh": "Refurbishing a Tektronix TDS7104 Oscilloscope",
       "summary_zh": "Refurbishing a Tektronix TDS7104 Oscilloscope"
-    },
-    {
-      "title": "I used Fable to rewrite 65kLoC of Go in Rust. It cost $400",
-      "summary": "I used Fable to rewrite 65kLoC of Go in Rust. It cost $400",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://iurii.net/en/blog/posts/software-engineering/i-used-fable-to-rewrite-65kloc-to-rust/",
-      "published_at": "2026-09-01T18:39:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "5",
-      "item_id": "hn:49526131",
-      "summary_type": "extractive",
-      "title_zh": "I used Fable to rewrite 65kLoC of Go in Rust. It cost $400",
-      "summary_zh": "I used Fable to rewrite 65kLoC of Go in Rust. It cost $400"
     },
     {
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
@@ -60,11 +189,121 @@
       "tags": [
         "ai"
       ],
-      "score": "148",
+      "score": "509",
       "item_id": "hn:49526069",
       "summary_type": "extractive",
       "title_zh": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "summary_zh": "How accurate have Ed Zitron's AI skeptic predictions been?"
+    },
+    {
+      "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
+      "summary": "Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation methods select representative subsets to estimate full-benchmark performance, but are largely result-only: they fit historical pass/fail response matrices or static task semantics, discarding how agents solve problems. We propose PTA-IRT, a Privileged Trajectory-Aware Item Response Theory framework that ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01603v1",
+      "published_at": "2026-09-01T17:59:46Z",
+      "tags": [
+        "agent",
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01603v1",
+      "summary_type": "extractive",
+      "title_zh": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
+      "summary_zh": "Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation methods select representative subsets to estimate full-benchmark performance, but are largely result-only: they fit historical pass/fail response matrices or static task semantics, discarding how agents solve problems. We propose PTA-IRT, a Privileged Trajectory-Aware Item Response Theory framework that "
+    },
+    {
+      "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
+      "summary": "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often exceed the input length limits of LLMs, existing approaches commonly adopt retrieval-augmented generation (RAG) to provide repository-specific context. Despite improving repository-context retrieval, existing methods typically provide context as task-level support, without explicitly identifying th",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01601v1",
+      "published_at": "2026-09-01T17:59:39Z",
+      "tags": [
+        "paper",
+        "tool",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01601v1",
+      "summary_type": "extractive",
+      "title_zh": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
+      "summary_zh": "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often exceed the input length limits of LLMs, existing approaches commonly adopt retrieval-augmented generation (RAG) to provide repository-specific context. Despite improving repository-context retrieval, existing methods typically provide context as task-level support, without explicitly identifying th"
+    },
+    {
+      "title": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
+      "summary": "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencies and cleanup. We introduce CordisBench, a 1,200-question benchmark of this lifecycle reasoning.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01600v1",
+      "published_at": "2026-09-01T17:59:13Z",
+      "tags": [
+        "agent",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01600v1",
+      "summary_type": "extractive",
+      "title_zh": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
+      "summary_zh": "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencies and cleanup. We introduce CordisBench, a 1,200-question benchmark of this lifecycle reasoning."
+    },
+    {
+      "title": "The Rise of Verbal Reinforcement Learning",
+      "summary": "Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and modern language models. We call this paradigm Verbal Reinforcement Learning (VRL) and offer the first unified account of it. We organize the field around a single axis, \\textit{when} verbal feedback takes effect in an agent's lifecycle and \\textit{what} it modifies, yielding three pillars: (1) \\textbf{La",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01597v1",
+      "published_at": "2026-09-01T17:58:18Z",
+      "tags": [
+        "agent",
+        "vision",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01597v1",
+      "summary_type": "extractive",
+      "title_zh": "The Rise of Verbal Reinforcement Learning",
+      "summary_zh": "Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and modern language models. We call this paradigm Verbal Reinforcement Learning (VRL) and offer the first unified account of it. We organize the field around a single axis, \\textit{when} verbal feedback takes effect in an agent's lifecycle and \\textit{what} it modifies, yielding three pillars: (1) \\textbf{La"
+    },
+    {
+      "title": "Mechanism Design for Alignment and Control",
+      "summary": "We develop a framework for mechanism design with AI agents whose alignment (preferences) and capabilities (feasible actions and information) are unknown. We want such agents to act on our behalf so mechanisms must incentivize both honesty and obedience. A one-sided imitation structure---capabilities can be concealed but not counterfeited---yields a revelation principle, a characterization of implementable policies via nested cyclical monotonicity, and conditions under which eliciting higher-orde",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01595v1",
+      "published_at": "2026-09-01T17:57:50Z",
+      "tags": [
+        "agent",
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01595v1",
+      "summary_type": "extractive",
+      "title_zh": "Mechanism Design for Alignment and Control",
+      "summary_zh": "We develop a framework for mechanism design with AI agents whose alignment (preferences) and capabilities (feasible actions and information) are unknown. We want such agents to act on our behalf so mechanisms must incentivize both honesty and obedience. A one-sided imitation structure---capabilities can be concealed but not counterfeited---yields a revelation principle, a characterization of implementable policies via nested cyclical monotonicity, and conditions under which eliciting higher-orde"
+    },
+    {
+      "title": "Designing Proactive Thought Partners for Writing",
+      "summary": "Writing involves diverse cognitive activities, from ideation to revision, and writers' needs vary across individuals and moments. Proactive AI promises to provide the right support at the right time, yet existing proactive tools largely focus on generic textual assistance, such as autocomplete. This paper studies the design space of proactive thought partners: AI agents that proactively offer customizable, higher-level cognitive support during writing.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01588v1",
+      "published_at": "2026-09-01T17:54:32Z",
+      "tags": [
+        "agent",
+        "vision",
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01588v1",
+      "summary_type": "extractive",
+      "title_zh": "Designing Proactive Thought Partners for Writing",
+      "summary_zh": "Writing involves diverse cognitive activities, from ideation to revision, and writers' needs vary across individuals and moments. Proactive AI promises to provide the right support at the right time, yet existing proactive tools largely focus on generic textual assistance, such as autocomplete. This paper studies the design space of proactive thought partners: AI agents that proactively offer customizable, higher-level cognitive support during writing."
     },
     {
       "title": "The creator of Jujutsu has joined ERSC",
@@ -76,11 +315,29 @@
       "tags": [
         "ai"
       ],
-      "score": "122",
+      "score": "204",
       "item_id": "hn:49525297",
       "summary_type": "extractive",
       "title_zh": "The creator of Jujutsu has joined ERSC",
       "summary_zh": "The creator of Jujutsu has joined ERSC"
+    },
+    {
+      "title": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
+      "summary": "How to divide a fixed annotation budget between supervised fine-tuning (SFT) and reinforcement learning (RL) during LLM post-training remains an open problem. Existing work characterizes only broad trends (e.g., SFT dominates in low-data regimes), lacks a principled allocation framework, and does not examine whether the optimal ratio transfers across model sizes. We frame this problem in terms of near-optimality: rather than seeking a single optimal SFT-RL ratio, we characterize the near-optimal",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01573v1",
+      "published_at": "2026-09-01T17:39:55Z",
+      "tags": [
+        "paper",
+        "tool",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01573v1",
+      "summary_type": "extractive",
+      "title_zh": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
+      "summary_zh": "How to divide a fixed annotation budget between supervised fine-tuning (SFT) and reinforcement learning (RL) during LLM post-training remains an open problem. Existing work characterizes only broad trends (e.g., SFT dominates in low-data regimes), lacks a principled allocation framework, and does not examine whether the optimal ratio transfers across model sizes. We frame this problem in terms of near-optimality: rather than seeking a single optimal SFT-RL ratio, we characterize the near-optimal"
     },
     {
       "title": "Atlas: A World Model for Spatial Intelligence",
@@ -92,7 +349,7 @@
       "tags": [
         "ai"
       ],
-      "score": "81",
+      "score": "174",
       "item_id": "hn:49525160",
       "summary_type": "extractive",
       "title_zh": "Atlas: A World Model for Spatial Intelligence",
@@ -108,11 +365,171 @@
       "tags": [
         "ai"
       ],
-      "score": "79",
+      "score": "124",
       "item_id": "hn:49525153",
       "summary_type": "extractive",
       "title_zh": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
       "summary_zh": "Hey HN, I’m Antonio from Nori Robotics (https:&#x2F;&#x2F;norirobotics.com). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers.I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting my hands on affordable hardware was difficult."
+    },
+    {
+      "title": "Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers",
+      "summary": "Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve from environment interaction, and can repeat systematic errors. We study how to learn a cheap autonomous policy from an online, expensive, and imperfect but informative VLM teacher. We propose SAGE (Selective Agent Guidance via Entropy), a framework that queries a VLM only when the learner is uncertai",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01567v1",
+      "published_at": "2026-09-01T17:33:41Z",
+      "tags": [
+        "tool",
+        "llm",
+        "agent",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01567v1",
+      "summary_type": "extractive",
+      "title_zh": "Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers",
+      "summary_zh": "Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve from environment interaction, and can repeat systematic errors. We study how to learn a cheap autonomous policy from an online, expensive, and imperfect but informative VLM teacher. We propose SAGE (Selective Agent Guidance via Entropy), a framework that queries a VLM only when the learner is uncertai"
+    },
+    {
+      "title": "From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification",
+      "summary": "Large language models (LLMs) struggle to classify text into taxonomies with many semantically similar labels, as the distinctions are domain-specific and not captured by pre-training. To handle large label spaces, a common approach retrieves top-$K$ candidate labels by embedding similarity and prompt the LLM to choose among them. However, top-$K$ retrieval reduces the number of candidates but does not help the model tell similar ones apart.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01564v1",
+      "published_at": "2026-09-01T17:31:02Z",
+      "tags": [
+        "paper",
+        "tool",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01564v1",
+      "summary_type": "extractive",
+      "title_zh": "From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification",
+      "summary_zh": "Large language models (LLMs) struggle to classify text into taxonomies with many semantically similar labels, as the distinctions are domain-specific and not captured by pre-training. To handle large label spaces, a common approach retrieves top-$K$ candidate labels by embedding similarity and prompt the LLM to choose among them. However, top-$K$ retrieval reduces the number of candidates but does not help the model tell similar ones apart."
+    },
+    {
+      "title": "H3-World: Turning Language Understanding into World Control",
+      "summary": "We present H3-World, an efficient framework that turns the 33B MiniMax-H3 video generator into an interactive world model. Our key finding is that, as large video generators become more capable, language is emerging as a natural interface for control. MiniMax-H3, for example, already supports zero-shot control of character behavior and camera motion through natural-language instructions.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01560v1",
+      "published_at": "2026-09-01T17:21:40Z",
+      "tags": [
+        "vision",
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01560v1",
+      "summary_type": "extractive",
+      "title_zh": "H3-World: Turning Language Understanding into World Control",
+      "summary_zh": "We present H3-World, an efficient framework that turns the 33B MiniMax-H3 video generator into an interactive world model. Our key finding is that, as large video generators become more capable, language is emerging as a natural interface for control. MiniMax-H3, for example, already supports zero-shot control of character behavior and camera motion through natural-language instructions."
+    },
+    {
+      "title": "Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories",
+      "summary": "We evaluate embedding retrieval where surface form and meaning are pulled apart on purpose: retrieving items that share underlying structure but not wording, in two unrelated domains under one protocol, competition mathematics (MathNet-Retrieve; 500 queries, 117,088-item corpus) and embodied-agent trajectories (ALFWorld-derived; 118 queries, 336 trajectories). In mathematics the failure is complete: strict Hit@1 at the heaviest disguise tier is 0.0% for both production embedders (bootstrap 95% C",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01556v1",
+      "published_at": "2026-09-01T17:19:57Z",
+      "tags": [
+        "agent",
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01556v1",
+      "summary_type": "extractive",
+      "title_zh": "Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories",
+      "summary_zh": "We evaluate embedding retrieval where surface form and meaning are pulled apart on purpose: retrieving items that share underlying structure but not wording, in two unrelated domains under one protocol, competition mathematics (MathNet-Retrieve; 500 queries, 117,088-item corpus) and embodied-agent trajectories (ALFWorld-derived; 118 queries, 336 trajectories). In mathematics the failure is complete: strict Hit@1 at the heaviest disguise tier is 0.0% for both production embedders (bootstrap 95% C"
+    },
+    {
+      "title": "BS: Take the Hint - Interactive Multitracer PET/CT Lesion Segmentation with a Scribble-Conditioned ResEnc U-Net",
+      "summary": "Automated lesion segmentation in whole-body PET/CT is complicated by the variety of physiological tracer uptake patterns and by the differing appearance of lesions across tracers. The autoPET/CT V challenge addresses this by making segmentation interactive: user scribbles marking foreground and background are supplied alongside the image, and the algorithm is expected to exploit them. We present our submission, a scribble-conditioned residual encoder U-Net operating on four input channels: CT, P",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01554v1",
+      "published_at": "2026-09-01T17:19:34Z",
+      "tags": [
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01554v1",
+      "summary_type": "extractive",
+      "title_zh": "BS: Take the Hint - Interactive Multitracer PET/CT Lesion Segmentation with a Scribble-Conditioned ResEnc U-Net",
+      "summary_zh": "Automated lesion segmentation in whole-body PET/CT is complicated by the variety of physiological tracer uptake patterns and by the differing appearance of lesions across tracers. The autoPET/CT V challenge addresses this by making segmentation interactive: user scribbles marking foreground and background are supplied alongside the image, and the algorithm is expected to exploit them. We present our submission, a scribble-conditioned residual encoder U-Net operating on four input channels: CT, P"
+    },
+    {
+      "title": "Can LLMs Discover Scientific Laws in Real and Parallel Worlds?",
+      "summary": "Scientific equation discovery has long been central to scientific progress, proceeding through iterative cycles of hypothesis generation, observational testing, and refinement under scientific constraints. As LLM capabilities advance and their role in AI for Science expands, it remains an open problem whether they can genuinely discover scientific laws and how this ability should be evaluated. Existing evaluations, however, often either simplify discovery through synthetic settings or reuse publ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01552v1",
+      "published_at": "2026-09-01T17:17:59Z",
+      "tags": [
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01552v1",
+      "summary_type": "extractive",
+      "title_zh": "Can LLMs Discover Scientific Laws in Real and Parallel Worlds?",
+      "summary_zh": "Scientific equation discovery has long been central to scientific progress, proceeding through iterative cycles of hypothesis generation, observational testing, and refinement under scientific constraints. As LLM capabilities advance and their role in AI for Science expands, it remains an open problem whether they can genuinely discover scientific laws and how this ability should be evaluated. Existing evaluations, however, often either simplify discovery through synthetic settings or reuse publ"
+    },
+    {
+      "title": "A Mathematical Theory of Reusable Neural Bases for Network Compression",
+      "summary": "As large AI models become increasingly prevalent across a wide range of applications, memory cost has become a critical bottleneck in both training and inference. To mitigate this issue, we introduce the Linear Reusable Neural Bases Architecture (LRNBA), a novel framework aimed at improving parameter efficiency and reducing memory cost. Inspired by recurrent neural network (RNN) designs, the core idea of our approach is to represent each network block as a linear combination of a shared set of n",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01550v1",
+      "published_at": "2026-09-01T17:16:21Z",
+      "tags": [
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01550v1",
+      "summary_type": "extractive",
+      "title_zh": "A Mathematical Theory of Reusable Neural Bases for Network Compression",
+      "summary_zh": "As large AI models become increasingly prevalent across a wide range of applications, memory cost has become a critical bottleneck in both training and inference. To mitigate this issue, we introduce the Linear Reusable Neural Bases Architecture (LRNBA), a novel framework aimed at improving parameter efficiency and reducing memory cost. Inspired by recurrent neural network (RNN) designs, the core idea of our approach is to represent each network block as a linear combination of a shared set of n"
+    },
+    {
+      "title": "Fine, I'll build my own text editor",
+      "summary": "Fine, I'll build my own text editor",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dbushell.com/2026/09/01/text-editor/",
+      "published_at": "2026-09-01T17:12:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "6",
+      "item_id": "hn:49524863",
+      "summary_type": "extractive",
+      "title_zh": "Fine, I'll build my own text editor",
+      "summary_zh": "Fine, I'll build my own text editor"
+    },
+    {
+      "title": "Can LLMs Design Video Coding Tools? A Case Study on Planar Mode",
+      "summary": "This paper explores whether large language models (LLMs) can design video coding tools, a highly challenging task due to the intricate algorithmic coupling of tool modifications. In particular, we present an empirical case study on the Planar mode, a long-standing intra prediction tool in video coding standards. Our experiments operate within a generation-and-evaluation loop, with the LLM generating new Planar predictors, encoder trials evaluating their coding performance, and the LLM re-generat",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01535v1",
+      "published_at": "2026-09-01T17:04:47Z",
+      "tags": [
+        "vision",
+        "paper",
+        "tool",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01535v1",
+      "summary_type": "extractive",
+      "title_zh": "Can LLMs Design Video Coding Tools? A Case Study on Planar Mode",
+      "summary_zh": "This paper explores whether large language models (LLMs) can design video coding tools, a highly challenging task due to the intricate algorithmic coupling of tool modifications. In particular, we present an empirical case study on the Planar mode, a long-standing intra prediction tool in video coding standards. Our experiments operate within a generation-and-evaluation loop, with the LLM generating new Planar predictors, encoder trials evaluating their coding performance, and the LLM re-generat"
     },
     {
       "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
@@ -131,20 +548,76 @@
       "summary_zh": "Quill | Fullstack SWE | Full-time | Remote, PT&#x2F;ET hours preferred | $150 - 210K USD + equity | https:&#x2F;&#x2F;quill.co&#x2F;I’m a co-founder of Quill, a fullstack SDK for adding customer-facing analytics &amp; data features to your app. Backed by YCombinator &amp; top-tier SV-based investors (fundraising not publicly disclosed; happy to share any details when we chat).Some examples of how customers get value from Quill:\n• pre-IPO fintech adds custom reporting &amp; data export features t"
     },
     {
-      "title": "Show HN: Newton's Orchard – Browser-based space/gravity playground",
-      "summary": "Hi HN!My son spent a lot of time in 5th grade playing with the 2-dimensional PhET gravity&#x2F;space sims[1]. His STEM class uses it, and he was playing with it at home, and has been looking for more. I found several space sims&#x2F;playgrounds online, including NASA&#x27;s Eyes on the Solar System[2], but nothing that seemed to offer a real progression from what he was getting out of the PhET sims, so I built Newton&#x27;s Orchard over the summer for him.https:&#x2F;&#x2F;newtonsorchard.appThe ",
-      "full_text": "Hi HN!My son spent a lot of time in 5th grade playing with the 2-dimensional PhET gravity&#x2F;space sims[1]. His STEM class uses it, and he was playing with it at home, and has been looking for more. I found several space sims&#x2F;playgrounds online, including NASA&#x27;s Eyes on the Solar System[2], but nothing that seemed to offer a real progression from what he was getting out of the PhET sims, so I built Newton&#x27;s Orchard over the summer for him.https:&#x2F;&#x2F;newtonsorchard.appThe ",
-      "source": "hacker news",
-      "url": "https://newtonsorchard.app",
-      "published_at": "2026-09-01T16:43:40+00:00",
+      "title": "EvoSCM: Scientific Belief Revision Through Causal Model Evolution and Experimentation",
+      "summary": "Scientific agents must learn not only how to reason, but also what to believe. However, existing LLM agents typically express scientific hypotheses in free-form text, leaving their beliefs implicit and difficult to test or revise. We introduce EvoSCM, which equips scientific agents with explicit structural causal models that evolve as new experimental evidence is collected.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01526v1",
+      "published_at": "2026-09-01T16:55:56Z",
       "tags": [
+        "agent",
+        "vision",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01526v1",
+      "summary_type": "extractive",
+      "title_zh": "EvoSCM: Scientific Belief Revision Through Causal Model Evolution and Experimentation",
+      "summary_zh": "Scientific agents must learn not only how to reason, but also what to believe. However, existing LLM agents typically express scientific hypotheses in free-form text, leaving their beliefs implicit and difficult to test or revise. We introduce EvoSCM, which equips scientific agents with explicit structural causal models that evolve as new experimental evidence is collected."
+    },
+    {
+      "title": "Relational-Core Graph Analytics Querying graphs at SQL scale, and why the node/edge model is a performance tax, not a truer picture of connected data",
+      "summary": "A durable assumption holds that graph analytics requires a purpose-built graph engine, and that relational systems are ill-suited to connected data. We argue the opposite for the workloads enterprises actually run. A columnar relational engine fronted by a graph query language matches or exceeds native graph engines on analytical graph queries, and - decisively - scales past the point where in-memory graph engines fail.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01525v1",
+      "published_at": "2026-09-01T16:55:11Z",
+      "tags": [
+        "paper",
         "ai"
       ],
-      "score": "4",
-      "item_id": "hn:49524469",
+      "score": "📄",
+      "item_id": "arxiv:2609.01525v1",
       "summary_type": "extractive",
-      "title_zh": "Show HN: Newton's Orchard – Browser-based space/gravity playground",
-      "summary_zh": "Hi HN!My son spent a lot of time in 5th grade playing with the 2-dimensional PhET gravity&#x2F;space sims[1]. His STEM class uses it, and he was playing with it at home, and has been looking for more. I found several space sims&#x2F;playgrounds online, including NASA&#x27;s Eyes on the Solar System[2], but nothing that seemed to offer a real progression from what he was getting out of the PhET sims, so I built Newton&#x27;s Orchard over the summer for him.https:&#x2F;&#x2F;newtonsorchard.appThe "
+      "title_zh": "Relational-Core Graph Analytics Querying graphs at SQL scale, and why the node/edge model is a performance tax, not a truer picture of connected data",
+      "summary_zh": "A durable assumption holds that graph analytics requires a purpose-built graph engine, and that relational systems are ill-suited to connected data. We argue the opposite for the workloads enterprises actually run. A columnar relational engine fronted by a graph query language matches or exceeds native graph engines on analytical graph queries, and - decisively - scales past the point where in-memory graph engines fail."
+    },
+    {
+      "title": "When Guardrails Look Effective: Construct Validity Failures in LLM Agent Commerce Evaluation",
+      "summary": "Interactive simulations increasingly evaluate policies in markets populated by language-model agents. Their outputs can look economic---prices, profits, consumer surplus, and welfare---without instantiating the behavior named in the claim. We audit this risk in a multi-turn buyer--seller testbed for configurable hotel transactions.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01519v1",
+      "published_at": "2026-09-01T16:48:13Z",
+      "tags": [
+        "agent",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01519v1",
+      "summary_type": "extractive",
+      "title_zh": "When Guardrails Look Effective: Construct Validity Failures in LLM Agent Commerce Evaluation",
+      "summary_zh": "Interactive simulations increasingly evaluate policies in markets populated by language-model agents. Their outputs can look economic---prices, profits, consumer surplus, and welfare---without instantiating the behavior named in the claim. We audit this risk in a multi-turn buyer--seller testbed for configurable hotel transactions."
+    },
+    {
+      "title": "TempCloze: Can Video-LLMs Identify the Missing Middle?",
+      "summary": "Temporal reasoning benchmarks for Video-LLMs are often mediated by language, leaving room for linguistic shortcuts from option wording, answer correlations, or language priors. To reduce such shortcuts, we introduce TempCloze, a video cloze benchmark for evaluating visual temporal reasoning in Video-LLMs. Given the beginning and ending clips of a video, models must identify the true missing middle from four candidates.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01515v1",
+      "published_at": "2026-09-01T16:45:02Z",
+      "tags": [
+        "vision",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01515v1",
+      "summary_type": "extractive",
+      "title_zh": "TempCloze: Can Video-LLMs Identify the Missing Middle?",
+      "summary_zh": "Temporal reasoning benchmarks for Video-LLMs are often mediated by language, leaving room for linguistic shortcuts from option wording, answer correlations, or language priors. To reduce such shortcuts, we introduce TempCloze, a video cloze benchmark for evaluating visual temporal reasoning in Video-LLMs. Given the beginning and ending clips of a video, models must identify the true missing middle from four candidates."
     },
     {
       "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
@@ -156,11 +629,30 @@
       "tags": [
         "ai"
       ],
-      "score": "99",
+      "score": "171",
       "item_id": "hn:49524447",
       "summary_type": "extractive",
       "title_zh": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
       "summary_zh": "I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory&#x2F;RAM, thanks to expert-offloading&#x2F;ssd-streaming. Easy to install&#x2F;update, and mac-native using MLX and Swift.It ships with auto-mode, which makes a good tradeoff between memory usage and speed. I&#x27;ll be implementing and porting the MTP module for speculative decoding next"
+    },
+    {
+      "title": "LatentPress: Context Compression Beyond Text and Vision",
+      "summary": "Compressed context is usually carried as human-readable text or as rendered images that must be decoded, even when its consumer is a language model. We introduce LatentPress, which writes conversational histories and long documents into a third representation: continuous memory tokens that a frozen decoder reads directly through its input-embedding interface, with no text reconstruction at inference. A small reader-matched writer compresses $4$-$16\\times$ while training only an adapter (4.2M-26.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.01507v1",
+      "published_at": "2026-09-01T16:38:15Z",
+      "tags": [
+        "vision",
+        "paper",
+        "tool",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.01507v1",
+      "summary_type": "extractive",
+      "title_zh": "LatentPress: Context Compression Beyond Text and Vision",
+      "summary_zh": "Compressed context is usually carried as human-readable text or as rendered images that must be decoded, even when its consumer is a language model. We introduce LatentPress, which writes conversational histories and long documents into a third representation: continuous memory tokens that a frozen decoder reads directly through its input-embedding interface, with no text reconstruction at inference. A small reader-matched writer compresses $4$-$16\\times$ while training only an adapter (4.2M-26."
     },
     {
       "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
@@ -172,7 +664,7 @@
       "tags": [
         "ai"
       ],
-      "score": "95",
+      "score": "175",
       "item_id": "hn:49524320",
       "summary_type": "extractive",
       "title_zh": "Movie Scene Map – 13,312 films, series, games, anime and manga",
@@ -188,27 +680,11 @@
       "tags": [
         "ai"
       ],
-      "score": "410",
+      "score": "481",
       "item_id": "hn:49523754",
       "summary_type": "extractive",
       "title_zh": "Play Store blocks AuroraStore, hurting GrapheneOS users",
       "summary_zh": "Play Store blocks AuroraStore, hurting GrapheneOS users"
-    },
-    {
-      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "summary": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-      "published_at": "2026-09-01T15:53:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "168",
-      "item_id": "hn:49523720",
-      "summary_type": "extractive",
-      "title_zh": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "summary_zh": "Dwarf Fortress' creator says the industry's in shambles over AI"
     },
     {
       "title": "Ambient CSS v3 – Blender meets CSS",
@@ -220,27 +696,11 @@
       "tags": [
         "ai"
       ],
-      "score": "149",
+      "score": "217",
       "item_id": "hn:49523387",
       "summary_type": "extractive",
       "title_zh": "Ambient CSS v3 – Blender meets CSS",
       "summary_zh": "Ambient CSS v3 – Blender meets CSS"
-    },
-    {
-      "title": "A browser-based viewer for Office Open XML documents",
-      "summary": "A browser-based viewer for Office Open XML documents",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ooxml.silurus.dev/",
-      "published_at": "2026-09-01T15:33:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "46",
-      "item_id": "hn:49523361",
-      "summary_type": "extractive",
-      "title_zh": "A browser-based viewer for Office Open XML documents",
-      "summary_zh": "A browser-based viewer for Office Open XML documents"
     },
     {
       "title": "Ask HN: Who is hiring? (September 2026)",
@@ -252,7 +712,7 @@
       "tags": [
         "ai"
       ],
-      "score": "155",
+      "score": "200",
       "item_id": "hn:49522897",
       "summary_type": "extractive",
       "title_zh": "Ask HN: Who is hiring? (September 2026)",
@@ -268,7 +728,7 @@
       "tags": [
         "ai"
       ],
-      "score": "46",
+      "score": "83",
       "item_id": "hn:49522896",
       "summary_type": "extractive",
       "title_zh": "Ask HN: Who wants to be hired? (September 2026)",
@@ -284,27 +744,11 @@
       "tags": [
         "ai"
       ],
-      "score": "210",
+      "score": "353",
       "item_id": "hn:49521973",
       "summary_type": "extractive",
       "title_zh": "Introducing Ad Blocker for Firefox on iOS",
       "summary_zh": "Introducing Ad Blocker for Firefox on iOS"
-    },
-    {
-      "title": "Io_uring Without Readahead",
-      "summary": "Io_uring Without Readahead",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://frn.sh/io-uring/",
-      "published_at": "2026-09-01T13:19:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "97",
-      "item_id": "hn:49521623",
-      "summary_type": "extractive",
-      "title_zh": "Io_uring Without Readahead",
-      "summary_zh": "Io_uring Without Readahead"
     },
     {
       "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
@@ -316,474 +760,43 @@
       "tags": [
         "ai"
       ],
-      "score": "758",
+      "score": "851",
       "item_id": "hn:49520022",
       "summary_type": "extractive",
       "title_zh": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
       "summary_zh": "AnkiDroid: Google Play no longer allowing Open Collective donation link"
     },
     {
-      "title": "Restroom Archive",
-      "summary": "Restroom Archive",
+      "title": "Solving the Flat Cube",
+      "summary": "Solving the Flat Cube",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://restroomarchive.com",
-      "published_at": "2026-09-01T03:23:48+00:00",
+      "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
+      "published_at": "2026-08-31T12:02:01+00:00",
       "tags": [
         "ai"
       ],
-      "score": "353",
-      "item_id": "hn:49517624",
+      "score": "13",
+      "item_id": "hn:49508619",
       "summary_type": "extractive",
-      "title_zh": "Restroom Archive",
-      "summary_zh": "Restroom Archive"
+      "title_zh": "Solving the Flat Cube",
+      "summary_zh": "Solving the Flat Cube"
     },
     {
-      "title": "Fastpotify",
-      "summary": "Fastpotify",
+      "title": "Laurie Anderson’s next manuscript to be locked away for 88 years",
+      "summary": "Laurie Anderson’s next manuscript to be locked away for 88 years",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://fastpotify.rocks/",
-      "published_at": "2026-09-01T02:52:14+00:00",
+      "url": "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo",
+      "published_at": "2026-08-29T23:51:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "784",
-      "item_id": "hn:49517448",
+      "score": "19",
+      "item_id": "hn:49494344",
       "summary_type": "extractive",
-      "title_zh": "Fastpotify",
-      "summary_zh": "Fastpotify"
-    },
-    {
-      "title": "Tmp.0ut Volume 5",
-      "summary": "Tmp.0ut Volume 5",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://tmpout.sh/5/",
-      "published_at": "2026-08-31T23:26:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "185",
-      "item_id": "hn:49516059",
-      "summary_type": "extractive",
-      "title_zh": "Tmp.0ut Volume 5",
-      "summary_zh": "Tmp.0ut Volume 5"
-    },
-    {
-      "title": "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
-      "summary": "Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reactive policy, yet existing protocols discard task semantics, leaving rewards hand-crafted and behavior drifting from what control verified.We introduce Semantically UNified (SUN) Programs, typed executables where geometric and contact relations are defined once and compiled into aligned Model Predictiv",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31167v1",
-      "published_at": "2026-08-31T17:59:16Z",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31167v1",
-      "summary_type": "extractive",
-      "title_zh": "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
-      "summary_zh": "Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reactive policy, yet existing protocols discard task semantics, leaving rewards hand-crafted and behavior drifting from what control verified.We introduce Semantically UNified (SUN) Programs, typed executables where geometric and contact relations are defined once and compiled into aligned Model Predictiv"
-    },
-    {
-      "title": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
-      "summary": "The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, supply-chain risk, and capability expectations. No validated methodology exists for black-box identity verification of anonymous models: practitioner checklists lack accuracy evidence, and self-identification is untrustworthy by design.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31142v1",
-      "published_at": "2026-08-31T17:48:24Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31142v1",
-      "summary_type": "extractive",
-      "title_zh": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
-      "summary_zh": "The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, supply-chain risk, and capability expectations. No validated methodology exists for black-box identity verification of anonymous models: practitioner checklists lack accuracy evidence, and self-identification is untrustworthy by design."
-    },
-    {
-      "title": "OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques",
-      "summary": "Ontology alignment (OA) has evolved through several methodological paradigms, ranging from lexical and structural aligners to knowledge graph embedding (KGE) models and, more recently, Large Language Model (LLM)-based approaches. Although modern OA frameworks provide unified ecosystems for deploying these heterogeneous aligners, mechanisms for systematically reconciling their complementary and sometimes conflicting predictions remain relatively underexplored. We present OntoAligner-Ensemble, a m",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31137v1",
-      "published_at": "2026-08-31T17:44:25Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31137v1",
-      "summary_type": "extractive",
-      "title_zh": "OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques",
-      "summary_zh": "Ontology alignment (OA) has evolved through several methodological paradigms, ranging from lexical and structural aligners to knowledge graph embedding (KGE) models and, more recently, Large Language Model (LLM)-based approaches. Although modern OA frameworks provide unified ecosystems for deploying these heterogeneous aligners, mechanisms for systematically reconciling their complementary and sometimes conflicting predictions remain relatively underexplored. We present OntoAligner-Ensemble, a m"
-    },
-    {
-      "title": "When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning",
-      "summary": "The effect of Large Language Model (LLM) scale on ontology learning (OL) performance remains insufficiently characterized. We present a controlled evaluation of 13 models spanning dense and Mixture-of-Experts variants from the Qwen3.5 and Qwen3.6 lineages, together with proprietary GPT release variants, using the OntoLearner retrieval-augmented generation pipeline. All models are evaluated with the same embedding model, retrieval configuration, prompt templates, decoding settings, datasets, and ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31118v1",
-      "published_at": "2026-08-31T17:30:05Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31118v1",
-      "summary_type": "extractive",
-      "title_zh": "When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning",
-      "summary_zh": "The effect of Large Language Model (LLM) scale on ontology learning (OL) performance remains insufficiently characterized. We present a controlled evaluation of 13 models spanning dense and Mixture-of-Experts variants from the Qwen3.5 and Qwen3.6 lineages, together with proprietary GPT release variants, using the OntoLearner retrieval-augmented generation pipeline. All models are evaluated with the same embedding model, retrieval configuration, prompt templates, decoding settings, datasets, and "
-    },
-    {
-      "title": "BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing",
-      "summary": "Users of a deployed language model routinely encounter behaviours that testing almost never surfaces, since deployment puts the model through orders of magnitude more interactions than any evaluation can simulate. Automated auditors make testing cheap to scale and flexible enough to cover almost any specified behaviour, yet their lack of optimisation pressure makes them sample-inefficient. To address this shortcoming, we introduce BLOOM-WILT, a full auditing pipeline that elicits natural multi-t",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31105v1",
-      "published_at": "2026-08-31T17:10:59Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31105v1",
-      "summary_type": "extractive",
-      "title_zh": "BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing",
-      "summary_zh": "Users of a deployed language model routinely encounter behaviours that testing almost never surfaces, since deployment puts the model through orders of magnitude more interactions than any evaluation can simulate. Automated auditors make testing cheap to scale and flexible enough to cover almost any specified behaviour, yet their lack of optimisation pressure makes them sample-inefficient. To address this shortcoming, we introduce BLOOM-WILT, a full auditing pipeline that elicits natural multi-t"
-    },
-    {
-      "title": "LLM Post-Training as Brownfield Maintenance: An Industrial Perspective on Dataware Engineering",
-      "summary": "Industrial post-training is a brownfield regime. Teams inherit a deployed checkpoint and must land targeted improvements under fixed compute and mixture budgets without regressing the rest. The maintained artifact is increasingly dataware: behavior governed by a curated post-training mixture, updated via bounded mixture patches rather than clean-slate retraining.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31102v1",
-      "published_at": "2026-08-31T17:08:41Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31102v1",
-      "summary_type": "extractive",
-      "title_zh": "LLM Post-Training as Brownfield Maintenance: An Industrial Perspective on Dataware Engineering",
-      "summary_zh": "Industrial post-training is a brownfield regime. Teams inherit a deployed checkpoint and must land targeted improvements under fixed compute and mixture budgets without regressing the rest. The maintained artifact is increasingly dataware: behavior governed by a curated post-training mixture, updated via bounded mixture patches rather than clean-slate retraining."
-    },
-    {
-      "title": "Cross-Regional Grapevine Cold Hardiness Prediction via Learned Multimodal Latent Representations",
-      "summary": "Accurate daily predictions of cold hardiness in woody plants are critical in regions where freezing temperatures can damage dormant buds and reduce seasonal yield. Existing biophysical, hybrid, and deep learning models have shown high predictive accuracy when trained on local data but remain largely site-specific. The limited availability of cold hardiness data, coupled with the lack of principled methods for transferring cold hardiness predictions to new regions and cultivars, has limited the b",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31097v1",
-      "published_at": "2026-08-31T17:04:14Z",
-      "tags": [
-        "paper",
-        "ai"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31097v1",
-      "summary_type": "extractive",
-      "title_zh": "Cross-Regional Grapevine Cold Hardiness Prediction via Learned Multimodal Latent Representations",
-      "summary_zh": "Accurate daily predictions of cold hardiness in woody plants are critical in regions where freezing temperatures can damage dormant buds and reduce seasonal yield. Existing biophysical, hybrid, and deep learning models have shown high predictive accuracy when trained on local data but remain largely site-specific. The limited availability of cold hardiness data, coupled with the lack of principled methods for transferring cold hardiness predictions to new regions and cultivars, has limited the b"
-    },
-    {
-      "title": "Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data",
-      "summary": "Valuable data remains embedded in unstructured sources: web pages, reports, contracts, filings, earnings calls, and PDFs. The big bet in enterprise AI is deploying LLM agents that reason over this data to answer complex questions for every knowledge worker. Agents can do this today, but at prohibitive cost.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31082v1",
-      "published_at": "2026-08-31T16:53:45Z",
-      "tags": [
-        "llm",
-        "agent",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31082v1",
-      "summary_type": "extractive",
-      "title_zh": "Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data",
-      "summary_zh": "Valuable data remains embedded in unstructured sources: web pages, reports, contracts, filings, earnings calls, and PDFs. The big bet in enterprise AI is deploying LLM agents that reason over this data to answer complex questions for every knowledge worker. Agents can do this today, but at prohibitive cost."
-    },
-    {
-      "title": "Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization",
-      "summary": "Outcome-based reinforcement learning provides verified feedback for language-model agents, but assigns trajectory-level advantage uniformly to all decisions, yielding coarse credit over long-horizon interactions. On-policy self-distillation offers finer supervision by re-evaluating sampled behavior with privileged information (PI) available only during training. However, fine-grained supervision is not necessarily fine-grained credit: PI-induced likelihood changes describe how additional informa",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31077v1",
-      "published_at": "2026-08-31T16:51:50Z",
-      "tags": [
-        "paper",
-        "agent",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31077v1",
-      "summary_type": "extractive",
-      "title_zh": "Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization",
-      "summary_zh": "Outcome-based reinforcement learning provides verified feedback for language-model agents, but assigns trajectory-level advantage uniformly to all decisions, yielding coarse credit over long-horizon interactions. On-policy self-distillation offers finer supervision by re-evaluating sampled behavior with privileged information (PI) available only during training. However, fine-grained supervision is not necessarily fine-grained credit: PI-induced likelihood changes describe how additional informa"
-    },
-    {
-      "title": "Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents",
-      "summary": "Autonomous scientific research agents are increasingly applied to end-to-end scientific workflows, including literature review, data analysis, experimentation, and report generation. However, open-ended research tasks often do not clearly specify the analyses, methods, and success criteria required to complete the task. As a result, agents may miss important analyses, use inappropriate methods, or draw conclusions that are insufficiently supported by evidence.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31076v1",
-      "published_at": "2026-08-31T16:48:51Z",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31076v1",
-      "summary_type": "extractive",
-      "title_zh": "Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents",
-      "summary_zh": "Autonomous scientific research agents are increasingly applied to end-to-end scientific workflows, including literature review, data analysis, experimentation, and report generation. However, open-ended research tasks often do not clearly specify the analyses, methods, and success criteria required to complete the task. As a result, agents may miss important analyses, use inappropriate methods, or draw conclusions that are insufficiently supported by evidence."
-    },
-    {
-      "title": "Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence",
-      "summary": "Recent advances in large reasoning models (LRMs) have shown that reinforcement learning with verifiable rewards (RLVR) can substantially improve reasoning in mathematics and code, where outcomes can be checked automatically. Extending this progress to open-ended and agentic tasks remains difficult because reliable rewards are harder to obtain and direct human supervision cannot keep pace with the scale and complexity of model-generated experience. This paper studies how LRMs can continue to impr",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31075v1",
-      "published_at": "2026-08-31T16:48:48Z",
-      "tags": [
-        "paper",
-        "agent",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31075v1",
-      "summary_type": "extractive",
-      "title_zh": "Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence",
-      "summary_zh": "Recent advances in large reasoning models (LRMs) have shown that reinforcement learning with verifiable rewards (RLVR) can substantially improve reasoning in mathematics and code, where outcomes can be checked automatically. Extending this progress to open-ended and agentic tasks remains difficult because reliable rewards are harder to obtain and direct human supervision cannot keep pace with the scale and complexity of model-generated experience. This paper studies how LRMs can continue to impr"
-    },
-    {
-      "title": "Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring",
-      "summary": "We propose a lightweight two-stage framework for real-time video anomaly detection. The first stage employs YOLO v11n-pose to detect persons and extract seventeen skeletal keypoints in a single forward pass. The second stage encodes each cropped person region through CLIP ViT-B/32 and computes cosine similarity against predefined textual descriptions of anomalous behaviors.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31074v1",
-      "published_at": "2026-08-31T16:47:29Z",
-      "tags": [
-        "paper",
-        "tool",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31074v1",
-      "summary_type": "extractive",
-      "title_zh": "Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring",
-      "summary_zh": "We propose a lightweight two-stage framework for real-time video anomaly detection. The first stage employs YOLO v11n-pose to detect persons and extract seventeen skeletal keypoints in a single forward pass. The second stage encodes each cropped person region through CLIP ViT-B/32 and computes cosine similarity against predefined textual descriptions of anomalous behaviors."
-    },
-    {
-      "title": "Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores",
-      "summary": "When a large language model fails a reasoning task, it is often assumed to lack the underlying capability. However, this conflates a genuine absence of reasoning with a late-stage output bottleneck. We observe a consistent readout gap across diverse reasoning benchmarks: hidden-state probes successfully decode correct answers even when native sequence scoring completely collapses due to structural biases.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31068v1",
-      "published_at": "2026-08-31T16:43:55Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31068v1",
-      "summary_type": "extractive",
-      "title_zh": "Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores",
-      "summary_zh": "When a large language model fails a reasoning task, it is often assumed to lack the underlying capability. However, this conflates a genuine absence of reasoning with a late-stage output bottleneck. We observe a consistent readout gap across diverse reasoning benchmarks: hidden-state probes successfully decode correct answers even when native sequence scoring completely collapses due to structural biases."
-    },
-    {
-      "title": "Measure Before You Manage: Evaluating Agent Working Memory in Coding Agents",
-      "summary": "Agent working memory is heterogeneous. Objects such as instructions, artifacts, tool outputs, and agent-generated state play different semantic roles and exhibit different size, retention, and representation profiles. Recent work has begun to explore memory-management mechanisms that account for such heterogeneity.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31057v1",
-      "published_at": "2026-08-31T16:34:51Z",
-      "tags": [
-        "paper",
-        "tool",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31057v1",
-      "summary_type": "extractive",
-      "title_zh": "Measure Before You Manage: Evaluating Agent Working Memory in Coding Agents",
-      "summary_zh": "Agent working memory is heterogeneous. Objects such as instructions, artifacts, tool outputs, and agent-generated state play different semantic roles and exhibit different size, retention, and representation profiles. Recent work has begun to explore memory-management mechanisms that account for such heterogeneity."
-    },
-    {
-      "title": "MNIST-PRO: MNIST is Back as a Partially Observable World for AI Agents",
-      "summary": "AI agents in partially observable environments need to coordinate active sensing with working memory to maintain an evolving perceptual state. However, existing benchmarks struggle to isolate this perceptual-state construction and interpretation capability because they introduce physical and control complexities. We address this with MNIST-PRO, a benchmark that isolates agentic perception by converting MNIST digit recognition into a sequential, glimpse-based search task with lookback constraints",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31022v1",
-      "published_at": "2026-08-31T16:05:39Z",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31022v1",
-      "summary_type": "extractive",
-      "title_zh": "MNIST-PRO: MNIST is Back as a Partially Observable World for AI Agents",
-      "summary_zh": "AI agents in partially observable environments need to coordinate active sensing with working memory to maintain an evolving perceptual state. However, existing benchmarks struggle to isolate this perceptual-state construction and interpretation capability because they introduce physical and control complexities. We address this with MNIST-PRO, a benchmark that isolates agentic perception by converting MNIST digit recognition into a sequential, glimpse-based search task with lookback constraints"
-    },
-    {
-      "title": "One note in three: a verified census of three deployed AI scribes, and the instrument that counted it",
-      "summary": "Ambient AI scribes draft clinical notes under the reassurance that a clinician signs every note. We audited three commercial AI scribes on the same 142 consultations: 565 notes from recorded UK primary-care and US ambulatory encounters plus authored scenarios. Twelve discovery passes proposed 13,678 candidate errors; the 5,898 clearing an importance filter went to an adversarial panel of two models from different families, each told to refute what it could, and 618 survived.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31017v1",
-      "published_at": "2026-08-31T16:00:27Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31017v1",
-      "summary_type": "extractive",
-      "title_zh": "One note in three: a verified census of three deployed AI scribes, and the instrument that counted it",
-      "summary_zh": "Ambient AI scribes draft clinical notes under the reassurance that a clinician signs every note. We audited three commercial AI scribes on the same 142 consultations: 565 notes from recorded UK primary-care and US ambulatory encounters plus authored scenarios. Twelve discovery passes proposed 13,678 candidate errors; the 5,898 clearing an importance filter went to an adversarial panel of two models from different families, each told to refute what it could, and 618 survived."
-    },
-    {
-      "title": "LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes and What Recovers It",
-      "summary": "Ambient AI scribes draft clinical notes, and published audits find their dominant error is omission: information the encounter established that the note fails to record. The standard check is an LLM judge: a second model reads the note against the transcript and flags problems. We ask whether judges detect omissions.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.31016v1",
-      "published_at": "2026-08-31T15:59:54Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.31016v1",
-      "summary_type": "extractive",
-      "title_zh": "LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes and What Recovers It",
-      "summary_zh": "Ambient AI scribes draft clinical notes, and published audits find their dominant error is omission: information the encounter established that the note fails to record. The standard check is an LLM judge: a second model reads the note against the transcript and flags problems. We ask whether judges detect omissions."
-    },
-    {
-      "title": "Stick to What You Know: A Study of Knowledge-Aligned Supervised Fine-Tuning",
-      "summary": "Supervised fine-tuning (SFT) trains a base language model to imitate target responses, and these targets may require knowledge the base model has not robustly internalized. We study this as a source of hallucinations and frame a group of mitigation methods as \\emph{knowledge-aligned SFT}: constraining SFT training targets to the base model's parametric knowledge. Under a unified setup, we compare existing generation-based and estimation-based knowledge-alignment methods and introduce two new var",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.30987v1",
-      "published_at": "2026-08-31T15:43:51Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.30987v1",
-      "summary_type": "extractive",
-      "title_zh": "Stick to What You Know: A Study of Knowledge-Aligned Supervised Fine-Tuning",
-      "summary_zh": "Supervised fine-tuning (SFT) trains a base language model to imitate target responses, and these targets may require knowledge the base model has not robustly internalized. We study this as a source of hallucinations and frame a group of mitigation methods as \\emph{knowledge-aligned SFT}: constraining SFT training targets to the base model's parametric knowledge. Under a unified setup, we compare existing generation-based and estimation-based knowledge-alignment methods and introduce two new var"
-    },
-    {
-      "title": "Evaluating and Improving LLM Self-Modeling",
-      "summary": "We study self-modeling: an LLM's ability to answer questions about its own behavior. We focus on verifiable behavioral questions, such as whether a prompt edit would change the model's final answer. To measure this capability, we introduce a benchmark that tests diverse types of self-modeling questions.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.30980v1",
-      "published_at": "2026-08-31T15:37:51Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.30980v1",
-      "summary_type": "extractive",
-      "title_zh": "Evaluating and Improving LLM Self-Modeling",
-      "summary_zh": "We study self-modeling: an LLM's ability to answer questions about its own behavior. We focus on verifiable behavioral questions, such as whether a prompt edit would change the model's final answer. To measure this capability, we introduce a benchmark that tests diverse types of self-modeling questions."
-    },
-    {
-      "title": "MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI",
-      "summary": "Cardiac magnetic resonance imaging (CMR) produces rich sequential data such as temporal cine videos and spatial LGE/mapping stacks, yet most deep learning approaches process individual 2D slices, discarding this context. We present MR-JEPA, a self-supervised video foundation model for CMR that extends LeJEPA to 3D spatiotemporal inputs through tubelet tokenization, spatiotemporal masking augmentation, and initialization from a 2D CMR foundation model. Unlike prior CMR video models limited to cin",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2608.30975v1",
-      "published_at": "2026-08-31T15:36:24Z",
-      "tags": [
-        "llm",
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2608.30975v1",
-      "summary_type": "extractive",
-      "title_zh": "MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI",
-      "summary_zh": "Cardiac magnetic resonance imaging (CMR) produces rich sequential data such as temporal cine videos and spatial LGE/mapping stacks, yet most deep learning approaches process individual 2D slices, discarding this context. We present MR-JEPA, a self-supervised video foundation model for CMR that extends LeJEPA to 3D spatiotemporal inputs through tubelet tokenization, spatiotemporal masking augmentation, and initialization from a 2D CMR foundation model. Unlike prior CMR video models limited to cin"
-    },
-    {
-      "title": "We are rebuilding Monica",
-      "summary": "We are rebuilding Monica",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.monicahq.com/en/blog/we-are-rebuilding-monica/",
-      "published_at": "2026-08-31T13:37:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "89",
-      "item_id": "hn:49509655",
-      "summary_type": "extractive",
-      "title_zh": "We are rebuilding Monica",
-      "summary_zh": "We are rebuilding Monica"
-    },
-    {
-      "title": "Physically Immutable Optical Archive Libraries",
-      "summary": "Physically Immutable Optical Archive Libraries",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://savartus.com/solutions/enterprise-laser-storage/",
-      "published_at": "2026-08-30T11:27:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "28",
-      "item_id": "hn:49497741",
-      "summary_type": "extractive",
-      "title_zh": "Physically Immutable Optical Archive Libraries",
-      "summary_zh": "Physically Immutable Optical Archive Libraries"
-    },
-    {
-      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
-      "summary": "American Airlines mechanic Azriel “Al” Blackman has died",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-      "published_at": "2026-08-29T21:25:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "351",
-      "item_id": "hn:49493468",
-      "summary_type": "extractive",
-      "title_zh": "American Airlines mechanic Azriel “Al” Blackman has died",
-      "summary_zh": "American Airlines mechanic Azriel “Al” Blackman has died"
-    },
-    {
-      "title": "Dr. Melvin Scheinman: 40th Anniversary of Catheter Ablation",
-      "summary": "Dr. Melvin Scheinman: 40th Anniversary of Catheter Ablation",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ucsfhealthcardiology.ucsf.edu/facstaff/spotlight/dr-melvin-scheinman-40th-anniversary-catheter-ablation",
-      "published_at": "2026-08-29T16:52:56+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "56",
-      "item_id": "hn:49491398",
-      "summary_type": "extractive",
-      "title_zh": "Dr. Melvin Scheinman: 40th Anniversary of Catheter Ablation",
-      "summary_zh": "Dr. Melvin Scheinman: 40th Anniversary of Catheter Ablation"
+      "title_zh": "Laurie Anderson’s next manuscript to be locked away for 88 years",
+      "summary_zh": "Laurie Anderson’s next manuscript to be locked away for 88 years"
     },
     {
       "title": "Magic eye tube",
@@ -795,43 +808,43 @@
       "tags": [
         "ai"
       ],
-      "score": "40",
+      "score": "87",
       "item_id": "hn:49490498",
       "summary_type": "extractive",
       "title_zh": "Magic eye tube",
       "summary_zh": "Magic eye tube"
     },
     {
-      "title": "How bicycle coaster brakes work (2018)",
-      "summary": "How bicycle coaster brakes work (2018)",
+      "title": "Sonic Pi",
+      "summary": "Sonic Pi",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
-      "published_at": "2026-08-29T09:05:53+00:00",
+      "url": "https://sonic-pi.net/",
+      "published_at": "2026-08-28T17:51:19+00:00",
       "tags": [
         "ai"
       ],
-      "score": "22",
-      "item_id": "hn:49488224",
+      "score": "63",
+      "item_id": "hn:49482099",
       "summary_type": "extractive",
-      "title_zh": "How bicycle coaster brakes work (2018)",
-      "summary_zh": "How bicycle coaster brakes work (2018)"
+      "title_zh": "Sonic Pi",
+      "summary_zh": "Sonic Pi"
     },
     {
-      "title": "Specifications Don't Exist (2025)",
-      "summary": "Specifications Don't Exist (2025)",
+      "title": "Building an interactive instrument for a one-of-a-kind festival",
+      "summary": "Building an interactive instrument for a one-of-a-kind festival",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.galois.com/articles/specifications-dont-exist",
-      "published_at": "2026-08-26T12:40:56+00:00",
+      "url": "https://benholmen.com/blog/halfmoon-chimes/",
+      "published_at": "2026-08-28T15:21:51+00:00",
       "tags": [
         "ai"
       ],
-      "score": "15",
-      "item_id": "hn:49448019",
+      "score": "24",
+      "item_id": "hn:49479909",
       "summary_type": "extractive",
-      "title_zh": "Specifications Don't Exist (2025)",
-      "summary_zh": "Specifications Don't Exist (2025)"
+      "title_zh": "Building an interactive instrument for a one-of-a-kind festival",
+      "summary_zh": "Building an interactive instrument for a one-of-a-kind festival"
     }
   ]
 }

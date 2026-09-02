@@ -1,10 +1,58 @@
 {
-  "updated_at": "2026-09-02T04:11:48.678182+00:00",
+  "updated_at": "2026-09-02T11:06:38.718286+00:00",
   "count": 50,
   "items": [
     {
-      "title": "WebFPGA",
-      "summary": "WebFPGA",
+      "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+      "summary": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://careers.telli.com/",
+      "published_at": "2026-09-02T08:43:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "1",
+      "item_id": "hn:49533557",
+      "summary_type": "extractive",
+      "title_zh": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+      "summary_zh": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]"
+    },
+    {
+      "title": "Commodore 64 released September 1, 1982",
+      "summary": "Commodore 64 released September 1, 1982",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "published_at": "2026-09-02T08:36:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "87",
+      "item_id": "hn:49533497",
+      "summary_type": "extractive",
+      "title_zh": "Commodore 64 released September 1, 1982",
+      "summary_zh": "Commodore 64 released September 1, 1982"
+    },
+    {
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "summary": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "published_at": "2026-09-02T04:15:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "163",
+      "item_id": "hn:49531651",
+      "summary_type": "extractive",
+      "title_zh": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "summary_zh": "The Emergent Symbolic Structure of Artificial Neural Networks"
+    },
+    {
+      "title": "WebFPGA (2019)",
+      "summary": "WebFPGA (2019)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://webfpga.io/",
@@ -12,11 +60,11 @@
       "tags": [
         "ai"
       ],
-      "score": "4",
+      "score": "90",
       "item_id": "hn:49531525",
       "summary_type": "extractive",
-      "title_zh": "WebFPGA",
-      "summary_zh": "WebFPGA"
+      "title_zh": "WebFPGA (2019)",
+      "summary_zh": "WebFPGA (2019)"
     },
     {
       "title": "True Rate of Unemployment",
@@ -28,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "25",
+      "score": "242",
       "item_id": "hn:49530989",
       "summary_type": "extractive",
       "title_zh": "True Rate of Unemployment",
@@ -45,7 +93,7 @@
         "tool",
         "llm"
       ],
-      "score": "62",
+      "score": "129",
       "item_id": "hn:49529898",
       "summary_type": "extractive",
       "title_zh": "The efficient frontier of LLM inference",
@@ -61,27 +109,11 @@
       "tags": [
         "ai"
       ],
-      "score": "73",
+      "score": "239",
       "item_id": "hn:49529621",
       "summary_type": "extractive",
       "title_zh": "FBI Probes Service Selling 153M+ Drivers Licenses",
       "summary_zh": "FBI Probes Service Selling 153M+ Drivers Licenses"
-    },
-    {
-      "title": "Improving our alignment and security efforts",
-      "summary": "Improving our alignment and security efforts",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "published_at": "2026-09-01T23:12:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "19",
-      "item_id": "hn:49529567",
-      "summary_type": "extractive",
-      "title_zh": "Improving our alignment and security efforts",
-      "summary_zh": "Improving our alignment and security efforts"
     },
     {
       "title": "My local model setup on an M4 Pro Mac Mini",
@@ -93,27 +125,11 @@
       "tags": [
         "ai"
       ],
-      "score": "102",
+      "score": "222",
       "item_id": "hn:49529132",
       "summary_type": "extractive",
       "title_zh": "My local model setup on an M4 Pro Mac Mini",
       "summary_zh": "My local model setup on an M4 Pro Mac Mini"
-    },
-    {
-      "title": "Fluorescent lamps (don't) have ears",
-      "summary": "Fluorescent lamps (don't) have ears",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
-      "published_at": "2026-09-01T21:19:10+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "37",
-      "item_id": "hn:49528366",
-      "summary_type": "extractive",
-      "title_zh": "Fluorescent lamps (don't) have ears",
-      "summary_zh": "Fluorescent lamps (don't) have ears"
     },
     {
       "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
@@ -125,27 +141,11 @@
       "tags": [
         "ai"
       ],
-      "score": "54",
+      "score": "94",
       "item_id": "hn:49528057",
       "summary_type": "extractive",
       "title_zh": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
       "summary_zh": "Hi!Every month the &quot;Who Wants to Be Hired?&quot; and &quot;Who&#x27;s Hiring?&quot; Threads come through I would think to myself, &quot;there should be a match maker for these two threads&quot;.So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote&#x2F;onsite, etc., and then eliminate incompatible postings, like &#x27;looking for remote work&#x27; and &#x27;onsite only&#x27;. The "
-    },
-    {
-      "title": "Hang on to Your Firefox",
-      "summary": "Hang on to Your Firefox",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
-      "published_at": "2026-09-01T20:30:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "720",
-      "item_id": "hn:49527748",
-      "summary_type": "extractive",
-      "title_zh": "Hang on to Your Firefox",
-      "summary_zh": "Hang on to Your Firefox"
     },
     {
       "title": "Path to Astra: critical capabilities and frontier safeguards",
@@ -157,7 +157,7 @@
       "tags": [
         "ai"
       ],
-      "score": "105",
+      "score": "160",
       "item_id": "hn:49527595",
       "summary_type": "extractive",
       "title_zh": "Path to Astra: critical capabilities and frontier safeguards",
@@ -173,7 +173,7 @@
       "tags": [
         "ai"
       ],
-      "score": "100",
+      "score": "130",
       "item_id": "hn:49527232",
       "summary_type": "extractive",
       "title_zh": "Refurbishing a Tektronix TDS7104 Oscilloscope",
@@ -189,7 +189,7 @@
       "tags": [
         "ai"
       ],
-      "score": "509",
+      "score": "733",
       "item_id": "hn:49526069",
       "summary_type": "extractive",
       "title_zh": "How accurate have Ed Zitron's AI skeptic predictions been?",
@@ -203,9 +203,9 @@
       "url": "http://arxiv.org/abs/2609.01603v1",
       "published_at": "2026-09-01T17:59:46Z",
       "tags": [
-        "agent",
+        "tool",
         "paper",
-        "tool"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.01603v1",
@@ -221,8 +221,8 @@
       "url": "http://arxiv.org/abs/2609.01601v1",
       "published_at": "2026-09-01T17:59:39Z",
       "tags": [
-        "paper",
         "tool",
+        "paper",
         "llm"
       ],
       "score": "📄",
@@ -239,8 +239,8 @@
       "url": "http://arxiv.org/abs/2609.01600v1",
       "published_at": "2026-09-01T17:59:13Z",
       "tags": [
-        "agent",
         "paper",
+        "agent",
         "llm"
       ],
       "score": "📄",
@@ -257,9 +257,9 @@
       "url": "http://arxiv.org/abs/2609.01597v1",
       "published_at": "2026-09-01T17:58:18Z",
       "tags": [
-        "agent",
-        "vision",
         "paper",
+        "vision",
+        "agent",
         "llm"
       ],
       "score": "📄",
@@ -276,9 +276,9 @@
       "url": "http://arxiv.org/abs/2609.01595v1",
       "published_at": "2026-09-01T17:57:50Z",
       "tags": [
-        "agent",
+        "tool",
         "paper",
-        "tool"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.01595v1",
@@ -294,10 +294,10 @@
       "url": "http://arxiv.org/abs/2609.01588v1",
       "published_at": "2026-09-01T17:54:32Z",
       "tags": [
-        "agent",
+        "tool",
         "vision",
-        "paper",
-        "tool"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.01588v1",
@@ -315,7 +315,7 @@
       "tags": [
         "ai"
       ],
-      "score": "204",
+      "score": "243",
       "item_id": "hn:49525297",
       "summary_type": "extractive",
       "title_zh": "The creator of Jujutsu has joined ERSC",
@@ -329,8 +329,8 @@
       "url": "http://arxiv.org/abs/2609.01573v1",
       "published_at": "2026-09-01T17:39:55Z",
       "tags": [
-        "paper",
         "tool",
+        "paper",
         "llm"
       ],
       "score": "📄",
@@ -349,7 +349,7 @@
       "tags": [
         "ai"
       ],
-      "score": "174",
+      "score": "229",
       "item_id": "hn:49525160",
       "summary_type": "extractive",
       "title_zh": "Atlas: A World Model for Spatial Intelligence",
@@ -365,7 +365,7 @@
       "tags": [
         "ai"
       ],
-      "score": "124",
+      "score": "174",
       "item_id": "hn:49525153",
       "summary_type": "extractive",
       "title_zh": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
@@ -379,11 +379,11 @@
       "url": "http://arxiv.org/abs/2609.01567v1",
       "published_at": "2026-09-01T17:33:41Z",
       "tags": [
-        "tool",
-        "llm",
-        "agent",
         "vision",
-        "paper"
+        "agent",
+        "paper",
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.01567v1",
@@ -399,8 +399,8 @@
       "url": "http://arxiv.org/abs/2609.01564v1",
       "published_at": "2026-09-01T17:31:02Z",
       "tags": [
-        "paper",
         "tool",
+        "paper",
         "llm"
       ],
       "score": "📄",
@@ -417,9 +417,9 @@
       "url": "http://arxiv.org/abs/2609.01560v1",
       "published_at": "2026-09-01T17:21:40Z",
       "tags": [
+        "tool",
         "vision",
-        "paper",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.01560v1",
@@ -435,9 +435,9 @@
       "url": "http://arxiv.org/abs/2609.01556v1",
       "published_at": "2026-09-01T17:19:57Z",
       "tags": [
-        "agent",
+        "tool",
         "paper",
-        "tool"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.01556v1",
@@ -453,8 +453,8 @@
       "url": "http://arxiv.org/abs/2609.01554v1",
       "published_at": "2026-09-01T17:19:34Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.01554v1",
@@ -487,8 +487,8 @@
       "url": "http://arxiv.org/abs/2609.01550v1",
       "published_at": "2026-09-01T17:16:21Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.01550v1",
@@ -506,7 +506,7 @@
       "tags": [
         "ai"
       ],
-      "score": "6",
+      "score": "146",
       "item_id": "hn:49524863",
       "summary_type": "extractive",
       "title_zh": "Fine, I'll build my own text editor",
@@ -520,9 +520,9 @@
       "url": "http://arxiv.org/abs/2609.01535v1",
       "published_at": "2026-09-01T17:04:47Z",
       "tags": [
+        "tool",
         "vision",
         "paper",
-        "tool",
         "llm"
       ],
       "score": "📄",
@@ -532,22 +532,6 @@
       "summary_zh": "This paper explores whether large language models (LLMs) can design video coding tools, a highly challenging task due to the intricate algorithmic coupling of tool modifications. In particular, we present an empirical case study on the Planar mode, a long-standing intra prediction tool in video coding standards. Our experiments operate within a generation-and-evaluation loop, with the LLM generating new Planar predictors, encoder trials evaluating their coding performance, and the LLM re-generat"
     },
     {
-      "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
-      "summary": "Quill | Fullstack SWE | Full-time | Remote, PT&#x2F;ET hours preferred | $150 - 210K USD + equity | https:&#x2F;&#x2F;quill.co&#x2F;I’m a co-founder of Quill, a fullstack SDK for adding customer-facing analytics &amp; data features to your app. Backed by YCombinator &amp; top-tier SV-based investors (fundraising not publicly disclosed; happy to share any details when we chat).Some examples of how customers get value from Quill:\n• pre-IPO fintech adds custom reporting &amp; data export features t",
-      "full_text": "Quill | Fullstack SWE | Full-time | Remote, PT&#x2F;ET hours preferred | $150 - 210K USD + equity | https:&#x2F;&#x2F;quill.co&#x2F;I’m a co-founder of Quill, a fullstack SDK for adding customer-facing analytics &amp; data features to your app. Backed by YCombinator &amp; top-tier SV-based investors (fundraising not publicly disclosed; happy to share any details when we chat).Some examples of how customers get value from Quill:\n• pre-IPO fintech adds custom reporting &amp; data export features t",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=49524704",
-      "published_at": "2026-09-01T17:00:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:49524704",
-      "summary_type": "extractive",
-      "title_zh": "Quill (YC W20) Is Hiring a Fullstack SWE",
-      "summary_zh": "Quill | Fullstack SWE | Full-time | Remote, PT&#x2F;ET hours preferred | $150 - 210K USD + equity | https:&#x2F;&#x2F;quill.co&#x2F;I’m a co-founder of Quill, a fullstack SDK for adding customer-facing analytics &amp; data features to your app. Backed by YCombinator &amp; top-tier SV-based investors (fundraising not publicly disclosed; happy to share any details when we chat).Some examples of how customers get value from Quill:\n• pre-IPO fintech adds custom reporting &amp; data export features t"
-    },
-    {
       "title": "EvoSCM: Scientific Belief Revision Through Causal Model Evolution and Experimentation",
       "summary": "Scientific agents must learn not only how to reason, but also what to believe. However, existing LLM agents typically express scientific hypotheses in free-form text, leaving their beliefs implicit and difficult to test or revise. We introduce EvoSCM, which equips scientific agents with explicit structural causal models that evolve as new experimental evidence is collected.",
       "full_text": "",
@@ -555,9 +539,9 @@
       "url": "http://arxiv.org/abs/2609.01526v1",
       "published_at": "2026-09-01T16:55:56Z",
       "tags": [
-        "agent",
-        "vision",
         "paper",
+        "vision",
+        "agent",
         "llm"
       ],
       "score": "📄",
@@ -591,8 +575,8 @@
       "url": "http://arxiv.org/abs/2609.01519v1",
       "published_at": "2026-09-01T16:48:13Z",
       "tags": [
-        "agent",
         "paper",
+        "agent",
         "llm"
       ],
       "score": "📄",
@@ -609,8 +593,8 @@
       "url": "http://arxiv.org/abs/2609.01515v1",
       "published_at": "2026-09-01T16:45:02Z",
       "tags": [
-        "vision",
         "paper",
+        "vision",
         "llm"
       ],
       "score": "📄",
@@ -629,7 +613,7 @@
       "tags": [
         "ai"
       ],
-      "score": "171",
+      "score": "216",
       "item_id": "hn:49524447",
       "summary_type": "extractive",
       "title_zh": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
@@ -643,9 +627,9 @@
       "url": "http://arxiv.org/abs/2609.01507v1",
       "published_at": "2026-09-01T16:38:15Z",
       "tags": [
+        "tool",
         "vision",
         "paper",
-        "tool",
         "llm"
       ],
       "score": "📄",
@@ -664,7 +648,7 @@
       "tags": [
         "ai"
       ],
-      "score": "175",
+      "score": "265",
       "item_id": "hn:49524320",
       "summary_type": "extractive",
       "title_zh": "Movie Scene Map – 13,312 films, series, games, anime and manga",
@@ -680,7 +664,7 @@
       "tags": [
         "ai"
       ],
-      "score": "481",
+      "score": "530",
       "item_id": "hn:49523754",
       "summary_type": "extractive",
       "title_zh": "Play Store blocks AuroraStore, hurting GrapheneOS users",
@@ -696,7 +680,7 @@
       "tags": [
         "ai"
       ],
-      "score": "217",
+      "score": "279",
       "item_id": "hn:49523387",
       "summary_type": "extractive",
       "title_zh": "Ambient CSS v3 – Blender meets CSS",
@@ -712,27 +696,11 @@
       "tags": [
         "ai"
       ],
-      "score": "200",
+      "score": "221",
       "item_id": "hn:49522897",
       "summary_type": "extractive",
       "title_zh": "Ask HN: Who is hiring? (September 2026)",
       "summary_zh": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.Please only post if you are actively filling a position and are committed\nto replying to applicants.Commenters: please don&#x27;t reply to job posts to"
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (September 2026)",
-      "summary": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.Searchers: try https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-wants-to-be-hired, https:&#x2F;&#x2F;www.wantstobehired.com.",
-      "full_text": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.Searchers: try https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-wants-to-be-hired, https:&#x2F;&#x2F;www.wantstobehired.com.",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=49522896",
-      "published_at": "2026-09-01T15:01:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "83",
-      "item_id": "hn:49522896",
-      "summary_type": "extractive",
-      "title_zh": "Ask HN: Who wants to be hired? (September 2026)",
-      "summary_zh": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.Searchers: try https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-wants-to-be-hired, https:&#x2F;&#x2F;www.wantstobehired.com."
     },
     {
       "title": "Introducing Ad Blocker for Firefox on iOS",
@@ -744,7 +712,7 @@
       "tags": [
         "ai"
       ],
-      "score": "353",
+      "score": "497",
       "item_id": "hn:49521973",
       "summary_type": "extractive",
       "title_zh": "Introducing Ad Blocker for Firefox on iOS",
@@ -760,59 +728,91 @@
       "tags": [
         "ai"
       ],
-      "score": "851",
+      "score": "887",
       "item_id": "hn:49520022",
       "summary_type": "extractive",
       "title_zh": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
       "summary_zh": "AnkiDroid: Google Play no longer allowing Open Collective donation link"
     },
     {
-      "title": "Solving the Flat Cube",
-      "summary": "Solving the Flat Cube",
+      "title": "A Genealogy of Freudenthal's Lincos",
+      "summary": "A Genealogy of Freudenthal's Lincos",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
-      "published_at": "2026-08-31T12:02:01+00:00",
+      "url": "https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/",
+      "published_at": "2026-08-31T23:43:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "10",
+      "item_id": "hn:49516184",
+      "summary_type": "extractive",
+      "title_zh": "A Genealogy of Freudenthal's Lincos",
+      "summary_zh": "A Genealogy of Freudenthal's Lincos"
+    },
+    {
+      "title": "Top Web Design Styles of 1993",
+      "summary": "Top Web Design Styles of 1993",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://contemporary-home-computing.org/prof-dr-style/",
+      "published_at": "2026-08-31T23:35:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "51",
+      "item_id": "hn:49516117",
+      "summary_type": "extractive",
+      "title_zh": "Top Web Design Styles of 1993",
+      "summary_zh": "Top Web Design Styles of 1993"
+    },
+    {
+      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+      "summary": "You Know Who Hates AI? Insurance Claims Adjusters",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "published_at": "2026-08-31T11:01:19+00:00",
       "tags": [
         "ai"
       ],
       "score": "13",
-      "item_id": "hn:49508619",
+      "item_id": "hn:49508225",
       "summary_type": "extractive",
-      "title_zh": "Solving the Flat Cube",
-      "summary_zh": "Solving the Flat Cube"
+      "title_zh": "You Know Who Hates AI? Insurance Claims Adjusters",
+      "summary_zh": "You Know Who Hates AI? Insurance Claims Adjusters"
     },
     {
-      "title": "Laurie Anderson’s next manuscript to be locked away for 88 years",
-      "summary": "Laurie Anderson’s next manuscript to be locked away for 88 years",
+      "title": "Open Battery Information",
+      "summary": "Open Battery Information",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.theguardian.com/books/2026/aug/29/laurie-anderson-manuscript-88-years-future-library-oslo",
-      "published_at": "2026-08-29T23:51:08+00:00",
+      "url": "https://github.com/mnh-jansson/open-battery-information",
+      "published_at": "2026-08-29T23:27:41+00:00",
       "tags": [
         "ai"
       ],
-      "score": "19",
-      "item_id": "hn:49494344",
+      "score": "11",
+      "item_id": "hn:49494236",
       "summary_type": "extractive",
-      "title_zh": "Laurie Anderson’s next manuscript to be locked away for 88 years",
-      "summary_zh": "Laurie Anderson’s next manuscript to be locked away for 88 years"
+      "title_zh": "Open Battery Information",
+      "summary_zh": "Open Battery Information"
     },
     {
-      "title": "Magic eye tube",
-      "summary": "Magic eye tube",
+      "title": "How bicycle coaster brakes work (2018)",
+      "summary": "How bicycle coaster brakes work (2018)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://en.wikipedia.org/wiki/Magic_eye_tube",
-      "published_at": "2026-08-29T15:03:41+00:00",
+      "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
+      "published_at": "2026-08-29T09:05:53+00:00",
       "tags": [
         "ai"
       ],
-      "score": "87",
-      "item_id": "hn:49490498",
+      "score": "70",
+      "item_id": "hn:49488224",
       "summary_type": "extractive",
-      "title_zh": "Magic eye tube",
-      "summary_zh": "Magic eye tube"
+      "title_zh": "How bicycle coaster brakes work (2018)",
+      "summary_zh": "How bicycle coaster brakes work (2018)"
     },
     {
       "title": "Sonic Pi",
@@ -824,7 +824,7 @@
       "tags": [
         "ai"
       ],
-      "score": "63",
+      "score": "178",
       "item_id": "hn:49482099",
       "summary_type": "extractive",
       "title_zh": "Sonic Pi",
@@ -840,7 +840,7 @@
       "tags": [
         "ai"
       ],
-      "score": "24",
+      "score": "56",
       "item_id": "hn:49479909",
       "summary_type": "extractive",
       "title_zh": "Building an interactive instrument for a one-of-a-kind festival",

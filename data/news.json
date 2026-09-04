@@ -1,70 +1,199 @@
 {
-  "updated_at": "2026-09-04T16:13:00.487744+00:00",
+  "updated_at": "2026-09-04T20:40:40.129079+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Corporate America Is Getting Hooked on Open-Source A.I",
-      "summary": "Corporate America Is Getting Hooked on Open-Source A.I",
+      "title": "An open DNS recursive service for free security and high privacy",
+      "summary": "An open DNS recursive service for free security and high privacy",
       "full_text": "",
+      "source": "hacker news",
+      "url": "https://quad9.net/",
+      "published_at": "2026-09-04T20:13:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "9",
+      "item_id": "hn:49569663",
+      "summary_type": "extractive",
+      "title_zh": "An open DNS recursive service for free security and high privacy",
+      "summary_zh": "An open DNS recursive service for free security and high privacy"
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "summary": "Can AI design circuit boards yet?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "published_at": "2026-09-04T19:48:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "34",
+      "item_id": "hn:49569366",
+      "summary_type": "extractive",
+      "title_zh": "Can AI design circuit boards yet?",
+      "summary_zh": "Can AI design circuit boards yet?"
+    },
+    {
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "summary": "Government Rails Site Hit Hours After CVE Patch",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+      "published_at": "2026-09-04T19:06:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "35",
+      "item_id": "hn:49568828",
+      "summary_type": "extractive",
+      "title_zh": "Government Rails Site Hit Hours After CVE Patch",
+      "summary_zh": "Government Rails Site Hit Hours After CVE Patch"
+    },
+    {
+      "title": "Fermat's Last Theorem in Lean 4",
+      "summary": "Fermat's Last Theorem in Lean 4",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "published_at": "2026-09-04T18:57:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "9",
+      "item_id": "hn:49568697",
+      "summary_type": "extractive",
+      "title_zh": "Fermat's Last Theorem in Lean 4",
+      "summary_zh": "Fermat's Last Theorem in Lean 4"
+    },
+    {
+      "title": "Shutting down our public encrypted DNS",
+      "summary": "Shutting down our public encrypted DNS",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "published_at": "2026-09-04T18:50:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "119",
+      "item_id": "hn:49568579",
+      "summary_type": "extractive",
+      "title_zh": "Shutting down our public encrypted DNS",
+      "summary_zh": "Shutting down our public encrypted DNS"
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "summary": "https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h...",
+      "full_text": "https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h...",
+      "source": "hacker news",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "published_at": "2026-09-04T18:42:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "241",
+      "item_id": "hn:49568506",
+      "summary_type": "extractive",
+      "title_zh": "Formalizing Fermat's Last Theorem",
+      "summary_zh": "https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h..."
+    },
+    {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "summary": "Hey all, i just launched my Eink Bike computer project and think it is cool.Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout&#x2F;biking) implementation for ESP32 by messing around with undocumented registers: https:&#x2F;&#x2F;github.com&#x2F;RaemondBW&#x2F;esp32-ant",
+      "full_text": "Hey all, i just launched my Eink Bike computer project and think it is cool.Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout&#x2F;biking) implementation for ESP32 by messing around with undocumented registers: https:&#x2F;&#x2F;github.com&#x2F;RaemondBW&#x2F;esp32-ant",
+      "source": "hacker news",
+      "url": "https://opentrailpaper.com",
+      "published_at": "2026-09-04T17:18:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "152",
+      "item_id": "hn:49567437",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Open-Source eInk Bike Computer",
+      "summary_zh": "Hey all, i just launched my Eink Bike computer project and think it is cool.Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout&#x2F;biking) implementation for ESP32 by messing around with undocumented registers: https:&#x2F;&#x2F;github.com&#x2F;RaemondBW&#x2F;esp32-ant"
+    },
+    {
+      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+      "summary": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://twitter.com/ggerganov/status/2095897173376618881",
+      "published_at": "2026-09-04T17:12:22+00:00",
+      "tags": [
+        "llm",
+        "vision"
+      ],
+      "score": "59",
+      "item_id": "hn:49567357",
+      "summary_type": "extractive",
+      "title_zh": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+      "summary_zh": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace"
+    },
+    {
+      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+      "summary": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+      "published_at": "2026-09-04T16:46:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "200",
+      "item_id": "hn:49567053",
+      "summary_type": "extractive",
+      "title_zh": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+      "summary_zh": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive"
+    },
+    {
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "summary": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "published_at": "2026-09-04T16:24:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "44",
+      "item_id": "hn:49566788",
+      "summary_type": "extractive",
+      "title_zh": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "summary_zh": "Project HydraFusion: Frontier quality via multi-model orchestration"
+    },
+    {
+      "title": "deSEC – Free Secure DNS",
+      "summary": "deSEC – Free Secure DNS",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://desec.io/",
+      "published_at": "2026-09-04T15:38:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "75",
+      "item_id": "hn:49566193",
+      "summary_type": "extractive",
+      "title_zh": "deSEC – Free Secure DNS",
+      "summary_zh": "deSEC – Free Secure DNS"
+    },
+    {
+      "title": "Corporate America is getting hooked on open-source AI",
+      "summary": "https:&#x2F;&#x2F;archive.is&#x2F;kmOqm",
+      "full_text": "https:&#x2F;&#x2F;archive.is&#x2F;kmOqm",
       "source": "hacker news",
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "published_at": "2026-09-04T15:33:45+00:00",
       "tags": [
         "ai"
       ],
-      "score": "25",
+      "score": "213",
       "item_id": "hn:49566137",
       "summary_type": "extractive",
-      "title_zh": "Corporate America Is Getting Hooked on Open-Source A.I",
-      "summary_zh": "Corporate America Is Getting Hooked on Open-Source A.I"
-    },
-    {
-      "title": "GMails custom domain \"send as\" discontinues January 2027",
-      "summary": "GMails custom domain \"send as\" discontinues January 2027",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://support.google.com/mail/answer/22370?hl=en",
-      "published_at": "2026-09-04T15:03:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "79",
-      "item_id": "hn:49565693",
-      "summary_type": "extractive",
-      "title_zh": "GMails custom domain \"send as\" discontinues January 2027",
-      "summary_zh": "GMails custom domain \"send as\" discontinues January 2027"
-    },
-    {
-      "title": "Higher social class predicts increased unethical behavior",
-      "summary": "Higher social class predicts increased unethical behavior",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.pnas.org/doi/10.1073/pnas.1118373109",
-      "published_at": "2026-09-04T14:02:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "17",
-      "item_id": "hn:49564817",
-      "summary_type": "extractive",
-      "title_zh": "Higher social class predicts increased unethical behavior",
-      "summary_zh": "Higher social class predicts increased unethical behavior"
-    },
-    {
-      "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
-      "summary": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
-      "published_at": "2026-09-04T13:54:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "72",
-      "item_id": "hn:49564714",
-      "summary_type": "extractive",
-      "title_zh": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
-      "summary_zh": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal"
+      "title_zh": "Corporate America is getting hooked on open-source AI",
+      "summary_zh": "https:&#x2F;&#x2F;archive.is&#x2F;kmOqm"
     },
     {
       "title": "US Military disables ad trackers on troops' phones",
@@ -76,7 +205,7 @@
       "tags": [
         "ai"
       ],
-      "score": "49",
+      "score": "151",
       "item_id": "hn:49564555",
       "summary_type": "extractive",
       "title_zh": "US Military disables ad trackers on troops' phones",
@@ -92,15 +221,31 @@
       "tags": [
         "ai"
       ],
-      "score": "103",
+      "score": "184",
       "item_id": "hn:49563851",
       "summary_type": "extractive",
       "title_zh": "IBM Bob",
       "summary_zh": "IBM Bob"
     },
     {
-      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
-      "summary": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
+      "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+      "summary": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/hawshemi/lg-c5-webos25-region-change",
+      "published_at": "2026-09-04T12:49:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "52",
+      "item_id": "hn:49563839",
+      "summary_type": "extractive",
+      "title_zh": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+      "summary_zh": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region"
+    },
+    {
+      "title": "How Fairphone built the Fairphone Gen 6+",
+      "summary": "How Fairphone built the Fairphone Gen 6+",
       "full_text": "",
       "source": "hacker news",
       "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
@@ -108,15 +253,15 @@
       "tags": [
         "ai"
       ],
-      "score": "112",
+      "score": "180",
       "item_id": "hn:49563784",
       "summary_type": "extractive",
-      "title_zh": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
-      "summary_zh": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+"
+      "title_zh": "How Fairphone built the Fairphone Gen 6+",
+      "summary_zh": "How Fairphone built the Fairphone Gen 6+"
     },
     {
-      "title": "Ok, but Does It Scale?",
-      "summary": "Ok, but Does It Scale?",
+      "title": "Ok, but does it scale?",
+      "summary": "Ok, but does it scale?",
       "full_text": "",
       "source": "hacker news",
       "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
@@ -124,11 +269,11 @@
       "tags": [
         "ai"
       ],
-      "score": "67",
+      "score": "98",
       "item_id": "hn:49563772",
       "summary_type": "extractive",
-      "title_zh": "Ok, but Does It Scale?",
-      "summary_zh": "Ok, but Does It Scale?"
+      "title_zh": "Ok, but does it scale?",
+      "summary_zh": "Ok, but does it scale?"
     },
     {
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
@@ -140,7 +285,7 @@
       "tags": [
         "ai"
       ],
-      "score": "244",
+      "score": "341",
       "item_id": "hn:49563386",
       "summary_type": "extractive",
       "title_zh": "Google AI Mode shows same products 21.6% more expensive than traditional search",
@@ -148,8 +293,8 @@
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
-      "summary": "Discovery of a new OpenAI agent message board",
-      "full_text": "",
+      "summary": "https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-...",
+      "full_text": "https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-...",
       "source": "hacker news",
       "url": "https://collusion.wiki/",
       "published_at": "2026-09-04T11:54:53+00:00",
@@ -157,15 +302,15 @@
         "agent",
         "llm"
       ],
-      "score": "701",
+      "score": "🔥 1.2k",
       "item_id": "hn:49563355",
       "summary_type": "extractive",
       "title_zh": "Discovery of a new OpenAI agent message board",
-      "summary_zh": "Discovery of a new OpenAI agent message board"
+      "summary_zh": "https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-..."
     },
     {
-      "title": "Solving the Jane Street Reverse Engineering Challenge",
-      "summary": "Solving the Jane Street Reverse Engineering Challenge",
+      "title": "Solving the Jane Street reverse engineering challenge",
+      "summary": "Solving the Jane Street reverse engineering challenge",
       "full_text": "",
       "source": "hacker news",
       "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
@@ -173,76 +318,27 @@
       "tags": [
         "ai"
       ],
-      "score": "249",
+      "score": "351",
       "item_id": "hn:49562657",
       "summary_type": "extractive",
-      "title_zh": "Solving the Jane Street Reverse Engineering Challenge",
-      "summary_zh": "Solving the Jane Street Reverse Engineering Challenge"
+      "title_zh": "Solving the Jane Street reverse engineering challenge",
+      "summary_zh": "Solving the Jane Street reverse engineering challenge"
     },
     {
-      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-      "summary": "Carbon-aware electricity pricing, measured daily on 38 grids",
+      "title": "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
+      "summary": "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://carbonawarepricing.com/",
-      "published_at": "2026-09-04T08:19:57+00:00",
+      "url": "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express",
+      "published_at": "2026-09-03T19:10:59+00:00",
       "tags": [
         "ai"
       ],
-      "score": "73",
-      "item_id": "hn:49561975",
+      "score": "14",
+      "item_id": "hn:49555131",
       "summary_type": "extractive",
-      "title_zh": "Carbon-aware electricity pricing, measured daily on 38 grids",
-      "summary_zh": "Carbon-aware electricity pricing, measured daily on 38 grids"
-    },
-    {
-      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
-      "summary": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-      "published_at": "2026-09-04T06:47:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "444",
-      "item_id": "hn:49561320",
-      "summary_type": "extractive",
-      "title_zh": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
-      "summary_zh": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year"
-    },
-    {
-      "title": "Project Xanadu: Even More Hindsight (2025)",
-      "summary": "Project Xanadu: Even More Hindsight (2025)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://gwern.net/xanadu",
-      "published_at": "2026-09-04T01:45:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "112",
-      "item_id": "hn:49559522",
-      "summary_type": "extractive",
-      "title_zh": "Project Xanadu: Even More Hindsight (2025)",
-      "summary_zh": "Project Xanadu: Even More Hindsight (2025)"
-    },
-    {
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "summary": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "published_at": "2026-09-03T21:20:34+00:00",
-      "tags": [
-        "tool",
-        "llm"
-      ],
-      "score": "275",
-      "item_id": "hn:49557206",
-      "summary_type": "extractive",
-      "title_zh": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "summary_zh": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out"
+      "title_zh": "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
+      "summary_zh": "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'"
     },
     {
       "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
@@ -254,7 +350,7 @@
       "tags": [
         "ai"
       ],
-      "score": "643",
+      "score": "674",
       "item_id": "hn:49554520",
       "summary_type": "extractive",
       "title_zh": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
@@ -285,8 +381,8 @@
       "url": "http://arxiv.org/abs/2609.04198v1",
       "published_at": "2026-09-03T17:59:43Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04198v1",
@@ -319,9 +415,9 @@
       "url": "http://arxiv.org/abs/2609.04190v1",
       "published_at": "2026-09-03T17:59:01Z",
       "tags": [
+        "vision",
         "tool",
-        "paper",
-        "vision"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04190v1",
@@ -337,10 +433,10 @@
       "url": "http://arxiv.org/abs/2609.04183v1",
       "published_at": "2026-09-03T17:58:02Z",
       "tags": [
-        "tool",
-        "paper",
+        "llm",
         "vision",
-        "llm"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04183v1",
@@ -356,8 +452,8 @@
       "url": "http://arxiv.org/abs/2609.04180v1",
       "published_at": "2026-09-03T17:57:02Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04180v1",
@@ -390,9 +486,9 @@
       "url": "http://arxiv.org/abs/2609.04172v1",
       "published_at": "2026-09-03T17:54:38Z",
       "tags": [
-        "paper",
+        "llm",
         "vision",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04172v1",
@@ -408,10 +504,10 @@
       "url": "http://arxiv.org/abs/2609.04170v1",
       "published_at": "2026-09-03T17:54:09Z",
       "tags": [
-        "tool",
-        "paper",
         "agent",
-        "llm"
+        "llm",
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04170v1",
@@ -427,8 +523,8 @@
       "url": "http://arxiv.org/abs/2609.04167v1",
       "published_at": "2026-09-03T17:53:34Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04167v1",
@@ -444,9 +540,9 @@
       "url": "http://arxiv.org/abs/2609.04166v1",
       "published_at": "2026-09-03T17:52:19Z",
       "tags": [
+        "llm",
         "tool",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04166v1",
@@ -462,9 +558,9 @@
       "url": "http://arxiv.org/abs/2609.04159v1",
       "published_at": "2026-09-03T17:49:12Z",
       "tags": [
-        "paper",
         "agent",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04159v1",
@@ -480,9 +576,9 @@
       "url": "http://arxiv.org/abs/2609.04148v1",
       "published_at": "2026-09-03T17:41:05Z",
       "tags": [
+        "agent",
         "tool",
-        "paper",
-        "agent"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04148v1",
@@ -498,9 +594,9 @@
       "url": "http://arxiv.org/abs/2609.04147v1",
       "published_at": "2026-09-03T17:40:20Z",
       "tags": [
+        "agent",
         "tool",
-        "paper",
-        "agent"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04147v1",
@@ -516,9 +612,9 @@
       "url": "http://arxiv.org/abs/2609.04141v1",
       "published_at": "2026-09-03T17:33:18Z",
       "tags": [
+        "agent",
         "tool",
-        "paper",
-        "agent"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04141v1",
@@ -534,10 +630,10 @@
       "url": "http://arxiv.org/abs/2609.04135v1",
       "published_at": "2026-09-03T17:30:17Z",
       "tags": [
-        "tool",
-        "paper",
         "agent",
-        "vision"
+        "vision",
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04135v1",
@@ -553,9 +649,9 @@
       "url": "http://arxiv.org/abs/2609.04128v1",
       "published_at": "2026-09-03T17:26:33Z",
       "tags": [
-        "paper",
         "agent",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04128v1",
@@ -571,9 +667,9 @@
       "url": "http://arxiv.org/abs/2609.04127v1",
       "published_at": "2026-09-03T17:25:20Z",
       "tags": [
-        "paper",
+        "llm",
         "vision",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04127v1",
@@ -589,9 +685,9 @@
       "url": "http://arxiv.org/abs/2609.04108v1",
       "published_at": "2026-09-03T17:14:27Z",
       "tags": [
-        "paper",
+        "llm",
         "vision",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04108v1",
@@ -607,46 +703,14 @@
       "url": "http://arxiv.org/abs/2609.04098v1",
       "published_at": "2026-09-03T17:04:26Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04098v1",
       "summary_type": "extractive",
       "title_zh": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
       "summary_zh": "Hybrid LLMs pair softmax attention with linear-attention layers such as Gated DeltaNet (GDN), whose recurrent state summarizes the context in fixed size. Early community 4-bit quantizations of Qwen3.8-27B (48 GDN layers, 16 attention layers) left the GDN block in 8- or 16-bit precision -- especially its decay and write-strength gates -- on the intuition that errors in a recurrence accumulate over long contexts. We test that intuition by building Minima: NVFP4 W4A4 on all 496 linear layers, GDN i"
-    },
-    {
-      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "summary": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-      "published_at": "2026-09-03T16:21:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "338",
-      "item_id": "hn:49552572",
-      "summary_type": "extractive",
-      "title_zh": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "summary_zh": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%"
-    },
-    {
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "summary": "K2 Horizon: A connected fleet of six open models",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ifm.ai/blog/k2/",
-      "published_at": "2026-09-03T15:36:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "322",
-      "item_id": "hn:49551760",
-      "summary_type": "extractive",
-      "title_zh": "K2 Horizon: A connected fleet of six open models",
-      "summary_zh": "K2 Horizon: A connected fleet of six open models"
     },
     {
       "title": ".name Termination",
@@ -658,75 +722,27 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 2.0k",
+      "score": "🔥 2.1k",
       "item_id": "hn:49550772",
       "summary_type": "extractive",
       "title_zh": ".name Termination",
       "summary_zh": ".name Termination"
     },
     {
-      "title": "Ask HN: Who is using MCP in production?",
-      "summary": "I’ve been following MCP since it first came out. It got a lot of attention early on, but I haven’t come across many people using it in production. I may simply have missed them.If you’re using MCP in production, what are you using it for?",
-      "full_text": "I’ve been following MCP since it first came out.\nIt got a lot of attention early on, but I haven’t come across many people using it in production.\nI may simply have missed them.If you’re using MCP in production, what are you using it for?\nWhat advantages have you found over a normal API or direct tool integration or just CLI?",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=49548600",
-      "published_at": "2026-09-03T11:21:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "132",
-      "item_id": "hn:49548600",
-      "summary_type": "extractive",
-      "title_zh": "Ask HN: Who is using MCP in production?",
-      "summary_zh": "I’ve been following MCP since it first came out. It got a lot of attention early on, but I haven’t come across many people using it in production. I may simply have missed them.If you’re using MCP in production, what are you using it for?"
-    },
-    {
-      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "summary": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "title": "People that worked on the same idea for decades",
+      "summary": "People that worked on the same idea for decades",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "published_at": "2026-09-03T01:11:22+00:00",
+      "url": "https://nityasnotes.com/writing/decades/",
+      "published_at": "2026-09-03T08:31:22+00:00",
       "tags": [
         "ai"
       ],
-      "score": "423",
-      "item_id": "hn:49544762",
+      "score": "31",
+      "item_id": "hn:49547415",
       "summary_type": "extractive",
-      "title_zh": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "summary_zh": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap"
-    },
-    {
-      "title": "GPS glitched across the US by as much as 33 feet",
-      "summary": "GPS glitched across the US by as much as 33 feet",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
-      "published_at": "2026-09-03T00:49:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "204",
-      "item_id": "hn:49544618",
-      "summary_type": "extractive",
-      "title_zh": "GPS glitched across the US by as much as 33 feet",
-      "summary_zh": "GPS glitched across the US by as much as 33 feet"
-    },
-    {
-      "title": "Unusual Suspects",
-      "summary": "Unusual Suspects",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://neal.fun/unusual-suspects/",
-      "published_at": "2026-09-02T15:48:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "190",
-      "item_id": "hn:49538069",
-      "summary_type": "extractive",
-      "title_zh": "Unusual Suspects",
-      "summary_zh": "Unusual Suspects"
+      "title_zh": "People that worked on the same idea for decades",
+      "summary_zh": "People that worked on the same idea for decades"
     },
     {
       "title": "The Two Abstractions of System Design: Hide or Reduce",
@@ -738,15 +754,47 @@
       "tags": [
         "ai"
       ],
-      "score": "47",
+      "score": "92",
       "item_id": "hn:49534936",
       "summary_type": "extractive",
       "title_zh": "The Two Abstractions of System Design: Hide or Reduce",
       "summary_zh": "The Two Abstractions of System Design: Hide or Reduce"
     },
     {
-      "title": "Essential Resources for Getting Started with at Protocol",
-      "summary": "Essential Resources for Getting Started with at Protocol",
+      "title": "Resources to Get Good at Soldering?",
+      "summary": "Hello. I&#x27;ve recently started soldering, specifically wanting to repair the joysticks on several Playstation 4 controllers I have, but I also want to get good at electronic repair in general.Right now I&#x27;ve busted a board, and managed to desolder and resolder a stick but the controller doesn&#x27;t turn on anymore. I&#x27;m doing this all by myself, and I think I&#x27;m following good advice (ventilation, good iron tip, using flux etc...).But there are many variables, and a lot of expert",
+      "full_text": "Hello. I&#x27;ve recently started soldering, specifically wanting to repair the joysticks on several Playstation 4 controllers I have, but I also want to get good at electronic repair in general.Right now I&#x27;ve busted a board, and managed to desolder and resolder a stick but the controller doesn&#x27;t turn on anymore. I&#x27;m doing this all by myself, and I think I&#x27;m following good advice (ventilation, good iron tip, using flux etc...).But there are many variables, and a lot of expert",
+      "source": "hacker news",
+      "url": "https://news.ycombinator.com/item?id=49533840",
+      "published_at": "2026-09-02T09:24:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "56",
+      "item_id": "hn:49533840",
+      "summary_type": "extractive",
+      "title_zh": "Resources to Get Good at Soldering?",
+      "summary_zh": "Hello. I&#x27;ve recently started soldering, specifically wanting to repair the joysticks on several Playstation 4 controllers I have, but I also want to get good at electronic repair in general.Right now I&#x27;ve busted a board, and managed to desolder and resolder a stick but the controller doesn&#x27;t turn on anymore. I&#x27;m doing this all by myself, and I think I&#x27;m following good advice (ventilation, good iron tip, using flux etc...).But there are many variables, and a lot of expert"
+    },
+    {
+      "title": "A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf]",
+      "summary": "A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf]",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.cs.cmu.edu/~bryant/pubdir/MIT-LCS-TR-259.pdf",
+      "published_at": "2026-09-02T02:36:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:49531073",
+      "summary_type": "extractive",
+      "title_zh": "A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf]",
+      "summary_zh": "A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf]"
+    },
+    {
+      "title": "Getting Started with AT Protocol",
+      "summary": "Getting Started with AT Protocol",
       "full_text": "",
       "source": "hacker news",
       "url": "https://bnb.im/posts/atproto-essential-resources/",
@@ -754,47 +802,31 @@
       "tags": [
         "ai"
       ],
-      "score": "4",
+      "score": "61",
       "item_id": "hn:49527123",
       "summary_type": "extractive",
-      "title_zh": "Essential Resources for Getting Started with at Protocol",
-      "summary_zh": "Essential Resources for Getting Started with at Protocol"
+      "title_zh": "Getting Started with AT Protocol",
+      "summary_zh": "Getting Started with AT Protocol"
     },
     {
-      "title": "Virtual Threads for a scripting language in Java 8 without Loom",
-      "summary": "Virtual Threads for a scripting language in Java 8 without Loom",
+      "title": "Deadpan Photography: Enjoying the Pretence",
+      "summary": "Deadpan Photography: Enjoying the Pretence",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://jactl.io/blog/2026/08/28/jactl-virtual-threads",
-      "published_at": "2026-09-01T14:36:58+00:00",
+      "url": "https://photoni.st/index.php/2026/07/12/deadpan-photography-enjoying-the-pretence/",
+      "published_at": "2026-09-01T00:59:37+00:00",
       "tags": [
         "ai"
       ],
-      "score": "53",
-      "item_id": "hn:49522611",
+      "score": "6",
+      "item_id": "hn:49516691",
       "summary_type": "extractive",
-      "title_zh": "Virtual Threads for a scripting language in Java 8 without Loom",
-      "summary_zh": "Virtual Threads for a scripting language in Java 8 without Loom"
+      "title_zh": "Deadpan Photography: Enjoying the Pretence",
+      "summary_zh": "Deadpan Photography: Enjoying the Pretence"
     },
     {
-      "title": "Authorization terminology is a mess: Let's fix it",
-      "summary": "Authorization terminology is a mess: Let's fix it",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
-      "published_at": "2026-09-01T14:18:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "100",
-      "item_id": "hn:49522367",
-      "summary_type": "extractive",
-      "title_zh": "Authorization terminology is a mess: Let's fix it",
-      "summary_zh": "Authorization terminology is a mess: Let's fix it"
-    },
-    {
-      "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
-      "summary": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
+      "title": "Elevator of the Year: Modernization of the Metropolis Trust Building",
+      "summary": "Elevator of the Year: Modernization of the Metropolis Trust Building",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
@@ -802,43 +834,11 @@
       "tags": [
         "ai"
       ],
-      "score": "87",
+      "score": "130",
       "item_id": "hn:49516312",
       "summary_type": "extractive",
-      "title_zh": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
-      "summary_zh": "Elevator of the Year Winner Modernization of the Metropolis Trust Building"
-    },
-    {
-      "title": "Oscar Winner Brings Monsters to Life with His Simulation Software",
-      "summary": "Oscar Winner Brings Monsters to Life with His Simulation Software",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://spectrum.ieee.org/oscar-winner-jernej-barbic",
-      "published_at": "2026-08-31T15:10:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "34",
-      "item_id": "hn:49510738",
-      "summary_type": "extractive",
-      "title_zh": "Oscar Winner Brings Monsters to Life with His Simulation Software",
-      "summary_zh": "Oscar Winner Brings Monsters to Life with His Simulation Software"
-    },
-    {
-      "title": "1960s theory that Stonehenge was a prehistoric computer",
-      "summary": "1960s theory that Stonehenge was a prehistoric computer",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer",
-      "published_at": "2026-08-31T09:57:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "63",
-      "item_id": "hn:49507810",
-      "summary_type": "extractive",
-      "title_zh": "1960s theory that Stonehenge was a prehistoric computer",
-      "summary_zh": "1960s theory that Stonehenge was a prehistoric computer"
+      "title_zh": "Elevator of the Year: Modernization of the Metropolis Trust Building",
+      "summary_zh": "Elevator of the Year: Modernization of the Metropolis Trust Building"
     }
   ]
 }

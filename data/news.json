@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-09-04T04:14:20.005607+00:00",
+  "updated_at": "2026-09-04T11:04:45.631732+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+      "summary": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "published_at": "2026-09-04T10:30:57+00:00",
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": "10",
+      "item_id": "hn:49562744",
+      "summary_type": "extractive",
+      "title_zh": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+      "summary_zh": "OpenAI agents hijacked German website in previously undisclosed AI breakout"
+    },
+    {
+      "title": "Solving the Jane Street Reverse Engineering Challenge",
+      "summary": "Solving the Jane Street Reverse Engineering Challenge",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "published_at": "2026-09-04T10:17:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:49562657",
+      "summary_type": "extractive",
+      "title_zh": "Solving the Jane Street Reverse Engineering Challenge",
+      "summary_zh": "Solving the Jane Street Reverse Engineering Challenge"
+    },
+    {
+      "title": "The Raspberry Pi Interactive Timeline · 2006–2026",
+      "summary": "The Raspberry Pi Interactive Timeline · 2006–2026",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline",
+      "published_at": "2026-09-04T08:35:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "30",
+      "item_id": "hn:49562062",
+      "summary_type": "extractive",
+      "title_zh": "The Raspberry Pi Interactive Timeline · 2006–2026",
+      "summary_zh": "The Raspberry Pi Interactive Timeline · 2006–2026"
+    },
+    {
+      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+      "summary": "Carbon-aware electricity pricing, measured daily on 38 grids",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://carbonawarepricing.com/",
+      "published_at": "2026-09-04T08:19:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "40",
+      "item_id": "hn:49561975",
+      "summary_type": "extractive",
+      "title_zh": "Carbon-aware electricity pricing, measured daily on 38 grids",
+      "summary_zh": "Carbon-aware electricity pricing, measured daily on 38 grids"
+    },
+    {
+      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+      "summary": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+      "published_at": "2026-09-04T06:47:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "194",
+      "item_id": "hn:49561320",
+      "summary_type": "extractive",
+      "title_zh": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+      "summary_zh": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year"
+    },
     {
       "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
       "summary": "Grep beats LSP? Why coding agents ignore your fancier tools",
@@ -10,30 +91,14 @@
       "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
       "published_at": "2026-09-04T03:40:26+00:00",
       "tags": [
-        "agent",
-        "tool"
+        "tool",
+        "agent"
       ],
-      "score": "10",
+      "score": "77",
       "item_id": "hn:49560260",
       "summary_type": "extractive",
       "title_zh": "Grep beats LSP? Why coding agents ignore your fancier tools",
       "summary_zh": "Grep beats LSP? Why coding agents ignore your fancier tools"
-    },
-    {
-      "title": "A Mysterious Kidney Disease Has Arrived in Texas",
-      "summary": "A Mysterious Kidney Disease Has Arrived in Texas",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
-      "published_at": "2026-09-04T02:54:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "16",
-      "item_id": "hn:49559992",
-      "summary_type": "extractive",
-      "title_zh": "A Mysterious Kidney Disease Has Arrived in Texas",
-      "summary_zh": "A Mysterious Kidney Disease Has Arrived in Texas"
     },
     {
       "title": "From Hookswitch to Grave",
@@ -45,15 +110,15 @@
       "tags": [
         "ai"
       ],
-      "score": "9",
+      "score": "30",
       "item_id": "hn:49559901",
       "summary_type": "extractive",
       "title_zh": "From Hookswitch to Grave",
       "summary_zh": "From Hookswitch to Grave"
     },
     {
-      "title": "Project Xanadu: Even More Hindsight",
-      "summary": "Project Xanadu: Even More Hindsight",
+      "title": "Project Xanadu: Even More Hindsight (2025)",
+      "summary": "Project Xanadu: Even More Hindsight (2025)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://gwern.net/xanadu",
@@ -61,11 +126,11 @@
       "tags": [
         "ai"
       ],
-      "score": "29",
+      "score": "84",
       "item_id": "hn:49559522",
       "summary_type": "extractive",
-      "title_zh": "Project Xanadu: Even More Hindsight",
-      "summary_zh": "Project Xanadu: Even More Hindsight"
+      "title_zh": "Project Xanadu: Even More Hindsight (2025)",
+      "summary_zh": "Project Xanadu: Even More Hindsight (2025)"
     },
     {
       "title": "GLP-1s are being linked to fewer serious infections, including TB",
@@ -77,7 +142,7 @@
       "tags": [
         "ai"
       ],
-      "score": "82",
+      "score": "115",
       "item_id": "hn:49558086",
       "summary_type": "extractive",
       "title_zh": "GLP-1s are being linked to fewer serious infections, including TB",
@@ -94,7 +159,7 @@
         "tool",
         "llm"
       ],
-      "score": "133",
+      "score": "231",
       "item_id": "hn:49557206",
       "summary_type": "extractive",
       "title_zh": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
@@ -126,7 +191,7 @@
       "tags": [
         "ai"
       ],
-      "score": "100",
+      "score": "163",
       "item_id": "hn:49555233",
       "summary_type": "extractive",
       "title_zh": "The asteroid currently hitting front end web development",
@@ -142,7 +207,7 @@
       "tags": [
         "ai"
       ],
-      "score": "489",
+      "score": "575",
       "item_id": "hn:49554520",
       "summary_type": "extractive",
       "title_zh": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
@@ -207,9 +272,9 @@
       "url": "http://arxiv.org/abs/2609.04190v1",
       "published_at": "2026-09-03T17:59:01Z",
       "tags": [
+        "tool",
         "vision",
-        "paper",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04190v1",
@@ -225,10 +290,10 @@
       "url": "http://arxiv.org/abs/2609.04183v1",
       "published_at": "2026-09-03T17:58:02Z",
       "tags": [
-        "llm",
-        "paper",
         "tool",
-        "vision"
+        "vision",
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04183v1",
@@ -261,8 +326,8 @@
       "url": "http://arxiv.org/abs/2609.04177v1",
       "published_at": "2026-09-03T17:55:43Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04177v1",
@@ -278,9 +343,9 @@
       "url": "http://arxiv.org/abs/2609.04172v1",
       "published_at": "2026-09-03T17:54:38Z",
       "tags": [
-        "llm",
+        "vision",
         "paper",
-        "vision"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04172v1",
@@ -296,9 +361,9 @@
       "url": "http://arxiv.org/abs/2609.04170v1",
       "published_at": "2026-09-03T17:54:09Z",
       "tags": [
-        "llm",
-        "paper",
         "tool",
+        "paper",
+        "llm",
         "agent"
       ],
       "score": "📄",
@@ -315,8 +380,8 @@
       "url": "http://arxiv.org/abs/2609.04167v1",
       "published_at": "2026-09-03T17:53:34Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04167v1",
@@ -332,9 +397,9 @@
       "url": "http://arxiv.org/abs/2609.04166v1",
       "published_at": "2026-09-03T17:52:19Z",
       "tags": [
-        "llm",
+        "tool",
         "paper",
-        "tool"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04166v1",
@@ -350,9 +415,9 @@
       "url": "http://arxiv.org/abs/2609.04159v1",
       "published_at": "2026-09-03T17:49:12Z",
       "tags": [
-        "agent",
         "paper",
-        "llm"
+        "llm",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04159v1",
@@ -368,9 +433,9 @@
       "url": "http://arxiv.org/abs/2609.04148v1",
       "published_at": "2026-09-03T17:41:05Z",
       "tags": [
-        "agent",
+        "tool",
         "paper",
-        "tool"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04148v1",
@@ -386,9 +451,9 @@
       "url": "http://arxiv.org/abs/2609.04147v1",
       "published_at": "2026-09-03T17:40:20Z",
       "tags": [
-        "agent",
+        "tool",
         "paper",
-        "tool"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04147v1",
@@ -404,9 +469,9 @@
       "url": "http://arxiv.org/abs/2609.04141v1",
       "published_at": "2026-09-03T17:33:18Z",
       "tags": [
-        "agent",
+        "tool",
         "paper",
-        "tool"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04141v1",
@@ -422,10 +487,10 @@
       "url": "http://arxiv.org/abs/2609.04135v1",
       "published_at": "2026-09-03T17:30:17Z",
       "tags": [
-        "paper",
         "tool",
-        "agent",
-        "vision"
+        "vision",
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04135v1",
@@ -441,9 +506,9 @@
       "url": "http://arxiv.org/abs/2609.04128v1",
       "published_at": "2026-09-03T17:26:33Z",
       "tags": [
-        "agent",
+        "vision",
         "paper",
-        "vision"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04128v1",
@@ -459,9 +524,9 @@
       "url": "http://arxiv.org/abs/2609.04127v1",
       "published_at": "2026-09-03T17:25:20Z",
       "tags": [
-        "llm",
+        "vision",
         "paper",
-        "vision"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04127v1",
@@ -477,31 +542,15 @@
       "url": "http://arxiv.org/abs/2609.04108v1",
       "published_at": "2026-09-03T17:14:27Z",
       "tags": [
-        "llm",
+        "vision",
         "paper",
-        "vision"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.04108v1",
       "summary_type": "extractive",
       "title_zh": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
       "summary_zh": "Reinforcement learning with verifiable rewards (RLVR) and on-policy distillation (OPD) have emerged as two dominant methods for post-training reasoning LLMs. Prior work uses OPD's dense token-level supervision to complement the sparse RL reward, fusing the two signals within a single step: either as a \\emph{weighted-additive combination} or a \\emph{teacher-modulated rescaling} of the RL advantage. In this paper, we show that a simple two-stage scheme, OPD-then-RL, consistently outperforms pure O"
-    },
-    {
-      "title": "How concerned should we be about Astra's recurrent architecture?",
-      "summary": "How concerned should we be about Astra's recurrent architecture?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
-      "published_at": "2026-09-03T17:10:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "105",
-      "item_id": "hn:49553321",
-      "summary_type": "extractive",
-      "title_zh": "How concerned should we be about Astra's recurrent architecture?",
-      "summary_zh": "How concerned should we be about Astra's recurrent architecture?"
     },
     {
       "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
@@ -530,7 +579,7 @@
       "tags": [
         "ai"
       ],
-      "score": "192",
+      "score": "269",
       "item_id": "hn:49552572",
       "summary_type": "extractive",
       "title_zh": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
@@ -546,7 +595,7 @@
       "tags": [
         "ai"
       ],
-      "score": "271",
+      "score": "303",
       "item_id": "hn:49551760",
       "summary_type": "extractive",
       "title_zh": "K2 Horizon: A connected fleet of six open models",
@@ -562,7 +611,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.4k",
+      "score": "🔥 1.8k",
       "item_id": "hn:49550772",
       "summary_type": "extractive",
       "title_zh": ".name Termination",
@@ -578,59 +627,27 @@
       "tags": [
         "ai"
       ],
-      "score": "503",
+      "score": "598",
       "item_id": "hn:49550698",
       "summary_type": "extractive",
       "title_zh": "Any Human Ever – One life, drawn at random from all who have ever lived",
       "summary_zh": "Any Human Ever – One life, drawn at random from all who have ever lived"
     },
     {
-      "title": "Show HN: I made a word building game supporting anagrams and one handed use",
-      "summary": "Hi everyone,Wanted to share a game I built. It&#x27;s called Unscramble! and I believe it&#x27;s the simplest word building game.Rules: You get a few letters on screen.",
-      "full_text": "Hi everyone,Wanted to share a game I built. It&#x27;s called Unscramble! and I believe it&#x27;s the simplest word building game.Rules: You get a few letters on screen. You need to make one word with all the letters. Tap a letter to select. Tap again to deselect. Faster you go, better you score.If you enter anagrams of the word it&#x27;s looking for, it gives you extra points. If you are stuck, you can either &quot;Ask Friend&quot; or get Hint.You get extra points for getting the word fast but y",
+      "title": "Ask HN: Who is using MCP in production?",
+      "summary": "I’ve been following MCP since it first came out. It got a lot of attention early on, but I haven’t come across many people using it in production. I may simply have missed them.If you’re using MCP in production, what are you using it for?",
+      "full_text": "I’ve been following MCP since it first came out.\nIt got a lot of attention early on, but I haven’t come across many people using it in production.\nI may simply have missed them.If you’re using MCP in production, what are you using it for?\nWhat advantages have you found over a normal API or direct tool integration or just CLI?",
       "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=49550479",
-      "published_at": "2026-09-03T14:37:21+00:00",
+      "url": "https://news.ycombinator.com/item?id=49548600",
+      "published_at": "2026-09-03T11:21:18+00:00",
       "tags": [
         "ai"
       ],
-      "score": "12",
-      "item_id": "hn:49550479",
+      "score": "82",
+      "item_id": "hn:49548600",
       "summary_type": "extractive",
-      "title_zh": "Show HN: I made a word building game supporting anagrams and one handed use",
-      "summary_zh": "Hi everyone,Wanted to share a game I built. It&#x27;s called Unscramble! and I believe it&#x27;s the simplest word building game.Rules: You get a few letters on screen."
-    },
-    {
-      "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
-      "summary": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere",
-      "published_at": "2026-09-03T13:47:38+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "88",
-      "item_id": "hn:49549877",
-      "summary_type": "extractive",
-      "title_zh": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
-      "summary_zh": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere"
-    },
-    {
-      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-      "summary": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
-      "published_at": "2026-09-03T11:01:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "297",
-      "item_id": "hn:49548452",
-      "summary_type": "extractive",
-      "title_zh": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-      "summary_zh": "Google Antigravity TOS: 3rd party usage can get Google account suspended"
+      "title_zh": "Ask HN: Who is using MCP in production?",
+      "summary_zh": "I’ve been following MCP since it first came out. It got a lot of attention early on, but I haven’t come across many people using it in production. I may simply have missed them.If you’re using MCP in production, what are you using it for?"
     },
     {
       "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
@@ -642,7 +659,7 @@
       "tags": [
         "ai"
       ],
-      "score": "226",
+      "score": "328",
       "item_id": "hn:49544762",
       "summary_type": "extractive",
       "title_zh": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
@@ -658,59 +675,11 @@
       "tags": [
         "ai"
       ],
-      "score": "144",
+      "score": "183",
       "item_id": "hn:49544618",
       "summary_type": "extractive",
       "title_zh": "GPS glitched across the US by as much as 33 feet",
       "summary_zh": "GPS glitched across the US by as much as 33 feet"
-    },
-    {
-      "title": "VC isn't VC anymore",
-      "summary": "VC isn't VC anymore",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.anildash.com/2026/09/02/cancer-capital/",
-      "published_at": "2026-09-02T22:05:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "247",
-      "item_id": "hn:49543220",
-      "summary_type": "extractive",
-      "title_zh": "VC isn't VC anymore",
-      "summary_zh": "VC isn't VC anymore"
-    },
-    {
-      "title": "Unified Arabic",
-      "summary": "Unified Arabic",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://worksthatwork.com/6/unified-arabic",
-      "published_at": "2026-09-02T19:02:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "67",
-      "item_id": "hn:49540827",
-      "summary_type": "extractive",
-      "title_zh": "Unified Arabic",
-      "summary_zh": "Unified Arabic"
-    },
-    {
-      "title": "Static Allocation, Constant Work",
-      "summary": "Static Allocation, Constant Work",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
-      "published_at": "2026-09-02T17:30:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "109",
-      "item_id": "hn:49539556",
-      "summary_type": "extractive",
-      "title_zh": "Static Allocation, Constant Work",
-      "summary_zh": "Static Allocation, Constant Work"
     },
     {
       "title": "Unusual Suspects",
@@ -722,7 +691,7 @@
       "tags": [
         "ai"
       ],
-      "score": "131",
+      "score": "165",
       "item_id": "hn:49538069",
       "summary_type": "extractive",
       "title_zh": "Unusual Suspects",
@@ -738,43 +707,11 @@
       "tags": [
         "ai"
       ],
-      "score": "62",
+      "score": "72",
       "item_id": "hn:49537632",
       "summary_type": "extractive",
       "title_zh": "The true horror of Edgar Allan Poe’s stories lies in their confessions",
       "summary_zh": "The true horror of Edgar Allan Poe’s stories lies in their confessions"
-    },
-    {
-      "title": "New type of dice guarantees no tie when deciding who goes first",
-      "summary": "New type of dice guarantees no tie when deciding who goes first",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.cbc.ca/lite/story/9.7328614",
-      "published_at": "2026-09-02T01:50:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "68",
-      "item_id": "hn:49530807",
-      "summary_type": "extractive",
-      "title_zh": "New type of dice guarantees no tie when deciding who goes first",
-      "summary_zh": "New type of dice guarantees no tie when deciding who goes first"
-    },
-    {
-      "title": "A PCB business card with a batteryless LED, powered by the phone that taps it",
-      "summary": "A PCB business card with a batteryless LED, powered by the phone that taps it",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.kevin.md/the-business-card-that-lights-up.md/",
-      "published_at": "2026-09-01T20:46:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "54",
-      "item_id": "hn:49527967",
-      "summary_type": "extractive",
-      "title_zh": "A PCB business card with a batteryless LED, powered by the phone that taps it",
-      "summary_zh": "A PCB business card with a batteryless LED, powered by the phone that taps it"
     },
     {
       "title": "Virtual Threads for a scripting language in Java 8 without Loom",
@@ -786,27 +723,27 @@
       "tags": [
         "ai"
       ],
-      "score": "15",
+      "score": "35",
       "item_id": "hn:49522611",
       "summary_type": "extractive",
       "title_zh": "Virtual Threads for a scripting language in Java 8 without Loom",
       "summary_zh": "Virtual Threads for a scripting language in Java 8 without Loom"
     },
     {
-      "title": "The browser's main thread is expensive",
-      "summary": "The browser's main thread is expensive",
+      "title": "Authorization terminology is a mess: Let's fix it",
+      "summary": "Authorization terminology is a mess: Let's fix it",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-      "published_at": "2026-09-01T14:00:15+00:00",
+      "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
+      "published_at": "2026-09-01T14:18:54+00:00",
       "tags": [
         "ai"
       ],
-      "score": "384",
-      "item_id": "hn:49522137",
+      "score": "54",
+      "item_id": "hn:49522367",
       "summary_type": "extractive",
-      "title_zh": "The browser's main thread is expensive",
-      "summary_zh": "The browser's main thread is expensive"
+      "title_zh": "Authorization terminology is a mess: Let's fix it",
+      "summary_zh": "Authorization terminology is a mess: Let's fix it"
     },
     {
       "title": "Move in C++ without a std:move",
@@ -818,11 +755,59 @@
       "tags": [
         "ai"
       ],
-      "score": "38",
+      "score": "47",
       "item_id": "hn:49521590",
       "summary_type": "extractive",
       "title_zh": "Move in C++ without a std:move",
       "summary_zh": "Move in C++ without a std:move"
+    },
+    {
+      "title": "In defense of two-state theme toggles",
+      "summary": "In defense of two-state theme toggles",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://joshcollinsworth.com/blog/in-defense-of-two-state-theme-toggles",
+      "published_at": "2026-09-01T12:20:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "11",
+      "item_id": "hn:49520978",
+      "summary_type": "extractive",
+      "title_zh": "In defense of two-state theme toggles",
+      "summary_zh": "In defense of two-state theme toggles"
+    },
+    {
+      "title": "Welcome to the Porcelain Insulator Collector's World of Mud",
+      "summary": "Welcome to the Porcelain Insulator Collector's World of Mud",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.insulators.info/porcelain/",
+      "published_at": "2026-09-01T11:06:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "9",
+      "item_id": "hn:49520356",
+      "summary_type": "extractive",
+      "title_zh": "Welcome to the Porcelain Insulator Collector's World of Mud",
+      "summary_zh": "Welcome to the Porcelain Insulator Collector's World of Mud"
+    },
+    {
+      "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
+      "summary": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
+      "published_at": "2026-09-01T00:01:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "3",
+      "item_id": "hn:49516312",
+      "summary_type": "extractive",
+      "title_zh": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
+      "summary_zh": "Elevator of the Year Winner Modernization of the Metropolis Trust Building"
     },
     {
       "title": "How to get a free .arpa domain",
@@ -834,11 +819,27 @@
       "tags": [
         "ai"
       ],
-      "score": "128",
+      "score": "146",
       "item_id": "hn:49515558",
       "summary_type": "extractive",
       "title_zh": "How to get a free .arpa domain",
       "summary_zh": "How to get a free .arpa domain"
+    },
+    {
+      "title": "Oscar Winner Brings Monsters to Life with His Simulation Software",
+      "summary": "Oscar Winner Brings Monsters to Life with His Simulation Software",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://spectrum.ieee.org/oscar-winner-jernej-barbic",
+      "published_at": "2026-08-31T15:10:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "7",
+      "item_id": "hn:49510738",
+      "summary_type": "extractive",
+      "title_zh": "Oscar Winner Brings Monsters to Life with His Simulation Software",
+      "summary_zh": "Oscar Winner Brings Monsters to Life with His Simulation Software"
     }
   ]
 }

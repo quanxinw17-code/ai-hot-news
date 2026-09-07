@@ -1,10 +1,203 @@
 {
-  "updated_at": "2026-09-07T04:17:46.292601+00:00",
+  "updated_at": "2026-09-07T12:15:49.923103+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
-      "summary": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "summary": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "published_at": "2026-09-07T11:46:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "22",
+      "item_id": "hn:49597189",
+      "summary_type": "extractive",
+      "title_zh": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "summary_zh": "Smartphone makers don't bother to comply with EU repairability requirements"
+    },
+    {
+      "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+      "summary": "They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network&#x2F;Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with &quot;save:false&quot;, and the marker then appeared verbatim in the HTML served from the generated &quot;*.codepen.dev preview&quot;. Thus, if you ever entered some secrets in there by mistake con",
+      "full_text": "They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network&#x2F;Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with &quot;save:false&quot;, and the marker then appeared verbatim in the HTML served from the generated &quot;*.codepen.dev preview&quot;. Thus, if you ever entered some secrets in there by mistake con",
+      "source": "hacker news",
+      "url": "https://news.ycombinator.com/item?id=49596976",
+      "published_at": "2026-09-07T11:22:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "25",
+      "item_id": "hn:49596976",
+      "summary_type": "extractive",
+      "title_zh": "Apparently CodePen 2.0 sends data to their servers as you type",
+      "summary_zh": "They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network&#x2F;Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with &quot;save:false&quot;, and the marker then appeared verbatim in the HTML served from the generated &quot;*.codepen.dev preview&quot;. Thus, if you ever entered some secrets in there by mistake con"
+    },
+    {
+      "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+      "summary": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+      "published_at": "2026-09-07T10:41:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "22",
+      "item_id": "hn:49596629",
+      "summary_type": "extractive",
+      "title_zh": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+      "summary_zh": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame"
+    },
+    {
+      "title": "Impedance Matching (2017)",
+      "summary": "Impedance Matching (2017)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.edge.org/response-detail/27238",
+      "published_at": "2026-09-07T09:52:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "26",
+      "item_id": "hn:49596274",
+      "summary_type": "extractive",
+      "title_zh": "Impedance Matching (2017)",
+      "summary_zh": "Impedance Matching (2017)"
+    },
+    {
+      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "summary": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+      "published_at": "2026-09-07T09:33:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "94",
+      "item_id": "hn:49596119",
+      "summary_type": "extractive",
+      "title_zh": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "summary_zh": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes"
+    },
+    {
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "summary": "Speculative Decoding in vLLM on AMD GPUs",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "published_at": "2026-09-07T09:26:41+00:00",
+      "tags": [
+        "llm",
+        "tool"
+      ],
+      "score": "37",
+      "item_id": "hn:49596054",
+      "summary_type": "extractive",
+      "title_zh": "Speculative Decoding in vLLM on AMD GPUs",
+      "summary_zh": "Speculative Decoding in vLLM on AMD GPUs"
+    },
+    {
+      "title": "Live map of public transport in Belgium",
+      "summary": "Live map of public transport in Belgium",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "published_at": "2026-09-07T09:02:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "77",
+      "item_id": "hn:49595865",
+      "summary_type": "extractive",
+      "title_zh": "Live map of public transport in Belgium",
+      "summary_zh": "Live map of public transport in Belgium"
+    },
+    {
+      "title": "Programming is Art",
+      "summary": "Programming is Art",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://orchidfiles.com/programming-is-art/",
+      "published_at": "2026-09-07T08:05:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "101",
+      "item_id": "hn:49595360",
+      "summary_type": "extractive",
+      "title_zh": "Programming is Art",
+      "summary_zh": "Programming is Art"
+    },
+    {
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "summary": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "published_at": "2026-09-07T07:03:20+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "334",
+      "item_id": "hn:49594878",
+      "summary_type": "extractive",
+      "title_zh": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "summary_zh": "LG smart TVs caught logging audio with screen off and snooping on local devices"
+    },
+    {
+      "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+      "summary": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+      "published_at": "2026-09-07T05:33:25+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "217",
+      "item_id": "hn:49594251",
+      "summary_type": "extractive",
+      "title_zh": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+      "summary_zh": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers"
+    },
+    {
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "summary": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/timgordontg/engrim",
+      "published_at": "2026-09-07T04:49:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "48",
+      "item_id": "hn:49594008",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "summary_zh": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs"
+    },
+    {
+      "title": "TiVo to charge money for skipping commercials in your own recordings",
+      "summary": "TiVo to charge money for skipping commercials in your own recordings",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
+      "published_at": "2026-09-07T04:41:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "111",
+      "item_id": "hn:49593971",
+      "summary_type": "extractive",
+      "title_zh": "TiVo to charge money for skipping commercials in your own recordings",
+      "summary_zh": "TiVo to charge money for skipping commercials in your own recordings"
+    },
+    {
+      "title": "Keep Our Servers Running",
+      "summary": "Keep Our Servers Running",
       "full_text": "",
       "source": "hacker news",
       "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
@@ -12,27 +205,27 @@
       "tags": [
         "ai"
       ],
-      "score": "50",
+      "score": "594",
       "item_id": "hn:49593563",
       "summary_type": "extractive",
-      "title_zh": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
-      "summary_zh": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September"
+      "title_zh": "Keep Our Servers Running",
+      "summary_zh": "Keep Our Servers Running"
     },
     {
-      "title": "Mother convicted of: her 5 yo walks short way to pond alone in Virginia",
-      "summary": "Mother convicted of: her 5 yo walks short way to pond alone in Virginia",
+      "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+      "summary": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.washingtonpost.com/dc-md-va/2026/09/06/5-year-old-walked-alone-gated-community-his-mom-was-sentenced/",
-      "published_at": "2026-09-07T03:06:33+00:00",
+      "url": "https://rfd.shared.oxide.computer/rfd/0301",
+      "published_at": "2026-09-07T02:14:59+00:00",
       "tags": [
         "ai"
       ],
-      "score": "12",
-      "item_id": "hn:49593410",
+      "score": "40",
+      "item_id": "hn:49593066",
       "summary_type": "extractive",
-      "title_zh": "Mother convicted of: her 5 yo walks short way to pond alone in Virginia",
-      "summary_zh": "Mother convicted of: her 5 yo walks short way to pond alone in Virginia"
+      "title_zh": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+      "summary_zh": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security"
     },
     {
       "title": "Show HN: GET Together – A social network where you don't need POST to Post",
@@ -44,27 +237,11 @@
       "tags": [
         "ai"
       ],
-      "score": "13",
+      "score": "73",
       "item_id": "hn:49592840",
       "summary_type": "extractive",
       "title_zh": "Show HN: GET Together – A social network where you don't need POST to Post",
       "summary_zh": "Show HN: GET Together – A social network where you don't need POST to Post"
-    },
-    {
-      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "summary": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/Staatsgeheim/MathKernel",
-      "published_at": "2026-09-07T00:21:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "20",
-      "item_id": "hn:49592366",
-      "summary_type": "extractive",
-      "title_zh": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "summary_zh": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server"
     },
     {
       "title": "Making a Python interpreter in 1024 bytes",
@@ -76,43 +253,27 @@
       "tags": [
         "ai"
       ],
-      "score": "140",
+      "score": "251",
       "item_id": "hn:49591876",
       "summary_type": "extractive",
       "title_zh": "Making a Python interpreter in 1024 bytes",
       "summary_zh": "Making a Python interpreter in 1024 bytes"
     },
     {
-      "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-      "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;Liquid_BTC&#x2F;status&#x2F;2096696272447218108",
-      "full_text": "https:&#x2F;&#x2F;xcancel.com&#x2F;Liquid_BTC&#x2F;status&#x2F;2096696272447218108",
-      "source": "hacker news",
-      "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-      "published_at": "2026-09-06T22:43:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "91",
-      "item_id": "hn:49591672",
-      "summary_type": "extractive",
-      "title_zh": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-      "summary_zh": "https:&#x2F;&#x2F;xcancel.com&#x2F;Liquid_BTC&#x2F;status&#x2F;2096696272447218108"
-    },
-    {
-      "title": "Signing TLS handshakes inside a TPM",
-      "summary": "Signing TLS handshakes inside a TPM",
+      "title": "Is mathematics about to enter the conservatory?",
+      "summary": "Is mathematics about to enter the conservatory?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://bschaatsbergen.com/posts/go-tpm-tls/",
-      "published_at": "2026-09-06T21:05:21+00:00",
+      "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+      "published_at": "2026-09-06T23:02:11+00:00",
       "tags": [
         "ai"
       ],
-      "score": "5",
-      "item_id": "hn:49590946",
+      "score": "74",
+      "item_id": "hn:49591793",
       "summary_type": "extractive",
-      "title_zh": "Signing TLS handshakes inside a TPM",
-      "summary_zh": "Signing TLS handshakes inside a TPM"
+      "title_zh": "Is mathematics about to enter the conservatory?",
+      "summary_zh": "Is mathematics about to enter the conservatory?"
     },
     {
       "title": "It took a year to ship WebAssembly in Anubis",
@@ -124,7 +285,7 @@
       "tags": [
         "ai"
       ],
-      "score": "179",
+      "score": "292",
       "item_id": "hn:49590611",
       "summary_type": "extractive",
       "title_zh": "It took a year to ship WebAssembly in Anubis",
@@ -140,7 +301,7 @@
       "tags": [
         "ai"
       ],
-      "score": "223",
+      "score": "318",
       "item_id": "hn:49590512",
       "summary_type": "extractive",
       "title_zh": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
@@ -156,27 +317,11 @@
       "tags": [
         "ai"
       ],
-      "score": "25",
+      "score": "170",
       "item_id": "hn:49589914",
       "summary_type": "extractive",
       "title_zh": "Ask HN: How do you manage skills files?",
       "summary_zh": "How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time?I believe skills will eventually be eating by model capabilities, but until then I&#x27;m just looking for a better way to manage things."
-    },
-    {
-      "title": "D2 Is Non-Profit",
-      "summary": "D2 Is Non-Profit",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://d2lang.com/blog/d2-non-profit/",
-      "published_at": "2026-09-06T19:11:05+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "32",
-      "item_id": "hn:49589768",
-      "summary_type": "extractive",
-      "title_zh": "D2 Is Non-Profit",
-      "summary_zh": "D2 Is Non-Profit"
     },
     {
       "title": "Nitter and XCancel resume service after legal advice",
@@ -188,27 +333,11 @@
       "tags": [
         "ai"
       ],
-      "score": "548",
+      "score": "780",
       "item_id": "hn:49588988",
       "summary_type": "extractive",
       "title_zh": "Nitter and XCancel resume service after legal advice",
       "summary_zh": "https:&#x2F;&#x2F;github.com&#x2F;zedeus&#x2F;nitterhttps:&#x2F;&#x2F;xcancel.com&#x2F;cdclegalhttps:&#x2F;&#x2F;nitter.net&#x2F;https:&#x2F;&#x2F;xcancel.com&#x2F;"
-    },
-    {
-      "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
-      "summary": "Opalite Health (YC W26) Is Hiring – Founding GTM",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
-      "published_at": "2026-09-06T17:00:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:49588466",
-      "summary_type": "extractive",
-      "title_zh": "Opalite Health (YC W26) Is Hiring – Founding GTM",
-      "summary_zh": "Opalite Health (YC W26) Is Hiring – Founding GTM"
     },
     {
       "title": "An Alien Mind",
@@ -220,7 +349,7 @@
       "tags": [
         "ai"
       ],
-      "score": "356",
+      "score": "426",
       "item_id": "hn:49588080",
       "summary_type": "extractive",
       "title_zh": "An Alien Mind",
@@ -236,7 +365,7 @@
       "tags": [
         "ai"
       ],
-      "score": "120",
+      "score": "137",
       "item_id": "hn:49587636",
       "summary_type": "extractive",
       "title_zh": "NetBSD 9.5 released and EOL for NetBSD-9",
@@ -253,27 +382,11 @@
         "llm",
         "paper"
       ],
-      "score": "130",
+      "score": "185",
       "item_id": "hn:49587217",
       "summary_type": "extractive",
       "title_zh": "Research acceleration: The view inside OpenAI",
       "summary_zh": "Research acceleration: The view inside OpenAI"
-    },
-    {
-      "title": "A/I shuts down",
-      "summary": "A/I shuts down",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "published_at": "2026-09-06T14:34:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "544",
-      "item_id": "hn:49586898",
-      "summary_type": "extractive",
-      "title_zh": "A/I shuts down",
-      "summary_zh": "A/I shuts down"
     },
     {
       "title": "Asahi Linux on M3",
@@ -285,59 +398,11 @@
       "tags": [
         "ai"
       ],
-      "score": "380",
+      "score": "506",
       "item_id": "hn:49586698",
       "summary_type": "extractive",
       "title_zh": "Asahi Linux on M3",
       "summary_zh": "https:&#x2F;&#x2F;www.phoronix.com&#x2F;news&#x2F;Asahi-Linux-Official-M3"
-    },
-    {
-      "title": "2026 Hugo Awards",
-      "summary": "2026 Hugo Awards",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.thehugoawards.org/",
-      "published_at": "2026-09-06T12:41:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "80",
-      "item_id": "hn:49586005",
-      "summary_type": "extractive",
-      "title_zh": "2026 Hugo Awards",
-      "summary_zh": "2026 Hugo Awards"
-    },
-    {
-      "title": "Doomscrolling ourselves to death",
-      "summary": "Doomscrolling ourselves to death",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-      "published_at": "2026-09-06T11:53:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "381",
-      "item_id": "hn:49585627",
-      "summary_type": "extractive",
-      "title_zh": "Doomscrolling ourselves to death",
-      "summary_zh": "Doomscrolling ourselves to death"
-    },
-    {
-      "title": "Ask HN: Would you read a statistics textbook?",
-      "summary": "I had a classic Bayesian statistical education throughout my undergraduate and grad years and I’ve come to conclude that the plethora of books offered are pretty bad.For me personally statistics is intuitive if illustrated properly. A great example is https:&#x2F;&#x2F;seeing-theory.brown.edu&#x2F;I was wondering whether it would make sense to turn the intuitions behind statistics into a book. Would anyone read it?",
-      "full_text": "I had a classic Bayesian statistical education throughout my undergraduate and grad years and I’ve come to conclude that the plethora of books offered are pretty bad.For me personally statistics is intuitive if illustrated properly. \nA great example is https:&#x2F;&#x2F;seeing-theory.brown.edu&#x2F;I was wondering whether it would make sense to turn the intuitions behind statistics into a book. Would anyone read it? Do people still read stats books or would it be mostly a waste of effort?\nIf you",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=49583440",
-      "published_at": "2026-09-06T04:52:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "10",
-      "item_id": "hn:49583440",
-      "summary_type": "extractive",
-      "title_zh": "Ask HN: Would you read a statistics textbook?",
-      "summary_zh": "I had a classic Bayesian statistical education throughout my undergraduate and grad years and I’ve come to conclude that the plethora of books offered are pretty bad.For me personally statistics is intuitive if illustrated properly. A great example is https:&#x2F;&#x2F;seeing-theory.brown.edu&#x2F;I was wondering whether it would make sense to turn the intuitions behind statistics into a book. Would anyone read it?"
     },
     {
       "title": "Ask HN: Fable hacked my piano, can I release the results?",
@@ -349,7 +414,7 @@
       "tags": [
         "ai"
       ],
-      "score": "26",
+      "score": "182",
       "item_id": "hn:49577129",
       "summary_type": "extractive",
       "title_zh": "Ask HN: Fable hacked my piano, can I release the results?",
@@ -414,8 +479,8 @@
       "published_at": "2026-09-04T17:44:52Z",
       "tags": [
         "llm",
-        "tool",
         "agent",
+        "tool",
         "paper"
       ],
       "score": "📄",
@@ -484,8 +549,8 @@
       "url": "http://arxiv.org/abs/2609.05376v1",
       "published_at": "2026-09-04T17:27:35Z",
       "tags": [
-        "llm",
         "vision",
+        "llm",
         "paper"
       ],
       "score": "📄",
@@ -502,8 +567,8 @@
       "url": "http://arxiv.org/abs/2609.05374v1",
       "published_at": "2026-09-04T17:26:18Z",
       "tags": [
-        "agent",
         "vision",
+        "agent",
         "paper"
       ],
       "score": "📄",
@@ -537,8 +602,8 @@
       "url": "http://arxiv.org/abs/2609.05364v1",
       "published_at": "2026-09-04T17:08:51Z",
       "tags": [
-        "tool",
         "agent",
+        "tool",
         "paper"
       ],
       "score": "📄",
@@ -572,8 +637,8 @@
       "url": "http://arxiv.org/abs/2609.05339v1",
       "published_at": "2026-09-04T16:44:17Z",
       "tags": [
-        "tool",
         "agent",
+        "tool",
         "paper"
       ],
       "score": "📄",
@@ -607,9 +672,9 @@
       "url": "http://arxiv.org/abs/2609.05334v1",
       "published_at": "2026-09-04T16:40:06Z",
       "tags": [
+        "vision",
         "llm",
         "tool",
-        "vision",
         "paper"
       ],
       "score": "📄",
@@ -706,68 +771,20 @@
       "summary_zh": "Hyper-Connections and their manifold-constrained variant mHC widen a residual pathway from one stream to n, yet how trained models use this capacity remains unclear: how broadly blocks read and write, how strongly the residual pathway mixes streams, and whether the streams carry distinct representations. We examine these properties in the four-stream residual pathway of DeepSeek-V4-Flash using effective stream counts, cross-stream residual weights, and inter-stream cosine similarity. Read/write "
     },
     {
-      "title": "She Also Found It at the Movies",
-      "summary": "She Also Found It at the Movies",
+      "title": "I Connected My Withings Body+ to Home Assistant with an ESP32",
+      "summary": "I Connected My Withings Body+ to Home Assistant with an ESP32",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/she-also-found-it-at-the-movies",
-      "published_at": "2026-09-04T14:04:42+00:00",
+      "url": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud",
+      "published_at": "2026-09-03T14:33:01+00:00",
       "tags": [
         "ai"
       ],
-      "score": "3",
-      "item_id": "hn:49564839",
+      "score": "18",
+      "item_id": "hn:49550436",
       "summary_type": "extractive",
-      "title_zh": "She Also Found It at the Movies",
-      "summary_zh": "She Also Found It at the Movies"
-    },
-    {
-      "title": "The NX bit is not just about security",
-      "summary": "The NX bit is not just about security",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-      "published_at": "2026-09-04T13:47:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "37",
-      "item_id": "hn:49564609",
-      "summary_type": "extractive",
-      "title_zh": "The NX bit is not just about security",
-      "summary_zh": "The NX bit is not just about security"
-    },
-    {
-      "title": "Every Novel Is Boring–Until It Isn't",
-      "summary": "Every Novel Is Boring–Until It Isn't",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/",
-      "published_at": "2026-09-03T19:10:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "23",
-      "item_id": "hn:49555114",
-      "summary_type": "extractive",
-      "title_zh": "Every Novel Is Boring–Until It Isn't",
-      "summary_zh": "Every Novel Is Boring–Until It Isn't"
-    },
-    {
-      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-      "summary": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
-      "published_at": "2026-09-03T18:40:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "119",
-      "item_id": "hn:49554622",
-      "summary_type": "extractive",
-      "title_zh": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-      "summary_zh": "Babylonian Lamb Stew with Beets (1750–1730 BCE)"
+      "title_zh": "I Connected My Withings Body+ to Home Assistant with an ESP32",
+      "summary_zh": "I Connected My Withings Body+ to Home Assistant with an ESP32"
     },
     {
       "title": "I'm a seeing-eye dog for a computer",
@@ -779,59 +796,43 @@
       "tags": [
         "ai"
       ],
-      "score": "6",
+      "score": "77",
       "item_id": "hn:49550276",
       "summary_type": "extractive",
       "title_zh": "I'm a seeing-eye dog for a computer",
       "summary_zh": "I'm a seeing-eye dog for a computer"
     },
     {
-      "title": "IBM Quantum Nighthawk R2",
-      "summary": "IBM Quantum Nighthawk R2",
+      "title": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
+      "summary": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
-      "published_at": "2026-09-03T05:16:04+00:00",
+      "url": "https://play.simten.dev",
+      "published_at": "2026-09-02T14:47:09+00:00",
       "tags": [
         "ai"
       ],
-      "score": "81",
-      "item_id": "hn:49546198",
+      "score": "9",
+      "item_id": "hn:49537143",
       "summary_type": "extractive",
-      "title_zh": "IBM Quantum Nighthawk R2",
-      "summary_zh": "IBM Quantum Nighthawk R2"
+      "title_zh": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
+      "summary_zh": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)"
     },
     {
-      "title": "Electronic skin for prosthetics to sense temperature and pressure",
-      "summary": "Electronic skin for prosthetics to sense temperature and pressure",
+      "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+      "summary": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
-      "published_at": "2026-09-02T18:06:56+00:00",
+      "url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
+      "published_at": "2026-09-02T10:39:02+00:00",
       "tags": [
         "ai"
       ],
-      "score": "50",
-      "item_id": "hn:49540090",
+      "score": "30",
+      "item_id": "hn:49534396",
       "summary_type": "extractive",
-      "title_zh": "Electronic skin for prosthetics to sense temperature and pressure",
-      "summary_zh": "Electronic skin for prosthetics to sense temperature and pressure"
-    },
-    {
-      "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
-      "summary": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://en.wikipedia.org/wiki/M-DISC",
-      "published_at": "2026-09-02T04:10:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "191",
-      "item_id": "hn:49531619",
-      "summary_type": "extractive",
-      "title_zh": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
-      "summary_zh": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years"
+      "title_zh": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+      "summary_zh": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?"
     }
   ]
 }

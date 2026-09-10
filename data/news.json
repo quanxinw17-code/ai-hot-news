@@ -1,10 +1,154 @@
 {
-  "updated_at": "2026-09-10T16:16:30.626178+00:00",
+  "updated_at": "2026-09-10T20:45:30.330964+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Casablanca: How An Unproduced Play Marched into Movie History",
-      "summary": "Casablanca: How An Unproduced Play Marched into Movie History",
+      "title": "Creativity is the New Moat",
+      "summary": "Creativity is the New Moat",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+      "published_at": "2026-09-10T19:03:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "67",
+      "item_id": "hn:49648732",
+      "summary_type": "extractive",
+      "title_zh": "Creativity is the New Moat",
+      "summary_zh": "Creativity is the New Moat"
+    },
+    {
+      "title": "I'm a Proud Luddite. That's Why I Use Linux",
+      "summary": "I'm a Proud Luddite. That's Why I Use Linux",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://thelibre.news/im-a-proud-luddite-thats-why-i-use-linux/",
+      "published_at": "2026-09-10T19:01:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "20",
+      "item_id": "hn:49648709",
+      "summary_type": "extractive",
+      "title_zh": "I'm a Proud Luddite. That's Why I Use Linux",
+      "summary_zh": "I'm a Proud Luddite. That's Why I Use Linux"
+    },
+    {
+      "title": "The Iron Heel by Jack London",
+      "summary": "The Iron Heel by Jack London",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.gutenberg.org/files/1164/1164-h/1164-h.htm",
+      "published_at": "2026-09-10T18:56:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "7",
+      "item_id": "hn:49648652",
+      "summary_type": "extractive",
+      "title_zh": "The Iron Heel by Jack London",
+      "summary_zh": "The Iron Heel by Jack London"
+    },
+    {
+      "title": "JEP 544: Ahead-of-Time Code Compilation",
+      "summary": "JEP 544: Ahead-of-Time Code Compilation",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://openjdk.org/jeps/544",
+      "published_at": "2026-09-10T17:30:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "40",
+      "item_id": "hn:49647404",
+      "summary_type": "extractive",
+      "title_zh": "JEP 544: Ahead-of-Time Code Compilation",
+      "summary_zh": "JEP 544: Ahead-of-Time Code Compilation"
+    },
+    {
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "summary": "Detecting and countering misuse of AI: September 2026",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "published_at": "2026-09-10T17:23:42+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "18",
+      "item_id": "hn:49647300",
+      "summary_type": "extractive",
+      "title_zh": "Detecting and countering misuse of AI: September 2026",
+      "summary_zh": "Detecting and countering misuse of AI: September 2026"
+    },
+    {
+      "title": "Music Theory for the 21st-Century Classroom",
+      "summary": "Music Theory for the 21st-Century Classroom",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "published_at": "2026-09-10T17:14:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "74",
+      "item_id": "hn:49647134",
+      "summary_type": "extractive",
+      "title_zh": "Music Theory for the 21st-Century Classroom",
+      "summary_zh": "Music Theory for the 21st-Century Classroom"
+    },
+    {
+      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+      "summary": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tokenstead.ai/models/swe-2",
+      "published_at": "2026-09-10T16:52:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "38",
+      "item_id": "hn:49646778",
+      "summary_type": "extractive",
+      "title_zh": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+      "summary_zh": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1"
+    },
+    {
+      "title": "I have a theory that software drives people insane",
+      "summary": "I have a theory that software drives people insane",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://graybeard.ing/software-drives-people-insane/",
+      "published_at": "2026-09-10T16:13:42+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "365",
+      "item_id": "hn:49646181",
+      "summary_type": "extractive",
+      "title_zh": "I have a theory that software drives people insane",
+      "summary_zh": "I have a theory that software drives people insane"
+    },
+    {
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "summary": "Forgejo <=16.0.3 Critical RCE",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "published_at": "2026-09-10T15:57:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "96",
+      "item_id": "hn:49645907",
+      "summary_type": "extractive",
+      "title_zh": "Forgejo <=16.0.3 Critical RCE",
+      "summary_zh": "Forgejo <=16.0.3 Critical RCE"
+    },
+    {
+      "title": "Casablanca: How an unproduced play marched into movie history",
+      "summary": "Casablanca: How an unproduced play marched into movie history",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
@@ -12,43 +156,27 @@
       "tags": [
         "ai"
       ],
-      "score": "7",
+      "score": "41",
       "item_id": "hn:49645826",
       "summary_type": "extractive",
-      "title_zh": "Casablanca: How An Unproduced Play Marched into Movie History",
-      "summary_zh": "Casablanca: How An Unproduced Play Marched into Movie History"
+      "title_zh": "Casablanca: How an unproduced play marched into movie history",
+      "summary_zh": "Casablanca: How an unproduced play marched into movie history"
     },
     {
-      "title": "Serverless DTLS",
-      "summary": "Serverless DTLS",
+      "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
+      "summary": "Silicon Valley Is Transforming the Military-Industrial Complex",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://proxylity.com/docs/listeners/dtls.html",
-      "published_at": "2026-09-10T15:50:30+00:00",
+      "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+      "published_at": "2026-09-10T15:47:50+00:00",
       "tags": [
         "ai"
       ],
-      "score": "4",
-      "item_id": "hn:49645804",
+      "score": "108",
+      "item_id": "hn:49645754",
       "summary_type": "extractive",
-      "title_zh": "Serverless DTLS",
-      "summary_zh": "Serverless DTLS"
-    },
-    {
-      "title": "Neki by PlanetScale",
-      "summary": "Neki by PlanetScale",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://neki.dev/",
-      "published_at": "2026-09-10T15:48:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "15",
-      "item_id": "hn:49645763",
-      "summary_type": "extractive",
-      "title_zh": "Neki by PlanetScale",
-      "summary_zh": "Neki by PlanetScale"
+      "title_zh": "Silicon Valley Is Transforming the Military-Industrial Complex",
+      "summary_zh": "Silicon Valley Is Transforming the Military-Industrial Complex"
     },
     {
       "title": "Neki",
@@ -60,31 +188,31 @@
       "tags": [
         "ai"
       ],
-      "score": "15",
+      "score": "156",
       "item_id": "hn:49645686",
       "summary_type": "extractive",
       "title_zh": "Neki",
       "summary_zh": "Neki"
     },
     {
-      "title": "Apple is no longer thinking different",
-      "summary": "I&#x27;ve never bought an Android device in my life; I switched from Nokia to Apple directly, and I&#x27;ve been buying Apple stuff ever since.That said, I feel like Apple is no longer innovating; all the stuff I saw in the event and on youtube, these technologies are many years old. They&#x27;re just changing the colors to make sure people don&#x27;t mix them, same for the Duo, even the name is stolen.With all the AI stuff going on, I&#x27;d expect innovation to take a leap, peopl using AI to a",
-      "full_text": "I&#x27;ve never bought an Android device in my life; I switched from Nokia to Apple directly, and I&#x27;ve been buying Apple stuff ever since.That said, I feel like Apple is no longer innovating; all the stuff I saw in the event and on youtube, these technologies are many years old. They&#x27;re just changing the colors to make sure people don&#x27;t mix them, same for the Duo, even the name is stolen.With all the AI stuff going on, I&#x27;d expect innovation to take a leap, peopl using AI to a",
+      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+      "summary": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+      "full_text": "",
       "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=49645683",
-      "published_at": "2026-09-10T15:43:34+00:00",
+      "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+      "published_at": "2026-09-10T15:29:30+00:00",
       "tags": [
         "ai"
       ],
-      "score": "7",
-      "item_id": "hn:49645683",
+      "score": "181",
+      "item_id": "hn:49645437",
       "summary_type": "extractive",
-      "title_zh": "Apple is no longer thinking different",
-      "summary_zh": "I&#x27;ve never bought an Android device in my life; I switched from Nokia to Apple directly, and I&#x27;ve been buying Apple stuff ever since.That said, I feel like Apple is no longer innovating; all the stuff I saw in the event and on youtube, these technologies are many years old. They&#x27;re just changing the colors to make sure people don&#x27;t mix them, same for the Duo, even the name is stolen.With all the AI stuff going on, I&#x27;d expect innovation to take a leap, peopl using AI to a"
+      "title_zh": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+      "summary_zh": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth"
     },
     {
-      "title": "Don't Let Anyone Take Away Your Big Box of Cables",
-      "summary": "Don't Let Anyone Take Away Your Big Box of Cables",
+      "title": "Don't let anyone take away your big box of cables",
+      "summary": "Don't let anyone take away your big box of cables",
       "full_text": "",
       "source": "hacker news",
       "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
@@ -92,63 +220,47 @@
       "tags": [
         "ai"
       ],
-      "score": "21",
+      "score": "116",
       "item_id": "hn:49645393",
       "summary_type": "extractive",
-      "title_zh": "Don't Let Anyone Take Away Your Big Box of Cables",
-      "summary_zh": "Don't Let Anyone Take Away Your Big Box of Cables"
+      "title_zh": "Don't let anyone take away your big box of cables",
+      "summary_zh": "Don't let anyone take away your big box of cables"
     },
     {
-      "title": "USPS Failed to Properly Handle Some Primary Election Ballots, Audit Finds",
-      "summary": "USPS Failed to Properly Handle Some Primary Election Ballots, Audit Finds",
+      "title": "The Four-Color Theorem Gets a Rare New Proof",
+      "summary": "The Four-Color Theorem Gets a Rare New Proof",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.propublica.org/article/postal-service-audit-primary-election-ballots",
-      "published_at": "2026-09-10T15:03:17+00:00",
+      "url": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
+      "published_at": "2026-09-10T14:46:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "23",
-      "item_id": "hn:49644985",
+      "score": "30",
+      "item_id": "hn:49644647",
       "summary_type": "extractive",
-      "title_zh": "USPS Failed to Properly Handle Some Primary Election Ballots, Audit Finds",
-      "summary_zh": "USPS Failed to Properly Handle Some Primary Election Ballots, Audit Finds"
+      "title_zh": "The Four-Color Theorem Gets a Rare New Proof",
+      "summary_zh": "The Four-Color Theorem Gets a Rare New Proof"
     },
     {
-      "title": "Who Dung It? (Turdle.fun)",
-      "summary": "Who Dung It? (Turdle.fun)",
+      "title": "AI Is Breaking This Thing We Call Trust",
+      "summary": "AI Is Breaking This Thing We Call Trust",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://turdle.fun/",
-      "published_at": "2026-09-10T14:01:15+00:00",
+      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+      "published_at": "2026-09-10T14:21:20+00:00",
       "tags": [
         "ai"
       ],
-      "score": "11",
-      "item_id": "hn:49643864",
+      "score": "31",
+      "item_id": "hn:49644179",
       "summary_type": "extractive",
-      "title_zh": "Who Dung It? (Turdle.fun)",
-      "summary_zh": "Who Dung It? (Turdle.fun)"
+      "title_zh": "AI Is Breaking This Thing We Call Trust",
+      "summary_zh": "AI Is Breaking This Thing We Call Trust"
     },
     {
-      "title": "Bending Spoons buying Miro for $1.355B",
-      "summary": "Bending Spoons buying Miro for $1.355B",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro",
-      "published_at": "2026-09-10T14:00:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "73",
-      "item_id": "hn:49643848",
-      "summary_type": "extractive",
-      "title_zh": "Bending Spoons buying Miro for $1.355B",
-      "summary_zh": "Bending Spoons buying Miro for $1.355B"
-    },
-    {
-      "title": "Rust Is Tier-1 Language at Microsoft",
-      "summary": "Rust Is Tier-1 Language at Microsoft",
+      "title": "Rust is tier-1 language at Microsoft",
+      "summary": "Rust is tier-1 language at Microsoft",
       "full_text": "",
       "source": "hacker news",
       "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
@@ -156,11 +268,11 @@
       "tags": [
         "ai"
       ],
-      "score": "225",
+      "score": "514",
       "item_id": "hn:49643546",
       "summary_type": "extractive",
-      "title_zh": "Rust Is Tier-1 Language at Microsoft",
-      "summary_zh": "Rust Is Tier-1 Language at Microsoft"
+      "title_zh": "Rust is tier-1 language at Microsoft",
+      "summary_zh": "Rust is tier-1 language at Microsoft"
     },
     {
       "title": "List of references on Sony websites to players \"owning\" their digital games",
@@ -172,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "197",
+      "score": "306",
       "item_id": "hn:49642531",
       "summary_type": "extractive",
       "title_zh": "List of references on Sony websites to players \"owning\" their digital games",
@@ -188,27 +300,11 @@
       "tags": [
         "ai"
       ],
-      "score": "250",
+      "score": "314",
       "item_id": "hn:49640646",
       "summary_type": "extractive",
       "title_zh": "What algorithm did Windows XP use to choose your initial user picture?",
       "summary_zh": "What algorithm did Windows XP use to choose your initial user picture?"
-    },
-    {
-      "title": "The first drink-driving conviction may have happened in London",
-      "summary": "The first drink-driving conviction may have happened in London",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ianvisits.co.uk/articles/the-worlds-first-drink-driving-conviction-may-have-happened-in-london-92107/",
-      "published_at": "2026-09-10T07:29:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "8",
-      "item_id": "hn:49639730",
-      "summary_type": "extractive",
-      "title_zh": "The first drink-driving conviction may have happened in London",
-      "summary_zh": "The first drink-driving conviction may have happened in London"
     },
     {
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
@@ -218,10 +314,10 @@
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "published_at": "2026-09-10T06:49:43+00:00",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
-      "score": "35",
+      "score": "378",
       "item_id": "hn:49639408",
       "summary_type": "extractive",
       "title_zh": "More questions about whether researchers can trust OpenAI with unpublished math",
@@ -237,43 +333,11 @@
       "tags": [
         "ai"
       ],
-      "score": "730",
+      "score": "888",
       "item_id": "hn:49639090",
       "summary_type": "extractive",
       "title_zh": "DeepSeek v4.1 Flash",
       "summary_zh": "https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4.1-Flash"
-    },
-    {
-      "title": "Show HN: What if the speed of light was 5 km/h?",
-      "summary": "I&#x27;ve always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it!",
-      "full_text": "I&#x27;ve always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it!",
-      "source": "hacker news",
-      "url": "https://rivendell.dmitrybrant.com/relativity/",
-      "published_at": "2026-09-10T01:58:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "519",
-      "item_id": "hn:49637385",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: What if the speed of light was 5 km/h?",
-      "summary_zh": "I&#x27;ve always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it!"
-    },
-    {
-      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-      "summary": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "published_at": "2026-09-09T23:49:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "404",
-      "item_id": "hn:49636283",
-      "summary_type": "extractive",
-      "title_zh": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-      "summary_zh": "Automattic's board forces CEO Matt Mullenweg into leave of absence"
     },
     {
       "title": "iPhone Duo",
@@ -299,9 +363,9 @@
       "url": "http://arxiv.org/abs/2609.10522v1",
       "published_at": "2026-09-09T17:53:38Z",
       "tags": [
-        "paper",
         "vision",
         "llm",
+        "paper",
         "agent"
       ],
       "score": "📄",
@@ -311,36 +375,20 @@
       "summary_zh": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action. Show-Harness exposes discrete semantic action units that VLMs can naturally reason over, while embodiment-specific interpreters deterministically ground them into local robot actions, keeping the VL"
     },
     {
-      "title": "AirPods 5",
-      "summary": "AirPods 5",
-      "full_text": "",
+      "title": "Show HN: DOOM in the kernel, or fibers in eBPF",
+      "summary": "Some time ago my coworker who was working on first version of Perforator (https:&#x2F;&#x2F;github.com&#x2F;yandex&#x2F;perforator) kept talking about eBPF, so I got curious about its ISA and restrictions. That was around the time I read about DOOM on pregnancy test, so I thought: &quot;what if someone run DOOM inside of Linux kernel in eBPF? Surely, with some restrictions, this should still be possible?&quot;I started to play around with it somewhere in 2024 - first stripping DOOM to bare minim",
+      "full_text": "Some time ago my coworker who was working on first version of Perforator (https:&#x2F;&#x2F;github.com&#x2F;yandex&#x2F;perforator) kept talking about eBPF, so I got curious about its ISA and restrictions. That was around the time I read about DOOM on pregnancy test, so I thought: &quot;what if someone run DOOM inside of Linux kernel in eBPF? Surely, with some restrictions, this should still be possible?&quot;I started to play around with it somewhere in 2024 - first stripping DOOM to bare minim",
       "source": "hacker news",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "published_at": "2026-09-09T17:39:24+00:00",
+      "url": "https://ayles.github.io/doom-in-kernel/",
+      "published_at": "2026-09-09T17:31:39+00:00",
       "tags": [
         "ai"
       ],
-      "score": "498",
-      "item_id": "hn:49630253",
+      "score": "24",
+      "item_id": "hn:49630125",
       "summary_type": "extractive",
-      "title_zh": "AirPods 5",
-      "summary_zh": "AirPods 5"
-    },
-    {
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "summary": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "published_at": "2026-09-09T17:33:20+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "397",
-      "item_id": "hn:49630151",
-      "summary_type": "extractive",
-      "title_zh": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "summary_zh": "iPhone 18 Pro and iPhone 18 Pro Max"
+      "title_zh": "Show HN: DOOM in the kernel, or fibers in eBPF",
+      "summary_zh": "Some time ago my coworker who was working on first version of Perforator (https:&#x2F;&#x2F;github.com&#x2F;yandex&#x2F;perforator) kept talking about eBPF, so I got curious about its ISA and restrictions. That was around the time I read about DOOM on pregnancy test, so I thought: &quot;what if someone run DOOM inside of Linux kernel in eBPF? Surely, with some restrictions, this should still be possible?&quot;I started to play around with it somewhere in 2024 - first stripping DOOM to bare minim"
     },
     {
       "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
@@ -350,8 +398,8 @@
       "url": "http://arxiv.org/abs/2609.10494v1",
       "published_at": "2026-09-09T17:31:29Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.10494v1",
@@ -367,9 +415,9 @@
       "url": "http://arxiv.org/abs/2609.10464v1",
       "published_at": "2026-09-09T17:08:13Z",
       "tags": [
+        "tool",
         "paper",
-        "agent",
-        "tool"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.10464v1",
@@ -385,8 +433,8 @@
       "url": "http://arxiv.org/abs/2609.10451v1",
       "published_at": "2026-09-09T16:59:59Z",
       "tags": [
-        "paper",
         "tool",
+        "paper",
         "agent"
       ],
       "score": "📄",
@@ -403,8 +451,8 @@
       "url": "http://arxiv.org/abs/2609.10441v1",
       "published_at": "2026-09-09T16:53:02Z",
       "tags": [
-        "paper",
         "llm",
+        "paper",
         "agent"
       ],
       "score": "📄",
@@ -421,9 +469,9 @@
       "url": "http://arxiv.org/abs/2609.10439v1",
       "published_at": "2026-09-09T16:50:41Z",
       "tags": [
-        "paper",
         "tool",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.10439v1",
@@ -439,8 +487,8 @@
       "url": "http://arxiv.org/abs/2609.10421v1",
       "published_at": "2026-09-09T16:37:35Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.10421v1",
@@ -456,8 +504,8 @@
       "url": "http://arxiv.org/abs/2609.10413v1",
       "published_at": "2026-09-09T16:31:45Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.10413v1",
@@ -473,8 +521,8 @@
       "url": "http://arxiv.org/abs/2609.10410v1",
       "published_at": "2026-09-09T16:30:15Z",
       "tags": [
-        "paper",
         "llm",
+        "paper",
         "vision"
       ],
       "score": "📄",
@@ -491,9 +539,9 @@
       "url": "http://arxiv.org/abs/2609.10385v1",
       "published_at": "2026-09-09T16:10:29Z",
       "tags": [
+        "tool",
         "paper",
-        "vision",
-        "tool"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.10385v1",
@@ -509,8 +557,8 @@
       "url": "http://arxiv.org/abs/2609.10372v1",
       "published_at": "2026-09-09T16:02:36Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.10372v1",
@@ -526,31 +574,15 @@
       "url": "http://arxiv.org/abs/2609.10364v1",
       "published_at": "2026-09-09T15:56:26Z",
       "tags": [
+        "tool",
         "paper",
-        "vision",
-        "tool"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.10364v1",
       "summary_type": "extractive",
       "title_zh": "OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis",
       "summary_zh": "Simultaneous assessment of medical imaging and patient records is often required in clinical diagnosis. However, standard machine learning algorithms cannot analyze these data types together. Meanwhile, compliance with HIPAA and GDPR can constrain centralized aggregation of sensitive patient data."
-    },
-    {
-      "title": "No Man's Sky Cosmos",
-      "summary": "No Man's Sky Cosmos",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nomanssky.com/cosmos-update/",
-      "published_at": "2026-09-09T15:47:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "431",
-      "item_id": "hn:49628493",
-      "summary_type": "extractive",
-      "title_zh": "No Man's Sky Cosmos",
-      "summary_zh": "No Man's Sky Cosmos"
     },
     {
       "title": "Cyber-Financial Contagion: Modeling the Propagation of an AI Vendor Compromise Through the Banking System",
@@ -576,9 +608,9 @@
       "url": "http://arxiv.org/abs/2609.10346v1",
       "published_at": "2026-09-09T15:44:32Z",
       "tags": [
-        "paper",
         "tool",
         "llm",
+        "paper",
         "vision"
       ],
       "score": "📄",
@@ -595,9 +627,9 @@
       "url": "http://arxiv.org/abs/2609.10335v1",
       "published_at": "2026-09-09T15:33:25Z",
       "tags": [
-        "paper",
         "tool",
         "llm",
+        "paper",
         "vision"
       ],
       "score": "📄",
@@ -631,8 +663,8 @@
       "url": "http://arxiv.org/abs/2609.10311v1",
       "published_at": "2026-09-09T15:18:37Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.10311v1",
@@ -648,9 +680,9 @@
       "url": "http://arxiv.org/abs/2609.10305v1",
       "published_at": "2026-09-09T15:16:31Z",
       "tags": [
-        "paper",
         "tool",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.10305v1",
@@ -666,8 +698,8 @@
       "url": "http://arxiv.org/abs/2609.10298v1",
       "published_at": "2026-09-09T15:12:52Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.10298v1",
@@ -702,59 +734,43 @@
       "tags": [
         "ai"
       ],
-      "score": "182",
+      "score": "252",
       "item_id": "hn:49627634",
       "summary_type": "extractive",
       "title_zh": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
       "summary_zh": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls"
     },
     {
-      "title": "Larger Pacific striped octopus",
-      "summary": "Larger Pacific striped octopus",
+      "title": "What happens when a GPU writes memory",
+      "summary": "What happens when a GPU writes memory",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
-      "published_at": "2026-09-09T04:32:22+00:00",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+      "published_at": "2026-09-08T19:46:59+00:00",
       "tags": [
         "ai"
       ],
-      "score": "110",
-      "item_id": "hn:49621018",
+      "score": "8",
+      "item_id": "hn:49615922",
       "summary_type": "extractive",
-      "title_zh": "Larger Pacific striped octopus",
-      "summary_zh": "Larger Pacific striped octopus"
+      "title_zh": "What happens when a GPU writes memory",
+      "summary_zh": "What happens when a GPU writes memory"
     },
     {
-      "title": "What do Visa and Mastercard do? An intro to card networks",
-      "summary": "What do Visa and Mastercard do? An intro to card networks",
+      "title": "Python sets and dictionaries can have quadratic-time performance",
+      "summary": "Python sets and dictionaries can have quadratic-time performance",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "published_at": "2026-09-08T18:11:05+00:00",
+      "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
+      "published_at": "2026-09-08T16:17:51+00:00",
       "tags": [
         "ai"
       ],
-      "score": "623",
-      "item_id": "hn:49614280",
+      "score": "69",
+      "item_id": "hn:49612470",
       "summary_type": "extractive",
-      "title_zh": "What do Visa and Mastercard do? An intro to card networks",
-      "summary_zh": "What do Visa and Mastercard do? An intro to card networks"
-    },
-    {
-      "title": "Show HN: Filament – Fast data movement engine in Go",
-      "summary": "Hi, I&#x27;m Leon one of the cofounders of Galaxy. We just open sourced Filament, our data movement engine.Its written in Go and Apache 2.0 licensed. We currently support a handful of API connectors, Postgres, MySQL, ClickHouse, Iceberg, and S3.We benchmarked Filament against a bunch of other open source data movement tools and results + the harness is available at https:&#x2F;&#x2F;github.com&#x2F;galaxy-io&#x2F;benchmarks.This is just our first minor release of Filament and there is a ton to b",
-      "full_text": "Hi, I&#x27;m Leon one of the cofounders of Galaxy. We just open sourced Filament, our data movement engine.Its written in Go and Apache 2.0 licensed. We currently support a handful of API connectors, Postgres, MySQL, ClickHouse, Iceberg, and S3.We benchmarked Filament against a bunch of other open source data movement tools and results + the harness is available at https:&#x2F;&#x2F;github.com&#x2F;galaxy-io&#x2F;benchmarks.This is just our first minor release of Filament and there is a ton to b",
-      "source": "hacker news",
-      "url": "https://github.com/galaxy-io/filament",
-      "published_at": "2026-09-08T14:48:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:49611112",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Filament – Fast data movement engine in Go",
-      "summary_zh": "Hi, I&#x27;m Leon one of the cofounders of Galaxy. We just open sourced Filament, our data movement engine.Its written in Go and Apache 2.0 licensed. We currently support a handful of API connectors, Postgres, MySQL, ClickHouse, Iceberg, and S3.We benchmarked Filament against a bunch of other open source data movement tools and results + the harness is available at https:&#x2F;&#x2F;github.com&#x2F;galaxy-io&#x2F;benchmarks.This is just our first minor release of Filament and there is a ton to b"
+      "title_zh": "Python sets and dictionaries can have quadratic-time performance",
+      "summary_zh": "Python sets and dictionaries can have quadratic-time performance"
     },
     {
       "title": "To write non-fiction, draw the trunk, then the rest of the tree",
@@ -766,11 +782,27 @@
       "tags": [
         "ai"
       ],
-      "score": "43",
+      "score": "74",
       "item_id": "hn:49610780",
       "summary_type": "extractive",
       "title_zh": "To write non-fiction, draw the trunk, then the rest of the tree",
       "summary_zh": "To write non-fiction, draw the trunk, then the rest of the tree"
+    },
+    {
+      "title": "Macbeth and His Problems",
+      "summary": "Macbeth and His Problems",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+      "published_at": "2026-09-07T20:34:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "70",
+      "item_id": "hn:49602716",
+      "summary_type": "extractive",
+      "title_zh": "Macbeth and His Problems",
+      "summary_zh": "Macbeth and His Problems"
     },
     {
       "title": "Stockfish 19",
@@ -782,59 +814,27 @@
       "tags": [
         "ai"
       ],
-      "score": "178",
+      "score": "245",
       "item_id": "hn:49599992",
       "summary_type": "extractive",
       "title_zh": "Stockfish 19",
       "summary_zh": "Stockfish 19"
     },
     {
-      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-      "summary": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+      "title": "Schemy Lisp En DOS",
+      "summary": "Schemy Lisp En DOS",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-      "published_at": "2026-09-07T04:27:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "48",
-      "item_id": "hn:49593896",
-      "summary_type": "extractive",
-      "title_zh": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-      "summary_zh": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators"
-    },
-    {
-      "title": "Discrete Dipole Approximation Code Ddscat 7.2 (2012)",
-      "summary": "Discrete Dipole Approximation Code Ddscat 7.2 (2012)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arxiv.org/abs/1202.3424",
-      "published_at": "2026-09-05T19:45:47+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "7",
-      "item_id": "hn:49580005",
-      "summary_type": "extractive",
-      "title_zh": "Discrete Dipole Approximation Code Ddscat 7.2 (2012)",
-      "summary_zh": "Discrete Dipole Approximation Code Ddscat 7.2 (2012)"
-    },
-    {
-      "title": "Show HN: Art – draw one stroke, let symmetry complete it",
-      "summary": "Show HN: Art – draw one stroke, let symmetry complete it",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://mrdee.in/mandala/",
-      "published_at": "2026-09-05T15:35:13+00:00",
+      "url": "https://sled.neocities.org/",
+      "published_at": "2026-09-06T12:58:54+00:00",
       "tags": [
         "ai"
       ],
       "score": "65",
-      "item_id": "hn:49577541",
+      "item_id": "hn:49586139",
       "summary_type": "extractive",
-      "title_zh": "Show HN: Art – draw one stroke, let symmetry complete it",
-      "summary_zh": "Show HN: Art – draw one stroke, let symmetry complete it"
+      "title_zh": "Schemy Lisp En DOS",
+      "summary_zh": "Schemy Lisp En DOS"
     }
   ]
 }

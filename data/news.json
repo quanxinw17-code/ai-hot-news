@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-09-16T04:34:36.912673+00:00",
+  "updated_at": "2026-09-16T11:20:37.511546+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Salesforce Global Outage",
+      "summary": "Salesforce Global Outage",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://status.salesforce.com/products/all",
+      "published_at": "2026-09-16T10:37:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:49724488",
+      "summary_type": "extractive",
+      "title_zh": "Salesforce Global Outage",
+      "summary_zh": "Salesforce Global Outage"
+    },
+    {
+      "title": "EU chief opens door for Canada to become 'associate member'",
+      "summary": "EU chief opens door for Canada to become 'associate member'",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+      "published_at": "2026-09-16T09:54:05+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "149",
+      "item_id": "hn:49724141",
+      "summary_type": "extractive",
+      "title_zh": "EU chief opens door for Canada to become 'associate member'",
+      "summary_zh": "EU chief opens door for Canada to become 'associate member'"
+    },
+    {
+      "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
+      "summary": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/dbalsom/martypc",
+      "published_at": "2026-09-16T05:56:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "22",
+      "item_id": "hn:49722591",
+      "summary_type": "extractive",
+      "title_zh": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
+      "summary_zh": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator"
+    },
+    {
+      "title": "A software thing I built: GPS on a 25MHz 486-SX",
+      "summary": "A software thing I built: GPS on a 25MHz 486-SX",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+      "published_at": "2026-09-16T05:43:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "32",
+      "item_id": "hn:49722521",
+      "summary_type": "extractive",
+      "title_zh": "A software thing I built: GPS on a 25MHz 486-SX",
+      "summary_zh": "A software thing I built: GPS on a 25MHz 486-SX"
+    },
     {
       "title": "Negativland, Culture Jamming, and the Art of Making Something New",
       "summary": "Negativland, Culture Jamming, and the Art of Making Something New",
@@ -12,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "34",
+      "score": "87",
       "item_id": "hn:49721548",
       "summary_type": "extractive",
       "title_zh": "Negativland, Culture Jamming, and the Art of Making Something New",
@@ -28,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "37",
+      "score": "76",
       "item_id": "hn:49721435",
       "summary_type": "extractive",
       "title_zh": "Stay discoverable in search while disallowing AI training",
@@ -44,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "58",
+      "score": "102",
       "item_id": "hn:49720164",
       "summary_type": "extractive",
       "title_zh": "Saving Jet Fuel",
@@ -60,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "69",
+      "score": "134",
       "item_id": "hn:49719938",
       "summary_type": "extractive",
       "title_zh": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
@@ -76,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "159",
+      "score": "231",
       "item_id": "hn:49718928",
       "summary_type": "extractive",
       "title_zh": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
@@ -92,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "111",
+      "score": "137",
       "item_id": "hn:49718822",
       "summary_type": "extractive",
       "title_zh": "Jean-Pierre Serre turns 100",
@@ -108,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "207",
+      "score": "344",
       "item_id": "hn:49717638",
       "summary_type": "extractive",
       "title_zh": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
@@ -124,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "123",
+      "score": "167",
       "item_id": "hn:49717605",
       "summary_type": "extractive",
       "title_zh": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
@@ -140,7 +204,7 @@
       "tags": [
         "ai"
       ],
-      "score": "965",
+      "score": "🔥 1.4k",
       "item_id": "hn:49717558",
       "summary_type": "extractive",
       "title_zh": "Introducing System One Models and Jev",
@@ -156,7 +220,7 @@
       "tags": [
         "ai"
       ],
-      "score": "143",
+      "score": "188",
       "item_id": "hn:49716953",
       "summary_type": "extractive",
       "title_zh": "Chopping up books when they're physically too big",
@@ -172,11 +236,80 @@
       "tags": [
         "ai"
       ],
-      "score": "249",
+      "score": "287",
       "item_id": "hn:49716476",
       "summary_type": "extractive",
       "title_zh": "We got admin access to Baseten's production GitHub",
       "summary_zh": "We got admin access to Baseten's production GitHub"
+    },
+    {
+      "title": "Agentic Societies Need a Social Harness",
+      "summary": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic societies even honest, competent agents often fail to reach satisfactory outcomes with existing harnesses and messaging primitives, and that faulty or malicious agents can stall collaboration, influence outcomes, and pursue other harmful goals by exploiting vulnerabilities in commu",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17527v1",
+      "published_at": "2026-09-15T17:57:27Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17527v1",
+      "summary_type": "extractive",
+      "title_zh": "Agentic Societies Need a Social Harness",
+      "summary_zh": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic societies even honest, competent agents often fail to reach satisfactory outcomes with existing harnesses and messaging primitives, and that faulty or malicious agents can stall collaboration, influence outcomes, and pursue other harmful goals by exploiting vulnerabilities in commu"
+    },
+    {
+      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "summary": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning. At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning: ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17523v1",
+      "published_at": "2026-09-15T17:55:28Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17523v1",
+      "summary_type": "extractive",
+      "title_zh": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "summary_zh": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning. At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning: "
+    },
+    {
+      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+      "summary": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation starts, or use pixel-space signals that dictate object positions rather than physical dynamics. To address these limitations, we propose PhysStream, an autoregressive model for physics-grounded image-to-video synthesis that incorporates structured scene memory-",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17521v1",
+      "published_at": "2026-09-15T17:55:13Z",
+      "tags": [
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17521v1",
+      "summary_type": "extractive",
+      "title_zh": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+      "summary_zh": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation starts, or use pixel-space signals that dictate object positions rather than physical dynamics. To address these limitations, we propose PhysStream, an autoregressive model for physics-grounded image-to-video synthesis that incorporates structured scene memory-"
+    },
+    {
+      "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+      "summary": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a question. We evaluate three CoSQ variants under seventeen conditions on the 817-item TruthfulQA multiple-choice validation set using eleven open-weight and hosted model families.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17516v1",
+      "published_at": "2026-09-15T17:52:24Z",
+      "tags": [
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17516v1",
+      "summary_type": "extractive",
+      "title_zh": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+      "summary_zh": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a question. We evaluate three CoSQ variants under seventeen conditions on the 817-item TruthfulQA multiple-choice validation set using eleven open-weight and hosted model families."
     },
     {
       "title": "An update on Wayback Machine access",
@@ -188,27 +321,154 @@
       "tags": [
         "ai"
       ],
-      "score": "445",
+      "score": "557",
       "item_id": "hn:49716176",
       "summary_type": "extractive",
       "title_zh": "An update on Wayback Machine access",
       "summary_zh": "An update on Wayback Machine access"
     },
     {
-      "title": "GEFS on OpenBSD: A Early Preview",
-      "summary": "GEFS on OpenBSD: A Early Preview",
+      "title": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
+      "summary": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate this by reducing the effective frame rate using a compression step to merge multiple frames together.",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-      "published_at": "2026-09-15T17:12:19+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17509v1",
+      "published_at": "2026-09-15T17:46:51Z",
       "tags": [
-        "ai"
+        "paper",
+        "llm"
       ],
-      "score": "110",
-      "item_id": "hn:49715590",
+      "score": "📄",
+      "item_id": "arxiv:2609.17509v1",
       "summary_type": "extractive",
-      "title_zh": "GEFS on OpenBSD: A Early Preview",
-      "summary_zh": "GEFS on OpenBSD: A Early Preview"
+      "title_zh": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
+      "summary_zh": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate this by reducing the effective frame rate using a compression step to merge multiple frames together."
+    },
+    {
+      "title": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
+      "summary": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decisions. As one of the most advanced uncertainty estimation frameworks, conformal prediction (CP) offers a promising approach for uncertainty estimation in VLN. However, given that VLN agent requires a sequence of steps, standard calibration in conformal prediction fails to provide coverage guarantee it p",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17499v1",
+      "published_at": "2026-09-15T17:42:15Z",
+      "tags": [
+        "tool",
+        "agent",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17499v1",
+      "summary_type": "extractive",
+      "title_zh": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
+      "summary_zh": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decisions. As one of the most advanced uncertainty estimation frameworks, conformal prediction (CP) offers a promising approach for uncertainty estimation in VLN. However, given that VLN agent requires a sequence of steps, standard calibration in conformal prediction fails to provide coverage guarantee it p"
+    },
+    {
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "summary": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns about social situations from subjective user narratives, and (ii) social properties, such as others' intentions, typically lack verifiable ground truth. To address these challenges, we introduce Fuse, a multi-agent simulation framework for studying user-mediated social reasoning. In Fuse, a target a",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17496v1",
+      "published_at": "2026-09-15T17:37:29Z",
+      "tags": [
+        "tool",
+        "agent",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17496v1",
+      "summary_type": "extractive",
+      "title_zh": "Verifiable Social Reasoning for LLM Assistants",
+      "summary_zh": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns about social situations from subjective user narratives, and (ii) social properties, such as others' intentions, typically lack verifiable ground truth. To address these challenges, we introduce Fuse, a multi-agent simulation framework for studying user-mediated social reasoning. In Fuse, a target a"
+    },
+    {
+      "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
+      "summary": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is pretrained with Context-Conditional Masked Modeling (CCMM). CMNs shifts the organizing principle of in-context learning from target-centric prediction to mechanism-oriented joint modeling.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17488v1",
+      "published_at": "2026-09-15T17:30:02Z",
+      "tags": [
+        "vision",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17488v1",
+      "summary_type": "extractive",
+      "title_zh": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
+      "summary_zh": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is pretrained with Context-Conditional Masked Modeling (CCMM). CMNs shifts the organizing principle of in-context learning from target-centric prediction to mechanism-oriented joint modeling."
+    },
+    {
+      "title": "Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection",
+      "summary": "Despite the rapid uptake of black-box object detectors in marine mammal research and monitoring, explainability techniques are rarely integrated into conservation workflows. Furthermore, most classification-oriented explainability tools are ill-suited to detection tasks involving imagery of social organisms or those with colonial life histories, as they ignore multiple detections within a scene and produce single-instance outputs that blur evidence across individuals. These methods also generate",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17479v1",
+      "published_at": "2026-09-15T17:20:16Z",
+      "tags": [
+        "tool",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17479v1",
+      "summary_type": "extractive",
+      "title_zh": "Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection",
+      "summary_zh": "Despite the rapid uptake of black-box object detectors in marine mammal research and monitoring, explainability techniques are rarely integrated into conservation workflows. Furthermore, most classification-oriented explainability tools are ill-suited to detection tasks involving imagery of social organisms or those with colonial life histories, as they ignore multiple detections within a scene and produce single-instance outputs that blur evidence across individuals. These methods also generate"
+    },
+    {
+      "title": "JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management",
+      "summary": "Capable open-weight models make local coding and reasoning attractive, but their context and execution state strain laptop memory. We present JustFit, an MLX-based inference runtime that combines KVExec for compressed KV execution, PhaseSwap for component residency, and StateTrans for state-preserving serving transitions. These mechanisms fuse reconstruction and coordinate just-in-time materialization and release, independently of model-weight quantization.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17475v1",
+      "published_at": "2026-09-15T17:15:48Z",
+      "tags": [
+        "tool",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17475v1",
+      "summary_type": "extractive",
+      "title_zh": "JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management",
+      "summary_zh": "Capable open-weight models make local coding and reasoning attractive, but their context and execution state strain laptop memory. We present JustFit, an MLX-based inference runtime that combines KVExec for compressed KV execution, PhaseSwap for component residency, and StateTrans for state-preserving serving transitions. These mechanisms fuse reconstruction and coordinate just-in-time materialization and release, independently of model-weight quantization."
+    },
+    {
+      "title": "Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
+      "summary": "Large language model (LLM) distillation aims to transfer the capabilities of a powerful teacher to a smaller student. Direct imitation, however, can also transfer the teacher's systematic bias and errors. This challenge is particularly pronounced under covariate shift, when the teacher's reliability on target questions is uncertain and target-domain reward feedback is unavailable.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17474v1",
+      "published_at": "2026-09-15T17:15:40Z",
+      "tags": [
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17474v1",
+      "summary_type": "extractive",
+      "title_zh": "Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
+      "summary_zh": "Large language model (LLM) distillation aims to transfer the capabilities of a powerful teacher to a smaller student. Direct imitation, however, can also transfer the teacher's systematic bias and errors. This challenge is particularly pronounced under covariate shift, when the teacher's reliability on target questions is uncertain and target-domain reward feedback is unavailable."
+    },
+    {
+      "title": "Decomposition Buys Integrity, Not Yield",
+      "summary": "Multi-agent systems split a task across a tree of agents and justify the split with folklore: smaller contexts, cleaner separation, parallelism. We ask what the split does to how much of what the leaves discover reaches the root. Model a decomposition as a tree in which an agent handed $b$ items keeps any one with probability $r(b)$.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17464v1",
+      "published_at": "2026-09-15T17:04:09Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17464v1",
+      "summary_type": "extractive",
+      "title_zh": "Decomposition Buys Integrity, Not Yield",
+      "summary_zh": "Multi-agent systems split a task across a tree of agents and justify the split with folklore: smaller contexts, cleaner separation, parallelism. We ask what the split does to how much of what the leaves discover reaches the root. Model a decomposition as a tree in which an agent handed $b$ items keeps any one with probability $r(b)$."
     },
     {
       "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
@@ -227,36 +487,143 @@
       "summary_zh": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)"
     },
     {
-      "title": "Cartesian – AI 3D Modeling for Design",
-      "summary": "Cartesian – AI 3D Modeling for Design",
+      "title": "Evaluating Verified Autonomy in Quantum Engineering",
+      "summary": "Reliable quantum engineering is essential for turning quantum phenomena into practical technologies. As quantum platforms grow in scale and complexity, their characterization and operation require increasing human effort and coordination. Scientific artificial intelligence agents, which can plan experiments, operate instruments, and analyze observations, offer a promising route towards autonomous quantum engineering.",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.formas.ai/cartesian",
-      "published_at": "2026-09-15T15:26:45+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17439v1",
+      "published_at": "2026-09-15T16:46:08Z",
       "tags": [
-        "ai"
+        "tool",
+        "agent",
+        "paper"
       ],
-      "score": "101",
-      "item_id": "hn:49713999",
+      "score": "📄",
+      "item_id": "arxiv:2609.17439v1",
       "summary_type": "extractive",
-      "title_zh": "Cartesian – AI 3D Modeling for Design",
-      "summary_zh": "Cartesian – AI 3D Modeling for Design"
+      "title_zh": "Evaluating Verified Autonomy in Quantum Engineering",
+      "summary_zh": "Reliable quantum engineering is essential for turning quantum phenomena into practical technologies. As quantum platforms grow in scale and complexity, their characterization and operation require increasing human effort and coordination. Scientific artificial intelligence agents, which can plan experiments, operate instruments, and analyze observations, offer a promising route towards autonomous quantum engineering."
     },
     {
-      "title": "The CSS Zen Garden dream, finally shipped",
-      "summary": "The CSS Zen Garden dream, finally shipped",
+      "title": "CareMirror: Bringing Caregiver Wellbeing into the Dementia Care Ecosystem",
+      "summary": "Family caregivers of people living with dementia shoulder emotional and practical responsibilities, yet their own wellbeing often remains peripheral to dementia care. We built CareMirror, an envisioned caregiver wellbeing ecosystem with interconnected caregiver- and clinician-facing interfaces for longitudinal reflection, personalized support, and caregiver-controlled sharing with clinical care. We conducted semi-structured interviews with 14 caregivers, using CareMirror as a design probe to exa",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
-      "published_at": "2026-09-15T14:40:08+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17434v1",
+      "published_at": "2026-09-15T16:43:17Z",
       "tags": [
-        "ai"
+        "vision",
+        "paper"
       ],
-      "score": "131",
-      "item_id": "hn:49713262",
+      "score": "📄",
+      "item_id": "arxiv:2609.17434v1",
       "summary_type": "extractive",
-      "title_zh": "The CSS Zen Garden dream, finally shipped",
-      "summary_zh": "The CSS Zen Garden dream, finally shipped"
+      "title_zh": "CareMirror: Bringing Caregiver Wellbeing into the Dementia Care Ecosystem",
+      "summary_zh": "Family caregivers of people living with dementia shoulder emotional and practical responsibilities, yet their own wellbeing often remains peripheral to dementia care. We built CareMirror, an envisioned caregiver wellbeing ecosystem with interconnected caregiver- and clinician-facing interfaces for longitudinal reflection, personalized support, and caregiver-controlled sharing with clinical care. We conducted semi-structured interviews with 14 caregivers, using CareMirror as a design probe to exa"
+    },
+    {
+      "title": "Learning-Guided Planning in Large Dynamic Action Spaces: Budgeted Tree Search for One-to-Many Mobile Charging",
+      "summary": "Many learned sequential decision systems map the current state directly to an action. That shortcut becomes brittle when candidate actions are numerous, geometrically structured, and rebuilt with the state. One-to-many mobile charging makes this setting concrete: with N=250 sensors, the initial state induces about 1,125 candidate charging-stop actions; each chosen stop simultaneously serves its in-range sensors, and the action universe changes as sensors die.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17429v1",
+      "published_at": "2026-09-15T16:42:12Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17429v1",
+      "summary_type": "extractive",
+      "title_zh": "Learning-Guided Planning in Large Dynamic Action Spaces: Budgeted Tree Search for One-to-Many Mobile Charging",
+      "summary_zh": "Many learned sequential decision systems map the current state directly to an action. That shortcut becomes brittle when candidate actions are numerous, geometrically structured, and rebuilt with the state. One-to-many mobile charging makes this setting concrete: with N=250 sensors, the initial state induces about 1,125 candidate charging-stop actions; each chosen stop simultaneously serves its in-range sensors, and the action universe changes as sensors die."
+    },
+    {
+      "title": "Tracking the Unseen: An Occlusion-Robust Framework for Target Tracking Under Full and Long-Term Occlusion",
+      "summary": "Real-time multi-object tracking systems remain highly vulnerable to full and long-term occlusion, where targets temporarily or completely disappear from the camera's field of view. Conventional trackers may terminate trajectories prematurely, resulting in identity loss and reduced situational awareness in applications such as defense and surveillance. This work proposes an occlusion-robust target tracking framework that maintains target identity and trajectory continuity through the integration ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17427v1",
+      "published_at": "2026-09-15T16:41:57Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17427v1",
+      "summary_type": "extractive",
+      "title_zh": "Tracking the Unseen: An Occlusion-Robust Framework for Target Tracking Under Full and Long-Term Occlusion",
+      "summary_zh": "Real-time multi-object tracking systems remain highly vulnerable to full and long-term occlusion, where targets temporarily or completely disappear from the camera's field of view. Conventional trackers may terminate trajectories prematurely, resulting in identity loss and reduced situational awareness in applications such as defense and surveillance. This work proposes an occlusion-robust target tracking framework that maintains target identity and trajectory continuity through the integration "
+    },
+    {
+      "title": "Coding Agents Have Converged: Why the SWE-bench Leaderboard Can No Longer Order Its Top Entries, and What to Measure Instead",
+      "summary": "Small differences on coding-agent leaderboards are often read as an ordering of systems. We audit whether the published verdicts support this reading, using 254 SWE-bench submissions across four splits without running models. On Verified, the leading two entries each resolve 396 of 500 instances.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17394v1",
+      "published_at": "2026-09-15T16:29:12Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17394v1",
+      "summary_type": "extractive",
+      "title_zh": "Coding Agents Have Converged: Why the SWE-bench Leaderboard Can No Longer Order Its Top Entries, and What to Measure Instead",
+      "summary_zh": "Small differences on coding-agent leaderboards are often read as an ordering of systems. We audit whether the published verdicts support this reading, using 254 SWE-bench submissions across four splits without running models. On Verified, the leading two entries each resolve 396 of 500 instances."
+    },
+    {
+      "title": "FlashVector: Agent for Hierarchical Model Serving Stack Optimization",
+      "summary": "Model serving is one of the largest cost drivers in production recommender systems. Maximizing its throughput requires navigating a deeply layered hierarchy: GPU kernels, the ML framework computation graph, the model server, and on-demand feature processing -- each demanding specialized domain expertise. Such cross-layer expertise is inherently difficult to acquire, and does not scale with a workload that continuously grows and evolves, leaving significant cost efficiency gains unrealized.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17391v1",
+      "published_at": "2026-09-15T16:27:45Z",
+      "tags": [
+        "tool",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17391v1",
+      "summary_type": "extractive",
+      "title_zh": "FlashVector: Agent for Hierarchical Model Serving Stack Optimization",
+      "summary_zh": "Model serving is one of the largest cost drivers in production recommender systems. Maximizing its throughput requires navigating a deeply layered hierarchy: GPU kernels, the ML framework computation graph, the model server, and on-demand feature processing -- each demanding specialized domain expertise. Such cross-layer expertise is inherently difficult to acquire, and does not scale with a workload that continuously grows and evolves, leaving significant cost efficiency gains unrealized."
+    },
+    {
+      "title": "Where Should a Document Live: Context, Representations, or Parameters?",
+      "summary": "To answer questions outside of their pre-training data, large language models (LLMs) need access to new information, which can be presented in the context window as documents, encoded into the model's parameters, or injected as latent representations. However, each of these methods comes with different efficiency, cost, and performance trade-offs, with no single winner. We present a controlled comparison of representation-based (KV-cache based) and parametric (fine-tuning-based) adaptation metho",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17346v1",
+      "published_at": "2026-09-15T15:47:02Z",
+      "tags": [
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17346v1",
+      "summary_type": "extractive",
+      "title_zh": "Where Should a Document Live: Context, Representations, or Parameters?",
+      "summary_zh": "To answer questions outside of their pre-training data, large language models (LLMs) need access to new information, which can be presented in the context window as documents, encoded into the model's parameters, or injected as latent representations. However, each of these methods comes with different efficiency, cost, and performance trade-offs, with no single winner. We present a controlled comparison of representation-based (KV-cache based) and parametric (fine-tuning-based) adaptation metho"
+    },
+    {
+      "title": "Self-Emergence Agent Architecture:Behavior-Inertia HMM, Reflexive Metacognition,and Social-Contrastive Self-Modeling",
+      "summary": "Large language model (LLM) agents exhibit strong language-generation and problem-solving capabilities, yet suffer from three structural limitations: personality drift, non-evolutionary reflection, and the absence of a self-other boundary. Existing generative-agent simulations rely on static memory and fixed prompts, maintaining neither behavioral inertia nor endogenous self-evolution. We propose the Self-Emergence Agent Architecture (SEAA), which integrates three components: (i) a Hidden Markov ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2609.17331v1",
+      "published_at": "2026-09-15T15:36:10Z",
+      "tags": [
+        "agent",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2609.17331v1",
+      "summary_type": "extractive",
+      "title_zh": "Self-Emergence Agent Architecture:Behavior-Inertia HMM, Reflexive Metacognition,and Social-Contrastive Self-Modeling",
+      "summary_zh": "Large language model (LLM) agents exhibit strong language-generation and problem-solving capabilities, yet suffer from three structural limitations: personality drift, non-evolutionary reflection, and the absence of a self-other boundary. Existing generative-agent simulations rely on static memory and fixed prompts, maintaining neither behavioral inertia nor endogenous self-evolution. We propose the Self-Emergence Agent Architecture (SEAA), which integrates three components: (i) a Hidden Markov "
     },
     {
       "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
@@ -268,115 +635,11 @@
       "tags": [
         "ai"
       ],
-      "score": "301",
+      "score": "335",
       "item_id": "hn:49712278",
       "summary_type": "extractive",
       "title_zh": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
       "summary_zh": "Hey HN,I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I&#x27;ve been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.The HTML file and any related assets are directly embedded in the database. User data can either be saved as a local"
-    },
-    {
-      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-      "summary": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://bkovac.github.io/modem-thing/",
-      "published_at": "2026-09-15T13:20:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "183",
-      "item_id": "hn:49712102",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-      "summary_zh": "Show HN: Hacking a $20 4G wireless hotspot into a texting device"
-    },
-    {
-      "title": "AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET",
-      "summary": "Thermal optimization of 2D CFET inverters requires testing structural proposals against their electrical costs. We examine these research tasks using an AI agent workflow within a supplied electrothermal model. At 12 nm, Astra selects a redistributed source-interconnect geometry, while a coordinating agent proposes a substrate-directed heat-removal path.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17123v1",
-      "published_at": "2026-09-15T12:48:44Z",
-      "tags": [
-        "llm",
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17123v1",
-      "summary_type": "extractive",
-      "title_zh": "AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET",
-      "summary_zh": "Thermal optimization of 2D CFET inverters requires testing structural proposals against their electrical costs. We examine these research tasks using an AI agent workflow within a supplied electrothermal model. At 12 nm, Astra selects a redistributed source-interconnect geometry, while a coordinating agent proposes a substrate-directed heat-removal path."
-    },
-    {
-      "title": "Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs",
-      "summary": "Modelling with mathematical formalisms like logical formulas, mathematical equations, or regular expressions is an important yet challenging task for students of computer science and other STEM disciplines. Identifying common mistakes occurring in this context is an important step towards helping struggling students by providing targeted high-quality feedback, e.g. in interactive learning systems.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17111v1",
-      "published_at": "2026-09-15T12:40:27Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17111v1",
-      "summary_type": "extractive",
-      "title_zh": "Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs",
-      "summary_zh": "Modelling with mathematical formalisms like logical formulas, mathematical equations, or regular expressions is an important yet challenging task for students of computer science and other STEM disciplines. Identifying common mistakes occurring in this context is an important step towards helping struggling students by providing targeted high-quality feedback, e.g. in interactive learning systems."
-    },
-    {
-      "title": "Shared-Prefix KV Reuse Across Standard LoRA Adapters: Quality and Serving Tradeoffs",
-      "summary": "A common small-model deployment runs one shared backbone with several LoRA specialists that answer over the same context. Serving them naively re-prefills that shared context once per specialist. We study a narrow, practical question: for already-trained standard LoRA adapters -- not adapters retrained for cache compatibility -- how much task quality is preserved if the backbone's prefill KV cache is computed once and reused across specialists, and what does that buy in serving cost?",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17109v1",
-      "published_at": "2026-09-15T12:39:16Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17109v1",
-      "summary_type": "extractive",
-      "title_zh": "Shared-Prefix KV Reuse Across Standard LoRA Adapters: Quality and Serving Tradeoffs",
-      "summary_zh": "A common small-model deployment runs one shared backbone with several LoRA specialists that answer over the same context. Serving them naively re-prefills that shared context once per specialist. We study a narrow, practical question: for already-trained standard LoRA adapters -- not adapters retrained for cache compatibility -- how much task quality is preserved if the backbone's prefill KV cache is computed once and reused across specialists, and what does that buy in serving cost?"
-    },
-    {
-      "title": "Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics",
-      "summary": "Generative AI promises natural language access to the massive numerical telemetry of data centers and Industry 4.0 installations, yet text-to-query and tool-using agents stay unreliable: even frontier models answer little more than half of real-world database questions, and far fewer of the multi-step, operational ones, because the LLM must compose how heterogeneous sources relate and hallucinates the relations, not just the fields. We propose symbolic separation: a deep agent reasons freely but",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17107v1",
-      "published_at": "2026-09-15T12:38:43Z",
-      "tags": [
-        "llm",
-        "agent",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17107v1",
-      "summary_type": "extractive",
-      "title_zh": "Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics",
-      "summary_zh": "Generative AI promises natural language access to the massive numerical telemetry of data centers and Industry 4.0 installations, yet text-to-query and tool-using agents stay unreliable: even frontier models answer little more than half of real-world database questions, and far fewer of the multi-step, operational ones, because the LLM must compose how heterogeneous sources relate and hallucinates the relations, not just the fields. We propose symbolic separation: a deep agent reasons freely but"
-    },
-    {
-      "title": "Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction",
-      "summary": "Liver cancer is a complex disease responsible for a high number of deaths across the globe each year, making automated solutions for liver cancer classification urgent. The most common form of liver cancer is hepatocellular carcinoma (HCC), accounting for over 90% of liver cancer cases. There is a distinct lack of publicly available HCC datasets utilizing genomic data, which is necessary for training artificial intelligence (AI) models for automated HCC classification.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17100v1",
-      "published_at": "2026-09-15T12:33:12Z",
-      "tags": [
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17100v1",
-      "summary_type": "extractive",
-      "title_zh": "Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction",
-      "summary_zh": "Liver cancer is a complex disease responsible for a high number of deaths across the globe each year, making automated solutions for liver cancer classification urgent. The most common form of liver cancer is hepatocellular carcinoma (HCC), accounting for over 90% of liver cancer cases. There is a distinct lack of publicly available HCC datasets utilizing genomic data, which is necessary for training artificial intelligence (AI) models for automated HCC classification."
     },
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -388,290 +651,11 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.4k",
+      "score": "🔥 1.6k",
       "item_id": "hn:49711544",
       "summary_type": "extractive",
       "title_zh": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "summary_zh": "See also: Avian Visitors - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424 - May 2026 (20 comments)"
-    },
-    {
-      "title": "Scaling-Score Conformal Prediction for Multi-Target Regression",
-      "summary": "Multi-target regression requires a model to simultaneously predict several related outputs. Conformal prediction provides distribution-free, finite-sample marginal coverage guarantees, but extending these to joint multi-dimensional regions in a model-agnostic, sample-efficient manner remains challenging: max-aggregation ignores scale differences, copula-based methods are only asymptotically valid, rectangular methods typically split the calibration set, and quantile or density-based methods requ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17091v1",
-      "published_at": "2026-09-15T12:23:57Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17091v1",
-      "summary_type": "extractive",
-      "title_zh": "Scaling-Score Conformal Prediction for Multi-Target Regression",
-      "summary_zh": "Multi-target regression requires a model to simultaneously predict several related outputs. Conformal prediction provides distribution-free, finite-sample marginal coverage guarantees, but extending these to joint multi-dimensional regions in a model-agnostic, sample-efficient manner remains challenging: max-aggregation ignores scale differences, copula-based methods are only asymptotically valid, rectangular methods typically split the calibration set, and quantile or density-based methods requ"
-    },
-    {
-      "title": "Interactive Memory Learning for Long-Term Conversations",
-      "summary": "Recent advancements in large language models have significantly enhanced the capabilities of agents in modeling long-term conversations. Despite these successes, existing approaches typically adopt a static heuristic paradigm, where information is passively archived without adaptive memory valuation. Consequently, these methods fail to self-evolve or align their memory management with evolving user needs.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17088v1",
-      "published_at": "2026-09-15T12:21:41Z",
-      "tags": [
-        "llm",
-        "agent",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17088v1",
-      "summary_type": "extractive",
-      "title_zh": "Interactive Memory Learning for Long-Term Conversations",
-      "summary_zh": "Recent advancements in large language models have significantly enhanced the capabilities of agents in modeling long-term conversations. Despite these successes, existing approaches typically adopt a static heuristic paradigm, where information is passively archived without adaptive memory valuation. Consequently, these methods fail to self-evolve or align their memory management with evolving user needs."
-    },
-    {
-      "title": "Sample-Conditioned Representation Selection for Audio Few-Shot Learning",
-      "summary": "Few-shot audio classifiers may rely on foreground-background co-occurrences and fail when those correlations shift. On SpurAudio, the resulting representation shift is concentrated and class dependent: for ResNet12, the top 10 percent of channels explain 82.80 percent of the null-corrected shift contribution. We propose SAMPLESELECT, which predicts a fixed-budget feature mask independently for each input while keeping the encoder and source classifier frozen.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17076v1",
-      "published_at": "2026-09-15T12:15:12Z",
-      "tags": [
-        "paper",
-        "ai"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17076v1",
-      "summary_type": "extractive",
-      "title_zh": "Sample-Conditioned Representation Selection for Audio Few-Shot Learning",
-      "summary_zh": "Few-shot audio classifiers may rely on foreground-background co-occurrences and fail when those correlations shift. On SpurAudio, the resulting representation shift is concentrated and class dependent: for ResNet12, the top 10 percent of channels explain 82.80 percent of the null-corrected shift contribution. We propose SAMPLESELECT, which predicts a fixed-budget feature mask independently for each input while keeping the encoder and source classifier frozen."
-    },
-    {
-      "title": "Beyond In-Distribution Metrics: A Systematic Out-of-Distribution Evaluation of Congenital Heart Disease Segmentation",
-      "summary": "Congenital heart disease (CHD) diagnosis and surgical planning often require patient-specific 3D anatomical models, but manual segmentation is labor-intensive, particularly in complex anatomies. Although deep-learning methods can automate this process, they are typically evaluated in-distribution, despite clinically relevant shifts in scanner, protocol, institution, population, and imaging modality. We present, to our knowledge, the first systematic evaluation of out-of-distribution (OOD) genera",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17068v1",
-      "published_at": "2026-09-15T12:10:52Z",
-      "tags": [
-        "vision",
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17068v1",
-      "summary_type": "extractive",
-      "title_zh": "Beyond In-Distribution Metrics: A Systematic Out-of-Distribution Evaluation of Congenital Heart Disease Segmentation",
-      "summary_zh": "Congenital heart disease (CHD) diagnosis and surgical planning often require patient-specific 3D anatomical models, but manual segmentation is labor-intensive, particularly in complex anatomies. Although deep-learning methods can automate this process, they are typically evaluated in-distribution, despite clinically relevant shifts in scanner, protocol, institution, population, and imaging modality. We present, to our knowledge, the first systematic evaluation of out-of-distribution (OOD) genera"
-    },
-    {
-      "title": "Beyond \"ChatGPT Can Make Mistakes\": Designing Interventions to Support Metacognitive Monitoring in AI-Assisted Work",
-      "summary": "AI assistance places a metacognitive demand on users, who must judge their own competence and the system's. Yet designers lack comparative evidence on which interventions to choose, where to place them, and how to tell whether they worked. We elicited 30 interventions from 11 experts and, with prior work, organized them into a design space of time (when an intervention acts), level (whose competence is judged), and source (who supplies the monitoring cue).",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17065v1",
-      "published_at": "2026-09-15T12:09:18Z",
-      "tags": [
-        "llm",
-        "vision",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17065v1",
-      "summary_type": "extractive",
-      "title_zh": "Beyond \"ChatGPT Can Make Mistakes\": Designing Interventions to Support Metacognitive Monitoring in AI-Assisted Work",
-      "summary_zh": "AI assistance places a metacognitive demand on users, who must judge their own competence and the system's. Yet designers lack comparative evidence on which interventions to choose, where to place them, and how to tell whether they worked. We elicited 30 interventions from 11 experts and, with prior work, organized them into a design space of time (when an intervention acts), level (whose competence is judged), and source (who supplies the monitoring cue)."
-    },
-    {
-      "title": "Neuro-Symbolic Hierarchical Intention Anticipation in Human Behavior",
-      "summary": "Assistive autonomous systems must anticipate human goals before an observed behavior is complete. This article formulates anticipation as goal inference from a partially observed multimodal episode together with structured prediction of the remaining behavior, rather than exact motor forecasting. A compact Hierarchical Planning Decoder (HPD) is attached to a frozen neuro-symbolic recognition encoder and predicts, at four ontological levels, the next actions, the remaining activities and low-leve",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17064v1",
-      "published_at": "2026-09-15T12:09:03Z",
-      "tags": [
-        "agent",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17064v1",
-      "summary_type": "extractive",
-      "title_zh": "Neuro-Symbolic Hierarchical Intention Anticipation in Human Behavior",
-      "summary_zh": "Assistive autonomous systems must anticipate human goals before an observed behavior is complete. This article formulates anticipation as goal inference from a partially observed multimodal episode together with structured prediction of the remaining behavior, rather than exact motor forecasting. A compact Hierarchical Planning Decoder (HPD) is attached to a frozen neuro-symbolic recognition encoder and predicts, at four ontological levels, the next actions, the remaining activities and low-leve"
-    },
-    {
-      "title": "Repurposing Unified Topological Signatures for Graph Representation Learning",
-      "summary": "Message-passing Graph Neural Networks (GNNs) iteratively propagate and aggregate local neighborhood information followed by global readout to learn graph representations. However, their discriminative power is upper-bounded by the Weisfeiler--Lehman (1-WL) graph isomorphism test. This prevents GNNs from distinguishing certain non-isomorphic graphs with identical local neighborhood structures, often leading to similar graph representations.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17061v1",
-      "published_at": "2026-09-15T12:07:05Z",
-      "tags": [
-        "paper",
-        "ai"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17061v1",
-      "summary_type": "extractive",
-      "title_zh": "Repurposing Unified Topological Signatures for Graph Representation Learning",
-      "summary_zh": "Message-passing Graph Neural Networks (GNNs) iteratively propagate and aggregate local neighborhood information followed by global readout to learn graph representations. However, their discriminative power is upper-bounded by the Weisfeiler--Lehman (1-WL) graph isomorphism test. This prevents GNNs from distinguishing certain non-isomorphic graphs with identical local neighborhood structures, often leading to similar graph representations."
-    },
-    {
-      "title": "Diagnosing the Fact-Grounding Gap in Multi-Hop Question Answering",
-      "summary": "Multi-hop question answering requires combining information from multiple documents to answer complex questions. These systems have grown increasingly capable, yet when they fail, the error is typically attributed to not finding the right documents. Whether this holds at the level of individual reasoning steps remains largely unexamined.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17043v1",
-      "published_at": "2026-09-15T11:51:52Z",
-      "tags": [
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17043v1",
-      "summary_type": "extractive",
-      "title_zh": "Diagnosing the Fact-Grounding Gap in Multi-Hop Question Answering",
-      "summary_zh": "Multi-hop question answering requires combining information from multiple documents to answer complex questions. These systems have grown increasingly capable, yet when they fail, the error is typically attributed to not finding the right documents. Whether this holds at the level of individual reasoning steps remains largely unexamined."
-    },
-    {
-      "title": "Sparse MLLM Anchors, Dense Adaptation: Breaking the Self-Referential Loop in Wild Test-Time Adaptation",
-      "summary": "Wild test-time adaptation (WTTA) updates a source model online under small test batches, concurrent distribution shifts, and time-varying class imbalance. Most WTTA methods derive their adaptation signals, including predictive uncertainty, sample reliability, and local feature geometry, from the model being adapted. When the source model is unreliable under shift, these signals can reinforce its own errors, forming a self-referential loop.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17040v1",
-      "published_at": "2026-09-15T11:48:30Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17040v1",
-      "summary_type": "extractive",
-      "title_zh": "Sparse MLLM Anchors, Dense Adaptation: Breaking the Self-Referential Loop in Wild Test-Time Adaptation",
-      "summary_zh": "Wild test-time adaptation (WTTA) updates a source model online under small test batches, concurrent distribution shifts, and time-varying class imbalance. Most WTTA methods derive their adaptation signals, including predictive uncertainty, sample reliability, and local feature geometry, from the model being adapted. When the source model is unreliable under shift, these signals can reinforce its own errors, forming a self-referential loop."
-    },
-    {
-      "title": "Distributed JEPA: A Self-Supervised Framework for Energy Forecasting",
-      "summary": "Traditional energy forecasting solutions rely on task-specific supervision and energy asset representations, limiting transferability and the ability to capture general temporal dynamics across heterogeneous assets. We address this by proposing a distributed Joint Embedding Predictive Architecture (JEPA) for self-supervised learning from heterogeneous energy time-series. The framework predicts latent representations of masked temporal segments while integrating temporal observations and contextu",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17029v1",
-      "published_at": "2026-09-15T11:36:20Z",
-      "tags": [
-        "vision",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17029v1",
-      "summary_type": "extractive",
-      "title_zh": "Distributed JEPA: A Self-Supervised Framework for Energy Forecasting",
-      "summary_zh": "Traditional energy forecasting solutions rely on task-specific supervision and energy asset representations, limiting transferability and the ability to capture general temporal dynamics across heterogeneous assets. We address this by proposing a distributed Joint Embedding Predictive Architecture (JEPA) for self-supervised learning from heterogeneous energy time-series. The framework predicts latent representations of masked temporal segments while integrating temporal observations and contextu"
-    },
-    {
-      "title": "SKIP: a Self-knowledge-guided Step-wise Preference Learning Framework for Concise Reasoning",
-      "summary": "While Chain-of-Thought (CoT) reasoning has been proven to be effective, it often leads to overthinking, resulting in computational overhead, inference latency, and even degraded performance in large language models (LLMs). Existing concise reasoning frameworks significantly compromise accuracy while compressing the length of output. In this paper, we propose SKIP, a self-knowledge-guided step-wise preference learning framework.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17019v1",
-      "published_at": "2026-09-15T11:29:29Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17019v1",
-      "summary_type": "extractive",
-      "title_zh": "SKIP: a Self-knowledge-guided Step-wise Preference Learning Framework for Concise Reasoning",
-      "summary_zh": "While Chain-of-Thought (CoT) reasoning has been proven to be effective, it often leads to overthinking, resulting in computational overhead, inference latency, and even degraded performance in large language models (LLMs). Existing concise reasoning frameworks significantly compromise accuracy while compressing the length of output. In this paper, we propose SKIP, a self-knowledge-guided step-wise preference learning framework."
-    },
-    {
-      "title": "25 years of mass surveillance is enough",
-      "summary": "25 years of mass surveillance is enough",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-      "published_at": "2026-09-15T11:26:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "827",
-      "item_id": "hn:49710883",
-      "summary_type": "extractive",
-      "title_zh": "25 years of mass surveillance is enough",
-      "summary_zh": "25 years of mass surveillance is enough"
-    },
-    {
-      "title": "ORDER: Task-Conditioned Routing for Retrieval-Augmented Generation",
-      "summary": "Retrieval-Augmented Generation (RAG) pipelines typically rely on a fixed indexing and retrieval configuration determined at preprocessing time. This one-size-fits-all design is ill-suited to domain-expert settings, where heterogeneous queries require different chunking granularities, metadata constraints, and source-selection strategies. As a result, configurations that are effective for one family of queries often perform poorly for others.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17012v1",
-      "published_at": "2026-09-15T11:23:16Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17012v1",
-      "summary_type": "extractive",
-      "title_zh": "ORDER: Task-Conditioned Routing for Retrieval-Augmented Generation",
-      "summary_zh": "Retrieval-Augmented Generation (RAG) pipelines typically rely on a fixed indexing and retrieval configuration determined at preprocessing time. This one-size-fits-all design is ill-suited to domain-expert settings, where heterogeneous queries require different chunking granularities, metadata constraints, and source-selection strategies. As a result, configurations that are effective for one family of queries often perform poorly for others."
-    },
-    {
-      "title": "ThinkFlow: Self-Evolving Probabilistic Latent Memory for Lifelong Conversational Agents",
-      "summary": "Lifelong conversational agents rely on memory systems to maintain deep, context-aware interactions with users. However, existing explicit textual memory pipelines suffer from a severe information bottleneck, often losing subtle behavioral patterns and emotional shifts. Furthermore, being typically static post-deployment, they cannot autonomously adapt to personal habits and preferences without manual feedback.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17010v1",
-      "published_at": "2026-09-15T11:21:39Z",
-      "tags": [
-        "agent",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17010v1",
-      "summary_type": "extractive",
-      "title_zh": "ThinkFlow: Self-Evolving Probabilistic Latent Memory for Lifelong Conversational Agents",
-      "summary_zh": "Lifelong conversational agents rely on memory systems to maintain deep, context-aware interactions with users. However, existing explicit textual memory pipelines suffer from a severe information bottleneck, often losing subtle behavioral patterns and emotional shifts. Furthermore, being typically static post-deployment, they cannot autonomously adapt to personal habits and preferences without manual feedback."
-    },
-    {
-      "title": "FlexEE: Self-Speculative and KV-Compatible Early Exiting for Offloading-Aware LLM Inference",
-      "summary": "Large language model (LLM) inference is often constrained by both computation and memory, especially in offloading-based deployments where model weights are transferred across memory hierarchies during autoregressive decoding. In this setting, reducing the number of executed layers can lower per-token latency while also avoiding costly weight movement. Motivated by this observation, we present FlexEE, an early exiting framework for resource-constrained and offloading-based LLM inference.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.17008v1",
-      "published_at": "2026-09-15T11:20:23Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.17008v1",
-      "summary_type": "extractive",
-      "title_zh": "FlexEE: Self-Speculative and KV-Compatible Early Exiting for Offloading-Aware LLM Inference",
-      "summary_zh": "Large language model (LLM) inference is often constrained by both computation and memory, especially in offloading-based deployments where model weights are transferred across memory hierarchies during autoregressive decoding. In this setting, reducing the number of executed layers can lower per-token latency while also avoiding costly weight movement. Motivated by this observation, we present FlexEE, an early exiting framework for resource-constrained and offloading-based LLM inference."
-    },
-    {
-      "title": "The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment",
-      "summary": "Large Language Models are now common in student assessment, but we know little about how student demographics affect their use. Sometimes, considering student demographics may be necessary -- for example, to improve readability for users with lower educational levels. However, it also risks being a cause of discrimination, e.g., when assigning lower scores to students from lower socioeconomic backgrounds.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2609.16993v1",
-      "published_at": "2026-09-15T11:07:26Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2609.16993v1",
-      "summary_type": "extractive",
-      "title_zh": "The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment",
-      "summary_zh": "Large Language Models are now common in student assessment, but we know little about how student demographics affect their use. Sometimes, considering student demographics may be necessary -- for example, to improve readability for users with lower educational levels. However, it also risks being a cause of discrimination, e.g., when assigning lower scores to students from lower socioeconomic backgrounds."
     },
     {
       "title": "Suspected sabotage causes major Netherlands rail disruption",
@@ -683,7 +667,7 @@
       "tags": [
         "ai"
       ],
-      "score": "453",
+      "score": "498",
       "item_id": "hn:49710253",
       "summary_type": "extractive",
       "title_zh": "Suspected sabotage causes major Netherlands rail disruption",
@@ -699,7 +683,7 @@
       "tags": [
         "ai"
       ],
-      "score": "345",
+      "score": "408",
       "item_id": "hn:49710109",
       "summary_type": "extractive",
       "title_zh": "Let's make quality the norm again",
@@ -722,36 +706,36 @@
       "summary_zh": "I can't stop thinking about Papua New Guinea"
     },
     {
-      "title": "The madman's guide to stamp collecting",
-      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;0DxNV",
-      "full_text": "https:&#x2F;&#x2F;archive.ph&#x2F;0DxNV",
-      "source": "hacker news",
-      "url": "https://www.wsj.com/arts-culture/books/the-madmans-guide-to-stamp-collecting-review-sticking-to-what-they-know-e96da0e9?st=dT9wdV&reflink=desktopwebshare_permalink",
-      "published_at": "2026-09-14T17:45:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "9",
-      "item_id": "hn:49700928",
-      "summary_type": "extractive",
-      "title_zh": "The madman's guide to stamp collecting",
-      "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;0DxNV"
-    },
-    {
-      "title": "Most people prefer traditional architecture",
-      "summary": "Most people prefer traditional architecture",
+      "title": "Doing Everyone Else's Job",
+      "summary": "Doing Everyone Else's Job",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
-      "published_at": "2026-09-14T14:30:17+00:00",
+      "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
+      "published_at": "2026-09-15T00:01:31+00:00",
       "tags": [
         "ai"
       ],
-      "score": "285",
-      "item_id": "hn:49697496",
+      "score": "90",
+      "item_id": "hn:49705944",
       "summary_type": "extractive",
-      "title_zh": "Most people prefer traditional architecture",
-      "summary_zh": "Most people prefer traditional architecture"
+      "title_zh": "Doing Everyone Else's Job",
+      "summary_zh": "Doing Everyone Else's Job"
+    },
+    {
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "summary": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arxiv.org/abs/2511.07885",
+      "published_at": "2026-09-14T09:16:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "54",
+      "item_id": "hn:49694035",
+      "summary_type": "extractive",
+      "title_zh": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "summary_zh": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI"
     },
     {
       "title": "Show HN: I made a flight simulator, except you're just a passenger",
@@ -763,11 +747,59 @@
       "tags": [
         "ai"
       ],
-      "score": "24",
+      "score": "221",
       "item_id": "hn:49693971",
       "summary_type": "extractive",
       "title_zh": "Show HN: I made a flight simulator, except you're just a passenger",
       "summary_zh": "Buckle your seatbelt, secure your tray table, and open your window shade. Now you can simulate flying anywhere in the world as a commercial passenger, from takeoff to touchdown. Terrain, weather, and realtime sun position included."
+    },
+    {
+      "title": "The Beauty of Roundabouts",
+      "summary": "The Beauty of Roundabouts",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://gruhn.me/blog/2026-09-14/",
+      "published_at": "2026-09-14T05:53:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "67",
+      "item_id": "hn:49692510",
+      "summary_type": "extractive",
+      "title_zh": "The Beauty of Roundabouts",
+      "summary_zh": "The Beauty of Roundabouts"
+    },
+    {
+      "title": "Douglas Adams and the exterminated Doctor Who adventure",
+      "summary": "Douglas Adams and the exterminated Doctor Who adventure",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
+      "published_at": "2026-09-13T21:49:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "6",
+      "item_id": "hn:49689062",
+      "summary_type": "extractive",
+      "title_zh": "Douglas Adams and the exterminated Doctor Who adventure",
+      "summary_zh": "Douglas Adams and the exterminated Doctor Who adventure"
+    },
+    {
+      "title": "Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507",
+      "summary": "Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.hyphanet.org/freenet-hyphanet-075-build-1507-fix-probe-routing-plugins-and-upkeep.html",
+      "published_at": "2026-09-13T16:23:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "7",
+      "item_id": "hn:49685693",
+      "summary_type": "extractive",
+      "title_zh": "Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507",
+      "summary_zh": "Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507"
     },
     {
       "title": "An interactive world map of the stories cultures have told",
@@ -779,7 +811,7 @@
       "tags": [
         "ai"
       ],
-      "score": "10",
+      "score": "51",
       "item_id": "hn:49684197",
       "summary_type": "extractive",
       "title_zh": "An interactive world map of the stories cultures have told",
@@ -795,43 +827,11 @@
       "tags": [
         "ai"
       ],
-      "score": "29",
+      "score": "39",
       "item_id": "hn:49680916",
       "summary_type": "extractive",
       "title_zh": "Sierra digital cameras on the Apple II",
       "summary_zh": "Sierra digital cameras on the Apple II"
-    },
-    {
-      "title": "Data races and the limits of ThreadSanitizer in C and Go",
-      "summary": "Data races and the limits of ThreadSanitizer in C and Go",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
-      "published_at": "2026-09-13T04:09:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "35",
-      "item_id": "hn:49679949",
-      "summary_type": "extractive",
-      "title_zh": "Data races and the limits of ThreadSanitizer in C and Go",
-      "summary_zh": "Data races and the limits of ThreadSanitizer in C and Go"
-    },
-    {
-      "title": "Giving up on smart rings",
-      "summary": "Giving up on smart rings",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://notesbylex.com/giving-up-on-smart-rings",
-      "published_at": "2026-09-12T22:00:20+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "101",
-      "item_id": "hn:49677648",
-      "summary_type": "extractive",
-      "title_zh": "Giving up on smart rings",
-      "summary_zh": "Giving up on smart rings"
     }
   ]
 }

@@ -1,7 +1,200 @@
 {
-  "updated_at": "2026-09-16T11:20:37.511546+00:00",
+  "updated_at": "2026-09-16T16:40:38.612844+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Code Is Crap",
+      "summary": "Code Is Crap",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+      "published_at": "2026-09-16T16:13:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "23",
+      "item_id": "hn:49729228",
+      "summary_type": "extractive",
+      "title_zh": "Code Is Crap",
+      "summary_zh": "Code Is Crap"
+    },
+    {
+      "title": "Small Programming Tricks",
+      "summary": "Small Programming Tricks",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "published_at": "2026-09-16T15:56:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "45",
+      "item_id": "hn:49729000",
+      "summary_type": "extractive",
+      "title_zh": "Small Programming Tricks",
+      "summary_zh": "Small Programming Tricks"
+    },
+    {
+      "title": "Can we stop with the uptime percentages?",
+      "summary": "Can we stop with the uptime percentages?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+      "published_at": "2026-09-16T15:40:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "46",
+      "item_id": "hn:49728733",
+      "summary_type": "extractive",
+      "title_zh": "Can we stop with the uptime percentages?",
+      "summary_zh": "Can we stop with the uptime percentages?"
+    },
+    {
+      "title": "Anatomy of a Texture",
+      "summary": "Anatomy of a Texture",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://agentlien.github.io/texture/",
+      "published_at": "2026-09-16T14:28:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:49727592",
+      "summary_type": "extractive",
+      "title_zh": "Anatomy of a Texture",
+      "summary_zh": "Anatomy of a Texture"
+    },
+    {
+      "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
+      "summary": "OpenAI expands ChatGPT ads with Sponsored Agents",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+      "published_at": "2026-09-16T13:51:15+00:00",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "score": "112",
+      "item_id": "hn:49727041",
+      "summary_type": "extractive",
+      "title_zh": "OpenAI expands ChatGPT ads with Sponsored Agents",
+      "summary_zh": "OpenAI expands ChatGPT ads with Sponsored Agents"
+    },
+    {
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "summary": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arxiv.org/abs/2609.14858",
+      "published_at": "2026-09-16T13:44:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "91",
+      "item_id": "hn:49726955",
+      "summary_type": "extractive",
+      "title_zh": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "summary_zh": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds"
+    },
+    {
+      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+      "summary": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "published_at": "2026-09-16T13:18:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "237",
+      "item_id": "hn:49726586",
+      "summary_type": "extractive",
+      "title_zh": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+      "summary_zh": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works"
+    },
+    {
+      "title": "Scaling Golang CI by Replacing actions/setup-go",
+      "summary": "Scaling Golang CI by Replacing actions/setup-go",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.cloudx.ai/posts/setup-go",
+      "published_at": "2026-09-16T13:02:14+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "43",
+      "item_id": "hn:49726350",
+      "summary_type": "extractive",
+      "title_zh": "Scaling Golang CI by Replacing actions/setup-go",
+      "summary_zh": "Scaling Golang CI by Replacing actions/setup-go"
+    },
+    {
+      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "summary": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://stale.jock.pl/",
+      "published_at": "2026-09-16T13:01:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "30",
+      "item_id": "hn:49726343",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "summary_zh": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models"
+    },
+    {
+      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "summary": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+      "published_at": "2026-09-16T12:19:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "95",
+      "item_id": "hn:49725800",
+      "summary_type": "extractive",
+      "title_zh": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "summary_zh": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model"
+    },
+    {
+      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+      "summary": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+      "published_at": "2026-09-16T11:49:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "167",
+      "item_id": "hn:49725356",
+      "summary_type": "extractive",
+      "title_zh": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+      "summary_zh": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years"
+    },
+    {
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "summary": "The Google Play app review process now regularly takes longer than a week",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://gultsch.social/@daniel/117280438824908947",
+      "published_at": "2026-09-16T11:19:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "263",
+      "item_id": "hn:49724927",
+      "summary_type": "extractive",
+      "title_zh": "The Google Play app review process now regularly takes longer than a week",
+      "summary_zh": "The Google Play app review process now regularly takes longer than a week"
+    },
     {
       "title": "Salesforce Global Outage",
       "summary": "Salesforce Global Outage",
@@ -12,43 +205,11 @@
       "tags": [
         "ai"
       ],
-      "score": "19",
+      "score": "217",
       "item_id": "hn:49724488",
       "summary_type": "extractive",
       "title_zh": "Salesforce Global Outage",
       "summary_zh": "Salesforce Global Outage"
-    },
-    {
-      "title": "EU chief opens door for Canada to become 'associate member'",
-      "summary": "EU chief opens door for Canada to become 'associate member'",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
-      "published_at": "2026-09-16T09:54:05+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "149",
-      "item_id": "hn:49724141",
-      "summary_type": "extractive",
-      "title_zh": "EU chief opens door for Canada to become 'associate member'",
-      "summary_zh": "EU chief opens door for Canada to become 'associate member'"
-    },
-    {
-      "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
-      "summary": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/dbalsom/martypc",
-      "published_at": "2026-09-16T05:56:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "22",
-      "item_id": "hn:49722591",
-      "summary_type": "extractive",
-      "title_zh": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
-      "summary_zh": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator"
     },
     {
       "title": "A software thing I built: GPS on a 25MHz 486-SX",
@@ -60,7 +221,7 @@
       "tags": [
         "ai"
       ],
-      "score": "32",
+      "score": "61",
       "item_id": "hn:49722521",
       "summary_type": "extractive",
       "title_zh": "A software thing I built: GPS on a 25MHz 486-SX",
@@ -76,43 +237,11 @@
       "tags": [
         "ai"
       ],
-      "score": "87",
+      "score": "111",
       "item_id": "hn:49721548",
       "summary_type": "extractive",
       "title_zh": "Negativland, Culture Jamming, and the Art of Making Something New",
       "summary_zh": "Negativland, Culture Jamming, and the Art of Making Something New"
-    },
-    {
-      "title": "Stay discoverable in search while disallowing AI training",
-      "summary": "Stay discoverable in search while disallowing AI training",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-      "published_at": "2026-09-16T02:25:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "76",
-      "item_id": "hn:49721435",
-      "summary_type": "extractive",
-      "title_zh": "Stay discoverable in search while disallowing AI training",
-      "summary_zh": "Stay discoverable in search while disallowing AI training"
-    },
-    {
-      "title": "Saving Jet Fuel",
-      "summary": "Saving Jet Fuel",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-      "published_at": "2026-09-15T23:17:20+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "102",
-      "item_id": "hn:49720164",
-      "summary_type": "extractive",
-      "title_zh": "Saving Jet Fuel",
-      "summary_zh": "Saving Jet Fuel"
     },
     {
       "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
@@ -124,7 +253,7 @@
       "tags": [
         "ai"
       ],
-      "score": "134",
+      "score": "171",
       "item_id": "hn:49719938",
       "summary_type": "extractive",
       "title_zh": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
@@ -140,27 +269,11 @@
       "tags": [
         "ai"
       ],
-      "score": "231",
+      "score": "266",
       "item_id": "hn:49718928",
       "summary_type": "extractive",
       "title_zh": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
       "summary_zh": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol"
-    },
-    {
-      "title": "Jean-Pierre Serre turns 100",
-      "summary": "Jean-Pierre Serre turns 100",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-      "published_at": "2026-09-15T20:57:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "137",
-      "item_id": "hn:49718822",
-      "summary_type": "extractive",
-      "title_zh": "Jean-Pierre Serre turns 100",
-      "summary_zh": "Jean-Pierre Serre turns 100"
     },
     {
       "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
@@ -172,27 +285,11 @@
       "tags": [
         "ai"
       ],
-      "score": "344",
+      "score": "392",
       "item_id": "hn:49717638",
       "summary_type": "extractive",
       "title_zh": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
       "summary_zh": "Building a Linux GPU Driver for the M4 Mac Mini in One Month"
-    },
-    {
-      "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-      "summary": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/GraafHenk/numberwang",
-      "published_at": "2026-09-15T19:27:35+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "167",
-      "item_id": "hn:49717605",
-      "summary_type": "extractive",
-      "title_zh": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-      "summary_zh": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages"
     },
     {
       "title": "Introducing System One Models and Jev",
@@ -204,27 +301,11 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.4k",
+      "score": "🔥 1.6k",
       "item_id": "hn:49717558",
       "summary_type": "extractive",
       "title_zh": "Introducing System One Models and Jev",
       "summary_zh": "Introducing System One Models and Jev"
-    },
-    {
-      "title": "Chopping up books when they're physically too big",
-      "summary": "Chopping up books when they're physically too big",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-      "published_at": "2026-09-15T18:45:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "188",
-      "item_id": "hn:49716953",
-      "summary_type": "extractive",
-      "title_zh": "Chopping up books when they're physically too big",
-      "summary_zh": "Chopping up books when they're physically too big"
     },
     {
       "title": "We got admin access to Baseten's production GitHub",
@@ -236,7 +317,7 @@
       "tags": [
         "ai"
       ],
-      "score": "287",
+      "score": "310",
       "item_id": "hn:49716476",
       "summary_type": "extractive",
       "title_zh": "We got admin access to Baseten's production GitHub",
@@ -284,8 +365,8 @@
       "url": "http://arxiv.org/abs/2609.17521v1",
       "published_at": "2026-09-15T17:55:13Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.17521v1",
@@ -301,9 +382,9 @@
       "url": "http://arxiv.org/abs/2609.17516v1",
       "published_at": "2026-09-15T17:52:24Z",
       "tags": [
+        "paper",
         "tool",
-        "llm",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.17516v1",
@@ -321,7 +402,7 @@
       "tags": [
         "ai"
       ],
-      "score": "557",
+      "score": "643",
       "item_id": "hn:49716176",
       "summary_type": "extractive",
       "title_zh": "An update on Wayback Machine access",
@@ -352,10 +433,10 @@
       "url": "http://arxiv.org/abs/2609.17499v1",
       "published_at": "2026-09-15T17:42:15Z",
       "tags": [
-        "tool",
         "agent",
-        "vision",
-        "paper"
+        "paper",
+        "tool",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.17499v1",
@@ -371,9 +452,9 @@
       "url": "http://arxiv.org/abs/2609.17496v1",
       "published_at": "2026-09-15T17:37:29Z",
       "tags": [
-        "tool",
         "agent",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -390,8 +471,8 @@
       "url": "http://arxiv.org/abs/2609.17488v1",
       "published_at": "2026-09-15T17:30:02Z",
       "tags": [
-        "vision",
         "paper",
+        "vision",
         "llm"
       ],
       "score": "📄",
@@ -408,9 +489,9 @@
       "url": "http://arxiv.org/abs/2609.17479v1",
       "published_at": "2026-09-15T17:20:16Z",
       "tags": [
-        "tool",
         "vision",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.17479v1",
@@ -426,8 +507,8 @@
       "url": "http://arxiv.org/abs/2609.17475v1",
       "published_at": "2026-09-15T17:15:48Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -471,22 +552,6 @@
       "summary_zh": "Multi-agent systems split a task across a tree of agents and justify the split with folklore: smaller contexts, cleaner separation, parallelism. We ask what the split does to how much of what the leaves discover reaches the root. Model a decomposition as a tree in which an agent handed $b$ items keeps any one with probability $r(b)$."
     },
     {
-      "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
-      "summary": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
-      "published_at": "2026-09-15T17:00:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:49715446",
-      "summary_type": "extractive",
-      "title_zh": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
-      "summary_zh": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)"
-    },
-    {
       "title": "Evaluating Verified Autonomy in Quantum Engineering",
       "summary": "Reliable quantum engineering is essential for turning quantum phenomena into practical technologies. As quantum platforms grow in scale and complexity, their characterization and operation require increasing human effort and coordination. Scientific artificial intelligence agents, which can plan experiments, operate instruments, and analyze observations, offer a promising route towards autonomous quantum engineering.",
       "full_text": "",
@@ -494,9 +559,9 @@
       "url": "http://arxiv.org/abs/2609.17439v1",
       "published_at": "2026-09-15T16:46:08Z",
       "tags": [
-        "tool",
         "agent",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.17439v1",
@@ -512,8 +577,8 @@
       "url": "http://arxiv.org/abs/2609.17434v1",
       "published_at": "2026-09-15T16:43:17Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.17434v1",
@@ -546,8 +611,8 @@
       "url": "http://arxiv.org/abs/2609.17427v1",
       "published_at": "2026-09-15T16:41:57Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.17427v1",
@@ -580,9 +645,9 @@
       "url": "http://arxiv.org/abs/2609.17391v1",
       "published_at": "2026-09-15T16:27:45Z",
       "tags": [
-        "tool",
         "agent",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.17391v1",
@@ -626,20 +691,20 @@
       "summary_zh": "Large language model (LLM) agents exhibit strong language-generation and problem-solving capabilities, yet suffer from three structural limitations: personality drift, non-evolutionary reflection, and the absence of a self-other boundary. Existing generative-agent simulations rely on static memory and fixed prompts, maintaining neither behavioral inertia nor endogenous self-evolution. We propose the Self-Emergence Agent Architecture (SEAA), which integrates three components: (i) a Hidden Markov "
     },
     {
-      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-      "summary": "Hey HN,I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I&#x27;ve been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.The HTML file and any related assets are directly embedded in the database. User data can either be saved as a local",
-      "full_text": "Hey HN,I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I&#x27;ve been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.The HTML file and any related assets are directly embedded in the database. User data can either be saved as a local",
+      "title": "How Big Are Factorials?",
+      "summary": "How Big Are Factorials?",
+      "full_text": "",
       "source": "hacker news",
-      "url": "https://withcapsule.app/",
-      "published_at": "2026-09-15T13:31:40+00:00",
+      "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+      "published_at": "2026-09-15T13:25:38+00:00",
       "tags": [
         "ai"
       ],
-      "score": "335",
-      "item_id": "hn:49712278",
+      "score": "27",
+      "item_id": "hn:49712185",
       "summary_type": "extractive",
-      "title_zh": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-      "summary_zh": "Hey HN,I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I&#x27;ve been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.The HTML file and any related assets are directly embedded in the database. User data can either be saved as a local"
+      "title_zh": "How Big Are Factorials?",
+      "summary_zh": "How Big Are Factorials?"
     },
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
@@ -651,59 +716,43 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.6k",
+      "score": "🔥 1.8k",
       "item_id": "hn:49711544",
       "summary_type": "extractive",
       "title_zh": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "summary_zh": "See also: Avian Visitors - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424 - May 2026 (20 comments)"
     },
     {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "summary": "Suspected sabotage causes major Netherlands rail disruption",
+      "title": "Tell the speakers that you liked their talks",
+      "summary": "Tell the speakers that you liked their talks",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "published_at": "2026-09-15T10:22:46+00:00",
+      "url": "https://ohhelloana.blog/tell-the-speakers/",
+      "published_at": "2026-09-15T11:28:19+00:00",
       "tags": [
         "ai"
       ],
-      "score": "498",
-      "item_id": "hn:49710253",
+      "score": "77",
+      "item_id": "hn:49710903",
       "summary_type": "extractive",
-      "title_zh": "Suspected sabotage causes major Netherlands rail disruption",
-      "summary_zh": "Suspected sabotage causes major Netherlands rail disruption"
+      "title_zh": "Tell the speakers that you liked their talks",
+      "summary_zh": "Tell the speakers that you liked their talks"
     },
     {
-      "title": "Let's make quality the norm again",
-      "summary": "Let's make quality the norm again",
+      "title": "Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling",
+      "summary": "Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.forbrukerradet.no/short-life/",
-      "published_at": "2026-09-15T10:00:16+00:00",
+      "url": "https://loiseaujc.github.io/posts/blog-title/make_gauss_seidel_great_again.html",
+      "published_at": "2026-09-15T10:14:29+00:00",
       "tags": [
         "ai"
       ],
-      "score": "408",
-      "item_id": "hn:49710109",
+      "score": "7",
+      "item_id": "hn:49710201",
       "summary_type": "extractive",
-      "title_zh": "Let's make quality the norm again",
-      "summary_zh": "Let's make quality the norm again"
-    },
-    {
-      "title": "I can't stop thinking about Papua New Guinea",
-      "summary": "I can't stop thinking about Papua New Guinea",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-      "published_at": "2026-09-15T06:16:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.0k",
-      "item_id": "hn:49708431",
-      "summary_type": "extractive",
-      "title_zh": "I can't stop thinking about Papua New Guinea",
-      "summary_zh": "I can't stop thinking about Papua New Guinea"
+      "title_zh": "Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling",
+      "summary_zh": "Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling"
     },
     {
       "title": "Doing Everyone Else's Job",
@@ -715,11 +764,27 @@
       "tags": [
         "ai"
       ],
-      "score": "90",
+      "score": "168",
       "item_id": "hn:49705944",
       "summary_type": "extractive",
       "title_zh": "Doing Everyone Else's Job",
       "summary_zh": "Doing Everyone Else's Job"
+    },
+    {
+      "title": "We do modern frequentist statistics: Using fake-data simulation",
+      "summary": "We do modern frequentist statistics: Using fake-data simulation",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://statmodeling.stat.columbia.edu/2026/09/14/this-is-modern-frequentist-statistics-using-fake-data-simulation-to-understand/",
+      "published_at": "2026-09-14T13:58:05+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "52",
+      "item_id": "hn:49696995",
+      "summary_type": "extractive",
+      "title_zh": "We do modern frequentist statistics: Using fake-data simulation",
+      "summary_zh": "We do modern frequentist statistics: Using fake-data simulation"
     },
     {
       "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
@@ -731,7 +796,7 @@
       "tags": [
         "ai"
       ],
-      "score": "54",
+      "score": "123",
       "item_id": "hn:49694035",
       "summary_type": "extractive",
       "title_zh": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
@@ -747,27 +812,11 @@
       "tags": [
         "ai"
       ],
-      "score": "221",
+      "score": "324",
       "item_id": "hn:49693971",
       "summary_type": "extractive",
       "title_zh": "Show HN: I made a flight simulator, except you're just a passenger",
       "summary_zh": "Buckle your seatbelt, secure your tray table, and open your window shade. Now you can simulate flying anywhere in the world as a commercial passenger, from takeoff to touchdown. Terrain, weather, and realtime sun position included."
-    },
-    {
-      "title": "The Beauty of Roundabouts",
-      "summary": "The Beauty of Roundabouts",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://gruhn.me/blog/2026-09-14/",
-      "published_at": "2026-09-14T05:53:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "67",
-      "item_id": "hn:49692510",
-      "summary_type": "extractive",
-      "title_zh": "The Beauty of Roundabouts",
-      "summary_zh": "The Beauty of Roundabouts"
     },
     {
       "title": "Douglas Adams and the exterminated Doctor Who adventure",
@@ -779,59 +828,11 @@
       "tags": [
         "ai"
       ],
-      "score": "6",
+      "score": "61",
       "item_id": "hn:49689062",
       "summary_type": "extractive",
       "title_zh": "Douglas Adams and the exterminated Doctor Who adventure",
       "summary_zh": "Douglas Adams and the exterminated Doctor Who adventure"
-    },
-    {
-      "title": "Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507",
-      "summary": "Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.hyphanet.org/freenet-hyphanet-075-build-1507-fix-probe-routing-plugins-and-upkeep.html",
-      "published_at": "2026-09-13T16:23:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "7",
-      "item_id": "hn:49685693",
-      "summary_type": "extractive",
-      "title_zh": "Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507",
-      "summary_zh": "Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507"
-    },
-    {
-      "title": "An interactive world map of the stories cultures have told",
-      "summary": "An interactive world map of the stories cultures have told",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://originmap.sunnyguha.com/",
-      "published_at": "2026-09-13T14:09:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "51",
-      "item_id": "hn:49684197",
-      "summary_type": "extractive",
-      "title_zh": "An interactive world map of the stories cultures have told",
-      "summary_zh": "An interactive world map of the stories cultures have told"
-    },
-    {
-      "title": "Sierra digital cameras on the Apple II",
-      "summary": "Sierra digital cameras on the Apple II",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
-      "published_at": "2026-09-13T07:11:20+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "39",
-      "item_id": "hn:49680916",
-      "summary_type": "extractive",
-      "title_zh": "Sierra digital cameras on the Apple II",
-      "summary_zh": "Sierra digital cameras on the Apple II"
     }
   ]
 }

@@ -1,22 +1,54 @@
 {
-  "updated_at": "2026-09-18T04:25:01.377632+00:00",
+  "updated_at": "2026-09-18T11:01:45.086215+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Waymo in Singapore",
-      "summary": "Waymo in Singapore",
+      "title": "OpenJev",
+      "summary": "OpenJev",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://waymo.com/waymo-in-singapore/",
-      "published_at": "2026-09-18T03:49:24+00:00",
+      "url": "https://openjev.com/",
+      "published_at": "2026-09-18T09:42:22+00:00",
       "tags": [
         "ai"
       ],
-      "score": "5",
-      "item_id": "hn:49749981",
+      "score": "96",
+      "item_id": "hn:49752041",
       "summary_type": "extractive",
-      "title_zh": "Waymo in Singapore",
-      "summary_zh": "Waymo in Singapore"
+      "title_zh": "OpenJev",
+      "summary_zh": "OpenJev"
+    },
+    {
+      "title": "Jemalloc 5.4.0",
+      "summary": "Jemalloc 5.4.0",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "published_at": "2026-09-18T04:20:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "167",
+      "item_id": "hn:49750152",
+      "summary_type": "extractive",
+      "title_zh": "Jemalloc 5.4.0",
+      "summary_zh": "Jemalloc 5.4.0"
+    },
+    {
+      "title": "The scourge of x86 emulation",
+      "summary": "The scourge of x86 emulation",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://fex-emu.com/Scourge-of-emulation/",
+      "published_at": "2026-09-18T04:09:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "160",
+      "item_id": "hn:49750094",
+      "summary_type": "extractive",
+      "title_zh": "The scourge of x86 emulation",
+      "summary_zh": "The scourge of x86 emulation"
     },
     {
       "title": "Pre-Greek: The lost language hidden within Ancient Greek",
@@ -28,27 +60,11 @@
       "tags": [
         "ai"
       ],
-      "score": "7",
+      "score": "89",
       "item_id": "hn:49749771",
       "summary_type": "extractive",
       "title_zh": "Pre-Greek: The lost language hidden within Ancient Greek",
       "summary_zh": "Pre-Greek: The lost language hidden within Ancient Greek"
-    },
-    {
-      "title": "Code Scans",
-      "summary": "Code Scans",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://devin.ai/blog/introducing-code-scans",
-      "published_at": "2026-09-18T03:00:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "8",
-      "item_id": "hn:49749744",
-      "summary_type": "extractive",
-      "title_zh": "Code Scans",
-      "summary_zh": "Code Scans"
     },
     {
       "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
@@ -60,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "13",
+      "score": "71",
       "item_id": "hn:49749393",
       "summary_type": "extractive",
       "title_zh": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
@@ -76,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "17",
+      "score": "44",
       "item_id": "hn:49749171",
       "summary_type": "extractive",
       "title_zh": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
@@ -92,15 +108,15 @@
       "tags": [
         "ai"
       ],
-      "score": "25",
+      "score": "63",
       "item_id": "hn:49748957",
       "summary_type": "extractive",
       "title_zh": "Telstra outage: The night a network decided the year was 2006",
       "summary_zh": "Telstra outage: The night a network decided the year was 2006"
     },
     {
-      "title": "Alibaba releases Qwen 3.8 Omni Flash",
-      "summary": "Alibaba releases Qwen 3.8 Omni Flash",
+      "title": "Qwen 3.8 Omni Flash",
+      "summary": "Qwen 3.8 Omni Flash",
       "full_text": "",
       "source": "hacker news",
       "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
@@ -108,11 +124,11 @@
       "tags": [
         "ai"
       ],
-      "score": "97",
+      "score": "235",
       "item_id": "hn:49747925",
       "summary_type": "extractive",
-      "title_zh": "Alibaba releases Qwen 3.8 Omni Flash",
-      "summary_zh": "Alibaba releases Qwen 3.8 Omni Flash"
+      "title_zh": "Qwen 3.8 Omni Flash",
+      "summary_zh": "Qwen 3.8 Omni Flash"
     },
     {
       "title": "How Uber Protects Against Retry Storms",
@@ -124,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "68",
+      "score": "102",
       "item_id": "hn:49746628",
       "summary_type": "extractive",
       "title_zh": "How Uber Protects Against Retry Storms",
@@ -140,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "306",
+      "score": "461",
       "item_id": "hn:49746618",
       "summary_type": "extractive",
       "title_zh": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
@@ -156,27 +172,11 @@
       "tags": [
         "ai"
       ],
-      "score": "72",
+      "score": "110",
       "item_id": "hn:49746407",
       "summary_type": "extractive",
       "title_zh": "The most important product decision is what you don't build",
       "summary_zh": "The most important product decision is what you don't build"
-    },
-    {
-      "title": "Computer Reset, Dallas",
-      "summary": "Computer Reset, Dallas",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://dfarq.homeip.net/computer-reset-dallas/",
-      "published_at": "2026-09-17T20:50:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "24",
-      "item_id": "hn:49746371",
-      "summary_type": "extractive",
-      "title_zh": "Computer Reset, Dallas",
-      "summary_zh": "Computer Reset, Dallas"
     },
     {
       "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
@@ -188,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "44",
+      "score": "78",
       "item_id": "hn:49746346",
       "summary_type": "extractive",
       "title_zh": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
@@ -204,7 +204,7 @@
       "tags": [
         "ai"
       ],
-      "score": "359",
+      "score": "487",
       "item_id": "hn:49746163",
       "summary_type": "extractive",
       "title_zh": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
@@ -220,7 +220,7 @@
       "tags": [
         "ai"
       ],
-      "score": "392",
+      "score": "502",
       "item_id": "hn:49745940",
       "summary_type": "extractive",
       "title_zh": "Astra for Law",
@@ -235,8 +235,8 @@
       "published_at": "2026-09-17T17:59:58Z",
       "tags": [
         "llm",
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20822v1",
@@ -252,8 +252,8 @@
       "url": "http://arxiv.org/abs/2609.20820v1",
       "published_at": "2026-09-17T17:59:53Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20820v1",
@@ -269,8 +269,8 @@
       "url": "http://arxiv.org/abs/2609.20817v1",
       "published_at": "2026-09-17T17:59:40Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20817v1",
@@ -286,10 +286,10 @@
       "url": "http://arxiv.org/abs/2609.20816v1",
       "published_at": "2026-09-17T17:59:30Z",
       "tags": [
-        "vision",
+        "paper",
         "llm",
-        "tool",
-        "paper"
+        "vision",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20816v1",
@@ -305,8 +305,8 @@
       "url": "http://arxiv.org/abs/2609.20815v1",
       "published_at": "2026-09-17T17:59:28Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20815v1",
@@ -322,10 +322,10 @@
       "url": "http://arxiv.org/abs/2609.20812v1",
       "published_at": "2026-09-17T17:59:04Z",
       "tags": [
-        "llm",
         "paper",
-        "tool",
-        "agent"
+        "llm",
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20812v1",
@@ -358,9 +358,9 @@
       "url": "http://arxiv.org/abs/2609.20784v1",
       "published_at": "2026-09-17T17:52:08Z",
       "tags": [
-        "vision",
         "paper",
-        "agent"
+        "agent",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20784v1",
@@ -393,8 +393,8 @@
       "url": "http://arxiv.org/abs/2609.20776v1",
       "published_at": "2026-09-17T17:48:07Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20776v1",
@@ -410,9 +410,9 @@
       "url": "http://arxiv.org/abs/2609.20768v1",
       "published_at": "2026-09-17T17:46:03Z",
       "tags": [
-        "vision",
         "paper",
-        "agent"
+        "agent",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20768v1",
@@ -428,9 +428,9 @@
       "url": "http://arxiv.org/abs/2609.20758v1",
       "published_at": "2026-09-17T17:42:29Z",
       "tags": [
+        "paper",
         "agent",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20758v1",
@@ -447,8 +447,8 @@
       "published_at": "2026-09-17T17:41:31Z",
       "tags": [
         "paper",
-        "tool",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20754v1",
@@ -481,9 +481,9 @@
       "url": "http://arxiv.org/abs/2609.20732v1",
       "published_at": "2026-09-17T17:22:43Z",
       "tags": [
+        "paper",
         "llm",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20732v1",
@@ -499,10 +499,10 @@
       "url": "http://arxiv.org/abs/2609.20722v1",
       "published_at": "2026-09-17T17:16:31Z",
       "tags": [
-        "llm",
         "paper",
-        "tool",
-        "agent"
+        "llm",
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20722v1",
@@ -518,33 +518,17 @@
       "url": "http://arxiv.org/abs/2609.20715v1",
       "published_at": "2026-09-17T17:11:29Z",
       "tags": [
-        "llm",
-        "paper",
-        "tool",
         "agent",
-        "vision"
+        "vision",
+        "tool",
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20715v1",
       "summary_type": "extractive",
       "title_zh": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
       "summary_zh": "Agent trajectories record what an agent does and what happens next. Yet standard supervised fine-tuning (SFT) applies loss only to agent-authored action tokens, using environment observations as context but not as prediction targets. We ask whether this convention provides the best initialization for subsequent reinforcement learning."
-    },
-    {
-      "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-      "summary": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://zscc.ai/careers?job_id=109821",
-      "published_at": "2026-09-17T17:00:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:49743567",
-      "summary_type": "extractive",
-      "title_zh": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-      "summary_zh": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI"
     },
     {
       "title": "HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface",
@@ -554,10 +538,10 @@
       "url": "http://arxiv.org/abs/2609.20659v1",
       "published_at": "2026-09-17T16:38:37Z",
       "tags": [
-        "vision",
+        "paper",
         "llm",
-        "tool",
-        "paper"
+        "vision",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20659v1",
@@ -592,7 +576,7 @@
       "tags": [
         "ai"
       ],
-      "score": "514",
+      "score": "624",
       "item_id": "hn:49743097",
       "summary_type": "extractive",
       "title_zh": "Hister: A private search engine for the pages you visit and the files you keep",
@@ -625,7 +609,7 @@
       "tags": [
         "ai"
       ],
-      "score": "138",
+      "score": "153",
       "item_id": "hn:49742355",
       "summary_type": "extractive",
       "title_zh": "CrowdSec Source Code Leak",
@@ -641,27 +625,11 @@
       "tags": [
         "ai"
       ],
-      "score": "161",
+      "score": "167",
       "item_id": "hn:49742353",
       "summary_type": "extractive",
       "title_zh": "Rate limits on GitLab.com are changing",
       "summary_zh": "Rate limits on GitLab.com are changing"
-    },
-    {
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window?",
-      "full_text": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks?   So I built this with the hope we could have a dedicated space to share and be open about our setups.",
-      "source": "hacker news",
-      "url": "https://mysetup.ai/",
-      "published_at": "2026-09-17T13:01:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "200",
-      "item_id": "hn:49740105",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Share your AI Setup, Learn from others",
-      "summary_zh": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window?"
     },
     {
       "title": "Why I didn’t sign the Fields medallists’ letter",
@@ -673,27 +641,59 @@
       "tags": [
         "ai"
       ],
-      "score": "228",
+      "score": "258",
       "item_id": "hn:49738091",
       "summary_type": "extractive",
       "title_zh": "Why I didn’t sign the Fields medallists’ letter",
       "summary_zh": "Why I didn’t sign the Fields medallists’ letter"
     },
     {
-      "title": "Better Icon and Label Alignment",
-      "summary": "Better Icon and Label Alignment",
+      "title": "Why Does the Universe Expand?",
+      "summary": "Why Does the Universe Expand?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ishadeed.com/article/aligning-list-icons/",
-      "published_at": "2026-09-16T14:25:41+00:00",
+      "url": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
+      "published_at": "2026-09-16T19:56:38+00:00",
       "tags": [
         "ai"
       ],
-      "score": "15",
-      "item_id": "hn:49727537",
+      "score": "67",
+      "item_id": "hn:49732087",
       "summary_type": "extractive",
-      "title_zh": "Better Icon and Label Alignment",
-      "summary_zh": "Better Icon and Label Alignment"
+      "title_zh": "Why Does the Universe Expand?",
+      "summary_zh": "Why Does the Universe Expand?"
+    },
+    {
+      "title": "Replacing Pull Requests with Delta",
+      "summary": "Replacing Pull Requests with Delta",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://zed.dev/blog/delta-public-beta",
+      "published_at": "2026-09-16T14:05:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:49727245",
+      "summary_type": "extractive",
+      "title_zh": "Replacing Pull Requests with Delta",
+      "summary_zh": "Replacing Pull Requests with Delta"
+    },
+    {
+      "title": "When the fractional part of a float fixes your shader",
+      "summary": "When the fractional part of a float fixes your shader",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+      "published_at": "2026-09-16T13:20:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "42",
+      "item_id": "hn:49726614",
+      "summary_type": "extractive",
+      "title_zh": "When the fractional part of a float fixes your shader",
+      "summary_zh": "When the fractional part of a float fixes your shader"
     },
     {
       "title": "Wax motor",
@@ -705,7 +705,7 @@
       "tags": [
         "ai"
       ],
-      "score": "297",
+      "score": "423",
       "item_id": "hn:49726007",
       "summary_type": "extractive",
       "title_zh": "Wax motor",
@@ -721,43 +721,27 @@
       "tags": [
         "ai"
       ],
-      "score": "10",
+      "score": "47",
       "item_id": "hn:49725404",
       "summary_type": "extractive",
       "title_zh": "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
       "summary_zh": "Apple detectives solved mystery of ancient tree and rewrote the history of fruit"
     },
     {
-      "title": "I Put Nam A2-Lite Inside an iRig HD X",
-      "summary": "I Put Nam A2-Lite Inside an iRig HD X",
+      "title": "Khipu (Quipu) Field Guide",
+      "summary": "Khipu (Quipu) Field Guide",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://playtaurus.com/blog/i-put-nam-a2-lite-inside-an-irig-hd-x",
-      "published_at": "2026-09-16T08:28:10+00:00",
+      "url": "https://www.khipufieldguide.com/",
+      "published_at": "2026-09-16T01:32:29+00:00",
       "tags": [
         "ai"
       ],
-      "score": "23",
-      "item_id": "hn:49723544",
+      "score": "18",
+      "item_id": "hn:49721122",
       "summary_type": "extractive",
-      "title_zh": "I Put Nam A2-Lite Inside an iRig HD X",
-      "summary_zh": "I Put Nam A2-Lite Inside an iRig HD X"
-    },
-    {
-      "title": "Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime",
-      "summary": "Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/",
-      "published_at": "2026-09-16T00:51:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "32",
-      "item_id": "hn:49720854",
-      "summary_type": "extractive",
-      "title_zh": "Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime",
-      "summary_zh": "Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime"
+      "title_zh": "Khipu (Quipu) Field Guide",
+      "summary_zh": "Khipu (Quipu) Field Guide"
     },
     {
       "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
@@ -769,7 +753,7 @@
       "tags": [
         "ai"
       ],
-      "score": "96",
+      "score": "130",
       "item_id": "hn:49715936",
       "summary_type": "extractive",
       "title_zh": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
@@ -785,27 +769,59 @@
       "tags": [
         "ai"
       ],
-      "score": "538",
+      "score": "601",
       "item_id": "hn:49715813",
       "summary_type": "extractive",
       "title_zh": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
       "summary_zh": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA"
     },
     {
-      "title": "TSMC revealing details about next gen A14 node",
-      "summary": "Abstract at IEDM website belowABSTRACTA14 NanoFlexTM Pro platform technology features the world’s smallest SRAM with a cell size &lt;0.017μm2 and highest SRAM macro density to date through dimensional ground rule scaling. Coupled with standard cell innovations, it delivers a full-node PPA improvement over the predecessor N2 technology for a 10~15% speed enhancement, a 25~30% power reduction and a chip density increase by ~20% driven by logic and SRAM scaling. Key features, such as TSV, innovativ",
-      "full_text": "Abstract at IEDM website belowABSTRACTA14 NanoFlexTM Pro platform technology features the world’s smallest SRAM with a cell size &lt;0.017μm2 and highest SRAM macro density to date through dimensional ground rule scaling. Coupled with standard cell innovations, it delivers a full-node PPA improvement over the predecessor N2 technology for a 10~15% speed enhancement, a 25~30% power reduction and a chip density increase by ~20% driven by logic and SRAM scaling. Key features, such as TSV, innovativ",
+      "title": "Speeding up gearhash on ARM64",
+      "summary": "Speeding up gearhash on ARM64",
+      "full_text": "",
       "source": "hacker news",
-      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
-      "published_at": "2026-09-15T15:31:55+00:00",
+      "url": "https://sam.dev/blog/gearhash-on-arm64",
+      "published_at": "2026-09-15T16:02:15+00:00",
       "tags": [
         "ai"
       ],
-      "score": "102",
-      "item_id": "hn:49714096",
+      "score": "22",
+      "item_id": "hn:49714596",
       "summary_type": "extractive",
-      "title_zh": "TSMC revealing details about next gen A14 node",
-      "summary_zh": "Abstract at IEDM website belowABSTRACTA14 NanoFlexTM Pro platform technology features the world’s smallest SRAM with a cell size &lt;0.017μm2 and highest SRAM macro density to date through dimensional ground rule scaling. Coupled with standard cell innovations, it delivers a full-node PPA improvement over the predecessor N2 technology for a 10~15% speed enhancement, a 25~30% power reduction and a chip density increase by ~20% driven by logic and SRAM scaling. Key features, such as TSV, innovativ"
+      "title_zh": "Speeding up gearhash on ARM64",
+      "summary_zh": "Speeding up gearhash on ARM64"
+    },
+    {
+      "title": "Dr Julius Neubronner's Miniature Pigeon Camera",
+      "summary": "Dr Julius Neubronner's Miniature Pigeon Camera",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://publicdomainreview.org/collection/dr-julius-neubronner-s-miniature-pigeon-camera/",
+      "published_at": "2026-09-15T14:27:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "6",
+      "item_id": "hn:49713088",
+      "summary_type": "extractive",
+      "title_zh": "Dr Julius Neubronner's Miniature Pigeon Camera",
+      "summary_zh": "Dr Julius Neubronner's Miniature Pigeon Camera"
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "summary": "See also: Avian Visitors - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424 - May 2026 (20 comments)",
+      "full_text": "See also: Avian Visitors - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424 - May 2026 (20 comments)",
+      "source": "hacker news",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "published_at": "2026-09-15T12:31:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "🔥 2.2k",
+      "item_id": "hn:49711544",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "summary_zh": "See also: Avian Visitors - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424 - May 2026 (20 comments)"
     },
     {
       "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
@@ -817,27 +833,11 @@
       "tags": [
         "ai"
       ],
-      "score": "40",
+      "score": "73",
       "item_id": "hn:49710447",
       "summary_type": "extractive",
       "title_zh": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
       "summary_zh": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain"
-    },
-    {
-      "title": "Running Ubuntu on the Lenovo IdeaPad Duet",
-      "summary": "Running Ubuntu on the Lenovo IdeaPad Duet",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://vhaudiquet.fr/blog/duet-ubuntu/",
-      "published_at": "2026-09-14T21:40:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "73",
-      "item_id": "hn:49704503",
-      "summary_type": "extractive",
-      "title_zh": "Running Ubuntu on the Lenovo IdeaPad Duet",
-      "summary_zh": "Running Ubuntu on the Lenovo IdeaPad Duet"
     }
   ]
 }

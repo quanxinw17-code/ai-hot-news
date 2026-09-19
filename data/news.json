@@ -1,58 +1,107 @@
 {
-  "updated_at": "2026-09-18T20:48:02.717701+00:00",
+  "updated_at": "2026-09-19T04:22:26.718875+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Senior Engineers Are the Next DRAM Shortage",
-      "summary": "Senior Engineers Are the Next DRAM Shortage",
+      "title": "Flock Offers Employees Buyouts as Customers Flee",
+      "summary": "Flock Offers Employees Buyouts as Customers Flee",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blog.herlein.com/post/build-another-engineer/",
-      "published_at": "2026-09-18T20:40:25+00:00",
+      "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
+      "published_at": "2026-09-19T02:50:24+00:00",
       "tags": [
         "ai"
       ],
-      "score": "4",
-      "item_id": "hn:49759970",
+      "score": "11",
+      "item_id": "hn:49762835",
       "summary_type": "extractive",
-      "title_zh": "Senior Engineers Are the Next DRAM Shortage",
-      "summary_zh": "Senior Engineers Are the Next DRAM Shortage"
+      "title_zh": "Flock Offers Employees Buyouts as Customers Flee",
+      "summary_zh": "Flock Offers Employees Buyouts as Customers Flee"
     },
     {
-      "title": "Korea raises data breach fines to 10% of revenue",
-      "summary": "Korea raises data breach fines to 10% of revenue",
+      "title": "SDCC – Small Device C Compiler",
+      "summary": "SDCC – Small Device C Compiler",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-      "published_at": "2026-09-18T20:02:54+00:00",
+      "url": "https://sdcc.sourceforge.net/",
+      "published_at": "2026-09-19T02:32:36+00:00",
       "tags": [
         "ai"
       ],
-      "score": "84",
-      "item_id": "hn:49759466",
+      "score": "21",
+      "item_id": "hn:49762744",
       "summary_type": "extractive",
-      "title_zh": "Korea raises data breach fines to 10% of revenue",
-      "summary_zh": "Korea raises data breach fines to 10% of revenue"
+      "title_zh": "SDCC – Small Device C Compiler",
+      "summary_zh": "SDCC – Small Device C Compiler"
     },
     {
-      "title": "How did AMD Ryzen get 50% faster in two years?",
-      "summary": "How did AMD Ryzen get 50% faster in two years?",
+      "title": "Science Is Open Software",
+      "summary": "Science Is Open Software",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-      "published_at": "2026-09-18T19:01:03+00:00",
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "published_at": "2026-09-19T02:21:35+00:00",
       "tags": [
         "ai"
       ],
-      "score": "22",
-      "item_id": "hn:49758709",
+      "score": "32",
+      "item_id": "hn:49762687",
       "summary_type": "extractive",
-      "title_zh": "How did AMD Ryzen get 50% faster in two years?",
-      "summary_zh": "How did AMD Ryzen get 50% faster in two years?"
+      "title_zh": "Science Is Open Software",
+      "summary_zh": "Science Is Open Software"
     },
     {
-      "title": "Saving another 100TB of RAM with math (and Rust)",
-      "summary": "Saving another 100TB of RAM with math (and Rust)",
+      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "summary": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://liveworld.info/",
+      "published_at": "2026-09-19T00:30:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "25",
+      "item_id": "hn:49762099",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "summary_zh": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe"
+    },
+    {
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "summary": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "published_at": "2026-09-18T23:54:42+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "64",
+      "item_id": "hn:49761840",
+      "summary_type": "extractive",
+      "title_zh": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "summary_zh": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions"
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "summary": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "published_at": "2026-09-18T21:00:32+00:00",
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": "564",
+      "item_id": "hn:49760187",
+      "summary_type": "extractive",
+      "title_zh": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "summary_zh": "Claude Code now reads AGENTS.md if there is no Claude.md"
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "summary": "Saving another 100TB of RAM",
       "full_text": "",
       "source": "hacker news",
       "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
@@ -60,15 +109,15 @@
       "tags": [
         "ai"
       ],
-      "score": "76",
+      "score": "273",
       "item_id": "hn:49758580",
       "summary_type": "extractive",
-      "title_zh": "Saving another 100TB of RAM with math (and Rust)",
-      "summary_zh": "Saving another 100TB of RAM with math (and Rust)"
+      "title_zh": "Saving another 100TB of RAM",
+      "summary_zh": "Saving another 100TB of RAM"
     },
     {
-      "title": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
-      "summary": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
+      "title": "Xcode 27.1 Beta Release Notes",
+      "summary": "Xcode 27.1 Beta Release Notes",
       "full_text": "",
       "source": "hacker news",
       "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
@@ -76,27 +125,11 @@
       "tags": [
         "ai"
       ],
-      "score": "65",
+      "score": "123",
       "item_id": "hn:49758419",
       "summary_type": "extractive",
-      "title_zh": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
-      "summary_zh": "Apple releases iPhone Duo simulator and Xcode 27.1 beta"
-    },
-    {
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "summary": "US Military had close call after using AI for hallucinated intelligence report",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "published_at": "2026-09-18T17:28:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "277",
-      "item_id": "hn:49757520",
-      "summary_type": "extractive",
-      "title_zh": "US Military had close call after using AI for hallucinated intelligence report",
-      "summary_zh": "US Military had close call after using AI for hallucinated intelligence report"
+      "title_zh": "Xcode 27.1 Beta Release Notes",
+      "summary_zh": "Xcode 27.1 Beta Release Notes"
     },
     {
       "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
@@ -108,27 +141,43 @@
       "tags": [
         "ai"
       ],
-      "score": "116",
+      "score": "167",
       "item_id": "hn:49757050",
       "summary_type": "extractive",
       "title_zh": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
       "summary_zh": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug"
     },
     {
-      "title": "Our brain evolved from two primitive nervous systems that merged: Study",
-      "summary": "https:&#x2F;&#x2F;archive.is&#x2F;1CFX9https:&#x2F;&#x2F;med.stanford.edu&#x2F;news&#x2F;all-news&#x2F;2026&#x2F;09&#x2F;two-separate-...",
-      "full_text": "https:&#x2F;&#x2F;archive.is&#x2F;1CFX9https:&#x2F;&#x2F;med.stanford.edu&#x2F;news&#x2F;all-news&#x2F;2026&#x2F;09&#x2F;two-separate-...",
+      "title": "We made Playwright 2x faster and 80% more token efficient",
+      "summary": "We made Playwright 2x faster and 80% more token efficient",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/browserbase/stagehand",
+      "published_at": "2026-09-18T16:25:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "66",
+      "item_id": "hn:49756671",
+      "summary_type": "extractive",
+      "title_zh": "We made Playwright 2x faster and 80% more token efficient",
+      "summary_zh": "We made Playwright 2x faster and 80% more token efficient"
+    },
+    {
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "summary": "https:&#x2F;&#x2F;archive.is&#x2F;1CFX9https:&#x2F;&#x2F;med.stanford.edu&#x2F;news&#x2F;all-news&#x2F;2026&#x2F;09&#x2F;two-separate-...Preprint of paper: https:&#x2F;&#x2F;www.biorxiv.org&#x2F;content&#x2F;10.1101&#x2F;2025.07.02.662771v1",
+      "full_text": "https:&#x2F;&#x2F;archive.is&#x2F;1CFX9https:&#x2F;&#x2F;med.stanford.edu&#x2F;news&#x2F;all-news&#x2F;2026&#x2F;09&#x2F;two-separate-...Preprint of paper: https:&#x2F;&#x2F;www.biorxiv.org&#x2F;content&#x2F;10.1101&#x2F;2025.07.02.662771v1",
       "source": "hacker news",
       "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
       "published_at": "2026-09-18T15:12:07+00:00",
       "tags": [
         "ai"
       ],
-      "score": "63",
+      "score": "107",
       "item_id": "hn:49755533",
       "summary_type": "extractive",
-      "title_zh": "Our brain evolved from two primitive nervous systems that merged: Study",
-      "summary_zh": "https:&#x2F;&#x2F;archive.is&#x2F;1CFX9https:&#x2F;&#x2F;med.stanford.edu&#x2F;news&#x2F;all-news&#x2F;2026&#x2F;09&#x2F;two-separate-..."
+      "title_zh": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "summary_zh": "https:&#x2F;&#x2F;archive.is&#x2F;1CFX9https:&#x2F;&#x2F;med.stanford.edu&#x2F;news&#x2F;all-news&#x2F;2026&#x2F;09&#x2F;two-separate-...Preprint of paper: https:&#x2F;&#x2F;www.biorxiv.org&#x2F;content&#x2F;10.1101&#x2F;2025.07.02.662771v1"
     },
     {
       "title": "North Korean nuclear test sets off years of earthquakes",
@@ -140,7 +189,7 @@
       "tags": [
         "ai"
       ],
-      "score": "153",
+      "score": "191",
       "item_id": "hn:49755160",
       "summary_type": "extractive",
       "title_zh": "North Korean nuclear test sets off years of earthquakes",
@@ -148,19 +197,19 @@
     },
     {
       "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-      "summary": "Mathematicians Build Long-Awaited Graph Sandwich",
-      "full_text": "",
+      "summary": "https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2510.20765",
+      "full_text": "https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2510.20765",
       "source": "hacker news",
       "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
       "published_at": "2026-09-18T14:41:02+00:00",
       "tags": [
         "ai"
       ],
-      "score": "52",
+      "score": "72",
       "item_id": "hn:49755095",
       "summary_type": "extractive",
       "title_zh": "Mathematicians Build Long-Awaited Graph Sandwich",
-      "summary_zh": "Mathematicians Build Long-Awaited Graph Sandwich"
+      "summary_zh": "https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2510.20765"
     },
     {
       "title": "I vibed a proof of Conway's conjecture",
@@ -172,7 +221,7 @@
       "tags": [
         "ai"
       ],
-      "score": "171",
+      "score": "219",
       "item_id": "hn:49755024",
       "summary_type": "extractive",
       "title_zh": "I vibed a proof of Conway's conjecture",
@@ -188,75 +237,11 @@
       "tags": [
         "ai"
       ],
-      "score": "428",
+      "score": "630",
       "item_id": "hn:49754785",
       "summary_type": "extractive",
       "title_zh": "Cloudflare Quick Tunnels",
       "summary_zh": "Cloudflare Quick Tunnels"
-    },
-    {
-      "title": "NATS publishes preliminary report on technical incident of 8 September",
-      "summary": "NATS publishes preliminary report on technical incident of 8 September",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
-      "published_at": "2026-09-18T13:24:35+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "43",
-      "item_id": "hn:49754064",
-      "summary_type": "extractive",
-      "title_zh": "NATS publishes preliminary report on technical incident of 8 September",
-      "summary_zh": "NATS publishes preliminary report on technical incident of 8 September"
-    },
-    {
-      "title": "I don't like passkeys",
-      "summary": "I don't like passkeys",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-      "published_at": "2026-09-18T12:06:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "678",
-      "item_id": "hn:49753211",
-      "summary_type": "extractive",
-      "title_zh": "I don't like passkeys",
-      "summary_zh": "I don't like passkeys"
-    },
-    {
-      "title": "Cekura (YC F24) Is Hiring",
-      "summary": "Cekura (YC F24) Is Hiring",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
-      "published_at": "2026-09-18T12:00:10+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:49753131",
-      "summary_type": "extractive",
-      "title_zh": "Cekura (YC F24) Is Hiring",
-      "summary_zh": "Cekura (YC F24) Is Hiring"
-    },
-    {
-      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-      "summary": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-      "published_at": "2026-09-18T11:01:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "274",
-      "item_id": "hn:49752614",
-      "summary_type": "extractive",
-      "title_zh": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-      "summary_zh": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him"
     },
     {
       "title": "OpenJev",
@@ -268,7 +253,7 @@
       "tags": [
         "ai"
       ],
-      "score": "486",
+      "score": "578",
       "item_id": "hn:49752041",
       "summary_type": "extractive",
       "title_zh": "OpenJev",
@@ -284,43 +269,11 @@
       "tags": [
         "ai"
       ],
-      "score": "217",
+      "score": "270",
       "item_id": "hn:49750694",
       "summary_type": "extractive",
       "title_zh": "Inside ZCode: Silently uploading your Git history to the cloud",
       "summary_zh": "Inside ZCode: Silently uploading your Git history to the cloud"
-    },
-    {
-      "title": "Jemalloc 5.4.0",
-      "summary": "Jemalloc 5.4.0",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-      "published_at": "2026-09-18T04:20:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "316",
-      "item_id": "hn:49750152",
-      "summary_type": "extractive",
-      "title_zh": "Jemalloc 5.4.0",
-      "summary_zh": "Jemalloc 5.4.0"
-    },
-    {
-      "title": "The scourge of x86 emulation",
-      "summary": "The scourge of x86 emulation",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://fex-emu.com/Scourge-of-emulation/",
-      "published_at": "2026-09-18T04:09:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "261",
-      "item_id": "hn:49750094",
-      "summary_type": "extractive",
-      "title_zh": "The scourge of x86 emulation",
-      "summary_zh": "The scourge of x86 emulation"
     },
     {
       "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
@@ -332,7 +285,7 @@
       "tags": [
         "ai"
       ],
-      "score": "51",
+      "score": "121",
       "item_id": "hn:49749724",
       "summary_type": "extractive",
       "title_zh": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
@@ -348,7 +301,7 @@
       "tags": [
         "ai"
       ],
-      "score": "109",
+      "score": "213",
       "item_id": "hn:49749369",
       "summary_type": "extractive",
       "title_zh": "Minimal Phone 2",
@@ -364,27 +317,11 @@
       "tags": [
         "ai"
       ],
-      "score": "119",
+      "score": "175",
       "item_id": "hn:49748553",
       "summary_type": "extractive",
       "title_zh": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
       "summary_zh": "Hey HN, Henry from Cactus here.We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I&#x27;d love to hear what you think again.The key features:1) Automation (tool calls &amp; structured JSON output): Needle still doesn&#x27;t chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and struc"
-    },
-    {
-      "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
-      "summary": "Meet Scry, a 500 TB NVMe internet index in ClickHouse that you can run ~arbitrary readonly SQL and some of Datalog over, and I handle the problem of resource-contention with congestion-based micro-auction pricing. When there&#x27;s capacity, the service is free for non-commercial use.---Hello. It&#x27;s 2026, we&#x27;re training simulated fruit fly brains to play Beat Saber, do we still have to be stuck with internet (re)search as fn: natural language -&gt; black box we can&#x27;t do anything ab",
-      "full_text": "Meet Scry, a 500 TB NVMe internet index in ClickHouse that you can run ~arbitrary readonly SQL and some of Datalog over, and I handle the problem of resource-contention with congestion-based micro-auction pricing. When there&#x27;s capacity, the service is free for non-commercial use.---Hello. It&#x27;s 2026, we&#x27;re training simulated fruit fly brains to play Beat Saber, do we still have to be stuck with internet (re)search as fn: natural language -&gt; black box we can&#x27;t do anything ab",
-      "source": "hacker news",
-      "url": "https://scry.io/",
-      "published_at": "2026-09-17T23:15:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "32",
-      "item_id": "hn:49748041",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Scry, programmable internet search w/ congestion pricing",
-      "summary_zh": "Meet Scry, a 500 TB NVMe internet index in ClickHouse that you can run ~arbitrary readonly SQL and some of Datalog over, and I handle the problem of resource-contention with congestion-based micro-auction pricing. When there&#x27;s capacity, the service is free for non-commercial use.---Hello. It&#x27;s 2026, we&#x27;re training simulated fruit fly brains to play Beat Saber, do we still have to be stuck with internet (re)search as fn: natural language -&gt; black box we can&#x27;t do anything ab"
     },
     {
       "title": "How SpaceX streamlined the Raptor engine",
@@ -396,7 +333,7 @@
       "tags": [
         "ai"
       ],
-      "score": "96",
+      "score": "181",
       "item_id": "hn:49746626",
       "summary_type": "extractive",
       "title_zh": "How SpaceX streamlined the Raptor engine",
@@ -412,7 +349,7 @@
       "tags": [
         "ai"
       ],
-      "score": "113",
+      "score": "154",
       "item_id": "hn:49746406",
       "summary_type": "extractive",
       "title_zh": "C++26: Trivial infinite loops are no longer undefined behaviour",
@@ -428,7 +365,7 @@
       "tags": [
         "ai"
       ],
-      "score": "61",
+      "score": "207",
       "item_id": "hn:49744704",
       "summary_type": "extractive",
       "title_zh": "The first new cat species discovered in 100 years",
@@ -442,9 +379,9 @@
       "url": "http://arxiv.org/abs/2609.20822v1",
       "published_at": "2026-09-17T17:59:58Z",
       "tags": [
+        "llm",
         "paper",
-        "agent",
-        "llm"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20822v1",
@@ -460,8 +397,8 @@
       "url": "http://arxiv.org/abs/2609.20820v1",
       "published_at": "2026-09-17T17:59:53Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20820v1",
@@ -477,8 +414,8 @@
       "url": "http://arxiv.org/abs/2609.20817v1",
       "published_at": "2026-09-17T17:59:40Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20817v1",
@@ -494,10 +431,10 @@
       "url": "http://arxiv.org/abs/2609.20816v1",
       "published_at": "2026-09-17T17:59:30Z",
       "tags": [
-        "paper",
-        "llm",
         "vision",
-        "tool"
+        "llm",
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20816v1",
@@ -513,8 +450,8 @@
       "url": "http://arxiv.org/abs/2609.20815v1",
       "published_at": "2026-09-17T17:59:28Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20815v1",
@@ -530,10 +467,10 @@
       "url": "http://arxiv.org/abs/2609.20812v1",
       "published_at": "2026-09-17T17:59:04Z",
       "tags": [
-        "paper",
-        "agent",
         "llm",
-        "tool"
+        "tool",
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20812v1",
@@ -566,9 +503,9 @@
       "url": "http://arxiv.org/abs/2609.20784v1",
       "published_at": "2026-09-17T17:52:08Z",
       "tags": [
+        "vision",
         "paper",
-        "agent",
-        "vision"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20784v1",
@@ -584,8 +521,8 @@
       "url": "http://arxiv.org/abs/2609.20779v1",
       "published_at": "2026-09-17T17:49:28Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20779v1",
@@ -601,8 +538,8 @@
       "url": "http://arxiv.org/abs/2609.20776v1",
       "published_at": "2026-09-17T17:48:07Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20776v1",
@@ -618,9 +555,9 @@
       "url": "http://arxiv.org/abs/2609.20768v1",
       "published_at": "2026-09-17T17:46:03Z",
       "tags": [
+        "vision",
         "paper",
-        "agent",
-        "vision"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20768v1",
@@ -636,9 +573,9 @@
       "url": "http://arxiv.org/abs/2609.20758v1",
       "published_at": "2026-09-17T17:42:29Z",
       "tags": [
+        "tool",
         "paper",
-        "agent",
-        "tool"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20758v1",
@@ -654,9 +591,9 @@
       "url": "http://arxiv.org/abs/2609.20754v1",
       "published_at": "2026-09-17T17:41:31Z",
       "tags": [
+        "tool",
         "paper",
-        "agent",
-        "tool"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20754v1",
@@ -672,14 +609,30 @@
       "url": "http://arxiv.org/abs/2609.20752v1",
       "published_at": "2026-09-17T17:40:04Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20752v1",
       "summary_type": "extractive",
       "title_zh": "Large Language Models as Falsifiers for Cyber-Physical Systems",
       "summary_zh": "Falsification searches for counterexamples to formal specifications in cyber-physical systems (CPS). With specifications written in Signal Temporal Logic (STL), falsification can be formulated as a robustness optimization problem, traditionally tackled with black-box search algorithms. In parallel, large language models (LLMs) have recently emerged as surprisingly effective optimizers when coupled with iterative prompting."
+    },
+    {
+      "title": "The Farnese letter",
+      "summary": "The Farnese letter",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://simonklee.dk/farnese-letter",
+      "published_at": "2026-09-17T17:39:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:49744036",
+      "summary_type": "extractive",
+      "title_zh": "The Farnese letter",
+      "summary_zh": "The Farnese letter"
     },
     {
       "title": "Q&amp;A on Any Spreadsheet Requires Interpreting Its Grid Structure",
@@ -689,9 +642,9 @@
       "url": "http://arxiv.org/abs/2609.20732v1",
       "published_at": "2026-09-17T17:22:43Z",
       "tags": [
-        "paper",
         "llm",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20732v1",
@@ -707,10 +660,10 @@
       "url": "http://arxiv.org/abs/2609.20722v1",
       "published_at": "2026-09-17T17:16:31Z",
       "tags": [
-        "paper",
-        "agent",
         "llm",
-        "tool"
+        "tool",
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20722v1",
@@ -726,11 +679,11 @@
       "url": "http://arxiv.org/abs/2609.20715v1",
       "published_at": "2026-09-17T17:11:29Z",
       "tags": [
-        "agent",
         "vision",
-        "tool",
         "paper",
-        "llm"
+        "tool",
+        "llm",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20715v1",
@@ -746,10 +699,10 @@
       "url": "http://arxiv.org/abs/2609.20659v1",
       "published_at": "2026-09-17T16:38:37Z",
       "tags": [
-        "paper",
-        "llm",
         "vision",
-        "tool"
+        "llm",
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.20659v1",
@@ -792,53 +745,100 @@
       "summary_zh": "Allen's interval algebra is a qualitative calculus for temporal relations, but its thirteen base relations are crisp predicates over exact interval boundaries. This is inadequate for temporal information from language, perception, databases, or uncertain histories, where times, durations, and boundaries are uncertain and expressions such as \"just before\" or \"roughly during\" have graded meaning. We develop the probabilistic Allen algebra (PAA): a generative and complete extension in which relatio"
     },
     {
-      "title": "\"From Geometry to Algebra and Back Again: 4000 Years of Papers\" by Jack Rusher [video]",
-      "summary": "\"From Geometry to Algebra and Back Again: 4000 Years of Papers\" by Jack Rusher [video]",
+      "title": "Size-Specialized Memory Allocation",
+      "summary": "Size-Specialized Memory Allocation",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
-      "published_at": "2026-09-17T13:20:03+00:00",
-      "tags": [
-        "paper",
-        "vision"
-      ],
-      "score": "5",
-      "item_id": "hn:49740371",
-      "summary_type": "extractive",
-      "title_zh": "\"From Geometry to Algebra and Back Again: 4000 Years of Papers\" by Jack Rusher [video]",
-      "summary_zh": "\"From Geometry to Algebra and Back Again: 4000 Years of Papers\" by Jack Rusher [video]"
-    },
-    {
-      "title": "Replacing Pull Requests with Delta",
-      "summary": "https:&#x2F;&#x2F;delta.dev&#x2F;",
-      "full_text": "https:&#x2F;&#x2F;delta.dev&#x2F;",
-      "source": "hacker news",
-      "url": "https://zed.dev/blog/delta-public-beta",
-      "published_at": "2026-09-16T14:05:44+00:00",
+      "url": "https://go.dev/blog/size-specialized-allocations",
+      "published_at": "2026-09-17T00:45:49+00:00",
       "tags": [
         "ai"
       ],
-      "score": "128",
-      "item_id": "hn:49727245",
+      "score": "25",
+      "item_id": "hn:49735057",
       "summary_type": "extractive",
-      "title_zh": "Replacing Pull Requests with Delta",
-      "summary_zh": "https:&#x2F;&#x2F;delta.dev&#x2F;"
+      "title_zh": "Size-Specialized Memory Allocation",
+      "summary_zh": "Size-Specialized Memory Allocation"
     },
     {
-      "title": "The Shadows Lurking in the Equations – Underwater Islands",
-      "summary": "The Shadows Lurking in the Equations – Underwater Islands",
+      "title": "Why building a Rust LSP is hard",
+      "summary": "Why building a Rust LSP is hard",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://gods.art/articles/equation_shadows",
-      "published_at": "2026-09-16T02:37:22+00:00",
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+      "published_at": "2026-09-16T22:51:16+00:00",
       "tags": [
         "ai"
       ],
-      "score": "60",
-      "item_id": "hn:49721507",
+      "score": "21",
+      "item_id": "hn:49734131",
       "summary_type": "extractive",
-      "title_zh": "The Shadows Lurking in the Equations – Underwater Islands",
-      "summary_zh": "The Shadows Lurking in the Equations – Underwater Islands"
+      "title_zh": "Why building a Rust LSP is hard",
+      "summary_zh": "Why building a Rust LSP is hard"
+    },
+    {
+      "title": "LispBM is a concurrent Lisp for microcontrollers with message passing",
+      "summary": "LispBM is a concurrent Lisp for microcontrollers with message passing",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.lispbm.com/",
+      "published_at": "2026-09-16T21:49:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "18",
+      "item_id": "hn:49733523",
+      "summary_type": "extractive",
+      "title_zh": "LispBM is a concurrent Lisp for microcontrollers with message passing",
+      "summary_zh": "LispBM is a concurrent Lisp for microcontrollers with message passing"
+    },
+    {
+      "title": "Cyclomatic Complexity in C#",
+      "summary": "Cyclomatic Complexity in C#",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+      "published_at": "2026-09-16T19:01:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "41",
+      "item_id": "hn:49731413",
+      "summary_type": "extractive",
+      "title_zh": "Cyclomatic Complexity in C#",
+      "summary_zh": "Cyclomatic Complexity in C#"
+    },
+    {
+      "title": "Column built an issuer processor from scratch",
+      "summary": "Column built an issuer processor from scratch",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://column.com/card-issuing/",
+      "published_at": "2026-09-16T16:42:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "23",
+      "item_id": "hn:49729631",
+      "summary_type": "extractive",
+      "title_zh": "Column built an issuer processor from scratch",
+      "summary_zh": "Column built an issuer processor from scratch"
+    },
+    {
+      "title": "Goroutine Leak Profiles",
+      "summary": "Goroutine Leak Profiles",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://go.dev/blog/goroutine-leak-profiles",
+      "published_at": "2026-09-16T13:30:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "7",
+      "item_id": "hn:49726773",
+      "summary_type": "extractive",
+      "title_zh": "Goroutine Leak Profiles",
+      "summary_zh": "Goroutine Leak Profiles"
     }
   ]
 }

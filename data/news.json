@@ -1,38 +1,166 @@
 {
-  "updated_at": "2026-09-22T11:23:55.745270+00:00",
+  "updated_at": "2026-09-22T16:46:04.633078+00:00",
   "count": 50,
   "items": [
     {
-      "title": "A Tokyo school counts the mornings it can see Mt. Fuji: 22 in 1965, 170 in 2023",
-      "summary": "A Tokyo school counts the mornings it can see Mt. Fuji: 22 in 1965, 170 in 2023",
+      "title": "Americans' Drinking Remains at Record Low: Gallup Poll",
+      "summary": "Americans' Drinking Remains at Record Low: Gallup Poll",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://jivx.com/fujimi",
-      "published_at": "2026-09-22T10:48:29+00:00",
+      "url": "https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx",
+      "published_at": "2026-09-22T16:29:11+00:00",
       "tags": [
         "ai"
       ],
       "score": "5",
-      "item_id": "hn:49799187",
+      "item_id": "hn:49803894",
       "summary_type": "extractive",
-      "title_zh": "A Tokyo school counts the mornings it can see Mt. Fuji: 22 in 1965, 170 in 2023",
-      "summary_zh": "A Tokyo school counts the mornings it can see Mt. Fuji: 22 in 1965, 170 in 2023"
+      "title_zh": "Americans' Drinking Remains at Record Low: Gallup Poll",
+      "summary_zh": "Americans' Drinking Remains at Record Low: Gallup Poll"
     },
     {
-      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
-      "summary": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+      "title": "16-bit Intel 8088 chip",
+      "summary": "16-bit Intel 8088 chip",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
-      "published_at": "2026-09-22T10:36:44+00:00",
+      "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
+      "published_at": "2026-09-22T16:11:34+00:00",
       "tags": [
         "ai"
       ],
-      "score": "42",
-      "item_id": "hn:49799083",
+      "score": "31",
+      "item_id": "hn:49803635",
       "summary_type": "extractive",
-      "title_zh": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
-      "summary_zh": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\""
+      "title_zh": "16-bit Intel 8088 chip",
+      "summary_zh": "16-bit Intel 8088 chip"
+    },
+    {
+      "title": "Xbox continues its \"reset\" with dramatic restructuring",
+      "summary": "Xbox continues its \"reset\" with dramatic restructuring",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
+      "published_at": "2026-09-22T16:10:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:49803626",
+      "summary_type": "extractive",
+      "title_zh": "Xbox continues its \"reset\" with dramatic restructuring",
+      "summary_zh": "Xbox continues its \"reset\" with dramatic restructuring"
+    },
+    {
+      "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+      "summary": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://mouse.dev/blog/muse-runtime-export/",
+      "published_at": "2026-09-22T15:25:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "148",
+      "item_id": "hn:49802871",
+      "summary_type": "extractive",
+      "title_zh": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+      "summary_zh": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB"
+    },
+    {
+      "title": "Newborn girls and boys show different attention patterns within hours of birth",
+      "summary": "Newborn girls and boys show different attention patterns within hours of birth",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://medicalxpress.com/news/2026-09-newborn-girls-boys-attention-patterns.html",
+      "published_at": "2026-09-22T15:20:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "12",
+      "item_id": "hn:49802792",
+      "summary_type": "extractive",
+      "title_zh": "Newborn girls and boys show different attention patterns within hours of birth",
+      "summary_zh": "Newborn girls and boys show different attention patterns within hours of birth"
+    },
+    {
+      "title": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
+      "summary": "Hey HN, Guanming here, cofounder of General Instinct. We just released InstinctFlash, a high-performance serving framework for robotics models. It’s licensed under AGPL-3.0.On Jetson Thor, we see speedups about 1.2x to 7.9x from runtime optimizations alone and up to 33.78x for LingBot-VA when we combine those runtime optimizations with a distilled few-step diffusion scheduler, going from the original 25 visual &#x2F; 50 action steps to 2 &#x2F; 4 steps.",
+      "full_text": "Hey HN, Guanming here, cofounder of General Instinct. We just released InstinctFlash, a high-performance serving framework for robotics models. It’s licensed under AGPL-3.0.On Jetson Thor, we see speedups about 1.2x to 7.9x from runtime optimizations alone and up to 33.78x for LingBot-VA when we combine those runtime optimizations with a distilled few-step diffusion scheduler, going from the original 25 visual &#x2F; 50 action steps to 2 &#x2F; 4 steps. Across 50 Robotwin2.0 tasks, we evaluated ",
+      "source": "hacker news",
+      "url": "https://github.com/General-Instinct/InstinctFlash",
+      "published_at": "2026-09-22T15:20:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "4",
+      "item_id": "hn:49802789",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
+      "summary_zh": "Hey HN, Guanming here, cofounder of General Instinct. We just released InstinctFlash, a high-performance serving framework for robotics models. It’s licensed under AGPL-3.0.On Jetson Thor, we see speedups about 1.2x to 7.9x from runtime optimizations alone and up to 33.78x for LingBot-VA when we combine those runtime optimizations with a distilled few-step diffusion scheduler, going from the original 25 visual &#x2F; 50 action steps to 2 &#x2F; 4 steps."
+    },
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "summary": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "published_at": "2026-09-22T14:35:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "62",
+      "item_id": "hn:49802030",
+      "summary_type": "extractive",
+      "title_zh": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "summary_zh": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day"
+    },
+    {
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "summary": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "published_at": "2026-09-22T14:30:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "302",
+      "item_id": "hn:49801939",
+      "summary_type": "extractive",
+      "title_zh": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "summary_zh": "Apple has added persistent 'ads' to iOS, and it's driving users crazy"
+    },
+    {
+      "title": "Show HN: Drop – a rootless Linux sandbox with gVisor support",
+      "summary": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is even worse, because I ship software from my computer, a single compromised dependency can lead to compromise of all the users of my software.Containers and VMs are one solution, but for local work, they are often detrimental to productivity.",
+      "full_text": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is even worse, because I ship software from my computer, a single compromised dependency can lead to compromise of all the users of my software.Containers and VMs are one solution, but for local work, they are often detrimental to productivity. It takes effort to configure a machine with all the tools and c",
+      "source": "hacker news",
+      "url": "https://droprun.sh/",
+      "published_at": "2026-09-22T13:52:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "89",
+      "item_id": "hn:49801329",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Drop – a rootless Linux sandbox with gVisor support",
+      "summary_zh": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is even worse, because I ship software from my computer, a single compromised dependency can lead to compromise of all the users of my software.Containers and VMs are one solution, but for local work, they are often detrimental to productivity."
+    },
+    {
+      "title": "AI Has No Wisdom and Neither Will You",
+      "summary": "AI Has No Wisdom and Neither Will You",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "published_at": "2026-09-22T12:11:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "331",
+      "item_id": "hn:49799965",
+      "summary_type": "extractive",
+      "title_zh": "AI Has No Wisdom and Neither Will You",
+      "summary_zh": "AI Has No Wisdom and Neither Will You"
     },
     {
       "title": "Verda (Finland) raises $189M in Series B",
@@ -44,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "13",
+      "score": "79",
       "item_id": "hn:49798597",
       "summary_type": "extractive",
       "title_zh": "Verda (Finland) raises $189M in Series B",
@@ -60,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "84",
+      "score": "189",
       "item_id": "hn:49798204",
       "summary_type": "extractive",
       "title_zh": "AMD's random number generator can't generate a 0?",
@@ -76,27 +204,11 @@
       "tags": [
         "ai"
       ],
-      "score": "257",
+      "score": "634",
       "item_id": "hn:49797982",
       "summary_type": "extractive",
       "title_zh": "I said no and Apple said yes",
       "summary_zh": "I said no and Apple said yes"
-    },
-    {
-      "title": "Used ThinkPad Buyer's Guide (2019)",
-      "summary": "Used ThinkPad Buyer's Guide (2019)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
-      "published_at": "2026-09-22T04:14:47+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "29",
-      "item_id": "hn:49796730",
-      "summary_type": "extractive",
-      "title_zh": "Used ThinkPad Buyer's Guide (2019)",
-      "summary_zh": "Used ThinkPad Buyer's Guide (2019)"
     },
     {
       "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
@@ -108,43 +220,11 @@
       "tags": [
         "ai"
       ],
-      "score": "83",
+      "score": "133",
       "item_id": "hn:49796660",
       "summary_type": "extractive",
       "title_zh": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
       "summary_zh": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis"
-    },
-    {
-      "title": "Socrates vs. the Written Word (2011)",
-      "summary": "Socrates vs. the Written Word (2011)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://wondermark.com/socrates-vs-writing/",
-      "published_at": "2026-09-22T00:06:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "47",
-      "item_id": "hn:49795122",
-      "summary_type": "extractive",
-      "title_zh": "Socrates vs. the Written Word (2011)",
-      "summary_zh": "Socrates vs. the Written Word (2011)"
-    },
-    {
-      "title": "Looking forward to Git 2.56 – and 3.0",
-      "summary": "Looking forward to Git 2.56 – and 3.0",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-      "published_at": "2026-09-21T23:16:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "139",
-      "item_id": "hn:49794736",
-      "summary_type": "extractive",
-      "title_zh": "Looking forward to Git 2.56 – and 3.0",
-      "summary_zh": "Looking forward to Git 2.56 – and 3.0"
     },
     {
       "title": "Spymarks, Not Watermarks",
@@ -156,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "471",
+      "score": "609",
       "item_id": "hn:49794615",
       "summary_type": "extractive",
       "title_zh": "Spymarks, Not Watermarks",
@@ -172,11 +252,27 @@
       "tags": [
         "ai"
       ],
-      "score": "731",
+      "score": "930",
       "item_id": "hn:49794330",
       "summary_type": "extractive",
       "title_zh": "I don't want to read what you didn't write",
       "summary_zh": "I don't want to read what you didn't write"
+    },
+    {
+      "title": "Solitaire Alone Together",
+      "summary": "Solitaire Alone Together",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://solitairealonetogether.com/",
+      "published_at": "2026-09-21T22:16:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "45",
+      "item_id": "hn:49794193",
+      "summary_type": "extractive",
+      "title_zh": "Solitaire Alone Together",
+      "summary_zh": "Solitaire Alone Together"
     },
     {
       "title": "MiMo v2.6",
@@ -188,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "933",
+      "score": "🔥 1.0k",
       "item_id": "hn:49792730",
       "summary_type": "extractive",
       "title_zh": "MiMo v2.6",
@@ -202,10 +298,10 @@
       "url": "https://poloclub.github.io/transformer-explainer/",
       "published_at": "2026-09-21T19:43:49+00:00",
       "tags": [
-        "vision",
-        "llm"
+        "llm",
+        "vision"
       ],
-      "score": "443",
+      "score": "561",
       "item_id": "hn:49792342",
       "summary_type": "extractive",
       "title_zh": "Transformers Explained Visually",
@@ -221,27 +317,11 @@
       "tags": [
         "ai"
       ],
-      "score": "250",
+      "score": "298",
       "item_id": "hn:49792067",
       "summary_type": "extractive",
       "title_zh": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "summary_zh": "AI coding has made CI a bottleneck, so we reworked ours to keep up"
-    },
-    {
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "published_at": "2026-09-21T19:17:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "146",
-      "item_id": "hn:49791997",
-      "summary_type": "extractive",
-      "title_zh": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "summary_zh": "The Advisory Group on Mathematics and Artificial Intelligence"
     },
     {
       "title": "NASA’s Mars Sample Return mission is dead",
@@ -253,27 +333,11 @@
       "tags": [
         "ai"
       ],
-      "score": "400",
+      "score": "437",
       "item_id": "hn:49791939",
       "summary_type": "extractive",
       "title_zh": "NASA’s Mars Sample Return mission is dead",
       "summary_zh": "NASA’s Mars Sample Return mission is dead"
-    },
-    {
-      "title": "Apple Copland D11E4 Booting in the Browser",
-      "summary": "Apple Copland D11E4 Booting in the Browser",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.pagetable.com/300",
-      "published_at": "2026-09-21T18:15:32+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "145",
-      "item_id": "hn:49791125",
-      "summary_type": "extractive",
-      "title_zh": "Apple Copland D11E4 Booting in the Browser",
-      "summary_zh": "Apple Copland D11E4 Booting in the Browser"
     },
     {
       "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
@@ -283,9 +347,9 @@
       "url": "http://arxiv.org/abs/2609.25001v1",
       "published_at": "2026-09-21T17:59:33Z",
       "tags": [
-        "vision",
+        "paper",
         "agent",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.25001v1",
@@ -301,8 +365,8 @@
       "url": "http://arxiv.org/abs/2609.24984v1",
       "published_at": "2026-09-21T17:57:06Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.24984v1",
@@ -318,8 +382,8 @@
       "url": "http://arxiv.org/abs/2609.24976v1",
       "published_at": "2026-09-21T17:55:24Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.24976v1",
@@ -336,8 +400,8 @@
       "published_at": "2026-09-21T17:55:20Z",
       "tags": [
         "agent",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.24974v1",
@@ -353,9 +417,9 @@
       "url": "http://arxiv.org/abs/2609.24972v1",
       "published_at": "2026-09-21T17:54:49Z",
       "tags": [
-        "llm",
-        "tool",
         "paper",
+        "tool",
+        "llm",
         "agent"
       ],
       "score": "📄",
@@ -372,8 +436,8 @@
       "url": "http://arxiv.org/abs/2609.24971v1",
       "published_at": "2026-09-21T17:54:35Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.24971v1",
@@ -390,8 +454,8 @@
       "published_at": "2026-09-21T17:53:38Z",
       "tags": [
         "agent",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.24969v1",
@@ -407,9 +471,9 @@
       "url": "http://arxiv.org/abs/2609.24967v1",
       "published_at": "2026-09-21T17:52:48Z",
       "tags": [
-        "llm",
-        "tool",
         "paper",
+        "tool",
+        "llm",
         "agent"
       ],
       "score": "📄",
@@ -426,8 +490,8 @@
       "url": "http://arxiv.org/abs/2609.24965v1",
       "published_at": "2026-09-21T17:51:50Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.24965v1",
@@ -443,9 +507,9 @@
       "url": "http://arxiv.org/abs/2609.24955v1",
       "published_at": "2026-09-21T17:46:25Z",
       "tags": [
-        "vision",
         "paper",
-        "tool"
+        "tool",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.24955v1",
@@ -478,8 +542,8 @@
       "url": "http://arxiv.org/abs/2609.24927v1",
       "published_at": "2026-09-21T17:22:44Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.24927v1",
@@ -528,8 +592,8 @@
       "url": "http://arxiv.org/abs/2609.24890v1",
       "published_at": "2026-09-21T16:55:24Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.24890v1",
@@ -561,9 +625,9 @@
       "url": "http://arxiv.org/abs/2609.24881v1",
       "published_at": "2026-09-21T16:48:50Z",
       "tags": [
+        "paper",
         "llm",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.24881v1",
@@ -579,10 +643,10 @@
       "url": "http://arxiv.org/abs/2609.24876v1",
       "published_at": "2026-09-21T16:46:59Z",
       "tags": [
-        "vision",
         "agent",
+        "paper",
         "tool",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.24876v1",
@@ -598,9 +662,9 @@
       "url": "http://arxiv.org/abs/2609.24864v1",
       "published_at": "2026-09-21T16:35:57Z",
       "tags": [
-        "vision",
+        "paper",
         "agent",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.24864v1",
@@ -616,64 +680,16 @@
       "url": "http://arxiv.org/abs/2609.24862v1",
       "published_at": "2026-09-21T16:33:59Z",
       "tags": [
-        "vision",
         "agent",
+        "paper",
         "tool",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.24862v1",
       "summary_type": "extractive",
       "title_zh": "When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series Forecasting",
       "summary_zh": "Agentic time series forecasting concerns systems whose underlying mechanisms evolve, making the relative effectiveness of numerical models, reasoning strategies, and intervention rules inherently time-varying. Consequently, a time series agent must adapt the forecasts it produces and the orchestration policy that determines which components to trust and how to coordinate them. The deployment process naturally provides supervision for this adaptation as forecast horizons elapse and realized targe"
-    },
-    {
-      "title": "HERMES radio enables voice and data communication over vast distances",
-      "summary": "https:&#x2F;&#x2F;hermes.radio&#x2F;https:&#x2F;&#x2F;www.rhizomatica.org&#x2F;",
-      "full_text": "https:&#x2F;&#x2F;hermes.radio&#x2F;https:&#x2F;&#x2F;www.rhizomatica.org&#x2F;",
-      "source": "hacker news",
-      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-      "published_at": "2026-09-21T16:14:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "147",
-      "item_id": "hn:49789228",
-      "summary_type": "extractive",
-      "title_zh": "HERMES radio enables voice and data communication over vast distances",
-      "summary_zh": "https:&#x2F;&#x2F;hermes.radio&#x2F;https:&#x2F;&#x2F;www.rhizomatica.org&#x2F;"
-    },
-    {
-      "title": "How do traffic signals work? (2019)",
-      "summary": "How do traffic signals work? (2019)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-      "published_at": "2026-09-21T16:06:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "91",
-      "item_id": "hn:49789081",
-      "summary_type": "extractive",
-      "title_zh": "How do traffic signals work? (2019)",
-      "summary_zh": "How do traffic signals work? (2019)"
-    },
-    {
-      "title": "Grok 4.7",
-      "summary": "Grok 4.7",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://x.ai/news/grok-4-7",
-      "published_at": "2026-09-21T15:50:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "580",
-      "item_id": "hn:49788838",
-      "summary_type": "extractive",
-      "title_zh": "Grok 4.7",
-      "summary_zh": "Grok 4.7"
     },
     {
       "title": "Attention is all you have",
@@ -685,7 +701,7 @@
       "tags": [
         "ai"
       ],
-      "score": "837",
+      "score": "997",
       "item_id": "hn:49787726",
       "summary_type": "extractive",
       "title_zh": "Attention is all you have",
@@ -701,43 +717,11 @@
       "tags": [
         "ai"
       ],
-      "score": "602",
+      "score": "659",
       "item_id": "hn:49787436",
       "summary_type": "extractive",
       "title_zh": "What Sun got wrong",
       "summary_zh": "What Sun got wrong"
-    },
-    {
-      "title": "Python Workers are now generally available",
-      "summary": "Python Workers are now generally available",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "published_at": "2026-09-21T13:38:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "235",
-      "item_id": "hn:49787142",
-      "summary_type": "extractive",
-      "title_zh": "Python Workers are now generally available",
-      "summary_zh": "Python Workers are now generally available"
-    },
-    {
-      "title": "A build graph that rolls dice",
-      "summary": "A build graph that rolls dice",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://fzakaria.com/2026/09/20/a-build-graph-that-rolls-dice",
-      "published_at": "2026-09-21T12:50:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "3",
-      "item_id": "hn:49786643",
-      "summary_type": "extractive",
-      "title_zh": "A build graph that rolls dice",
-      "summary_zh": "A build graph that rolls dice"
     },
     {
       "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
@@ -749,43 +733,43 @@
       "tags": [
         "ai"
       ],
-      "score": "22",
+      "score": "53",
       "item_id": "hn:49785202",
       "summary_type": "extractive",
       "title_zh": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
       "summary_zh": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)"
     },
     {
-      "title": "What It's Like to Work in One of America's Data Centers",
-      "summary": "What It's Like to Work in One of America's Data Centers",
+      "title": "Relativistic Raytracing",
+      "summary": "Relativistic Raytracing",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
-      "published_at": "2026-09-20T21:18:58+00:00",
+      "url": "https://publish.obsidian.md/h1m3/Articles/Relativistic+raytracing",
+      "published_at": "2026-09-21T02:39:59+00:00",
       "tags": [
         "ai"
       ],
-      "score": "16",
-      "item_id": "hn:49780175",
+      "score": "4",
+      "item_id": "hn:49782452",
       "summary_type": "extractive",
-      "title_zh": "What It's Like to Work in One of America's Data Centers",
-      "summary_zh": "What It's Like to Work in One of America's Data Centers"
+      "title_zh": "Relativistic Raytracing",
+      "summary_zh": "Relativistic Raytracing"
     },
     {
-      "title": "PDF Forgeries Are Surprisingly Rare (2022)",
-      "summary": "PDF Forgeries Are Surprisingly Rare (2022)",
+      "title": "Line Scan Photos from MUNI Heritage Weekend in San Francisco",
+      "summary": "Line Scan Photos from MUNI Heritage Weekend in San Francisco",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://gwern.net/blog/2022/pdf-forgery",
-      "published_at": "2026-09-20T09:57:35+00:00",
+      "url": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
+      "published_at": "2026-09-20T22:13:07+00:00",
       "tags": [
         "ai"
       ],
-      "score": "48",
-      "item_id": "hn:49774269",
+      "score": "95",
+      "item_id": "hn:49780622",
       "summary_type": "extractive",
-      "title_zh": "PDF Forgeries Are Surprisingly Rare (2022)",
-      "summary_zh": "PDF Forgeries Are Surprisingly Rare (2022)"
+      "title_zh": "Line Scan Photos from MUNI Heritage Weekend in San Francisco",
+      "summary_zh": "Line Scan Photos from MUNI Heritage Weekend in San Francisco"
     },
     {
       "title": "A font that reads what you wrote",
@@ -797,11 +781,27 @@
       "tags": [
         "ai"
       ],
-      "score": "18",
+      "score": "70",
       "item_id": "hn:49774161",
       "summary_type": "extractive",
       "title_zh": "A font that reads what you wrote",
       "summary_zh": "A font that reads what you wrote"
+    },
+    {
+      "title": "Teleoperated Humans",
+      "summary": "Teleoperated Humans",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.jefftk.com/p/teleoperated-humans",
+      "published_at": "2026-09-20T08:02:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "26",
+      "item_id": "hn:49773597",
+      "summary_type": "extractive",
+      "title_zh": "Teleoperated Humans",
+      "summary_zh": "Teleoperated Humans"
     },
     {
       "title": "World Wide Words",
@@ -813,7 +813,7 @@
       "tags": [
         "ai"
       ],
-      "score": "23",
+      "score": "35",
       "item_id": "hn:49772263",
       "summary_type": "extractive",
       "title_zh": "World Wide Words",
@@ -829,7 +829,7 @@
       "tags": [
         "ai"
       ],
-      "score": "166",
+      "score": "197",
       "item_id": "hn:49769561",
       "summary_type": "extractive",
       "title_zh": "Divide by depth for instant 3D",

@@ -1,22 +1,38 @@
 {
-  "updated_at": "2026-09-24T04:28:44.344890+00:00",
+  "updated_at": "2026-09-24T11:33:20.773298+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
-      "summary": "I made a financial planning tool in a couple hours that can model various stages of life and potentially guide job searching and work timelines.",
-      "full_text": "I made a financial planning tool in a couple hours that can model various stages of life and potentially guide job searching and work timelines.",
+      "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
+      "summary": "Starlink ground station in Poland hit by fire in suspected arson attack",
+      "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/karmanyaahm/budget-tools/tree/main/fire",
-      "published_at": "2026-09-24T03:53:54+00:00",
+      "url": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
+      "published_at": "2026-09-24T09:52:29+00:00",
       "tags": [
         "ai"
       ],
-      "score": "9",
-      "item_id": "hn:49826059",
+      "score": "78",
+      "item_id": "hn:49828409",
       "summary_type": "extractive",
-      "title_zh": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
-      "summary_zh": "I made a financial planning tool in a couple hours that can model various stages of life and potentially guide job searching and work timelines."
+      "title_zh": "Starlink ground station in Poland hit by fire in suspected arson attack",
+      "summary_zh": "Starlink ground station in Poland hit by fire in suspected arson attack"
+    },
+    {
+      "title": "Nokia Design Archive (2025)",
+      "summary": "Nokia Design Archive (2025)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nokiadesignarchive.aalto.fi/index.html",
+      "published_at": "2026-09-24T09:49:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "71",
+      "item_id": "hn:49828385",
+      "summary_type": "extractive",
+      "title_zh": "Nokia Design Archive (2025)",
+      "summary_zh": "Nokia Design Archive (2025)"
     },
     {
       "title": "Ideas on modernizing the open-source desktop",
@@ -28,44 +44,28 @@
       "tags": [
         "ai"
       ],
-      "score": "7",
+      "score": "166",
       "item_id": "hn:49825642",
       "summary_type": "extractive",
       "title_zh": "Ideas on modernizing the open-source desktop",
       "summary_zh": "Ideas on modernizing the open-source desktop"
     },
     {
-      "title": "Australia says OpenAI agent hacked into government website",
-      "summary": "Australia says OpenAI agent hacked into government website",
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "summary": "OpenAI agent hacked Australian government website, PM says",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
-      "published_at": "2026-09-24T01:24:00+00:00",
+      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+      "published_at": "2026-09-24T02:44:48+00:00",
       "tags": [
         "llm",
         "agent"
       ],
-      "score": "60",
-      "item_id": "hn:49825024",
+      "score": "87",
+      "item_id": "hn:49825580",
       "summary_type": "extractive",
-      "title_zh": "Australia says OpenAI agent hacked into government website",
-      "summary_zh": "Australia says OpenAI agent hacked into government website"
-    },
-    {
-      "title": "Liquid Network Security Incident Assessment",
-      "summary": "Liquid Network Security Incident Assessment",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.blockstream.com/liquid-network-security-incident-assessment/",
-      "published_at": "2026-09-24T01:18:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "4",
-      "item_id": "hn:49824978",
-      "summary_type": "extractive",
-      "title_zh": "Liquid Network Security Incident Assessment",
-      "summary_zh": "Liquid Network Security Incident Assessment"
+      "title_zh": "OpenAI agent hacked Australian government website, PM says",
+      "summary_zh": "OpenAI agent hacked Australian government website, PM says"
     },
     {
       "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
@@ -77,7 +77,7 @@
       "tags": [
         "ai"
       ],
-      "score": "34",
+      "score": "110",
       "item_id": "hn:49824864",
       "summary_type": "extractive",
       "title_zh": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
@@ -93,7 +93,7 @@
       "tags": [
         "ai"
       ],
-      "score": "15",
+      "score": "40",
       "item_id": "hn:49824715",
       "summary_type": "extractive",
       "title_zh": "Show HN: An open-source manufacturing ERP/MES/QMS",
@@ -109,7 +109,7 @@
       "tags": [
         "ai"
       ],
-      "score": "307",
+      "score": "420",
       "item_id": "hn:49824268",
       "summary_type": "extractive",
       "title_zh": "Meta VR Glasses",
@@ -125,27 +125,11 @@
       "tags": [
         "ai"
       ],
-      "score": "104",
+      "score": "126",
       "item_id": "hn:49823195",
       "summary_type": "extractive",
       "title_zh": "We just shipped support for the ugliest part of HTTP: Vary",
       "summary_zh": "We just shipped support for the ugliest part of HTTP: Vary"
-    },
-    {
-      "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
-      "summary": "Hello HN!I&#x27;ve spent years debugging Windows crashes with tools that were either friendly but limited (e.g. Visual Studio) or powerful but archaic (e.g. WinDbg).",
-      "full_text": "Hello HN!I&#x27;ve spent years debugging Windows crashes with tools that were either friendly but limited (e.g. Visual Studio) or powerful but archaic (e.g. WinDbg). I developed patterns and methods for understanding what was going on, and decided to build it into a much more effective debugging tool called ForensicDbg.I built a modern interface to minimize the friction when debugging. All of the data shown to you is analyzed, interpreted, and presented to you clearly, so you can focus on what m",
-      "source": "hacker news",
-      "url": "https://www.forensicdbg.com",
-      "published_at": "2026-09-23T19:15:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "32",
-      "item_id": "hn:49821086",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
-      "summary_zh": "Hello HN!I&#x27;ve spent years debugging Windows crashes with tools that were either friendly but limited (e.g. Visual Studio) or powerful but archaic (e.g. WinDbg)."
     },
     {
       "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
@@ -157,7 +141,7 @@
       "tags": [
         "ai"
       ],
-      "score": "51",
+      "score": "63",
       "item_id": "hn:49820136",
       "summary_type": "extractive",
       "title_zh": "Swap, ZRAM, Zswap and Hibernate on NixOS",
@@ -173,7 +157,7 @@
       "tags": [
         "ai"
       ],
-      "score": "124",
+      "score": "149",
       "item_id": "hn:49820065",
       "summary_type": "extractive",
       "title_zh": "A brief history of Windows scroll bar shortcuts",
@@ -224,7 +208,7 @@
       "tags": [
         "ai"
       ],
-      "score": "109",
+      "score": "176",
       "item_id": "hn:49819880",
       "summary_type": "extractive",
       "title_zh": "Making Tailscale Faster",
@@ -255,8 +239,8 @@
       "url": "http://arxiv.org/abs/2609.28442v1",
       "published_at": "2026-09-23T17:40:57Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.28442v1",
@@ -272,10 +256,10 @@
       "url": "http://arxiv.org/abs/2609.28416v1",
       "published_at": "2026-09-23T17:18:26Z",
       "tags": [
-        "llm",
         "paper",
-        "tool",
-        "agent"
+        "llm",
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.28416v1",
@@ -291,9 +275,9 @@
       "url": "http://arxiv.org/abs/2609.28414v1",
       "published_at": "2026-09-23T17:17:02Z",
       "tags": [
+        "paper",
         "llm",
-        "vision",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.28414v1",
@@ -328,7 +312,7 @@
       "tags": [
         "ai"
       ],
-      "score": "646",
+      "score": "807",
       "item_id": "hn:49819221",
       "summary_type": "extractive",
       "title_zh": "Italian parliament votes for return to nuclear energy",
@@ -342,8 +326,8 @@
       "url": "http://arxiv.org/abs/2609.28385v1",
       "published_at": "2026-09-23T16:58:26Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.28385v1",
@@ -359,10 +343,10 @@
       "url": "http://arxiv.org/abs/2609.28372v1",
       "published_at": "2026-09-23T16:47:52Z",
       "tags": [
-        "llm",
         "paper",
-        "tool",
-        "agent"
+        "llm",
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.28372v1",
@@ -379,31 +363,15 @@
       "published_at": "2026-09-23T16:38:06Z",
       "tags": [
         "llm",
+        "paper",
         "vision",
-        "agent",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.28366v1",
       "summary_type": "extractive",
       "title_zh": "AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios",
       "summary_zh": "Vision-language models (VLMs) offer a promising approach to long-tail autonomous driving, but existing driving datasets provide limited supervision for connecting decision-critical visual evidence with reasoning and planning. We introduce AnchorReasoning, a visually grounded reasoning dataset built on WOD-E2E, containing 416,119 annotated frames and 395,379 decision-critical elements across four major categories and 19 fine-grained types. Each frame is organized as a visually grounded chain-of-t"
-    },
-    {
-      "title": "28% of job postings on company career sites have been open over 90 days",
-      "summary": "28% of job postings on company career sites have been open over 90 days",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
-      "published_at": "2026-09-23T16:35:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "254",
-      "item_id": "hn:49818698",
-      "summary_type": "extractive",
-      "title_zh": "28% of job postings on company career sites have been open over 90 days",
-      "summary_zh": "28% of job postings on company career sites have been open over 90 days"
     },
     {
       "title": "MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference",
@@ -430,8 +398,8 @@
       "url": "http://arxiv.org/abs/2609.28335v1",
       "published_at": "2026-09-23T16:13:36Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.28335v1",
@@ -456,6 +424,22 @@
       "summary_type": "extractive",
       "title_zh": "Learning the Cost of Reliable Inference",
       "summary_zh": "Benchmarking and routing platforms increasingly act as intermediaries connecting large language model providers with end-users. However, providers on these platforms typically use a fixed price per token, preventing users from achieving the most competitive price for their tasks. % workloads."
+    },
+    {
+      "title": "Why 'What's Opera, Doc?' looks like that",
+      "summary": "Why 'What's Opera, Doc?' looks like that",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that",
+      "published_at": "2026-09-23T15:37:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "71",
+      "item_id": "hn:49817741",
+      "summary_type": "extractive",
+      "title_zh": "Why 'What's Opera, Doc?' looks like that",
+      "summary_zh": "Why 'What's Opera, Doc?' looks like that"
     },
     {
       "title": "Shutdown Sabotage Propensities in Multi-Agent Systems",
@@ -484,7 +468,7 @@
       "tags": [
         "ai"
       ],
-      "score": "128",
+      "score": "142",
       "item_id": "hn:49817524",
       "summary_type": "extractive",
       "title_zh": "Radicle: Disclosure of Vulnerability in the Network Protocol",
@@ -498,8 +482,8 @@
       "url": "http://arxiv.org/abs/2609.28256v1",
       "published_at": "2026-09-23T15:19:19Z",
       "tags": [
-        "vision",
         "paper",
+        "vision",
         "tool"
       ],
       "score": "📄",
@@ -518,7 +502,7 @@
       "tags": [
         "ai"
       ],
-      "score": "391",
+      "score": "458",
       "item_id": "hn:49817469",
       "summary_type": "extractive",
       "title_zh": "Fixing the Portobello Police Station Clock",
@@ -532,8 +516,8 @@
       "url": "http://arxiv.org/abs/2609.28247v1",
       "published_at": "2026-09-23T15:08:35Z",
       "tags": [
-        "llm",
         "paper",
+        "llm",
         "agent"
       ],
       "score": "📄",
@@ -550,14 +534,30 @@
       "url": "http://arxiv.org/abs/2609.28245v1",
       "published_at": "2026-09-23T15:08:32Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.28245v1",
       "summary_type": "extractive",
       "title_zh": "Beyond Poetry: Can Large Language Models Generate Classical Arabic Maqamat?",
       "summary_zh": "Large language models (LLMs) have shown strong performance in creative text generation, yet their ability to produce culturally grounded and stylistically constrained literary forms remains underexplored. Prior work has focused largely on modern language varieties and poetry, while classical prose traditions such as maqama remain largely unstudied. The maqama is a classical literary genre characterized by rhymed prose (saj), dense rhetorical ornamentation, and episodic narrative structure, makin"
+    },
+    {
+      "title": "Strands Harness",
+      "summary": "Strands Harness",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
+      "published_at": "2026-09-23T15:05:46+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "136",
+      "item_id": "hn:49817289",
+      "summary_type": "extractive",
+      "title_zh": "Strands Harness",
+      "summary_zh": "Strands Harness"
     },
     {
       "title": "Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification",
@@ -567,9 +567,9 @@
       "url": "http://arxiv.org/abs/2609.28231v1",
       "published_at": "2026-09-23T14:55:43Z",
       "tags": [
+        "paper",
         "llm",
-        "vision",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.28231v1",
@@ -586,8 +586,8 @@
       "published_at": "2026-09-23T14:50:20Z",
       "tags": [
         "paper",
-        "tool",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.28216v1",
@@ -614,22 +614,6 @@
       "summary_zh": "As Large Language Models (LLMs) evolve into autonomous agents that alter real-world states, ensuring operational safety across multi-step workflows has become a critical challenge. While recent work has moved beyond single-turn evaluation toward multi-turn paradigms, key limitations persist: step-level methods treat actions in isolation, missing how risks accumulate, while trajectory-level evaluations operate post-hoc, offering no opportunity for timely intervention. To address these limitations"
     },
     {
-      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
-      "summary": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
-      "published_at": "2026-09-23T14:04:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "324",
-      "item_id": "hn:49816374",
-      "summary_type": "extractive",
-      "title_zh": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
-      "summary_zh": "Seattle City Council votes to ban surveillance pricing in sale of groceries"
-    },
-    {
       "title": "I don't want the details",
       "summary": "I don't want the details",
       "full_text": "",
@@ -639,28 +623,11 @@
       "tags": [
         "ai"
       ],
-      "score": "384",
+      "score": "410",
       "item_id": "hn:49815466",
       "summary_type": "extractive",
       "title_zh": "I don't want the details",
       "summary_zh": "I don't want the details"
-    },
-    {
-      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-      "summary": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "published_at": "2026-09-23T12:15:33+00:00",
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": "460",
-      "item_id": "hn:49814947",
-      "summary_type": "extractive",
-      "title_zh": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-      "summary_zh": "Claude Code reads AGENTS.md only when telemetry is on [fixed]"
     },
     {
       "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
@@ -688,7 +655,7 @@
       "tags": [
         "ai"
       ],
-      "score": "152",
+      "score": "155",
       "item_id": "hn:49814236",
       "summary_type": "extractive",
       "title_zh": "Z80 REPL (2018)",
@@ -704,43 +671,11 @@
       "tags": [
         "ai"
       ],
-      "score": "260",
+      "score": "310",
       "item_id": "hn:49813482",
       "summary_type": "extractive",
       "title_zh": "Tokens too cheap to meter",
       "summary_zh": "Tokens too cheap to meter"
-    },
-    {
-      "title": "Jev in 25 Lines of Python",
-      "summary": "Jev in 25 Lines of Python",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-      "published_at": "2026-09-23T07:26:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "636",
-      "item_id": "hn:49812769",
-      "summary_type": "extractive",
-      "title_zh": "Jev in 25 Lines of Python",
-      "summary_zh": "Jev in 25 Lines of Python"
-    },
-    {
-      "title": "Augustofaces: Pareidolia Fine Art",
-      "summary": "Augustofaces: Pareidolia Fine Art",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://augusto.at/augustosfaces/",
-      "published_at": "2026-09-22T22:52:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "22",
-      "item_id": "hn:49809404",
-      "summary_type": "extractive",
-      "title_zh": "Augustofaces: Pareidolia Fine Art",
-      "summary_zh": "Augustofaces: Pareidolia Fine Art"
     },
     {
       "title": "The Curious Power of Punctuation",
@@ -752,11 +687,59 @@
       "tags": [
         "ai"
       ],
-      "score": "38",
+      "score": "43",
       "item_id": "hn:49806413",
       "summary_type": "extractive",
       "title_zh": "The Curious Power of Punctuation",
       "summary_zh": "The Curious Power of Punctuation"
+    },
+    {
+      "title": "Automated optimization of a molecular simulation program",
+      "summary": "Automated optimization of a molecular simulation program",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://shishir-iyer.medium.com/automated-optimization-of-a-molecular-simulation-program-4a28a2bc05ad",
+      "published_at": "2026-09-22T16:38:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "3",
+      "item_id": "hn:49804052",
+      "summary_type": "extractive",
+      "title_zh": "Automated optimization of a molecular simulation program",
+      "summary_zh": "Automated optimization of a molecular simulation program"
+    },
+    {
+      "title": "RAM: the forgotten history (2024)",
+      "summary": "RAM: the forgotten history (2024)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
+      "published_at": "2026-09-22T15:12:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "36",
+      "item_id": "hn:49802661",
+      "summary_type": "extractive",
+      "title_zh": "RAM: the forgotten history (2024)",
+      "summary_zh": "RAM: the forgotten history (2024)"
+    },
+    {
+      "title": "Data liberation: Apache Kafka's native cluster mirroring",
+      "summary": "Data liberation: Apache Kafka's native cluster mirroring",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://developers.redhat.com/articles/2026/09/22/data-liberation-apache-kafka-native-cluster-mirroring",
+      "published_at": "2026-09-22T14:18:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:49801700",
+      "summary_type": "extractive",
+      "title_zh": "Data liberation: Apache Kafka's native cluster mirroring",
+      "summary_zh": "Data liberation: Apache Kafka's native cluster mirroring"
     },
     {
       "title": "The mystery animal on an ancient god's head",
@@ -768,7 +751,7 @@
       "tags": [
         "ai"
       ],
-      "score": "79",
+      "score": "116",
       "item_id": "hn:49799855",
       "summary_type": "extractive",
       "title_zh": "The mystery animal on an ancient god's head",
@@ -784,7 +767,7 @@
       "tags": [
         "ai"
       ],
-      "score": "86",
+      "score": "163",
       "item_id": "hn:49796372",
       "summary_type": "extractive",
       "title_zh": "The \"Windows XP Box\" (2003)",
@@ -800,11 +783,27 @@
       "tags": [
         "ai"
       ],
-      "score": "9",
+      "score": "51",
       "item_id": "hn:49795600",
       "summary_type": "extractive",
       "title_zh": "Making portable my unportable transputer C compiler",
       "summary_zh": "Making portable my unportable transputer C compiler"
+    },
+    {
+      "title": "Women Who Sold Books Door to Door",
+      "summary": "Women Who Sold Books Door to Door",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://daily.jstor.org/the-women-who-sold-books-door-to-door/",
+      "published_at": "2026-09-21T20:52:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "34",
+      "item_id": "hn:49793249",
+      "summary_type": "extractive",
+      "title_zh": "Women Who Sold Books Door to Door",
+      "summary_zh": "Women Who Sold Books Door to Door"
     },
     {
       "title": "Solving for faster SHA-1 collision detection",
@@ -816,27 +815,27 @@
       "tags": [
         "ai"
       ],
-      "score": "12",
+      "score": "45",
       "item_id": "hn:49791558",
       "summary_type": "extractive",
       "title_zh": "Solving for faster SHA-1 collision detection",
       "summary_zh": "Solving for faster SHA-1 collision detection"
     },
     {
-      "title": "A refined phylochronology of the second plague pandemic in Western Eurasia",
-      "summary": "A refined phylochronology of the second plague pandemic in Western Eurasia",
+      "title": "Lambda MicroEgg",
+      "summary": "Lambda MicroEgg",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.pnas.org/doi/10.1073/pnas.2534899123",
-      "published_at": "2026-09-21T00:06:21+00:00",
+      "url": "https://www.philipzucker.com/lambda_miller_egg/",
+      "published_at": "2026-09-20T16:05:10+00:00",
       "tags": [
         "ai"
       ],
-      "score": "19",
-      "item_id": "hn:49781492",
+      "score": "44",
+      "item_id": "hn:49777158",
       "summary_type": "extractive",
-      "title_zh": "A refined phylochronology of the second plague pandemic in Western Eurasia",
-      "summary_zh": "A refined phylochronology of the second plague pandemic in Western Eurasia"
+      "title_zh": "Lambda MicroEgg",
+      "summary_zh": "Lambda MicroEgg"
     }
   ]
 }

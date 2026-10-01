@@ -1,38 +1,54 @@
 {
-  "updated_at": "2026-10-01T05:33:18.774851+00:00",
+  "updated_at": "2026-10-01T12:58:33.406440+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-      "summary": "Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it.Most LALR parser generators (Yacc, Bison, Lemon) run your semantic actions during parsing, as each rule reduces, bottom-up.That means at the time a rule&#x27;s action runs, you don&#x27;t yet know what its parent looks like. This pushes a lot of grammars toward hand-built AST classes and a separate walking pass whenever you need to look ahead into siblings or ",
-      "full_text": "Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it.Most LALR parser generators (Yacc, Bison, Lemon) run your semantic actions during parsing, as each rule reduces, bottom-up.That means at the time a rule&#x27;s action runs, you don&#x27;t yet know what its parent looks like. This pushes a lot of grammars toward hand-built AST classes and a separate walking pass whenever you need to look ahead into siblings or ",
-      "source": "hacker news",
-      "url": "https://github.com/TantrixAuto/yantra",
-      "published_at": "2026-10-01T02:30:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "19",
-      "item_id": "hn:49916997",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Yantra – an LALR(1) parser generator for C++",
-      "summary_zh": "Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it.Most LALR parser generators (Yacc, Bison, Lemon) run your semantic actions during parsing, as each rule reduces, bottom-up.That means at the time a rule&#x27;s action runs, you don&#x27;t yet know what its parent looks like. This pushes a lot of grammars toward hand-built AST classes and a separate walking pass whenever you need to look ahead into siblings or "
-    },
-    {
-      "title": "Jevotron: Multiple Jev integrations from the command line",
-      "summary": "Jevotron: Multiple Jev integrations from the command line",
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "summary": "Returning from vacation? The government can search your phone without a warrant",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://cmungall.github.io/jevotron/",
-      "published_at": "2026-10-01T02:12:38+00:00",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "published_at": "2026-10-01T11:13:59+00:00",
       "tags": [
         "ai"
       ],
-      "score": "8",
-      "item_id": "hn:49916865",
+      "score": "105",
+      "item_id": "hn:49920234",
       "summary_type": "extractive",
-      "title_zh": "Jevotron: Multiple Jev integrations from the command line",
-      "summary_zh": "Jevotron: Multiple Jev integrations from the command line"
+      "title_zh": "Returning from vacation? The government can search your phone without a warrant",
+      "summary_zh": "Returning from vacation? The government can search your phone without a warrant"
+    },
+    {
+      "title": "StreetComplete on iOS is now in public beta",
+      "summary": "StreetComplete on iOS is now in public beta",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "published_at": "2026-10-01T10:59:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "133",
+      "item_id": "hn:49920160",
+      "summary_type": "extractive",
+      "title_zh": "StreetComplete on iOS is now in public beta",
+      "summary_zh": "StreetComplete on iOS is now in public beta"
+    },
+    {
+      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+      "summary": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+      "published_at": "2026-10-01T09:48:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "1",
+      "item_id": "hn:49919680",
+      "summary_type": "extractive",
+      "title_zh": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+      "summary_zh": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate"
     },
     {
       "title": "56k.rip – the 1996 dial-up internet experience",
@@ -44,7 +60,7 @@
       "tags": [
         "ai"
       ],
-      "score": "132",
+      "score": "204",
       "item_id": "hn:49915126",
       "summary_type": "extractive",
       "title_zh": "56k.rip – the 1996 dial-up internet experience",
@@ -60,27 +76,11 @@
       "tags": [
         "ai"
       ],
-      "score": "182",
+      "score": "253",
       "item_id": "hn:49915082",
       "summary_type": "extractive",
       "title_zh": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
       "summary_zh": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)"
-    },
-    {
-      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-      "summary": "Functional Ultrasound Imaging (fUSI) from scratch",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
-      "published_at": "2026-09-30T20:06:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "36",
-      "item_id": "hn:49913604",
-      "summary_type": "extractive",
-      "title_zh": "Functional Ultrasound Imaging (fUSI) from scratch",
-      "summary_zh": "Functional Ultrasound Imaging (fUSI) from scratch"
     },
     {
       "title": "Halfspace experimental IDE for solid modeling with distance fields",
@@ -92,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "104",
+      "score": "152",
       "item_id": "hn:49913350",
       "summary_type": "extractive",
       "title_zh": "Halfspace experimental IDE for solid modeling with distance fields",
@@ -108,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "188",
+      "score": "231",
       "item_id": "hn:49913192",
       "summary_type": "extractive",
       "title_zh": "EDG C++ front-end goes public",
@@ -124,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "156",
+      "score": "209",
       "item_id": "hn:49912955",
       "summary_type": "extractive",
       "title_zh": "Surprisingly complex waves reveal the brain's inner workings",
@@ -140,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "82",
+      "score": "202",
       "item_id": "hn:49912792",
       "summary_type": "extractive",
       "title_zh": "Before pixels: Modular industrial dashboards",
@@ -156,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "141",
+      "score": "194",
       "item_id": "hn:49912444",
       "summary_type": "extractive",
       "title_zh": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
@@ -223,10 +223,10 @@
       "url": "http://arxiv.org/abs/2609.40325v1",
       "published_at": "2026-09-30T17:55:29Z",
       "tags": [
-        "paper",
+        "llm",
         "vision",
         "agent",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.40325v1",
@@ -242,9 +242,9 @@
       "url": "http://arxiv.org/abs/2609.40324v1",
       "published_at": "2026-09-30T17:55:22Z",
       "tags": [
-        "paper",
+        "llm",
         "agent",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.40324v1",
@@ -260,8 +260,8 @@
       "url": "http://arxiv.org/abs/2609.40322v1",
       "published_at": "2026-09-30T17:55:06Z",
       "tags": [
-        "tool",
         "llm",
+        "tool",
         "paper"
       ],
       "score": "📄",
@@ -295,9 +295,9 @@
       "url": "http://arxiv.org/abs/2609.40306v1",
       "published_at": "2026-09-30T17:52:09Z",
       "tags": [
-        "paper",
+        "llm",
         "agent",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.40306v1",
@@ -313,10 +313,10 @@
       "url": "http://arxiv.org/abs/2609.40303v1",
       "published_at": "2026-09-30T17:51:30Z",
       "tags": [
-        "paper",
-        "tool",
+        "llm",
         "agent",
-        "llm"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.40303v1",
@@ -349,8 +349,8 @@
       "url": "http://arxiv.org/abs/2609.40286v1",
       "published_at": "2026-09-30T17:48:13Z",
       "tags": [
-        "tool",
         "llm",
+        "tool",
         "paper"
       ],
       "score": "📄",
@@ -422,7 +422,7 @@
       "tags": [
         "ai"
       ],
-      "score": "67",
+      "score": "92",
       "item_id": "hn:49912048",
       "summary_type": "extractive",
       "title_zh": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
@@ -457,7 +457,7 @@
         "tool",
         "agent"
       ],
-      "score": "142",
+      "score": "174",
       "item_id": "hn:49911995",
       "summary_type": "extractive",
       "title_zh": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
@@ -489,9 +489,9 @@
       "url": "http://arxiv.org/abs/2609.40221v1",
       "published_at": "2026-09-30T17:26:57Z",
       "tags": [
-        "paper",
+        "llm",
         "agent",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.40221v1",
@@ -551,38 +551,6 @@
       "summary_zh": "Long-term egocentric video enables personalized AI assistants to reason about daily life. However, as video histories grow to hundreds of hours spanning months or years, reprocessing raw clips for every query becomes computationally prohibitive. Memory systems offer a scalable alternative by compacting videos into text representations, but often fail on practical benchmarks: either the memory does not preserve key evidence, or the retriever fails to locate relevant entries due to retrieval compe"
     },
     {
-      "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-      "summary": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.software3d.com/MillersMonster.php",
-      "published_at": "2026-09-30T17:00:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "58",
-      "item_id": "hn:49911534",
-      "summary_type": "extractive",
-      "title_zh": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-      "summary_zh": "Great Dirhombicosidodecahedron (\"Miller's Monster\")"
-    },
-    {
-      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-      "summary": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
-      "published_at": "2026-09-30T17:00:20+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:49911531",
-      "summary_type": "extractive",
-      "title_zh": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-      "summary_zh": "Bild AI (YC W25) Is Hiring a Founding Product Engineer"
-    },
-    {
       "title": "Coltrane's Tone Circle",
       "summary": "Coltrane's Tone Circle",
       "full_text": "",
@@ -592,27 +560,11 @@
       "tags": [
         "ai"
       ],
-      "score": "46",
+      "score": "73",
       "item_id": "hn:49909908",
       "summary_type": "extractive",
       "title_zh": "Coltrane's Tone Circle",
       "summary_zh": "Coltrane's Tone Circle"
-    },
-    {
-      "title": "SDF Public Access Unix System ... est. 1987",
-      "summary": "SDF Public Access Unix System ... est. 1987",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://sdf.org/",
-      "published_at": "2026-09-30T14:36:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "85",
-      "item_id": "hn:49909610",
-      "summary_type": "extractive",
-      "title_zh": "SDF Public Access Unix System ... est. 1987",
-      "summary_zh": "SDF Public Access Unix System ... est. 1987"
     },
     {
       "title": "A brief history of the Bloomberg terminal",
@@ -624,7 +576,7 @@
       "tags": [
         "ai"
       ],
-      "score": "249",
+      "score": "317",
       "item_id": "hn:49909583",
       "summary_type": "extractive",
       "title_zh": "A brief history of the Bloomberg terminal",
@@ -640,27 +592,27 @@
       "tags": [
         "ai"
       ],
-      "score": "164",
+      "score": "203",
       "item_id": "hn:49909056",
       "summary_type": "extractive",
       "title_zh": "What TLA+ can and can't check",
       "summary_zh": "What TLA+ can and can't check"
     },
     {
-      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-      "summary": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "title": "Multi-connectivity for real-time streaming over Wi-Fi",
+      "summary": "Multi-connectivity for real-time streaming over Wi-Fi",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-      "published_at": "2026-09-30T13:50:50+00:00",
+      "url": "https://nanoping.com/benchmarks/wifi-roaming",
+      "published_at": "2026-09-30T13:11:00+00:00",
       "tags": [
         "ai"
       ],
-      "score": "143",
-      "item_id": "hn:49908962",
+      "score": "11",
+      "item_id": "hn:49908449",
       "summary_type": "extractive",
-      "title_zh": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-      "summary_zh": "SDF vs. MSDF vs. Slug: GPU Text Rendering"
+      "title_zh": "Multi-connectivity for real-time streaming over Wi-Fi",
+      "summary_zh": "Multi-connectivity for real-time streaming over Wi-Fi"
     },
     {
       "title": "The last time my family was replaced by technology",
@@ -672,7 +624,7 @@
       "tags": [
         "ai"
       ],
-      "score": "209",
+      "score": "277",
       "item_id": "hn:49908394",
       "summary_type": "extractive",
       "title_zh": "The last time my family was replaced by technology",
@@ -688,11 +640,43 @@
       "tags": [
         "ai"
       ],
-      "score": "302",
+      "score": "422",
       "item_id": "hn:49906432",
       "summary_type": "extractive",
       "title_zh": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
       "summary_zh": "Related: https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cqzjzr893yv4o"
+    },
+    {
+      "title": "Jacques Barzun, Cultural historian and critic (1980)",
+      "summary": "Jacques Barzun, Cultural historian and critic (1980)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.csmonitor.com/1980/0717/071710.html",
+      "published_at": "2026-09-30T09:09:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "9",
+      "item_id": "hn:49906295",
+      "summary_type": "extractive",
+      "title_zh": "Jacques Barzun, Cultural historian and critic (1980)",
+      "summary_zh": "Jacques Barzun, Cultural historian and critic (1980)"
+    },
+    {
+      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "summary": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "published_at": "2026-09-30T08:43:21+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "142",
+      "item_id": "hn:49906100",
+      "summary_type": "extractive",
+      "title_zh": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "summary_zh": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network"
     },
     {
       "title": "Doing a Machine Learning PhD While Working in Japan",
@@ -704,7 +688,7 @@
       "tags": [
         "ai"
       ],
-      "score": "74",
+      "score": "111",
       "item_id": "hn:49905644",
       "summary_type": "extractive",
       "title_zh": "Doing a Machine Learning PhD While Working in Japan",
@@ -720,7 +704,7 @@
       "tags": [
         "ai"
       ],
-      "score": "152",
+      "score": "240",
       "item_id": "hn:49904314",
       "summary_type": "extractive",
       "title_zh": "LinkedIn Larpmaxxing",
@@ -736,7 +720,7 @@
       "tags": [
         "ai"
       ],
-      "score": "84",
+      "score": "101",
       "item_id": "hn:49903713",
       "summary_type": "extractive",
       "title_zh": "Responsible Release of AI-Generated Mathematics",
@@ -752,27 +736,27 @@
       "tags": [
         "ai"
       ],
-      "score": "88",
+      "score": "162",
       "item_id": "hn:49902382",
       "summary_type": "extractive",
       "title_zh": "Show HN: Ledge.sh – Runnable Markdown Notes",
       "summary_zh": "Hi HN,Ledge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.I built Ledge because I spend much of my day copy&#x2F;pasting commands from my notes into the terminal. I was inspired by how much cmux helped me organize my terminals - but there was still a split brain between my notes and frequently run commands. I&#x27;ve been daily-driving it for the past few weeks and use it for deploys, API calls, smoke tests, etc.Ledge runs your real shell just like a "
     },
     {
-      "title": "TUI Games in 80x24",
-      "summary": "TUI Games in 80x24",
+      "title": "Speeding up the separating axis test using inscribed spheres",
+      "summary": "Speeding up the separating axis test using inscribed spheres",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.incredible.rs/#blog/tui-games-in-80x24.md",
-      "published_at": "2026-09-29T17:48:48+00:00",
+      "url": "https://box2d.org/posts/2026/09/inscribed-spheres/",
+      "published_at": "2026-09-29T23:30:32+00:00",
       "tags": [
         "ai"
       ],
-      "score": "6",
-      "item_id": "hn:49897427",
+      "score": "4",
+      "item_id": "hn:49902290",
       "summary_type": "extractive",
-      "title_zh": "TUI Games in 80x24",
-      "summary_zh": "TUI Games in 80x24"
+      "title_zh": "Speeding up the separating axis test using inscribed spheres",
+      "summary_zh": "Speeding up the separating axis test using inscribed spheres"
     },
     {
       "title": "PlayBook: A Programmable Paper Notebook [video]",
@@ -785,11 +769,43 @@
         "vision",
         "paper"
       ],
-      "score": "6",
+      "score": "28",
       "item_id": "hn:49895221",
       "summary_type": "extractive",
       "title_zh": "PlayBook: A Programmable Paper Notebook [video]",
       "summary_zh": "PlayBook: A Programmable Paper Notebook [video]"
+    },
+    {
+      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+      "summary": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://bookofshapes.com/",
+      "published_at": "2026-09-29T14:56:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "127",
+      "item_id": "hn:49894430",
+      "summary_type": "extractive",
+      "title_zh": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+      "summary_zh": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns"
+    },
+    {
+      "title": "Adding Floating-Point Decimals for Fun and Profit",
+      "summary": "Adding Floating-Point Decimals for Fun and Profit",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.vero.site/post/float",
+      "published_at": "2026-09-29T14:05:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "19",
+      "item_id": "hn:49893519",
+      "summary_type": "extractive",
+      "title_zh": "Adding Floating-Point Decimals for Fun and Profit",
+      "summary_zh": "Adding Floating-Point Decimals for Fun and Profit"
     },
     {
       "title": "Why the Bronze Age Collapsed",
@@ -801,27 +817,11 @@
       "tags": [
         "ai"
       ],
-      "score": "148",
+      "score": "288",
       "item_id": "hn:49890732",
       "summary_type": "extractive",
       "title_zh": "Why the Bronze Age Collapsed",
       "summary_zh": "Why the Bronze Age Collapsed"
-    },
-    {
-      "title": "I could've accessed 17T Microsoft records",
-      "summary": "I could've accessed 17T Microsoft records",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
-      "published_at": "2026-09-28T20:32:46+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "281",
-      "item_id": "hn:49883970",
-      "summary_type": "extractive",
-      "title_zh": "I could've accessed 17T Microsoft records",
-      "summary_zh": "I could've accessed 17T Microsoft records"
     },
     {
       "title": "Burning Man death rates – A short lesson in statistics",
@@ -833,7 +833,7 @@
       "tags": [
         "ai"
       ],
-      "score": "123",
+      "score": "158",
       "item_id": "hn:49882754",
       "summary_type": "extractive",
       "title_zh": "Burning Man death rates – A short lesson in statistics",

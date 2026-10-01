@@ -1,22 +1,407 @@
 {
-  "updated_at": "2026-10-01T12:58:33.406440+00:00",
+  "updated_at": "2026-10-01T22:35:09.404162+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Returning from vacation? The government can search your phone without a warrant",
-      "summary": "Returning from vacation? The government can search your phone without a warrant",
+      "title": "Don't Be Fooled by this Summer of AI Hype",
+      "summary": "Don't Be Fooled by this Summer of AI Hype",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-      "published_at": "2026-10-01T11:13:59+00:00",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "published_at": "2026-10-01T21:34:19+00:00",
       "tags": [
         "ai"
       ],
-      "score": "105",
-      "item_id": "hn:49920234",
+      "score": "16",
+      "item_id": "hn:49927331",
       "summary_type": "extractive",
-      "title_zh": "Returning from vacation? The government can search your phone without a warrant",
-      "summary_zh": "Returning from vacation? The government can search your phone without a warrant"
+      "title_zh": "Don't Be Fooled by this Summer of AI Hype",
+      "summary_zh": "Don't Be Fooled by this Summer of AI Hype"
+    },
+    {
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "summary": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.cssbed.com",
+      "published_at": "2026-10-01T21:21:32+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "22",
+      "item_id": "hn:49927212",
+      "summary_type": "extractive",
+      "title_zh": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "summary_zh": "CSS Bed: Classless CSS themes to use as starting points in web development"
+    },
+    {
+      "title": "The death of web development education",
+      "summary": "The death of web development education",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://molily.de/web-dev-education/",
+      "published_at": "2026-10-01T21:07:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "90",
+      "item_id": "hn:49927100",
+      "summary_type": "extractive",
+      "title_zh": "The death of web development education",
+      "summary_zh": "The death of web development education"
+    },
+    {
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "summary": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/Vibra-Ingenn/Janus",
+      "published_at": "2026-10-01T20:36:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "30",
+      "item_id": "hn:49926773",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "summary_zh": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia"
+    },
+    {
+      "title": "Show HN: Rhun, an open-source code editor written in assembly",
+      "summary": "I found that I&#x27;m not using even 1&#x2F;3 of vim&#x2F;vscode features anymore.That&#x27;s wht I&#x27;m building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions.The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it.",
+      "full_text": "I found that I&#x27;m not using even 1&#x2F;3 of vim&#x2F;vscode features anymore.That&#x27;s wht I&#x27;m building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions.The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it.\nThe latest release can draft commit messa",
+      "source": "hacker news",
+      "url": "https://rhun.app/",
+      "published_at": "2026-10-01T20:32:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "12",
+      "item_id": "hn:49926726",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Rhun, an open-source code editor written in assembly",
+      "summary_zh": "I found that I&#x27;m not using even 1&#x2F;3 of vim&#x2F;vscode features anymore.That&#x27;s wht I&#x27;m building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions.The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it."
+    },
+    {
+      "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
+      "summary": "Car Is a Smartphone on Wheels. Here's Who's Listening",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "published_at": "2026-10-01T20:23:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "108",
+      "item_id": "hn:49926628",
+      "summary_type": "extractive",
+      "title_zh": "Car Is a Smartphone on Wheels. Here's Who's Listening",
+      "summary_zh": "Car Is a Smartphone on Wheels. Here's Who's Listening"
+    },
+    {
+      "title": "SvelteKit 3 Is Here",
+      "summary": "SvelteKit 3 Is Here",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "published_at": "2026-10-01T20:14:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "30",
+      "item_id": "hn:49926536",
+      "summary_type": "extractive",
+      "title_zh": "SvelteKit 3 Is Here",
+      "summary_zh": "SvelteKit 3 Is Here"
+    },
+    {
+      "title": "Pi 1.0",
+      "summary": "Pi 1.0",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "published_at": "2026-10-01T19:33:05+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "510",
+      "item_id": "hn:49926069",
+      "summary_type": "extractive",
+      "title_zh": "Pi 1.0",
+      "summary_zh": "Pi 1.0"
+    },
+    {
+      "title": "Pi Durable",
+      "summary": "Pi Durable",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "published_at": "2026-10-01T19:24:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "148",
+      "item_id": "hn:49925969",
+      "summary_type": "extractive",
+      "title_zh": "Pi Durable",
+      "summary_zh": "Pi Durable"
+    },
+    {
+      "title": "Effect 4.0",
+      "summary": "Effect 4.0",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://effect.website/blog/releases/effect/40",
+      "published_at": "2026-10-01T19:10:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "26",
+      "item_id": "hn:49925812",
+      "summary_type": "extractive",
+      "title_zh": "Effect 4.0",
+      "summary_zh": "Effect 4.0"
+    },
+    {
+      "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
+      "summary": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+      "published_at": "2026-10-01T19:03:42+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "58",
+      "item_id": "hn:49925742",
+      "summary_type": "extractive",
+      "title_zh": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
+      "summary_zh": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life"
+    },
+    {
+      "title": "Bez: Generating a browser engine from specs and tests",
+      "summary": "Bez: Generating a browser engine from specs and tests",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tangled.org/burrito.space/bez",
+      "published_at": "2026-10-01T18:08:03+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "77",
+      "item_id": "hn:49925036",
+      "summary_type": "extractive",
+      "title_zh": "Bez: Generating a browser engine from specs and tests",
+      "summary_zh": "Bez: Generating a browser engine from specs and tests"
+    },
+    {
+      "title": "The GPU Black Market That Washington Can't Shut Down",
+      "summary": "The GPU Black Market That Washington Can't Shut Down",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.amcompute.com/blog/gpu-black-market-washington-cant-shut-down",
+      "published_at": "2026-10-01T17:27:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "14",
+      "item_id": "hn:49924543",
+      "summary_type": "extractive",
+      "title_zh": "The GPU Black Market That Washington Can't Shut Down",
+      "summary_zh": "The GPU Black Market That Washington Can't Shut Down"
+    },
+    {
+      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "summary": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "published_at": "2026-10-01T16:18:57+00:00",
+      "tags": [
+        "llm",
+        "tool"
+      ],
+      "score": "369",
+      "item_id": "hn:49923692",
+      "summary_type": "extractive",
+      "title_zh": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "summary_zh": "Clef: Open-source decision models, and new RL fine-tuning platform"
+    },
+    {
+      "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
+      "summary": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
+      "published_at": "2026-10-01T16:14:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "63",
+      "item_id": "hn:49923638",
+      "summary_type": "extractive",
+      "title_zh": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
+      "summary_zh": "Lightweight PDF parser with layout, tables, formulas and bounding boxes"
+    },
+    {
+      "title": "Red Hat being phased out of existence?",
+      "summary": "Red Hat being phased out of existence?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
+      "published_at": "2026-10-01T15:33:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "170",
+      "item_id": "hn:49923056",
+      "summary_type": "extractive",
+      "title_zh": "Red Hat being phased out of existence?",
+      "summary_zh": "Red Hat being phased out of existence?"
+    },
+    {
+      "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+      "summary": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+      "published_at": "2026-10-01T15:10:46+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "166",
+      "item_id": "hn:49922729",
+      "summary_type": "extractive",
+      "title_zh": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+      "summary_zh": "Figma restricts MCP access to whitelisted clients, excluding Pi"
+    },
+    {
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "summary": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "published_at": "2026-10-01T15:07:42+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "139",
+      "item_id": "hn:49922674",
+      "summary_type": "extractive",
+      "title_zh": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "summary_zh": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.Please only post if you are actively filling a position and are committed\nto replying to applicants.Commenters: please don&#x27;t reply to job posts to",
+      "full_text": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.Please only post if you are actively filling a position and are committed\nto replying to applicants.Commenters: please don&#x27;t reply to job posts to",
+      "source": "hacker news",
+      "url": "https://news.ycombinator.com/item?id=49922569",
+      "published_at": "2026-10-01T15:02:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "128",
+      "item_id": "hn:49922569",
+      "summary_type": "extractive",
+      "title_zh": "Ask HN: Who is hiring? (October 2026)",
+      "summary_zh": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn&#x27;t a household name,\nexplain what your company does.Please only post if you are actively filling a position and are committed\nto replying to applicants.Commenters: please don&#x27;t reply to job posts to"
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (October 2026)",
+      "summary": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.Searchers: try https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-wants-to-be-hired, https:&#x2F;&#x2F;www.wantstobehired.com.",
+      "full_text": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.Searchers: try https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-wants-to-be-hired, https:&#x2F;&#x2F;www.wantstobehired.com.",
+      "source": "hacker news",
+      "url": "https://news.ycombinator.com/item?id=49922568",
+      "published_at": "2026-10-01T15:02:07+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "80",
+      "item_id": "hn:49922568",
+      "summary_type": "extractive",
+      "title_zh": "Ask HN: Who wants to be hired? (October 2026)",
+      "summary_zh": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.Searchers: try https:&#x2F;&#x2F;nthesis.ai&#x2F;public&#x2F;hn-wants-to-be-hired, https:&#x2F;&#x2F;www.wantstobehired.com."
+    },
+    {
+      "title": "RacketCon Is Saturday",
+      "summary": "RacketCon Is Saturday",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://con.racket-lang.org/",
+      "published_at": "2026-10-01T14:58:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "120",
+      "item_id": "hn:49922515",
+      "summary_type": "extractive",
+      "title_zh": "RacketCon Is Saturday",
+      "summary_zh": "RacketCon Is Saturday"
+    },
+    {
+      "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "summary": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+      "published_at": "2026-10-01T14:38:35+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "235",
+      "item_id": "hn:49922278",
+      "summary_type": "extractive",
+      "title_zh": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "summary_zh": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones"
+    },
+    {
+      "title": "Cloudflare K2: serverless event streams",
+      "summary": "Cloudflare K2: serverless event streams",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "published_at": "2026-10-01T14:09:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "173",
+      "item_id": "hn:49921923",
+      "summary_type": "extractive",
+      "title_zh": "Cloudflare K2: serverless event streams",
+      "summary_zh": "Cloudflare K2: serverless event streams"
+    },
+    {
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "summary": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+      "published_at": "2026-10-01T12:48:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "318",
+      "item_id": "hn:49920932",
+      "summary_type": "extractive",
+      "title_zh": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "summary_zh": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026"
+    },
+    {
+      "title": "How to speed up the Rust compiler in September 2026",
+      "summary": "How to speed up the Rust compiler in September 2026",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "published_at": "2026-10-01T12:44:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "219",
+      "item_id": "hn:49920896",
+      "summary_type": "extractive",
+      "title_zh": "How to speed up the Rust compiler in September 2026",
+      "summary_zh": "How to speed up the Rust compiler in September 2026"
     },
     {
       "title": "StreetComplete on iOS is now in public beta",
@@ -28,7 +413,7 @@
       "tags": [
         "ai"
       ],
-      "score": "133",
+      "score": "493",
       "item_id": "hn:49920160",
       "summary_type": "extractive",
       "title_zh": "StreetComplete on iOS is now in public beta",
@@ -49,118 +434,6 @@
       "summary_type": "extractive",
       "title_zh": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
       "summary_zh": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate"
-    },
-    {
-      "title": "56k.rip – the 1996 dial-up internet experience",
-      "summary": "56k.rip – the 1996 dial-up internet experience",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://56k.rip/",
-      "published_at": "2026-09-30T22:08:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "204",
-      "item_id": "hn:49915126",
-      "summary_type": "extractive",
-      "title_zh": "56k.rip – the 1996 dial-up internet experience",
-      "summary_zh": "56k.rip – the 1996 dial-up internet experience"
-    },
-    {
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-      "summary": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.thespacereview.com/article/4951/1",
-      "published_at": "2026-09-30T22:03:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "253",
-      "item_id": "hn:49915082",
-      "summary_type": "extractive",
-      "title_zh": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-      "summary_zh": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)"
-    },
-    {
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "summary": "Halfspace experimental IDE for solid modeling with distance fields",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.mattkeeter.com/projects/halfspace/",
-      "published_at": "2026-09-30T19:44:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "152",
-      "item_id": "hn:49913350",
-      "summary_type": "extractive",
-      "title_zh": "Halfspace experimental IDE for solid modeling with distance fields",
-      "summary_zh": "Halfspace experimental IDE for solid modeling with distance fields"
-    },
-    {
-      "title": "EDG C++ front-end goes public",
-      "summary": "https:&#x2F;&#x2F;github.com&#x2F;edgcpp&#x2F;compiler",
-      "full_text": "https:&#x2F;&#x2F;github.com&#x2F;edgcpp&#x2F;compiler",
-      "source": "hacker news",
-      "url": "https://edgcpp.org/#transition",
-      "published_at": "2026-09-30T19:26:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "231",
-      "item_id": "hn:49913192",
-      "summary_type": "extractive",
-      "title_zh": "EDG C++ front-end goes public",
-      "summary_zh": "https:&#x2F;&#x2F;github.com&#x2F;edgcpp&#x2F;compiler"
-    },
-    {
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "summary": "Surprisingly complex waves reveal the brain's inner workings",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "published_at": "2026-09-30T19:04:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "209",
-      "item_id": "hn:49912955",
-      "summary_type": "extractive",
-      "title_zh": "Surprisingly complex waves reveal the brain's inner workings",
-      "summary_zh": "Surprisingly complex waves reveal the brain's inner workings"
-    },
-    {
-      "title": "Before pixels: Modular industrial dashboards",
-      "summary": "Before pixels: Modular industrial dashboards",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
-      "published_at": "2026-09-30T18:49:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "202",
-      "item_id": "hn:49912792",
-      "summary_type": "extractive",
-      "title_zh": "Before pixels: Modular industrial dashboards",
-      "summary_zh": "Before pixels: Modular industrial dashboards"
-    },
-    {
-      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-      "summary": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "published_at": "2026-09-30T18:17:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "194",
-      "item_id": "hn:49912444",
-      "summary_type": "extractive",
-      "title_zh": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-      "summary_zh": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs"
     },
     {
       "title": "Semifactual Credit-Augmented Policy Optimization",
@@ -205,9 +478,9 @@
       "url": "http://arxiv.org/abs/2609.40330v1",
       "published_at": "2026-09-30T17:56:09Z",
       "tags": [
-        "tool",
         "agent",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.40330v1",
@@ -261,8 +534,8 @@
       "published_at": "2026-09-30T17:55:06Z",
       "tags": [
         "llm",
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.40322v1",
@@ -314,9 +587,9 @@
       "published_at": "2026-09-30T17:51:30Z",
       "tags": [
         "llm",
+        "paper",
         "agent",
-        "tool",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2609.40303v1",
@@ -367,8 +640,8 @@
       "url": "http://arxiv.org/abs/2609.40285v1",
       "published_at": "2026-09-30T17:48:11Z",
       "tags": [
-        "vision",
         "agent",
+        "vision",
         "paper"
       ],
       "score": "📄",
@@ -385,8 +658,8 @@
       "url": "http://arxiv.org/abs/2609.40284v1",
       "published_at": "2026-09-30T17:48:06Z",
       "tags": [
-        "tool",
         "agent",
+        "tool",
         "paper"
       ],
       "score": "📄",
@@ -413,22 +686,6 @@
       "summary_zh": "Multi-Agent Path Finding (MAPF) aims to find collision-free paths for multiple agents in a shared environment. Classical MAPF assumes that all static obstacles are known in advance, but real-world environments can change unexpectedly due to fallen objects, spills, or other local disturbances. When such changes are spatially correlated, an observation can inform traversability estimates beyond the observed location."
     },
     {
-      "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-      "summary": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.chompiclub.com/opensource",
-      "published_at": "2026-09-30T17:42:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "92",
-      "item_id": "hn:49912048",
-      "summary_type": "extractive",
-      "title_zh": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-      "summary_zh": "CHOMPI portable sampler instrument is now open-source (hardware and software)"
-    },
-    {
       "title": "ComputerSD: Online Self-Distillation from Real-Time Feedback for Computer-Use Agents",
       "summary": "Online training enables computer-use agents (CUAs) to improve through interaction with executable environments. However, existing methods primarily rely on sparse outcome rewards, which provide no supervision for intermediate actions. On-policy self-distillation (OPSD) offers token-level learning signals through privileged rescoring, but directly applying it to CUA online training presents two challenges: fixed guidance may become misaligned with the student's current state, and guidance-induced",
       "full_text": "",
@@ -436,8 +693,8 @@
       "url": "http://arxiv.org/abs/2609.40253v1",
       "published_at": "2026-09-30T17:40:09Z",
       "tags": [
-        "vision",
         "agent",
+        "vision",
         "paper"
       ],
       "score": "📄",
@@ -447,23 +704,6 @@
       "summary_zh": "Online training enables computer-use agents (CUAs) to improve through interaction with executable environments. However, existing methods primarily rely on sparse outcome rewards, which provide no supervision for intermediate actions. On-policy self-distillation (OPSD) offers token-level learning signals through privileged rescoring, but directly applying it to CUA online training presents two challenges: fixed guidance may become misaligned with the student's current state, and guidance-induced"
     },
     {
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "summary": "Hey HN, Anders and Tom here. We&#x27;re building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.We&#x27;re both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads.",
-      "full_text": "Hey HN, Anders and Tom here. We&#x27;re building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.We&#x27;re both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case.Inference engines tod",
-      "source": "hacker news",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "published_at": "2026-09-30T17:37:40+00:00",
-      "tags": [
-        "tool",
-        "agent"
-      ],
-      "score": "174",
-      "item_id": "hn:49911995",
-      "summary_type": "extractive",
-      "title_zh": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "summary_zh": "Hey HN, Anders and Tom here. We&#x27;re building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.We&#x27;re both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads."
-    },
-    {
       "title": "EviRover: Reinforcing Agentic Perception Beyond a Glance",
       "summary": "Visual perception is conventionally formulated as a one-shot prediction from a single glance at the image, under the assumption that the image content and the model's parametric knowledge suffice to resolve the query. This assumption often fails in real-world scenarios that hinge on fine-grained visual details or require knowledge-intensive and up-to-date information. We term such cases \\textit{perception under insufficient evidence} and formulate perception as an agentic process that can obtain",
       "full_text": "",
@@ -471,8 +711,8 @@
       "url": "http://arxiv.org/abs/2609.40230v1",
       "published_at": "2026-09-30T17:30:09Z",
       "tags": [
-        "vision",
         "agent",
+        "vision",
         "paper"
       ],
       "score": "📄",
@@ -551,118 +791,6 @@
       "summary_zh": "Long-term egocentric video enables personalized AI assistants to reason about daily life. However, as video histories grow to hundreds of hours spanning months or years, reprocessing raw clips for every query becomes computationally prohibitive. Memory systems offer a scalable alternative by compacting videos into text representations, but often fail on practical benchmarks: either the memory does not preserve key evidence, or the retriever fails to locate relevant entries due to retrieval compe"
     },
     {
-      "title": "Coltrane's Tone Circle",
-      "summary": "Coltrane's Tone Circle",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://jtomschroeder.com/blog/tone-circle/",
-      "published_at": "2026-09-30T14:59:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "73",
-      "item_id": "hn:49909908",
-      "summary_type": "extractive",
-      "title_zh": "Coltrane's Tone Circle",
-      "summary_zh": "Coltrane's Tone Circle"
-    },
-    {
-      "title": "A brief history of the Bloomberg terminal",
-      "summary": "A brief history of the Bloomberg terminal",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://spectrum.ieee.org/bloomberg-terminal",
-      "published_at": "2026-09-30T14:34:07+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "317",
-      "item_id": "hn:49909583",
-      "summary_type": "extractive",
-      "title_zh": "A brief history of the Bloomberg terminal",
-      "summary_zh": "A brief history of the Bloomberg terminal"
-    },
-    {
-      "title": "What TLA+ can and can't check",
-      "summary": "What TLA+ can and can't check",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-      "published_at": "2026-09-30T13:57:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "203",
-      "item_id": "hn:49909056",
-      "summary_type": "extractive",
-      "title_zh": "What TLA+ can and can't check",
-      "summary_zh": "What TLA+ can and can't check"
-    },
-    {
-      "title": "Multi-connectivity for real-time streaming over Wi-Fi",
-      "summary": "Multi-connectivity for real-time streaming over Wi-Fi",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nanoping.com/benchmarks/wifi-roaming",
-      "published_at": "2026-09-30T13:11:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:49908449",
-      "summary_type": "extractive",
-      "title_zh": "Multi-connectivity for real-time streaming over Wi-Fi",
-      "summary_zh": "Multi-connectivity for real-time streaming over Wi-Fi"
-    },
-    {
-      "title": "The last time my family was replaced by technology",
-      "summary": "The last time my family was replaced by technology",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
-      "published_at": "2026-09-30T13:06:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "277",
-      "item_id": "hn:49908394",
-      "summary_type": "extractive",
-      "title_zh": "The last time my family was replaced by technology",
-      "summary_zh": "The last time my family was replaced by technology"
-    },
-    {
-      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-      "summary": "Related: https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cqzjzr893yv4o",
-      "full_text": "Related: https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cqzjzr893yv4o",
-      "source": "hacker news",
-      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
-      "published_at": "2026-09-30T09:27:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "422",
-      "item_id": "hn:49906432",
-      "summary_type": "extractive",
-      "title_zh": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-      "summary_zh": "Related: https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cqzjzr893yv4o"
-    },
-    {
-      "title": "Jacques Barzun, Cultural historian and critic (1980)",
-      "summary": "Jacques Barzun, Cultural historian and critic (1980)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.csmonitor.com/1980/0717/071710.html",
-      "published_at": "2026-09-30T09:09:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "9",
-      "item_id": "hn:49906295",
-      "summary_type": "extractive",
-      "title_zh": "Jacques Barzun, Cultural historian and critic (1980)",
-      "summary_zh": "Jacques Barzun, Cultural historian and critic (1980)"
-    },
-    {
       "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
       "summary": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
       "full_text": "",
@@ -672,108 +800,11 @@
       "tags": [
         "ai"
       ],
-      "score": "142",
+      "score": "243",
       "item_id": "hn:49906100",
       "summary_type": "extractive",
       "title_zh": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
       "summary_zh": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network"
-    },
-    {
-      "title": "Doing a Machine Learning PhD While Working in Japan",
-      "summary": "Doing a Machine Learning PhD While Working in Japan",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-      "published_at": "2026-09-30T07:33:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "111",
-      "item_id": "hn:49905644",
-      "summary_type": "extractive",
-      "title_zh": "Doing a Machine Learning PhD While Working in Japan",
-      "summary_zh": "Doing a Machine Learning PhD While Working in Japan"
-    },
-    {
-      "title": "LinkedIn Larpmaxxing",
-      "summary": "LinkedIn Larpmaxxing",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
-      "published_at": "2026-09-30T04:19:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "240",
-      "item_id": "hn:49904314",
-      "summary_type": "extractive",
-      "title_zh": "LinkedIn Larpmaxxing",
-      "summary_zh": "LinkedIn Larpmaxxing"
-    },
-    {
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "summary": "Responsible Release of AI-Generated Mathematics",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://agmai.org/general-sep29/",
-      "published_at": "2026-09-30T02:36:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "101",
-      "item_id": "hn:49903713",
-      "summary_type": "extractive",
-      "title_zh": "Responsible Release of AI-Generated Mathematics",
-      "summary_zh": "Responsible Release of AI-Generated Mathematics"
-    },
-    {
-      "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
-      "summary": "Hi HN,Ledge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.I built Ledge because I spend much of my day copy&#x2F;pasting commands from my notes into the terminal. I was inspired by how much cmux helped me organize my terminals - but there was still a split brain between my notes and frequently run commands. I&#x27;ve been daily-driving it for the past few weeks and use it for deploys, API calls, smoke tests, etc.Ledge runs your real shell just like a ",
-      "full_text": "Hi HN,Ledge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.I built Ledge because I spend much of my day copy&#x2F;pasting commands from my notes into the terminal. I was inspired by how much cmux helped me organize my terminals - but there was still a split brain between my notes and frequently run commands. I&#x27;ve been daily-driving it for the past few weeks and use it for deploys, API calls, smoke tests, etc.Ledge runs your real shell just like a ",
-      "source": "hacker news",
-      "url": "https://ledge.sh",
-      "published_at": "2026-09-29T23:41:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "162",
-      "item_id": "hn:49902382",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Ledge.sh – Runnable Markdown Notes",
-      "summary_zh": "Hi HN,Ledge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.I built Ledge because I spend much of my day copy&#x2F;pasting commands from my notes into the terminal. I was inspired by how much cmux helped me organize my terminals - but there was still a split brain between my notes and frequently run commands. I&#x27;ve been daily-driving it for the past few weeks and use it for deploys, API calls, smoke tests, etc.Ledge runs your real shell just like a "
-    },
-    {
-      "title": "Speeding up the separating axis test using inscribed spheres",
-      "summary": "Speeding up the separating axis test using inscribed spheres",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://box2d.org/posts/2026/09/inscribed-spheres/",
-      "published_at": "2026-09-29T23:30:32+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "4",
-      "item_id": "hn:49902290",
-      "summary_type": "extractive",
-      "title_zh": "Speeding up the separating axis test using inscribed spheres",
-      "summary_zh": "Speeding up the separating axis test using inscribed spheres"
-    },
-    {
-      "title": "PlayBook: A Programmable Paper Notebook [video]",
-      "summary": "PlayBook: A Programmable Paper Notebook [video]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.youtube.com/watch?v=GurWDZ8ENpA",
-      "published_at": "2026-09-29T15:40:03+00:00",
-      "tags": [
-        "vision",
-        "paper"
-      ],
-      "score": "28",
-      "item_id": "hn:49895221",
-      "summary_type": "extractive",
-      "title_zh": "PlayBook: A Programmable Paper Notebook [video]",
-      "summary_zh": "PlayBook: A Programmable Paper Notebook [video]"
     },
     {
       "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
@@ -785,27 +816,11 @@
       "tags": [
         "ai"
       ],
-      "score": "127",
+      "score": "249",
       "item_id": "hn:49894430",
       "summary_type": "extractive",
       "title_zh": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
       "summary_zh": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns"
-    },
-    {
-      "title": "Adding Floating-Point Decimals for Fun and Profit",
-      "summary": "Adding Floating-Point Decimals for Fun and Profit",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.vero.site/post/float",
-      "published_at": "2026-09-29T14:05:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "19",
-      "item_id": "hn:49893519",
-      "summary_type": "extractive",
-      "title_zh": "Adding Floating-Point Decimals for Fun and Profit",
-      "summary_zh": "Adding Floating-Point Decimals for Fun and Profit"
     },
     {
       "title": "Why the Bronze Age Collapsed",
@@ -817,27 +832,11 @@
       "tags": [
         "ai"
       ],
-      "score": "288",
+      "score": "386",
       "item_id": "hn:49890732",
       "summary_type": "extractive",
       "title_zh": "Why the Bronze Age Collapsed",
       "summary_zh": "Why the Bronze Age Collapsed"
-    },
-    {
-      "title": "Burning Man death rates – A short lesson in statistics",
-      "summary": "Burning Man death rates – A short lesson in statistics",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
-      "published_at": "2026-09-28T18:57:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "158",
-      "item_id": "hn:49882754",
-      "summary_type": "extractive",
-      "title_zh": "Burning Man death rates – A short lesson in statistics",
-      "summary_zh": "Burning Man death rates – A short lesson in statistics"
     }
   ]
 }

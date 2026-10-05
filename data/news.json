@@ -1,7 +1,119 @@
 {
-  "updated_at": "2026-10-04T21:12:25.993059+00:00",
+  "updated_at": "2026-10-05T05:19:58.236322+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "The AI industry is booming. Women are getting left behind",
+      "summary": "The AI industry is booming. Women are getting left behind",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
+      "published_at": "2026-10-05T04:36:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:49960725",
+      "summary_type": "extractive",
+      "title_zh": "The AI industry is booming. Women are getting left behind",
+      "summary_zh": "The AI industry is booming. Women are getting left behind"
+    },
+    {
+      "title": "Kagi Ends Orion Browser Development for Linux, Will Open-Source It",
+      "summary": "Kagi Ends Orion Browser Development for Linux, Will Open-Source It",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/",
+      "published_at": "2026-10-05T04:18:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "6",
+      "item_id": "hn:49960628",
+      "summary_type": "extractive",
+      "title_zh": "Kagi Ends Orion Browser Development for Linux, Will Open-Source It",
+      "summary_zh": "Kagi Ends Orion Browser Development for Linux, Will Open-Source It"
+    },
+    {
+      "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
+      "summary": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+      "published_at": "2026-10-05T02:31:45+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "135",
+      "item_id": "hn:49960084",
+      "summary_type": "extractive",
+      "title_zh": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
+      "summary_zh": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague"
+    },
+    {
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "summary": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "published_at": "2026-10-05T01:54:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "145",
+      "item_id": "hn:49959869",
+      "summary_type": "extractive",
+      "title_zh": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "summary_zh": "Powerless F1 drivers frustrated by Bahrain F1 software glitch"
+    },
+    {
+      "title": "A 40ms Go garbage collector pause caused by swap",
+      "summary": "A 40ms Go garbage collector pause caused by swap",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://frn.sh/go-gc/",
+      "published_at": "2026-10-05T01:11:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "27",
+      "item_id": "hn:49959654",
+      "summary_type": "extractive",
+      "title_zh": "A 40ms Go garbage collector pause caused by swap",
+      "summary_zh": "A 40ms Go garbage collector pause caused by swap"
+    },
+    {
+      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "summary": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+      "published_at": "2026-10-04T22:25:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "102",
+      "item_id": "hn:49958569",
+      "summary_type": "extractive",
+      "title_zh": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "summary_zh": "Self-hosted HTTP tunnels with SSH and Nginx"
+    },
+    {
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "summary": "In the wake of closure, a digital archive of animated materials appears online",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "published_at": "2026-10-04T21:01:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "79",
+      "item_id": "hn:49957812",
+      "summary_type": "extractive",
+      "title_zh": "In the wake of closure, a digital archive of animated materials appears online",
+      "summary_zh": "In the wake of closure, a digital archive of animated materials appears online"
+    },
     {
       "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
       "summary": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
@@ -12,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "111",
+      "score": "466",
       "item_id": "hn:49957116",
       "summary_type": "extractive",
       "title_zh": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
@@ -28,27 +140,11 @@
       "tags": [
         "ai"
       ],
-      "score": "87",
+      "score": "316",
       "item_id": "hn:49957068",
       "summary_type": "extractive",
       "title_zh": "Improper redaction reveals Google Data Center water and electricity usage",
       "summary_zh": "Improper redaction reveals Google Data Center water and electricity usage"
-    },
-    {
-      "title": "Show HN: Build with Python – a beginner course where your code draws",
-      "summary": "Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI&#x2F;terminal output. No need to worry about python installation, package versions, venv etc.The lab runs with Pyodide in a web worker, and the program output is a picture by the side of the code block.",
-      "full_text": "Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI&#x2F;terminal output. No need to worry about python installation, package versions, venv etc.The lab runs with Pyodide in a web worker, and the program output is a picture by the side of the code block. A user would experiment with the code, and see the immediate changes in the visual output.The course has 13 modules, with the first",
-      "source": "hacker news",
-      "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-      "published_at": "2026-10-04T18:59:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "9",
-      "item_id": "hn:49956771",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Build with Python – a beginner course where your code draws",
-      "summary_zh": "Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI&#x2F;terminal output. No need to worry about python installation, package versions, venv etc.The lab runs with Pyodide in a web worker, and the program output is a picture by the side of the code block."
     },
     {
       "title": "Xray-core concealed a certificate verification bypass vulnerability",
@@ -60,27 +156,11 @@
       "tags": [
         "ai"
       ],
-      "score": "12",
+      "score": "68",
       "item_id": "hn:49956003",
       "summary_type": "extractive",
       "title_zh": "Xray-core concealed a certificate verification bypass vulnerability",
       "summary_zh": "Xray-core concealed a certificate verification bypass vulnerability"
-    },
-    {
-      "title": "How effective altruism conquered the world (and might yet end it)",
-      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;3gSCcRelated: https:&#x2F;&#x2F;www.economist.com&#x2F;by-invitation&#x2F;2026&#x2F;10&#x2F;04&#x2F;will-maca...",
-      "full_text": "https:&#x2F;&#x2F;archive.ph&#x2F;3gSCcRelated: https:&#x2F;&#x2F;www.economist.com&#x2F;by-invitation&#x2F;2026&#x2F;10&#x2F;04&#x2F;will-maca...",
-      "source": "hacker news",
-      "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
-      "published_at": "2026-10-04T13:30:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "37",
-      "item_id": "hn:49953777",
-      "summary_type": "extractive",
-      "title_zh": "How effective altruism conquered the world (and might yet end it)",
-      "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;3gSCcRelated: https:&#x2F;&#x2F;www.economist.com&#x2F;by-invitation&#x2F;2026&#x2F;10&#x2F;04&#x2F;will-maca..."
     },
     {
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
@@ -92,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "475",
+      "score": "679",
       "item_id": "hn:49953495",
       "summary_type": "extractive",
       "title_zh": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
@@ -108,27 +188,11 @@
       "tags": [
         "ai"
       ],
-      "score": "36",
+      "score": "102",
       "item_id": "hn:49953288",
       "summary_type": "extractive",
       "title_zh": "Bill Draper has died",
       "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;YRgDY"
-    },
-    {
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "summary": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://gamehistory.org/5k-magazines/",
-      "published_at": "2026-10-04T09:07:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "102",
-      "item_id": "hn:49952029",
-      "summary_type": "extractive",
-      "title_zh": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "summary_zh": "VGHF Digital Archive passes 5000 magazines. Here's what's next"
     },
     {
       "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
@@ -140,27 +204,11 @@
       "tags": [
         "ai"
       ],
-      "score": "110",
+      "score": "134",
       "item_id": "hn:49951218",
       "summary_type": "extractive",
       "title_zh": "Emitting metadata early makes building/checking Rust up to twice as fast",
       "summary_zh": "Emitting metadata early makes building/checking Rust up to twice as fast"
-    },
-    {
-      "title": "Fog-Bank: Archiving the oldest webcam feed",
-      "summary": "See also https:&#x2F;&#x2F;hackaday.com&#x2F;2026&#x2F;10&#x2F;01&#x2F;archiving-the-worlds-oldest-...",
-      "full_text": "See also https:&#x2F;&#x2F;hackaday.com&#x2F;2026&#x2F;10&#x2F;01&#x2F;archiving-the-worlds-oldest-...",
-      "source": "hacker news",
-      "url": "https://fog-bank.org/net",
-      "published_at": "2026-10-04T05:06:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "9",
-      "item_id": "hn:49950818",
-      "summary_type": "extractive",
-      "title_zh": "Fog-Bank: Archiving the oldest webcam feed",
-      "summary_zh": "See also https:&#x2F;&#x2F;hackaday.com&#x2F;2026&#x2F;10&#x2F;01&#x2F;archiving-the-worlds-oldest-..."
     },
     {
       "title": "Tell HN: Bob Cringely has died",
@@ -172,43 +220,11 @@
       "tags": [
         "ai"
       ],
-      "score": "764",
+      "score": "844",
       "item_id": "hn:49949438",
       "summary_type": "extractive",
       "title_zh": "Tell HN: Bob Cringely has died",
       "summary_zh": "I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who&#x27;s real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially &quot;Triumph of the Nerds&quot;."
-    },
-    {
-      "title": "Second Chances",
-      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;3JYcH",
-      "full_text": "https:&#x2F;&#x2F;archive.ph&#x2F;3JYcH",
-      "source": "hacker news",
-      "url": "https://www.nybooks.com/articles/2026/10/22/second-chances-office-politics-wilfrid-sheed/",
-      "published_at": "2026-10-03T23:21:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "9",
-      "item_id": "hn:49948770",
-      "summary_type": "extractive",
-      "title_zh": "Second Chances",
-      "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;3JYcH"
-    },
-    {
-      "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
-      "summary": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/",
-      "published_at": "2026-10-03T23:16:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "10",
-      "item_id": "hn:49948738",
-      "summary_type": "extractive",
-      "title_zh": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
-      "summary_zh": "Declaring a bird extinct: The median wait is 36 years after the last sighting"
     },
     {
       "title": "'Neanderthals Among Us' review",
@@ -220,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "40",
+      "score": "62",
       "item_id": "hn:49947565",
       "summary_type": "extractive",
       "title_zh": "'Neanderthals Among Us' review",
@@ -236,27 +252,11 @@
       "tags": [
         "ai"
       ],
-      "score": "121",
+      "score": "143",
       "item_id": "hn:49947472",
       "summary_type": "extractive",
       "title_zh": "Surely you have ultra-wideband radios on your bins too?",
       "summary_zh": "Surely you have ultra-wideband radios on your bins too?"
-    },
-    {
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "summary": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "published_at": "2026-10-03T19:14:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "442",
-      "item_id": "hn:49946895",
-      "summary_type": "extractive",
-      "title_zh": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "summary_zh": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux"
     },
     {
       "title": "Treachery in the Rodin Museum 3D scan verdict",
@@ -268,107 +268,427 @@
       "tags": [
         "ai"
       ],
-      "score": "305",
+      "score": "322",
       "item_id": "hn:49946355",
       "summary_type": "extractive",
       "title_zh": "Treachery in the Rodin Museum 3D scan verdict",
       "summary_zh": "Treachery in the Rodin Museum 3D scan verdict"
     },
     {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf",
-      "full_text": "https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf",
-      "source": "hacker news",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "published_at": "2026-10-03T17:44:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "358",
-      "item_id": "hn:49946228",
-      "summary_type": "extractive",
-      "title_zh": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf"
-    },
-    {
-      "title": "Automating my 35mm film scanning pipeline",
-      "summary": "Automating my 35mm film scanning pipeline",
+      "title": "Watson Jr. memo about CDC 6600 (1963)",
+      "summary": "Watson Jr. memo about CDC 6600 (1963)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://shannadige.com/blog/darkroom/",
-      "published_at": "2026-10-03T17:35:42+00:00",
+      "url": "https://www.computerhistory.org/revolution/supercomputers/10/33/62",
+      "published_at": "2026-10-03T12:27:31+00:00",
       "tags": [
         "ai"
       ],
-      "score": "44",
-      "item_id": "hn:49946148",
+      "score": "33",
+      "item_id": "hn:49943685",
       "summary_type": "extractive",
-      "title_zh": "Automating my 35mm film scanning pipeline",
-      "summary_zh": "Automating my 35mm film scanning pipeline"
+      "title_zh": "Watson Jr. memo about CDC 6600 (1963)",
+      "summary_zh": "Watson Jr. memo about CDC 6600 (1963)"
     },
     {
-      "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
-      "summary": "Former SR-71 engineer talks NASA's Blackbird revival program",
+      "title": "Infidel goes wild",
+      "summary": "Infidel goes wild",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
-      "published_at": "2026-10-03T07:32:47+00:00",
+      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+      "published_at": "2026-10-03T12:19:40+00:00",
       "tags": [
         "ai"
       ],
-      "score": "96",
-      "item_id": "hn:49942130",
+      "score": "104",
+      "item_id": "hn:49943637",
       "summary_type": "extractive",
-      "title_zh": "Former SR-71 engineer talks NASA's Blackbird revival program",
-      "summary_zh": "Former SR-71 engineer talks NASA's Blackbird revival program"
+      "title_zh": "Infidel goes wild",
+      "summary_zh": "Infidel goes wild"
     },
     {
-      "title": "The Heilbronn Problem",
-      "summary": "The Heilbronn Problem",
+      "title": "Demystifying Tufte's data-ink ratio",
+      "summary": "Demystifying Tufte's data-ink ratio",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://math.tejstead.com/heilbronn/",
-      "published_at": "2026-10-02T23:01:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "57",
-      "item_id": "hn:49939637",
-      "summary_type": "extractive",
-      "title_zh": "The Heilbronn Problem",
-      "summary_zh": "The Heilbronn Problem"
-    },
-    {
-      "title": "A Minsky machine in ncurses terminfo",
-      "summary": "ncurses terminfo can simulate a two-counter Minsky machine, making repeated parameter expansion computationally universal",
-      "full_text": "ncurses terminfo can simulate a two-counter Minsky machine, making repeated parameter expansion computationally universal",
-      "source": "hacker news",
-      "url": "https://seriot.ch/computation/terminfo/",
-      "published_at": "2026-10-02T16:17:09+00:00",
+      "url": "https://tuftesrazor.scienceux.org/",
+      "published_at": "2026-10-02T23:55:17+00:00",
       "tags": [
         "ai"
       ],
       "score": "27",
-      "item_id": "hn:49935250",
+      "item_id": "hn:49940044",
       "summary_type": "extractive",
-      "title_zh": "A Minsky machine in ncurses terminfo",
-      "summary_zh": "ncurses terminfo can simulate a two-counter Minsky machine, making repeated parameter expansion computationally universal"
+      "title_zh": "Demystifying Tufte's data-ink ratio",
+      "summary_zh": "Demystifying Tufte's data-ink ratio"
     },
     {
-      "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
-      "summary": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
+      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "summary": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
-      "published_at": "2026-10-02T16:01:30+00:00",
+      "url": "https://alexalejandre.com/interviews/peter-bex/",
+      "published_at": "2026-10-02T22:17:04+00:00",
       "tags": [
         "ai"
       ],
-      "score": "73",
-      "item_id": "hn:49935038",
+      "score": "25",
+      "item_id": "hn:49939308",
       "summary_type": "extractive",
-      "title_zh": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
-      "summary_zh": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs"
+      "title_zh": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "summary_zh": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex"
+    },
+    {
+      "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+      "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03717v1",
+      "published_at": "2026-10-02T17:59:14Z",
+      "tags": [
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03717v1",
+      "summary_type": "extractive",
+      "title_zh": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+      "summary_zh": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations."
+    },
+    {
+      "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+      "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing abstractions such as physical simulations to reproduce complex behavior. To evaluate this capability, we curate a set of real-world videos and construct synthetic scenes spanning diverse",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03715v1",
+      "published_at": "2026-10-02T17:58:49Z",
+      "tags": [
+        "paper",
+        "vision",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03715v1",
+      "summary_type": "extractive",
+      "title_zh": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+      "summary_zh": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing abstractions such as physical simulations to reproduce complex behavior. To evaluate this capability, we curate a set of real-world videos and construct synthetic scenes spanning diverse"
+    },
+    {
+      "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+      "summary": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target is the environment, which changes, so knowledge that was accurate when acquired may later become false, and discarding it is required behavior rather than a defect.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03713v1",
+      "published_at": "2026-10-02T17:58:14Z",
+      "tags": [
+        "paper",
+        "ai"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03713v1",
+      "summary_type": "extractive",
+      "title_zh": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+      "summary_zh": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target is the environment, which changes, so knowledge that was accurate when acquired may later become false, and discarding it is required behavior rather than a defect."
+    },
+    {
+      "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+      "summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye viewpoints to center their gaze on it. The resulting images are processed foveally by allocating more visual tokens to the image centers, focusing computation on task-relevant features.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03710v1",
+      "published_at": "2026-10-02T17:57:51Z",
+      "tags": [
+        "tool",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03710v1",
+      "summary_type": "extractive",
+      "title_zh": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+      "summary_zh": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye viewpoints to center their gaze on it. The resulting images are processed foveally by allocating more visual tokens to the image centers, focusing computation on task-relevant features."
+    },
+    {
+      "title": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
+      "summary": "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast cancer. The first stage learns the transcriptome from histopathology using 8,742 patients across 32 cancer types, corroborated by pathologist review and spatial agreement with measured expression.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03693v1",
+      "published_at": "2026-10-02T17:52:57Z",
+      "tags": [
+        "paper",
+        "ai"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03693v1",
+      "summary_type": "extractive",
+      "title_zh": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
+      "summary_zh": "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast cancer. The first stage learns the transcriptome from histopathology using 8,742 patients across 32 cancer types, corroborated by pathologist review and spatial agreement with measured expression."
+    },
+    {
+      "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+      "summary": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically optimizes performance gain over a fixed number of iterations. We argue that practical optimization should maximize gain per unit cost.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03675v1",
+      "published_at": "2026-10-02T17:44:05Z",
+      "tags": [
+        "tool",
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03675v1",
+      "summary_type": "extractive",
+      "title_zh": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+      "summary_zh": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically optimizes performance gain over a fixed number of iterations. We argue that practical optimization should maximize gain per unit cost."
+    },
+    {
+      "title": "Revisiting Input Time-frequency Representations in Multi-pitch Estimation for Vocal Ensembles",
+      "summary": "Multi-pitch estimation in vocal ensembles is challenging because singers occupy overlapping pitch ranges and often sing at closely spaced fundamental frequencies, causing their harmonics to overlap in time-frequency representations. Existing models commonly use harmonic constant-Q transform (HCQT)-based representations to provide frequency-adaptive resolution, at the cost of expensive feature extraction when training mixtures are generated on the fly. We revisit this design and compare HCQT with",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03656v1",
+      "published_at": "2026-10-02T17:35:06Z",
+      "tags": [
+        "paper",
+        "ai"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03656v1",
+      "summary_type": "extractive",
+      "title_zh": "Revisiting Input Time-frequency Representations in Multi-pitch Estimation for Vocal Ensembles",
+      "summary_zh": "Multi-pitch estimation in vocal ensembles is challenging because singers occupy overlapping pitch ranges and often sing at closely spaced fundamental frequencies, causing their harmonics to overlap in time-frequency representations. Existing models commonly use harmonic constant-Q transform (HCQT)-based representations to provide frequency-adaptive resolution, at the cost of expensive feature extraction when training mixtures are generated on the fly. We revisit this design and compare HCQT with"
+    },
+    {
+      "title": "MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search",
+      "summary": "Dense-retrieval services must switch among embedding-prefix dimensions and index bit rates as latency, quality, and memory budgets change. Tuning a quantizer separately for each rate gives the best quality, but the retrieval tier then holds several code streams and quantizer states at once. We introduce Matryoshka Residual Vector Quantization (MRVQ), a post-hoc residual quantizer for frozen embeddings.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03651v1",
+      "published_at": "2026-10-02T17:33:13Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03651v1",
+      "summary_type": "extractive",
+      "title_zh": "MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search",
+      "summary_zh": "Dense-retrieval services must switch among embedding-prefix dimensions and index bit rates as latency, quality, and memory budgets change. Tuning a quantizer separately for each rate gives the best quality, but the retrieval tier then holds several code streams and quantizer states at once. We introduce Matryoshka Residual Vector Quantization (MRVQ), a post-hoc residual quantizer for frozen embeddings."
+    },
+    {
+      "title": "On-Board Anomaly Detection for Efficient Marine Environmental Monitoring",
+      "summary": "Marine ecosystems are impacted by various threats such as oil spills, algal blooms, and sediment floods, which disrupt habitats, wildlife, and human activities. Advances in satellite imagery and Artificial Intelligence (AI) have enhanced our capabilities for early detection and mitigation of such hazards. In this paper, we propose a marine event detection pipeline for Earth observation satellites equipped with multi- or hyperspectral sensors.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03649v1",
+      "published_at": "2026-10-02T17:32:34Z",
+      "tags": [
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03649v1",
+      "summary_type": "extractive",
+      "title_zh": "On-Board Anomaly Detection for Efficient Marine Environmental Monitoring",
+      "summary_zh": "Marine ecosystems are impacted by various threats such as oil spills, algal blooms, and sediment floods, which disrupt habitats, wildlife, and human activities. Advances in satellite imagery and Artificial Intelligence (AI) have enhanced our capabilities for early detection and mitigation of such hazards. In this paper, we propose a marine event detection pipeline for Earth observation satellites equipped with multi- or hyperspectral sensors."
+    },
+    {
+      "title": "Do Large Language Models Know Colombian Law? A Reliability Benchmark for the Colombian Legal System",
+      "summary": "Large language models (LLMs) are increasingly used to support legal practice, education, and research, yet their reliability in national legal systems outside the United States remains largely undocumented. We introduce an expert-validated benchmark for evaluating LLM reliability on the Colombian legal system. The benchmark comprises 1,042 items spanning ten areas of law and three question formats (closed multiple-choice, semi-open, and open-ended IRAC), built through a human-in-the-loop pipelin",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03639v1",
+      "published_at": "2026-10-02T17:27:41Z",
+      "tags": [
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03639v1",
+      "summary_type": "extractive",
+      "title_zh": "Do Large Language Models Know Colombian Law? A Reliability Benchmark for the Colombian Legal System",
+      "summary_zh": "Large language models (LLMs) are increasingly used to support legal practice, education, and research, yet their reliability in national legal systems outside the United States remains largely undocumented. We introduce an expert-validated benchmark for evaluating LLM reliability on the Colombian legal system. The benchmark comprises 1,042 items spanning ten areas of law and three question formats (closed multiple-choice, semi-open, and open-ended IRAC), built through a human-in-the-loop pipelin"
+    },
+    {
+      "title": "LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation",
+      "summary": "Camera-controlled video models are rapidly advancing toward long generation horizons and complex camera control. A key failure mode is 3D inconsistency: as the camera moves, objects lose permanence and scene structures shift. Existing post-training techniques, which assign a single scalar reward to the entire generation, are poorly suited to correcting these inconsistencies over long horizons.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03636v1",
+      "published_at": "2026-10-02T17:26:18Z",
+      "tags": [
+        "tool",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03636v1",
+      "summary_type": "extractive",
+      "title_zh": "LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation",
+      "summary_zh": "Camera-controlled video models are rapidly advancing toward long generation horizons and complex camera control. A key failure mode is 3D inconsistency: as the camera moves, objects lose permanence and scene structures shift. Existing post-training techniques, which assign a single scalar reward to the entire generation, are poorly suited to correcting these inconsistencies over long horizons."
+    },
+    {
+      "title": "Credit Where It Matters: Dependency-Aware Policy Optimization for Terminal Agents",
+      "summary": "Terminal-using agents benefit from reinforcement learning (RL) in coding, debugging, and other multi-step terminal tasks. In these tasks, later commands often depend on information or intermediate results produced by earlier commands. However, existing trajectory-level and step-level credit assignment methods do not explicitly trace the read-write dependencies through which commands affect the final outcome.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03634v1",
+      "published_at": "2026-10-02T17:24:48Z",
+      "tags": [
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03634v1",
+      "summary_type": "extractive",
+      "title_zh": "Credit Where It Matters: Dependency-Aware Policy Optimization for Terminal Agents",
+      "summary_zh": "Terminal-using agents benefit from reinforcement learning (RL) in coding, debugging, and other multi-step terminal tasks. In these tasks, later commands often depend on information or intermediate results produced by earlier commands. However, existing trajectory-level and step-level credit assignment methods do not explicitly trace the read-write dependencies through which commands affect the final outcome."
+    },
+    {
+      "title": "NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents",
+      "summary": "Designing a scientific instrument tests whether language-model agents can do physics rather than recall it, provided the grading cannot be argued with. We introduce NeutronGym, to our knowledge the first executable environment for neutron instrument design: agents build instruments through validating tools, McStas ray-traces what they build, and a level-resolved ladder grades syntax, runtime, structure and science with no LLM judge. Procedural families supply unlimited instances of a fixed layou",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03631v1",
+      "published_at": "2026-10-02T17:23:52Z",
+      "tags": [
+        "tool",
+        "llm",
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03631v1",
+      "summary_type": "extractive",
+      "title_zh": "NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents",
+      "summary_zh": "Designing a scientific instrument tests whether language-model agents can do physics rather than recall it, provided the grading cannot be argued with. We introduce NeutronGym, to our knowledge the first executable environment for neutron instrument design: agents build instruments through validating tools, McStas ray-traces what they build, and a level-resolved ladder grades syntax, runtime, structure and science with no LLM judge. Procedural families supply unlimited instances of a fixed layou"
+    },
+    {
+      "title": "Depth as Time in One-Step Generative Models",
+      "summary": "The recent wave of one-step generative models, which compress the multi-step trajectory of diffusion via either distillation or learned flow maps, has reached an inflection point where they can generate high-quality images. Here, we ask a natural question that follows from these advances: what happens to the denoising trajectory of multi-step diffusion when generation is compressed into a single forward pass? We offer an empirical observation we call \\textit{depth as time}: the denoising computa",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03626v1",
+      "published_at": "2026-10-02T17:20:08Z",
+      "tags": [
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03626v1",
+      "summary_type": "extractive",
+      "title_zh": "Depth as Time in One-Step Generative Models",
+      "summary_zh": "The recent wave of one-step generative models, which compress the multi-step trajectory of diffusion via either distillation or learned flow maps, has reached an inflection point where they can generate high-quality images. Here, we ask a natural question that follows from these advances: what happens to the denoising trajectory of multi-step diffusion when generation is compressed into a single forward pass? We offer an empirical observation we call \\textit{depth as time}: the denoising computa"
+    },
+    {
+      "title": "Low-Cost Video--Time Priors as a Strong Baseline for EEG--fNIRS Emotion Regression on Familiar Videos",
+      "summary": "Continuous emotion regression estimates moment-to-moment valence and arousal while a viewer watches a video. In familiar-video deployment, responses fron training participant-specific estimate, and prior-dominating fixed fusion tests whether physiology adds residual correction. In five-fold subject-held-out evaluation on 24was within 0.05 and 0.32 MAE of fusion in the internal and external evaluations, respectively.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03618v1",
+      "published_at": "2026-10-02T17:14:45Z",
+      "tags": [
+        "tool",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03618v1",
+      "summary_type": "extractive",
+      "title_zh": "Low-Cost Video--Time Priors as a Strong Baseline for EEG--fNIRS Emotion Regression on Familiar Videos",
+      "summary_zh": "Continuous emotion regression estimates moment-to-moment valence and arousal while a viewer watches a video. In familiar-video deployment, responses fron training participant-specific estimate, and prior-dominating fixed fusion tests whether physiology adds residual correction. In five-fold subject-held-out evaluation on 24was within 0.05 and 0.32 MAE of fusion in the internal and external evaluations, respectively."
+    },
+    {
+      "title": "When a Correct Reward Is Not Enough: Diagnosing and Guiding PPO in an Analytically Solved Broker-Trader Game",
+      "summary": "Reinforcement learning (RL) is increasingly used for financial optimal-control problems when complex dynamics make analytical strategies difficult to obtain. There are financial mathematics literactures which provides many solved models whose equations and controls could evaluate and guide learning; we ask whether RL can exploit these results. We place a proximal policy optimisation (PPO) agent in an analytically solved continuous-time broker--trader game.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03598v1",
+      "published_at": "2026-10-02T17:03:29Z",
+      "tags": [
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03598v1",
+      "summary_type": "extractive",
+      "title_zh": "When a Correct Reward Is Not Enough: Diagnosing and Guiding PPO in an Analytically Solved Broker-Trader Game",
+      "summary_zh": "Reinforcement learning (RL) is increasingly used for financial optimal-control problems when complex dynamics make analytical strategies difficult to obtain. There are financial mathematics literactures which provides many solved models whose equations and controls could evaluate and guide learning; we ask whether RL can exploit these results. We place a proximal policy optimisation (PPO) agent in an analytically solved continuous-time broker--trader game."
+    },
+    {
+      "title": "HazardWeaver: Scientific Route Selection for Hazard Analysis Agents",
+      "summary": "Understanding and assessing natural hazards is essential for disaster preparedness and risk reduction. Recent advances in large language models have spurred growing interest in AI agents for hazard analysis, particularly their ability to integrate scientific data, models, and tools into automated workflows. However, effective automation requires agents to determine which scientific methods are appropriate for a given event and executable with the available data and tools.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03591v1",
+      "published_at": "2026-10-02T16:59:19Z",
+      "tags": [
+        "tool",
+        "llm",
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03591v1",
+      "summary_type": "extractive",
+      "title_zh": "HazardWeaver: Scientific Route Selection for Hazard Analysis Agents",
+      "summary_zh": "Understanding and assessing natural hazards is essential for disaster preparedness and risk reduction. Recent advances in large language models have spurred growing interest in AI agents for hazard analysis, particularly their ability to integrate scientific data, models, and tools into automated workflows. However, effective automation requires agents to determine which scientific methods are appropriate for a given event and executable with the available data and tools."
+    },
+    {
+      "title": "Threat-Preserving Representation Sensitivity in Agent-Security Benchmarks",
+      "summary": "Security benchmarks for LLM-based agents often report the attack success rate (ASR) as a measure of model robustness and use these scores to compare different models and defense mechanisms, assuming that they describe the security of the agent. In this paper, we explore whether it also influences the benchmark's measurement.\n  To measure the effect of the benchmark representation, we introduce threat-preserving representation sensitivity (TPRS), which measures how much the ASR changes when we ch",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03585v1",
+      "published_at": "2026-10-02T16:55:50Z",
+      "tags": [
+        "tool",
+        "llm",
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03585v1",
+      "summary_type": "extractive",
+      "title_zh": "Threat-Preserving Representation Sensitivity in Agent-Security Benchmarks",
+      "summary_zh": "Security benchmarks for LLM-based agents often report the attack success rate (ASR) as a measure of model robustness and use these scores to compare different models and defense mechanisms, assuming that they describe the security of the agent. In this paper, we explore whether it also influences the benchmark's measurement.\n  To measure the effect of the benchmark representation, we introduce threat-preserving representation sensitivity (TPRS), which measures how much the ASR changes when we ch"
+    },
+    {
+      "title": "Rethinking What to Cache in Few-Step Diffusion Transformers: Solver-Aware Target Selection",
+      "summary": "Diffusion Transformers (DiTs) can generate high-quality images and videos, but generating each sample requires multiple costly DiT forward passes. Two common ways to accelerate DiT sampling are step distillation, which reduces the number of sampling steps, and caching, which skips some DiT evaluations by reusing a tensor computed at an earlier step. Most caching methods decide in advance which tensor to reuse.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03577v1",
+      "published_at": "2026-10-02T16:51:22Z",
+      "tags": [
+        "paper",
+        "vision",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03577v1",
+      "summary_type": "extractive",
+      "title_zh": "Rethinking What to Cache in Few-Step Diffusion Transformers: Solver-Aware Target Selection",
+      "summary_zh": "Diffusion Transformers (DiTs) can generate high-quality images and videos, but generating each sample requires multiple costly DiT forward passes. Two common ways to accelerate DiT sampling are step distillation, which reduces the number of sampling steps, and caching, which skips some DiT evaluations by reusing a tensor computed at an earlier step. Most caching methods decide in advance which tensor to reuse."
+    },
+    {
+      "title": "HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents",
+      "summary": "We introduce HyperBrowseComp, a multilingual and multimodal browsing benchmark comprising 423 manually authored and human-validated questions across 13 languages, written by native or highly proficient speakers. Questions are designed to be extremely challenging. Each question targets a concise, publicly verifiable answer whose discovery requires locating obscure evidence, following multi-step clue chains, or inspecting heterogeneous sources such as videos, scanned documents, images, or maps.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.03574v1",
+      "published_at": "2026-10-02T16:48:49Z",
+      "tags": [
+        "paper",
+        "vision",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.03574v1",
+      "summary_type": "extractive",
+      "title_zh": "HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents",
+      "summary_zh": "We introduce HyperBrowseComp, a multilingual and multimodal browsing benchmark comprising 423 manually authored and human-validated questions across 13 languages, written by native or highly proficient speakers. Questions are designed to be extremely challenging. Each question targets a concise, publicly verifiable answer whose discovery requires locating obscure evidence, following multi-step clue chains, or inspecting heterogeneous sources such as videos, scanned documents, images, or maps."
     },
     {
       "title": "Results from the ASIC puzzle",
@@ -380,7 +700,7 @@
       "tags": [
         "ai"
       ],
-      "score": "53",
+      "score": "82",
       "item_id": "hn:49934078",
       "summary_type": "extractive",
       "title_zh": "Results from the ASIC puzzle",
@@ -396,27 +716,27 @@
       "tags": [
         "ai"
       ],
-      "score": "129",
+      "score": "178",
       "item_id": "hn:49933461",
       "summary_type": "extractive",
       "title_zh": "A map of every lighthouse",
       "summary_zh": "A map of every lighthouse"
     },
     {
-      "title": "A man who listens to whales",
-      "summary": "A man who listens to whales",
+      "title": "The Tao of Backup",
+      "summary": "The Tao of Backup",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
-      "published_at": "2026-10-02T11:35:24+00:00",
+      "url": "http://www.taobackup.com/index.html",
+      "published_at": "2026-10-02T11:19:36+00:00",
       "tags": [
         "ai"
       ],
-      "score": "5",
-      "item_id": "hn:49932350",
+      "score": "81",
+      "item_id": "hn:49932236",
       "summary_type": "extractive",
-      "title_zh": "A man who listens to whales",
-      "summary_zh": "A man who listens to whales"
+      "title_zh": "The Tao of Backup",
+      "summary_zh": "The Tao of Backup"
     },
     {
       "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
@@ -428,363 +748,27 @@
       "tags": [
         "ai"
       ],
-      "score": "143",
+      "score": "177",
       "item_id": "hn:49930439",
       "summary_type": "extractive",
       "title_zh": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
       "summary_zh": "This is a functional 30-minute pendulum clock entirely from discarded materials—cardboard, zip ties, tape, a yardstick, and a paperclip escapement, built in the German Eldorado of precision watchmaking: Glashütte.It also acts as a reference clock for GTC, a new satirical universal time standard."
     },
     {
-      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-      "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor a",
+      "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
+      "summary": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
       "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02207v1",
-      "published_at": "2026-10-01T17:59:58Z",
+      "source": "hacker news",
+      "url": "https://www.cambridge.org/core/journals/iraq/article/gods-in-the-classroom-religion-and-education-in-1st-millennium-bce-babylonia/EB059EE81804DCBC1848CACBD6298E0B",
+      "published_at": "2026-10-01T11:31:08+00:00",
       "tags": [
-        "paper",
-        "tool",
-        "llm"
+        "ai"
       ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02207v1",
+      "score": "3",
+      "item_id": "hn:49920332",
       "summary_type": "extractive",
-      "title_zh": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-      "summary_zh": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor a"
-    },
-    {
-      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-      "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings,",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02206v1",
-      "published_at": "2026-10-01T17:59:55Z",
-      "tags": [
-        "llm",
-        "agent",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02206v1",
-      "summary_type": "extractive",
-      "title_zh": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-      "summary_zh": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings,"
-    },
-    {
-      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-      "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems without updating model weights. RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02204v1",
-      "published_at": "2026-10-01T17:59:50Z",
-      "tags": [
-        "agent",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02204v1",
-      "summary_type": "extractive",
-      "title_zh": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-      "summary_zh": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems without updating model weights. RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation."
-    },
-    {
-      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-      "summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study this skill, we draw on researchers who know firsthand which earlier work advanced their completed projects, with papers serving as pointers to the ideas within.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02202v1",
-      "published_at": "2026-10-01T17:59:47Z",
-      "tags": [
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02202v1",
-      "summary_type": "extractive",
-      "title_zh": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-      "summary_zh": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study this skill, we draw on researchers who know firsthand which earlier work advanced their completed projects, with papers serving as pointers to the ideas within."
-    },
-    {
-      "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-      "summary": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous surfaces into many local tokens, inflates generation cost, and often weakens topological consistency for thin or highly connected shapes. We introduce SILSA, a topology-aware 3D generation framework that represents shapes with compact sliding-window slice latents.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02201v1",
-      "published_at": "2026-10-01T17:59:46Z",
-      "tags": [
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02201v1",
-      "summary_type": "extractive",
-      "title_zh": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-      "summary_zh": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous surfaces into many local tokens, inflates generation cost, and often weakens topological consistency for thin or highly connected shapes. We introduce SILSA, a topology-aware 3D generation framework that represents shapes with compact sliding-window slice latents."
-    },
-    {
-      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
-      "summary": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness that gives a general-purpose multimodal model long-horizon vision. VISTA allows the model to directly perceive the environment through visual observations and maintains a lossless visual memory that preserves past observations in their original form.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02200v1",
-      "published_at": "2026-10-01T17:59:45Z",
-      "tags": [
-        "vision",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02200v1",
-      "summary_type": "extractive",
-      "title_zh": "VISTA: A Visual Harness for Reasoning in an Interactive World",
-      "summary_zh": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness that gives a general-purpose multimodal model long-horizon vision. VISTA allows the model to directly perceive the environment through visual observations and maintains a lossless visual memory that preserves past observations in their original form."
-    },
-    {
-      "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
-      "summary": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict returns, and accurate value predictions do not necessarily yield accurate action derivatives, potentially leading to unreliable policy updates. We propose Forward Entropy-Regularized Policy Optimization (FERPO), an on-policy maximum entropy reinforcement learning algorithm that performs policy impro",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02198v1",
-      "published_at": "2026-10-01T17:59:41Z",
-      "tags": [
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02198v1",
-      "summary_type": "extractive",
-      "title_zh": "FERPO: Forward Entropy-Regularized Policy Optimization",
-      "summary_zh": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict returns, and accurate value predictions do not necessarily yield accurate action derivatives, potentially leading to unreliable policy updates. We propose Forward Entropy-Regularized Policy Optimization (FERPO), an on-policy maximum entropy reinforcement learning algorithm that performs policy impro"
-    },
-    {
-      "title": "Hierarchical Continuous Diffusion Language Models",
-      "summary": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, severing the statistical dependencies among the tokens decoded together. Continuous diffusion language models avoid this by denoising a shared continuous state, but their denoiser sees only that state, s",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02193v1",
-      "published_at": "2026-10-01T17:59:39Z",
-      "tags": [
-        "vision",
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02193v1",
-      "summary_type": "extractive",
-      "title_zh": "Hierarchical Continuous Diffusion Language Models",
-      "summary_zh": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, severing the statistical dependencies among the tokens decoded together. Continuous diffusion language models avoid this by denoising a shared continuous state, but their denoiser sees only that state, s"
-    },
-    {
-      "title": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
-      "summary": "Distribution Matching Distillation (DMD) trains a few-step student from the difference between separately estimated target and student scores, so it must keep an auxiliary diffusion model fitted to the student's evolving distribution at extra memory and computation cost. We introduce DMAD, Distribution Matching as Adversarial Distillation, which recasts distribution matching as classification and learns the required log-density ratios directly. Two discriminator heads on a shared backbone distin",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02188v1",
-      "published_at": "2026-10-01T17:59:01Z",
-      "tags": [
-        "vision",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02188v1",
-      "summary_type": "extractive",
-      "title_zh": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
-      "summary_zh": "Distribution Matching Distillation (DMD) trains a few-step student from the difference between separately estimated target and student scores, so it must keep an auxiliary diffusion model fitted to the student's evolving distribution at extra memory and computation cost. We introduce DMAD, Distribution Matching as Adversarial Distillation, which recasts distribution matching as classification and learns the required log-density ratios directly. Two discriminator heads on a shared backbone distin"
-    },
-    {
-      "title": "Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry",
-      "summary": "Molecular learning models are strongly shaped by their underlying representations. Yet standard sequential and graph formalisms struggle to explicitly encode higher-order topology, such as ring systems and recurring motifs. Existing higher-order representations can capture these structures directly, but they are often computationally demanding and difficult to decode into valid molecules.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02186v1",
-      "published_at": "2026-10-01T17:58:45Z",
-      "tags": [
-        "paper",
-        "tool",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02186v1",
-      "summary_type": "extractive",
-      "title_zh": "Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry",
-      "summary_zh": "Molecular learning models are strongly shaped by their underlying representations. Yet standard sequential and graph formalisms struggle to explicitly encode higher-order topology, such as ring systems and recurring motifs. Existing higher-order representations can capture these structures directly, but they are often computationally demanding and difficult to decode into valid molecules."
-    },
-    {
-      "title": "SoftServe: A Scalable Quasi-Newton Method for Deep Learning",
-      "summary": "Quasi-Newton (QN) methods have long been among the most effective methods for large-scale unconstrained convex optimization. Two obstacles have limited their use in deep learning: non-convexity and enormous parameter sizes. We introduce SoftServe, a family of QN methods designed to overcome these obstacles without line searches or ad hoc curvature corrections.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02182v1",
-      "published_at": "2026-10-01T17:58:24Z",
-      "tags": [
-        "ai",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02182v1",
-      "summary_type": "extractive",
-      "title_zh": "SoftServe: A Scalable Quasi-Newton Method for Deep Learning",
-      "summary_zh": "Quasi-Newton (QN) methods have long been among the most effective methods for large-scale unconstrained convex optimization. Two obstacles have limited their use in deep learning: non-convexity and enormous parameter sizes. We introduce SoftServe, a family of QN methods designed to overcome these obstacles without line searches or ad hoc curvature corrections."
-    },
-    {
-      "title": "Generative Cinematographer: Composing Camera and Object Motion in 3D",
-      "summary": "Current controllable video generation systems often rely on 2D motion trajectories or sparse drag signals for object motion. These controls are ambiguous because the same 2D trajectory can correspond to different 3D motions, especially when the camera and objects move simultaneously. We present Generative Cinematographer (GenCine), a system that lifts a single image into an editable 3D scene scaffold where artists jointly author camera and foreground motion.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02180v1",
-      "published_at": "2026-10-01T17:58:09Z",
-      "tags": [
-        "vision",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02180v1",
-      "summary_type": "extractive",
-      "title_zh": "Generative Cinematographer: Composing Camera and Object Motion in 3D",
-      "summary_zh": "Current controllable video generation systems often rely on 2D motion trajectories or sparse drag signals for object motion. These controls are ambiguous because the same 2D trajectory can correspond to different 3D motions, especially when the camera and objects move simultaneously. We present Generative Cinematographer (GenCine), a system that lifts a single image into an editable 3D scene scaffold where artists jointly author camera and foreground motion."
-    },
-    {
-      "title": "Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination",
-      "summary": "Robots operating in the physical world will increasingly need to coordinate with other robots, particularly in manipulation tasks where an object may be too large or heavy for a single robot to carry alone. Physical limitations caused by hardware degradation or actuator faults can restrict the actions a robot can reliably execute, yet these limitations may be unknown to its partner. We study whether a helper can infer a robot partner's physical constraints from observing it coordinate with anoth",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02170v1",
-      "published_at": "2026-10-01T17:56:04Z",
-      "tags": [
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02170v1",
-      "summary_type": "extractive",
-      "title_zh": "Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination",
-      "summary_zh": "Robots operating in the physical world will increasingly need to coordinate with other robots, particularly in manipulation tasks where an object may be too large or heavy for a single robot to carry alone. Physical limitations caused by hardware degradation or actuator faults can restrict the actions a robot can reliably execute, yet these limitations may be unknown to its partner. We study whether a helper can infer a robot partner's physical constraints from observing it coordinate with anoth"
-    },
-    {
-      "title": "DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication",
-      "summary": "Vision-language models (VLMs) and vision-language-action models (VLAs) have recently driven rapid progress in general-purpose robots, yet most progress has focused on single-robot settings. Extending these capabilities to multi-robot systems remains challenging because robots must coordinate long-horizon behaviors while maintaining reliable, fine-grained execution. We introduce DuoMind, a distributed hierarchical framework for multi-robot coordination through semantic communication.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02161v1",
-      "published_at": "2026-10-01T17:53:09Z",
-      "tags": [
-        "vision",
-        "paper",
-        "tool",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02161v1",
-      "summary_type": "extractive",
-      "title_zh": "DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication",
-      "summary_zh": "Vision-language models (VLMs) and vision-language-action models (VLAs) have recently driven rapid progress in general-purpose robots, yet most progress has focused on single-robot settings. Extending these capabilities to multi-robot systems remains challenging because robots must coordinate long-horizon behaviors while maintaining reliable, fine-grained execution. We introduce DuoMind, a distributed hierarchical framework for multi-robot coordination through semantic communication."
-    },
-    {
-      "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
-      "summary": "Large language model (LLM) agents increasingly rely on persistent external sources to solve sequences of knowledge-intensive tasks. Existing methods improve how source content is accessed and organized, while agent-memory systems preserve reusable knowledge from prior interactions, but repeated use of the same source is still largely treated as repeated access rather than an opportunity to progressively improve understanding of that source. We study source learning: developing reusable source-sp",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02150v1",
-      "published_at": "2026-10-01T17:50:16Z",
-      "tags": [
-        "agent",
-        "vision",
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02150v1",
-      "summary_type": "extractive",
-      "title_zh": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
-      "summary_zh": "Large language model (LLM) agents increasingly rely on persistent external sources to solve sequences of knowledge-intensive tasks. Existing methods improve how source content is accessed and organized, while agent-memory systems preserve reusable knowledge from prior interactions, but repeated use of the same source is still largely treated as repeated access rather than an opportunity to progressively improve understanding of that source. We study source learning: developing reusable source-sp"
-    },
-    {
-      "title": "Finetuning with Sampling: SFT Learns Better Than You Think",
-      "summary": "Introducing new capabilities to frontier models has long been the goal of posttraining, which predominantly employs supervised finetuning (SFT) and reinforcement learning (RL) to this end. Conventional wisdom dictates that RL enables strong generalization on new tasks without losing existing capabilities, while SFT is prone to weak generalization and catastrophic forgetting. At the same time, SFT can learn from off-policy expert data, whereas RL must rely on a model's ability to find successful ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02140v1",
-      "published_at": "2026-10-01T17:45:07Z",
-      "tags": [
-        "ai",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02140v1",
-      "summary_type": "extractive",
-      "title_zh": "Finetuning with Sampling: SFT Learns Better Than You Think",
-      "summary_zh": "Introducing new capabilities to frontier models has long been the goal of posttraining, which predominantly employs supervised finetuning (SFT) and reinforcement learning (RL) to this end. Conventional wisdom dictates that RL enables strong generalization on new tasks without losing existing capabilities, while SFT is prone to weak generalization and catastrophic forgetting. At the same time, SFT can learn from off-policy expert data, whereas RL must rely on a model's ability to find successful "
-    },
-    {
-      "title": "MIRTO: a registration-gated, multiverse-tested evaluation protocol for unsupervised anomaly segmentation in brain MRI",
-      "summary": "Unsupervised anomaly detection (UAD) methods for brain MRI are ranked by a single score, yet that score rests on choices that are rarely reported: how each anomaly map is aligned with the reference, how and on which data the threshold is set, and which false-positive budget, metric, aggregation and lesion definition are used. We present MIRTO, an evaluation protocol that makes these choices explicit and measures their effect. It gates the geometry of every comparison with a registration check an",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02136v1",
-      "published_at": "2026-10-01T17:44:22Z",
-      "tags": [
-        "vision",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02136v1",
-      "summary_type": "extractive",
-      "title_zh": "MIRTO: a registration-gated, multiverse-tested evaluation protocol for unsupervised anomaly segmentation in brain MRI",
-      "summary_zh": "Unsupervised anomaly detection (UAD) methods for brain MRI are ranked by a single score, yet that score rests on choices that are rarely reported: how each anomaly map is aligned with the reference, how and on which data the threshold is set, and which false-positive budget, metric, aggregation and lesion definition are used. We present MIRTO, an evaluation protocol that makes these choices explicit and measures their effect. It gates the geometry of every comparison with a registration check an"
-    },
-    {
-      "title": "Local Support Learning",
-      "summary": "We explore catastrophic forgetting in the context of large pre-trained models. By considering forgetting as a geometric problem in the input space of each weight matrix, we uncover a natural retention objective under which updates produced by gradient-based optimizers are suboptimal. Following this observation, we propose Local Support Learning (LSL), a general-purpose framework that augments gradient-based training for retention of prior capabilities without access to prior data.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02126v1",
-      "published_at": "2026-10-01T17:39:03Z",
-      "tags": [
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02126v1",
-      "summary_type": "extractive",
-      "title_zh": "Local Support Learning",
-      "summary_zh": "We explore catastrophic forgetting in the context of large pre-trained models. By considering forgetting as a geometric problem in the input space of each weight matrix, we uncover a natural retention objective under which updates produced by gradient-based optimizers are suboptimal. Following this observation, we propose Local Support Learning (LSL), a general-purpose framework that augments gradient-based training for retention of prior capabilities without access to prior data."
-    },
-    {
-      "title": "Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows",
-      "summary": "Real-world enterprise data science and analytics workflows require reasoning across dozens of tables, performing statistical analyses, and acting on the results. Established text-to-SQL benchmarks evaluate query generation alone, and audits have found their answer keys frequently wrong. Because real enterprise warehouses are too sensitive to release, these benchmarks are built on public datasets where a business event fits in a single table.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02122v1",
-      "published_at": "2026-10-01T17:35:44Z",
-      "tags": [
-        "agent",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02122v1",
-      "summary_type": "extractive",
-      "title_zh": "Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows",
-      "summary_zh": "Real-world enterprise data science and analytics workflows require reasoning across dozens of tables, performing statistical analyses, and acting on the results. Established text-to-SQL benchmarks evaluate query generation alone, and audits have found their answer keys frequently wrong. Because real enterprise warehouses are too sensitive to release, these benchmarks are built on public datasets where a business event fits in a single table."
-    },
-    {
-      "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
-      "summary": "On-policy self-distillation has recently emerged as an effective approach for improving language-model reasoning by supervising students with a frozen or EMA version of themselves that receives privileged information. Its application to multimodal large language models (MLLMs), however, remains largely unexplored. Recent approaches use privileged visual information, such as image crops corresponding to a question, to improve fine-grained perception, but their gains are confined to tasks that ben",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.02117v1",
-      "published_at": "2026-10-01T17:34:10Z",
-      "tags": [
-        "vision",
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.02117v1",
-      "summary_type": "extractive",
-      "title_zh": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
-      "summary_zh": "On-policy self-distillation has recently emerged as an effective approach for improving language-model reasoning by supervising students with a frozen or EMA version of themselves that receives privileged information. Its application to multimodal large language models (MLLMs), however, remains largely unexplored. Recent approaches use privileged visual information, such as image crops corresponding to a question, to improve fine-grained perception, but their gains are confined to tasks that ben"
+      "title_zh": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
+      "summary_zh": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia"
     },
     {
       "title": "What is going on with ceiling fans",
@@ -796,7 +780,7 @@
       "tags": [
         "ai"
       ],
-      "score": "143",
+      "score": "262",
       "item_id": "hn:49917536",
       "summary_type": "extractive",
       "title_zh": "What is going on with ceiling fans",
@@ -812,11 +796,27 @@
       "tags": [
         "ai"
       ],
-      "score": "12",
+      "score": "56",
       "item_id": "hn:49916753",
       "summary_type": "extractive",
       "title_zh": "Page Table Memory Consumption",
       "summary_zh": "Page Table Memory Consumption"
+    },
+    {
+      "title": "Fixed Points and Strike Mandates",
+      "summary": "Fixed Points and Strike Mandates",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://pvk.ca/Blog/2012/02/19/fixed-points-and-strike-mandates/",
+      "published_at": "2026-10-01T01:22:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "7",
+      "item_id": "hn:49916550",
+      "summary_type": "extractive",
+      "title_zh": "Fixed Points and Strike Mandates",
+      "summary_zh": "Fixed Points and Strike Mandates"
     },
     {
       "title": "cp: -r or -R?",
@@ -828,7 +828,7 @@
       "tags": [
         "ai"
       ],
-      "score": "67",
+      "score": "114",
       "item_id": "hn:49910465",
       "summary_type": "extractive",
       "title_zh": "cp: -r or -R?",

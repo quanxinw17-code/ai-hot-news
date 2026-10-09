@@ -1,22 +1,70 @@
 {
-  "updated_at": "2026-10-08T23:13:43.060416+00:00",
+  "updated_at": "2026-10-09T05:51:31.549428+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-      "summary": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+      "title": "Show HN: Quake ported to safe Rust, playable in browser",
+      "summary": "Show HN: Quake ported to safe Rust, playable in browser",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/thesnarkitecht/rembrandt",
-      "published_at": "2026-10-08T21:00:55+00:00",
+      "url": "https://quake-srp.pages.dev/",
+      "published_at": "2026-10-09T05:22:58+00:00",
       "tags": [
         "ai"
       ],
       "score": "35",
-      "item_id": "hn:50012199",
+      "item_id": "hn:50016312",
       "summary_type": "extractive",
-      "title_zh": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-      "summary_zh": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI"
+      "title_zh": "Show HN: Quake ported to safe Rust, playable in browser",
+      "summary_zh": "Show HN: Quake ported to safe Rust, playable in browser"
+    },
+    {
+      "title": "Anger as man sentenced to death for Facebook comment",
+      "summary": "Anger as man sentenced to death for Facebook comment",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304",
+      "published_at": "2026-10-09T03:03:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "44",
+      "item_id": "hn:50015486",
+      "summary_type": "extractive",
+      "title_zh": "Anger as man sentenced to death for Facebook comment",
+      "summary_zh": "Anger as man sentenced to death for Facebook comment"
+    },
+    {
+      "title": "Reducing undefined behavior in the C language",
+      "summary": "Reducing undefined behavior in the C language",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://lwn.net/Articles/1095811/",
+      "published_at": "2026-10-09T02:02:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "77",
+      "item_id": "hn:50015074",
+      "summary_type": "extractive",
+      "title_zh": "Reducing undefined behavior in the C language",
+      "summary_zh": "Reducing undefined behavior in the C language"
+    },
+    {
+      "title": "Bevy 0.20",
+      "summary": "Bevy 0.20",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://bevy.org/news/bevy-0-20/",
+      "published_at": "2026-10-08T22:57:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "119",
+      "item_id": "hn:50013610",
+      "summary_type": "extractive",
+      "title_zh": "Bevy 0.20",
+      "summary_zh": "Bevy 0.20"
     },
     {
       "title": "AI-ready biological data: $1.8B global commitment",
@@ -28,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "41",
+      "score": "102",
       "item_id": "hn:50011999",
       "summary_type": "extractive",
       "title_zh": "AI-ready biological data: $1.8B global commitment",
@@ -44,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "101",
+      "score": "249",
       "item_id": "hn:50011928",
       "summary_type": "extractive",
       "title_zh": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
@@ -60,11 +108,152 @@
       "tags": [
         "ai"
       ],
-      "score": "92",
+      "score": "143",
       "item_id": "hn:50010470",
       "summary_type": "extractive",
       "title_zh": "The value of not getting to the point (2015)",
       "summary_zh": "The value of not getting to the point (2015)"
+    },
+    {
+      "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumption that the AI difficulty of a task depends linearly on the log of human time. Our fitted spline can be interpreted as a function that \\emph{converts} human time to AI difficulty; it is nearly flat in",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12466v1",
+      "published_at": "2026-10-08T17:59:50Z",
+      "tags": [
+        "ai",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12466v1",
+      "summary_type": "extractive",
+      "title_zh": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "summary_zh": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumption that the AI difficulty of a task depends linearly on the log of human time. Our fitted spline can be interpreted as a function that \\emph{converts} human time to AI difficulty; it is nearly flat in"
+    },
+    {
+      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production environment.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12463v1",
+      "published_at": "2026-10-08T17:59:49Z",
+      "tags": [
+        "llm",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12463v1",
+      "summary_type": "extractive",
+      "title_zh": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "summary_zh": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production environment."
+    },
+    {
+      "title": "BrickBench: Evaluating Agentic Brick Design",
+      "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built. To do so, it must select parts from a discrete library and reason jointly about local and global constraints.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12452v1",
+      "published_at": "2026-10-08T17:58:56Z",
+      "tags": [
+        "agent",
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12452v1",
+      "summary_type": "extractive",
+      "title_zh": "BrickBench: Evaluating Agentic Brick Design",
+      "summary_zh": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built. To do so, it must select parts from a discrete library and reason jointly about local and global constraints."
+    },
+    {
+      "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+      "summary": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits multiple equally valid solutions, violating the one-to-one assumption underlying most learned physical surrogates. We introduce Bi-FORK, a generative framework for learning these one-to-many solution maps in high-dimensional systems.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12449v1",
+      "published_at": "2026-10-08T17:58:36Z",
+      "tags": [
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12449v1",
+      "summary_type": "extractive",
+      "title_zh": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+      "summary_zh": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits multiple equally valid solutions, violating the one-to-one assumption underlying most learned physical surrogates. We introduce Bi-FORK, a generative framework for learning these one-to-many solution maps in high-dimensional systems."
+    },
+    {
+      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings by collecting the largest deception dataset to date for training probes and introducing a novel probe architecture which can aggregate information across many layers and tokens. Our probes achieve 98.8% AUC in SHADE-Arena, surpassing an Opus 5.5 text-monitoring baseline, and show ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12445v1",
+      "published_at": "2026-10-08T17:58:13Z",
+      "tags": [
+        "llm",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12445v1",
+      "summary_type": "extractive",
+      "title_zh": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "summary_zh": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings by collecting the largest deception dataset to date for training probes and introducing a novel probe architecture which can aggregate information across many layers and tokens. Our probes achieve 98.8% AUC in SHADE-Arena, surpassing an Opus 5.5 text-monitoring baseline, and show "
+    },
+    {
+      "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+      "summary": "AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk of a population explosion of misaligned agents: agents could compromise computers and secretly deploy additional agents, creating a self-reinforcing cycle where larger populations develop greater collective cyber capability and expand further. This raises a fundamental question: What determines wheth",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12436v1",
+      "published_at": "2026-10-08T17:57:32Z",
+      "tags": [
+        "paper",
+        "agent",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12436v1",
+      "summary_type": "extractive",
+      "title_zh": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+      "summary_zh": "AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk of a population explosion of misaligned agents: agents could compromise computers and secretly deploy additional agents, creating a self-reinforcing cycle where larger populations develop greater collective cyber capability and expand further. This raises a fundamental question: What determines wheth"
+    },
+    {
+      "title": "RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments",
+      "summary": "A generalist robot should not only perform diverse tasks but also improve through experience, turning what it learns during execution into capabilities that later tasks can reuse. Robot agents that act through code can already repair programs from execution feedback, yet it remains a central challenge to organize this experience around the task structure that gives it meaning, so that each repair is attributed to the responsible capability, supported by execution evidence, and validated before i",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12424v1",
+      "published_at": "2026-10-08T17:55:12Z",
+      "tags": [
+        "paper",
+        "agent",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12424v1",
+      "summary_type": "extractive",
+      "title_zh": "RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments",
+      "summary_zh": "A generalist robot should not only perform diverse tasks but also improve through experience, turning what it learns during execution into capabilities that later tasks can reuse. Robot agents that act through code can already repair programs from execution feedback, yet it remains a central challenge to organize this experience around the task structure that gives it meaning, so that each repair is attributed to the responsible capability, supported by execution evidence, and validated before i"
+    },
+    {
+      "title": "MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances",
+      "summary": "Generating realistic human-object interactions (HOI) in complex 3D scenes requires two complementary capabilities: reasoning about interaction feasibility in the environment and synthesizing realistic human-object motion. However, supervision for these capabilities is rarely available jointly at scale. Human-scene datasets provide rich information about environment-aware motion, while human-object datasets capture detailed interaction dynamics, yet paired human-object-scene data remain scarce.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12416v1",
+      "published_at": "2026-10-08T17:52:02Z",
+      "tags": [
+        "paper",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12416v1",
+      "summary_type": "extractive",
+      "title_zh": "MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances",
+      "summary_zh": "Generating realistic human-object interactions (HOI) in complex 3D scenes requires two complementary capabilities: reasoning about interaction feasibility in the environment and synthesizing realistic human-object motion. However, supervision for these capabilities is rarely available jointly at scale. Human-scene datasets provide rich information about environment-aware motion, while human-object datasets capture detailed interaction dynamics, yet paired human-object-scene data remain scarce."
     },
     {
       "title": "Theranos.world",
@@ -76,11 +265,219 @@
       "tags": [
         "ai"
       ],
-      "score": "208",
+      "score": "374",
       "item_id": "hn:50009295",
       "summary_type": "extractive",
       "title_zh": "Theranos.world",
       "summary_zh": "Theranos.world"
+    },
+    {
+      "title": "Predicting Alignment Generalization with Value Representations",
+      "summary": "LLM developers post-train their models to exhibit prosocial values and behavioral traits, which are enumerated in an alignment target. However, while recent post-training developments have yielded models that score highly on alignment evaluations, training models on sets of narrow behaviors still influences their behavior across unseen contexts and environments in unexpected ways. In this paper, we establish the task of alignment generalization prediction, i.e., predicting how fine-tuning a mode",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12410v1",
+      "published_at": "2026-10-08T17:47:26Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12410v1",
+      "summary_type": "extractive",
+      "title_zh": "Predicting Alignment Generalization with Value Representations",
+      "summary_zh": "LLM developers post-train their models to exhibit prosocial values and behavioral traits, which are enumerated in an alignment target. However, while recent post-training developments have yielded models that score highly on alignment evaluations, training models on sets of narrow behaviors still influences their behavior across unseen contexts and environments in unexpected ways. In this paper, we establish the task of alignment generalization prediction, i.e., predicting how fine-tuning a mode"
+    },
+    {
+      "title": "Searching for \"Harmful Refusal\": A Psychometric Audit of an AI Safety Benchmark",
+      "summary": "Safety benchmarks typically report one overall score for a suite of datasets, each of which may target one or more safety-related attributes, so models with similar overall scores can have very different attribute profiles. Comparing models is more tractable at the level of individual attributes, yet it is often unclear whether even a single dataset's scores isolate any single attribute. One plausible candidate for such an attribute is harmful refusal, a model's tendency to refuse dangerous or p",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12409v1",
+      "published_at": "2026-10-08T17:46:43Z",
+      "tags": [
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12409v1",
+      "summary_type": "extractive",
+      "title_zh": "Searching for \"Harmful Refusal\": A Psychometric Audit of an AI Safety Benchmark",
+      "summary_zh": "Safety benchmarks typically report one overall score for a suite of datasets, each of which may target one or more safety-related attributes, so models with similar overall scores can have very different attribute profiles. Comparing models is more tractable at the level of individual attributes, yet it is often unclear whether even a single dataset's scores isolate any single attribute. One plausible candidate for such an attribute is harmful refusal, a model's tendency to refuse dangerous or p"
+    },
+    {
+      "title": "LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC",
+      "summary": "World action models (WAMs) predict actions and future observations, typically from a reconstruction-based representation that carries noisy, redundant information which can complicate downstream predictions. We introduce LeWAM, a bidirectional transformer for forward, backward, inverse dynamics and policy prediction, on a decoder-free JEPA latent trained end-to-end through all four modes. We see the following benefits: 1) Alignment: linear probes read robot and object state from LeWAM's latent b",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12407v1",
+      "published_at": "2026-10-08T17:46:03Z",
+      "tags": [
+        "paper",
+        "llm",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12407v1",
+      "summary_type": "extractive",
+      "title_zh": "LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC",
+      "summary_zh": "World action models (WAMs) predict actions and future observations, typically from a reconstruction-based representation that carries noisy, redundant information which can complicate downstream predictions. We introduce LeWAM, a bidirectional transformer for forward, backward, inverse dynamics and policy prediction, on a decoder-free JEPA latent trained end-to-end through all four modes. We see the following benefits: 1) Alignment: linear probes read robot and object state from LeWAM's latent b"
+    },
+    {
+      "title": "SpaceFlow: Locally Controllable 3D Generation",
+      "summary": "Current 3D generation methods lack explicit local control: geometric adherence is often defined by a global control strength, and appearance cannot be specified locally. We present SpaceFlow, a training-free pipeline for locally controllable 3D generation from text descriptions and a collection of geometric primitives. Each primitive serves as a proxy for an object part and is assigned a local control level, enabling users to specify whether regions should strictly follow the input shape or allo",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12399v1",
+      "published_at": "2026-10-08T17:42:39Z",
+      "tags": [
+        "ai",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12399v1",
+      "summary_type": "extractive",
+      "title_zh": "SpaceFlow: Locally Controllable 3D Generation",
+      "summary_zh": "Current 3D generation methods lack explicit local control: geometric adherence is often defined by a global control strength, and appearance cannot be specified locally. We present SpaceFlow, a training-free pipeline for locally controllable 3D generation from text descriptions and a collection of geometric primitives. Each primitive serves as a proxy for an object part and is assigned a local control level, enabling users to specify whether regions should strictly follow the input shape or allo"
+    },
+    {
+      "title": "HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling",
+      "summary": "Self-supervised multimodal representation learning has achieved remarkable success across diverse domains, yet capturing synergistic information remains challenging due to the complexity of cross-modal interactions. Unlike the shared information across individual modalities, synergy arises when task-relevant signals emerge only from the joint configuration of multiple modalities and cannot be recovered from any modality in isolation. This work focuses on how to preserve the information capacity ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12393v1",
+      "published_at": "2026-10-08T17:39:45Z",
+      "tags": [
+        "ai",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12393v1",
+      "summary_type": "extractive",
+      "title_zh": "HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling",
+      "summary_zh": "Self-supervised multimodal representation learning has achieved remarkable success across diverse domains, yet capturing synergistic information remains challenging due to the complexity of cross-modal interactions. Unlike the shared information across individual modalities, synergy arises when task-relevant signals emerge only from the joint configuration of multiple modalities and cannot be recovered from any modality in isolation. This work focuses on how to preserve the information capacity "
+    },
+    {
+      "title": "GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving",
+      "summary": "Multimodal large language models (MLLMs) often struggle to identify and use geometric relations in diagrams. Recent methods address this challenge by converting geometric entities, relations, and constraints into explicit textual representations for the model to reason over. However, effective formalization is highly non-trivial: on Geometry3K, structure injection fixes 28 errors but introduces 13 new ones among 200 examples.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12391v1",
+      "published_at": "2026-10-08T17:39:12Z",
+      "tags": [
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12391v1",
+      "summary_type": "extractive",
+      "title_zh": "GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving",
+      "summary_zh": "Multimodal large language models (MLLMs) often struggle to identify and use geometric relations in diagrams. Recent methods address this challenge by converting geometric entities, relations, and constraints into explicit textual representations for the model to reason over. However, effective formalization is highly non-trivial: on Geometry3K, structure injection fixes 28 errors but introduces 13 new ones among 200 examples."
+    },
+    {
+      "title": "ARC: A Reasoning Recipe for Robot Foundation Models",
+      "summary": "The prevailing approach to improving robot foundation models (RFMs) relies on larger models, more robot demonstrations, and costly training at scale. We show that there exists an effective and efficient complementary approach: the right reasoning recipe can substantially improve the zero-shot task performance of existing state-of-the-art RFMs. We refer to this recipe as ARC.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12386v1",
+      "published_at": "2026-10-08T17:38:04Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12386v1",
+      "summary_type": "extractive",
+      "title_zh": "ARC: A Reasoning Recipe for Robot Foundation Models",
+      "summary_zh": "The prevailing approach to improving robot foundation models (RFMs) relies on larger models, more robot demonstrations, and costly training at scale. We show that there exists an effective and efficient complementary approach: the right reasoning recipe can substantially improve the zero-shot task performance of existing state-of-the-art RFMs. We refer to this recipe as ARC."
+    },
+    {
+      "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+      "summary": "Agents are deployed in applications from trip planners and stock trading to IT incident triage. In most cases, LLM agents work autonomously with minimal rule-based safeguarding, leading to cost and safety issues from irreversible actions. Recent works resolve this either by using a safeguard agent to monitor behavior or evaluating logs post-hoc.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12375v1",
+      "published_at": "2026-10-08T17:32:08Z",
+      "tags": [
+        "llm",
+        "paper",
+        "agent",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12375v1",
+      "summary_type": "extractive",
+      "title_zh": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+      "summary_zh": "Agents are deployed in applications from trip planners and stock trading to IT incident triage. In most cases, LLM agents work autonomously with minimal rule-based safeguarding, leading to cost and safety issues from irreversible actions. Recent works resolve this either by using a safeguard agent to monitor behavior or evaluating logs post-hoc."
+    },
+    {
+      "title": "HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing",
+      "summary": "Intelligent grading and automated scoring technologies constitute critical infrastructure for smart education. However, existing document parsing and handwriting recognition benchmarks are predominantly designed for well-structured printed documents or isolated mathematical expressions, lacking datasets that capture the complex characteristics inherent to student answer sheets, including multi-line derivation processes, heterogeneous mixtures of text and mathematical formulae, and noise artifact",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12363v1",
+      "published_at": "2026-10-08T17:27:12Z",
+      "tags": [
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12363v1",
+      "summary_type": "extractive",
+      "title_zh": "HANS: A Handwritten Answer Sheet Dataset for Noisy Hybrid Document Parsing",
+      "summary_zh": "Intelligent grading and automated scoring technologies constitute critical infrastructure for smart education. However, existing document parsing and handwriting recognition benchmarks are predominantly designed for well-structured printed documents or isolated mathematical expressions, lacking datasets that capture the complex characteristics inherent to student answer sheets, including multi-line derivation processes, heterogeneous mixtures of text and mathematical formulae, and noise artifact"
+    },
+    {
+      "title": "Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness",
+      "summary": "Large language models increasingly justify legal decisions by naming the statute or precedent behind a verdict, treated as evidence that the decision follows from it. We test this directly: holding case facts fixed, we substitute the named legal authority for an unrelated one and decode a model's evolving verdict from its hidden states. Across seven open-weight models (8B-70B) and four benchmarks spanning judicial and contractual reasoning, when explicitly required to justify a verdict by naming",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12361v1",
+      "published_at": "2026-10-08T17:26:17Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12361v1",
+      "summary_type": "extractive",
+      "title_zh": "Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness",
+      "summary_zh": "Large language models increasingly justify legal decisions by naming the statute or precedent behind a verdict, treated as evidence that the decision follows from it. We test this directly: holding case facts fixed, we substitute the named legal authority for an unrelated one and decode a model's evolving verdict from its hidden states. Across seven open-weight models (8B-70B) and four benchmarks spanning judicial and contractual reasoning, when explicitly required to justify a verdict by naming"
+    },
+    {
+      "title": "Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict",
+      "summary": "When retrieved evidence contradicts an agent's prior beliefs, does it revise its answer, acknowledge uncertainty, or persist with an incorrect conclusion? Existing evaluations of agentic systems focus primarily on task success, offering limited insight into how agents handle such conflicts. We propose to evaluate agents on epistemic humility (EH): the agent's willingness to recognize, act on, and communicate uncertainty during task execution.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12360v1",
+      "published_at": "2026-10-08T17:25:06Z",
+      "tags": [
+        "llm",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12360v1",
+      "summary_type": "extractive",
+      "title_zh": "Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict",
+      "summary_zh": "When retrieved evidence contradicts an agent's prior beliefs, does it revise its answer, acknowledge uncertainty, or persist with an incorrect conclusion? Existing evaluations of agentic systems focus primarily on task success, offering limited insight into how agents handle such conflicts. We propose to evaluate agents on epistemic humility (EH): the agent's willingness to recognize, act on, and communicate uncertainty during task execution."
+    },
+    {
+      "title": "Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models",
+      "summary": "Spatial reasoning remains a persistent weakness of vision-language models (VLMs), because RGB inputs do not directly provide geometric evidence. Existing remedies either inject 3D into the model at inference, paying architecture and latency costs, or train with outcome rewards that supervise only the final answer. Spatial errors originate in perception: a misjudged depth or direction can be corrected only by the scene's true geometry, which the 3D-scanned sources of spatial training corpora alre",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2610.12355v1",
+      "published_at": "2026-10-08T17:22:24Z",
+      "tags": [
+        "paper",
+        "llm",
+        "tool",
+        "vision"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2610.12355v1",
+      "summary_type": "extractive",
+      "title_zh": "Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models",
+      "summary_zh": "Spatial reasoning remains a persistent weakness of vision-language models (VLMs), because RGB inputs do not directly provide geometric evidence. Existing remedies either inject 3D into the model at inference, paying architecture and latency costs, or train with outcome rewards that supervise only the final answer. Spatial errors originate in perception: a misjudged depth or direction can be corrected only by the scene's true geometry, which the 3D-scanned sources of spatial training corpora alre"
     },
     {
       "title": "Whistle: Speech to Text in 16.9 MB",
@@ -92,7 +489,7 @@
       "tags": [
         "ai"
       ],
-      "score": "441",
+      "score": "674",
       "item_id": "hn:50008427",
       "summary_type": "extractive",
       "title_zh": "Whistle: Speech to Text in 16.9 MB",
@@ -108,11 +505,27 @@
       "tags": [
         "ai"
       ],
-      "score": "85",
+      "score": "144",
       "item_id": "hn:50008047",
       "summary_type": "extractive",
       "title_zh": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
       "summary_zh": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments"
+    },
+    {
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "summary": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there.We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making.So we let jev 1.13, kev, clef, clef flash, GPT-6 Luna and Laya play Pac-Man against bot ghosts.The low latency of these models allows for real time play. We had each model play 100 games, published a leader board and open-sourced the repo so any",
+      "full_text": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there.We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making.So we let jev 1.13, kev, clef, clef flash, GPT-6 Luna and Laya play Pac-Man against bot ghosts.The low latency of these models allows for real time play. We had each model play 100 games, published a leader board and open-sourced the repo so any",
+      "source": "hacker news",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "published_at": "2026-10-08T16:34:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "52",
+      "item_id": "hn:50007993",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Jevman – AI decision models play Pac-Man",
+      "summary_zh": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there.We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making.So we let jev 1.13, kev, clef, clef flash, GPT-6 Luna and Laya play Pac-Man against bot ghosts.The low latency of these models allows for real time play. We had each model play 100 games, published a leader board and open-sourced the repo so any"
     },
     {
       "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
@@ -124,7 +537,7 @@
       "tags": [
         "ai"
       ],
-      "score": "76",
+      "score": "119",
       "item_id": "hn:50007764",
       "summary_type": "extractive",
       "title_zh": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
@@ -140,7 +553,7 @@
       "tags": [
         "ai"
       ],
-      "score": "90",
+      "score": "116",
       "item_id": "hn:50007353",
       "summary_type": "extractive",
       "title_zh": "New gTLD Application for .lan",
@@ -156,27 +569,11 @@
       "tags": [
         "ai"
       ],
-      "score": "786",
+      "score": "858",
       "item_id": "hn:50006832",
       "summary_type": "extractive",
       "title_zh": "Trump administration is suspending Microsoft from a green card program",
       "summary_zh": "Trump administration is suspending Microsoft from a green card program"
-    },
-    {
-      "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-      "summary": "Ten years ago I was 19 and traveling through East Africa, and I spent a summer in Ibumila, a village in the Njombe highlands of Tanzania. There&#x27;s no school in the village. The nearest one is a boarding school an hour away that costs a few hundred dollars a year, which is out of reach for most families there and was about two weeks of summer job money for me.",
-      "full_text": "Ten years ago I was 19 and traveling through East Africa, and I spent a summer in Ibumila, a village in the Njombe highlands of Tanzania. There&#x27;s no school in the village. The nearest one is a boarding school an hour away that costs a few hundred dollars a year, which is out of reach for most families there and was about two weeks of summer job money for me. The daughter of the family I stayed with, Anwarite, was 11. I offered to pay her fees and told myself I&#x27;d keep paying as long as ",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=50006366",
-      "published_at": "2026-10-08T14:39:47+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "647",
-      "item_id": "hn:50006366",
-      "summary_type": "extractive",
-      "title_zh": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-      "summary_zh": "Ten years ago I was 19 and traveling through East Africa, and I spent a summer in Ibumila, a village in the Njombe highlands of Tanzania. There&#x27;s no school in the village. The nearest one is a boarding school an hour away that costs a few hundred dollars a year, which is out of reach for most families there and was about two weeks of summer job money for me."
     },
     {
       "title": "Orkut.com",
@@ -188,7 +585,7 @@
       "tags": [
         "ai"
       ],
-      "score": "126",
+      "score": "171",
       "item_id": "hn:50006012",
       "summary_type": "extractive",
       "title_zh": "Orkut.com",
@@ -204,43 +601,11 @@
       "tags": [
         "ai"
       ],
-      "score": "240",
+      "score": "286",
       "item_id": "hn:50005527",
       "summary_type": "extractive",
       "title_zh": "Beauty in DVD Menus",
       "summary_zh": "Beauty in DVD Menus"
-    },
-    {
-      "title": "Vanillin provides a sweet solution for chronic wound healing",
-      "summary": "Vanillin provides a sweet solution for chronic wound healing",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/",
-      "published_at": "2026-10-08T11:30:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "26",
-      "item_id": "hn:50004542",
-      "summary_type": "extractive",
-      "title_zh": "Vanillin provides a sweet solution for chronic wound healing",
-      "summary_zh": "Vanillin provides a sweet solution for chronic wound healing"
-    },
-    {
-      "title": "OLED burn-in test: 30-month update",
-      "summary": "OLED burn-in test: 30-month update",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.techspot.com/article/3178-oled-burn-in-test/",
-      "published_at": "2026-10-08T10:34:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "80",
-      "item_id": "hn:50004115",
-      "summary_type": "extractive",
-      "title_zh": "OLED burn-in test: 30-month update",
-      "summary_zh": "OLED burn-in test: 30-month update"
     },
     {
       "title": "Yes, and",
@@ -252,7 +617,7 @@
       "tags": [
         "ai"
       ],
-      "score": "94",
+      "score": "312",
       "item_id": "hn:50003796",
       "summary_type": "extractive",
       "title_zh": "Yes, and",
@@ -268,7 +633,7 @@
       "tags": [
         "ai"
       ],
-      "score": "80",
+      "score": "158",
       "item_id": "hn:50000985",
       "summary_type": "extractive",
       "title_zh": "US man given prison sentence for bot-farming music streams",
@@ -284,7 +649,7 @@
       "tags": [
         "ai"
       ],
-      "score": "311",
+      "score": "539",
       "item_id": "hn:50000488",
       "summary_type": "extractive",
       "title_zh": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
@@ -300,7 +665,7 @@
       "tags": [
         "ai"
       ],
-      "score": "93",
+      "score": "121",
       "item_id": "hn:49998992",
       "summary_type": "extractive",
       "title_zh": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
@@ -316,154 +681,11 @@
       "tags": [
         "ai"
       ],
-      "score": "63",
+      "score": "118",
       "item_id": "hn:49996639",
       "summary_type": "extractive",
       "title_zh": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
       "summary_zh": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone"
-    },
-    {
-      "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
-      "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from egocentric videos, by observing a person's day-to-day activities.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10538v1",
-      "published_at": "2026-10-07T17:59:41Z",
-      "tags": [
-        "vision",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10538v1",
-      "summary_type": "extractive",
-      "title_zh": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
-      "summary_zh": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from egocentric videos, by observing a person's day-to-day activities."
-    },
-    {
-      "title": "Decoupling Exploration from Optimization in RLVR",
-      "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10536v1",
-      "published_at": "2026-10-07T17:59:26Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10536v1",
-      "summary_type": "extractive",
-      "title_zh": "Decoupling Exploration from Optimization in RLVR",
-      "summary_zh": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data."
-    },
-    {
-      "title": "Long-WAM: Scaling the Context of World-Action Models",
-      "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our central finding is that access to history is not the same as using it: longer histories pay off far more when the video foundation is pretrained autoregressively (AR).",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10528v1",
-      "published_at": "2026-10-07T17:58:04Z",
-      "tags": [
-        "llm",
-        "vision",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10528v1",
-      "summary_type": "extractive",
-      "title_zh": "Long-WAM: Scaling the Context of World-Action Models",
-      "summary_zh": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our central finding is that access to history is not the same as using it: longer histories pay off far more when the video foundation is pretrained autoregressively (AR)."
-    },
-    {
-      "title": "RoboJEPA: Scaling Robotic Latent World Models",
-      "summary": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, and compute, an open problem that slows progress in the field. In this work we present RoboJEPA, a world model based on the Joint Embedding Predictive Architecture (JEPA) and trained on a large-scale dataset spanning 12 robotic embodiments.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10515v1",
-      "published_at": "2026-10-07T17:54:42Z",
-      "tags": [
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10515v1",
-      "summary_type": "extractive",
-      "title_zh": "RoboJEPA: Scaling Robotic Latent World Models",
-      "summary_zh": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, and compute, an open problem that slows progress in the field. In this work we present RoboJEPA, a world model based on the Joint Embedding Predictive Architecture (JEPA) and trained on a large-scale dataset spanning 12 robotic embodiments."
-    },
-    {
-      "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
-      "summary": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern Oscillation (SciExam for ENSO) is a benchmark in which agents build low-order stochastic models of ENSO, the dominant mode of interannual climate variability, from real observations. Within a six-hour bud",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10513v1",
-      "published_at": "2026-10-07T17:52:52Z",
-      "tags": [
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10513v1",
-      "summary_type": "extractive",
-      "title_zh": "SciExam for ENSO: Can AI Agents Build Climate Models?",
-      "summary_zh": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern Oscillation (SciExam for ENSO) is a benchmark in which agents build low-order stochastic models of ENSO, the dominant mode of interannual climate variability, from real observations. Within a six-hour bud"
-    },
-    {
-      "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
-      "summary": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic variants adapt queries and tool use but remain largely retrieval-centric. However, in many tasks, the evidence required for a solution is not explicitly present in any single source item.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10507v1",
-      "published_at": "2026-10-07T17:51:08Z",
-      "tags": [
-        "agent",
-        "llm",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10507v1",
-      "summary_type": "extractive",
-      "title_zh": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
-      "summary_zh": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic variants adapt queries and tool use but remain largely retrieval-centric. However, in many tasks, the evidence required for a solution is not explicitly present in any single source item."
-    },
-    {
-      "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
-      "summary": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has faced this problem for decades. It judges survey responses without knowing the true value, through a framework of validity and related concepts: content, construct, and criterion validity, reliability, incentive compatibility, and consequentiality.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10506v1",
-      "published_at": "2026-10-07T17:51:07Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10506v1",
-      "summary_type": "extractive",
-      "title_zh": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
-      "summary_zh": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has faced this problem for decades. It judges survey responses without knowing the true value, through a framework of validity and related concepts: content, construct, and criterion validity, reliability, incentive compatibility, and consequentiality."
-    },
-    {
-      "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
-      "summary": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be costly to collect through methods such as teleoperation. Agentic harnesses can adapt around the model, but current self-evolving harnesses use robot trials inefficiently when deciding which code and skill changes to pursue.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10498v1",
-      "published_at": "2026-10-07T17:48:02Z",
-      "tags": [
-        "llm",
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10498v1",
-      "summary_type": "extractive",
-      "title_zh": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
-      "summary_zh": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be costly to collect through methods such as teleoperation. Agentic harnesses can adapt around the model, but current self-evolving harnesses use robot trials inefficiently when deciding which code and skill changes to pursue."
     },
     {
       "title": "DuckDB Ducklake",
@@ -475,236 +697,27 @@
       "tags": [
         "ai"
       ],
-      "score": "101",
+      "score": "154",
       "item_id": "hn:49996149",
       "summary_type": "extractive",
       "title_zh": "DuckDB Ducklake",
       "summary_zh": "DuckDB Ducklake"
     },
     {
-      "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
-      "summary": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution, but it is a poor fit for agentic coding: many base checkpoints cannot reliably produce the well-formed tool invocation required to complete a task end-to-end. Single-shot or short-horizon tasks avoid these tool-calling failures by collapsing a multi-step interaction into a fixed prompt and a single pat",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10478v1",
-      "published_at": "2026-10-07T17:37:19Z",
-      "tags": [
-        "agent",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10478v1",
-      "summary_type": "extractive",
-      "title_zh": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
-      "summary_zh": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution, but it is a poor fit for agentic coding: many base checkpoints cannot reliably produce the well-formed tool invocation required to complete a task end-to-end. Single-shot or short-horizon tasks avoid these tool-calling failures by collapsing a multi-step interaction into a fixed prompt and a single pat"
-    },
-    {
-      "title": "A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents",
-      "summary": "Deployments of research agents are moving to populations of thousands that share one pool of compute, while most current systems organize one project at a time or leave the population unorganized. We argue that such a population will acquire an organization whether or not its designers provide one, so designers should provide it explicitly, and that the multi-agent systems community holds the tools to do so. We propose a society of agents, a population of persistent agents under explicit institu",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10468v1",
-      "published_at": "2026-10-07T17:30:45Z",
-      "tags": [
-        "agent",
-        "vision",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10468v1",
-      "summary_type": "extractive",
-      "title_zh": "A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents",
-      "summary_zh": "Deployments of research agents are moving to populations of thousands that share one pool of compute, while most current systems organize one project at a time or leave the population unorganized. We argue that such a population will acquire an organization whether or not its designers provide one, so designers should provide it explicitly, and that the multi-agent systems community holds the tools to do so. We propose a society of agents, a population of persistent agents under explicit institu"
-    },
-    {
-      "title": "How assigned AI use before class shapes active student engagement in class",
-      "summary": "AI learning tools are rapidly entering classrooms, but evidence about whether they help students learn is mixed and rests mostly on test scores. Comparatively less research addresses whether the use of AI changes students' live learning behaviors in class. Here, we report the results of a preregistered field experiment with 759 MBA students enrolled in ten sections of a course, in which each student was randomly assigned two of ten class sessions to prepare for with a purpose-built voice-based A",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10463v1",
-      "published_at": "2026-10-07T17:29:14Z",
-      "tags": [
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10463v1",
-      "summary_type": "extractive",
-      "title_zh": "How assigned AI use before class shapes active student engagement in class",
-      "summary_zh": "AI learning tools are rapidly entering classrooms, but evidence about whether they help students learn is mixed and rests mostly on test scores. Comparatively less research addresses whether the use of AI changes students' live learning behaviors in class. Here, we report the results of a preregistered field experiment with 759 MBA students enrolled in ten sections of a course, in which each student was randomly assigned two of ten class sessions to prepare for with a purpose-built voice-based A"
-    },
-    {
-      "title": "FoldBack: Self-Correcting Masked Generative Policy for Long-Horizon Garment Folding",
-      "summary": "We present FoldBack, a self-correcting masked generative policy for long-horizon garment folding. Existing long-trajectory policies may continue after a missed or slipped grasp even when the garment has not reached the intended configuration. We structure FoldBack's recovery mechanisms around three inference-time decisions: when to refine and verify, how to roll back, and where and how to retry.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10462v1",
-      "published_at": "2026-10-07T17:28:32Z",
-      "tags": [
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10462v1",
-      "summary_type": "extractive",
-      "title_zh": "FoldBack: Self-Correcting Masked Generative Policy for Long-Horizon Garment Folding",
-      "summary_zh": "We present FoldBack, a self-correcting masked generative policy for long-horizon garment folding. Existing long-trajectory policies may continue after a missed or slipped grasp even when the garment has not reached the intended configuration. We structure FoldBack's recovery mechanisms around three inference-time decisions: when to refine and verify, how to roll back, and where and how to retry."
-    },
-    {
-      "title": "Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts",
-      "summary": "Multi-teacher on-policy distillation (MOPD) is used in two settings. In common-domain composition, several teachers score each student rollout from one prompt domain and their signals form a single target; in routed-domain distillation, prompts from different domains are assigned to the corresponding specialist. Both settings usually transfer each teacher's endpoint policy, which mixes what post-training changed with preferences inherited from the teacher's base.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10460v1",
-      "published_at": "2026-10-07T17:27:46Z",
-      "tags": [
-        "ai",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10460v1",
-      "summary_type": "extractive",
-      "title_zh": "Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts",
-      "summary_zh": "Multi-teacher on-policy distillation (MOPD) is used in two settings. In common-domain composition, several teachers score each student rollout from one prompt domain and their signals form a single target; in routed-domain distillation, prompts from different domains are assigned to the corresponding specialist. Both settings usually transfer each teacher's endpoint policy, which mixes what post-training changed with preferences inherited from the teacher's base."
-    },
-    {
-      "title": "PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs",
-      "summary": "Hallucinated information can propagate through multi-stage LLM systems and become part of the context for subsequent reasoning. Existing studies of post-hallucination reasoning (PHR) mainly characterize changes in final outcomes and aggregate reasoning dynamics, leaving how models resolve hallucinated premises at the response level insufficiently understood. In this work, we introduce PHRBench, a controlled benchmark for behaviorally structured PHR across four domains and 18 large language model",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10455v1",
-      "published_at": "2026-10-07T17:25:23Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10455v1",
-      "summary_type": "extractive",
-      "title_zh": "PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs",
-      "summary_zh": "Hallucinated information can propagate through multi-stage LLM systems and become part of the context for subsequent reasoning. Existing studies of post-hallucination reasoning (PHR) mainly characterize changes in final outcomes and aggregate reasoning dynamics, leaving how models resolve hallucinated premises at the response level insufficiently understood. In this work, we introduce PHRBench, a controlled benchmark for behaviorally structured PHR across four domains and 18 large language model"
-    },
-    {
-      "title": "A Good Self-Teacher Meets the Student Where They Are: Joint On-Policy Learning and Teaching",
-      "summary": "Reinforcement Learning (RL) from outcome rewards suffers from sparse supervision, particularly on difficult, long-horizon tasks where successful trajectories are rare and costly to generate. On-Policy Distillation (OPD) offers an attractive alternative by providing dense token-level supervision from a stronger teacher along the student's own generations. Self-distillation methods further remove the need for a separate teacher model by conditioning the same policy on privileged information to ser",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10447v1",
-      "published_at": "2026-10-07T17:19:19Z",
-      "tags": [
-        "vision",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10447v1",
-      "summary_type": "extractive",
-      "title_zh": "A Good Self-Teacher Meets the Student Where They Are: Joint On-Policy Learning and Teaching",
-      "summary_zh": "Reinforcement Learning (RL) from outcome rewards suffers from sparse supervision, particularly on difficult, long-horizon tasks where successful trajectories are rare and costly to generate. On-Policy Distillation (OPD) offers an attractive alternative by providing dense token-level supervision from a stronger teacher along the student's own generations. Self-distillation methods further remove the need for a separate teacher model by conditioning the same policy on privileged information to ser"
-    },
-    {
-      "title": "RunningTab: Direct Workspace Interaction with Environment-Side Tabs",
-      "summary": "Much knowledge work produces new deliverables from files a workspace already holds, and LLM agents are beginning to take such work over. Through direct corpus interaction, an agent can search and read any of those files from a terminal with no indexing, and producing a deliverable from many of them in this way is what we call direct workspace interaction (DWI). Reaching the files, however, is only half the task: nothing keeps track of what the task asks for, what has been read, and what was list",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10444v1",
-      "published_at": "2026-10-07T17:16:56Z",
-      "tags": [
-        "llm",
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10444v1",
-      "summary_type": "extractive",
-      "title_zh": "RunningTab: Direct Workspace Interaction with Environment-Side Tabs",
-      "summary_zh": "Much knowledge work produces new deliverables from files a workspace already holds, and LLM agents are beginning to take such work over. Through direct corpus interaction, an agent can search and read any of those files from a terminal with no indexing, and producing a deliverable from many of them in this way is what we call direct workspace interaction (DWI). Reaching the files, however, is only half the task: nothing keeps track of what the task asks for, what has been read, and what was list"
-    },
-    {
-      "title": "Q-Learning with Scalar Adjoint Matching",
-      "summary": "Flow policies capture rich and diverse action distributions, and fine-tuning them with off-policy RL to improve beyond the demonstrations has drawn growing interest. However, fine-tuning a flow policy against a learned value function is not trivial, because the policy generates its action over many flow steps. Adjoint matching offers a principled way to update the flow model itself by propagating value information from the final action back to each flow step, but it requires a vector--Jacobian p",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10437v1",
-      "published_at": "2026-10-07T17:13:35Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10437v1",
-      "summary_type": "extractive",
-      "title_zh": "Q-Learning with Scalar Adjoint Matching",
-      "summary_zh": "Flow policies capture rich and diverse action distributions, and fine-tuning them with off-policy RL to improve beyond the demonstrations has drawn growing interest. However, fine-tuning a flow policy against a learned value function is not trivial, because the policy generates its action over many flow steps. Adjoint matching offers a principled way to update the flow model itself by propagating value information from the final action back to each flow step, but it requires a vector--Jacobian p"
-    },
-    {
       "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "summary": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "full_text": "",
+      "summary": "https:&#x2F;&#x2F;x.com&#x2F;NomadsGalaxy&#x2F;status&#x2F;2107284088247689290",
+      "full_text": "https:&#x2F;&#x2F;x.com&#x2F;NomadsGalaxy&#x2F;status&#x2F;2107284088247689290",
       "source": "hacker news",
       "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
       "published_at": "2026-10-07T16:56:30+00:00",
       "tags": [
         "ai"
       ],
-      "score": "303",
+      "score": "570",
       "item_id": "hn:49995495",
       "summary_type": "extractive",
       "title_zh": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "summary_zh": "Man discovers his parents' coffee machine used 1TB of data in 10 days"
-    },
-    {
-      "title": "Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds",
-      "summary": "Speculative decoding accelerates large language model inference by using a low-cost draft model to propose tokens that the full-size target model verifies in parallel. Parallel and semi-autoregressive (semi- AR) drafters improve drafting efficiency by proposing an entire block in a single forward pass, but training them raises a new difficulty: the draft distribution for a given position depends on where the decoding round starts, and where rounds start depends on how many tokens earlier rounds ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10411v1",
-      "published_at": "2026-10-07T16:56:29Z",
-      "tags": [
-        "llm",
-        "tool",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10411v1",
-      "summary_type": "extractive",
-      "title_zh": "Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds",
-      "summary_zh": "Speculative decoding accelerates large language model inference by using a low-cost draft model to propose tokens that the full-size target model verifies in parallel. Parallel and semi-autoregressive (semi- AR) drafters improve drafting efficiency by proposing an entire block in a single forward pass, but training them raises a new difficulty: the draft distribution for a given position depends on where the decoding round starts, and where rounds start depends on how many tokens earlier rounds "
-    },
-    {
-      "title": "SOTA: Stock Options Trading Agents Guided by Option-Implied Return Distributions",
-      "summary": "As option markets grow and AI advances, agentic systems for option trading are gaining increasing attention. Language-model-based agents can reason over contextual information such as news, but option trading presents a particularly challenging decision problem: a single stock can have thousands of contracts, and the agent must decide both which contracts to trade and how to combine them. Existing approaches often sidestep this complexity by restricting the policy to a fixed strategy structure, ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10407v1",
-      "published_at": "2026-10-07T16:55:05Z",
-      "tags": [
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10407v1",
-      "summary_type": "extractive",
-      "title_zh": "SOTA: Stock Options Trading Agents Guided by Option-Implied Return Distributions",
-      "summary_zh": "As option markets grow and AI advances, agentic systems for option trading are gaining increasing attention. Language-model-based agents can reason over contextual information such as news, but option trading presents a particularly challenging decision problem: a single stock can have thousands of contracts, and the agent must decide both which contracts to trade and how to combine them. Existing approaches often sidestep this complexity by restricting the policy to a fixed strategy structure, "
-    },
-    {
-      "title": "Reasoning-Token Spikes Under Prompted Untruthful Responding in Large Language Models",
-      "summary": "Monitoring the chain-of-thought of reasoning artificial intelligence (AI) models remains a key approach to detecting deception and other forms of misbehavior in such models. However, semantic chain-of-thought monitoring depends on reasoning traces being legible and sufficiently faithful to the underlying computations that produced the model's behavior, not to mention accessible. Moreover, there is increasing evidence that chain-of-thought outputs may soon become illegible or unfaithful, if they ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2610.10405v1",
-      "published_at": "2026-10-07T16:53:11Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2610.10405v1",
-      "summary_type": "extractive",
-      "title_zh": "Reasoning-Token Spikes Under Prompted Untruthful Responding in Large Language Models",
-      "summary_zh": "Monitoring the chain-of-thought of reasoning artificial intelligence (AI) models remains a key approach to detecting deception and other forms of misbehavior in such models. However, semantic chain-of-thought monitoring depends on reasoning traces being legible and sufficiently faithful to the underlying computations that produced the model's behavior, not to mention accessible. Moreover, there is increasing evidence that chain-of-thought outputs may soon become illegible or unfaithful, if they "
+      "summary_zh": "https:&#x2F;&#x2F;x.com&#x2F;NomadsGalaxy&#x2F;status&#x2F;2107284088247689290"
     },
     {
       "title": "The dawn of the age of the exoskeleton",
@@ -716,7 +729,7 @@
       "tags": [
         "ai"
       ],
-      "score": "43",
+      "score": "71",
       "item_id": "hn:49994663",
       "summary_type": "extractive",
       "title_zh": "The dawn of the age of the exoskeleton",
@@ -732,7 +745,7 @@
       "tags": [
         "ai"
       ],
-      "score": "63",
+      "score": "128",
       "item_id": "hn:49992994",
       "summary_type": "extractive",
       "title_zh": "ETH-68: Ethernet Audio Interface for Linux",
@@ -748,7 +761,7 @@
       "tags": [
         "ai"
       ],
-      "score": "25",
+      "score": "47",
       "item_id": "hn:49988516",
       "summary_type": "extractive",
       "title_zh": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
@@ -764,27 +777,11 @@
       "tags": [
         "ai"
       ],
-      "score": "298",
+      "score": "514",
       "item_id": "hn:49986882",
       "summary_type": "extractive",
       "title_zh": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
       "summary_zh": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard"
-    },
-    {
-      "title": "Show HN: TerrainSR – fast, realistic heightmap upscaling model",
-      "summary": "This is a model that I made for a historical game. I wanted to have a 1:1 scale model of Europe, but my problem was that 100m data was too low-res while 10m LIDAR data was patchy, took hundreds of GBs to store and was full of manmade objects like mines, buildings and so on.I trained this model on undeveloped landscape so that it can quickly add plausible erosion features, rocks, etc to the low-resolution height data and sort of reconstruct what the terrain would look like before any human interf",
-      "full_text": "This is a model that I made for a historical game. I wanted to have a 1:1 scale model of Europe, but my problem was that 100m data was too low-res while 10m LIDAR data was patchy, took hundreds of GBs to store and was full of manmade objects like mines, buildings and so on.I trained this model on undeveloped landscape so that it can quickly add plausible erosion features, rocks, etc to the low-resolution height data and sort of reconstruct what the terrain would look like before any human interf",
-      "source": "hacker news",
-      "url": "https://huggingface.co/joe-gibbs/terrainsr",
-      "published_at": "2026-10-07T01:24:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "22",
-      "item_id": "hn:49986740",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: TerrainSR – fast, realistic heightmap upscaling model",
-      "summary_zh": "This is a model that I made for a historical game. I wanted to have a 1:1 scale model of Europe, but my problem was that 100m data was too low-res while 10m LIDAR data was patchy, took hundreds of GBs to store and was full of manmade objects like mines, buildings and so on.I trained this model on undeveloped landscape so that it can quickly add plausible erosion features, rocks, etc to the low-resolution height data and sort of reconstruct what the terrain would look like before any human interf"
     },
     {
       "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
@@ -796,7 +793,7 @@
       "tags": [
         "ai"
       ],
-      "score": "78",
+      "score": "178",
       "item_id": "hn:49985548",
       "summary_type": "extractive",
       "title_zh": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
@@ -812,27 +809,27 @@
       "tags": [
         "ai"
       ],
-      "score": "75",
+      "score": "129",
       "item_id": "hn:49984159",
       "summary_type": "extractive",
       "title_zh": "A Terminal Protocol for Program Status (OSC 7501)",
       "summary_zh": "A Terminal Protocol for Program Status (OSC 7501)"
     },
     {
-      "title": "The Slow Formation of Durable Software",
-      "summary": "The Slow Formation of Durable Software",
+      "title": "15-year search for a band that charted once and vanished",
+      "summary": "15-year search for a band that charted once and vanished",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
-      "published_at": "2026-10-06T15:54:24+00:00",
+      "url": "https://shahidhussain.com/writing/search-for-salvage/",
+      "published_at": "2026-10-05T00:06:43+00:00",
       "tags": [
         "ai"
       ],
-      "score": "244",
-      "item_id": "hn:49980346",
+      "score": "363",
+      "item_id": "hn:49959280",
       "summary_type": "extractive",
-      "title_zh": "The Slow Formation of Durable Software",
-      "summary_zh": "The Slow Formation of Durable Software"
+      "title_zh": "15-year search for a band that charted once and vanished",
+      "summary_zh": "15-year search for a band that charted once and vanished"
     }
   ]
 }

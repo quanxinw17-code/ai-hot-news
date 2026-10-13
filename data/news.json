@@ -1,38 +1,230 @@
 {
-  "updated_at": "2026-10-13T00:30:08.767550+00:00",
+  "updated_at": "2026-10-13T14:01:44.343613+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Instant Software Factories",
-      "summary": "Instant Software Factories",
+      "title": "Apple HomeView",
+      "summary": "Apple HomeView",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/mikolalysenko/instant-factory",
-      "published_at": "2026-10-13T00:09:30+00:00",
+      "url": "https://www.apple.com/apple-homeview/",
+      "published_at": "2026-10-13T13:02:12+00:00",
       "tags": [
         "ai"
       ],
-      "score": "6",
-      "item_id": "hn:50064827",
+      "score": "115",
+      "item_id": "hn:50071017",
       "summary_type": "extractive",
-      "title_zh": "Instant Software Factories",
-      "summary_zh": "Instant Software Factories"
+      "title_zh": "Apple HomeView",
+      "summary_zh": "Apple HomeView"
     },
     {
-      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-      "summary": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+      "summary": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://doi.org/10.1111/acel.70751",
-      "published_at": "2026-10-12T23:34:22+00:00",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "published_at": "2026-10-13T12:26:36+00:00",
       "tags": [
         "ai"
       ],
-      "score": "42",
-      "item_id": "hn:50064536",
+      "score": "66",
+      "item_id": "hn:50070593",
       "summary_type": "extractive",
-      "title_zh": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-      "summary_zh": "Blood cells from 80-year-old donor become stem cells with molecular age under 20"
+      "title_zh": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+      "summary_zh": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs"
+    },
+    {
+      "title": "Mozilla Introduces Firefox Enterprise",
+      "summary": "Mozilla Introduces Firefox Enterprise",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "published_at": "2026-10-13T12:00:42+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "168",
+      "item_id": "hn:50070302",
+      "summary_type": "extractive",
+      "title_zh": "Mozilla Introduces Firefox Enterprise",
+      "summary_zh": "Mozilla Introduces Firefox Enterprise"
+    },
+    {
+      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "summary": "An hour of audio transcribed in about 13s on MacBook Air",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://eg2.haku.sh/",
+      "published_at": "2026-10-13T11:27:14+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "179",
+      "item_id": "hn:50069971",
+      "summary_type": "extractive",
+      "title_zh": "An hour of audio transcribed in about 13s on MacBook Air",
+      "summary_zh": "An hour of audio transcribed in about 13s on MacBook Air"
+    },
+    {
+      "title": "Character.ai Files for Bankruptcy",
+      "summary": "Character.ai Files for Bankruptcy",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "published_at": "2026-10-13T11:24:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "109",
+      "item_id": "hn:50069942",
+      "summary_type": "extractive",
+      "title_zh": "Character.ai Files for Bankruptcy",
+      "summary_zh": "Character.ai Files for Bankruptcy"
+    },
+    {
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "summary": "11 year old unsoundness bugs found in Rust borrow checker",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "published_at": "2026-10-13T10:27:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "354",
+      "item_id": "hn:50069499",
+      "summary_type": "extractive",
+      "title_zh": "11 year old unsoundness bugs found in Rust borrow checker",
+      "summary_zh": "11 year old unsoundness bugs found in Rust borrow checker"
+    },
+    {
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "summary": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "published_at": "2026-10-13T10:08:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "227",
+      "item_id": "hn:50069329",
+      "summary_type": "extractive",
+      "title_zh": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "summary_zh": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades"
+    },
+    {
+      "title": "Crypto thieves sell hardware wallets with secret eSIM",
+      "summary": "Crypto thieves sell hardware wallets with secret eSIM",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
+      "published_at": "2026-10-13T08:34:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "95",
+      "item_id": "hn:50068508",
+      "summary_type": "extractive",
+      "title_zh": "Crypto thieves sell hardware wallets with secret eSIM",
+      "summary_zh": "Crypto thieves sell hardware wallets with secret eSIM"
+    },
+    {
+      "title": "Document Review with Unsiloed and TypeSafe Jev",
+      "summary": "Document Review with Unsiloed and TypeSafe Jev",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+      "published_at": "2026-10-13T08:24:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "30",
+      "item_id": "hn:50068443",
+      "summary_type": "extractive",
+      "title_zh": "Document Review with Unsiloed and TypeSafe Jev",
+      "summary_zh": "Document Review with Unsiloed and TypeSafe Jev"
+    },
+    {
+      "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+      "summary": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/composo-ai/DishwasherBench",
+      "published_at": "2026-10-13T08:24:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "73",
+      "item_id": "hn:50068437",
+      "summary_type": "extractive",
+      "title_zh": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+      "summary_zh": "DishwasherBench – Can Frontier Models Stack a Dishwasher?"
+    },
+    {
+      "title": "Character.ai files for Chapter 11 bankruptcy",
+      "summary": "Character.ai files for Chapter 11 bankruptcy",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "published_at": "2026-10-13T07:28:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "52",
+      "item_id": "hn:50068036",
+      "summary_type": "extractive",
+      "title_zh": "Character.ai files for Chapter 11 bankruptcy",
+      "summary_zh": "Character.ai files for Chapter 11 bankruptcy"
+    },
+    {
+      "title": "Hittite royal archive found in Turkey",
+      "summary": "Hittite royal archive found in Turkey",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "published_at": "2026-10-13T06:02:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "184",
+      "item_id": "hn:50067414",
+      "summary_type": "extractive",
+      "title_zh": "Hittite royal archive found in Turkey",
+      "summary_zh": "Hittite royal archive found in Turkey"
+    },
+    {
+      "title": "AI models can provably hide arbitrary capabilities",
+      "summary": "AI models can provably hide arbitrary capabilities",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "published_at": "2026-10-13T02:07:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "245",
+      "item_id": "hn:50065692",
+      "summary_type": "extractive",
+      "title_zh": "AI models can provably hide arbitrary capabilities",
+      "summary_zh": "AI models can provably hide arbitrary capabilities"
+    },
+    {
+      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "summary": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/bherbruck/solidcraft",
+      "published_at": "2026-10-13T00:11:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "96",
+      "item_id": "hn:50064840",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "summary_zh": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)"
     },
     {
       "title": "Show HN: An experimental pattern-first DAW that supports MCP",
@@ -44,27 +236,11 @@
       "tags": [
         "ai"
       ],
-      "score": "3",
+      "score": "79",
       "item_id": "hn:50064438",
       "summary_type": "extractive",
       "title_zh": "Show HN: An experimental pattern-first DAW that supports MCP",
       "summary_zh": "Show HN: An experimental pattern-first DAW that supports MCP"
-    },
-    {
-      "title": "Breaking Bad star RJ Mitte dies aged 34",
-      "summary": "Breaking Bad star RJ Mitte dies aged 34",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
-      "published_at": "2026-10-12T22:15:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "100",
-      "item_id": "hn:50063831",
-      "summary_type": "extractive",
-      "title_zh": "Breaking Bad star RJ Mitte dies aged 34",
-      "summary_zh": "Breaking Bad star RJ Mitte dies aged 34"
     },
     {
       "title": "Phreak.ing – Internet Phone Switch",
@@ -76,7 +252,7 @@
       "tags": [
         "ai"
       ],
-      "score": "51",
+      "score": "143",
       "item_id": "hn:50063417",
       "summary_type": "extractive",
       "title_zh": "Phreak.ing – Internet Phone Switch",
@@ -92,15 +268,15 @@
       "tags": [
         "ai"
       ],
-      "score": "26",
+      "score": "270",
       "item_id": "hn:50063365",
       "summary_type": "extractive",
       "title_zh": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
       "summary_zh": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X"
     },
     {
-      "title": "Who Is Vfmaddrnd231pd?",
-      "summary": "Who Is Vfmaddrnd231pd?",
+      "title": "Who is vfmaddrnd231pd?",
+      "summary": "Who is vfmaddrnd231pd?",
       "full_text": "",
       "source": "hacker news",
       "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
@@ -108,11 +284,11 @@
       "tags": [
         "ai"
       ],
-      "score": "88",
+      "score": "233",
       "item_id": "hn:50063138",
       "summary_type": "extractive",
-      "title_zh": "Who Is Vfmaddrnd231pd?",
-      "summary_zh": "Who Is Vfmaddrnd231pd?"
+      "title_zh": "Who is vfmaddrnd231pd?",
+      "summary_zh": "Who is vfmaddrnd231pd?"
     },
     {
       "title": "Writing a Demoscene Intro for the ZX Spectrum",
@@ -124,7 +300,7 @@
       "tags": [
         "ai"
       ],
-      "score": "66",
+      "score": "159",
       "item_id": "hn:50061859",
       "summary_type": "extractive",
       "title_zh": "Writing a Demoscene Intro for the ZX Spectrum",
@@ -140,7 +316,7 @@
       "tags": [
         "ai"
       ],
-      "score": "69",
+      "score": "245",
       "item_id": "hn:50061791",
       "summary_type": "extractive",
       "title_zh": "Making big downloads resumable in Firefox",
@@ -156,43 +332,11 @@
       "tags": [
         "ai"
       ],
-      "score": "431",
+      "score": "581",
       "item_id": "hn:50060694",
       "summary_type": "extractive",
       "title_zh": "Codex CLI installs a persistent, self-updating background daemon by default",
       "summary_zh": "Codex CLI installs a persistent, self-updating background daemon by default"
-    },
-    {
-      "title": "Thinking will become a hobby",
-      "summary": "Thinking will become a hobby",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.spinellis.gr/blog/20261008/?li261008",
-      "published_at": "2026-10-12T16:54:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "211",
-      "item_id": "hn:50059204",
-      "summary_type": "extractive",
-      "title_zh": "Thinking will become a hobby",
-      "summary_zh": "Thinking will become a hobby"
-    },
-    {
-      "title": "Muse Wonder",
-      "summary": "Muse Wonder",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://research.meta.ai/blog/muse-wonder",
-      "published_at": "2026-10-12T16:48:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "507",
-      "item_id": "hn:50059115",
-      "summary_type": "extractive",
-      "title_zh": "Muse Wonder",
-      "summary_zh": "Muse Wonder"
     },
     {
       "title": "A Modern Web App in C",
@@ -204,7 +348,7 @@
       "tags": [
         "ai"
       ],
-      "score": "364",
+      "score": "636",
       "item_id": "hn:50058528",
       "summary_type": "extractive",
       "title_zh": "A Modern Web App in C",
@@ -220,7 +364,7 @@
       "tags": [
         "ai"
       ],
-      "score": "408",
+      "score": "618",
       "item_id": "hn:50058507",
       "summary_type": "extractive",
       "title_zh": "GLM-Legal",
@@ -236,7 +380,7 @@
       "tags": [
         "ai"
       ],
-      "score": "123",
+      "score": "202",
       "item_id": "hn:50057668",
       "summary_type": "extractive",
       "title_zh": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
@@ -252,7 +396,7 @@
       "tags": [
         "ai"
       ],
-      "score": "97",
+      "score": "224",
       "item_id": "hn:50056822",
       "summary_type": "extractive",
       "title_zh": "Solar panels that plug into your wall",
@@ -268,27 +412,11 @@
       "tags": [
         "ai"
       ],
-      "score": "246",
+      "score": "384",
       "item_id": "hn:50055593",
       "summary_type": "extractive",
       "title_zh": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
       "summary_zh": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver"
-    },
-    {
-      "title": "(Post-Quantum) Cryptographic Right Answers",
-      "summary": "(Post-Quantum) Cryptographic Right Answers",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://words.filippo.io/right-answers/",
-      "published_at": "2026-10-12T12:26:32+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "84",
-      "item_id": "hn:50055409",
-      "summary_type": "extractive",
-      "title_zh": "(Post-Quantum) Cryptographic Right Answers",
-      "summary_zh": "(Post-Quantum) Cryptographic Right Answers"
     },
     {
       "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
@@ -300,7 +428,7 @@
       "tags": [
         "ai"
       ],
-      "score": "409",
+      "score": "792",
       "item_id": "hn:50055304",
       "summary_type": "extractive",
       "title_zh": "Hackers activate automatic defrosting in supermarket fridges across Europe",
@@ -316,107 +444,11 @@
       "tags": [
         "ai"
       ],
-      "score": "249",
+      "score": "378",
       "item_id": "hn:50055220",
       "summary_type": "extractive",
       "title_zh": "Citroen revives the 2CV for an electric age",
       "summary_zh": "Citroen revives the 2CV for an electric age"
-    },
-    {
-      "title": "QGIS enacts moratorium on AI contributions",
-      "summary": "https:&#x2F;&#x2F;lists.osgeo.org&#x2F;pipermail&#x2F;qgis-developer&#x2F;2026-Septem...",
-      "full_text": "https:&#x2F;&#x2F;lists.osgeo.org&#x2F;pipermail&#x2F;qgis-developer&#x2F;2026-Septem...",
-      "source": "hacker news",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "published_at": "2026-10-12T11:22:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "363",
-      "item_id": "hn:50054751",
-      "summary_type": "extractive",
-      "title_zh": "QGIS enacts moratorium on AI contributions",
-      "summary_zh": "https:&#x2F;&#x2F;lists.osgeo.org&#x2F;pipermail&#x2F;qgis-developer&#x2F;2026-Septem..."
-    },
-    {
-      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
-      "summary": "I Found a $90k Remote Code Execution Vulnerability in Google",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-      "published_at": "2026-10-12T07:28:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "180",
-      "item_id": "hn:50052638",
-      "summary_type": "extractive",
-      "title_zh": "I Found a $90k Remote Code Execution Vulnerability in Google",
-      "summary_zh": "I Found a $90k Remote Code Execution Vulnerability in Google"
-    },
-    {
-      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "summary": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/snuri00/ps2-web-recomp",
-      "published_at": "2026-10-12T06:46:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "263",
-      "item_id": "hn:50052251",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "summary_zh": "Show HN: PS2 games statically recompiled to WebAssembly"
-    },
-    {
-      "title": "Type-safe HTML templating in Zig",
-      "summary": "Type-safe HTML templating in Zig",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-      "published_at": "2026-10-12T05:02:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "237",
-      "item_id": "hn:50051573",
-      "summary_type": "extractive",
-      "title_zh": "Type-safe HTML templating in Zig",
-      "summary_zh": "Type-safe HTML templating in Zig"
-    },
-    {
-      "title": "America's Longest Highway Tunnel (2025)",
-      "summary": "America's Longest Highway Tunnel (2025)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.thetravel.com/americas-longest-highway-tunnel-not-for-faint-of-heart/",
-      "published_at": "2026-10-11T19:12:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "8",
-      "item_id": "hn:50046745",
-      "summary_type": "extractive",
-      "title_zh": "America's Longest Highway Tunnel (2025)",
-      "summary_zh": "America's Longest Highway Tunnel (2025)"
-    },
-    {
-      "title": "Terence Tao: Math 2.0 [pdf]",
-      "summary": "Terence Tao: Math 2.0 [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "published_at": "2026-10-11T13:16:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "521",
-      "item_id": "hn:50043026",
-      "summary_type": "extractive",
-      "title_zh": "Terence Tao: Math 2.0 [pdf]",
-      "summary_zh": "Terence Tao: Math 2.0 [pdf]"
     },
     {
       "title": "The baffling intelligence of a single cell (2024)",
@@ -428,27 +460,11 @@
       "tags": [
         "ai"
       ],
-      "score": "14",
+      "score": "343",
       "item_id": "hn:50041866",
       "summary_type": "extractive",
       "title_zh": "The baffling intelligence of a single cell (2024)",
       "summary_zh": "The baffling intelligence of a single cell (2024)"
-    },
-    {
-      "title": "Secret of Orange Cats Revealed After 60-Year Search",
-      "summary": "Secret of Orange Cats Revealed After 60-Year Search",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
-      "published_at": "2026-10-10T22:10:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "219",
-      "item_id": "hn:50037711",
-      "summary_type": "extractive",
-      "title_zh": "Secret of Orange Cats Revealed After 60-Year Search",
-      "summary_zh": "Secret of Orange Cats Revealed After 60-Year Search"
     },
     {
       "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
@@ -460,27 +476,11 @@
       "tags": [
         "ai"
       ],
-      "score": "214",
+      "score": "265",
       "item_id": "hn:50036287",
       "summary_type": "extractive",
       "title_zh": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
       "summary_zh": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)"
-    },
-    {
-      "title": "No portable way to detect string-to-float conversion errors in standard C",
-      "summary": "No portable way to detect string-to-float conversion errors in standard C",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://sebsite.pw/w/20261009-strtod.html",
-      "published_at": "2026-10-10T15:39:30+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "66",
-      "item_id": "hn:50034001",
-      "summary_type": "extractive",
-      "title_zh": "No portable way to detect string-to-float conversion errors in standard C",
-      "summary_zh": "No portable way to detect string-to-float conversion errors in standard C"
     },
     {
       "title": "Can Language Models Play the Wikipedia Game?",
@@ -490,9 +490,9 @@
       "url": "http://arxiv.org/abs/2610.13948v1",
       "published_at": "2026-10-09T17:59:56Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13948v1",
@@ -508,8 +508,8 @@
       "url": "http://arxiv.org/abs/2610.13935v1",
       "published_at": "2026-10-09T17:56:59Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13935v1",
@@ -558,10 +558,10 @@
       "url": "http://arxiv.org/abs/2610.13889v1",
       "published_at": "2026-10-09T17:38:11Z",
       "tags": [
+        "llm",
         "paper",
-        "tool",
         "agent",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13889v1",
@@ -577,10 +577,10 @@
       "url": "http://arxiv.org/abs/2610.13886v1",
       "published_at": "2026-10-09T17:34:44Z",
       "tags": [
+        "llm",
         "paper",
-        "tool",
         "agent",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13886v1",
@@ -596,9 +596,9 @@
       "url": "http://arxiv.org/abs/2610.13840v1",
       "published_at": "2026-10-09T16:49:29Z",
       "tags": [
-        "tool",
+        "vision",
         "paper",
-        "vision"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13840v1",
@@ -614,10 +614,10 @@
       "url": "http://arxiv.org/abs/2610.13832v1",
       "published_at": "2026-10-09T16:39:50Z",
       "tags": [
-        "tool",
-        "paper",
+        "llm",
         "vision",
-        "llm"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13832v1",
@@ -667,8 +667,8 @@
       "url": "http://arxiv.org/abs/2610.13806v1",
       "published_at": "2026-10-09T16:18:39Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13806v1",
@@ -684,8 +684,8 @@
       "url": "http://arxiv.org/abs/2610.13786v1",
       "published_at": "2026-10-09T16:04:06Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13786v1",
@@ -701,8 +701,8 @@
       "url": "http://arxiv.org/abs/2610.13783v1",
       "published_at": "2026-10-09T16:03:27Z",
       "tags": [
-        "paper",
         "vision",
+        "paper",
         "llm"
       ],
       "score": "📄",
@@ -736,9 +736,9 @@
       "url": "http://arxiv.org/abs/2610.13767v1",
       "published_at": "2026-10-09T15:51:38Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13767v1",
@@ -754,8 +754,8 @@
       "url": "http://arxiv.org/abs/2610.13765v1",
       "published_at": "2026-10-09T15:50:48Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13765v1",
@@ -807,8 +807,8 @@
       "published_at": "2026-10-09T15:32:06Z",
       "tags": [
         "paper",
-        "tool",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13737v1",

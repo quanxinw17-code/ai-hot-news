@@ -1,7 +1,279 @@
 {
-  "updated_at": "2026-10-13T14:01:44.343613+00:00",
+  "updated_at": "2026-10-13T22:33:46.935599+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout and turn to open source",
+      "summary": "Dutch tax authorities cancel Microsoft 365 cloud rollout and turn to open source",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
+      "published_at": "2026-10-13T21:01:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "20",
+      "item_id": "hn:50078691",
+      "summary_type": "extractive",
+      "title_zh": "Dutch tax authorities cancel Microsoft 365 cloud rollout and turn to open source",
+      "summary_zh": "Dutch tax authorities cancel Microsoft 365 cloud rollout and turn to open source"
+    },
+    {
+      "title": "Trezor Wallets Also Compromised with Implants",
+      "summary": "Trezor Wallets Also Compromised with Implants",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.zetter-zeroday.com/trezor-wallets-also-compromised-with-implants/",
+      "published_at": "2026-10-13T20:42:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:50078423",
+      "summary_type": "extractive",
+      "title_zh": "Trezor Wallets Also Compromised with Implants",
+      "summary_zh": "Trezor Wallets Also Compromised with Implants"
+    },
+    {
+      "title": "Indra OCR: a 1M-parameter OCR model that reads 49 pages per second on CPU",
+      "summary": "Indra OCR: a 1M-parameter OCR model that reads 49 pages per second on CPU",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.datalab.to/blog/indra-ocr",
+      "published_at": "2026-10-13T19:21:25+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "27",
+      "item_id": "hn:50077166",
+      "summary_type": "extractive",
+      "title_zh": "Indra OCR: a 1M-parameter OCR model that reads 49 pages per second on CPU",
+      "summary_zh": "Indra OCR: a 1M-parameter OCR model that reads 49 pages per second on CPU"
+    },
+    {
+      "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+      "summary": "https:&#x2F;&#x2F;celebratio.org&#x2F;Appel_KI&#x2F;article&#x2F;796&#x2F;#sender",
+      "full_text": "https:&#x2F;&#x2F;celebratio.org&#x2F;Appel_KI&#x2F;article&#x2F;796&#x2F;#sender",
+      "source": "hacker news",
+      "url": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
+      "published_at": "2026-10-13T19:17:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:50077096",
+      "summary_type": "extractive",
+      "title_zh": "The Four Colour Theorem: The first time machines mogged mathematicians",
+      "summary_zh": "https:&#x2F;&#x2F;celebratio.org&#x2F;Appel_KI&#x2F;article&#x2F;796&#x2F;#sender"
+    },
+    {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "summary": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners.",
+      "full_text": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners. No signup or download.1 minute video demo: https:&#x2F;&#x2F;youtu.be&#x2F;DtcluMLdSgsI would love feedback on how the strumming feels and sounds.",
+      "source": "hacker news",
+      "url": "https://guitoro.com/",
+      "published_at": "2026-10-13T19:11:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "160",
+      "item_id": "hn:50077020",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "summary_zh": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners."
+    },
+    {
+      "title": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
+      "summary": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
+      "published_at": "2026-10-13T18:37:45+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "24",
+      "item_id": "hn:50076503",
+      "summary_type": "extractive",
+      "title_zh": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
+      "summary_zh": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain"
+    },
+    {
+      "title": "Show HN: XY Music Notation",
+      "summary": "I&#x27;ve been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it.The idea is to represent each note in 12-TET as a number, so  N ∈ (0,1,2,3,4,5,6,7,8,9,X,Y).I used codex to build a music score rendering backend based on MuseScore with custom note heads that display the pitch class of each note.I&#x27;ve found it pretty helpful for learning how to play my own instrument, so wanted to share in case a",
+      "full_text": "I&#x27;ve been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it.The idea is to represent each note in 12-TET as a number, so  N ∈ (0,1,2,3,4,5,6,7,8,9,X,Y).I used codex to build a music score rendering backend based on MuseScore with custom note heads that display the pitch class of each note.I&#x27;ve found it pretty helpful for learning how to play my own instrument, so wanted to share in case a",
+      "source": "hacker news",
+      "url": "https://music.xy.dev/",
+      "published_at": "2026-10-13T17:43:05+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "39",
+      "item_id": "hn:50075665",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: XY Music Notation",
+      "summary_zh": "I&#x27;ve been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it.The idea is to represent each note in 12-TET as a number, so  N ∈ (0,1,2,3,4,5,6,7,8,9,X,Y).I used codex to build a music score rendering backend based on MuseScore with custom note heads that display the pitch class of each note.I&#x27;ve found it pretty helpful for learning how to play my own instrument, so wanted to share in case a"
+    },
+    {
+      "title": "Show HN: How Random Are You?",
+      "summary": "Show HN: How Random Are You?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://lab.specr.net/rigged-draw/",
+      "published_at": "2026-10-13T16:57:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "62",
+      "item_id": "hn:50074909",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: How Random Are You?",
+      "summary_zh": "Show HN: How Random Are You?"
+    },
+    {
+      "title": "Yet another catalogue of fast matrix multiplication algorithms",
+      "summary": "Yet another catalogue of fast matrix multiplication algorithms",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://fmm.univ-lille.fr",
+      "published_at": "2026-10-13T16:26:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "12",
+      "item_id": "hn:50074325",
+      "summary_type": "extractive",
+      "title_zh": "Yet another catalogue of fast matrix multiplication algorithms",
+      "summary_zh": "Yet another catalogue of fast matrix multiplication algorithms"
+    },
+    {
+      "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
+      "summary": "Cyberattack halts construction of tunnel between Denmark and Germany",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
+      "published_at": "2026-10-13T16:24:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "143",
+      "item_id": "hn:50074289",
+      "summary_type": "extractive",
+      "title_zh": "Cyberattack halts construction of tunnel between Denmark and Germany",
+      "summary_zh": "Cyberattack halts construction of tunnel between Denmark and Germany"
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "summary": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "published_at": "2026-10-13T15:25:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "212",
+      "item_id": "hn:50073221",
+      "summary_type": "extractive",
+      "title_zh": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "summary_zh": "I posted to HN, and then my website was flooded with AI bot traffic"
+    },
+    {
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "summary": "The United Kingdom generates less electricity per person than in the 1970s",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "published_at": "2026-10-13T15:12:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "149",
+      "item_id": "hn:50072994",
+      "summary_type": "extractive",
+      "title_zh": "The United Kingdom generates less electricity per person than in the 1970s",
+      "summary_zh": "The United Kingdom generates less electricity per person than in the 1970s"
+    },
+    {
+      "title": "Thunderbird for iOS",
+      "summary": "Thunderbird for iOS",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "published_at": "2026-10-13T15:07:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "285",
+      "item_id": "hn:50072913",
+      "summary_type": "extractive",
+      "title_zh": "Thunderbird for iOS",
+      "summary_zh": "Thunderbird for iOS"
+    },
+    {
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "summary": "https:&#x2F;&#x2F;www.apple.com&#x2F;safari&#x2F;switch&#x2F;",
+      "full_text": "https:&#x2F;&#x2F;www.apple.com&#x2F;safari&#x2F;switch&#x2F;",
+      "source": "hacker news",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "published_at": "2026-10-13T14:26:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "144",
+      "item_id": "hn:50072286",
+      "summary_type": "extractive",
+      "title_zh": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "summary_zh": "https:&#x2F;&#x2F;www.apple.com&#x2F;safari&#x2F;switch&#x2F;"
+    },
+    {
+      "title": "How to engineer an AI harness for game development",
+      "summary": "How to engineer an AI harness for game development",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "published_at": "2026-10-13T14:14:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "106",
+      "item_id": "hn:50072120",
+      "summary_type": "extractive",
+      "title_zh": "How to engineer an AI harness for game development",
+      "summary_zh": "How to engineer an AI harness for game development"
+    },
+    {
+      "title": "New Apple TV 4K",
+      "summary": "New Apple TV 4K",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "published_at": "2026-10-13T13:21:35+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "255",
+      "item_id": "hn:50071310",
+      "summary_type": "extractive",
+      "title_zh": "New Apple TV 4K",
+      "summary_zh": "New Apple TV 4K"
+    },
+    {
+      "title": "Show HN: Stream live open data in two commands",
+      "summary": "A service and open source tool to get open data streams in two commands. No sign up needed for subscribing.Streams to try:- https:&#x2F;&#x2F;hypermass.io&#x2F;stream&#x2F;_J0fm450s - extreme UV images of the sun from SOHO - visual data- https:&#x2F;&#x2F;hypermass.io&#x2F;stream&#x2F;_ATtCoEK - GDACS live disaster data (filtered to just the ongoing items)The CLI (Apache 2.0, https:&#x2F;&#x2F;github.com&#x2F;hypermass-io&#x2F;hypermass-cli) tool allows you to subscribe to multiple live streams ",
+      "full_text": "A service and open source tool to get open data streams in two commands. No sign up needed for subscribing.Streams to try:- https:&#x2F;&#x2F;hypermass.io&#x2F;stream&#x2F;_J0fm450s - extreme UV images of the sun from SOHO - visual data- https:&#x2F;&#x2F;hypermass.io&#x2F;stream&#x2F;_ATtCoEK - GDACS live disaster data (filtered to just the ongoing items)The CLI (Apache 2.0, https:&#x2F;&#x2F;github.com&#x2F;hypermass-io&#x2F;hypermass-cli) tool allows you to subscribe to multiple live streams ",
+      "source": "hacker news",
+      "url": "https://docs.hypermass.io/docs/cli/",
+      "published_at": "2026-10-13T13:14:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "8",
+      "item_id": "hn:50071200",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Stream live open data in two commands",
+      "summary_zh": "A service and open source tool to get open data streams in two commands. No sign up needed for subscribing.Streams to try:- https:&#x2F;&#x2F;hypermass.io&#x2F;stream&#x2F;_J0fm450s - extreme UV images of the sun from SOHO - visual data- https:&#x2F;&#x2F;hypermass.io&#x2F;stream&#x2F;_ATtCoEK - GDACS live disaster data (filtered to just the ongoing items)The CLI (Apache 2.0, https:&#x2F;&#x2F;github.com&#x2F;hypermass-io&#x2F;hypermass-cli) tool allows you to subscribe to multiple live streams "
+    },
     {
       "title": "Apple HomeView",
       "summary": "Apple HomeView",
@@ -12,15 +284,15 @@
       "tags": [
         "ai"
       ],
-      "score": "115",
+      "score": "608",
       "item_id": "hn:50071017",
       "summary_type": "extractive",
       "title_zh": "Apple HomeView",
       "summary_zh": "Apple HomeView"
     },
     {
-      "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
-      "summary": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "summary": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
       "full_text": "",
       "source": "hacker news",
       "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
@@ -28,15 +300,31 @@
       "tags": [
         "ai"
       ],
-      "score": "66",
+      "score": "211",
       "item_id": "hn:50070593",
       "summary_type": "extractive",
-      "title_zh": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
-      "summary_zh": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs"
+      "title_zh": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "summary_zh": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices"
     },
     {
-      "title": "Mozilla Introduces Firefox Enterprise",
-      "summary": "Mozilla Introduces Firefox Enterprise",
+      "title": "Worlds more habitable than Earth?",
+      "summary": "https:&#x2F;&#x2F;archive.is&#x2F;yIYpb",
+      "full_text": "https:&#x2F;&#x2F;archive.is&#x2F;yIYpb",
+      "source": "hacker news",
+      "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+      "published_at": "2026-10-13T12:23:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "71",
+      "item_id": "hn:50070554",
+      "summary_type": "extractive",
+      "title_zh": "Worlds more habitable than Earth?",
+      "summary_zh": "https:&#x2F;&#x2F;archive.is&#x2F;yIYpb"
+    },
+    {
+      "title": "Firefox Enterprise",
+      "summary": "Firefox Enterprise",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.firefox.com/en-US/enterprise/",
@@ -44,43 +332,11 @@
       "tags": [
         "ai"
       ],
-      "score": "168",
+      "score": "584",
       "item_id": "hn:50070302",
       "summary_type": "extractive",
-      "title_zh": "Mozilla Introduces Firefox Enterprise",
-      "summary_zh": "Mozilla Introduces Firefox Enterprise"
-    },
-    {
-      "title": "An hour of audio transcribed in about 13s on MacBook Air",
-      "summary": "An hour of audio transcribed in about 13s on MacBook Air",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://eg2.haku.sh/",
-      "published_at": "2026-10-13T11:27:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "179",
-      "item_id": "hn:50069971",
-      "summary_type": "extractive",
-      "title_zh": "An hour of audio transcribed in about 13s on MacBook Air",
-      "summary_zh": "An hour of audio transcribed in about 13s on MacBook Air"
-    },
-    {
-      "title": "Character.ai Files for Bankruptcy",
-      "summary": "Character.ai Files for Bankruptcy",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "published_at": "2026-10-13T11:24:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "109",
-      "item_id": "hn:50069942",
-      "summary_type": "extractive",
-      "title_zh": "Character.ai Files for Bankruptcy",
-      "summary_zh": "Character.ai Files for Bankruptcy"
+      "title_zh": "Firefox Enterprise",
+      "summary_zh": "Firefox Enterprise"
     },
     {
       "title": "11 year old unsoundness bugs found in Rust borrow checker",
@@ -92,91 +348,59 @@
       "tags": [
         "ai"
       ],
-      "score": "354",
+      "score": "636",
       "item_id": "hn:50069499",
       "summary_type": "extractive",
       "title_zh": "11 year old unsoundness bugs found in Rust borrow checker",
       "summary_zh": "11 year old unsoundness bugs found in Rust borrow checker"
     },
     {
-      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-      "summary": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "title": "AWS Lambda Web Functions",
+      "summary": "AWS Lambda Web Functions",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
-      "published_at": "2026-10-13T10:08:00+00:00",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "published_at": "2026-10-13T10:07:03+00:00",
       "tags": [
         "ai"
       ],
-      "score": "227",
-      "item_id": "hn:50069329",
+      "score": "100",
+      "item_id": "hn:50069318",
       "summary_type": "extractive",
-      "title_zh": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-      "summary_zh": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades"
+      "title_zh": "AWS Lambda Web Functions",
+      "summary_zh": "AWS Lambda Web Functions"
     },
     {
-      "title": "Crypto thieves sell hardware wallets with secret eSIM",
-      "summary": "Crypto thieves sell hardware wallets with secret eSIM",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
-      "published_at": "2026-10-13T08:34:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "95",
-      "item_id": "hn:50068508",
-      "summary_type": "extractive",
-      "title_zh": "Crypto thieves sell hardware wallets with secret eSIM",
-      "summary_zh": "Crypto thieves sell hardware wallets with secret eSIM"
-    },
-    {
-      "title": "Document Review with Unsiloed and TypeSafe Jev",
-      "summary": "Document Review with Unsiloed and TypeSafe Jev",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
-      "published_at": "2026-10-13T08:24:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "30",
-      "item_id": "hn:50068443",
-      "summary_type": "extractive",
-      "title_zh": "Document Review with Unsiloed and TypeSafe Jev",
-      "summary_zh": "Document Review with Unsiloed and TypeSafe Jev"
-    },
-    {
-      "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
-      "summary": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/composo-ai/DishwasherBench",
-      "published_at": "2026-10-13T08:24:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "73",
-      "item_id": "hn:50068437",
-      "summary_type": "extractive",
-      "title_zh": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
-      "summary_zh": "DishwasherBench – Can Frontier Models Stack a Dishwasher?"
-    },
-    {
-      "title": "Character.ai files for Chapter 11 bankruptcy",
-      "summary": "Character.ai files for Chapter 11 bankruptcy",
-      "full_text": "",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "summary": "https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1009802&#x2F;... https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;10&#x2F;13&#x2F;just-5-years-in-interactiv... https:&#x2F;&#x2F;www.reuters.com&#x2F;legal&#x2F;litigation&#x2F;characterai-files-b...",
+      "full_text": "https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1009802&#x2F;... https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;10&#x2F;13&#x2F;just-5-years-in-interactiv... https:&#x2F;&#x2F;www.reuters.com&#x2F;legal&#x2F;litigation&#x2F;characterai-files-b... https:&#x2F;&#x2F;variety.com&#x2F;2026&#x2F;biz&#x2F;news&#x2F;disney-bids-on-character-a...",
       "source": "hacker news",
       "url": "https://blog.character.ai/an-update-on-character-ai/",
       "published_at": "2026-10-13T07:28:34+00:00",
       "tags": [
         "ai"
       ],
-      "score": "52",
+      "score": "258",
       "item_id": "hn:50068036",
       "summary_type": "extractive",
-      "title_zh": "Character.ai files for Chapter 11 bankruptcy",
-      "summary_zh": "Character.ai files for Chapter 11 bankruptcy"
+      "title_zh": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "summary_zh": "https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1009802&#x2F;... https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;10&#x2F;13&#x2F;just-5-years-in-interactiv... https:&#x2F;&#x2F;www.reuters.com&#x2F;legal&#x2F;litigation&#x2F;characterai-files-b..."
+    },
+    {
+      "title": "Maybe a better way to track the release history of a Git repo",
+      "summary": "Maybe a better way to track the release history of a Git repo",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.plover.com/prog/git/history-proposal.html",
+      "published_at": "2026-10-13T06:47:42+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "12",
+      "item_id": "hn:50067721",
+      "summary_type": "extractive",
+      "title_zh": "Maybe a better way to track the release history of a Git repo",
+      "summary_zh": "Maybe a better way to track the release history of a Git repo"
     },
     {
       "title": "Hittite royal archive found in Turkey",
@@ -188,299 +412,75 @@
       "tags": [
         "ai"
       ],
-      "score": "184",
+      "score": "328",
       "item_id": "hn:50067414",
       "summary_type": "extractive",
       "title_zh": "Hittite royal archive found in Turkey",
       "summary_zh": "Hittite royal archive found in Turkey"
     },
     {
-      "title": "AI models can provably hide arbitrary capabilities",
-      "summary": "AI models can provably hide arbitrary capabilities",
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "summary": "MIT class project turns into an FDA-cleared treatment for tremors",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "published_at": "2026-10-13T02:07:08+00:00",
+      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "published_at": "2026-10-12T19:28:48+00:00",
       "tags": [
         "ai"
       ],
-      "score": "245",
-      "item_id": "hn:50065692",
+      "score": "111",
+      "item_id": "hn:50061659",
       "summary_type": "extractive",
-      "title_zh": "AI models can provably hide arbitrary capabilities",
-      "summary_zh": "AI models can provably hide arbitrary capabilities"
+      "title_zh": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "summary_zh": "MIT class project turns into an FDA-cleared treatment for tremors"
     },
     {
-      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
-      "summary": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "title": "Hiking the world in search of rare cheeses",
+      "summary": "Hiking the world in search of rare cheeses",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/bherbruck/solidcraft",
-      "published_at": "2026-10-13T00:11:04+00:00",
+      "url": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
+      "published_at": "2026-10-12T17:15:13+00:00",
       "tags": [
         "ai"
       ],
-      "score": "96",
-      "item_id": "hn:50064840",
+      "score": "31",
+      "item_id": "hn:50059542",
       "summary_type": "extractive",
-      "title_zh": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
-      "summary_zh": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)"
+      "title_zh": "Hiking the world in search of rare cheeses",
+      "summary_zh": "Hiking the world in search of rare cheeses"
     },
     {
-      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
-      "summary": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "title": "IDRs as Records of Intent",
+      "summary": "IDRs as Records of Intent",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/andrewfader/blokkily",
-      "published_at": "2026-10-12T23:21:12+00:00",
+      "url": "https://wrla.ch/log/2026/10/idrs-as-records-of-intent/",
+      "published_at": "2026-10-12T16:20:26+00:00",
       "tags": [
         "ai"
       ],
-      "score": "79",
-      "item_id": "hn:50064438",
+      "score": "9",
+      "item_id": "hn:50058649",
       "summary_type": "extractive",
-      "title_zh": "Show HN: An experimental pattern-first DAW that supports MCP",
-      "summary_zh": "Show HN: An experimental pattern-first DAW that supports MCP"
+      "title_zh": "IDRs as Records of Intent",
+      "summary_zh": "IDRs as Records of Intent"
     },
     {
-      "title": "Phreak.ing – Internet Phone Switch",
-      "summary": "Phreak.ing – Internet Phone Switch",
-      "full_text": "",
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "summary": "https:&#x2F;&#x2F;www.heise.de&#x2F;en&#x2F;news&#x2F;Crypto-thieves-sell-hardware-wa...https:&#x2F;&#x2F;crypto.news&#x2F;ledger-confirms-hidden-chip-in-crypto-wa...https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8JnHdr30v4ghttps:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Nf4FEFlgv3Qhttps:&#x2F;&#x2F;www.tibane.net&#x2F;research&#x2F;ledger-nano-x-implant",
+      "full_text": "https:&#x2F;&#x2F;www.heise.de&#x2F;en&#x2F;news&#x2F;Crypto-thieves-sell-hardware-wa...https:&#x2F;&#x2F;crypto.news&#x2F;ledger-confirms-hidden-chip-in-crypto-wa...https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8JnHdr30v4ghttps:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Nf4FEFlgv3Qhttps:&#x2F;&#x2F;www.tibane.net&#x2F;research&#x2F;ledger-nano-x-implant",
       "source": "hacker news",
-      "url": "https://phreak.ing/",
-      "published_at": "2026-10-12T21:39:32+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "published_at": "2026-10-12T10:09:37+00:00",
       "tags": [
         "ai"
       ],
-      "score": "143",
-      "item_id": "hn:50063417",
+      "score": "314",
+      "item_id": "hn:50054092",
       "summary_type": "extractive",
-      "title_zh": "Phreak.ing – Internet Phone Switch",
-      "summary_zh": "Phreak.ing – Internet Phone Switch"
-    },
-    {
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "summary": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "published_at": "2026-10-12T21:35:35+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "270",
-      "item_id": "hn:50063365",
-      "summary_type": "extractive",
-      "title_zh": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "summary_zh": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X"
-    },
-    {
-      "title": "Who is vfmaddrnd231pd?",
-      "summary": "Who is vfmaddrnd231pd?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "published_at": "2026-10-12T21:12:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "233",
-      "item_id": "hn:50063138",
-      "summary_type": "extractive",
-      "title_zh": "Who is vfmaddrnd231pd?",
-      "summary_zh": "Who is vfmaddrnd231pd?"
-    },
-    {
-      "title": "Writing a Demoscene Intro for the ZX Spectrum",
-      "summary": "Writing a Demoscene Intro for the ZX Spectrum",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
-      "published_at": "2026-10-12T19:40:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "159",
-      "item_id": "hn:50061859",
-      "summary_type": "extractive",
-      "title_zh": "Writing a Demoscene Intro for the ZX Spectrum",
-      "summary_zh": "Writing a Demoscene Intro for the ZX Spectrum"
-    },
-    {
-      "title": "Making big downloads resumable in Firefox",
-      "summary": "Making big downloads resumable in Firefox",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-      "published_at": "2026-10-12T19:36:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "245",
-      "item_id": "hn:50061791",
-      "summary_type": "extractive",
-      "title_zh": "Making big downloads resumable in Firefox",
-      "summary_zh": "Making big downloads resumable in Firefox"
-    },
-    {
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "summary": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/openai/codex/issues/48195",
-      "published_at": "2026-10-12T18:29:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "581",
-      "item_id": "hn:50060694",
-      "summary_type": "extractive",
-      "title_zh": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "summary_zh": "Codex CLI installs a persistent, self-updating background daemon by default"
-    },
-    {
-      "title": "A Modern Web App in C",
-      "summary": "A Modern Web App in C",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "published_at": "2026-10-12T16:13:10+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "636",
-      "item_id": "hn:50058528",
-      "summary_type": "extractive",
-      "title_zh": "A Modern Web App in C",
-      "summary_zh": "A Modern Web App in C"
-    },
-    {
-      "title": "GLM-Legal",
-      "summary": "GLM-Legal",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://z.ai/blog/glm-legal",
-      "published_at": "2026-10-12T16:11:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "618",
-      "item_id": "hn:50058507",
-      "summary_type": "extractive",
-      "title_zh": "GLM-Legal",
-      "summary_zh": "GLM-Legal"
-    },
-    {
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "summary": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://taylor.town/kk-ai-2026",
-      "published_at": "2026-10-12T15:16:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "202",
-      "item_id": "hn:50057668",
-      "summary_type": "extractive",
-      "title_zh": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "summary_zh": "Kevin Kelly's 2016 AI Predictions, 10 Years Later"
-    },
-    {
-      "title": "Solar panels that plug into your wall",
-      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;NEPz3",
-      "full_text": "https:&#x2F;&#x2F;archive.ph&#x2F;NEPz3",
-      "source": "hacker news",
-      "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
-      "published_at": "2026-10-12T14:19:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "224",
-      "item_id": "hn:50056822",
-      "summary_type": "extractive",
-      "title_zh": "Solar panels that plug into your wall",
-      "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;NEPz3"
-    },
-    {
-      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-      "summary": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/h0m3us3r/w1700k-sdr",
-      "published_at": "2026-10-12T12:41:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "384",
-      "item_id": "hn:50055593",
-      "summary_type": "extractive",
-      "title_zh": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-      "summary_zh": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver"
-    },
-    {
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "summary": "https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supe..., https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;crq5nzxv9q4yo, https:&#x2F;&#x2F;www.lemonde.fr&#x2F;en&#x2F;france&#x2F;article&#x2F;2026&#x2F;10&#x2F;12&#x2F;french-s...Related:https:&#x2F;&#x2F;www.claroty.com&#x2F;team82&#x2F;research&#x2F;freeze-the-controlle...I think the military commissary&#x27;s freezers were hacked - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49508506 - Aug 202",
-      "full_text": "https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supe..., https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;crq5nzxv9q4yo, https:&#x2F;&#x2F;www.lemonde.fr&#x2F;en&#x2F;france&#x2F;article&#x2F;2026&#x2F;10&#x2F;12&#x2F;french-s...Related:https:&#x2F;&#x2F;www.claroty.com&#x2F;team82&#x2F;research&#x2F;freeze-the-controlle...I think the military commissary&#x27;s freezers were hacked - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49508506 - Aug 202",
-      "source": "hacker news",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "published_at": "2026-10-12T12:16:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "792",
-      "item_id": "hn:50055304",
-      "summary_type": "extractive",
-      "title_zh": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "summary_zh": "https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supe..., https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;crq5nzxv9q4yo, https:&#x2F;&#x2F;www.lemonde.fr&#x2F;en&#x2F;france&#x2F;article&#x2F;2026&#x2F;10&#x2F;12&#x2F;french-s...Related:https:&#x2F;&#x2F;www.claroty.com&#x2F;team82&#x2F;research&#x2F;freeze-the-controlle...I think the military commissary&#x27;s freezers were hacked - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49508506 - Aug 202"
-    },
-    {
-      "title": "Citroen revives the 2CV for an electric age",
-      "summary": "Citroen revives the 2CV for an electric age",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
-      "published_at": "2026-10-12T12:09:09+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "378",
-      "item_id": "hn:50055220",
-      "summary_type": "extractive",
-      "title_zh": "Citroen revives the 2CV for an electric age",
-      "summary_zh": "Citroen revives the 2CV for an electric age"
-    },
-    {
-      "title": "The baffling intelligence of a single cell (2024)",
-      "summary": "The baffling intelligence of a single cell (2024)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://jsomers.net/e-coli-chemotaxis/",
-      "published_at": "2026-10-11T11:02:30+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "343",
-      "item_id": "hn:50041866",
-      "summary_type": "extractive",
-      "title_zh": "The baffling intelligence of a single cell (2024)",
-      "summary_zh": "The baffling intelligence of a single cell (2024)"
-    },
-    {
-      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
-      "summary": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
-      "published_at": "2026-10-10T19:28:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "265",
-      "item_id": "hn:50036287",
-      "summary_type": "extractive",
-      "title_zh": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
-      "summary_zh": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)"
+      "title_zh": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "summary_zh": "https:&#x2F;&#x2F;www.heise.de&#x2F;en&#x2F;news&#x2F;Crypto-thieves-sell-hardware-wa...https:&#x2F;&#x2F;crypto.news&#x2F;ledger-confirms-hidden-chip-in-crypto-wa...https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8JnHdr30v4ghttps:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Nf4FEFlgv3Qhttps:&#x2F;&#x2F;www.tibane.net&#x2F;research&#x2F;ledger-nano-x-implant"
     },
     {
       "title": "Can Language Models Play the Wikipedia Game?",
@@ -491,8 +491,8 @@
       "published_at": "2026-10-09T17:59:56Z",
       "tags": [
         "llm",
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13948v1",
@@ -508,8 +508,8 @@
       "url": "http://arxiv.org/abs/2610.13935v1",
       "published_at": "2026-10-09T17:56:59Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13935v1",
@@ -541,8 +541,8 @@
       "url": "http://arxiv.org/abs/2610.13895v1",
       "published_at": "2026-10-09T17:40:53Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13895v1",
@@ -558,10 +558,10 @@
       "url": "http://arxiv.org/abs/2610.13889v1",
       "published_at": "2026-10-09T17:38:11Z",
       "tags": [
-        "llm",
-        "paper",
         "agent",
-        "tool"
+        "llm",
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13889v1",
@@ -577,10 +577,10 @@
       "url": "http://arxiv.org/abs/2610.13886v1",
       "published_at": "2026-10-09T17:34:44Z",
       "tags": [
-        "llm",
-        "paper",
         "agent",
-        "tool"
+        "llm",
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13886v1",
@@ -596,9 +596,9 @@
       "url": "http://arxiv.org/abs/2610.13840v1",
       "published_at": "2026-10-09T16:49:29Z",
       "tags": [
-        "vision",
+        "tool",
         "paper",
-        "tool"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13840v1",
@@ -615,9 +615,9 @@
       "published_at": "2026-10-09T16:39:50Z",
       "tags": [
         "llm",
-        "vision",
+        "tool",
         "paper",
-        "tool"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13832v1",
@@ -633,8 +633,8 @@
       "url": "http://arxiv.org/abs/2610.13829v1",
       "published_at": "2026-10-09T16:37:39Z",
       "tags": [
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13829v1",
@@ -650,8 +650,8 @@
       "url": "http://arxiv.org/abs/2610.13823v1",
       "published_at": "2026-10-09T16:34:13Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13823v1",
@@ -667,8 +667,8 @@
       "url": "http://arxiv.org/abs/2610.13806v1",
       "published_at": "2026-10-09T16:18:39Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13806v1",
@@ -684,8 +684,8 @@
       "url": "http://arxiv.org/abs/2610.13786v1",
       "published_at": "2026-10-09T16:04:06Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13786v1",
@@ -701,9 +701,9 @@
       "url": "http://arxiv.org/abs/2610.13783v1",
       "published_at": "2026-10-09T16:03:27Z",
       "tags": [
-        "vision",
+        "llm",
         "paper",
-        "llm"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13783v1",
@@ -737,8 +737,8 @@
       "published_at": "2026-10-09T15:51:38Z",
       "tags": [
         "llm",
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13767v1",
@@ -754,8 +754,8 @@
       "url": "http://arxiv.org/abs/2610.13765v1",
       "published_at": "2026-10-09T15:50:48Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13765v1",
@@ -771,9 +771,9 @@
       "url": "http://arxiv.org/abs/2610.13755v1",
       "published_at": "2026-10-09T15:41:37Z",
       "tags": [
-        "paper",
         "agent",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13755v1",
@@ -806,9 +806,9 @@
       "url": "http://arxiv.org/abs/2610.13737v1",
       "published_at": "2026-10-09T15:32:06Z",
       "tags": [
-        "paper",
         "agent",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13737v1",
@@ -824,8 +824,8 @@
       "url": "http://arxiv.org/abs/2610.13735v1",
       "published_at": "2026-10-09T15:30:08Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.13735v1",

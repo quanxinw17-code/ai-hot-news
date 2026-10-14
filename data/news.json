@@ -1,22 +1,247 @@
 {
-  "updated_at": "2026-10-14T17:00:11.027730+00:00",
+  "updated_at": "2026-10-14T21:31:56.849282+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Amsterdam police confisquates server left-wing ISP A/I at American request",
-      "summary": "Amsterdam police confisquates server left-wing ISP A/I at American request",
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "summary": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
-      "published_at": "2026-10-14T16:16:25+00:00",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "published_at": "2026-10-14T21:11:03+00:00",
       "tags": [
         "ai"
       ],
-      "score": "47",
-      "item_id": "hn:50090084",
+      "score": "21",
+      "item_id": "hn:50095353",
       "summary_type": "extractive",
-      "title_zh": "Amsterdam police confisquates server left-wing ISP A/I at American request",
-      "summary_zh": "Amsterdam police confisquates server left-wing ISP A/I at American request"
+      "title_zh": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "summary_zh": "We’re releasing Jev 1.14.0 along with experimental features for dreamers"
+    },
+    {
+      "title": "OpenCode 2.0",
+      "summary": "OpenCode 2.0",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "published_at": "2026-10-14T20:48:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "39",
+      "item_id": "hn:50094994",
+      "summary_type": "extractive",
+      "title_zh": "OpenCode 2.0",
+      "summary_zh": "OpenCode 2.0"
+    },
+    {
+      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+      "summary": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.cloudflare.com/yandex-outage/",
+      "published_at": "2026-10-14T20:29:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "95",
+      "item_id": "hn:50094673",
+      "summary_type": "extractive",
+      "title_zh": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+      "summary_zh": "Yandex outage: data shows that instead of going dark, malicious bots moved"
+    },
+    {
+      "title": "Fancy Curl Sites",
+      "summary": "Fancy Curl Sites",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "published_at": "2026-10-14T19:29:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "32",
+      "item_id": "hn:50093612",
+      "summary_type": "extractive",
+      "title_zh": "Fancy Curl Sites",
+      "summary_zh": "Fancy Curl Sites"
+    },
+    {
+      "title": "Things to know when you get cancer – 2026 Edition",
+      "summary": "Things to know when you get cancer – 2026 Edition",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "published_at": "2026-10-14T19:26:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "367",
+      "item_id": "hn:50093568",
+      "summary_type": "extractive",
+      "title_zh": "Things to know when you get cancer – 2026 Edition",
+      "summary_zh": "Things to know when you get cancer – 2026 Edition"
+    },
+    {
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "summary": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "published_at": "2026-10-14T18:37:21+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "221",
+      "item_id": "hn:50092730",
+      "summary_type": "extractive",
+      "title_zh": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "summary_zh": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland"
+    },
+    {
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "summary": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "published_at": "2026-10-14T18:32:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "198",
+      "item_id": "hn:50092664",
+      "summary_type": "extractive",
+      "title_zh": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "summary_zh": "Banks are now trying to offload the AI data center debt they just underwrote"
+    },
+    {
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "summary": "Hi HN!I’m Jason Thomas, one of the founders of CoScreen.As some of you may know, Datadog sunset the CoScreen service on July 31st.Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal)Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.",
+      "full_text": "Hi HN!I’m Jason Thomas, one of the founders of CoScreen.As some of you may know, Datadog sunset the CoScreen service on July 31st.Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal)Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry.",
+      "source": "hacker news",
+      "url": "https://petal.live/",
+      "published_at": "2026-10-14T18:23:14+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "76",
+      "item_id": "hn:50092470",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "summary_zh": "Hi HN!I’m Jason Thomas, one of the founders of CoScreen.As some of you may know, Datadog sunset the CoScreen service on July 31st.Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal)Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry."
+    },
+    {
+      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "summary": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://oxide.computer/blog/voxel-labs",
+      "published_at": "2026-10-14T18:21:14+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "14",
+      "item_id": "hn:50092423",
+      "summary_type": "extractive",
+      "title_zh": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "summary_zh": "Virtual Oxide Labs: Emulating a Full Oxide Rack"
+    },
+    {
+      "title": "America didn't lose its rare earth industry, it sold it",
+      "summary": "America didn't lose its rare earth industry, it sold it",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+      "published_at": "2026-10-14T17:50:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "105",
+      "item_id": "hn:50091875",
+      "summary_type": "extractive",
+      "title_zh": "America didn't lose its rare earth industry, it sold it",
+      "summary_zh": "America didn't lose its rare earth industry, it sold it"
+    },
+    {
+      "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
+      "summary": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/bealesh/neckbeard",
+      "published_at": "2026-10-14T17:45:34+00:00",
+      "tags": [
+        "tool",
+        "agent"
+      ],
+      "score": "54",
+      "item_id": "hn:50091794",
+      "summary_type": "extractive",
+      "title_zh": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
+      "summary_zh": "Neckbeard – A DevOps/platform/SRE plugin for your agent"
+    },
+    {
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "summary": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "published_at": "2026-10-14T17:45:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "769",
+      "item_id": "hn:50091788",
+      "summary_type": "extractive",
+      "title_zh": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "summary_zh": "Containment and monitoring failures are to blame for AI hacking reports: experts"
+    },
+    {
+      "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+      "summary": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
+      "published_at": "2026-10-14T16:45:19+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "122",
+      "item_id": "hn:50090662",
+      "summary_type": "extractive",
+      "title_zh": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+      "summary_zh": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges"
+    },
+    {
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "summary": "Better HTTP/1 connection reuse in Go 1.27",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "published_at": "2026-10-14T16:29:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "167",
+      "item_id": "hn:50090369",
+      "summary_type": "extractive",
+      "title_zh": "Better HTTP/1 connection reuse in Go 1.27",
+      "summary_zh": "Better HTTP/1 connection reuse in Go 1.27"
+    },
+    {
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "summary": "Google is silently linking your phone number across all signed-in accounts",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+      "published_at": "2026-10-14T16:28:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "283",
+      "item_id": "hn:50090349",
+      "summary_type": "extractive",
+      "title_zh": "Google is silently linking your phone number across all signed-in accounts",
+      "summary_zh": "Google is silently linking your phone number across all signed-in accounts"
     },
     {
       "title": "Submarine cable resilience",
@@ -28,27 +253,11 @@
       "tags": [
         "ai"
       ],
-      "score": "25",
+      "score": "114",
       "item_id": "hn:50089229",
       "summary_type": "extractive",
       "title_zh": "Submarine cable resilience",
       "summary_zh": "Submarine cable resilience"
-    },
-    {
-      "title": "Passkeys are not a trap",
-      "summary": "Passkeys are not a trap",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-      "published_at": "2026-10-14T15:15:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "236",
-      "item_id": "hn:50088935",
-      "summary_type": "extractive",
-      "title_zh": "Passkeys are not a trap",
-      "summary_zh": "Passkeys are not a trap"
     },
     {
       "title": "Running Windows desktop tests from Linux with disposable VMs",
@@ -60,7 +269,7 @@
       "tags": [
         "ai"
       ],
-      "score": "36",
+      "score": "76",
       "item_id": "hn:50088643",
       "summary_type": "extractive",
       "title_zh": "Running Windows desktop tests from Linux with disposable VMs",
@@ -76,47 +285,15 @@
       "tags": [
         "ai"
       ],
-      "score": "7",
+      "score": "33",
       "item_id": "hn:50088447",
       "summary_type": "extractive",
       "title_zh": "Strands Decider: Why Not an Encoder?",
       "summary_zh": "Strands Decider: Why Not an Encoder?"
     },
     {
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "summary": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-      "published_at": "2026-10-14T14:38:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "116",
-      "item_id": "hn:50088430",
-      "summary_type": "extractive",
-      "title_zh": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "summary_zh": "ASML's strong orders ease fears AI spending boom is running out of steam"
-    },
-    {
-      "title": "Apple Keynote now showing ads in its UI",
-      "summary": "Apple Keynote now showing ads in its UI",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://mastodon.social/@marioguzman/117436264149891011",
-      "published_at": "2026-10-14T13:31:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "115",
-      "item_id": "hn:50087524",
-      "summary_type": "extractive",
-      "title_zh": "Apple Keynote now showing ads in its UI",
-      "summary_zh": "Apple Keynote now showing ads in its UI"
-    },
-    {
-      "title": "Scientists Are Teaching Birds to Sing Lost Songs",
-      "summary": "Scientists Are Teaching Birds to Sing Lost Songs",
+      "title": "Scientists are teaching birds to sing lost songs",
+      "summary": "Scientists are teaching birds to sing lost songs",
       "full_text": "",
       "source": "hacker news",
       "url": "https://e360.yale.edu/digest/teaching-birds-lost-songs",
@@ -124,43 +301,11 @@
       "tags": [
         "ai"
       ],
-      "score": "10",
+      "score": "42",
       "item_id": "hn:50087337",
       "summary_type": "extractive",
-      "title_zh": "Scientists Are Teaching Birds to Sing Lost Songs",
-      "summary_zh": "Scientists Are Teaching Birds to Sing Lost Songs"
-    },
-    {
-      "title": "RIP Eric Binnion",
-      "summary": "RIP Eric Binnion",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ma.tt/2026/10/rip-eric/",
-      "published_at": "2026-10-14T12:58:32+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "74",
-      "item_id": "hn:50087044",
-      "summary_type": "extractive",
-      "title_zh": "RIP Eric Binnion",
-      "summary_zh": "RIP Eric Binnion"
-    },
-    {
-      "title": "The Aaronson Oracle",
-      "summary": "The Aaronson Oracle",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://aaronsonoracle.com/",
-      "published_at": "2026-10-14T12:16:35+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "38",
-      "item_id": "hn:50086484",
-      "summary_type": "extractive",
-      "title_zh": "The Aaronson Oracle",
-      "summary_zh": "The Aaronson Oracle"
+      "title_zh": "Scientists are teaching birds to sing lost songs",
+      "summary_zh": "Scientists are teaching birds to sing lost songs"
     },
     {
       "title": "Nvidia's first GPU: GeForce 256",
@@ -172,7 +317,7 @@
       "tags": [
         "ai"
       ],
-      "score": "19",
+      "score": "60",
       "item_id": "hn:50086363",
       "summary_type": "extractive",
       "title_zh": "Nvidia's first GPU: GeForce 256",
@@ -188,59 +333,11 @@
       "tags": [
         "ai"
       ],
-      "score": "134",
+      "score": "176",
       "item_id": "hn:50086165",
       "summary_type": "extractive",
       "title_zh": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
       "summary_zh": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW"
-    },
-    {
-      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-      "summary": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
-      "published_at": "2026-10-14T10:26:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "63",
-      "item_id": "hn:50085306",
-      "summary_type": "extractive",
-      "title_zh": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-      "summary_zh": "Pulsar at ESUG 2026 (new Smalltalk IDE)"
-    },
-    {
-      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-      "summary": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-      "published_at": "2026-10-14T10:26:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "24",
-      "item_id": "hn:50085302",
-      "summary_type": "extractive",
-      "title_zh": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-      "summary_zh": "AI Laser Locking for Quantum Computers: How QuEra Automates It"
-    },
-    {
-      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-      "summary": "Hello HN,I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. It is a virtual tour with 17 stops, his works and then his last house in Amboise.",
-      "full_text": "Hello HN,I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. It is a virtual tour with 17 stops, his works and then his last house in Amboise. The entrance is free.At the different stops you can see for example his paintings close to their real size, or 15 of his machines rebuilt in code, and you can have a look at 29 of his anatomy sheets. We also selected 207 of his manuscript pages which you can read in a vi",
-      "source": "hacker news",
-      "url": "https://museumofages.org/w/vinci",
-      "published_at": "2026-10-14T10:00:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "69",
-      "item_id": "hn:50085022",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-      "summary_zh": "Hello HN,I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. It is a virtual tour with 17 stops, his works and then his last house in Amboise."
     },
     {
       "title": "Amazon pushes up prices across the Internet",
@@ -252,7 +349,7 @@
       "tags": [
         "ai"
       ],
-      "score": "478",
+      "score": "663",
       "item_id": "hn:50084757",
       "summary_type": "extractive",
       "title_zh": "Amazon pushes up prices across the Internet",
@@ -268,91 +365,27 @@
       "tags": [
         "ai"
       ],
-      "score": "524",
+      "score": "669",
       "item_id": "hn:50084240",
       "summary_type": "extractive",
       "title_zh": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
       "summary_zh": "Iosevka is an open-source, sans-serif and slab-serif monospace font"
     },
     {
-      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-      "summary": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "title": "Marshall Islands Stick Chart",
+      "summary": "Marshall Islands Stick Chart",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/android/ndk/issues/2260",
-      "published_at": "2026-10-14T06:18:01+00:00",
+      "url": "https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart",
+      "published_at": "2026-10-13T21:06:33+00:00",
       "tags": [
         "ai"
       ],
-      "score": "444",
-      "item_id": "hn:50083130",
+      "score": "10",
+      "item_id": "hn:50078757",
       "summary_type": "extractive",
-      "title_zh": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-      "summary_zh": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs"
-    },
-    {
-      "title": "Felix Rieseberg Homepage",
-      "summary": "Felix Rieseberg Homepage",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://felixrieseberg.com/",
-      "published_at": "2026-10-14T04:42:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "258",
-      "item_id": "hn:50082470",
-      "summary_type": "extractive",
-      "title_zh": "Felix Rieseberg Homepage",
-      "summary_zh": "Felix Rieseberg Homepage"
-    },
-    {
-      "title": "Recreational Programming",
-      "summary": "Recreational Programming",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.cphiri.dev/presentations/recreational-programming",
-      "published_at": "2026-10-13T22:33:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "282",
-      "item_id": "hn:50079865",
-      "summary_type": "extractive",
-      "title_zh": "Recreational Programming",
-      "summary_zh": "Recreational Programming"
-    },
-    {
-      "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
-      "summary": "https:&#x2F;&#x2F;celebratio.org&#x2F;Appel_KI&#x2F;article&#x2F;796&#x2F;#sender",
-      "full_text": "https:&#x2F;&#x2F;celebratio.org&#x2F;Appel_KI&#x2F;article&#x2F;796&#x2F;#sender",
-      "source": "hacker news",
-      "url": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
-      "published_at": "2026-10-13T19:17:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "67",
-      "item_id": "hn:50077096",
-      "summary_type": "extractive",
-      "title_zh": "The Four Colour Theorem: The first time machines mogged mathematicians",
-      "summary_zh": "https:&#x2F;&#x2F;celebratio.org&#x2F;Appel_KI&#x2F;article&#x2F;796&#x2F;#sender"
-    },
-    {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "summary": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners.",
-      "full_text": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners. No signup or download.1 minute video demo: https:&#x2F;&#x2F;youtu.be&#x2F;DtcluMLdSgsI would love feedback on how the strumming feels and sounds.",
-      "source": "hacker news",
-      "url": "https://guitoro.com/",
-      "published_at": "2026-10-13T19:11:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "537",
-      "item_id": "hn:50077020",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "summary_zh": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners."
+      "title_zh": "Marshall Islands Stick Chart",
+      "summary_zh": "Marshall Islands Stick Chart"
     },
     {
       "title": "ChunkAct: Action Chunking for Agentic Robotics",
@@ -362,10 +395,10 @@
       "url": "http://arxiv.org/abs/2610.18874v1",
       "published_at": "2026-10-13T17:59:57Z",
       "tags": [
-        "agent",
         "paper",
-        "tool",
+        "agent",
         "vision",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -382,10 +415,10 @@
       "url": "http://arxiv.org/abs/2610.18869v1",
       "published_at": "2026-10-13T17:59:52Z",
       "tags": [
-        "tool",
         "paper",
-        "vision",
-        "llm"
+        "tool",
+        "llm",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.18869v1",
@@ -401,8 +434,8 @@
       "url": "http://arxiv.org/abs/2610.18868v1",
       "published_at": "2026-10-13T17:59:51Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.18868v1",
@@ -418,8 +451,8 @@
       "url": "http://arxiv.org/abs/2610.18862v1",
       "published_at": "2026-10-13T17:59:32Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.18862v1",
@@ -435,8 +468,8 @@
       "url": "http://arxiv.org/abs/2610.18860v1",
       "published_at": "2026-10-13T17:59:31Z",
       "tags": [
-        "agent",
         "paper",
+        "agent",
         "vision"
       ],
       "score": "📄",
@@ -453,9 +486,9 @@
       "url": "http://arxiv.org/abs/2610.18861v1",
       "published_at": "2026-10-13T17:59:31Z",
       "tags": [
-        "agent",
-        "tool",
         "paper",
+        "tool",
+        "agent",
         "llm"
       ],
       "score": "📄",
@@ -472,8 +505,8 @@
       "url": "http://arxiv.org/abs/2610.18853v1",
       "published_at": "2026-10-13T17:58:57Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.18853v1",
@@ -489,8 +522,8 @@
       "url": "http://arxiv.org/abs/2610.18851v1",
       "published_at": "2026-10-13T17:58:41Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -507,8 +540,8 @@
       "url": "http://arxiv.org/abs/2610.18843v1",
       "published_at": "2026-10-13T17:57:18Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "vision"
       ],
       "score": "📄",
@@ -525,8 +558,8 @@
       "url": "http://arxiv.org/abs/2610.18842v1",
       "published_at": "2026-10-13T17:57:04Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.18842v1",
@@ -558,9 +591,9 @@
       "url": "http://arxiv.org/abs/2610.18835v1",
       "published_at": "2026-10-13T17:55:14Z",
       "tags": [
-        "agent",
+        "paper",
         "tool",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.18835v1",
@@ -576,8 +609,8 @@
       "url": "http://arxiv.org/abs/2610.18820v1",
       "published_at": "2026-10-13T17:51:18Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -594,8 +627,8 @@
       "url": "http://arxiv.org/abs/2610.18818v1",
       "published_at": "2026-10-13T17:50:18Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -612,9 +645,9 @@
       "url": "http://arxiv.org/abs/2610.18813v1",
       "published_at": "2026-10-13T17:48:49Z",
       "tags": [
-        "agent",
-        "tool",
         "paper",
+        "tool",
+        "agent",
         "vision"
       ],
       "score": "📄",
@@ -631,8 +664,8 @@
       "url": "http://arxiv.org/abs/2610.18808v1",
       "published_at": "2026-10-13T17:46:27Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.18808v1",
@@ -648,9 +681,9 @@
       "url": "http://arxiv.org/abs/2610.18792v1",
       "published_at": "2026-10-13T17:40:20Z",
       "tags": [
-        "agent",
+        "paper",
         "tool",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.18792v1",
@@ -666,8 +699,8 @@
       "url": "http://arxiv.org/abs/2610.18787v1",
       "published_at": "2026-10-13T17:37:17Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "llm"
       ],
       "score": "📄",
@@ -701,8 +734,8 @@
       "url": "http://arxiv.org/abs/2610.18784v1",
       "published_at": "2026-10-13T17:35:27Z",
       "tags": [
-        "agent",
         "paper",
+        "agent",
         "vision"
       ],
       "score": "📄",
@@ -712,36 +745,20 @@
       "summary_zh": "Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-horizon context instead be organized around reusable progress rather than the history that produced it? In this paper, we introduce CarryOn, an object-oriented context runtime that organizes continuation around reusable task objects."
     },
     {
-      "title": "Show HN: How random are you?",
-      "summary": "Show HN: How random are you?",
+      "title": "LittleJS is 2D and 3D now",
+      "summary": "LittleJS is 2D and 3D now",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://lab.specr.net/rigged-draw/",
-      "published_at": "2026-10-13T16:57:57+00:00",
+      "url": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
+      "published_at": "2026-10-13T01:50:17+00:00",
       "tags": [
         "ai"
       ],
-      "score": "205",
-      "item_id": "hn:50074909",
+      "score": "75",
+      "item_id": "hn:50065572",
       "summary_type": "extractive",
-      "title_zh": "Show HN: How random are you?",
-      "summary_zh": "Show HN: How random are you?"
-    },
-    {
-      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
-      "summary": "Same Job, Two Engines: InnoDB and Iceberg Internals",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
-      "published_at": "2026-10-13T13:31:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "49",
-      "item_id": "hn:50071466",
-      "summary_type": "extractive",
-      "title_zh": "Same Job, Two Engines: InnoDB and Iceberg Internals",
-      "summary_zh": "Same Job, Two Engines: InnoDB and Iceberg Internals"
+      "title_zh": "LittleJS is 2D and 3D now",
+      "summary_zh": "LittleJS is 2D and 3D now"
     },
     {
       "title": "The Origin Story of Kid Pix",
@@ -753,27 +770,11 @@
       "tags": [
         "ai"
       ],
-      "score": "124",
+      "score": "178",
       "item_id": "hn:50064673",
       "summary_type": "extractive",
       "title_zh": "The Origin Story of Kid Pix",
       "summary_zh": "The Origin Story of Kid Pix"
-    },
-    {
-      "title": "The Genealogy of Eliza",
-      "summary": "The Genealogy of Eliza",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://elizagen.org/genealogy.html",
-      "published_at": "2026-10-12T20:29:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "16",
-      "item_id": "hn:50062575",
-      "summary_type": "extractive",
-      "title_zh": "The Genealogy of Eliza",
-      "summary_zh": "The Genealogy of Eliza"
     },
     {
       "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
@@ -785,59 +786,59 @@
       "tags": [
         "ai"
       ],
-      "score": "42",
+      "score": "60",
       "item_id": "hn:50055632",
       "summary_type": "extractive",
       "title_zh": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
       "summary_zh": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)"
     },
     {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "summary": "https:&#x2F;&#x2F;www.heise.de&#x2F;en&#x2F;news&#x2F;Crypto-thieves-sell-hardware-wa...https:&#x2F;&#x2F;crypto.news&#x2F;ledger-confirms-hidden-chip-in-crypto-wa...https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8JnHdr30v4ghttps:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Nf4FEFlgv3Qhttps:&#x2F;&#x2F;www.tibane.net&#x2F;research&#x2F;ledger-nano-x-implant",
-      "full_text": "https:&#x2F;&#x2F;www.heise.de&#x2F;en&#x2F;news&#x2F;Crypto-thieves-sell-hardware-wa...https:&#x2F;&#x2F;crypto.news&#x2F;ledger-confirms-hidden-chip-in-crypto-wa...https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8JnHdr30v4ghttps:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Nf4FEFlgv3Qhttps:&#x2F;&#x2F;www.tibane.net&#x2F;research&#x2F;ledger-nano-x-implant",
-      "source": "hacker news",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "published_at": "2026-10-12T10:09:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "769",
-      "item_id": "hn:50054092",
-      "summary_type": "extractive",
-      "title_zh": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "summary_zh": "https:&#x2F;&#x2F;www.heise.de&#x2F;en&#x2F;news&#x2F;Crypto-thieves-sell-hardware-wa...https:&#x2F;&#x2F;crypto.news&#x2F;ledger-confirms-hidden-chip-in-crypto-wa...https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=8JnHdr30v4ghttps:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Nf4FEFlgv3Qhttps:&#x2F;&#x2F;www.tibane.net&#x2F;research&#x2F;ledger-nano-x-implant"
-    },
-    {
-      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "summary": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "title": "Phloem: Git history grown like a slime mold",
+      "summary": "Phloem: Git history grown like a slime mold",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "published_at": "2026-10-12T09:05:02+00:00",
+      "url": "https://phloem.stemdeck.app/",
+      "published_at": "2026-10-12T10:52:25+00:00",
       "tags": [
         "ai"
       ],
-      "score": "246",
-      "item_id": "hn:50053487",
+      "score": "59",
+      "item_id": "hn:50054465",
       "summary_type": "extractive",
-      "title_zh": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "summary_zh": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)"
+      "title_zh": "Phloem: Git history grown like a slime mold",
+      "summary_zh": "Phloem: Git history grown like a slime mold"
     },
     {
-      "title": "Sound (2022)",
-      "summary": "Sound (2022)",
+      "title": "Do dentists know what they're doing?",
+      "summary": "Do dentists know what they're doing?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ciechanow.ski/sound/",
-      "published_at": "2026-10-11T16:46:43+00:00",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "published_at": "2026-10-12T02:21:54+00:00",
       "tags": [
         "ai"
       ],
-      "score": "242",
-      "item_id": "hn:50045147",
+      "score": "195",
+      "item_id": "hn:50050553",
       "summary_type": "extractive",
-      "title_zh": "Sound (2022)",
-      "summary_zh": "Sound (2022)"
+      "title_zh": "Do dentists know what they're doing?",
+      "summary_zh": "Do dentists know what they're doing?"
+    },
+    {
+      "title": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
+      "summary": "My weekend vibecoding project was to attempt to resurrect a 14th century chess variant favored by the Central Asian warlord Timur (Tamerlane). There are giraffes, elephants, citadels, and you can promote up to 2 additional kings! theres a working AI chess engine and relatively untested multiplayer",
+      "full_text": "My weekend vibecoding project was to attempt to resurrect a 14th century chess variant favored by the Central Asian warlord Timur (Tamerlane). There are giraffes, elephants, citadels, and you can promote up to 2 additional kings! theres a working AI chess engine and relatively untested multiplayer",
+      "source": "hacker news",
+      "url": "https://timurschess.com",
+      "published_at": "2026-10-11T14:52:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "13",
+      "item_id": "hn:50043948",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
+      "summary_zh": "My weekend vibecoding project was to attempt to resurrect a 14th century chess variant favored by the Central Asian warlord Timur (Tamerlane). There are giraffes, elephants, citadels, and you can promote up to 2 additional kings! theres a working AI chess engine and relatively untested multiplayer"
     }
   ]
 }

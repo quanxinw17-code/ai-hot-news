@@ -1,54 +1,22 @@
 {
-  "updated_at": "2026-10-15T04:20:14.733264+00:00",
+  "updated_at": "2026-10-15T11:16:42.674056+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Future of Cancer Care Today (FCCT)",
-      "summary": "Future of Cancer Care Today (FCCT)",
-      "full_text": "",
+      "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+      "summary": "This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.",
+      "full_text": "This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.",
       "source": "hacker news",
-      "url": "https://sijbrandijfoundation.org/fcct",
-      "published_at": "2026-10-15T03:18:49+00:00",
+      "url": "https://github.com/andunieee/flipflop",
+      "published_at": "2026-10-15T04:25:28+00:00",
       "tags": [
         "ai"
       ],
-      "score": "20",
-      "item_id": "hn:50098702",
+      "score": "45",
+      "item_id": "hn:50099136",
       "summary_type": "extractive",
-      "title_zh": "Future of Cancer Care Today (FCCT)",
-      "summary_zh": "Future of Cancer Care Today (FCCT)"
-    },
-    {
-      "title": "One in ten people are older than 65. Three in four live under a leader who is",
-      "summary": "One in ten people are older than 65. Three in four live under a leader who is",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
-      "published_at": "2026-10-15T02:53:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "14",
-      "item_id": "hn:50098570",
-      "summary_type": "extractive",
-      "title_zh": "One in ten people are older than 65. Three in four live under a leader who is",
-      "summary_zh": "One in ten people are older than 65. Three in four live under a leader who is"
-    },
-    {
-      "title": "Show HN: My Terminal Themes Web App",
-      "summary": "Well, after 15 years of saying &quot;Someday I&#x27;ll turn this into a web app,&quot; I finally did it!I&#x27;ve been maintaining a popular repo of terminal themes at https:&#x2F;&#x2F;github.com&#x2F;mbadolato&#x2F;iTerm2-Color-Schemes, and it was finally time to build the app with all the features I wanted!So, the next-gen version is live at https:&#x2F;&#x2F;terminalthemes.com! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows",
-      "full_text": "Well, after 15 years of saying &quot;Someday I&#x27;ll turn this into a web app,&quot; I finally did it!I&#x27;ve been maintaining a popular repo of terminal themes at https:&#x2F;&#x2F;github.com&#x2F;mbadolato&#x2F;iTerm2-Color-Schemes, and it was finally time to build the app with all the features I wanted!So, the next-gen version is live at https:&#x2F;&#x2F;terminalthemes.com! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=50098454",
-      "published_at": "2026-10-15T02:33:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "4",
-      "item_id": "hn:50098454",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: My Terminal Themes Web App",
-      "summary_zh": "Well, after 15 years of saying &quot;Someday I&#x27;ll turn this into a web app,&quot; I finally did it!I&#x27;ve been maintaining a popular repo of terminal themes at https:&#x2F;&#x2F;github.com&#x2F;mbadolato&#x2F;iTerm2-Color-Schemes, and it was finally time to build the app with all the features I wanted!So, the next-gen version is live at https:&#x2F;&#x2F;terminalthemes.com! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows"
+      "title_zh": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+      "summary_zh": "This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on."
     },
     {
       "title": "The Double Headed Stack Allocator",
@@ -60,11 +28,27 @@
       "tags": [
         "ai"
       ],
-      "score": "26",
+      "score": "69",
       "item_id": "hn:50098274",
       "summary_type": "extractive",
       "title_zh": "The Double Headed Stack Allocator",
       "summary_zh": "The Double Headed Stack Allocator"
+    },
+    {
+      "title": "Show HN: Ito – Build Terminal UIs in Lua",
+      "summary": "My friend and I are huge Neovim nerds. We like to rice our terminals and our editors. We just wanted a harness that we can do the same with, rice it till our hearts&#x27; desire.",
+      "full_text": "My friend and I are huge Neovim nerds. We like to rice our terminals and our editors. We just wanted a harness that we can do the same with, rice it till our hearts&#x27; desire. So, we started looking out for harnesses. Pi was great, Pi was good. But in the end, it was JavaScript. I don&#x27;t have anything against JavaScript, but Lua is more fitting, and I can just as easily base it in Rust to make it even faster. So, we started cooking, and we ended up with a design that&#x27;s minimal at its",
+      "source": "hacker news",
+      "url": "https://uji.sh/ito/",
+      "published_at": "2026-10-14T22:23:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "30",
+      "item_id": "hn:50096300",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Ito – Build Terminal UIs in Lua",
+      "summary_zh": "My friend and I are huge Neovim nerds. We like to rice our terminals and our editors. We just wanted a harness that we can do the same with, rice it till our hearts&#x27; desire."
     },
     {
       "title": "Tiny Little Office",
@@ -76,7 +60,7 @@
       "tags": [
         "ai"
       ],
-      "score": "228",
+      "score": "471",
       "item_id": "hn:50096142",
       "summary_type": "extractive",
       "title_zh": "Tiny Little Office",
@@ -92,7 +76,7 @@
       "tags": [
         "ai"
       ],
-      "score": "229",
+      "score": "302",
       "item_id": "hn:50095353",
       "summary_type": "extractive",
       "title_zh": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
@@ -108,27 +92,11 @@
       "tags": [
         "ai"
       ],
-      "score": "403",
+      "score": "640",
       "item_id": "hn:50094994",
       "summary_type": "extractive",
       "title_zh": "OpenCode 2.0",
       "summary_zh": "OpenCode 2.0"
-    },
-    {
-      "title": "Fancy Curl Sites",
-      "summary": "Fancy Curl Sites",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nytpu.com/gemlog/2026-03-18",
-      "published_at": "2026-10-14T19:29:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "98",
-      "item_id": "hn:50093612",
-      "summary_type": "extractive",
-      "title_zh": "Fancy Curl Sites",
-      "summary_zh": "Fancy Curl Sites"
     },
     {
       "title": "Things to know when you get cancer",
@@ -140,59 +108,11 @@
       "tags": [
         "ai"
       ],
-      "score": "973",
+      "score": "🔥 1.4k",
       "item_id": "hn:50093568",
       "summary_type": "extractive",
       "title_zh": "Things to know when you get cancer",
       "summary_zh": "Things to know when you get cancer"
-    },
-    {
-      "title": "Suicide rates highest ever among middle-aged men",
-      "summary": "Suicide rates highest ever among middle-aged men",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
-      "published_at": "2026-10-14T19:03:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "337",
-      "item_id": "hn:50093180",
-      "summary_type": "extractive",
-      "title_zh": "Suicide rates highest ever among middle-aged men",
-      "summary_zh": "Suicide rates highest ever among middle-aged men"
-    },
-    {
-      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "summary": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-      "published_at": "2026-10-14T18:37:21+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "318",
-      "item_id": "hn:50092730",
-      "summary_type": "extractive",
-      "title_zh": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "summary_zh": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland"
-    },
-    {
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "summary": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "published_at": "2026-10-14T18:32:52+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "334",
-      "item_id": "hn:50092664",
-      "summary_type": "extractive",
-      "title_zh": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "summary_zh": "Banks are now trying to offload the AI data center debt they just underwrote"
     },
     {
       "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
@@ -204,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "135",
+      "score": "178",
       "item_id": "hn:50092470",
       "summary_type": "extractive",
       "title_zh": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
@@ -220,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "91",
+      "score": "122",
       "item_id": "hn:50092423",
       "summary_type": "extractive",
       "title_zh": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
@@ -252,10 +172,10 @@
       "url": "http://arxiv.org/abs/2610.20607v1",
       "published_at": "2026-10-14T17:59:52Z",
       "tags": [
-        "tool",
-        "paper",
+        "agent",
         "llm",
-        "agent"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20607v1",
@@ -271,9 +191,9 @@
       "url": "http://arxiv.org/abs/2610.20597v1",
       "published_at": "2026-10-14T17:59:28Z",
       "tags": [
-        "vision",
         "paper",
-        "agent"
+        "agent",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20597v1",
@@ -289,9 +209,9 @@
       "url": "http://arxiv.org/abs/2610.20588v1",
       "published_at": "2026-10-14T17:58:08Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20588v1",
@@ -307,9 +227,9 @@
       "url": "http://arxiv.org/abs/2610.20587v1",
       "published_at": "2026-10-14T17:57:57Z",
       "tags": [
-        "tool",
         "paper",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20587v1",
@@ -325,8 +245,8 @@
       "url": "http://arxiv.org/abs/2610.20586v1",
       "published_at": "2026-10-14T17:57:40Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20586v1",
@@ -342,10 +262,10 @@
       "url": "http://arxiv.org/abs/2610.20584v1",
       "published_at": "2026-10-14T17:57:12Z",
       "tags": [
-        "vision",
         "paper",
-        "tool",
-        "agent"
+        "vision",
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20584v1",
@@ -361,10 +281,10 @@
       "url": "http://arxiv.org/abs/2610.20576v1",
       "published_at": "2026-10-14T17:56:06Z",
       "tags": [
-        "tool",
         "paper",
         "llm",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20576v1",
@@ -380,10 +300,10 @@
       "url": "http://arxiv.org/abs/2610.20573v1",
       "published_at": "2026-10-14T17:54:48Z",
       "tags": [
-        "tool",
-        "paper",
+        "agent",
         "llm",
-        "agent"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20573v1",
@@ -399,8 +319,8 @@
       "url": "http://arxiv.org/abs/2610.20572v1",
       "published_at": "2026-10-14T17:54:34Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20572v1",
@@ -416,9 +336,9 @@
       "url": "http://arxiv.org/abs/2610.20563v1",
       "published_at": "2026-10-14T17:49:37Z",
       "tags": [
-        "paper",
         "llm",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20563v1",
@@ -434,10 +354,10 @@
       "url": "http://arxiv.org/abs/2610.20560v1",
       "published_at": "2026-10-14T17:47:24Z",
       "tags": [
-        "vision",
         "paper",
-        "agent",
         "llm",
+        "vision",
+        "agent",
         "tool"
       ],
       "score": "📄",
@@ -456,7 +376,7 @@
       "tags": [
         "ai"
       ],
-      "score": "854",
+      "score": "910",
       "item_id": "hn:50091788",
       "summary_type": "extractive",
       "title_zh": "Containment and monitoring failures are to blame for AI hacking reports: experts",
@@ -470,10 +390,10 @@
       "url": "http://arxiv.org/abs/2610.20548v1",
       "published_at": "2026-10-14T17:39:35Z",
       "tags": [
-        "tool",
         "paper",
         "llm",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20548v1",
@@ -489,8 +409,8 @@
       "url": "http://arxiv.org/abs/2610.20544v1",
       "published_at": "2026-10-14T17:36:33Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20544v1",
@@ -506,8 +426,8 @@
       "url": "http://arxiv.org/abs/2610.20538v1",
       "published_at": "2026-10-14T17:32:54Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20538v1",
@@ -523,9 +443,9 @@
       "url": "http://arxiv.org/abs/2610.20532v1",
       "published_at": "2026-10-14T17:29:06Z",
       "tags": [
-        "vision",
         "paper",
-        "agent"
+        "agent",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20532v1",
@@ -541,9 +461,9 @@
       "url": "http://arxiv.org/abs/2610.20518v1",
       "published_at": "2026-10-14T17:19:11Z",
       "tags": [
-        "tool",
         "paper",
-        "agent"
+        "agent",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20518v1",
@@ -559,8 +479,8 @@
       "url": "http://arxiv.org/abs/2610.20516v1",
       "published_at": "2026-10-14T17:17:18Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20516v1",
@@ -594,30 +514,14 @@
       "url": "http://arxiv.org/abs/2610.20497v1",
       "published_at": "2026-10-14T17:06:59Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.20497v1",
       "summary_type": "extractive",
       "title_zh": "Hindsight-Privileged RLVR: Single-Rollout Token Credit Without Group Sampling",
       "summary_zh": "Reinforcement learning with verifiable rewards (RLVR) trains language models from checked task outcomes, but assigning a terminal reward to individual reasoning tokens or actions remains difficult. Group-relative methods such as Group Relative Policy Optimization (GRPO) sample several attempts per prompt, but lose their reward-based learning signal when all attempts receive the same outcome. We propose Hindsight-Privileged RLVR (HP-RLVR), a single-rollout method that turns a completed trajectory"
-    },
-    {
-      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-      "summary": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.",
-      "full_text": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.\n- Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice.\n- Prefix. The most powerful. Declare a prefix like &quot;",
-      "source": "hacker news",
-      "url": "https://clova.email/",
-      "published_at": "2026-10-14T17:00:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "93",
-      "item_id": "hn:50090932",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: I wrote an email app that accepts only one sender per inbox",
-      "summary_zh": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else."
     },
     {
       "title": "Has AI tells",
@@ -629,7 +533,7 @@
       "tags": [
         "ai"
       ],
-      "score": "94",
+      "score": "122",
       "item_id": "hn:50090799",
       "summary_type": "extractive",
       "title_zh": "Has AI tells",
@@ -645,27 +549,11 @@
       "tags": [
         "ai"
       ],
-      "score": "217",
+      "score": "260",
       "item_id": "hn:50090369",
       "summary_type": "extractive",
       "title_zh": "Better HTTP/1 connection reuse in Go 1.27",
       "summary_zh": "Better HTTP/1 connection reuse in Go 1.27"
-    },
-    {
-      "title": "Google is silently linking your phone number across all signed-in accounts",
-      "summary": "Google is silently linking your phone number across all signed-in accounts",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-      "published_at": "2026-10-14T16:28:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "429",
-      "item_id": "hn:50090349",
-      "summary_type": "extractive",
-      "title_zh": "Google is silently linking your phone number across all signed-in accounts",
-      "summary_zh": "Google is silently linking your phone number across all signed-in accounts"
     },
     {
       "title": "Americans' social activity has steeply declined in the past 30 years",
@@ -677,7 +565,7 @@
       "tags": [
         "ai"
       ],
-      "score": "285",
+      "score": "426",
       "item_id": "hn:50089921",
       "summary_type": "extractive",
       "title_zh": "Americans' social activity has steeply declined in the past 30 years",
@@ -693,7 +581,7 @@
       "tags": [
         "ai"
       ],
-      "score": "139",
+      "score": "161",
       "item_id": "hn:50089229",
       "summary_type": "extractive",
       "title_zh": "Submarine cable resilience",
@@ -709,7 +597,7 @@
       "tags": [
         "ai"
       ],
-      "score": "533",
+      "score": "604",
       "item_id": "hn:50088935",
       "summary_type": "extractive",
       "title_zh": "Passkeys are not a trap",
@@ -725,7 +613,7 @@
       "tags": [
         "ai"
       ],
-      "score": "758",
+      "score": "849",
       "item_id": "hn:50084757",
       "summary_type": "extractive",
       "title_zh": "How Amazon pushes up prices all across the Internet",
@@ -741,11 +629,27 @@
       "tags": [
         "ai"
       ],
-      "score": "250",
+      "score": "374",
       "item_id": "hn:50083028",
       "summary_type": "extractive",
       "title_zh": "Why is every rationalist blog post way too long?",
       "summary_zh": "Why is every rationalist blog post way too long?"
+    },
+    {
+      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+      "summary": "The First Social Network: In rural Argentina residents send messages w AM radio",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+      "published_at": "2026-10-13T22:17:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "29",
+      "item_id": "hn:50079701",
+      "summary_type": "extractive",
+      "title_zh": "The First Social Network: In rural Argentina residents send messages w AM radio",
+      "summary_zh": "The First Social Network: In rural Argentina residents send messages w AM radio"
     },
     {
       "title": "Donaldson Futuro House in Idyllwild, California, USA",
@@ -757,11 +661,27 @@
       "tags": [
         "ai"
       ],
-      "score": "16",
+      "score": "50",
       "item_id": "hn:50077709",
       "summary_type": "extractive",
       "title_zh": "Donaldson Futuro House in Idyllwild, California, USA",
       "summary_zh": "Donaldson Futuro House in Idyllwild, California, USA"
+    },
+    {
+      "title": "Bookofjoe's Favorite Thing: Best Pill Splitter",
+      "summary": "Bookofjoe's Favorite Thing: Best Pill Splitter",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://bookofjoe2.blogspot.com/2026/09/bookofjoes-favorite-thing-worlds-best.html",
+      "published_at": "2026-10-13T14:00:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "8",
+      "item_id": "hn:50071902",
+      "summary_type": "extractive",
+      "title_zh": "Bookofjoe's Favorite Thing: Best Pill Splitter",
+      "summary_zh": "Bookofjoe's Favorite Thing: Best Pill Splitter"
     },
     {
       "title": "Your C is not standard C",
@@ -773,7 +693,7 @@
       "tags": [
         "ai"
       ],
-      "score": "50",
+      "score": "97",
       "item_id": "hn:50071546",
       "summary_type": "extractive",
       "title_zh": "Your C is not standard C",
@@ -789,11 +709,75 @@
       "tags": [
         "ai"
       ],
-      "score": "7",
+      "score": "90",
       "item_id": "hn:50070661",
       "summary_type": "extractive",
       "title_zh": "It took me nine years to hack my Xbox 360",
       "summary_zh": "It took me nine years to hack my Xbox 360"
+    },
+    {
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "summary": "Author here. Does anyone know what to do with the rest of the drivers? I found at least 13 in-tree drivers with the same bug class.",
+      "full_text": "Author here. Does anyone know what to do with the rest of the drivers? I found at least 13 in-tree drivers with the same bug class. The nasty part is they work fine on x86 and silently corrupt data on arm and other non-coherent archs, and I don&#x27;t have the hardware to test them.I&#x27;d guess that&#x27;s what the DMA API is for and drivers shouldn&#x27;t be doing cache maintenance by hand, but I&#x27;m not a kernel dev, so maybe I&#x27;m missing something.",
+      "source": "hacker news",
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "published_at": "2026-10-13T12:30:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "119",
+      "item_id": "hn:50070625",
+      "summary_type": "extractive",
+      "title_zh": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "summary_zh": "Author here. Does anyone know what to do with the rest of the drivers? I found at least 13 in-tree drivers with the same bug class."
+    },
+    {
+      "title": "Show HN: Indigene – Native plants for where you stand",
+      "summary": "Back when I lived in Central Florida, it took me years to learn what native plants could benefit wildlife and the local ecosystem as I slowly replaced parts of my yard to make it more resilient to drought. After moving to Seattle a few years ago, I had to start all of that from scratch. LLMs made the process a bit easier but I still had to routinely ask the same kinds of questions over and over, despite being far more familiar with native plants these days and leaning more on native plant societ",
+      "full_text": "Back when I lived in Central Florida, it took me years to learn what native plants could benefit wildlife and the local ecosystem as I slowly replaced parts of my yard to make it more resilient to drought. After moving to Seattle a few years ago, I had to start all of that from scratch. LLMs made the process a bit easier but I still had to routinely ask the same kinds of questions over and over, despite being far more familiar with native plants these days and leaning more on native plant societ",
+      "source": "hacker news",
+      "url": "https://indigene.app/",
+      "published_at": "2026-10-12T23:25:20+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "37",
+      "item_id": "hn:50064470",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Indigene – Native plants for where you stand",
+      "summary_zh": "Back when I lived in Central Florida, it took me years to learn what native plants could benefit wildlife and the local ecosystem as I slowly replaced parts of my yard to make it more resilient to drought. After moving to Seattle a few years ago, I had to start all of that from scratch. LLMs made the process a bit easier but I still had to routinely ask the same kinds of questions over and over, despite being far more familiar with native plants these days and leaning more on native plant societ"
+    },
+    {
+      "title": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
+      "summary": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+      "published_at": "2026-10-12T18:44:42+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "29",
+      "item_id": "hn:50060923",
+      "summary_type": "extractive",
+      "title_zh": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
+      "summary_zh": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface"
+    },
+    {
+      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+      "summary": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+      "published_at": "2026-10-12T18:20:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "42",
+      "item_id": "hn:50060547",
+      "summary_type": "extractive",
+      "title_zh": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+      "summary_zh": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction"
     },
     {
       "title": "Phloem: Git history grown like a slime mold",
@@ -805,7 +789,7 @@
       "tags": [
         "ai"
       ],
-      "score": "95",
+      "score": "116",
       "item_id": "hn:50054465",
       "summary_type": "extractive",
       "title_zh": "Phloem: Git history grown like a slime mold",
@@ -821,7 +805,7 @@
       "tags": [
         "ai"
       ],
-      "score": "53",
+      "score": "205",
       "item_id": "hn:50053384",
       "summary_type": "extractive",
       "title_zh": "Catch a Bird – I made it for my own sanity",
@@ -837,11 +821,27 @@
       "tags": [
         "ai"
       ],
-      "score": "511",
+      "score": "735",
       "item_id": "hn:50050553",
       "summary_type": "extractive",
       "title_zh": "Do dentists know what they're doing?",
       "summary_zh": "Do dentists know what they're doing?"
+    },
+    {
+      "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
+      "summary": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
+      "published_at": "2026-10-11T20:36:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "41",
+      "item_id": "hn:50047576",
+      "summary_type": "extractive",
+      "title_zh": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
+      "summary_zh": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl"
     }
   ]
 }

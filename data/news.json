@@ -1,38 +1,54 @@
 {
-  "updated_at": "2026-10-17T20:26:43.093900+00:00",
+  "updated_at": "2026-10-18T04:13:43.323199+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-      "summary": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "summary": "NY announces game ownership bill requiring ownership rather than licensing",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-      "published_at": "2026-10-17T18:45:07+00:00",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "published_at": "2026-10-18T00:14:22+00:00",
       "tags": [
         "ai"
       ],
-      "score": "10",
-      "item_id": "hn:50133830",
+      "score": "144",
+      "item_id": "hn:50136536",
       "summary_type": "extractive",
-      "title_zh": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-      "summary_zh": "Microsoft and CMU Team Up to Train Early Career Software Engineers"
+      "title_zh": "NY announces game ownership bill requiring ownership rather than licensing",
+      "summary_zh": "NY announces game ownership bill requiring ownership rather than licensing"
     },
     {
-      "title": "Pattern Matching Beats Narrative Reasoning",
-      "summary": "Pattern Matching Beats Narrative Reasoning",
+      "title": "JDK 28",
+      "summary": "JDK 28",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
-      "published_at": "2026-10-17T18:34:13+00:00",
+      "url": "https://openjdk.org/projects/jdk/28/",
+      "published_at": "2026-10-17T21:37:07+00:00",
       "tags": [
         "ai"
       ],
-      "score": "14",
-      "item_id": "hn:50133736",
+      "score": "88",
+      "item_id": "hn:50135379",
       "summary_type": "extractive",
-      "title_zh": "Pattern Matching Beats Narrative Reasoning",
-      "summary_zh": "Pattern Matching Beats Narrative Reasoning"
+      "title_zh": "JDK 28",
+      "summary_zh": "JDK 28"
+    },
+    {
+      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "summary": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+      "published_at": "2026-10-17T20:07:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "103",
+      "item_id": "hn:50134617",
+      "summary_type": "extractive",
+      "title_zh": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "summary_zh": "Chrome and Edge are removing XSLT: what breaks and what does not"
     },
     {
       "title": "OpenCode Hacked: User credentials leaked",
@@ -44,11 +60,27 @@
       "tags": [
         "ai"
       ],
-      "score": "327",
+      "score": "812",
       "item_id": "hn:50133401",
       "summary_type": "extractive",
       "title_zh": "OpenCode Hacked: User credentials leaked",
       "summary_zh": "OpenCode Hacked: User credentials leaked"
+    },
+    {
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "summary": "Codex Desktop continuously generates Crashpad pending dumps",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "published_at": "2026-10-17T17:45:08+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "103",
+      "item_id": "hn:50133231",
+      "summary_type": "extractive",
+      "title_zh": "Codex Desktop continuously generates Crashpad pending dumps",
+      "summary_zh": "Codex Desktop continuously generates Crashpad pending dumps"
     },
     {
       "title": "I Became a Citizen of Japan",
@@ -60,43 +92,11 @@
       "tags": [
         "ai"
       ],
-      "score": "46",
+      "score": "180",
       "item_id": "hn:50133150",
       "summary_type": "extractive",
       "title_zh": "I Became a Citizen of Japan",
       "summary_zh": "I Became a Citizen of Japan"
-    },
-    {
-      "title": "Development statistics for the 7.2 kernel",
-      "summary": "Development statistics for the 7.2 kernel",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lwn.net/Articles/1088776/",
-      "published_at": "2026-10-17T17:14:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "105",
-      "item_id": "hn:50132950",
-      "summary_type": "extractive",
-      "title_zh": "Development statistics for the 7.2 kernel",
-      "summary_zh": "Development statistics for the 7.2 kernel"
-    },
-    {
-      "title": "Tsc-ts: TypeScript written in TypeScript",
-      "summary": "Tsc-ts: TypeScript written in TypeScript",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/vercel-labs/tsc-ts",
-      "published_at": "2026-10-17T17:10:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "36",
-      "item_id": "hn:50132911",
-      "summary_type": "extractive",
-      "title_zh": "Tsc-ts: TypeScript written in TypeScript",
-      "summary_zh": "Tsc-ts: TypeScript written in TypeScript"
     },
     {
       "title": "Gold is now the top U.S. export",
@@ -108,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "99",
+      "score": "273",
       "item_id": "hn:50132870",
       "summary_type": "extractive",
       "title_zh": "Gold is now the top U.S. export",
@@ -140,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "76",
+      "score": "313",
       "item_id": "hn:50132193",
       "summary_type": "extractive",
       "title_zh": "Pele – Mermaid diagrams as themeable SVG",
@@ -156,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "379",
+      "score": "517",
       "item_id": "hn:50131256",
       "summary_type": "extractive",
       "title_zh": "Solar surpasses nuclear power globally for first time",
@@ -172,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "203",
+      "score": "276",
       "item_id": "hn:50131213",
       "summary_type": "extractive",
       "title_zh": "Making chicken transparent using Dorito dust",
@@ -188,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "78",
+      "score": "141",
       "item_id": "hn:50131189",
       "summary_type": "extractive",
       "title_zh": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
@@ -204,7 +204,7 @@
       "tags": [
         "ai"
       ],
-      "score": "44",
+      "score": "106",
       "item_id": "hn:50131006",
       "summary_type": "extractive",
       "title_zh": "Show HN: High-quality duck audio synthesizer",
@@ -220,27 +220,11 @@
       "tags": [
         "ai"
       ],
-      "score": "28",
+      "score": "62",
       "item_id": "hn:50130079",
       "summary_type": "extractive",
       "title_zh": "The future of programming (1982)",
       "summary_zh": "The future of programming (1982)"
-    },
-    {
-      "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
-      "summary": "MapQuest will now show you where Flock cameras are in your neighborhood",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
-      "published_at": "2026-10-17T10:59:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "229",
-      "item_id": "hn:50129947",
-      "summary_type": "extractive",
-      "title_zh": "MapQuest will now show you where Flock cameras are in your neighborhood",
-      "summary_zh": "MapQuest will now show you where Flock cameras are in your neighborhood"
     },
     {
       "title": "DeepSeek-v4.1-Flash-1017",
@@ -252,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "556",
+      "score": "754",
       "item_id": "hn:50129045",
       "summary_type": "extractive",
       "title_zh": "DeepSeek-v4.1-Flash-1017",
@@ -268,7 +252,7 @@
       "tags": [
         "ai"
       ],
-      "score": "78",
+      "score": "183",
       "item_id": "hn:50127586",
       "summary_type": "extractive",
       "title_zh": "Source code of the Estonian online voting system",
@@ -284,7 +268,7 @@
       "tags": [
         "ai"
       ],
-      "score": "47",
+      "score": "100",
       "item_id": "hn:50127572",
       "summary_type": "extractive",
       "title_zh": "A skeptic's first contact with Kubernetes (2024)",
@@ -300,7 +284,7 @@
       "tags": [
         "ai"
       ],
-      "score": "52",
+      "score": "233",
       "item_id": "hn:50126312",
       "summary_type": "extractive",
       "title_zh": "Dam removals are bringing fish back across the northeastern United States",
@@ -316,43 +300,11 @@
       "tags": [
         "ai"
       ],
-      "score": "127",
+      "score": "374",
       "item_id": "hn:50126253",
       "summary_type": "extractive",
       "title_zh": "Bleached corals thrive within days when touching healthy neighbour",
       "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4"
-    },
-    {
-      "title": "The First Candid",
-      "summary": "https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Boulevard_du_Temple_(photograp...https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20261012120105&#x2F;https:&#x2F;&#x2F;www.newyo..., https:&#x2F;&#x2F;archive.is&#x2F;GC1u4",
-      "full_text": "https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Boulevard_du_Temple_(photograp...https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20261012120105&#x2F;https:&#x2F;&#x2F;www.newyo..., https:&#x2F;&#x2F;archive.is&#x2F;GC1u4",
-      "source": "hacker news",
-      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
-      "published_at": "2026-10-16T17:28:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "37",
-      "item_id": "hn:50121506",
-      "summary_type": "extractive",
-      "title_zh": "The First Candid",
-      "summary_zh": "https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Boulevard_du_Temple_(photograp...https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20261012120105&#x2F;https:&#x2F;&#x2F;www.newyo..., https:&#x2F;&#x2F;archive.is&#x2F;GC1u4"
-    },
-    {
-      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-      "summary": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
-      "published_at": "2026-10-16T15:38:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "77",
-      "item_id": "hn:50119751",
-      "summary_type": "extractive",
-      "title_zh": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-      "summary_zh": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip"
     },
     {
       "title": "Rendering pretty sky in Around The World game",
@@ -364,7 +316,7 @@
       "tags": [
         "ai"
       ],
-      "score": "104",
+      "score": "136",
       "item_id": "hn:50119315",
       "summary_type": "extractive",
       "title_zh": "Rendering pretty sky in Around The World game",
@@ -380,27 +332,43 @@
       "tags": [
         "ai"
       ],
-      "score": "19",
+      "score": "55",
       "item_id": "hn:50118098",
       "summary_type": "extractive",
       "title_zh": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
       "summary_zh": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang"
     },
     {
-      "title": "The history of development of Norton Commander (2011)",
-      "summary": "The history of development of Norton Commander (2011)",
+      "title": "Superoptimizing an FPU Emulator",
+      "summary": "Superoptimizing an FPU Emulator",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml",
-      "published_at": "2026-10-16T07:41:36+00:00",
+      "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+      "published_at": "2026-10-16T13:08:32+00:00",
       "tags": [
         "ai"
       ],
-      "score": "65",
-      "item_id": "hn:50115354",
+      "score": "7",
+      "item_id": "hn:50117935",
       "summary_type": "extractive",
-      "title_zh": "The history of development of Norton Commander (2011)",
-      "summary_zh": "The history of development of Norton Commander (2011)"
+      "title_zh": "Superoptimizing an FPU Emulator",
+      "summary_zh": "Superoptimizing an FPU Emulator"
+    },
+    {
+      "title": "Lean now ships with verified kernels",
+      "summary": "Lean now ships with verified kernels",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "published_at": "2026-10-16T06:16:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "55",
+      "item_id": "hn:50114758",
+      "summary_type": "extractive",
+      "title_zh": "Lean now ships with verified kernels",
+      "summary_zh": "Lean now ships with verified kernels"
     },
     {
       "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
@@ -461,9 +429,9 @@
       "url": "http://arxiv.org/abs/2610.22362v1",
       "published_at": "2026-10-15T17:59:02Z",
       "tags": [
-        "vision",
+        "tool",
         "paper",
-        "tool"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.22362v1",
@@ -479,8 +447,8 @@
       "url": "http://arxiv.org/abs/2610.22353v1",
       "published_at": "2026-10-15T17:58:02Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.22353v1",
@@ -496,9 +464,9 @@
       "url": "http://arxiv.org/abs/2610.22350v1",
       "published_at": "2026-10-15T17:57:23Z",
       "tags": [
+        "tool",
         "agent",
-        "paper",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.22350v1",
@@ -515,8 +483,8 @@
       "published_at": "2026-10-15T17:56:32Z",
       "tags": [
         "llm",
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.22344v1",
@@ -566,9 +534,9 @@
       "url": "http://arxiv.org/abs/2610.22340v1",
       "published_at": "2026-10-15T17:55:50Z",
       "tags": [
+        "tool",
         "agent",
-        "paper",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.22340v1",
@@ -601,9 +569,9 @@
       "url": "http://arxiv.org/abs/2610.22331v1",
       "published_at": "2026-10-15T17:52:33Z",
       "tags": [
-        "agent",
         "vision",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.22331v1",
@@ -619,8 +587,8 @@
       "url": "http://arxiv.org/abs/2610.22330v1",
       "published_at": "2026-10-15T17:52:31Z",
       "tags": [
-        "llm",
         "vision",
+        "llm",
         "paper"
       ],
       "score": "📄",
@@ -637,9 +605,9 @@
       "url": "http://arxiv.org/abs/2610.22328v1",
       "published_at": "2026-10-15T17:52:24Z",
       "tags": [
-        "vision",
+        "tool",
         "paper",
-        "tool"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.22328v1",
@@ -672,10 +640,10 @@
       "url": "http://arxiv.org/abs/2610.22322v1",
       "published_at": "2026-10-15T17:51:57Z",
       "tags": [
-        "agent",
-        "vision",
+        "tool",
         "paper",
-        "tool"
+        "vision",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.22322v1",
@@ -708,10 +676,10 @@
       "url": "http://arxiv.org/abs/2610.22319v1",
       "published_at": "2026-10-15T17:51:32Z",
       "tags": [
+        "tool",
         "llm",
-        "paper",
         "agent",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.22319v1",
@@ -727,10 +695,10 @@
       "url": "http://arxiv.org/abs/2610.22316v1",
       "published_at": "2026-10-15T17:51:17Z",
       "tags": [
+        "tool",
         "llm",
         "paper",
-        "agent",
-        "tool"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.22316v1",
@@ -765,7 +733,7 @@
       "tags": [
         "ai"
       ],
-      "score": "10",
+      "score": "53",
       "item_id": "hn:50101649",
       "summary_type": "extractive",
       "title_zh": "Laser Fault Injection on a Budget: RP2350 Edition",
@@ -781,11 +749,27 @@
       "tags": [
         "ai"
       ],
-      "score": "78",
+      "score": "158",
       "item_id": "hn:50100366",
       "summary_type": "extractive",
       "title_zh": "The Commodore 64 hardware simulator: break chips and pins, see the results",
       "summary_zh": "The Commodore 64 hardware simulator: break chips and pins, see the results"
+    },
+    {
+      "title": "Custom server to revive neato bots",
+      "summary": "Custom server to revive neato bots",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/vacuula/vacuula",
+      "published_at": "2026-10-14T23:48:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "18",
+      "item_id": "hn:50097257",
+      "summary_type": "extractive",
+      "title_zh": "Custom server to revive neato bots",
+      "summary_zh": "Custom server to revive neato bots"
     },
     {
       "title": "Vintage Cassettes: 1963-2010",
@@ -797,11 +781,43 @@
       "tags": [
         "ai"
       ],
-      "score": "27",
+      "score": "59",
       "item_id": "hn:50094887",
       "summary_type": "extractive",
       "title_zh": "Vintage Cassettes: 1963-2010",
       "summary_zh": "Vintage Cassettes: 1963-2010"
+    },
+    {
+      "title": "Each step of decoding a PNG (2022)",
+      "summary": "Each step of decoding a PNG (2022)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://iter.ca/post/png/",
+      "published_at": "2026-10-14T18:53:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "26",
+      "item_id": "hn:50093006",
+      "summary_type": "extractive",
+      "title_zh": "Each step of decoding a PNG (2022)",
+      "summary_zh": "Each step of decoding a PNG (2022)"
+    },
+    {
+      "title": "Types of types: Haskell's Kind system",
+      "summary": "Types of types: Haskell's Kind system",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+      "published_at": "2026-10-14T17:00:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "66",
+      "item_id": "hn:50090927",
+      "summary_type": "extractive",
+      "title_zh": "Types of types: Haskell's Kind system",
+      "summary_zh": "Types of types: Haskell's Kind system"
     },
     {
       "title": "Tell HN: Remember to migrate away from .name domain",
@@ -813,27 +829,11 @@
       "tags": [
         "ai"
       ],
-      "score": "118",
+      "score": "140",
       "item_id": "hn:50089577",
       "summary_type": "extractive",
       "title_zh": "Tell HN: Remember to migrate away from .name domain",
       "summary_zh": "If you have a third.level.name domain, it&#x27;ll get permanently expunged next year. Have you successfully taken steps to migrate away? Did you move to a standard .com domain, or are you taking your chances with another .tld?Personally, I&#x27;m stuck in Microsoft hell because Azure admin emails cannot be changed and support is both uncaring and powerless."
-    },
-    {
-      "title": "A Tudor life in the time of plague (2020)",
-      "summary": "A Tudor life in the time of plague (2020)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague",
-      "published_at": "2026-10-14T04:23:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "41",
-      "item_id": "hn:50082358",
-      "summary_type": "extractive",
-      "title_zh": "A Tudor life in the time of plague (2020)",
-      "summary_zh": "A Tudor life in the time of plague (2020)"
     }
   ]
 }

@@ -1,10 +1,123 @@
 {
-  "updated_at": "2026-10-22T17:01:37.251681+00:00",
+  "updated_at": "2026-10-22T21:26:21.350071+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Arc Is Sunsetting",
-      "summary": "Arc Is Sunsetting",
+      "title": "Arc is being sunset on December 22, 2026",
+      "summary": "Arc is being sunset on December 22, 2026",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes",
+      "published_at": "2026-10-22T20:59:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "14",
+      "item_id": "hn:50200947",
+      "summary_type": "extractive",
+      "title_zh": "Arc is being sunset on December 22, 2026",
+      "summary_zh": "Arc is being sunset on December 22, 2026"
+    },
+    {
+      "title": "A complete bypass of eMudhra’s 1FA OTP login system",
+      "summary": "A complete bypass of eMudhra’s 1FA OTP login system",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+      "published_at": "2026-10-22T19:14:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "116",
+      "item_id": "hn:50199757",
+      "summary_type": "extractive",
+      "title_zh": "A complete bypass of eMudhra’s 1FA OTP login system",
+      "summary_zh": "A complete bypass of eMudhra’s 1FA OTP login system"
+    },
+    {
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "summary": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "published_at": "2026-10-22T18:44:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "64",
+      "item_id": "hn:50199389",
+      "summary_type": "extractive",
+      "title_zh": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "summary_zh": "Hedra is a 3D open world game I wrote from scratch while in highschool"
+    },
+    {
+      "title": "Show HN: UI micro interactions prompts for AI",
+      "summary": "Show HN: UI micro interactions prompts for AI",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.typeui.sh/micro-interactions",
+      "published_at": "2026-10-22T18:32:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "54",
+      "item_id": "hn:50199290",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: UI micro interactions prompts for AI",
+      "summary_zh": "Show HN: UI micro interactions prompts for AI"
+    },
+    {
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "summary": "AI and the Enclosure of the Scientific Commons",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "published_at": "2026-10-22T18:28:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "60",
+      "item_id": "hn:50199230",
+      "summary_type": "extractive",
+      "title_zh": "AI and the Enclosure of the Scientific Commons",
+      "summary_zh": "AI and the Enclosure of the Scientific Commons"
+    },
+    {
+      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "summary": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+      "published_at": "2026-10-22T18:02:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "55",
+      "item_id": "hn:50198940",
+      "summary_type": "extractive",
+      "title_zh": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "summary_zh": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation"
+    },
+    {
+      "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+      "summary": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/rbartoli/agent-usage-guard",
+      "published_at": "2026-10-22T18:02:38+00:00",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "score": "15",
+      "item_id": "hn:50198936",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+      "summary_zh": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window"
+    },
+    {
+      "title": "A farewell to Arc browser",
+      "summary": "A farewell to Arc browser",
       "full_text": "",
       "source": "hacker news",
       "url": "https://arc.net/",
@@ -12,11 +125,11 @@
       "tags": [
         "ai"
       ],
-      "score": "37",
+      "score": "188",
       "item_id": "hn:50197601",
       "summary_type": "extractive",
-      "title_zh": "Arc Is Sunsetting",
-      "summary_zh": "Arc Is Sunsetting"
+      "title_zh": "A farewell to Arc browser",
+      "summary_zh": "A farewell to Arc browser"
     },
     {
       "title": "Getting ready to operate GNU Taler in Germany",
@@ -28,27 +141,27 @@
       "tags": [
         "ai"
       ],
-      "score": "22",
+      "score": "161",
       "item_id": "hn:50197404",
       "summary_type": "extractive",
       "title_zh": "Getting ready to operate GNU Taler in Germany",
       "summary_zh": "Getting ready to operate GNU Taler in Germany"
     },
     {
-      "title": "Google cleared 300 hectares of Finnish forest",
-      "summary": "Google cleared 300 hectares of Finnish forest",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "summary": "Every AI model has the same \"controversial\" take on humans",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
-      "published_at": "2026-10-22T15:32:46+00:00",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "published_at": "2026-10-22T16:08:00+00:00",
       "tags": [
         "ai"
       ],
-      "score": "107",
-      "item_id": "hn:50196837",
+      "score": "88",
+      "item_id": "hn:50197313",
       "summary_type": "extractive",
-      "title_zh": "Google cleared 300 hectares of Finnish forest",
-      "summary_zh": "Google cleared 300 hectares of Finnish forest"
+      "title_zh": "Every AI model has the same \"controversial\" take on humans",
+      "summary_zh": "Every AI model has the same \"controversial\" take on humans"
     },
     {
       "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
@@ -60,7 +173,7 @@
       "tags": [
         "ai"
       ],
-      "score": "68",
+      "score": "250",
       "item_id": "hn:50196718",
       "summary_type": "extractive",
       "title_zh": "Show HN: Run full iOS 16.5 firmware on Android Devices",
@@ -76,7 +189,7 @@
       "tags": [
         "ai"
       ],
-      "score": "285",
+      "score": "761",
       "item_id": "hn:50195959",
       "summary_type": "extractive",
       "title_zh": "Quad9 (DNS Resolver) to Exit France",
@@ -92,15 +205,15 @@
       "tags": [
         "ai"
       ],
-      "score": "67",
+      "score": "205",
       "item_id": "hn:50195873",
       "summary_type": "extractive",
       "title_zh": "MPs moving to restrict gambling ads in Canada",
       "summary_zh": "MPs moving to restrict gambling ads in Canada"
     },
     {
-      "title": "What's Getting Pwned",
-      "summary": "What's Getting Pwned",
+      "title": "What’s getting pwned right now",
+      "summary": "What’s getting pwned right now",
       "full_text": "",
       "source": "hacker news",
       "url": "https://pwn.watch/",
@@ -108,11 +221,11 @@
       "tags": [
         "ai"
       ],
-      "score": "162",
+      "score": "301",
       "item_id": "hn:50195543",
       "summary_type": "extractive",
-      "title_zh": "What's Getting Pwned",
-      "summary_zh": "What's Getting Pwned"
+      "title_zh": "What’s getting pwned right now",
+      "summary_zh": "What’s getting pwned right now"
     },
     {
       "title": "eMudhra to exit global SSL/TLS certificate business",
@@ -124,43 +237,27 @@
       "tags": [
         "ai"
       ],
-      "score": "517",
+      "score": "840",
       "item_id": "hn:50195110",
       "summary_type": "extractive",
       "title_zh": "eMudhra to exit global SSL/TLS certificate business",
       "summary_zh": "eMudhra to exit global SSL/TLS certificate business"
     },
     {
-      "title": "Crystal 1.22",
-      "summary": "Crystal 1.22",
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "summary": "Woman faces six years in prison over Cash App account she never opened",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
-      "published_at": "2026-10-22T13:20:13+00:00",
+      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "published_at": "2026-10-22T13:11:00+00:00",
       "tags": [
         "ai"
       ],
-      "score": "120",
-      "item_id": "hn:50194938",
+      "score": "294",
+      "item_id": "hn:50194833",
       "summary_type": "extractive",
-      "title_zh": "Crystal 1.22",
-      "summary_zh": "Crystal 1.22"
-    },
-    {
-      "title": "SBD: We Have a Filesystem at Home",
-      "summary": "SBD: We Have a Filesystem at Home",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://fly.io/blog/sprites-block-device/",
-      "published_at": "2026-10-22T13:09:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "34",
-      "item_id": "hn:50194824",
-      "summary_type": "extractive",
-      "title_zh": "SBD: We Have a Filesystem at Home",
-      "summary_zh": "SBD: We Have a Filesystem at Home"
+      "title_zh": "Woman faces six years in prison over Cash App account she never opened",
+      "summary_zh": "Woman faces six years in prison over Cash App account she never opened"
     },
     {
       "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
@@ -172,43 +269,43 @@
       "tags": [
         "ai"
       ],
-      "score": "49",
+      "score": "91",
       "item_id": "hn:50194522",
       "summary_type": "extractive",
       "title_zh": "The Last Museum: Semantic search across 5.8M artworks from major museums",
       "summary_zh": "The Last Museum: Semantic search across 5.8M artworks from major museums"
     },
     {
-      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
-      "summary": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "summary": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
-      "published_at": "2026-10-22T11:50:36+00:00",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "published_at": "2026-10-22T11:42:03+00:00",
       "tags": [
         "ai"
       ],
-      "score": "198",
-      "item_id": "hn:50194070",
+      "score": "117",
+      "item_id": "hn:50194009",
       "summary_type": "extractive",
-      "title_zh": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
-      "summary_zh": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure"
+      "title_zh": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "summary_zh": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought"
     },
     {
-      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
-      "summary": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
-      "full_text": "",
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "summary": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 &amp; CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.I am truly sorry. I take full responsibility for my actions.It was not remotely my intention to cause any of the subsequent side effects.At the time of posting, I didn&#x27;t know about any embargo.",
+      "full_text": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 &amp; CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.I am truly sorry. I take full responsibility for my actions.It was not remotely my intention to cause any of the subsequent side effects.At the time of posting, I didn&#x27;t know about any embargo. My contact had told me there was no embargo, and her contact had told",
       "source": "hacker news",
-      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
-      "published_at": "2026-10-22T11:12:37+00:00",
+      "url": "https://news.ycombinator.com/item?id=50193416",
+      "published_at": "2026-10-22T10:11:44+00:00",
       "tags": [
         "ai"
       ],
-      "score": "206",
-      "item_id": "hn:50193804",
+      "score": "214",
+      "item_id": "hn:50193416",
       "summary_type": "extractive",
-      "title_zh": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
-      "summary_zh": "Several Linux kernel vulnerabilities accidentally posted to public mailing list"
+      "title_zh": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "summary_zh": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 &amp; CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.I am truly sorry. I take full responsibility for my actions.It was not remotely my intention to cause any of the subsequent side effects.At the time of posting, I didn&#x27;t know about any embargo."
     },
     {
       "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
@@ -220,7 +317,7 @@
       "tags": [
         "ai"
       ],
-      "score": "150",
+      "score": "183",
       "item_id": "hn:50193170",
       "summary_type": "extractive",
       "title_zh": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
@@ -236,7 +333,7 @@
       "tags": [
         "ai"
       ],
-      "score": "487",
+      "score": "631",
       "item_id": "hn:50192536",
       "summary_type": "extractive",
       "title_zh": "Jailbreaking the Switch 2",
@@ -252,7 +349,7 @@
       "tags": [
         "ai"
       ],
-      "score": "285",
+      "score": "297",
       "item_id": "hn:50190455",
       "summary_type": "extractive",
       "title_zh": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
@@ -268,7 +365,7 @@
       "tags": [
         "ai"
       ],
-      "score": "426",
+      "score": "469",
       "item_id": "hn:50190363",
       "summary_type": "extractive",
       "title_zh": "WorldTUI: I trained a 360M model to pretend to be a terminal",
@@ -284,43 +381,11 @@
       "tags": [
         "ai"
       ],
-      "score": "552",
+      "score": "578",
       "item_id": "hn:50188228",
       "summary_type": "extractive",
       "title_zh": "Security Disclosure",
       "summary_zh": "Security Disclosure"
-    },
-    {
-      "title": "Rust Style Guide",
-      "summary": "Rust Style Guide",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "published_at": "2026-10-21T19:11:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "365",
-      "item_id": "hn:50186010",
-      "summary_type": "extractive",
-      "title_zh": "Rust Style Guide",
-      "summary_zh": "Rust Style Guide"
-    },
-    {
-      "title": "GitLab critical patch release",
-      "summary": "GitLab critical patch release",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "published_at": "2026-10-21T19:01:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "396",
-      "item_id": "hn:50185869",
-      "summary_type": "extractive",
-      "title_zh": "GitLab critical patch release",
-      "summary_zh": "GitLab critical patch release"
     },
     {
       "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
@@ -330,8 +395,8 @@
       "url": "http://arxiv.org/abs/2610.30128v1",
       "published_at": "2026-10-21T17:58:06Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30128v1",
@@ -347,8 +412,8 @@
       "url": "http://arxiv.org/abs/2610.30125v1",
       "published_at": "2026-10-21T17:57:59Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30125v1",
@@ -365,8 +430,8 @@
       "published_at": "2026-10-21T17:55:31Z",
       "tags": [
         "llm",
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30116v1",
@@ -399,8 +464,8 @@
       "published_at": "2026-10-21T17:54:01Z",
       "tags": [
         "llm",
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30113v1",
@@ -416,9 +481,9 @@
       "url": "http://arxiv.org/abs/2610.30108v1",
       "published_at": "2026-10-21T17:52:48Z",
       "tags": [
-        "tool",
+        "paper",
         "agent",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30108v1",
@@ -434,9 +499,9 @@
       "url": "http://arxiv.org/abs/2610.30105v1",
       "published_at": "2026-10-21T17:50:31Z",
       "tags": [
-        "tool",
+        "paper",
         "agent",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30105v1",
@@ -469,8 +534,8 @@
       "url": "http://arxiv.org/abs/2610.30099v1",
       "published_at": "2026-10-21T17:45:42Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30099v1",
@@ -486,8 +551,8 @@
       "url": "http://arxiv.org/abs/2610.30097v1",
       "published_at": "2026-10-21T17:45:24Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30097v1",
@@ -503,8 +568,8 @@
       "url": "http://arxiv.org/abs/2610.30074v1",
       "published_at": "2026-10-21T17:27:17Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30074v1",
@@ -520,9 +585,9 @@
       "url": "http://arxiv.org/abs/2610.30072v1",
       "published_at": "2026-10-21T17:26:53Z",
       "tags": [
+        "vision",
         "paper",
-        "agent",
-        "vision"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30072v1",
@@ -538,10 +603,10 @@
       "url": "http://arxiv.org/abs/2610.30051v1",
       "published_at": "2026-10-21T17:11:52Z",
       "tags": [
-        "tool",
         "vision",
+        "paper",
         "agent",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30051v1",
@@ -557,8 +622,8 @@
       "url": "http://arxiv.org/abs/2610.30047v1",
       "published_at": "2026-10-21T17:06:34Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30047v1",
@@ -574,8 +639,8 @@
       "url": "http://arxiv.org/abs/2610.30045v1",
       "published_at": "2026-10-21T17:04:02Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30045v1",
@@ -591,8 +656,8 @@
       "url": "http://arxiv.org/abs/2610.30044v1",
       "published_at": "2026-10-21T17:03:34Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30044v1",
@@ -608,10 +673,10 @@
       "url": "http://arxiv.org/abs/2610.30042v1",
       "published_at": "2026-10-21T17:02:28Z",
       "tags": [
-        "tool",
+        "paper",
         "llm",
         "agent",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30042v1",
@@ -627,9 +692,9 @@
       "url": "http://arxiv.org/abs/2610.30041v1",
       "published_at": "2026-10-21T17:02:06Z",
       "tags": [
-        "tool",
+        "paper",
         "agent",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30041v1",
@@ -645,9 +710,9 @@
       "url": "http://arxiv.org/abs/2610.30026v1",
       "published_at": "2026-10-21T16:51:25Z",
       "tags": [
-        "tool",
+        "paper",
         "agent",
-        "paper"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30026v1",
@@ -663,8 +728,8 @@
       "url": "http://arxiv.org/abs/2610.30022v1",
       "published_at": "2026-10-21T16:49:03Z",
       "tags": [
-        "paper",
-        "ai"
+        "ai",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30022v1",
@@ -682,79 +747,47 @@
       "tags": [
         "ai"
       ],
-      "score": "19",
+      "score": "57",
       "item_id": "hn:50180257",
       "summary_type": "extractive",
       "title_zh": "Show HN: Uberblok – an interactive museum of ZFS internals",
       "summary_zh": "I&#x27;ve worked for a long time in the storage field during my career and ZFS is the piece of engineering I admire most in that space. I wanted a way to pay homage to it and to explore and better understand its internals. So I built Uberblok: a museum of ZFS."
     },
     {
-      "title": "The painter behind Manhattan’s Gilded Age interiors",
-      "summary": "The painter behind Manhattan’s Gilded Age interiors",
+      "title": "Show HN: Turn regular JavaScript into a neural net",
+      "summary": "Show HN: Turn regular JavaScript into a neural net",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
-      "published_at": "2026-10-20T23:09:43+00:00",
+      "url": "https://chenglou.me/handwired/",
+      "published_at": "2026-10-20T21:32:23+00:00",
       "tags": [
         "ai"
       ],
-      "score": "40",
-      "item_id": "hn:50173944",
+      "score": "23",
+      "item_id": "hn:50172984",
       "summary_type": "extractive",
-      "title_zh": "The painter behind Manhattan’s Gilded Age interiors",
-      "summary_zh": "The painter behind Manhattan’s Gilded Age interiors"
+      "title_zh": "Show HN: Turn regular JavaScript into a neural net",
+      "summary_zh": "Show HN: Turn regular JavaScript into a neural net"
     },
     {
-      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "summary": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "title": "The phenomena that brighten dawn and dusk (2016)",
+      "summary": "The phenomena that brighten dawn and dusk (2016)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "published_at": "2026-10-20T06:20:54+00:00",
+      "url": "https://www.colorado.edu/asmagazine-archive/node/2039",
+      "published_at": "2026-10-20T21:05:16+00:00",
       "tags": [
         "ai"
       ],
-      "score": "255",
-      "item_id": "hn:50162044",
+      "score": "15",
+      "item_id": "hn:50172660",
       "summary_type": "extractive",
-      "title_zh": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "summary_zh": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua"
+      "title_zh": "The phenomena that brighten dawn and dusk (2016)",
+      "summary_zh": "The phenomena that brighten dawn and dusk (2016)"
     },
     {
-      "title": "No more icons in every menu by default",
-      "summary": "No more icons in every menu by default",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "published_at": "2026-10-20T04:27:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "433",
-      "item_id": "hn:50161346",
-      "summary_type": "extractive",
-      "title_zh": "No more icons in every menu by default",
-      "summary_zh": "No more icons in every menu by default"
-    },
-    {
-      "title": "What Is the Karakoram Anomaly?",
-      "summary": "What Is the Karakoram Anomaly?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
-      "published_at": "2026-10-20T01:26:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "76",
-      "item_id": "hn:50160241",
-      "summary_type": "extractive",
-      "title_zh": "What Is the Karakoram Anomaly?",
-      "summary_zh": "What Is the Karakoram Anomaly?"
-    },
-    {
-      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-      "summary": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "title": "Startup taps underwater volcano as energy source in “proof point” test",
+      "summary": "Startup taps underwater volcano as energy source in “proof point” test",
       "full_text": "",
       "source": "hacker news",
       "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
@@ -762,27 +795,11 @@
       "tags": [
         "ai"
       ],
-      "score": "83",
+      "score": "115",
       "item_id": "hn:50157456",
       "summary_type": "extractive",
-      "title_zh": "Startup taps underwater volcano as energy source in \"proof point\" test",
-      "summary_zh": "Startup taps underwater volcano as energy source in \"proof point\" test"
-    },
-    {
-      "title": "Eigenmoon: linear algebra puzzles by moonlight",
-      "summary": "Eigenmoon: linear algebra puzzles by moonlight",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://eigenmoon.vercel.app/",
-      "published_at": "2026-10-19T20:02:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "48",
-      "item_id": "hn:50157316",
-      "summary_type": "extractive",
-      "title_zh": "Eigenmoon: linear algebra puzzles by moonlight",
-      "summary_zh": "Eigenmoon: linear algebra puzzles by moonlight"
+      "title_zh": "Startup taps underwater volcano as energy source in “proof point” test",
+      "summary_zh": "Startup taps underwater volcano as energy source in “proof point” test"
     },
     {
       "title": "Dungeon Generation in the Gnomish Mines of NetHack",
@@ -794,7 +811,7 @@
       "tags": [
         "ai"
       ],
-      "score": "22",
+      "score": "96",
       "item_id": "hn:50154109",
       "summary_type": "extractive",
       "title_zh": "Dungeon Generation in the Gnomish Mines of NetHack",
@@ -810,27 +827,11 @@
       "tags": [
         "ai"
       ],
-      "score": "244",
+      "score": "357",
       "item_id": "hn:50150163",
       "summary_type": "extractive",
       "title_zh": "What Is Gridifcation",
       "summary_zh": "What Is Gridifcation"
-    },
-    {
-      "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
-      "summary": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/rhargreaves/vmmouse-nt3",
-      "published_at": "2026-10-18T19:50:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "28",
-      "item_id": "hn:50144727",
-      "summary_type": "extractive",
-      "title_zh": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
-      "summary_zh": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver"
     }
   ]
 }

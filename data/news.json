@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-10-22T04:24:18.988006+00:00",
+  "updated_at": "2026-10-22T11:36:25.898169+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "summary": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "published_at": "2026-10-22T11:12:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:50193804",
+      "summary_type": "extractive",
+      "title_zh": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "summary_zh": "Several Linux kernel vulnerabilities accidentally posted to public mailing list"
+    },
+    {
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "summary": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "published_at": "2026-10-22T09:31:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "53",
+      "item_id": "hn:50193170",
+      "summary_type": "extractive",
+      "title_zh": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "summary_zh": "Faster than earcut: triangulating 3.7M map polygons in 489 ms"
+    },
+    {
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "summary": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "published_at": "2026-10-22T08:51:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "158",
+      "item_id": "hn:50192900",
+      "summary_type": "extractive",
+      "title_zh": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "summary_zh": "CVE-2026-111943: Compromised Intermediate Certificate Authority"
+    },
+    {
+      "title": "Jailbreaking the Switch 2",
+      "summary": "Jailbreaking the Switch 2",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "published_at": "2026-10-22T08:01:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "36",
+      "item_id": "hn:50192536",
+      "summary_type": "extractive",
+      "title_zh": "Jailbreaking the Switch 2",
+      "summary_zh": "Jailbreaking the Switch 2"
+    },
     {
       "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
       "summary": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
@@ -12,60 +76,27 @@
       "tags": [
         "ai"
       ],
-      "score": "48",
+      "score": "218",
       "item_id": "hn:50190455",
       "summary_type": "extractive",
       "title_zh": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
       "summary_zh": "The recently proposed o(n log n) integer multiplication algorithm [pdf]"
     },
     {
-      "title": "LLM Agents Play Pokemon Showdown",
-      "summary": "LLM Agents Play Pokemon Showdown",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "summary": "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://olivergrabner.com/research/pokemon/",
-      "published_at": "2026-10-22T02:13:48+00:00",
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": "17",
-      "item_id": "hn:50190334",
-      "summary_type": "extractive",
-      "title_zh": "LLM Agents Play Pokemon Showdown",
-      "summary_zh": "LLM Agents Play Pokemon Showdown"
-    },
-    {
-      "title": "Epic Games Inc v Apple Inc",
-      "summary": "Epic Games Inc v Apple Inc",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-      "published_at": "2026-10-22T01:52:03+00:00",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "published_at": "2026-10-22T02:18:41+00:00",
       "tags": [
         "ai"
       ],
-      "score": "109",
-      "item_id": "hn:50190168",
+      "score": "265",
+      "item_id": "hn:50190363",
       "summary_type": "extractive",
-      "title_zh": "Epic Games Inc v Apple Inc",
-      "summary_zh": "Epic Games Inc v Apple Inc"
-    },
-    {
-      "title": "When Do We Become the Person We Ought to Be?",
-      "summary": "When Do We Become the Person We Ought to Be?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
-      "published_at": "2026-10-21T23:57:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "23",
-      "item_id": "hn:50189278",
-      "summary_type": "extractive",
-      "title_zh": "When Do We Become the Person We Ought to Be?",
-      "summary_zh": "When Do We Become the Person We Ought to Be?"
+      "title_zh": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "summary_zh": "WorldTUI: I trained a 360M model to pretend to be a terminal"
     },
     {
       "title": "mitmproxy adds --emudhra option",
@@ -77,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "332",
+      "score": "512",
       "item_id": "hn:50189232",
       "summary_type": "extractive",
       "title_zh": "mitmproxy adds --emudhra option",
@@ -93,27 +124,11 @@
       "tags": [
         "ai"
       ],
-      "score": "277",
+      "score": "551",
       "item_id": "hn:50188948",
       "summary_type": "extractive",
       "title_zh": "There isn't an easy exploit for this PHP vulnerability",
       "summary_zh": "There isn't an easy exploit for this PHP vulnerability"
-    },
-    {
-      "title": "Postgres recovery_prefetch can cause outages",
-      "summary": "Postgres recovery_prefetch can cause outages",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
-      "published_at": "2026-10-21T22:33:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:50188614",
-      "summary_type": "extractive",
-      "title_zh": "Postgres recovery_prefetch can cause outages",
-      "summary_zh": "Postgres recovery_prefetch can cause outages"
     },
     {
       "title": "Security Disclosure",
@@ -125,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "368",
+      "score": "489",
       "item_id": "hn:50188228",
       "summary_type": "extractive",
       "title_zh": "Security Disclosure",
@@ -141,7 +156,7 @@
       "tags": [
         "ai"
       ],
-      "score": "244",
+      "score": "323",
       "item_id": "hn:50186010",
       "summary_type": "extractive",
       "title_zh": "Rust Style Guide",
@@ -157,11 +172,27 @@
       "tags": [
         "ai"
       ],
-      "score": "275",
+      "score": "363",
       "item_id": "hn:50185869",
       "summary_type": "extractive",
       "title_zh": "GitLab critical patch release",
       "summary_zh": "GitLab critical patch release"
+    },
+    {
+      "title": "The compiler was supposed to end programming too",
+      "summary": "The compiler was supposed to end programming too",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+      "published_at": "2026-10-21T18:00:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "124",
+      "item_id": "hn:50185045",
+      "summary_type": "extractive",
+      "title_zh": "The compiler was supposed to end programming too",
+      "summary_zh": "The compiler was supposed to end programming too"
     },
     {
       "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
@@ -171,8 +202,8 @@
       "url": "http://arxiv.org/abs/2610.30128v1",
       "published_at": "2026-10-21T17:58:06Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30128v1",
@@ -205,9 +236,9 @@
       "url": "http://arxiv.org/abs/2610.30116v1",
       "published_at": "2026-10-21T17:55:31Z",
       "tags": [
-        "agent",
+        "paper",
         "llm",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30116v1",
@@ -239,9 +270,9 @@
       "url": "http://arxiv.org/abs/2610.30113v1",
       "published_at": "2026-10-21T17:54:01Z",
       "tags": [
-        "agent",
+        "paper",
         "llm",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30113v1",
@@ -257,8 +288,8 @@
       "url": "http://arxiv.org/abs/2610.30108v1",
       "published_at": "2026-10-21T17:52:48Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "agent"
       ],
       "score": "📄",
@@ -275,8 +306,8 @@
       "url": "http://arxiv.org/abs/2610.30105v1",
       "published_at": "2026-10-21T17:50:31Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "agent"
       ],
       "score": "📄",
@@ -310,8 +341,8 @@
       "url": "http://arxiv.org/abs/2610.30099v1",
       "published_at": "2026-10-21T17:45:42Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30099v1",
@@ -346,27 +377,11 @@
       "tags": [
         "ai"
       ],
-      "score": "438",
+      "score": "584",
       "item_id": "hn:50184820",
       "summary_type": "extractive",
       "title_zh": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
       "summary_zh": "https:&#x2F;&#x2F;nmdoj.gov&#x2F;press-release&#x2F;the-new-mexico-department-of..."
-    },
-    {
-      "title": "EA is shutting down BioWare",
-      "summary": "EA is shutting down BioWare",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "published_at": "2026-10-21T17:29:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "574",
-      "item_id": "hn:50184586",
-      "summary_type": "extractive",
-      "title_zh": "EA is shutting down BioWare",
-      "summary_zh": "EA is shutting down BioWare"
     },
     {
       "title": "Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization",
@@ -412,9 +427,9 @@
       "published_at": "2026-10-21T17:11:52Z",
       "tags": [
         "vision",
-        "agent",
+        "paper",
         "tool",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30051v1",
@@ -430,8 +445,8 @@
       "url": "http://arxiv.org/abs/2610.30047v1",
       "published_at": "2026-10-21T17:06:34Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30047v1",
@@ -447,8 +462,8 @@
       "url": "http://arxiv.org/abs/2610.30045v1",
       "published_at": "2026-10-21T17:04:02Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30045v1",
@@ -464,8 +479,8 @@
       "url": "http://arxiv.org/abs/2610.30044v1",
       "published_at": "2026-10-21T17:03:34Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30044v1",
@@ -481,10 +496,10 @@
       "url": "http://arxiv.org/abs/2610.30042v1",
       "published_at": "2026-10-21T17:02:28Z",
       "tags": [
-        "agent",
-        "tool",
         "paper",
-        "llm"
+        "llm",
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30042v1",
@@ -500,8 +515,8 @@
       "url": "http://arxiv.org/abs/2610.30041v1",
       "published_at": "2026-10-21T17:02:06Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "agent"
       ],
       "score": "📄",
@@ -518,8 +533,8 @@
       "url": "http://arxiv.org/abs/2610.30026v1",
       "published_at": "2026-10-21T16:51:25Z",
       "tags": [
-        "tool",
         "paper",
+        "tool",
         "agent"
       ],
       "score": "📄",
@@ -536,8 +551,8 @@
       "url": "http://arxiv.org/abs/2610.30022v1",
       "published_at": "2026-10-21T16:49:03Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.30022v1",
@@ -553,30 +568,14 @@
       "url": "https://github.com/omnara-ai/omnara",
       "published_at": "2026-10-21T16:44:53+00:00",
       "tags": [
-        "llm",
-        "agent"
+        "agent",
+        "llm"
       ],
-      "score": "43",
+      "score": "86",
       "item_id": "hn:50183892",
       "summary_type": "extractive",
       "title_zh": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
       "summary_zh": "Hey all, Kartik from Omnara (https:&#x2F;&#x2F;omnara.com) here. We&#x27;re building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC."
-    },
-    {
-      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "summary": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
-      "published_at": "2026-10-21T16:20:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "105",
-      "item_id": "hn:50183512",
-      "summary_type": "extractive",
-      "title_zh": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "summary_zh": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic"
     },
     {
       "title": "Today's PHP security release, and how we're strengthening security",
@@ -588,7 +587,7 @@
       "tags": [
         "ai"
       ],
-      "score": "698",
+      "score": "751",
       "item_id": "hn:50182987",
       "summary_type": "extractive",
       "title_zh": "Today's PHP security release, and how we're strengthening security",
@@ -604,7 +603,7 @@
       "tags": [
         "ai"
       ],
-      "score": "175",
+      "score": "189",
       "item_id": "hn:50182526",
       "summary_type": "extractive",
       "title_zh": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
@@ -620,7 +619,7 @@
       "tags": [
         "ai"
       ],
-      "score": "384",
+      "score": "428",
       "item_id": "hn:50181136",
       "summary_type": "extractive",
       "title_zh": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
@@ -636,59 +635,11 @@
       "tags": [
         "ai"
       ],
-      "score": "985",
+      "score": "🔥 1.0k",
       "item_id": "hn:50180873",
       "summary_type": "extractive",
       "title_zh": "PHP 8.2.35",
       "summary_zh": "Related ongoing thread: Today&#x27;s PHP security release, and how we&#x27;re strengthening security - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50182987"
-    },
-    {
-      "title": "I reverse engineered a board game",
-      "summary": "I reverse engineered a board game",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
-      "published_at": "2026-10-21T13:40:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "10",
-      "item_id": "hn:50180799",
-      "summary_type": "extractive",
-      "title_zh": "I reverse engineered a board game",
-      "summary_zh": "I reverse engineered a board game"
-    },
-    {
-      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "summary": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://9mothers.com/careers",
-      "published_at": "2026-10-21T12:00:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:50179455",
-      "summary_type": "extractive",
-      "title_zh": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "summary_zh": "9 Mothers (YC P26) Is Hiring in Austin, TX"
-    },
-    {
-      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-      "summary": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "published_at": "2026-10-21T09:08:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "859",
-      "item_id": "hn:50177916",
-      "summary_type": "extractive",
-      "title_zh": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-      "summary_zh": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds"
     },
     {
       "title": "PingCap TiDB Leaks",
@@ -700,7 +651,7 @@
       "tags": [
         "ai"
       ],
-      "score": "260",
+      "score": "366",
       "item_id": "hn:50173716",
       "summary_type": "extractive",
       "title_zh": "PingCap TiDB Leaks",
@@ -716,7 +667,7 @@
       "tags": [
         "ai"
       ],
-      "score": "27",
+      "score": "73",
       "item_id": "hn:50166590",
       "summary_type": "extractive",
       "title_zh": "Beyond the &",
@@ -732,7 +683,7 @@
       "tags": [
         "ai"
       ],
-      "score": "167",
+      "score": "227",
       "item_id": "hn:50162044",
       "summary_type": "extractive",
       "title_zh": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
@@ -748,43 +699,91 @@
       "tags": [
         "ai"
       ],
-      "score": "217",
+      "score": "344",
       "item_id": "hn:50161346",
       "summary_type": "extractive",
       "title_zh": "No more icons in every menu by default",
       "summary_zh": "No more icons in every menu by default"
     },
     {
-      "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
-      "summary": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
+      "title": "ThinkPad I9990303 Error Catch-22",
+      "summary": "ThinkPad I9990303 Error Catch-22",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.jhiblog.org/2026/10/19/clockwork-metaphors/",
-      "published_at": "2026-10-20T03:25:47+00:00",
+      "url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
+      "published_at": "2026-10-20T04:16:10+00:00",
       "tags": [
         "ai"
       ],
-      "score": "4",
-      "item_id": "hn:50160988",
+      "score": "32",
+      "item_id": "hn:50161283",
       "summary_type": "extractive",
-      "title_zh": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
-      "summary_zh": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages"
+      "title_zh": "ThinkPad I9990303 Error Catch-22",
+      "summary_zh": "ThinkPad I9990303 Error Catch-22"
     },
     {
-      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-      "summary": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "title": "What Is the Karakoram Anomaly?",
+      "summary": "What Is the Karakoram Anomaly?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
-      "published_at": "2026-10-20T00:14:03+00:00",
+      "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+      "published_at": "2026-10-20T01:26:53+00:00",
       "tags": [
         "ai"
       ],
-      "score": "156",
-      "item_id": "hn:50159726",
+      "score": "42",
+      "item_id": "hn:50160241",
       "summary_type": "extractive",
-      "title_zh": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-      "summary_zh": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it"
+      "title_zh": "What Is the Karakoram Anomaly?",
+      "summary_zh": "What Is the Karakoram Anomaly?"
+    },
+    {
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "summary": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "published_at": "2026-10-19T20:12:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:50157456",
+      "summary_type": "extractive",
+      "title_zh": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "summary_zh": "Startup taps underwater volcano as energy source in \"proof point\" test"
+    },
+    {
+      "title": "Eigenmoon: linear algebra puzzles by moonlight",
+      "summary": "Eigenmoon: linear algebra puzzles by moonlight",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://eigenmoon.vercel.app/",
+      "published_at": "2026-10-19T20:02:03+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "3",
+      "item_id": "hn:50157316",
+      "summary_type": "extractive",
+      "title_zh": "Eigenmoon: linear algebra puzzles by moonlight",
+      "summary_zh": "Eigenmoon: linear algebra puzzles by moonlight"
+    },
+    {
+      "title": "The Robot I Didn't Expect to Build",
+      "summary": "The Robot I Didn't Expect to Build",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "published_at": "2026-10-19T17:57:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:50155616",
+      "summary_type": "extractive",
+      "title_zh": "The Robot I Didn't Expect to Build",
+      "summary_zh": "The Robot I Didn't Expect to Build"
     },
     {
       "title": "Chain of Thought for Humans",
@@ -796,7 +795,7 @@
       "tags": [
         "ai"
       ],
-      "score": "52",
+      "score": "106",
       "item_id": "hn:50154100",
       "summary_type": "extractive",
       "title_zh": "Chain of Thought for Humans",
@@ -812,27 +811,27 @@
       "tags": [
         "ai"
       ],
-      "score": "125",
+      "score": "185",
       "item_id": "hn:50153531",
       "summary_type": "extractive",
       "title_zh": "Code is clay now",
       "summary_zh": "Code is clay now"
     },
     {
-      "title": "The Rise and Fall of the Plasma Screen",
-      "summary": "The Rise and Fall of the Plasma Screen",
+      "title": "I can't use generic lambdas at compile-time, now what?",
+      "summary": "I can't use generic lambdas at compile-time, now what?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
-      "published_at": "2026-10-19T14:20:04+00:00",
+      "url": "https://blog.ganets.ky/ClangGenericLambdas/",
+      "published_at": "2026-10-19T14:45:45+00:00",
       "tags": [
         "ai"
       ],
-      "score": "42",
-      "item_id": "hn:50152847",
+      "score": "15",
+      "item_id": "hn:50153125",
       "summary_type": "extractive",
-      "title_zh": "The Rise and Fall of the Plasma Screen",
-      "summary_zh": "The Rise and Fall of the Plasma Screen"
+      "title_zh": "I can't use generic lambdas at compile-time, now what?",
+      "summary_zh": "I can't use generic lambdas at compile-time, now what?"
     }
   ]
 }

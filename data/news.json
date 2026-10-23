@@ -1,26 +1,74 @@
 {
-  "updated_at": "2026-10-23T04:29:31.612412+00:00",
+  "updated_at": "2026-10-23T11:25:50.431617+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
-      "summary": "The &quot;product graveyard&quot; of SaaSHub has been tracking the status (and lifespan) of hundreds of thousands of products. It&#x27;s been hovering around 4y for quite some time. However, there&#x27;s a sharp decline in 2026 leading to about 1.5y these days.",
-      "full_text": "The &quot;product graveyard&quot; of SaaSHub has been tracking the status (and lifespan) of hundreds of thousands of products. It&#x27;s been hovering around 4y for quite some time. However, there&#x27;s a sharp decline in 2026 leading to about 1.5y these days. https:&#x2F;&#x2F;www.saashub.com&#x2F;product-graveyard That&#x27;s a huge drop. And, it matches my &quot;human&quot; observations. A lot of products are being vibe coded, released, and soon after that abandoned. It&#x27;s become too che",
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "summary": "Dutch government had hacked into Jared Kushner's phone",
+      "full_text": "",
       "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=50204125",
-      "published_at": "2026-10-23T03:20:38+00:00",
+      "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+      "published_at": "2026-10-23T10:41:32+00:00",
       "tags": [
         "ai"
       ],
-      "score": "5",
-      "item_id": "hn:50204125",
+      "score": "25",
+      "item_id": "hn:50206914",
       "summary_type": "extractive",
-      "title_zh": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
-      "summary_zh": "The &quot;product graveyard&quot; of SaaSHub has been tracking the status (and lifespan) of hundreds of thousands of products. It&#x27;s been hovering around 4y for quite some time. However, there&#x27;s a sharp decline in 2026 leading to about 1.5y these days."
+      "title_zh": "Dutch government had hacked into Jared Kushner's phone",
+      "summary_zh": "Dutch government had hacked into Jared Kushner's phone"
     },
     {
-      "title": "This I Believe",
-      "summary": "This I Believe",
+      "title": "Job Loss and Cortisone Mania",
+      "summary": "Job Loss and Cortisone Mania",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+      "published_at": "2026-10-23T10:31:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "4",
+      "item_id": "hn:50206840",
+      "summary_type": "extractive",
+      "title_zh": "Job Loss and Cortisone Mania",
+      "summary_zh": "Job Loss and Cortisone Mania"
+    },
+    {
+      "title": "The Rise and Fall of Jev",
+      "summary": "The Rise and Fall of Jev",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+      "published_at": "2026-10-23T09:21:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "32",
+      "item_id": "hn:50206361",
+      "summary_type": "extractive",
+      "title_zh": "The Rise and Fall of Jev",
+      "summary_zh": "The Rise and Fall of Jev"
+    },
+    {
+      "title": "Remove pgrust: the entry is cheating",
+      "summary": "Remove pgrust: the entry is cheating",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+      "published_at": "2026-10-23T08:05:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:50205816",
+      "summary_type": "extractive",
+      "title_zh": "Remove pgrust: the entry is cheating",
+      "summary_zh": "Remove pgrust: the entry is cheating"
+    },
+    {
+      "title": "This I Believe (1952)",
+      "summary": "This I Believe (1952)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.awakin.org/v2/read/view.php?tid=468",
@@ -28,11 +76,11 @@
       "tags": [
         "ai"
       ],
-      "score": "7",
+      "score": "98",
       "item_id": "hn:50203759",
       "summary_type": "extractive",
-      "title_zh": "This I Believe",
-      "summary_zh": "This I Believe"
+      "title_zh": "This I Believe (1952)",
+      "summary_zh": "This I Believe (1952)"
     },
     {
       "title": "The foolishness of \"natural language programming\" (1978)",
@@ -44,27 +92,27 @@
       "tags": [
         "ai"
       ],
-      "score": "67",
+      "score": "203",
       "item_id": "hn:50203161",
       "summary_type": "extractive",
       "title_zh": "The foolishness of \"natural language programming\" (1978)",
       "summary_zh": "The foolishness of \"natural language programming\" (1978)"
     },
     {
-      "title": "Mapping the Northern Sky",
-      "summary": "Mapping the Northern Sky",
-      "full_text": "",
+      "title": "Show HN: Making a smart TV dumb and then smart",
+      "summary": "A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different models, finally managed to get v1 working.My daughter enjoys navigating TV through speech while I get to browse on the biggest screen at home.While all of the code was written by ML models, there were decisions I had to help with. In specific: using WebRTC to cut down latency, repurposing vendor logic fo",
+      "full_text": "A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different models, finally managed to get v1 working.My daughter enjoys navigating TV through speech while I get to browse on the biggest screen at home.While all of the code was written by ML models, there were decisions I had to help with. In specific: using WebRTC to cut down latency, repurposing vendor logic fo",
       "source": "hacker news",
-      "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
-      "published_at": "2026-10-22T23:56:39+00:00",
+      "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+      "published_at": "2026-10-23T00:10:45+00:00",
       "tags": [
         "ai"
       ],
-      "score": "23",
-      "item_id": "hn:50202766",
+      "score": "30",
+      "item_id": "hn:50202865",
       "summary_type": "extractive",
-      "title_zh": "Mapping the Northern Sky",
-      "summary_zh": "Mapping the Northern Sky"
+      "title_zh": "Show HN: Making a smart TV dumb and then smart",
+      "summary_zh": "A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different models, finally managed to get v1 working.My daughter enjoys navigating TV through speech while I get to browse on the biggest screen at home.While all of the code was written by ML models, there were decisions I had to help with. In specific: using WebRTC to cut down latency, repurposing vendor logic fo"
     },
     {
       "title": "Jank – The native Clojure dialect with seamless C++ interop",
@@ -76,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "38",
+      "score": "110",
       "item_id": "hn:50202762",
       "summary_type": "extractive",
       "title_zh": "Jank – The native Clojure dialect with seamless C++ interop",
@@ -92,27 +140,43 @@
       "tags": [
         "ai"
       ],
-      "score": "234",
+      "score": "540",
       "item_id": "hn:50202681",
       "summary_type": "extractive",
       "title_zh": "Docker is weird",
       "summary_zh": "Docker is weird"
     },
     {
-      "title": "AI compute is the new oil–and needs a new market",
-      "summary": "AI compute is the new oil–and needs a new market",
+      "title": "We have traits at home",
+      "summary": "We have traits at home",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-      "published_at": "2026-10-22T23:45:16+00:00",
+      "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+      "published_at": "2026-10-22T23:24:17+00:00",
       "tags": [
         "ai"
       ],
-      "score": "33",
-      "item_id": "hn:50202671",
+      "score": "19",
+      "item_id": "hn:50202482",
       "summary_type": "extractive",
-      "title_zh": "AI compute is the new oil–and needs a new market",
-      "summary_zh": "AI compute is the new oil–and needs a new market"
+      "title_zh": "We have traits at home",
+      "summary_zh": "We have traits at home"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "summary": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://edjefferson.com/localwiki/",
+      "published_at": "2026-10-22T23:01:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "491",
+      "item_id": "hn:50202285",
+      "summary_type": "extractive",
+      "title_zh": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "summary_zh": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you"
     },
     {
       "title": "Railpass",
@@ -124,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "68",
+      "score": "111",
       "item_id": "hn:50201414",
       "summary_type": "extractive",
       "title_zh": "Railpass",
@@ -140,27 +204,11 @@
       "tags": [
         "ai"
       ],
-      "score": "162",
+      "score": "210",
       "item_id": "hn:50199389",
       "summary_type": "extractive",
       "title_zh": "Hedra is a 3D open world game I wrote from scratch while in highschool",
       "summary_zh": "Hedra is a 3D open world game I wrote from scratch while in highschool"
-    },
-    {
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "summary": "AI and the Enclosure of the Scientific Commons",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arxiv.org/abs/2610.27251",
-      "published_at": "2026-10-22T18:28:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "123",
-      "item_id": "hn:50199230",
-      "summary_type": "extractive",
-      "title_zh": "AI and the Enclosure of the Scientific Commons",
-      "summary_zh": "AI and the Enclosure of the Scientific Commons"
     },
     {
       "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
@@ -170,8 +218,8 @@
       "url": "http://arxiv.org/abs/2610.31667v1",
       "published_at": "2026-10-22T17:59:48Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31667v1",
@@ -224,8 +272,8 @@
       "tags": [
         "llm",
         "tool",
-        "paper",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31650v1",
@@ -259,8 +307,8 @@
       "url": "http://arxiv.org/abs/2610.31639v1",
       "published_at": "2026-10-22T17:52:56Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31639v1",
@@ -294,8 +342,8 @@
       "url": "http://arxiv.org/abs/2610.31606v1",
       "published_at": "2026-10-22T17:36:14Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31606v1",
@@ -311,8 +359,8 @@
       "url": "http://arxiv.org/abs/2610.31593v1",
       "published_at": "2026-10-22T17:26:42Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31593v1",
@@ -348,8 +396,8 @@
       "published_at": "2026-10-22T17:23:11Z",
       "tags": [
         "llm",
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31586v1",
@@ -383,8 +431,8 @@
       "published_at": "2026-10-22T17:15:04Z",
       "tags": [
         "llm",
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31576v1",
@@ -436,15 +484,31 @@
       "published_at": "2026-10-22T16:57:01Z",
       "tags": [
         "llm",
-        "paper",
         "vision",
-        "agent"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31553v1",
       "summary_type": "extractive",
       "title_zh": "Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems",
       "summary_zh": "Industrial organizations hold operational knowledge in structured records, such as telemetry, point lists, and transactions, and in unstructured sources, such as manuals, service notes, communications, and inspection reports. Governance programs often manage these sources separately. Classifying, linking, and documenting them depends on a small group of employees with deep domain knowledge."
+    },
+    {
+      "title": "Objects, attributes, maps, oh my",
+      "summary": "Objects, attributes, maps, oh my",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://bernsteinbear.com/blog/object-shapes/",
+      "published_at": "2026-10-22T16:34:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:50197692",
+      "summary_type": "extractive",
+      "title_zh": "Objects, attributes, maps, oh my",
+      "summary_zh": "Objects, attributes, maps, oh my"
     },
     {
       "title": "Beyond Causal Masks: Auditing and Localizing Hidden Future-Token Leakage in Adaptive Sequence Models",
@@ -470,8 +534,8 @@
       "url": "http://arxiv.org/abs/2610.31521v1",
       "published_at": "2026-10-22T16:33:30Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31521v1",
@@ -514,22 +578,6 @@
       "summary_zh": "Large language models (LLMs) are increasingly used to generate domain-specific commercial &amp; medical content (e.g., claims, statements, and promotional phrases) in regulated industries such as pharmaceuticals. However, ensuring its regulatory compliance, factual accuracy, and audience-specific personalization remains a major challenge. We report a production case study asking whether moving compliance and personalization signal from prompt-level rules into retrieval time structured context im"
     },
     {
-      "title": "A farewell to Arc browser",
-      "summary": "A farewell to Arc browser",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arc.net/",
-      "published_at": "2026-10-22T16:27:47+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "254",
-      "item_id": "hn:50197601",
-      "summary_type": "extractive",
-      "title_zh": "A farewell to Arc browser",
-      "summary_zh": "A farewell to Arc browser"
-    },
-    {
       "title": "Getting ready to operate GNU Taler in Germany",
       "summary": "Getting ready to operate GNU Taler in Germany",
       "full_text": "",
@@ -539,7 +587,7 @@
       "tags": [
         "ai"
       ],
-      "score": "242",
+      "score": "308",
       "item_id": "hn:50197404",
       "summary_type": "extractive",
       "title_zh": "Getting ready to operate GNU Taler in Germany",
@@ -555,7 +603,7 @@
       "tags": [
         "ai"
       ],
-      "score": "290",
+      "score": "453",
       "item_id": "hn:50197313",
       "summary_type": "extractive",
       "title_zh": "Every AI model has the same \"controversial\" take on humans",
@@ -571,15 +619,15 @@
       "tags": [
         "ai"
       ],
-      "score": "357",
+      "score": "451",
       "item_id": "hn:50196718",
       "summary_type": "extractive",
       "title_zh": "Run full iOS 16.5 firmware on Android Devices",
       "summary_zh": "https:&#x2F;&#x2F;hackios-web.vercel.app&#x2F;en"
     },
     {
-      "title": "Quad9 (DNS Resolver) to Exit France",
-      "summary": "Quad9 (DNS Resolver) to Exit France",
+      "title": "Quad9 to exit France",
+      "summary": "Quad9 to exit France",
       "full_text": "",
       "source": "hacker news",
       "url": "https://quad9.net/news/blog/au-revoir-france/",
@@ -587,11 +635,27 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.0k",
+      "score": "🔥 1.2k",
       "item_id": "hn:50195959",
       "summary_type": "extractive",
-      "title_zh": "Quad9 (DNS Resolver) to Exit France",
-      "summary_zh": "Quad9 (DNS Resolver) to Exit France"
+      "title_zh": "Quad9 to exit France",
+      "summary_zh": "Quad9 to exit France"
+    },
+    {
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "summary": "Hi allI was pretty terrible at singing, now I’d say I’m bad but not terrible. This is because I’ve been using a singing app (won’t name it here) that scores me on my pitch and timing throughout the song so that I can improve.Lately however, the app I’ve been using has flooded their song list with songs that aren’t originals. I didn’t like this at all as for me, it’s easier to try to improve when you’re singing along to the original.So, I asked an agent (Claude Code) if it could write some code t",
+      "full_text": "Hi allI was pretty terrible at singing, now I’d say I’m bad but not terrible. This is because I’ve been using a singing app (won’t name it here) that scores me on my pitch and timing throughout the song so that I can improve.Lately however, the app I’ve been using has flooded their song list with songs that aren’t originals. I didn’t like this at all as for me, it’s easier to try to improve when you’re singing along to the original.So, I asked an agent (Claude Code) if it could write some code t",
+      "source": "hacker news",
+      "url": "https://github.com/dsmurrell/onkey",
+      "published_at": "2026-10-22T14:04:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "71",
+      "item_id": "hn:50195488",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "summary_zh": "Hi allI was pretty terrible at singing, now I’d say I’m bad but not terrible. This is because I’ve been using a singing app (won’t name it here) that scores me on my pitch and timing throughout the song so that I can improve.Lately however, the app I’ve been using has flooded their song list with songs that aren’t originals. I didn’t like this at all as for me, it’s easier to try to improve when you’re singing along to the original.So, I asked an agent (Claude Code) if it could write some code t"
     },
     {
       "title": "eMudhra to exit global SSL/TLS certificate business",
@@ -603,27 +667,27 @@
       "tags": [
         "ai"
       ],
-      "score": "981",
+      "score": "🔥 1.0k",
       "item_id": "hn:50195110",
       "summary_type": "extractive",
       "title_zh": "eMudhra to exit global SSL/TLS certificate business",
       "summary_zh": "eMudhra to exit global SSL/TLS certificate business"
     },
     {
-      "title": "Woman faces six years in prison over Cash App account she never opened",
-      "summary": "Woman faces six years in prison over Cash App account she never opened",
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "summary": "The alien space of science: Coherent but cognitively unavailable directions",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-      "published_at": "2026-10-22T13:11:00+00:00",
+      "url": "https://arxiv.org/abs/2603.01092",
+      "published_at": "2026-10-22T13:25:01+00:00",
       "tags": [
         "ai"
       ],
-      "score": "580",
-      "item_id": "hn:50194833",
+      "score": "86",
+      "item_id": "hn:50195002",
       "summary_type": "extractive",
-      "title_zh": "Woman faces six years in prison over Cash App account she never opened",
-      "summary_zh": "Woman faces six years in prison over Cash App account she never opened"
+      "title_zh": "The alien space of science: Coherent but cognitively unavailable directions",
+      "summary_zh": "The alien space of science: Coherent but cognitively unavailable directions"
     },
     {
       "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
@@ -635,7 +699,7 @@
       "tags": [
         "ai"
       ],
-      "score": "251",
+      "score": "313",
       "item_id": "hn:50194009",
       "summary_type": "extractive",
       "title_zh": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
@@ -651,75 +715,107 @@
       "tags": [
         "ai"
       ],
-      "score": "433",
+      "score": "578",
       "item_id": "hn:50193416",
       "summary_type": "extractive",
       "title_zh": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
       "summary_zh": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 &amp; CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.I am truly sorry. I take full responsibility for my actions.It was not remotely my intention to cause any of the subsequent side effects.At the time of posting, I didn&#x27;t know about any embargo."
     },
     {
-      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-      "summary": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
+      "summary": "A lost Schrödinger manuscript reveals a twist in quantum physics",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-      "published_at": "2026-10-22T09:31:18+00:00",
+      "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
+      "published_at": "2026-10-22T07:41:29+00:00",
       "tags": [
         "ai"
       ],
-      "score": "210",
-      "item_id": "hn:50193170",
+      "score": "53",
+      "item_id": "hn:50192396",
       "summary_type": "extractive",
-      "title_zh": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-      "summary_zh": "Faster than earcut: triangulating 3.7M map polygons in 489 ms"
+      "title_zh": "A lost Schrödinger manuscript reveals a twist in quantum physics",
+      "summary_zh": "A lost Schrödinger manuscript reveals a twist in quantum physics"
     },
     {
-      "title": "Jailbreaking the Switch 2",
-      "summary": "Jailbreaking the Switch 2",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "summary": "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "published_at": "2026-10-22T08:01:52+00:00",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "published_at": "2026-10-22T02:18:41+00:00",
       "tags": [
         "ai"
       ],
-      "score": "754",
-      "item_id": "hn:50192536",
+      "score": "553",
+      "item_id": "hn:50190363",
       "summary_type": "extractive",
-      "title_zh": "Jailbreaking the Switch 2",
-      "summary_zh": "Jailbreaking the Switch 2"
+      "title_zh": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "summary_zh": "WorldTUI: I trained a 360M model to pretend to be a terminal"
     },
     {
-      "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
-      "summary": "I&#x27;ve worked for a long time in the storage field during my career and ZFS is the piece of engineering I admire most in that space. I wanted a way to pay homage to it and to explore and better understand its internals. So I built Uberblok: a museum of ZFS.",
-      "full_text": "I&#x27;ve worked for a long time in the storage field during my career and ZFS is the piece of engineering I admire most in that space. I wanted a way to pay homage to it and to explore and better understand its internals. So I built Uberblok: a museum of ZFS. A deep dive into copy-on-write, txgs, vdevs, RAID-Z, snapshots, the ARC, metaslabs, the ZIL, send&#x2F;receive with explanations and animated diagrams.I&#x27;m sure people here know these internals better than I do, so corrections are very",
-      "source": "hacker news",
-      "url": "https://uberblok.storagebits.workers.dev/",
-      "published_at": "2026-10-21T13:04:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "94",
-      "item_id": "hn:50180257",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Uberblok – an interactive museum of ZFS internals",
-      "summary_zh": "I&#x27;ve worked for a long time in the storage field during my career and ZFS is the piece of engineering I admire most in that space. I wanted a way to pay homage to it and to explore and better understand its internals. So I built Uberblok: a museum of ZFS."
-    },
-    {
-      "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
-      "summary": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
+      "title": "Postgres recovery_prefetch can cause outages",
+      "summary": "Postgres recovery_prefetch can cause outages",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
-      "published_at": "2026-10-20T22:24:23+00:00",
+      "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+      "published_at": "2026-10-21T22:33:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "45",
-      "item_id": "hn:50173516",
+      "score": "41",
+      "item_id": "hn:50188614",
       "summary_type": "extractive",
-      "title_zh": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
-      "summary_zh": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder"
+      "title_zh": "Postgres recovery_prefetch can cause outages",
+      "summary_zh": "Postgres recovery_prefetch can cause outages"
+    },
+    {
+      "title": "I reverse engineered a board game",
+      "summary": "I reverse engineered a board game",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+      "published_at": "2026-10-21T13:40:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "48",
+      "item_id": "hn:50180799",
+      "summary_type": "extractive",
+      "title_zh": "I reverse engineered a board game",
+      "summary_zh": "I reverse engineered a board game"
+    },
+    {
+      "title": "Color Names",
+      "summary": "Color Names",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://names.color.pizza",
+      "published_at": "2026-10-20T16:27:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "82",
+      "item_id": "hn:50168850",
+      "summary_type": "extractive",
+      "title_zh": "Color Names",
+      "summary_zh": "Color Names"
+    },
+    {
+      "title": "Hand-bent after 3D printing, Oberdoerfer and Krebs' Bend chair",
+      "summary": "Hand-bent after 3D printing, Oberdoerfer and Krebs' Bend chair",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.designboom.com/design/hand-bent-3d-printing-oberdoerfer-krebs-digital-fabrication-bend-chair-ukurant-3daysofdesign/",
+      "published_at": "2026-10-20T15:20:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "9",
+      "item_id": "hn:50167744",
+      "summary_type": "extractive",
+      "title_zh": "Hand-bent after 3D printing, Oberdoerfer and Krebs' Bend chair",
+      "summary_zh": "Hand-bent after 3D printing, Oberdoerfer and Krebs' Bend chair"
     },
     {
       "title": "How to Design Flowers",
@@ -731,107 +827,11 @@
       "tags": [
         "ai"
       ],
-      "score": "23",
+      "score": "42",
       "item_id": "hn:50166604",
       "summary_type": "extractive",
       "title_zh": "How to Design Flowers",
       "summary_zh": "How to Design Flowers"
-    },
-    {
-      "title": "Why My Asus Laptop Kept Rebooting After Sleep and How to Fix It",
-      "summary": "Why My Asus Laptop Kept Rebooting After Sleep and How to Fix It",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep",
-      "published_at": "2026-10-20T13:40:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "13",
-      "item_id": "hn:50166272",
-      "summary_type": "extractive",
-      "title_zh": "Why My Asus Laptop Kept Rebooting After Sleep and How to Fix It",
-      "summary_zh": "Why My Asus Laptop Kept Rebooting After Sleep and How to Fix It"
-    },
-    {
-      "title": "The Secret Life of Circuits is now in stock everywhere",
-      "summary": "The Secret Life of Circuits is now in stock everywhere",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
-      "published_at": "2026-10-20T07:15:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "55",
-      "item_id": "hn:50162431",
-      "summary_type": "extractive",
-      "title_zh": "The Secret Life of Circuits is now in stock everywhere",
-      "summary_zh": "The Secret Life of Circuits is now in stock everywhere"
-    },
-    {
-      "title": "Startup taps underwater volcano as energy source in “proof point” test",
-      "summary": "Startup taps underwater volcano as energy source in “proof point” test",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-      "published_at": "2026-10-19T20:12:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "131",
-      "item_id": "hn:50157456",
-      "summary_type": "extractive",
-      "title_zh": "Startup taps underwater volcano as energy source in “proof point” test",
-      "summary_zh": "Startup taps underwater volcano as energy source in “proof point” test"
-    },
-    {
-      "title": "Dungeon Generation in the Gnomish Mines of NetHack",
-      "summary": "Dungeon Generation in the Gnomish Mines of NetHack",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
-      "published_at": "2026-10-19T16:06:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "134",
-      "item_id": "hn:50154109",
-      "summary_type": "extractive",
-      "title_zh": "Dungeon Generation in the Gnomish Mines of NetHack",
-      "summary_zh": "Dungeon Generation in the Gnomish Mines of NetHack"
-    },
-    {
-      "title": "Speeding up code review with `small-change`",
-      "summary": "Speeding up code review with `small-change`",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://lethain.com/small-changes/",
-      "published_at": "2026-10-19T10:35:14+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "32",
-      "item_id": "hn:50150681",
-      "summary_type": "extractive",
-      "title_zh": "Speeding up code review with `small-change`",
-      "summary_zh": "Speeding up code review with `small-change`"
-    },
-    {
-      "title": "What Is Gridifcation",
-      "summary": "What Is Gridifcation",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-      "published_at": "2026-10-19T09:13:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "429",
-      "item_id": "hn:50150163",
-      "summary_type": "extractive",
-      "title_zh": "What Is Gridifcation",
-      "summary_zh": "What Is Gridifcation"
     }
   ]
 }

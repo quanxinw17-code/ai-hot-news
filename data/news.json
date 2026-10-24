@@ -1,10 +1,91 @@
 {
-  "updated_at": "2026-10-24T10:44:48.377996+00:00",
+  "updated_at": "2026-10-24T15:47:10.923407+00:00",
   "count": 50,
   "items": [
     {
-      "title": "I Don't Understand Quantum Physics",
-      "summary": "I Don't Understand Quantum Physics",
+      "title": "FreeDNS",
+      "summary": "FreeDNS",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://freedns.afraid.org/",
+      "published_at": "2026-10-24T15:20:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "8",
+      "item_id": "hn:50222133",
+      "summary_type": "extractive",
+      "title_zh": "FreeDNS",
+      "summary_zh": "FreeDNS"
+    },
+    {
+      "title": "Google illegally cut down 250K trees in Finland for data center",
+      "summary": "Google illegally cut down 250K trees in Finland for data center",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+      "published_at": "2026-10-24T14:38:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "191",
+      "item_id": "hn:50221676",
+      "summary_type": "extractive",
+      "title_zh": "Google illegally cut down 250K trees in Finland for data center",
+      "summary_zh": "Google illegally cut down 250K trees in Finland for data center"
+    },
+    {
+      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "summary": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+      "published_at": "2026-10-24T13:09:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "286",
+      "item_id": "hn:50220913",
+      "summary_type": "extractive",
+      "title_zh": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "summary_zh": "Elon Musk Just Gave Europe a Reason to Replace American Technology"
+    },
+    {
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "summary": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "published_at": "2026-10-24T11:18:54+00:00",
+      "tags": [
+        "paper",
+        "tool"
+      ],
+      "score": "71",
+      "item_id": "hn:50220204",
+      "summary_type": "extractive",
+      "title_zh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "summary_zh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "summary": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "published_at": "2026-10-24T09:58:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "34",
+      "item_id": "hn:50219700",
+      "summary_type": "extractive",
+      "title_zh": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "summary_zh": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards"
+    },
+    {
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "summary": "I Don't Understand Quantum Physics (2018)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
@@ -12,27 +93,11 @@
       "tags": [
         "ai"
       ],
-      "score": "49",
+      "score": "189",
       "item_id": "hn:50219666",
       "summary_type": "extractive",
-      "title_zh": "I Don't Understand Quantum Physics",
-      "summary_zh": "I Don't Understand Quantum Physics"
-    },
-    {
-      "title": "ThinkRail from JetBrains",
-      "summary": "ThinkRail from JetBrains",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://thinkrail.ai/",
-      "published_at": "2026-10-24T08:08:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "35",
-      "item_id": "hn:50219186",
-      "summary_type": "extractive",
-      "title_zh": "ThinkRail from JetBrains",
-      "summary_zh": "ThinkRail from JetBrains"
+      "title_zh": "I Don't Understand Quantum Physics (2018)",
+      "summary_zh": "I Don't Understand Quantum Physics (2018)"
     },
     {
       "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
@@ -44,7 +109,7 @@
       "tags": [
         "ai"
       ],
-      "score": "10",
+      "score": "137",
       "item_id": "hn:50219177",
       "summary_type": "extractive",
       "title_zh": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
@@ -60,7 +125,7 @@
       "tags": [
         "ai"
       ],
-      "score": "166",
+      "score": "331",
       "item_id": "hn:50218430",
       "summary_type": "extractive",
       "title_zh": "OBS Studio 33",
@@ -76,7 +141,7 @@
       "tags": [
         "ai"
       ],
-      "score": "128",
+      "score": "191",
       "item_id": "hn:50218195",
       "summary_type": "extractive",
       "title_zh": "How close can pure functional programming get to C?",
@@ -92,7 +157,7 @@
       "tags": [
         "ai"
       ],
-      "score": "55",
+      "score": "89",
       "item_id": "hn:50217946",
       "summary_type": "extractive",
       "title_zh": "How Block Blast harvests its players for ad money",
@@ -108,7 +173,7 @@
       "tags": [
         "ai"
       ],
-      "score": "212",
+      "score": "297",
       "item_id": "hn:50217500",
       "summary_type": "extractive",
       "title_zh": "Twelve years of distributed SQLite",
@@ -124,7 +189,7 @@
       "tags": [
         "ai"
       ],
-      "score": "172",
+      "score": "201",
       "item_id": "hn:50215530",
       "summary_type": "extractive",
       "title_zh": "CVE Tracker",
@@ -140,7 +205,7 @@
       "tags": [
         "ai"
       ],
-      "score": "391",
+      "score": "437",
       "item_id": "hn:50213925",
       "summary_type": "extractive",
       "title_zh": "Dessa: Conversation Model trained only on speech",
@@ -156,7 +221,7 @@
       "tags": [
         "ai"
       ],
-      "score": "134",
+      "score": "155",
       "item_id": "hn:50212507",
       "summary_type": "extractive",
       "title_zh": "Air Purifiers as White Noise Machines",
@@ -172,43 +237,11 @@
       "tags": [
         "ai"
       ],
-      "score": "925",
+      "score": "🔥 1.0k",
       "item_id": "hn:50212065",
       "summary_type": "extractive",
       "title_zh": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "summary_zh": "https:&#x2F;&#x2F;www.kimi.com&#x2F;code&#x2F;docs&#x2F;en&#x2F;kimi-code&#x2F;models.htmlhttps:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3-1-prohttps:&#x2F;&#x2F;www.modelcompare.ai&#x2F;blog&#x2F;china-open-source-ai"
-    },
-    {
-      "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
-      "summary": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://alexsci.com/blog/uuidv7-is-weird/",
-      "published_at": "2026-10-23T16:39:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "150",
-      "item_id": "hn:50211746",
-      "summary_type": "extractive",
-      "title_zh": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
-      "summary_zh": "UUIDv7: Timestamps aren’t time-ordered and other oddities"
-    },
-    {
-      "title": "How is music possible",
-      "summary": "How is music possible",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.henrikkarlsson.xyz/p/music",
-      "published_at": "2026-10-23T16:38:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "135",
-      "item_id": "hn:50211719",
-      "summary_type": "extractive",
-      "title_zh": "How is music possible",
-      "summary_zh": "How is music possible"
     },
     {
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
@@ -220,7 +253,7 @@
       "tags": [
         "ai"
       ],
-      "score": "896",
+      "score": "🔥 1.0k",
       "item_id": "hn:50211474",
       "summary_type": "extractive",
       "title_zh": "Today, we hacked what we'd set out to hack: the iPhone",
@@ -236,27 +269,11 @@
       "tags": [
         "ai"
       ],
-      "score": "775",
+      "score": "852",
       "item_id": "hn:50207910",
       "summary_type": "extractive",
       "title_zh": "Apple Music 404 Not Found",
       "summary_zh": "https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;10&#x2F;23&#x2F;apple-music-has-a-hidde..."
-    },
-    {
-      "title": "Is this the new cyber normal?",
-      "summary": "Is this the new cyber normal?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
-      "published_at": "2026-10-23T11:04:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "175",
-      "item_id": "hn:50207115",
-      "summary_type": "extractive",
-      "title_zh": "Is this the new cyber normal?",
-      "summary_zh": "Is this the new cyber normal?"
     },
     {
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
@@ -268,7 +285,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.3k",
+      "score": "🔥 1.4k",
       "item_id": "hn:50202285",
       "summary_type": "extractive",
       "title_zh": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
@@ -284,7 +301,7 @@
       "tags": [
         "ai"
       ],
-      "score": "418",
+      "score": "470",
       "item_id": "hn:50202114",
       "summary_type": "extractive",
       "title_zh": "Canadians are running out of time to oppose Bill C-22",
@@ -298,8 +315,8 @@
       "url": "http://arxiv.org/abs/2610.31667v1",
       "published_at": "2026-10-22T17:59:48Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31667v1",
@@ -315,8 +332,8 @@
       "url": "http://arxiv.org/abs/2610.31657v1",
       "published_at": "2026-10-22T17:58:52Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31657v1",
@@ -332,9 +349,9 @@
       "url": "http://arxiv.org/abs/2610.31656v1",
       "published_at": "2026-10-22T17:58:27Z",
       "tags": [
+        "llm",
         "paper",
-        "agent",
-        "llm"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31656v1",
@@ -350,10 +367,10 @@
       "url": "http://arxiv.org/abs/2610.31650v1",
       "published_at": "2026-10-22T17:57:04Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
         "agent",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31650v1",
@@ -369,9 +386,9 @@
       "url": "http://arxiv.org/abs/2610.31646v1",
       "published_at": "2026-10-22T17:56:13Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31646v1",
@@ -387,8 +404,8 @@
       "url": "http://arxiv.org/abs/2610.31639v1",
       "published_at": "2026-10-22T17:52:56Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31639v1",
@@ -404,9 +421,9 @@
       "url": "http://arxiv.org/abs/2610.31624v1",
       "published_at": "2026-10-22T17:44:41Z",
       "tags": [
+        "llm",
         "paper",
-        "agent",
-        "llm"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31624v1",
@@ -422,8 +439,8 @@
       "url": "http://arxiv.org/abs/2610.31606v1",
       "published_at": "2026-10-22T17:36:14Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31606v1",
@@ -439,8 +456,8 @@
       "url": "http://arxiv.org/abs/2610.31593v1",
       "published_at": "2026-10-22T17:26:42Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31593v1",
@@ -456,10 +473,10 @@
       "url": "http://arxiv.org/abs/2610.31588v1",
       "published_at": "2026-10-22T17:23:39Z",
       "tags": [
-        "tool",
-        "paper",
+        "llm",
         "vision",
-        "llm"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31588v1",
@@ -475,9 +492,9 @@
       "url": "http://arxiv.org/abs/2610.31586v1",
       "published_at": "2026-10-22T17:23:11Z",
       "tags": [
-        "paper",
+        "llm",
         "vision",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31586v1",
@@ -493,8 +510,8 @@
       "url": "http://arxiv.org/abs/2610.31579v1",
       "published_at": "2026-10-22T17:15:59Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31579v1",
@@ -510,9 +527,9 @@
       "url": "http://arxiv.org/abs/2610.31576v1",
       "published_at": "2026-10-22T17:15:04Z",
       "tags": [
-        "paper",
+        "llm",
         "vision",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31576v1",
@@ -528,9 +545,9 @@
       "url": "http://arxiv.org/abs/2610.31573v1",
       "published_at": "2026-10-22T17:13:46Z",
       "tags": [
-        "tool",
+        "llm",
         "paper",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31573v1",
@@ -546,8 +563,8 @@
       "url": "http://arxiv.org/abs/2610.31563v1",
       "published_at": "2026-10-22T17:05:21Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31563v1",
@@ -563,10 +580,10 @@
       "url": "http://arxiv.org/abs/2610.31553v1",
       "published_at": "2026-10-22T16:57:01Z",
       "tags": [
-        "paper",
-        "agent",
+        "llm",
         "vision",
-        "llm"
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31553v1",
@@ -598,8 +615,8 @@
       "url": "http://arxiv.org/abs/2610.31521v1",
       "published_at": "2026-10-22T16:33:30Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31521v1",
@@ -615,8 +632,8 @@
       "url": "http://arxiv.org/abs/2610.31520v1",
       "published_at": "2026-10-22T16:33:01Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31520v1",
@@ -632,8 +649,8 @@
       "url": "http://arxiv.org/abs/2610.31519v1",
       "published_at": "2026-10-22T16:31:36Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.31519v1",
@@ -651,7 +668,7 @@
       "tags": [
         "ai"
       ],
-      "score": "18",
+      "score": "58",
       "item_id": "hn:50194536",
       "summary_type": "extractive",
       "title_zh": "How to run a city builder on 16 MHz",
@@ -667,27 +684,43 @@
       "tags": [
         "ai"
       ],
-      "score": "120",
+      "score": "170",
       "item_id": "hn:50193677",
       "summary_type": "extractive",
       "title_zh": "The Quake Fan who built the map editor everybody uses",
       "summary_zh": "The Quake Fan who built the map editor everybody uses"
     },
     {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "summary": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "summary": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "published_at": "2026-10-22T02:18:41+00:00",
+      "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+      "published_at": "2026-10-22T09:01:10+00:00",
       "tags": [
         "ai"
       ],
-      "score": "626",
-      "item_id": "hn:50190363",
+      "score": "42",
+      "item_id": "hn:50192975",
       "summary_type": "extractive",
-      "title_zh": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "summary_zh": "WorldTUI: I trained a 360M model to pretend to be a terminal"
+      "title_zh": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "summary_zh": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications"
+    },
+    {
+      "title": "The Chalk and the Airplane",
+      "summary": "The Chalk and the Airplane",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
+      "published_at": "2026-10-22T04:41:58+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "22",
+      "item_id": "hn:50191250",
+      "summary_type": "extractive",
+      "title_zh": "The Chalk and the Airplane",
+      "summary_zh": "The Chalk and the Airplane"
     },
     {
       "title": "Physicists trap a single antimatter particle for a month",
@@ -699,43 +732,43 @@
       "tags": [
         "ai"
       ],
-      "score": "60",
+      "score": "172",
       "item_id": "hn:50186450",
       "summary_type": "extractive",
       "title_zh": "Physicists trap a single antimatter particle for a month",
       "summary_zh": "Physicists trap a single antimatter particle for a month"
     },
     {
-      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
-      "summary": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "title": "Appreciating the beauty of all your body's scars and scratches",
+      "summary": "Appreciating the beauty of all your body's scars and scratches",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
-      "published_at": "2026-10-21T15:19:28+00:00",
+      "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+      "published_at": "2026-10-21T14:00:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "33",
-      "item_id": "hn:50182510",
+      "score": "51",
+      "item_id": "hn:50181106",
       "summary_type": "extractive",
-      "title_zh": "The past, present, and future share a show floor at Pinball Expo 2026",
-      "summary_zh": "The past, present, and future share a show floor at Pinball Expo 2026"
+      "title_zh": "Appreciating the beauty of all your body's scars and scratches",
+      "summary_zh": "Appreciating the beauty of all your body's scars and scratches"
     },
     {
-      "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
-      "summary": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
+      "title": "Tiling Noise – Procedural GPU Patterns",
+      "summary": "Tiling Noise – Procedural GPU Patterns",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
-      "published_at": "2026-10-21T08:17:35+00:00",
+      "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+      "published_at": "2026-10-21T13:04:07+00:00",
       "tags": [
         "ai"
       ],
-      "score": "48",
-      "item_id": "hn:50177554",
+      "score": "21",
+      "item_id": "hn:50180251",
       "summary_type": "extractive",
-      "title_zh": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
-      "summary_zh": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna"
+      "title_zh": "Tiling Noise – Procedural GPU Patterns",
+      "summary_zh": "Tiling Noise – Procedural GPU Patterns"
     },
     {
       "title": "C vs. C#: racing VLC's Gaussian blur",
@@ -747,27 +780,11 @@
       "tags": [
         "ai"
       ],
-      "score": "82",
+      "score": "117",
       "item_id": "hn:50176544",
       "summary_type": "extractive",
       "title_zh": "C vs. C#: racing VLC's Gaussian blur",
       "summary_zh": "C vs. C#: racing VLC's Gaussian blur"
-    },
-    {
-      "title": "U-2 spy plane makes rare appearance in Bay Area flyover",
-      "summary": "U-2 spy plane makes rare appearance in Bay Area flyover",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.sfgate.com/bayarea/article/government-spy-plane-49ers-22485781.php",
-      "published_at": "2026-10-20T22:25:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "7",
-      "item_id": "hn:50173520",
-      "summary_type": "extractive",
-      "title_zh": "U-2 spy plane makes rare appearance in Bay Area flyover",
-      "summary_zh": "U-2 spy plane makes rare appearance in Bay Area flyover"
     },
     {
       "title": "Bringing uv and ty together",
@@ -779,7 +796,7 @@
       "tags": [
         "ai"
       ],
-      "score": "160",
+      "score": "224",
       "item_id": "hn:50172962",
       "summary_type": "extractive",
       "title_zh": "Bringing uv and ty together",
@@ -793,10 +810,10 @@
       "url": "https://danielball.com/notes/ai_image_generation.html",
       "published_at": "2026-10-20T19:22:39+00:00",
       "tags": [
-        "agent",
-        "vision"
+        "vision",
+        "agent"
       ],
-      "score": "99",
+      "score": "182",
       "item_id": "hn:50171379",
       "summary_type": "extractive",
       "title_zh": "A practical guide to AI image generation, from diffusion to agents",
@@ -812,27 +829,11 @@
       "tags": [
         "ai"
       ],
-      "score": "312",
+      "score": "341",
       "item_id": "hn:50169499",
       "summary_type": "extractive",
       "title_zh": "The Real Kevin Bacon",
       "summary_zh": "The Real Kevin Bacon"
-    },
-    {
-      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-      "summary": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
-      "published_at": "2026-10-20T15:41:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "51",
-      "item_id": "hn:50168075",
-      "summary_type": "extractive",
-      "title_zh": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-      "summary_zh": "Rise of collagen-eating microbes may help explain gaps in the fossil record"
     }
   ]
 }

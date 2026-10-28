@@ -1,10 +1,58 @@
 {
-  "updated_at": "2026-10-28T05:20:02.974607+00:00",
+  "updated_at": "2026-10-28T12:37:08.813931+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Git for US Legislation",
-      "summary": "Git for US Legislation",
+      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "summary": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+      "published_at": "2026-10-28T11:54:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "37",
+      "item_id": "hn:50272145",
+      "summary_type": "extractive",
+      "title_zh": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "summary_zh": "Amazon to buy satellite firm Globalstar in $11.57B deal"
+    },
+    {
+      "title": "About the compromised eMudhra intermediate CAs",
+      "summary": "About the compromised eMudhra intermediate CAs",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://support.apple.com/en-us/149555",
+      "published_at": "2026-10-28T11:08:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "23",
+      "item_id": "hn:50271685",
+      "summary_type": "extractive",
+      "title_zh": "About the compromised eMudhra intermediate CAs",
+      "summary_zh": "About the compromised eMudhra intermediate CAs"
+    },
+    {
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "summary": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "published_at": "2026-10-28T11:03:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "128",
+      "item_id": "hn:50271640",
+      "summary_type": "extractive",
+      "title_zh": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "summary_zh": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates"
+    },
+    {
+      "title": "Git for the US Code",
+      "summary": "Git for the US Code",
       "full_text": "",
       "source": "hacker news",
       "url": "https://lexifina.com/blog/git-for-the-us-code",
@@ -12,11 +60,11 @@
       "tags": [
         "ai"
       ],
-      "score": "135",
+      "score": "311",
       "item_id": "hn:50268380",
       "summary_type": "extractive",
-      "title_zh": "Git for US Legislation",
-      "summary_zh": "Git for US Legislation"
+      "title_zh": "Git for the US Code",
+      "summary_zh": "Git for the US Code"
     },
     {
       "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
@@ -28,43 +76,11 @@
       "tags": [
         "ai"
       ],
-      "score": "39",
+      "score": "82",
       "item_id": "hn:50267569",
       "summary_type": "extractive",
       "title_zh": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
       "summary_zh": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs"
-    },
-    {
-      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-      "summary": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-      "published_at": "2026-10-27T22:31:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "94",
-      "item_id": "hn:50266780",
-      "summary_type": "extractive",
-      "title_zh": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-      "summary_zh": "Reviewers rarely talk about reliability. Owners bring it up twice as often"
-    },
-    {
-      "title": "Hunger beats tenure: Advice for junior engineers",
-      "summary": "Hunger beats tenure: Advice for junior engineers",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
-      "published_at": "2026-10-27T22:25:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "21",
-      "item_id": "hn:50266719",
-      "summary_type": "extractive",
-      "title_zh": "Hunger beats tenure: Advice for junior engineers",
-      "summary_zh": "Hunger beats tenure: Advice for junior engineers"
     },
     {
       "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
@@ -76,7 +92,7 @@
       "tags": [
         "ai"
       ],
-      "score": "128",
+      "score": "181",
       "item_id": "hn:50265594",
       "summary_type": "extractive",
       "title_zh": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
@@ -92,7 +108,7 @@
       "tags": [
         "ai"
       ],
-      "score": "69",
+      "score": "180",
       "item_id": "hn:50265393",
       "summary_type": "extractive",
       "title_zh": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
@@ -108,7 +124,7 @@
       "tags": [
         "ai"
       ],
-      "score": "98",
+      "score": "145",
       "item_id": "hn:50265128",
       "summary_type": "extractive",
       "title_zh": "Four Months of Zig",
@@ -124,7 +140,7 @@
       "tags": [
         "ai"
       ],
-      "score": "245",
+      "score": "308",
       "item_id": "hn:50264857",
       "summary_type": "extractive",
       "title_zh": "Tailscale SSH: Investigation and remediation update",
@@ -138,30 +154,14 @@
       "url": "https://www.brangus.io/survival-llm",
       "published_at": "2026-10-27T19:55:06+00:00",
       "tags": [
-        "llm",
-        "tool"
+        "tool",
+        "llm"
       ],
-      "score": "259",
+      "score": "393",
       "item_id": "hn:50264853",
       "summary_type": "extractive",
       "title_zh": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "summary_zh": "Survival LLM: AI assistant and emergency library that runs on your own computer"
-    },
-    {
-      "title": "Three TLS Bugs in GoAhead",
-      "summary": "Three TLS Bugs in GoAhead",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
-      "published_at": "2026-10-27T18:33:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "64",
-      "item_id": "hn:50263701",
-      "summary_type": "extractive",
-      "title_zh": "Three TLS Bugs in GoAhead",
-      "summary_zh": "Three TLS Bugs in GoAhead"
     },
     {
       "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
@@ -172,8 +172,8 @@
       "published_at": "2026-10-27T17:59:59Z",
       "tags": [
         "tool",
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37668v1",
@@ -190,8 +190,8 @@
       "published_at": "2026-10-27T17:59:52Z",
       "tags": [
         "tool",
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37666v1",
@@ -207,8 +207,8 @@
       "url": "http://arxiv.org/abs/2610.37656v1",
       "published_at": "2026-10-27T17:58:48Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37656v1",
@@ -241,9 +241,9 @@
       "url": "http://arxiv.org/abs/2610.37649v1",
       "published_at": "2026-10-27T17:57:00Z",
       "tags": [
-        "llm",
         "tool",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37649v1",
@@ -259,8 +259,8 @@
       "url": "http://arxiv.org/abs/2610.37647v1",
       "published_at": "2026-10-27T17:56:40Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37647v1",
@@ -276,8 +276,8 @@
       "url": "http://arxiv.org/abs/2610.37631v1",
       "published_at": "2026-10-27T17:52:38Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37631v1",
@@ -293,8 +293,8 @@
       "url": "http://arxiv.org/abs/2610.37624v1",
       "published_at": "2026-10-27T17:49:39Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37624v1",
@@ -312,7 +312,7 @@
       "tags": [
         "ai"
       ],
-      "score": "42",
+      "score": "68",
       "item_id": "hn:50262982",
       "summary_type": "extractive",
       "title_zh": "Radio-tagged Monarch butterflies",
@@ -326,9 +326,9 @@
       "url": "http://arxiv.org/abs/2610.37613v1",
       "published_at": "2026-10-27T17:41:56Z",
       "tags": [
-        "llm",
+        "paper",
         "vision",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37613v1",
@@ -344,8 +344,8 @@
       "url": "http://arxiv.org/abs/2610.37605v1",
       "published_at": "2026-10-27T17:36:06Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37605v1",
@@ -361,8 +361,8 @@
       "url": "http://arxiv.org/abs/2610.37599v1",
       "published_at": "2026-10-27T17:31:40Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37599v1",
@@ -412,8 +412,8 @@
       "url": "http://arxiv.org/abs/2610.37585v1",
       "published_at": "2026-10-27T17:25:43Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37585v1",
@@ -446,9 +446,9 @@
       "url": "http://arxiv.org/abs/2610.37571v1",
       "published_at": "2026-10-27T17:15:54Z",
       "tags": [
-        "llm",
         "agent",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37571v1",
@@ -464,9 +464,9 @@
       "url": "http://arxiv.org/abs/2610.37567v1",
       "published_at": "2026-10-27T17:13:05Z",
       "tags": [
-        "vision",
         "agent",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37567v1",
@@ -482,30 +482,14 @@
       "url": "http://arxiv.org/abs/2610.37561v1",
       "published_at": "2026-10-27T17:08:31Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37561v1",
       "summary_type": "extractive",
       "title_zh": "When uncertainty quantification fails: structural vulnerabilities and corrections for selective prediction under clinical class imbalance",
       "summary_zh": "Background. Selective prediction systems improve the safety of clinical artificial intelligence by deferring ambiguous cases to human experts while automating high-confidence decisions. However, this safety mechanism relies entirely on the premise that uncertainty scores accurately reflect clinical ambiguity."
-    },
-    {
-      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "summary": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.liquid.ai/blog/lfm3",
-      "published_at": "2026-10-27T17:04:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "133",
-      "item_id": "hn:50262229",
-      "summary_type": "extractive",
-      "title_zh": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "summary_zh": "Introducing LFM3: Every Modality for Specialized Intelligence"
     },
     {
       "title": "Kinematic Constraint-Referenced Evaluation for Articulated Object Manipulation",
@@ -531,8 +515,8 @@
       "url": "http://arxiv.org/abs/2610.37547v1",
       "published_at": "2026-10-27T16:58:54Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.37547v1",
@@ -550,7 +534,7 @@
       "tags": [
         "ai"
       ],
-      "score": "872",
+      "score": "🔥 1.0k",
       "item_id": "hn:50261998",
       "summary_type": "extractive",
       "title_zh": "Ghostty 1.4",
@@ -566,7 +550,7 @@
       "tags": [
         "ai"
       ],
-      "score": "190",
+      "score": "218",
       "item_id": "hn:50261647",
       "summary_type": "extractive",
       "title_zh": "Classification of Finite Simple Groups Formalized in Lean",
@@ -582,7 +566,7 @@
       "tags": [
         "ai"
       ],
-      "score": "318",
+      "score": "378",
       "item_id": "hn:50261352",
       "summary_type": "extractive",
       "title_zh": "New 14‑inch MacBook Pro with M6",
@@ -598,7 +582,7 @@
       "tags": [
         "ai"
       ],
-      "score": "805",
+      "score": "928",
       "item_id": "hn:50261319",
       "summary_type": "extractive",
       "title_zh": "Genie 4",
@@ -614,7 +598,7 @@
       "tags": [
         "ai"
       ],
-      "score": "870",
+      "score": "981",
       "item_id": "hn:50259604",
       "summary_type": "extractive",
       "title_zh": "US Government is hiding a secret court ruling about how it spies on Americans",
@@ -630,7 +614,7 @@
       "tags": [
         "ai"
       ],
-      "score": "322",
+      "score": "347",
       "item_id": "hn:50258538",
       "summary_type": "extractive",
       "title_zh": "New iMac with M6",
@@ -646,27 +630,11 @@
       "tags": [
         "ai"
       ],
-      "score": "470",
+      "score": "531",
       "item_id": "hn:50257419",
       "summary_type": "extractive",
       "title_zh": "Python's experimental JIT to be removed",
       "summary_zh": "Python's experimental JIT to be removed"
-    },
-    {
-      "title": "What Happened to the Neanderthals?",
-      "summary": "What Happened to the Neanderthals?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html",
-      "published_at": "2026-10-26T19:47:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "14",
-      "item_id": "hn:50249883",
-      "summary_type": "extractive",
-      "title_zh": "What Happened to the Neanderthals?",
-      "summary_zh": "What Happened to the Neanderthals?"
     },
     {
       "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
@@ -678,31 +646,15 @@
       "tags": [
         "ai"
       ],
-      "score": "156",
+      "score": "170",
       "item_id": "hn:50245014",
       "summary_type": "extractive",
       "title_zh": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
       "summary_zh": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down"
     },
     {
-      "title": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System",
-      "summary": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections",
-      "published_at": "2026-10-26T13:20:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "54",
-      "item_id": "hn:50243153",
-      "summary_type": "extractive",
-      "title_zh": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System",
-      "summary_zh": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System"
-    },
-    {
-      "title": "81 Jokes for the ZX81",
-      "summary": "81 Jokes for the ZX81",
+      "title": "Jokes for the ZX81",
+      "summary": "Jokes for the ZX81",
       "full_text": "",
       "source": "hacker news",
       "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
@@ -710,11 +662,11 @@
       "tags": [
         "ai"
       ],
-      "score": "56",
+      "score": "108",
       "item_id": "hn:50242688",
       "summary_type": "extractive",
-      "title_zh": "81 Jokes for the ZX81",
-      "summary_zh": "81 Jokes for the ZX81"
+      "title_zh": "Jokes for the ZX81",
+      "summary_zh": "Jokes for the ZX81"
     },
     {
       "title": "SS United States to be sunk as largest artificial reef",
@@ -726,27 +678,27 @@
       "tags": [
         "ai"
       ],
-      "score": "111",
+      "score": "164",
       "item_id": "hn:50239214",
       "summary_type": "extractive",
       "title_zh": "SS United States to be sunk as largest artificial reef",
       "summary_zh": "SS United States to be sunk as largest artificial reef"
     },
     {
-      "title": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
-      "summary": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
+      "title": "Closing the Sea: Lessons from Ancient Mediterranean Blockades",
+      "summary": "Closing the Sea: Lessons from Ancient Mediterranean Blockades",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
-      "published_at": "2026-10-25T21:07:38+00:00",
+      "url": "https://maritime-executive.com/editorials/closing-the-sea-lessons-from-ancient-mediterranean-blockades",
+      "published_at": "2026-10-26T04:28:49+00:00",
       "tags": [
         "ai"
       ],
-      "score": "127",
-      "item_id": "hn:50236073",
+      "score": "17",
+      "item_id": "hn:50239122",
       "summary_type": "extractive",
-      "title_zh": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
-      "summary_zh": "Nvidia and Micron Make Up 34% of America's Earnings Boom"
+      "title_zh": "Closing the Sea: Lessons from Ancient Mediterranean Blockades",
+      "summary_zh": "Closing the Sea: Lessons from Ancient Mediterranean Blockades"
     },
     {
       "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
@@ -758,15 +710,15 @@
       "tags": [
         "ai"
       ],
-      "score": "143",
+      "score": "278",
       "item_id": "hn:50234796",
       "summary_type": "extractive",
       "title_zh": "Ink droplets in motion snag top prize in Nikon Small World contest",
       "summary_zh": "Ink droplets in motion snag top prize in Nikon Small World contest"
     },
     {
-      "title": "Assembly Nights",
-      "summary": "Assembly Nights",
+      "title": "Assembly Nights (2021)",
+      "summary": "Assembly Nights (2021)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://ratfactor.com/assembly-nights",
@@ -774,11 +726,27 @@
       "tags": [
         "ai"
       ],
-      "score": "35",
+      "score": "58",
       "item_id": "hn:50230896",
       "summary_type": "extractive",
-      "title_zh": "Assembly Nights",
-      "summary_zh": "Assembly Nights"
+      "title_zh": "Assembly Nights (2021)",
+      "summary_zh": "Assembly Nights (2021)"
+    },
+    {
+      "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
+      "summary": "MacOS Extensions Pack for the Apple Network Server v1.0",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+      "published_at": "2026-10-25T01:39:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "69",
+      "item_id": "hn:50227400",
+      "summary_type": "extractive",
+      "title_zh": "MacOS Extensions Pack for the Apple Network Server v1.0",
+      "summary_zh": "MacOS Extensions Pack for the Apple Network Server v1.0"
     },
     {
       "title": "An examination of lost firefly species of the US and Canada",
@@ -790,11 +758,27 @@
       "tags": [
         "ai"
       ],
-      "score": "106",
+      "score": "132",
       "item_id": "hn:50224079",
       "summary_type": "extractive",
       "title_zh": "An examination of lost firefly species of the US and Canada",
       "summary_zh": "An examination of lost firefly species of the US and Canada"
+    },
+    {
+      "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+      "summary": "Decompiling Fast Food Tycoon 2: Drawing the World",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
+      "published_at": "2026-10-24T18:17:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "88",
+      "item_id": "hn:50223739",
+      "summary_type": "extractive",
+      "title_zh": "Decompiling Fast Food Tycoon 2: Drawing the World",
+      "summary_zh": "Decompiling Fast Food Tycoon 2: Drawing the World"
     },
     {
       "title": "A Love Letter to the Super Dimension Fortress",
@@ -806,27 +790,43 @@
       "tags": [
         "ai"
       ],
-      "score": "31",
+      "score": "66",
       "item_id": "hn:50219275",
       "summary_type": "extractive",
       "title_zh": "A Love Letter to the Super Dimension Fortress",
       "summary_zh": "A Love Letter to the Super Dimension Fortress"
     },
     {
-      "title": "Tabletop Whale is an original science illustration blog",
-      "summary": "Tabletop Whale is an original science illustration blog",
+      "title": "The Colors of a Soap Film",
+      "summary": "The Colors of a Soap Film",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://tabletopwhale.com",
-      "published_at": "2026-10-24T02:51:39+00:00",
+      "url": "https://aseemrb.me/blog/colors-of-a-soap-film/",
+      "published_at": "2026-10-24T03:46:00+00:00",
       "tags": [
         "ai"
       ],
-      "score": "35",
-      "item_id": "hn:50217978",
+      "score": "10",
+      "item_id": "hn:50218199",
       "summary_type": "extractive",
-      "title_zh": "Tabletop Whale is an original science illustration blog",
-      "summary_zh": "Tabletop Whale is an original science illustration blog"
+      "title_zh": "The Colors of a Soap Film",
+      "summary_zh": "The Colors of a Soap Film"
+    },
+    {
+      "title": "Start Doing Graph Theory",
+      "summary": "Start Doing Graph Theory",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://vertex.degree/",
+      "published_at": "2026-10-23T13:49:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "172",
+      "item_id": "hn:50208960",
+      "summary_type": "extractive",
+      "title_zh": "Start Doing Graph Theory",
+      "summary_zh": "Start Doing Graph Theory"
     }
   ]
 }

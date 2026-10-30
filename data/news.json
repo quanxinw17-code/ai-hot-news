@@ -1,22 +1,326 @@
 {
-  "updated_at": "2026-10-30T12:38:36.249572+00:00",
+  "updated_at": "2026-10-30T22:11:04.183341+00:00",
   "count": 50,
   "items": [
     {
-      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-      "summary": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "summary": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-      "published_at": "2026-10-30T12:08:00+00:00",
+      "url": "https://www.firezone.dev/blog/introducing-sanstun",
+      "published_at": "2026-10-30T21:30:00+00:00",
       "tags": [
         "ai"
       ],
-      "score": "3",
-      "item_id": "hn:50302814",
+      "score": "5",
+      "item_id": "hn:50310398",
       "summary_type": "extractive",
-      "title_zh": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-      "summary_zh": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech"
+      "title_zh": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "summary_zh": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust"
+    },
+    {
+      "title": "Archive of our own (AO3) hacked",
+      "summary": "Archive of our own (AO3) hacked",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.otwstatus.org",
+      "published_at": "2026-10-30T21:17:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:50310258",
+      "summary_type": "extractive",
+      "title_zh": "Archive of our own (AO3) hacked",
+      "summary_zh": "Archive of our own (AO3) hacked"
+    },
+    {
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "summary": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "published_at": "2026-10-30T20:23:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "77",
+      "item_id": "hn:50309647",
+      "summary_type": "extractive",
+      "title_zh": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "summary_zh": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man"
+    },
+    {
+      "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+      "summary": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+      "published_at": "2026-10-30T20:18:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "14",
+      "item_id": "hn:50309573",
+      "summary_type": "extractive",
+      "title_zh": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+      "summary_zh": "Embraer's Atech aims to double in size by 2030 with drone traffic control"
+    },
+    {
+      "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+      "summary": "In this demo, we automatically deduce a FlashAttention kernel with ~25 lines of SQL, which just expresses vanilla attention. This is possible due to three portable SQL extensions that we’re building:\n- xarray-sql: a library that efficiently represents petabyte scale array datasets in the cloud as tables (relations). - ddx: a database extension that adds automatic differentiation in the style of JAX to standard SQL, assuming the above array data model.",
+      "full_text": "In this demo, we automatically deduce a FlashAttention kernel with ~25 lines of SQL, which just expresses vanilla attention. This is possible due to three portable SQL extensions that we’re building:\n- xarray-sql: a library that efficiently represents petabyte scale array datasets in the cloud as tables (relations).\n- ddx: a database extension that adds automatic differentiation in the style of JAX to standard SQL, assuming the above array data model.\n- einfold: a modular query planner for fast ",
+      "source": "hacker news",
+      "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+      "published_at": "2026-10-30T20:09:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "12",
+      "item_id": "hn:50309479",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+      "summary_zh": "In this demo, we automatically deduce a FlashAttention kernel with ~25 lines of SQL, which just expresses vanilla attention. This is possible due to three portable SQL extensions that we’re building:\n- xarray-sql: a library that efficiently represents petabyte scale array datasets in the cloud as tables (relations). - ddx: a database extension that adds automatic differentiation in the style of JAX to standard SQL, assuming the above array data model."
+    },
+    {
+      "title": "Jules Verne's Lost Novel",
+      "summary": "Jules Verne's Lost Novel",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blue-continuum.com/verne-paris",
+      "published_at": "2026-10-30T19:55:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "42",
+      "item_id": "hn:50309314",
+      "summary_type": "extractive",
+      "title_zh": "Jules Verne's Lost Novel",
+      "summary_zh": "Jules Verne's Lost Novel"
+    },
+    {
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "summary": "The oldest ice disappears and the Stone Age emerges from it",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "published_at": "2026-10-30T19:51:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "36",
+      "item_id": "hn:50309266",
+      "summary_type": "extractive",
+      "title_zh": "The oldest ice disappears and the Stone Age emerges from it",
+      "summary_zh": "The oldest ice disappears and the Stone Age emerges from it"
+    },
+    {
+      "title": "Infinite Mac: BeOS",
+      "summary": "Infinite Mac: BeOS",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+      "published_at": "2026-10-30T19:30:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "54",
+      "item_id": "hn:50309029",
+      "summary_type": "extractive",
+      "title_zh": "Infinite Mac: BeOS",
+      "summary_zh": "Infinite Mac: BeOS"
+    },
+    {
+      "title": "A Pickpocket's Guide to New York",
+      "summary": "A Pickpocket's Guide to New York",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
+      "published_at": "2026-10-30T19:26:39+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "29",
+      "item_id": "hn:50308986",
+      "summary_type": "extractive",
+      "title_zh": "A Pickpocket's Guide to New York",
+      "summary_zh": "A Pickpocket's Guide to New York"
+    },
+    {
+      "title": "Bunny CDN Security Incident",
+      "summary": "Bunny CDN Security Incident",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+      "published_at": "2026-10-30T19:05:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "127",
+      "item_id": "hn:50308697",
+      "summary_type": "extractive",
+      "title_zh": "Bunny CDN Security Incident",
+      "summary_zh": "Bunny CDN Security Incident"
+    },
+    {
+      "title": "GitHub Incident with Actions, Pages, and Webhooks",
+      "summary": "GitHub Incident with Actions, Pages, and Webhooks",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+      "published_at": "2026-10-30T17:57:35+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "128",
+      "item_id": "hn:50307723",
+      "summary_type": "extractive",
+      "title_zh": "GitHub Incident with Actions, Pages, and Webhooks",
+      "summary_zh": "GitHub Incident with Actions, Pages, and Webhooks"
+    },
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "summary": "My favourite PowerMac is a Nintendo Wii",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "published_at": "2026-10-30T17:25:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "176",
+      "item_id": "hn:50307190",
+      "summary_type": "extractive",
+      "title_zh": "My favourite PowerMac is a Nintendo Wii",
+      "summary_zh": "My favourite PowerMac is a Nintendo Wii"
+    },
+    {
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "summary": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/dbreunig/nesformer",
+      "published_at": "2026-10-30T16:40:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "154",
+      "item_id": "hn:50306442",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "summary_zh": "Show HN: A working Nintendo in ~1GB of Qwen weights"
+    },
+    {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "summary": "AI isn't replacing SREs, it's deskilling them",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "published_at": "2026-10-30T15:52:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "437",
+      "item_id": "hn:50305693",
+      "summary_type": "extractive",
+      "title_zh": "AI isn't replacing SREs, it's deskilling them",
+      "summary_zh": "AI isn't replacing SREs, it's deskilling them"
+    },
+    {
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "summary": "Florilegium: Procedural Flowers in LaTeX",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "published_at": "2026-10-30T15:48:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "170",
+      "item_id": "hn:50305637",
+      "summary_type": "extractive",
+      "title_zh": "Florilegium: Procedural Flowers in LaTeX",
+      "summary_zh": "Florilegium: Procedural Flowers in LaTeX"
+    },
+    {
+      "title": "The federated code forge",
+      "summary": "The federated code forge",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tangled.org/blog/forge/",
+      "published_at": "2026-10-30T15:44:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "191",
+      "item_id": "hn:50305573",
+      "summary_type": "extractive",
+      "title_zh": "The federated code forge",
+      "summary_zh": "The federated code forge"
+    },
+    {
+      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "summary": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+      "published_at": "2026-10-30T15:39:05+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "178",
+      "item_id": "hn:50305480",
+      "summary_type": "extractive",
+      "title_zh": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "summary_zh": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance"
+    },
+    {
+      "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+      "summary": "Hi everyone!I had the idea for catcopter on my mind for a long time (got the domain ~13 years ago). It&#x27;s a web multiplayer game where you can fly a dangerous cat and engage in competition with other players and critters (pterodactyls, chickens and angry penguins). I made it initially for me and my friends but it was quite fun so I thought I&#x27;ll share it here too.The game is intentionally dorky and it was fun to develop.",
+      "full_text": "Hi everyone!I had the idea for catcopter on my mind for a long time (got the domain ~13 years ago). It&#x27;s a web multiplayer game where you can fly a dangerous cat and engage in competition with other players and critters (pterodactyls, chickens and angry penguins). I made it initially for me and my friends but it was quite fun so I thought I&#x27;ll share it here too.The game is intentionally dorky and it was fun to develop. The tools I used were mostly Opus 5.5 (objects &#x2F; rigging &#x2F",
+      "source": "hacker news",
+      "url": "https://catcopter.com",
+      "published_at": "2026-10-30T15:29:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "75",
+      "item_id": "hn:50305320",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+      "summary_zh": "Hi everyone!I had the idea for catcopter on my mind for a long time (got the domain ~13 years ago). It&#x27;s a web multiplayer game where you can fly a dangerous cat and engage in competition with other players and critters (pterodactyls, chickens and angry penguins). I made it initially for me and my friends but it was quite fun so I thought I&#x27;ll share it here too.The game is intentionally dorky and it was fun to develop."
+    },
+    {
+      "title": "Northflank Breached",
+      "summary": "Northflank Breached",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://status.northflank.com",
+      "published_at": "2026-10-30T15:10:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "304",
+      "item_id": "hn:50305025",
+      "summary_type": "extractive",
+      "title_zh": "Northflank Breached",
+      "summary_zh": "Northflank Breached"
+    },
+    {
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "summary": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "published_at": "2026-10-30T12:50:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "285",
+      "item_id": "hn:50303172",
+      "summary_type": "extractive",
+      "title_zh": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "summary_zh": "The $6.3B Binance hack was pulled off in just 20 minutes"
     },
     {
       "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
@@ -28,15 +332,15 @@
       "tags": [
         "ai"
       ],
-      "score": "35",
+      "score": "246",
       "item_id": "hn:50301854",
       "summary_type": "extractive",
       "title_zh": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
       "summary_zh": "Azure's Weakest Link – Five Full Cross-Tenant Compromises"
     },
     {
-      "title": "How Do You Take a Picture of a Black Hole?",
-      "summary": "How Do You Take a Picture of a Black Hole?",
+      "title": "How do you take a picture of a black hole?",
+      "summary": "How do you take a picture of a black hole?",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
@@ -44,27 +348,11 @@
       "tags": [
         "ai"
       ],
-      "score": "29",
+      "score": "72",
       "item_id": "hn:50301717",
       "summary_type": "extractive",
-      "title_zh": "How Do You Take a Picture of a Black Hole?",
-      "summary_zh": "How Do You Take a Picture of a Black Hole?"
-    },
-    {
-      "title": "elect.horse",
-      "summary": "elect.horse",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://elect.horse/",
-      "published_at": "2026-10-30T09:14:34+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "158",
-      "item_id": "hn:50301462",
-      "summary_type": "extractive",
-      "title_zh": "elect.horse",
-      "summary_zh": "elect.horse"
+      "title_zh": "How do you take a picture of a black hole?",
+      "summary_zh": "How do you take a picture of a black hole?"
     },
     {
       "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
@@ -83,180 +371,52 @@
       "summary_zh": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe"
     },
     {
-      "title": "Pico CSS is no longer maintained",
-      "summary": "Pico CSS is no longer maintained",
+      "title": "Tracks along the longest drive on another world",
+      "summary": "Tracks along the longest drive on another world",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/picocss/pico/discussions/754",
-      "published_at": "2026-10-30T01:58:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "166",
-      "item_id": "hn:50298964",
-      "summary_type": "extractive",
-      "title_zh": "Pico CSS is no longer maintained",
-      "summary_zh": "Pico CSS is no longer maintained"
-    },
-    {
-      "title": "Herdr has released native app",
-      "summary": "Herdr has released native app",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/herdrdev/herdr-app",
-      "published_at": "2026-10-30T00:42:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "251",
-      "item_id": "hn:50298436",
-      "summary_type": "extractive",
-      "title_zh": "Herdr has released native app",
-      "summary_zh": "Herdr has released native app"
-    },
-    {
-      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "summary": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://journal.animationstudies.org/article/id/66/",
-      "published_at": "2026-10-29T22:26:38+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "129",
-      "item_id": "hn:50297089",
-      "summary_type": "extractive",
-      "title_zh": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "summary_zh": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)"
-    },
-    {
-      "title": "The Great American Rascal: Tom Sawyer at 150",
-      "summary": "The Great American Rascal: Tom Sawyer at 150",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
-      "published_at": "2026-10-29T22:14:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "74",
-      "item_id": "hn:50296947",
-      "summary_type": "extractive",
-      "title_zh": "The Great American Rascal: Tom Sawyer at 150",
-      "summary_zh": "The Great American Rascal: Tom Sawyer at 150"
-    },
-    {
-      "title": "Should a medical diagnosis reshape the past? (2025)",
-      "summary": "Should a medical diagnosis reshape the past? (2025)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
-      "published_at": "2026-10-29T22:12:29+00:00",
+      "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+      "published_at": "2026-10-30T01:19:02+00:00",
       "tags": [
         "ai"
       ],
       "score": "49",
-      "item_id": "hn:50296920",
+      "item_id": "hn:50298721",
       "summary_type": "extractive",
-      "title_zh": "Should a medical diagnosis reshape the past? (2025)",
-      "summary_zh": "Should a medical diagnosis reshape the past? (2025)"
+      "title_zh": "Tracks along the longest drive on another world",
+      "summary_zh": "Tracks along the longest drive on another world"
     },
     {
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "summary": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "title": "Building an AI-native engineering org",
+      "summary": "Building an AI-native engineering org",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "published_at": "2026-10-29T21:38:59+00:00",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "published_at": "2026-10-29T21:58:34+00:00",
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.5k",
-      "item_id": "hn:50296470",
+      "score": "82",
+      "item_id": "hn:50296730",
       "summary_type": "extractive",
-      "title_zh": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "summary_zh": "Binance-hacker-1029 – $5.6B stolen from Binance"
+      "title_zh": "Building an AI-native engineering org",
+      "summary_zh": "Building an AI-native engineering org"
     },
     {
-      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
-      "summary": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+      "title": "Turning a solar power system into its own backup",
+      "summary": "Turning a solar power system into its own backup",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://projects.freehackers.org/sylphide-os/",
-      "published_at": "2026-10-29T20:59:55+00:00",
+      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+      "published_at": "2026-10-29T18:10:33+00:00",
       "tags": [
         "ai"
       ],
-      "score": "69",
-      "item_id": "hn:50295868",
+      "score": "11",
+      "item_id": "hn:50293437",
       "summary_type": "extractive",
-      "title_zh": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
-      "summary_zh": "Sylphide OS: a general-purpose OS for microcontroller-based computers"
-    },
-    {
-      "title": "ElementaryUI – Swift, in the Browser",
-      "summary": "ElementaryUI – Swift, in the Browser",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://elementary.codes",
-      "published_at": "2026-10-29T20:56:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "110",
-      "item_id": "hn:50295821",
-      "summary_type": "extractive",
-      "title_zh": "ElementaryUI – Swift, in the Browser",
-      "summary_zh": "ElementaryUI – Swift, in the Browser"
-    },
-    {
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "summary": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
-      "published_at": "2026-10-29T20:32:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "235",
-      "item_id": "hn:50295450",
-      "summary_type": "extractive",
-      "title_zh": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "summary_zh": "A tiny world model running games on a Raspberry Pi Pico 2 W"
-    },
-    {
-      "title": "Patrick Stewart has died",
-      "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;y4Egmhttps:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Patrick_Stewart",
-      "full_text": "https:&#x2F;&#x2F;archive.ph&#x2F;y4Egmhttps:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Patrick_Stewart",
-      "source": "hacker news",
-      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "published_at": "2026-10-29T19:41:39+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 3.1k",
-      "item_id": "hn:50294702",
-      "summary_type": "extractive",
-      "title_zh": "Patrick Stewart has died",
-      "summary_zh": "https:&#x2F;&#x2F;archive.ph&#x2F;y4Egmhttps:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Patrick_Stewart"
-    },
-    {
-      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "summary": "This popup has been a constant gripe of mine for years. I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc. This tiny swift app I built will autoclose it in 1&#x2F;4th of a second and leave behind a little notification that it did so.",
-      "full_text": "This popup has been a constant gripe of mine for years.  I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc.  This tiny swift app I built will autoclose it in 1&#x2F;4th of a second and leave behind a little notification that it did so.  Would love to hear feedback!",
-      "source": "hacker news",
-      "url": "https://github.com/johncassil/dontallow",
-      "published_at": "2026-10-29T19:27:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "145",
-      "item_id": "hn:50294506",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "summary_zh": "This popup has been a constant gripe of mine for years. I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc. This tiny swift app I built will autoclose it in 1&#x2F;4th of a second and leave behind a little notification that it did so."
+      "title_zh": "Turning a solar power system into its own backup",
+      "summary_zh": "Turning a solar power system into its own backup"
     },
     {
       "title": "Rethinking Neural Thickets Without Weight Perturbations",
@@ -266,8 +426,8 @@
       "url": "http://arxiv.org/abs/2610.40649v1",
       "published_at": "2026-10-29T17:59:29Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40649v1",
@@ -283,9 +443,9 @@
       "url": "http://arxiv.org/abs/2610.40647v1",
       "published_at": "2026-10-29T17:59:21Z",
       "tags": [
-        "vision",
+        "llm",
         "paper",
-        "llm"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40647v1",
@@ -301,8 +461,8 @@
       "url": "http://arxiv.org/abs/2610.40643v1",
       "published_at": "2026-10-29T17:58:59Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40643v1",
@@ -335,9 +495,9 @@
       "url": "http://arxiv.org/abs/2610.40636v1",
       "published_at": "2026-10-29T17:58:16Z",
       "tags": [
-        "vision",
+        "llm",
         "paper",
-        "llm"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40636v1",
@@ -354,8 +514,8 @@
       "published_at": "2026-10-29T17:54:12Z",
       "tags": [
         "tool",
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40613v1",
@@ -388,8 +548,8 @@
       "url": "http://arxiv.org/abs/2610.40589v1",
       "published_at": "2026-10-29T17:47:50Z",
       "tags": [
-        "paper",
         "llm",
+        "paper",
         "agent"
       ],
       "score": "📄",
@@ -441,9 +601,9 @@
       "url": "http://arxiv.org/abs/2610.40578v1",
       "published_at": "2026-10-29T17:45:26Z",
       "tags": [
-        "vision",
-        "paper",
         "llm",
+        "paper",
+        "vision",
         "agent"
       ],
       "score": "📄",
@@ -478,8 +638,8 @@
       "url": "http://arxiv.org/abs/2610.40563v1",
       "published_at": "2026-10-29T17:41:59Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40563v1",
@@ -564,8 +724,8 @@
       "published_at": "2026-10-29T17:36:01Z",
       "tags": [
         "tool",
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40541v1",
@@ -598,8 +758,8 @@
       "url": "http://arxiv.org/abs/2610.40532v1",
       "published_at": "2026-10-29T17:34:04Z",
       "tags": [
-        "vision",
         "paper",
+        "vision",
         "agent"
       ],
       "score": "📄",
@@ -609,212 +769,53 @@
       "summary_zh": "How effectively can vision-language-action (VLA) models learn diverse language-conditioned behaviors as training data scales? Investigating this question requires large and varied robot datasets, whose collection on physical robots remains costly. We introduce BURGER, a language-conditioned robotic drawing benchmark with a scalable, prompt-driven pipeline for generating continuous drawing trajectories, both in simulation and the real world."
     },
     {
-      "title": "16colo.rs – ANSI/ASCII art archive",
-      "summary": "16colo.rs – ANSI/ASCII art archive",
-      "full_text": "",
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "summary": "https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2606.03979",
+      "full_text": "https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2606.03979",
       "source": "hacker news",
-      "url": "https://16colo.rs/",
-      "published_at": "2026-10-29T16:14:28+00:00",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "published_at": "2026-10-28T12:24:25+00:00",
       "tags": [
-        "ai"
+        "tool",
+        "llm"
       ],
-      "score": "131",
-      "item_id": "hn:50291421",
+      "score": "127",
+      "item_id": "hn:50272479",
       "summary_type": "extractive",
-      "title_zh": "16colo.rs – ANSI/ASCII art archive",
-      "summary_zh": "16colo.rs – ANSI/ASCII art archive"
+      "title_zh": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "summary_zh": "https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2606.03979"
     },
     {
-      "title": "H.264 Is Magic (2016)",
-      "summary": "H.264 Is Magic (2016)",
+      "title": "Breaking the open web won't stop the bad bots",
+      "summary": "Breaking the open web won't stop the bad bots",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://sidbala.com/h-264-is-magic/",
-      "published_at": "2026-10-29T15:53:03+00:00",
+      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+      "published_at": "2026-10-27T18:42:55+00:00",
       "tags": [
         "ai"
       ],
-      "score": "459",
-      "item_id": "hn:50291054",
+      "score": "137",
+      "item_id": "hn:50263837",
       "summary_type": "extractive",
-      "title_zh": "H.264 Is Magic (2016)",
-      "summary_zh": "H.264 Is Magic (2016)"
+      "title_zh": "Breaking the open web won't stop the bad bots",
+      "summary_zh": "Breaking the open web won't stop the bad bots"
     },
     {
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "summary": "Zombie stats: Where the numbers AI quotes come from",
+      "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
+      "summary": "Tree-mounted machines connect to web app to let users knock on wood remotely",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "published_at": "2026-10-29T15:06:17+00:00",
+      "url": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
+      "published_at": "2026-10-27T13:00:04+00:00",
       "tags": [
         "ai"
       ],
-      "score": "167",
-      "item_id": "hn:50290283",
+      "score": "41",
+      "item_id": "hn:50258496",
       "summary_type": "extractive",
-      "title_zh": "Zombie stats: Where the numbers AI quotes come from",
-      "summary_zh": "Zombie stats: Where the numbers AI quotes come from"
-    },
-    {
-      "title": "If IPv4 were land",
-      "summary": "If IPv4 were land",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://iptrust.co/blog/if-ipv4-were-land",
-      "published_at": "2026-10-29T12:19:00+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "300",
-      "item_id": "hn:50287775",
-      "summary_type": "extractive",
-      "title_zh": "If IPv4 were land",
-      "summary_zh": "If IPv4 were land"
-    },
-    {
-      "title": "NetBSD adds a new text editor called atto",
-      "summary": "NetBSD adds a new text editor called atto",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
-      "published_at": "2026-10-29T11:59:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "183",
-      "item_id": "hn:50287599",
-      "summary_type": "extractive",
-      "title_zh": "NetBSD adds a new text editor called atto",
-      "summary_zh": "NetBSD adds a new text editor called atto"
-    },
-    {
-      "title": "What we know so far about Spain train crash",
-      "summary": "What we know so far about Spain train crash",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-      "published_at": "2026-10-29T08:55:08+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "222",
-      "item_id": "hn:50286197",
-      "summary_type": "extractive",
-      "title_zh": "What we know so far about Spain train crash",
-      "summary_zh": "What we know so far about Spain train crash"
-    },
-    {
-      "title": "Finding Panics with Call Graph Analyzer",
-      "summary": "Finding Panics with Call Graph Analyzer",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
-      "published_at": "2026-10-28T13:48:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "4",
-      "item_id": "hn:50273504",
-      "summary_type": "extractive",
-      "title_zh": "Finding Panics with Call Graph Analyzer",
-      "summary_zh": "Finding Panics with Call Graph Analyzer"
-    },
-    {
-      "title": "Astroterm: A Planetarium for Your Terminal",
-      "summary": "Astroterm: A Planetarium for Your Terminal",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/da-luce/astroterm",
-      "published_at": "2026-10-28T08:29:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "165",
-      "item_id": "hn:50270651",
-      "summary_type": "extractive",
-      "title_zh": "Astroterm: A Planetarium for Your Terminal",
-      "summary_zh": "Astroterm: A Planetarium for Your Terminal"
-    },
-    {
-      "title": "Historical Scientific Instruments",
-      "summary": "Historical Scientific Instruments",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
-      "published_at": "2026-10-27T23:32:35+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "45",
-      "item_id": "hn:50267380",
-      "summary_type": "extractive",
-      "title_zh": "Historical Scientific Instruments",
-      "summary_zh": "Historical Scientific Instruments"
-    },
-    {
-      "title": "An illustrated online book on Hewlett-Packard equipment",
-      "summary": "An illustrated online book on Hewlett-Packard equipment",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
-      "published_at": "2026-10-27T22:47:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "27",
-      "item_id": "hn:50266956",
-      "summary_type": "extractive",
-      "title_zh": "An illustrated online book on Hewlett-Packard equipment",
-      "summary_zh": "An illustrated online book on Hewlett-Packard equipment"
-    },
-    {
-      "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
-      "summary": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
-      "published_at": "2026-10-27T17:54:57+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "70",
-      "item_id": "hn:50263127",
-      "summary_type": "extractive",
-      "title_zh": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
-      "summary_zh": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated"
-    },
-    {
-      "title": "Python on My Wrist",
-      "summary": "Python on My Wrist",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
-      "published_at": "2026-10-27T07:10:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "61",
-      "item_id": "hn:50255573",
-      "summary_type": "extractive",
-      "title_zh": "Python on My Wrist",
-      "summary_zh": "Python on My Wrist"
-    },
-    {
-      "title": "Cuis: The Modern Smalltalk-80",
-      "summary": "Cuis: The Modern Smalltalk-80",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://cuis.st/",
-      "published_at": "2026-10-27T06:33:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "138",
-      "item_id": "hn:50255343",
-      "summary_type": "extractive",
-      "title_zh": "Cuis: The Modern Smalltalk-80",
-      "summary_zh": "Cuis: The Modern Smalltalk-80"
+      "title_zh": "Tree-mounted machines connect to web app to let users knock on wood remotely",
+      "summary_zh": "Tree-mounted machines connect to web app to let users knock on wood remotely"
     },
     {
       "title": "Why a program doesn't work when run from a batch file, but works when clicked",
@@ -826,7 +827,7 @@
       "tags": [
         "ai"
       ],
-      "score": "39",
+      "score": "115",
       "item_id": "hn:50251070",
       "summary_type": "extractive",
       "title_zh": "Why a program doesn't work when run from a batch file, but works when clicked",

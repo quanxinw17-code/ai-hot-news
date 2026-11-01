@@ -1,38 +1,166 @@
 {
-  "updated_at": "2026-10-31T21:21:32.618928+00:00",
+  "updated_at": "2026-11-01T05:44:54.925848+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Distributed Proofreaders",
-      "summary": "Distributed Proofreaders",
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "summary": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.pgdp.net/c/",
-      "published_at": "2026-10-31T20:56:12+00:00",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "published_at": "2026-11-01T02:19:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "52",
+      "item_id": "hn:50322173",
+      "summary_type": "extractive",
+      "title_zh": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "summary_zh": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing"
+    },
+    {
+      "title": "OTape",
+      "summary": "OTape",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.otape.org/",
+      "published_at": "2026-11-01T02:18:46+00:00",
       "tags": [
         "ai"
       ],
       "score": "4",
-      "item_id": "hn:50320137",
+      "item_id": "hn:50322169",
       "summary_type": "extractive",
-      "title_zh": "Distributed Proofreaders",
-      "summary_zh": "Distributed Proofreaders"
+      "title_zh": "OTape",
+      "summary_zh": "OTape"
     },
     {
-      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
-      "summary": "With 86% of the words, you might understand only 38% of an anime's lines",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+      "summary": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
-      "published_at": "2026-10-31T20:46:39+00:00",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "published_at": "2026-11-01T01:46:29+00:00",
       "tags": [
         "ai"
       ],
-      "score": "8",
-      "item_id": "hn:50320028",
+      "score": "40",
+      "item_id": "hn:50322022",
       "summary_type": "extractive",
-      "title_zh": "With 86% of the words, you might understand only 38% of an anime's lines",
-      "summary_zh": "With 86% of the words, you might understand only 38% of an anime's lines"
+      "title_zh": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+      "summary_zh": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM"
+    },
+    {
+      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "summary": "Hi HN,I kept wiring Ben Eater&#x27;s 8-bit computer wrong, so I built a realistic virtual breadboard editor.Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude &amp; co build it or help you troubleshoot.The link is the SAP-1 running. You can orbit it, probe a hole with the scope, slow the clock down, play with the virtual di",
+      "full_text": "Hi HN,I kept wiring Ben Eater&#x27;s 8-bit computer wrong, so I built a realistic virtual breadboard editor.Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude &amp; co build it or help you troubleshoot.The link is the SAP-1 running. You can orbit it, probe a hole with the scope, slow the clock down, play with the virtual di",
+      "source": "hacker news",
+      "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+      "published_at": "2026-11-01T00:10:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:50321522",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "summary_zh": "Hi HN,I kept wiring Ben Eater&#x27;s 8-bit computer wrong, so I built a realistic virtual breadboard editor.Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude &amp; co build it or help you troubleshoot.The link is the SAP-1 running. You can orbit it, probe a hole with the scope, slow the clock down, play with the virtual di"
+    },
+    {
+      "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+      "summary": "Constructing a Quine from Kleene's Second Recursion Theorem",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://emarzion.github.io/KSRT/",
+      "published_at": "2026-10-31T23:55:21+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:50321436",
+      "summary_type": "extractive",
+      "title_zh": "Constructing a Quine from Kleene's Second Recursion Theorem",
+      "summary_zh": "Constructing a Quine from Kleene's Second Recursion Theorem"
+    },
+    {
+      "title": "When electric cars were for women",
+      "summary": "When electric cars were for women",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "published_at": "2026-10-31T23:08:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "57",
+      "item_id": "hn:50321130",
+      "summary_type": "extractive",
+      "title_zh": "When electric cars were for women",
+      "summary_zh": "When electric cars were for women"
+    },
+    {
+      "title": "Altoids Project",
+      "summary": "Altoids Project",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "published_at": "2026-10-31T22:54:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "82",
+      "item_id": "hn:50321048",
+      "summary_type": "extractive",
+      "title_zh": "Altoids Project",
+      "summary_zh": "Altoids Project"
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "summary": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "published_at": "2026-10-31T22:46:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "158",
+      "item_id": "hn:50320995",
+      "summary_type": "extractive",
+      "title_zh": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "summary_zh": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard"
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "summary": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "published_at": "2026-10-31T22:41:06+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "278",
+      "item_id": "hn:50320963",
+      "summary_type": "extractive",
+      "title_zh": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "summary_zh": "An Italian farmer found some unknown seeds in his attic and planted them"
+    },
+    {
+      "title": "AI text watermarking and quality loss",
+      "summary": "AI text watermarking and quality loss",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "published_at": "2026-10-31T21:50:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "42",
+      "item_id": "hn:50320599",
+      "summary_type": "extractive",
+      "title_zh": "AI text watermarking and quality loss",
+      "summary_zh": "AI text watermarking and quality loss"
     },
     {
       "title": "Surviving \"The Graduate\"",
@@ -44,7 +172,7 @@
       "tags": [
         "ai"
       ],
-      "score": "4",
+      "score": "93",
       "item_id": "hn:50319563",
       "summary_type": "extractive",
       "title_zh": "Surviving \"The Graduate\"",
@@ -60,7 +188,7 @@
       "tags": [
         "ai"
       ],
-      "score": "18",
+      "score": "77",
       "item_id": "hn:50319169",
       "summary_type": "extractive",
       "title_zh": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
@@ -76,11 +204,27 @@
       "tags": [
         "ai"
       ],
-      "score": "139",
+      "score": "434",
       "item_id": "hn:50319143",
       "summary_type": "extractive",
       "title_zh": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
       "summary_zh": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8"
+    },
+    {
+      "title": "Electrification Could Cut Global Energy Use in Half",
+      "summary": "Electrification Could Cut Global Energy Use in Half",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+      "published_at": "2026-10-31T19:13:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "69",
+      "item_id": "hn:50319110",
+      "summary_type": "extractive",
+      "title_zh": "Electrification Could Cut Global Energy Use in Half",
+      "summary_zh": "Electrification Could Cut Global Energy Use in Half"
     },
     {
       "title": "The Duty of a Scholar",
@@ -92,15 +236,15 @@
       "tags": [
         "ai"
       ],
-      "score": "55",
+      "score": "104",
       "item_id": "hn:50319061",
       "summary_type": "extractive",
       "title_zh": "The Duty of a Scholar",
       "summary_zh": "The Duty of a Scholar"
     },
     {
-      "title": "It's the Memory Latency, Stupid",
-      "summary": "It's the Memory Latency, Stupid",
+      "title": "It's the memory latency, stupid",
+      "summary": "It's the memory latency, stupid",
       "full_text": "",
       "source": "hacker news",
       "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
@@ -108,43 +252,11 @@
       "tags": [
         "ai"
       ],
-      "score": "51",
+      "score": "170",
       "item_id": "hn:50318720",
       "summary_type": "extractive",
-      "title_zh": "It's the Memory Latency, Stupid",
-      "summary_zh": "It's the Memory Latency, Stupid"
-    },
-    {
-      "title": "I post trained a model on Demoscenes",
-      "summary": "I post trained a model on Demoscenes",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://datavorous.com/writing/demoscener/",
-      "published_at": "2026-10-31T18:08:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "35",
-      "item_id": "hn:50318442",
-      "summary_type": "extractive",
-      "title_zh": "I post trained a model on Demoscenes",
-      "summary_zh": "I post trained a model on Demoscenes"
-    },
-    {
-      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "summary": "https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;wp-content&#x2F;uploads&#x2F;...",
-      "full_text": "https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;wp-content&#x2F;uploads&#x2F;...",
-      "source": "hacker news",
-      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "published_at": "2026-10-31T18:02:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "67",
-      "item_id": "hn:50318401",
-      "summary_type": "extractive",
-      "title_zh": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "summary_zh": "https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;wp-content&#x2F;uploads&#x2F;..."
+      "title_zh": "It's the memory latency, stupid",
+      "summary_zh": "It's the memory latency, stupid"
     },
     {
       "title": "William Nordhaus has died",
@@ -156,91 +268,11 @@
       "tags": [
         "ai"
       ],
-      "score": "36",
+      "score": "67",
       "item_id": "hn:50318376",
       "summary_type": "extractive",
       "title_zh": "William Nordhaus has died",
       "summary_zh": "William Nordhaus has died"
-    },
-    {
-      "title": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
-      "summary": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.cairoreport.org/p/egypt-brazil-iraq-billboard-hack",
-      "published_at": "2026-10-31T17:36:05+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "50",
-      "item_id": "hn:50318182",
-      "summary_type": "extractive",
-      "title_zh": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
-      "summary_zh": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn"
-    },
-    {
-      "title": "Copyright Office is restoring copyright to something you have to work to get",
-      "summary": "Copyright Office is restoring copyright to something you have to work to get",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://pluralistic.net/2026/10/31/burn-berne/#unvictored",
-      "published_at": "2026-10-31T17:16:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "44",
-      "item_id": "hn:50318018",
-      "summary_type": "extractive",
-      "title_zh": "Copyright Office is restoring copyright to something you have to work to get",
-      "summary_zh": "Copyright Office is restoring copyright to something you have to work to get"
-    },
-    {
-      "title": "What is a light-day? The milestone Voyager 1 is closing in on",
-      "summary": "What is a light-day? The milestone Voyager 1 is closing in on",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
-      "published_at": "2026-10-31T16:09:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "75",
-      "item_id": "hn:50317429",
-      "summary_type": "extractive",
-      "title_zh": "What is a light-day? The milestone Voyager 1 is closing in on",
-      "summary_zh": "What is a light-day? The milestone Voyager 1 is closing in on"
-    },
-    {
-      "title": "Casio Watches of the 1980s",
-      "summary": "Casio Watches of the 1980s",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-      "published_at": "2026-10-31T16:00:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "181",
-      "item_id": "hn:50317363",
-      "summary_type": "extractive",
-      "title_zh": "Casio Watches of the 1980s",
-      "summary_zh": "Casio Watches of the 1980s"
-    },
-    {
-      "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
-      "summary": "Show HN: A USB-C LTE modem that gives my computer a phone line",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/Koppar-AI/koppar-lte-modem",
-      "published_at": "2026-10-31T15:56:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "30",
-      "item_id": "hn:50317331",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: A USB-C LTE modem that gives my computer a phone line",
-      "summary_zh": "Show HN: A USB-C LTE modem that gives my computer a phone line"
     },
     {
       "title": "Jepsen: ParticleDB 1.1.4",
@@ -252,27 +284,11 @@
       "tags": [
         "ai"
       ],
-      "score": "133",
+      "score": "235",
       "item_id": "hn:50316100",
       "summary_type": "extractive",
       "title_zh": "Jepsen: ParticleDB 1.1.4",
       "summary_zh": "https:&#x2F;&#x2F;github.com&#x2F;jepsen-io&#x2F;particledb"
-    },
-    {
-      "title": "Prospero: A new coding harness for a more civilized age",
-      "summary": "Prospero: A new coding harness for a more civilized age",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nullprogram.com/blog/2026/10/31/",
-      "published_at": "2026-10-31T11:54:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "171",
-      "item_id": "hn:50315226",
-      "summary_type": "extractive",
-      "title_zh": "Prospero: A new coding harness for a more civilized age",
-      "summary_zh": "Prospero: A new coding harness for a more civilized age"
     },
     {
       "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
@@ -284,7 +300,7 @@
       "tags": [
         "ai"
       ],
-      "score": "276",
+      "score": "316",
       "item_id": "hn:50314666",
       "summary_type": "extractive",
       "title_zh": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
@@ -300,59 +316,75 @@
       "tags": [
         "ai"
       ],
-      "score": "751",
+      "score": "844",
       "item_id": "hn:50314654",
       "summary_type": "extractive",
       "title_zh": "Serbia just elected the world's brainiest parliament",
       "summary_zh": "Serbia just elected the world's brainiest parliament"
     },
     {
-      "title": "Switch Lowering in GCC",
-      "summary": "Switch Lowering in GCC",
+      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "summary": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://xoranth.net/gcc-switch/",
-      "published_at": "2026-10-31T08:02:26+00:00",
+      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+      "published_at": "2026-10-30T22:41:03+00:00",
       "tags": [
         "ai"
       ],
-      "score": "184",
-      "item_id": "hn:50314085",
+      "score": "67",
+      "item_id": "hn:50311045",
       "summary_type": "extractive",
-      "title_zh": "Switch Lowering in GCC",
-      "summary_zh": "Switch Lowering in GCC"
+      "title_zh": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "summary_zh": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020"
     },
     {
-      "title": "Digital minimalism",
-      "summary": "Digital minimalism",
+      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+      "summary": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-      "published_at": "2026-10-31T06:16:36+00:00",
+      "url": "http://thales.mit.edu/bush/index.php/4801-2/",
+      "published_at": "2026-10-30T19:52:56+00:00",
       "tags": [
         "ai"
       ],
-      "score": "276",
-      "item_id": "hn:50313661",
+      "score": "5",
+      "item_id": "hn:50309279",
       "summary_type": "extractive",
-      "title_zh": "Digital minimalism",
-      "summary_zh": "Digital minimalism"
+      "title_zh": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+      "summary_zh": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)"
     },
     {
-      "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
-      "summary": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
+      "title": "Decode kernel panic from QR Code photo",
+      "summary": "Decode kernel panic from QR Code photo",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://oqtadrive.org/10.other/5-years/",
-      "published_at": "2026-10-30T08:30:03+00:00",
+      "url": "https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546",
+      "published_at": "2026-10-30T11:50:24+00:00",
       "tags": [
         "ai"
       ],
-      "score": "9",
-      "item_id": "hn:50301178",
+      "score": "17",
+      "item_id": "hn:50302686",
       "summary_type": "extractive",
-      "title_zh": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
-      "summary_zh": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet"
+      "title_zh": "Decode kernel panic from QR Code photo",
+      "summary_zh": "Decode kernel panic from QR Code photo"
+    },
+    {
+      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+      "summary": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+      "published_at": "2026-10-30T09:49:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:50301723",
+      "summary_type": "extractive",
+      "title_zh": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+      "summary_zh": "Sculpture re-creates odd optical effects of famed Lycurgus Cup"
     },
     {
       "title": "Much Ado About None: Sentinel Values in Python",
@@ -364,43 +396,11 @@
       "tags": [
         "ai"
       ],
-      "score": "22",
+      "score": "61",
       "item_id": "hn:50297068",
       "summary_type": "extractive",
       "title_zh": "Much Ado About None: Sentinel Values in Python",
       "summary_zh": "Much Ado About None: Sentinel Values in Python"
-    },
-    {
-      "title": "Hunting 'Zombie Accounts' in Active Directory",
-      "summary": "Hunting 'Zombie Accounts' in Active Directory",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.fabian.fyi/2026/10/zombie-hunt.html",
-      "published_at": "2026-10-29T21:56:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "30",
-      "item_id": "hn:50296700",
-      "summary_type": "extractive",
-      "title_zh": "Hunting 'Zombie Accounts' in Active Directory",
-      "summary_zh": "Hunting 'Zombie Accounts' in Active Directory"
-    },
-    {
-      "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
-      "summary": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
-      "published_at": "2026-10-29T18:33:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "27",
-      "item_id": "hn:50293806",
-      "summary_type": "extractive",
-      "title_zh": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
-      "summary_zh": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference"
     },
     {
       "title": "Rethinking Neural Thickets Without Weight Perturbations",
@@ -428,8 +428,8 @@
       "published_at": "2026-10-29T17:59:21Z",
       "tags": [
         "paper",
-        "vision",
-        "llm"
+        "llm",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40647v1",
@@ -480,8 +480,8 @@
       "published_at": "2026-10-29T17:58:16Z",
       "tags": [
         "paper",
-        "vision",
-        "llm"
+        "llm",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40636v1",
@@ -515,8 +515,8 @@
       "url": "http://arxiv.org/abs/2610.40611v1",
       "published_at": "2026-10-29T17:54:07Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40611v1",
@@ -533,8 +533,8 @@
       "published_at": "2026-10-29T17:47:50Z",
       "tags": [
         "agent",
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40589v1",
@@ -586,9 +586,9 @@
       "published_at": "2026-10-29T17:45:26Z",
       "tags": [
         "agent",
+        "llm",
         "paper",
-        "vision",
-        "llm"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40578v1",
@@ -639,8 +639,8 @@
       "url": "http://arxiv.org/abs/2610.40560v1",
       "published_at": "2026-10-29T17:40:57Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40560v1",
@@ -725,8 +725,8 @@
       "url": "http://arxiv.org/abs/2610.40535v1",
       "published_at": "2026-10-29T17:34:28Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40535v1",
@@ -743,8 +743,8 @@
       "published_at": "2026-10-29T17:34:04Z",
       "tags": [
         "agent",
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2610.40532v1",
@@ -762,27 +762,43 @@
       "tags": [
         "ai"
       ],
-      "score": "176",
+      "score": "195",
       "item_id": "hn:50290652",
       "summary_type": "extractive",
       "title_zh": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
       "summary_zh": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura"
     },
     {
-      "title": "Redox: Ring Buffers Project Summary",
-      "summary": "Redox: Ring Buffers Project Summary",
+      "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
+      "summary": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.redox-os.org/news/nlnet-rb-summary/",
-      "published_at": "2026-10-28T14:27:12+00:00",
+      "url": "https://dl.acm.org/doi/10.1145/857076.857077",
+      "published_at": "2026-10-29T14:30:25+00:00",
       "tags": [
         "ai"
       ],
-      "score": "36",
-      "item_id": "hn:50274186",
+      "score": "11",
+      "item_id": "hn:50289711",
       "summary_type": "extractive",
-      "title_zh": "Redox: Ring Buffers Project Summary",
-      "summary_zh": "Redox: Ring Buffers Project Summary"
+      "title_zh": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
+      "summary_zh": "A brief history of just-in-time: forty years of JIT work, from 1960–2000"
+    },
+    {
+      "title": "Edgar Allan Poe, Quintessential American Writer",
+      "summary": "Edgar Allan Poe, Quintessential American Writer",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
+      "published_at": "2026-10-29T05:10:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "21",
+      "item_id": "hn:50284789",
+      "summary_type": "extractive",
+      "title_zh": "Edgar Allan Poe, Quintessential American Writer",
+      "summary_zh": "Edgar Allan Poe, Quintessential American Writer"
     },
     {
       "title": "Reading and writing are less symmetric than you (probably) think",
@@ -794,7 +810,7 @@
       "tags": [
         "ai"
       ],
-      "score": "62",
+      "score": "102",
       "item_id": "hn:50271052",
       "summary_type": "extractive",
       "title_zh": "Reading and writing are less symmetric than you (probably) think",
@@ -810,27 +826,11 @@
       "tags": [
         "ai"
       ],
-      "score": "186",
+      "score": "228",
       "item_id": "hn:50261253",
       "summary_type": "extractive",
       "title_zh": "Simple circuits can create complex behaviors",
       "summary_zh": "Simple circuits can create complex behaviors"
-    },
-    {
-      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-      "summary": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://zebra.rodeo/en/blog/marelleo/",
-      "published_at": "2026-10-27T15:24:36+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "177",
-      "item_id": "hn:50260753",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-      "summary_zh": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32"
     }
   ]
 }

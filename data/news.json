@@ -1,70 +1,547 @@
 {
-  "updated_at": "2026-11-05T19:49:13.593996+00:00",
+  "updated_at": "2026-11-06T06:16:05.303144+00:00",
   "count": 50,
   "items": [
     {
-      "title": "How to Lie With Statistics (1954) [pdf]",
-      "summary": "How to Lie With Statistics (1954) [pdf]",
+      "title": "How accurately did science fiction stories predict AI?",
+      "summary": "How accurately did science fiction stories predict AI?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf",
-      "published_at": "2026-11-05T18:29:22+00:00",
+      "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
+      "published_at": "2026-11-06T04:36:22+00:00",
       "tags": [
         "ai"
       ],
-      "score": "31",
-      "item_id": "hn:50382594",
+      "score": "17",
+      "item_id": "hn:50388263",
       "summary_type": "extractive",
-      "title_zh": "How to Lie With Statistics (1954) [pdf]",
-      "summary_zh": "How to Lie With Statistics (1954) [pdf]"
+      "title_zh": "How accurately did science fiction stories predict AI?",
+      "summary_zh": "How accurately did science fiction stories predict AI?"
     },
     {
-      "title": "NTS: Authenticated Time at Meta",
-      "summary": "NTS: Authenticated Time at Meta",
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "summary": "From Linux to Wikipedia: How Volunteers Build the Internet",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
-      "published_at": "2026-11-05T18:24:28+00:00",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "published_at": "2026-11-06T04:17:49+00:00",
       "tags": [
         "ai"
       ],
-      "score": "10",
-      "item_id": "hn:50382525",
+      "score": "8",
+      "item_id": "hn:50388122",
       "summary_type": "extractive",
-      "title_zh": "NTS: Authenticated Time at Meta",
-      "summary_zh": "NTS: Authenticated Time at Meta"
+      "title_zh": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "summary_zh": "From Linux to Wikipedia: How Volunteers Build the Internet"
     },
     {
-      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-      "summary": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "title": "Pwn.college",
+      "summary": "Pwn.college",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
-      "published_at": "2026-11-05T18:00:01+00:00",
+      "url": "https://pwn.college/",
+      "published_at": "2026-11-06T03:27:14+00:00",
       "tags": [
         "ai"
       ],
-      "score": "118",
-      "item_id": "hn:50382179",
+      "score": "65",
+      "item_id": "hn:50387796",
       "summary_type": "extractive",
-      "title_zh": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-      "summary_zh": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election"
+      "title_zh": "Pwn.college",
+      "summary_zh": "Pwn.college"
     },
     {
-      "title": "Nasdaq plummets 4% into correction territory",
-      "summary": "Nasdaq plummets 4% into correction territory",
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "summary": "Nvidia Kubernetes Engine (NVKE)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-      "published_at": "2026-11-05T17:11:15+00:00",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "published_at": "2026-11-06T03:16:26+00:00",
       "tags": [
         "ai"
       ],
-      "score": "96",
-      "item_id": "hn:50381623",
+      "score": "46",
+      "item_id": "hn:50387738",
       "summary_type": "extractive",
-      "title_zh": "Nasdaq plummets 4% into correction territory",
-      "summary_zh": "Nasdaq plummets 4% into correction territory"
+      "title_zh": "Nvidia Kubernetes Engine (NVKE)",
+      "summary_zh": "Nvidia Kubernetes Engine (NVKE)"
+    },
+    {
+      "title": "Closed AI models dominate the price-performance frontier",
+      "summary": "Closed AI models dominate the price-performance frontier",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+      "published_at": "2026-11-06T02:49:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "49",
+      "item_id": "hn:50387546",
+      "summary_type": "extractive",
+      "title_zh": "Closed AI models dominate the price-performance frontier",
+      "summary_zh": "Closed AI models dominate the price-performance frontier"
+    },
+    {
+      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "summary": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/matthewmrichter/mooftcp",
+      "published_at": "2026-11-06T00:54:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:50386789",
+      "summary_type": "extractive",
+      "title_zh": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "summary_zh": "MoofTCP – A modern replacement for MacTCP on 68k Macs"
+    },
+    {
+      "title": "Inkling 2 Small",
+      "summary": "Inkling 2 Small",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "published_at": "2026-11-06T00:00:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "148",
+      "item_id": "hn:50386338",
+      "summary_type": "extractive",
+      "title_zh": "Inkling 2 Small",
+      "summary_zh": "Inkling 2 Small"
+    },
+    {
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "summary": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "published_at": "2026-11-05T23:09:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "237",
+      "item_id": "hn:50385870",
+      "summary_type": "extractive",
+      "title_zh": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "summary_zh": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "summary": "MS Paint Remote Code Execution Vulnerability",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "published_at": "2026-11-05T20:43:42+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "433",
+      "item_id": "hn:50384233",
+      "summary_type": "extractive",
+      "title_zh": "MS Paint Remote Code Execution Vulnerability",
+      "summary_zh": "MS Paint Remote Code Execution Vulnerability"
+    },
+    {
+      "title": "Search for everyone",
+      "summary": "Search for everyone",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://kagi.com/changelog#11820",
+      "published_at": "2026-11-05T20:03:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "625",
+      "item_id": "hn:50383740",
+      "summary_type": "extractive",
+      "title_zh": "Search for everyone",
+      "summary_zh": "Search for everyone"
+    },
+    {
+      "title": "Goodbye from Salon",
+      "summary": "Goodbye from Salon",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "published_at": "2026-11-05T20:03:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "539",
+      "item_id": "hn:50383739",
+      "summary_type": "extractive",
+      "title_zh": "Goodbye from Salon",
+      "summary_zh": "Goodbye from Salon"
+    },
+    {
+      "title": "The Hackintosh Reborn",
+      "summary": "The Hackintosh Reborn",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "published_at": "2026-11-05T19:08:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "271",
+      "item_id": "hn:50383057",
+      "summary_type": "extractive",
+      "title_zh": "The Hackintosh Reborn",
+      "summary_zh": "The Hackintosh Reborn"
+    },
+    {
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round work in swarms, reason in latent space without decod",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08483v1",
+      "published_at": "2026-11-05T18:59:29Z",
+      "tags": [
+        "agent",
+        "llm",
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08483v1",
+      "summary_type": "extractive",
+      "title_zh": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "summary_zh": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round work in swarms, reason in latent space without decod"
+    },
+    {
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08478v1",
+      "published_at": "2026-11-05T18:58:17Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08478v1",
+      "summary_type": "extractive",
+      "title_zh": "Scientist World: Grow a Research World for AI-Scientists",
+      "summary_zh": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment."
+    },
+    {
+      "title": "XStack: A Benchmark for ML Repo Migration",
+      "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08472v1",
+      "published_at": "2026-11-05T18:55:54Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08472v1",
+      "summary_type": "extractive",
+      "title_zh": "XStack: A Benchmark for ML Repo Migration",
+      "summary_zh": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware."
+    },
+    {
+      "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+      "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. We ask when such a quantity is identifiable from an experiment's access, continuous in the mechanism and certifiable from finite data, and answer exactly for a deliberately demanding case - the integra",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08469v1",
+      "published_at": "2026-11-05T18:55:31Z",
+      "tags": [
+        "ai",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08469v1",
+      "summary_type": "extractive",
+      "title_zh": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+      "summary_zh": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. We ask when such a quantity is identifiable from an experiment's access, continuous in the mechanism and certifiable from finite data, and answer exactly for a deliberately demanding case - the integra"
+    },
+    {
+      "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+      "summary": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Maximally-Activating Example Metamodels (MAEMs), language models which map residual stream directions from a subject model to text exemplars that strongly activate those directions.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08465v1",
+      "published_at": "2026-11-05T18:54:40Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08465v1",
+      "summary_type": "extractive",
+      "title_zh": "Towards interpreting any residual stream direction by scaling activation inversion",
+      "summary_zh": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Maximally-Activating Example Metamodels (MAEMs), language models which map residual stream directions from a subject model to text exemplars that strongly activate those directions."
+    },
+    {
+      "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+      "summary": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend on their ability to fill in missing details, rather than on the released artifacts alone. We ask whether preserving recovered procedures and decisions improves subsequent independent reproduction.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08452v1",
+      "published_at": "2026-11-05T18:45:36Z",
+      "tags": [
+        "agent",
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08452v1",
+      "summary_type": "extractive",
+      "title_zh": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+      "summary_zh": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend on their ability to fill in missing details, rather than on the released artifacts alone. We ask whether preserving recovered procedures and decisions improves subsequent independent reproduction."
+    },
+    {
+      "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
+      "summary": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 307M-parameter multilingual cross-encoder, Ru-Jev, trained on thirteen Russian-language tasks; the later release adds an augmentation that presents labels in several surface forms. Holding questions fixed and varying only how eighteen routing labels are worded, we evaluate ten label vocabularies, produce",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08439v1",
+      "published_at": "2026-11-05T18:31:24Z",
+      "tags": [
+        "ai",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08439v1",
+      "summary_type": "extractive",
+      "title_zh": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
+      "summary_zh": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 307M-parameter multilingual cross-encoder, Ru-Jev, trained on thirteen Russian-language tasks; the later release adds an augmentation that presents labels in several surface forms. Holding questions fixed and varying only how eighteen routing labels are worded, we evaluate ten label vocabularies, produce"
+    },
+    {
+      "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+      "summary": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of the defining challenges of our time. Yet we continue to build increasingly powerful systems without fully understanding how they work, how they will behave in unfamiliar situations, or how to reliably control them.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08438v1",
+      "published_at": "2026-11-05T18:30:54Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08438v1",
+      "summary_type": "extractive",
+      "title_zh": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+      "summary_zh": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of the defining challenges of our time. Yet we continue to build increasingly powerful systems without fully understanding how they work, how they will behave in unfamiliar situations, or how to reliably control them."
+    },
+    {
+      "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
+      "summary": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudinal medical dialogue and find three recurring causes: the retrieved evidence gives an outdated state, includes another person's health facts, or lacks a safety fact the answer depends on. We present MedGraph, a graph memory built for these three cases.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08433v1",
+      "published_at": "2026-11-05T18:27:20Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08433v1",
+      "summary_type": "extractive",
+      "title_zh": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
+      "summary_zh": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudinal medical dialogue and find three recurring causes: the retrieved evidence gives an outdated state, includes another person's health facts, or lacks a safety fact the answer depends on. We present MedGraph, a graph memory built for these three cases."
+    },
+    {
+      "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+      "summary": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta access---giving the assistant a structured, permissioned view of the interface itself and propose a ladder of levels: feature tutoring; metadata, settings, and preference access; retrieval over summaries and messages, confirmed mutation, and full orchestration.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08428v1",
+      "published_at": "2026-11-05T18:22:24Z",
+      "tags": [
+        "agent",
+        "llm",
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08428v1",
+      "summary_type": "extractive",
+      "title_zh": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+      "summary_zh": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta access---giving the assistant a structured, permissioned view of the interface itself and propose a ladder of levels: feature tutoring; metadata, settings, and preference access; retrieval over summaries and messages, confirmed mutation, and full orchestration."
+    },
+    {
+      "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
+      "summary": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endanger people. Deploying VLAs in real-world systems therefore requires a runtime monitor that is timely, calibrated, and informative while being efficient enough to run on the edge. Existing methods fail to fulfill these requirements.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08425v1",
+      "published_at": "2026-11-05T18:21:07Z",
+      "tags": [
+        "tool",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08425v1",
+      "summary_type": "extractive",
+      "title_zh": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
+      "summary_zh": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endanger people. Deploying VLAs in real-world systems therefore requires a runtime monitor that is timely, calibrated, and informative while being efficient enough to run on the edge. Existing methods fail to fulfill these requirements."
+    },
+    {
+      "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+      "summary": "Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at release can become stale. As models improve, they can discover valid solutions that existing verifiers reject, while changes to evaluation infrastructure can invalidate assumptions embedded in tasks and tests.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08417v1",
+      "published_at": "2026-11-05T18:18:39Z",
+      "tags": [
+        "agent",
+        "llm",
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08417v1",
+      "summary_type": "extractive",
+      "title_zh": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+      "summary_zh": "Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at release can become stale. As models improve, they can discover valid solutions that existing verifiers reject, while changes to evaluation infrastructure can invalidate assumptions embedded in tasks and tests."
+    },
+    {
+      "title": "The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?",
+      "summary": "The growing use of AI in mathematics raises a question: can we detect AI involvement in proofs, separately from AI assistance with writing? Historical arXiv papers, recent papers disclosing substantive AI use, and manuscripts released by OpenAI provide a rich empirical basis for studying this question. However, several challenges remain: lack of matched case-control pairs; potential incompleteness of disclosure; and lack of ready-to-use features designed to capture signals of AI involvement in p",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08412v1",
+      "published_at": "2026-11-05T18:17:18Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08412v1",
+      "summary_type": "extractive",
+      "title_zh": "The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?",
+      "summary_zh": "The growing use of AI in mathematics raises a question: can we detect AI involvement in proofs, separately from AI assistance with writing? Historical arXiv papers, recent papers disclosing substantive AI use, and manuscripts released by OpenAI provide a rich empirical basis for studying this question. However, several challenges remain: lack of matched case-control pairs; potential incompleteness of disclosure; and lack of ready-to-use features designed to capture signals of AI involvement in p"
+    },
+    {
+      "title": "StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning",
+      "summary": "Self-consistency (SC) is a widely used decoding strategy for improving chain-of-thought reasoning, but it requires sampling many complete reasoning trajectories with a preset budget. Its efficient variants reduce the cost mainly by stopping full-trajectory sampling early or distributing the number of samples across questions. In this paper, we propose StepBack, a step-level error-localized resampling method for efficient test-time reasoning.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08403v1",
+      "published_at": "2026-11-05T18:12:49Z",
+      "tags": [
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08403v1",
+      "summary_type": "extractive",
+      "title_zh": "StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning",
+      "summary_zh": "Self-consistency (SC) is a widely used decoding strategy for improving chain-of-thought reasoning, but it requires sampling many complete reasoning trajectories with a preset budget. Its efficient variants reduce the cost mainly by stopping full-trajectory sampling early or distributing the number of samples across questions. In this paper, we propose StepBack, a step-level error-localized resampling method for efficient test-time reasoning."
+    },
+    {
+      "title": "Learning a patient world model for health system simulation in intensive care",
+      "summary": "Designing healthcare strategies requires anticipating their clinical and operational consequences before implementation, a task that often relies on health system simulation. Such a simulation necessitates modeling how patient states evolve and generate care demands. However, conventional approaches typically tailor compact state transitions to a single policy question and omit history-dependent dynamics, thus requiring the redefinition of states and transitions when there is a new question that",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08392v1",
+      "published_at": "2026-11-05T18:06:42Z",
+      "tags": [
+        "ai",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08392v1",
+      "summary_type": "extractive",
+      "title_zh": "Learning a patient world model for health system simulation in intensive care",
+      "summary_zh": "Designing healthcare strategies requires anticipating their clinical and operational consequences before implementation, a task that often relies on health system simulation. Such a simulation necessitates modeling how patient states evolve and generate care demands. However, conventional approaches typically tailor compact state transitions to a single policy question and omit history-dependent dynamics, thus requiring the redefinition of states and transitions when there is a new question that"
+    },
+    {
+      "title": "Hybrid Machine Learning for Imbalanced Landing-Phase Safety Event Prediction from Flight Data",
+      "summary": "Landing-phase safety-event prediction requires the detection of rare abnormal approaches within strongly imbalanced multivariate flight data. Capturing coupled temporal behavior while distinguishing event-specific signatures across airport operating contexts remains a central modeling challenge. This study proposes an interpretable hybrid feature-fusion framework for multiclass landing-phase safety-event prediction.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08386v1",
+      "published_at": "2026-11-05T18:04:26Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08386v1",
+      "summary_type": "extractive",
+      "title_zh": "Hybrid Machine Learning for Imbalanced Landing-Phase Safety Event Prediction from Flight Data",
+      "summary_zh": "Landing-phase safety-event prediction requires the detection of rare abnormal approaches within strongly imbalanced multivariate flight data. Capturing coupled temporal behavior while distinguishing event-specific signatures across airport operating contexts remains a central modeling challenge. This study proposes an interpretable hybrid feature-fusion framework for multiclass landing-phase safety-event prediction."
+    },
+    {
+      "title": "FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning",
+      "summary": "Federated learning servers combine client models with a fixed aggregation rule, and each rule in common use is designed for one kind of heterogeneity. We study whether a large language model (LLM) that inspects the client models can choose the rule itself, without any training on the server. In FedReason, the LLM is called every ten rounds.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08383v1",
+      "published_at": "2026-11-05T18:00:58Z",
+      "tags": [
+        "llm",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08383v1",
+      "summary_type": "extractive",
+      "title_zh": "FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning",
+      "summary_zh": "Federated learning servers combine client models with a fixed aggregation rule, and each rule in common use is designed for one kind of heterogeneity. We study whether a large language model (LLM) that inspects the client models can choose the rule itself, without any training on the server. In FedReason, the LLM is called every ten rounds."
+    },
+    {
+      "title": "MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation",
+      "summary": "Visuomotor policies trained through imitation learning are highly sensitive to changes in camera viewpoint. This is particularly problematic for mobile manipulation (MoMa), where robots rarely execute manipulation from the exact same base pose used during demonstration collection due to navigation uncertainty, localization drift, and environmental constraints. Recent approaches use novel-view synthesis (NVS) to augment demonstrations with unseen viewpoints, but they assume static scenes and ther",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08372v1",
+      "published_at": "2026-11-05T17:50:35Z",
+      "tags": [
+        "ai",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08372v1",
+      "summary_type": "extractive",
+      "title_zh": "MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation",
+      "summary_zh": "Visuomotor policies trained through imitation learning are highly sensitive to changes in camera viewpoint. This is particularly problematic for mobile manipulation (MoMa), where robots rarely execute manipulation from the exact same base pose used during demonstration collection due to navigation uncertainty, localization drift, and environmental constraints. Recent approaches use novel-view synthesis (NVS) to augment demonstrations with unseen viewpoints, but they assume static scenes and ther"
+    },
+    {
+      "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+      "summary": "Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal less about whether a model can integrate subspecialty knowledge with multimodal evidence and track a patient's condition throughout a course of care. To close this gap, we introduce NPCBench, a clinical apprenticeship benchmark for nasopharyngeal carcinoma (NPC).",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08369v1",
+      "published_at": "2026-11-05T17:48:55Z",
+      "tags": [
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08369v1",
+      "summary_type": "extractive",
+      "title_zh": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+      "summary_zh": "Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal less about whether a model can integrate subspecialty knowledge with multimodal evidence and track a patient's condition throughout a course of care. To close this gap, we introduce NPCBench, a clinical apprenticeship benchmark for nasopharyngeal carcinoma (NPC)."
+    },
+    {
+      "title": "VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception",
+      "summary": "Robotic perception increasingly relies on heterogeneous sensor suites combining cameras with emerging modalities (event, SPAD, iToF/dToF, and thermal). Yet existing simulators idealize these sensors, hiding critical modality-specific failure modes that limit real-world deployment. We present VisionSIM, a unified, physically grounded simulation platform that elevates sensor realism to a first-class concern by modeling the raw physical measurement process for diverse conventional and emerging moda",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.08368v1",
+      "published_at": "2026-11-05T17:48:00Z",
+      "tags": [
+        "tool",
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.08368v1",
+      "summary_type": "extractive",
+      "title_zh": "VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception",
+      "summary_zh": "Robotic perception increasingly relies on heterogeneous sensor suites combining cameras with emerging modalities (event, SPAD, iToF/dToF, and thermal). Yet existing simulators idealize these sensors, hiding critical modality-specific failure modes that limit real-world deployment. We present VisionSIM, a unified, physically grounded simulation platform that elevates sensor realism to a first-class concern by modeling the raw physical measurement process for diverse conventional and emerging moda"
     },
     {
       "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
@@ -92,27 +569,11 @@
       "tags": [
         "ai"
       ],
-      "score": "95",
+      "score": "287",
       "item_id": "hn:50381383",
       "summary_type": "extractive",
       "title_zh": "Window Sweaters",
       "summary_zh": "Window Sweaters"
-    },
-    {
-      "title": "Vibe Coding Keypad",
-      "summary": "Vibe Coding Keypad",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
-      "published_at": "2026-11-05T16:43:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "79",
-      "item_id": "hn:50381302",
-      "summary_type": "extractive",
-      "title_zh": "Vibe Coding Keypad",
-      "summary_zh": "Vibe Coding Keypad"
     },
     {
       "title": "My psychophysics as a bilateral cochlear implant user",
@@ -124,7 +585,7 @@
       "tags": [
         "ai"
       ],
-      "score": "109",
+      "score": "175",
       "item_id": "hn:50381033",
       "summary_type": "extractive",
       "title_zh": "My psychophysics as a bilateral cochlear implant user",
@@ -140,7 +601,7 @@
       "tags": [
         "ai"
       ],
-      "score": "41",
+      "score": "82",
       "item_id": "hn:50380979",
       "summary_type": "extractive",
       "title_zh": "The Stacks Project, Formalized in Lean",
@@ -156,43 +617,11 @@
       "tags": [
         "ai"
       ],
-      "score": "244",
+      "score": "442",
       "item_id": "hn:50380810",
       "summary_type": "extractive",
       "title_zh": "Motorola Signature 27 with GrapheneOS support",
       "summary_zh": "Motorola Signature 27 with GrapheneOS support"
-    },
-    {
-      "title": "OCAP Bounded Authority: Edera's Managed Approach to Object Capabilities",
-      "summary": "OCAP Bounded Authority: Edera's Managed Approach to Object Capabilities",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://edera.dev/stories/ocap-bounded-authority",
-      "published_at": "2026-11-05T16:01:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "27",
-      "item_id": "hn:50380808",
-      "summary_type": "extractive",
-      "title_zh": "OCAP Bounded Authority: Edera's Managed Approach to Object Capabilities",
-      "summary_zh": "OCAP Bounded Authority: Edera's Managed Approach to Object Capabilities"
-    },
-    {
-      "title": "Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it",
-      "summary": "Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet",
-      "published_at": "2026-11-05T15:33:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "14",
-      "item_id": "hn:50380410",
-      "summary_type": "extractive",
-      "title_zh": "Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it",
-      "summary_zh": "Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it"
     },
     {
       "title": "We can do better than line-buffered output",
@@ -204,43 +633,11 @@
       "tags": [
         "ai"
       ],
-      "score": "58",
+      "score": "97",
       "item_id": "hn:50380268",
       "summary_type": "extractive",
       "title_zh": "We can do better than line-buffered output",
       "summary_zh": "We can do better than line-buffered output"
-    },
-    {
-      "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
-      "summary": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nordstjernen.org/",
-      "published_at": "2026-11-05T15:17:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "32",
-      "item_id": "hn:50380170",
-      "summary_type": "extractive",
-      "title_zh": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
-      "summary_zh": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust"
-    },
-    {
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "summary": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "published_at": "2026-11-05T14:44:20+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "415",
-      "item_id": "hn:50379704",
-      "summary_type": "extractive",
-      "title_zh": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "summary_zh": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass"
     },
     {
       "title": "September in Servo: <progress>, rounded rectangles, and more",
@@ -252,7 +649,7 @@
       "tags": [
         "ai"
       ],
-      "score": "135",
+      "score": "215",
       "item_id": "hn:50379576",
       "summary_type": "extractive",
       "title_zh": "September in Servo: <progress>, rounded rectangles, and more",
@@ -268,7 +665,7 @@
       "tags": [
         "ai"
       ],
-      "score": "176",
+      "score": "280",
       "item_id": "hn:50379249",
       "summary_type": "extractive",
       "title_zh": "MCP Explained",
@@ -284,11 +681,27 @@
       "tags": [
         "ai"
       ],
-      "score": "166",
+      "score": "367",
       "item_id": "hn:50378942",
       "summary_type": "extractive",
       "title_zh": "I wish tech companies knew more about me",
       "summary_zh": "I wish tech companies knew more about me"
+    },
+    {
+      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+      "summary": "Hi HN, we have been developing with Firebase for a long time, and the only way Firebase developers can build apps without directly costing them is using the official Firebase Emulator Suite.However, the issue with this suite is, it&#x27;s dependent and running on Java with a old Console UI (not updated in years), that was not built to support tons and millions of data and has pretty bad developer experience. For a long time, we were hitting Out of Memory on even high specs laptop while developin",
+      "full_text": "Hi HN, we have been developing with Firebase for a long time, and the only way Firebase developers can build apps without directly costing them is using the official Firebase Emulator Suite.However, the issue with this suite is, it&#x27;s dependent and running on Java with a old Console UI (not updated in years), that was not built to support tons and millions of data and has pretty bad developer experience. For a long time, we were hitting Out of Memory on even high specs laptop while developin",
+      "source": "hacker news",
+      "url": "https://firenook.dev/",
+      "published_at": "2026-11-05T13:07:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "84",
+      "item_id": "hn:50378643",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+      "summary_zh": "Hi HN, we have been developing with Firebase for a long time, and the only way Firebase developers can build apps without directly costing them is using the official Firebase Emulator Suite.However, the issue with this suite is, it&#x27;s dependent and running on Java with a old Console UI (not updated in years), that was not built to support tons and millions of data and has pretty bad developer experience. For a long time, we were hitting Out of Memory on even high specs laptop while developin"
     },
     {
       "title": "Discord is ditching Electron and its new app uses less RAM",
@@ -300,7 +713,7 @@
       "tags": [
         "ai"
       ],
-      "score": "278",
+      "score": "420",
       "item_id": "hn:50378625",
       "summary_type": "extractive",
       "title_zh": "Discord is ditching Electron and its new app uses less RAM",
@@ -316,7 +729,7 @@
       "tags": [
         "ai"
       ],
-      "score": "140",
+      "score": "217",
       "item_id": "hn:50378508",
       "summary_type": "extractive",
       "title_zh": "Obscure audio codec is a perfect fit for the N64",
@@ -324,51 +737,19 @@
     },
     {
       "title": "sshole",
-      "summary": "sshole",
-      "full_text": "",
+      "summary": "Related:https:&#x2F;&#x2F;hachyderm.io&#x2F;@damienmiller&#x2F;117563026759098135 &#x2F; https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50377221https:&#x2F;&#x2F;www.openssh.org&#x2F;releasenotes.html#10.6p2https:&#x2F;&#x2F;alpinelinux.org&#x2F;posts&#x2F;2026-11-05-openssh-password-au...",
+      "full_text": "Related:https:&#x2F;&#x2F;hachyderm.io&#x2F;@damienmiller&#x2F;117563026759098135 &#x2F; https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50377221https:&#x2F;&#x2F;www.openssh.org&#x2F;releasenotes.html#10.6p2https:&#x2F;&#x2F;alpinelinux.org&#x2F;posts&#x2F;2026-11-05-openssh-password-au...",
       "source": "hacker news",
       "url": "https://sshhole.com",
       "published_at": "2026-11-05T12:19:02+00:00",
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.7k",
+      "score": "🔥 2.5k",
       "item_id": "hn:50378228",
       "summary_type": "extractive",
       "title_zh": "sshole",
-      "summary_zh": "sshole"
-    },
-    {
-      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "summary": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
-      "published_at": "2026-11-05T11:40:30+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "200",
-      "item_id": "hn:50377976",
-      "summary_type": "extractive",
-      "title_zh": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "summary_zh": "OpenSSH 10.6p2 Critical workaround for alpine without PAM"
-    },
-    {
-      "title": "Awesome repositories are no longer awesome",
-      "summary": "Awesome repositories are no longer awesome",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
-      "published_at": "2026-11-05T11:16:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "247",
-      "item_id": "hn:50377821",
-      "summary_type": "extractive",
-      "title_zh": "Awesome repositories are no longer awesome",
-      "summary_zh": "Awesome repositories are no longer awesome"
+      "summary_zh": "Related:https:&#x2F;&#x2F;hachyderm.io&#x2F;@damienmiller&#x2F;117563026759098135 &#x2F; https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50377221https:&#x2F;&#x2F;www.openssh.org&#x2F;releasenotes.html#10.6p2https:&#x2F;&#x2F;alpinelinux.org&#x2F;posts&#x2F;2026-11-05-openssh-password-au..."
     },
     {
       "title": "Baidu released ERNIE 5.5 Flash Base",
@@ -380,411 +761,11 @@
       "tags": [
         "ai"
       ],
-      "score": "150",
+      "score": "172",
       "item_id": "hn:50377078",
       "summary_type": "extractive",
       "title_zh": "Baidu released ERNIE 5.5 Flash Base",
       "summary_zh": "Baidu released ERNIE 5.5 Flash Base"
-    },
-    {
-      "title": "GPT-6 Astra covertly underperforms on safety research",
-      "summary": "GPT-6 Astra covertly underperforms on safety research",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-      "published_at": "2026-11-05T07:44:30+00:00",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "214",
-      "item_id": "hn:50376313",
-      "summary_type": "extractive",
-      "title_zh": "GPT-6 Astra covertly underperforms on safety research",
-      "summary_zh": "GPT-6 Astra covertly underperforms on safety research"
-    },
-    {
-      "title": "Lemmings CSS Animation",
-      "summary": "Lemmings CSS Animation",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://markblah.github.io/lemmings/",
-      "published_at": "2026-11-05T04:54:10+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "367",
-      "item_id": "hn:50375354",
-      "summary_type": "extractive",
-      "title_zh": "Lemmings CSS Animation",
-      "summary_zh": "Lemmings CSS Animation"
-    },
-    {
-      "title": "Nyquist Limit:The frequency of changes in tech is invalidating our understanding",
-      "summary": "Nyquist Limit:The frequency of changes in tech is invalidating our understanding",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ryanprior.com/posts/nyquist-limit-frequency-of-changes-in-tech-invalidates-understanding/",
-      "published_at": "2026-11-04T20:07:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "16",
-      "item_id": "hn:50370793",
-      "summary_type": "extractive",
-      "title_zh": "Nyquist Limit:The frequency of changes in tech is invalidating our understanding",
-      "summary_zh": "Nyquist Limit:The frequency of changes in tech is invalidating our understanding"
-    },
-    {
-      "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
-      "summary": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act under physical, procedural, and safety constraints. Although Multimodal Large Language Models (MLLMs) are increasingly considered as embodied brains for such systems, existing laboratory benchmarks mainly focus on safety, anomaly detection, or general scientific understanding, leaving their execution-o",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06911v1",
-      "published_at": "2026-11-04T18:57:17Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06911v1",
-      "summary_type": "extractive",
-      "title_zh": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
-      "summary_zh": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act under physical, procedural, and safety constraints. Although Multimodal Large Language Models (MLLMs) are increasingly considered as embodied brains for such systems, existing laboratory benchmarks mainly focus on safety, anomaly detection, or general scientific understanding, leaving their execution-o"
-    },
-    {
-      "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
-      "summary": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end-to-end benchmark with 56 tasks made by 42 physicists based on their own research, covering nine domains across theoretical, computational, and experimental physics.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06910v1",
-      "published_at": "2026-11-04T18:56:22Z",
-      "tags": [
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06910v1",
-      "summary_type": "extractive",
-      "title_zh": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
-      "summary_zh": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end-to-end benchmark with 56 tasks made by 42 physicists based on their own research, covering nine domains across theoretical, computational, and experimental physics."
-    },
-    {
-      "title": "Perceptive Humanoid Motion from Simulation",
-      "summary": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-form language to low-level joint commands requires paired supervision, and no corpus of such data exists at sufficiently large scale. Some approaches rely on human teleoperation and wearable capture devices, which require at least an hour of human time to produce an hour of data.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06908v1",
-      "published_at": "2026-11-04T18:55:33Z",
-      "tags": [
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06908v1",
-      "summary_type": "extractive",
-      "title_zh": "Perceptive Humanoid Motion from Simulation",
-      "summary_zh": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-form language to low-level joint commands requires paired supervision, and no corpus of such data exists at sufficiently large scale. Some approaches rely on human teleoperation and wearable capture devices, which require at least an hour of human time to produce an hour of data."
-    },
-    {
-      "title": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
-      "summary": "Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deployment settings rarely have. We show that occlusion can be read off two distance estimates a camera-only pipeline already computes. Apparent height is largely unchanged by occlusion, because the detected box still spans the whole person; monocular metric depth is pulled toward the occluder, because the ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06899v1",
-      "published_at": "2026-11-04T18:49:13Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06899v1",
-      "summary_type": "extractive",
-      "title_zh": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
-      "summary_zh": "Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deployment settings rarely have. We show that occlusion can be read off two distance estimates a camera-only pipeline already computes. Apparent height is largely unchanged by occlusion, because the detected box still spans the whole person; monocular metric depth is pulled toward the occluder, because the "
-    },
-    {
-      "title": "Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure",
-      "summary": "Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher exposure is associated with lower condition scores under a large language model (LLM) measure and AI Occupational Exposure (AIOE), with equal occupation weights and employment weights.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06888v1",
-      "published_at": "2026-11-04T18:41:40Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06888v1",
-      "summary_type": "extractive",
-      "title_zh": "Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure",
-      "summary_zh": "Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher exposure is associated with lower condition scores under a large language model (LLM) measure and AI Occupational Exposure (AIOE), with equal occupation weights and employment weights."
-    },
-    {
-      "title": "Learning to Decode Linear Codes with Generalized Belief Propagation Network",
-      "summary": "Error correcting codes are a fundamental component of communication systems, enabling reliable data transmission over noisy channels. Recently, neural decoders have demonstrated notable performance gains over classical iterative algorithms. In this paper, we propose a Generalized Belief Propagation Network (GBPNet) that preserves message-passing symmetry while enhancing the decoder's learning capability.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06874v1",
-      "published_at": "2026-11-04T18:29:31Z",
-      "tags": [
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06874v1",
-      "summary_type": "extractive",
-      "title_zh": "Learning to Decode Linear Codes with Generalized Belief Propagation Network",
-      "summary_zh": "Error correcting codes are a fundamental component of communication systems, enabling reliable data transmission over noisy channels. Recently, neural decoders have demonstrated notable performance gains over classical iterative algorithms. In this paper, we propose a Generalized Belief Propagation Network (GBPNet) that preserves message-passing symmetry while enhancing the decoder's learning capability."
-    },
-    {
-      "title": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents",
-      "summary": "In this work, we evaluate a simple inference-time scaling approach based on \\textit{turn-level best-of-N sampling} (\\method) for large language model (LLM) agents on complex, long-horizon tasks. We instantiate this using a \\textit{generator-selector} framework with two LLMs; at each turn, a \\emph{generator} model generates $N$ candidate actions and a \\emph{selector} model selects one of them, which is then executed in the environment. This paper is closely related to the work of \\cite{zainullina",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06868v1",
-      "published_at": "2026-11-04T18:23:14Z",
-      "tags": [
-        "agent",
-        "paper",
-        "tool",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06868v1",
-      "summary_type": "extractive",
-      "title_zh": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents",
-      "summary_zh": "In this work, we evaluate a simple inference-time scaling approach based on \\textit{turn-level best-of-N sampling} (\\method) for large language model (LLM) agents on complex, long-horizon tasks. We instantiate this using a \\textit{generator-selector} framework with two LLMs; at each turn, a \\emph{generator} model generates $N$ candidate actions and a \\emph{selector} model selects one of them, which is then executed in the environment. This paper is closely related to the work of \\cite{zainullina"
-    },
-    {
-      "title": "CounterFactual Retrieval for Evidence-Aware Individual Animal Identification",
-      "summary": "Automated identification of individual animals is moving from small curated studies toward shared benchmarks and reusable foundation models. This progress is useful, but current evaluation leaves the evidence behind a match unresolved, i.e., high retrieval accuracy does not show whether a model used animal features or identity-correlated shortcuts. We address this with Counterfactual Foreground Retrieval (CFR), an evidence-aware evaluation protocol.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06864v1",
-      "published_at": "2026-11-04T18:19:26Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06864v1",
-      "summary_type": "extractive",
-      "title_zh": "CounterFactual Retrieval for Evidence-Aware Individual Animal Identification",
-      "summary_zh": "Automated identification of individual animals is moving from small curated studies toward shared benchmarks and reusable foundation models. This progress is useful, but current evaluation leaves the evidence behind a match unresolved, i.e., high retrieval accuracy does not show whether a model used animal features or identity-correlated shortcuts. We address this with Counterfactual Foreground Retrieval (CFR), an evidence-aware evaluation protocol."
-    },
-    {
-      "title": "CompressionBench: How can your coding agents compress LLMs?",
-      "summary": "Recursive self-improvement requires AI systems to improve the models and infrastructure used by subsequent systems. LLM compression offers a concrete efficiency objective: retain a pretrained model's behavior within a smaller model storage budget. We study whether coding agents can carry out this step autonomously.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06858v1",
-      "published_at": "2026-11-04T18:14:50Z",
-      "tags": [
-        "agent",
-        "paper",
-        "tool",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06858v1",
-      "summary_type": "extractive",
-      "title_zh": "CompressionBench: How can your coding agents compress LLMs?",
-      "summary_zh": "Recursive self-improvement requires AI systems to improve the models and infrastructure used by subsequent systems. LLM compression offers a concrete efficiency objective: retain a pretrained model's behavior within a smaller model storage budget. We study whether coding agents can carry out this step autonomously."
-    },
-    {
-      "title": "ServerBench: How can your coding agents design specialized LLM serving systems?",
-      "summary": "Large language model (LLM) coding agents develop software through experimentation, offering an opportunity to design the serving systems supporting their own operation. Effective serving requires coordinating implementation and operating decisions under session dependencies, latency constraints, and correctness requirements. We introduce ServerBench, a benchmark for agentic design of complete, specialized LLM serving systems.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06841v1",
-      "published_at": "2026-11-04T17:59:07Z",
-      "tags": [
-        "agent",
-        "paper",
-        "tool",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06841v1",
-      "summary_type": "extractive",
-      "title_zh": "ServerBench: How can your coding agents design specialized LLM serving systems?",
-      "summary_zh": "Large language model (LLM) coding agents develop software through experimentation, offering an opportunity to design the serving systems supporting their own operation. Effective serving requires coordinating implementation and operating decisions under session dependencies, latency constraints, and correctness requirements. We introduce ServerBench, a benchmark for agentic design of complete, specialized LLM serving systems."
-    },
-    {
-      "title": "Context--Answer Metamodels: Forecasting LLM Activations Before the First Answer Token",
-      "summary": "Under stochastic decoding, a single context can elicit many different answers from a language model. Characterizing this variation typically requires many expensive autoregressive rollouts, each revealing only one realization. We ask whether the activations produced while reading the context can directly forecast the model's rollout activations.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06837v1",
-      "published_at": "2026-11-04T17:53:52Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06837v1",
-      "summary_type": "extractive",
-      "title_zh": "Context--Answer Metamodels: Forecasting LLM Activations Before the First Answer Token",
-      "summary_zh": "Under stochastic decoding, a single context can elicit many different answers from a language model. Characterizing this variation typically requires many expensive autoregressive rollouts, each revealing only one realization. We ask whether the activations produced while reading the context can directly forecast the model's rollout activations."
-    },
-    {
-      "title": "Enabling AWS Cloud FPGA Development Using High-Level Vitis HLS",
-      "summary": "We present a toolchain for development of ML models on AWS EC2 F2 cloud FPGA infrastructure from high-level language, implementing a complete Vitis HLS to HDK bridge to AFI workflow that has been absent from the academic literature despite eight years of AWS FPGA availability. We introduce a four-level methodology (FP32 PyTorch, bit-accurate quantized Python, HLS C-simulation, physical FPGA) to aid in localizing errors, including FPGA-specific circuit errors. Together these tools allow coding ag",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06829v1",
-      "published_at": "2026-11-04T17:44:04Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06829v1",
-      "summary_type": "extractive",
-      "title_zh": "Enabling AWS Cloud FPGA Development Using High-Level Vitis HLS",
-      "summary_zh": "We present a toolchain for development of ML models on AWS EC2 F2 cloud FPGA infrastructure from high-level language, implementing a complete Vitis HLS to HDK bridge to AFI workflow that has been absent from the academic literature despite eight years of AWS FPGA availability. We introduce a four-level methodology (FP32 PyTorch, bit-accurate quantized Python, HLS C-simulation, physical FPGA) to aid in localizing errors, including FPGA-specific circuit errors. Together these tools allow coding ag"
-    },
-    {
-      "title": "Rules, Traces and Routing Statistics: Training and Calibration Data for Open Models on ARC-AGI-2",
-      "summary": "We study which training and calibration data help three open models solve ARC-AGI-2 tasks when the solver runs offline on four L4 GPUs for at most 12 hours. We compare data offline on public tasks and report 189 runs on the 120 hidden semi-private tasks. For the NVARC Qwen3-4B grid model, we built a corpus of 12,000 executable rules in a typed language and 95,993 tasks; a rule is admitted only if its behaviour on a fixed probe set differs from that of every admitted rule, and a task only if its ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06827v1",
-      "published_at": "2026-11-04T17:41:09Z",
-      "tags": [
-        "paper",
-        "ai"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06827v1",
-      "summary_type": "extractive",
-      "title_zh": "Rules, Traces and Routing Statistics: Training and Calibration Data for Open Models on ARC-AGI-2",
-      "summary_zh": "We study which training and calibration data help three open models solve ARC-AGI-2 tasks when the solver runs offline on four L4 GPUs for at most 12 hours. We compare data offline on public tasks and report 189 runs on the 120 hidden semi-private tasks. For the NVARC Qwen3-4B grid model, we built a corpus of 12,000 executable rules in a typed language and 95,993 tasks; a rule is admitted only if its behaviour on a fixed probe set differs from that of every admitted rule, and a task only if its "
-    },
-    {
-      "title": "Task-Efficient Agent Evaluation Using Cached Traces",
-      "summary": "Efficient benchmarking estimates a system's full benchmark performance from a small number of task executions. Standard approaches rely solely on the binary correctness of executions from a collection of already-evaluated reference systems. An agentic system, however, produces a rich trace for each execution that can reveal substantially more about its capabilities.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06803v1",
-      "published_at": "2026-11-04T17:20:09Z",
-      "tags": [
-        "agent",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06803v1",
-      "summary_type": "extractive",
-      "title_zh": "Task-Efficient Agent Evaluation Using Cached Traces",
-      "summary_zh": "Efficient benchmarking estimates a system's full benchmark performance from a small number of task executions. Standard approaches rely solely on the binary correctness of executions from a collection of already-evaluated reference systems. An agentic system, however, produces a rich trace for each execution that can reveal substantially more about its capabilities."
-    },
-    {
-      "title": "Message-passing graph persistence",
-      "summary": "Message-passing graph neural networks (GNNs) are limited in expressive power by the one-dimensional Weisfeiler-Leman test. Persistent homology (PH) provides topological descriptors that can complement GNN representations, but existing approaches typically compute persistence separately from the representation learning process. In this paper, we introduce Message-Passing Graph Persistence (MGP), a family of topological descriptors that incorporates message passing into graph filtrations.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06801v1",
-      "published_at": "2026-11-04T17:18:34Z",
-      "tags": [
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06801v1",
-      "summary_type": "extractive",
-      "title_zh": "Message-passing graph persistence",
-      "summary_zh": "Message-passing graph neural networks (GNNs) are limited in expressive power by the one-dimensional Weisfeiler-Leman test. Persistent homology (PH) provides topological descriptors that can complement GNN representations, but existing approaches typically compute persistence separately from the representation learning process. In this paper, we introduce Message-Passing Graph Persistence (MGP), a family of topological descriptors that incorporates message passing into graph filtrations."
-    },
-    {
-      "title": "Transforming Integer Grids to Spatial Intuition: Perception, Not Planning, Governs ARC-AGI-3",
-      "summary": "Sample-efficient fluid intelligence requires agents that rapidly form working models of unfamiliar interactive environments. ARC-AGI-3 tests this across uninstructed visual games scored by Relative Human Action Efficiency, which penalizes exploratory waste quadratically. When frontier models read raw integer grids, serialization destroys spatial topology, and they spend hundreds of actions rediscovering basic boundaries and symmetries.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06793v1",
-      "published_at": "2026-11-04T17:11:04Z",
-      "tags": [
-        "agent",
-        "paper",
-        "vision",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06793v1",
-      "summary_type": "extractive",
-      "title_zh": "Transforming Integer Grids to Spatial Intuition: Perception, Not Planning, Governs ARC-AGI-3",
-      "summary_zh": "Sample-efficient fluid intelligence requires agents that rapidly form working models of unfamiliar interactive environments. ARC-AGI-3 tests this across uninstructed visual games scored by Relative Human Action Efficiency, which penalizes exploratory waste quadratically. When frontier models read raw integer grids, serialization destroys spatial topology, and they spend hundreds of actions rediscovering basic boundaries and symmetries."
-    },
-    {
-      "title": "FedFiOT: Fisher-Weighted Optimal Transport for Model Merging in One-Shot and Few-Round Federated Learning",
-      "summary": "One-shot and few-round federated learning (FL) reduce communication burden by constructing a global model within one or a few communication rounds, but often achieve lower performance than conventional multi-round FL. Without frequent synchronization, client models may drift apart, causing neurons that learn similar features to occupy different positions across clients. At the same time, local data heterogeneity can cause corresponding parameters to differ in their importance to each client's pr",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06783v1",
-      "published_at": "2026-11-04T16:56:10Z",
-      "tags": [
-        "paper",
-        "ai"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06783v1",
-      "summary_type": "extractive",
-      "title_zh": "FedFiOT: Fisher-Weighted Optimal Transport for Model Merging in One-Shot and Few-Round Federated Learning",
-      "summary_zh": "One-shot and few-round federated learning (FL) reduce communication burden by constructing a global model within one or a few communication rounds, but often achieve lower performance than conventional multi-round FL. Without frequent synchronization, client models may drift apart, causing neurons that learn similar features to occupy different positions across clients. At the same time, local data heterogeneity can cause corresponding parameters to differ in their importance to each client's pr"
-    },
-    {
-      "title": "Route First, See Later: Enabling Vision Agents to Reason Scientifically by Separating Routing Policy from Action Spaces",
-      "summary": "Scientific image-analysis workflows require agents to select among diverse capabilities like description, detection, counting, and segmentation. Current multi-tool architectures conflate intent interpretation with visual execution, masking whether a failure arises from flawed reasoning (misrouting) or failed perception (invalid tool execution). This lack of auditability renders agents unreliable for high-stakes scientific automation.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06760v1",
-      "published_at": "2026-11-04T16:39:17Z",
-      "tags": [
-        "agent",
-        "paper",
-        "vision",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06760v1",
-      "summary_type": "extractive",
-      "title_zh": "Route First, See Later: Enabling Vision Agents to Reason Scientifically by Separating Routing Policy from Action Spaces",
-      "summary_zh": "Scientific image-analysis workflows require agents to select among diverse capabilities like description, detection, counting, and segmentation. Current multi-tool architectures conflate intent interpretation with visual execution, masking whether a failure arises from flawed reasoning (misrouting) or failed perception (invalid tool execution). This lack of auditability renders agents unreliable for high-stakes scientific automation."
-    },
-    {
-      "title": "EvoWorld: Towards Out-of-Sight World Evolution in Generative Video Models",
-      "summary": "Generative video models are increasingly used as visual world simulators, yet their primary strength lies in rendering plausible pixels rather than reasoning about how a world should evolve. Coherent world evolution requires more than visual fidelity: when an event occurs, a model must infer its consequences for the entities in the world and then render the resulting state. For example, after a wild beast appears, the model should not only depict the wild beast, but also infer whether a nearby p",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06748v1",
-      "published_at": "2026-11-04T16:26:45Z",
-      "tags": [
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06748v1",
-      "summary_type": "extractive",
-      "title_zh": "EvoWorld: Towards Out-of-Sight World Evolution in Generative Video Models",
-      "summary_zh": "Generative video models are increasingly used as visual world simulators, yet their primary strength lies in rendering plausible pixels rather than reasoning about how a world should evolve. Coherent world evolution requires more than visual fidelity: when an event occurs, a model must infer its consequences for the entities in the world and then render the resulting state. For example, after a wild beast appears, the model should not only depict the wild beast, but also infer whether a nearby p"
-    },
-    {
-      "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
-      "summary": "Strong single-turn editing performance does not guarantee reliable multi-turn interaction: as edited outputs are repeatedly reused, small unintended changes can accumulate into severe visual drift. This long-term drift is often mitigated through training on multi-turn data or cross-turn rollouts, potentially altering pretrained priors, or through specialized inference-time mechanisms that are difficult to scale to foundation models. We introduce TailSteer, a final-stage training framework that i",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.06741v1",
-      "published_at": "2026-11-04T16:23:24Z",
-      "tags": [
-        "paper",
-        "vision",
-        "tool",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.06741v1",
-      "summary_type": "extractive",
-      "title_zh": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
-      "summary_zh": "Strong single-turn editing performance does not guarantee reliable multi-turn interaction: as edited outputs are repeatedly reused, small unintended changes can accumulate into severe visual drift. This long-term drift is often mitigated through training on multi-turn data or cross-turn rollouts, potentially altering pretrained priors, or through specialized inference-time mechanisms that are difficult to scale to foundation models. We introduce TailSteer, a final-stage training framework that i"
     },
     {
       "title": "So my ISP was hijacking my DNS",
@@ -796,11 +777,27 @@
       "tags": [
         "ai"
       ],
-      "score": "168",
+      "score": "194",
       "item_id": "hn:50364860",
       "summary_type": "extractive",
       "title_zh": "So my ISP was hijacking my DNS",
       "summary_zh": "So my ISP was hijacking my DNS"
+    },
+    {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "summary": "AI is forcing us to pay off 40 years of technical debt",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "published_at": "2026-11-04T11:52:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "🔥 1.2k",
+      "item_id": "hn:50364336",
+      "summary_type": "extractive",
+      "title_zh": "AI is forcing us to pay off 40 years of technical debt",
+      "summary_zh": "AI is forcing us to pay off 40 years of technical debt"
     },
     {
       "title": "TextEdit vs. Pages",
@@ -812,7 +809,7 @@
       "tags": [
         "ai"
       ],
-      "score": "80",
+      "score": "92",
       "item_id": "hn:50352846",
       "summary_type": "extractive",
       "title_zh": "TextEdit vs. Pages",
@@ -828,7 +825,7 @@
       "tags": [
         "ai"
       ],
-      "score": "136",
+      "score": "220",
       "item_id": "hn:50349667",
       "summary_type": "extractive",
       "title_zh": "The Lisp curse, now coming to your ecosystem",

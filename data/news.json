@@ -1,75 +1,218 @@
 {
-  "updated_at": "2026-11-12T00:27:20.711292+00:00",
+  "updated_at": "2026-11-12T14:59:39.602377+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
-      "summary": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
+      "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
+      "summary": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
-      "published_at": "2026-11-11T23:22:29+00:00",
+      "url": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/",
+      "published_at": "2026-11-12T14:25:23+00:00",
       "tags": [
-        "agent",
-        "tool"
+        "ai"
       ],
-      "score": "11",
-      "item_id": "hn:50460398",
+      "score": "6",
+      "item_id": "hn:50467763",
       "summary_type": "extractive",
-      "title_zh": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
-      "summary_zh": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing"
+      "title_zh": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
+      "summary_zh": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released"
     },
     {
-      "title": "I Accidentally Became a Millionaire",
-      "summary": "I Accidentally Became a Millionaire",
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "summary": "Abandoned Quake 4 expansion finished by modders and now playable",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://lyra.horse/blog/2026/11/disinformation-machine/",
-      "published_at": "2026-11-11T23:08:18+00:00",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "published_at": "2026-11-12T14:18:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "17",
+      "item_id": "hn:50467618",
+      "summary_type": "extractive",
+      "title_zh": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "summary_zh": "Abandoned Quake 4 expansion finished by modders and now playable"
+    },
+    {
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "summary": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "published_at": "2026-11-12T14:12:37+00:00",
       "tags": [
         "ai"
       ],
       "score": "19",
-      "item_id": "hn:50460254",
+      "item_id": "hn:50467460",
       "summary_type": "extractive",
-      "title_zh": "I Accidentally Became a Millionaire",
-      "summary_zh": "I Accidentally Became a Millionaire"
+      "title_zh": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "summary_zh": "Talking Zen 6 with Mike Clark at AMD In-Depth"
     },
     {
-      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "summary": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "title": "Libreagi – Save OSS Models",
+      "summary": "Libreagi – Save OSS Models",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/tylertms/Stela",
-      "published_at": "2026-11-11T23:02:38+00:00",
+      "url": "https://libreagi.com/",
+      "published_at": "2026-11-12T14:11:58+00:00",
       "tags": [
         "ai"
       ],
-      "score": "25",
-      "item_id": "hn:50460154",
+      "score": "13",
+      "item_id": "hn:50467439",
       "summary_type": "extractive",
-      "title_zh": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "summary_zh": "A general purpose Apple Silicon layer for x86-64 PCs"
+      "title_zh": "Libreagi – Save OSS Models",
+      "summary_zh": "Libreagi – Save OSS Models"
     },
     {
-      "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
-      "summary": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+      "title": "Electric Ship Batteries Promise Compact, Cooler Power",
+      "summary": "Electric Ship Batteries Promise Compact, Cooler Power",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://twitter.com/watcherguru/status/2120645607866188008",
-      "published_at": "2026-11-11T22:36:35+00:00",
+      "url": "https://spectrum.ieee.org/electric-ship-batteries",
+      "published_at": "2026-11-12T14:06:03+00:00",
       "tags": [
         "ai"
       ],
-      "score": "178",
-      "item_id": "hn:50459776",
+      "score": "6",
+      "item_id": "hn:50467305",
       "summary_type": "extractive",
-      "title_zh": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
-      "summary_zh": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports"
+      "title_zh": "Electric Ship Batteries Promise Compact, Cooler Power",
+      "summary_zh": "Electric Ship Batteries Promise Compact, Cooler Power"
     },
     {
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "summary": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "title": "Jane Street – Our software engineering interviews are changing (a little)",
+      "summary": "Jane Street – Our software engineering interviews are changing (a little)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "published_at": "2026-11-12T14:05:28+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "18",
+      "item_id": "hn:50467297",
+      "summary_type": "extractive",
+      "title_zh": "Jane Street – Our software engineering interviews are changing (a little)",
+      "summary_zh": "Jane Street – Our software engineering interviews are changing (a little)"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns after reports of extramarital relationships",
+      "summary": "Nvidia CEO Jensen Huang resigns after reports of extramarital relationships",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
+      "published_at": "2026-11-12T14:00:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "35",
+      "item_id": "hn:50467191",
+      "summary_type": "extractive",
+      "title_zh": "Nvidia CEO Jensen Huang resigns after reports of extramarital relationships",
+      "summary_zh": "Nvidia CEO Jensen Huang resigns after reports of extramarital relationships"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+      "summary": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
+      "published_at": "2026-11-12T13:56:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "100",
+      "item_id": "hn:50467139",
+      "summary_type": "extractive",
+      "title_zh": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+      "summary_zh": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal"
+    },
+    {
+      "title": "Jensen Huang resigns as Nvidia CEO immediately",
+      "summary": "Jensen Huang resigns as Nvidia CEO immediately",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+      "published_at": "2026-11-12T13:56:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "207",
+      "item_id": "hn:50467132",
+      "summary_type": "extractive",
+      "title_zh": "Jensen Huang resigns as Nvidia CEO immediately",
+      "summary_zh": "Jensen Huang resigns as Nvidia CEO immediately"
+    },
+    {
+      "title": "NVIDIA Announces CEO Transition",
+      "summary": "NVIDIA Announces CEO Transition",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "published_at": "2026-11-12T13:52:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "736",
+      "item_id": "hn:50467087",
+      "summary_type": "extractive",
+      "title_zh": "NVIDIA Announces CEO Transition",
+      "summary_zh": "NVIDIA Announces CEO Transition"
+    },
+    {
+      "title": "Why Writing Correct Software Is Hard",
+      "summary": "Why Writing Correct Software Is Hard",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "published_at": "2026-11-12T10:28:26+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "195",
+      "item_id": "hn:50465352",
+      "summary_type": "extractive",
+      "title_zh": "Why Writing Correct Software Is Hard",
+      "summary_zh": "Why Writing Correct Software Is Hard"
+    },
+    {
+      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "summary": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.getlazarus.org/forums/topic/17/",
+      "published_at": "2026-11-12T05:49:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "88",
+      "item_id": "hn:50463540",
+      "summary_type": "extractive",
+      "title_zh": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "summary_zh": "I'm Working on a FOSS Linux Pinbal Simulation Engine"
+    },
+    {
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "summary": "Critical RCE Vulnerability in Apache HTTP Server",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "published_at": "2026-11-12T02:11:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "300",
+      "item_id": "hn:50462177",
+      "summary_type": "extractive",
+      "title_zh": "Critical RCE Vulnerability in Apache HTTP Server",
+      "summary_zh": "Critical RCE Vulnerability in Apache HTTP Server"
+    },
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "summary": "93% of paint splatters are valid Perl programs (2019)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.mcmillen.dev/sigbovik/",
@@ -77,11 +220,11 @@
       "tags": [
         "ai"
       ],
-      "score": "74",
+      "score": "512",
       "item_id": "hn:50459745",
       "summary_type": "extractive",
-      "title_zh": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "summary_zh": "93% of Paint Splatters Are Valid Perl Programs (2019)"
+      "title_zh": "93% of paint splatters are valid Perl programs (2019)",
+      "summary_zh": "93% of paint splatters are valid Perl programs (2019)"
     },
     {
       "title": "Nvidia is preparing to oust Jensen Huang",
@@ -93,7 +236,7 @@
       "tags": [
         "ai"
       ],
-      "score": "347",
+      "score": "🔥 1.1k",
       "item_id": "hn:50459703",
       "summary_type": "extractive",
       "title_zh": "Nvidia is preparing to oust Jensen Huang",
@@ -109,44 +252,11 @@
       "tags": [
         "ai"
       ],
-      "score": "88",
+      "score": "306",
       "item_id": "hn:50459485",
       "summary_type": "extractive",
       "title_zh": "Lock Your GitHub Actions",
       "summary_zh": "Lock Your GitHub Actions"
-    },
-    {
-      "title": "Jensen Huang said to have had relationship with executive who reports to him",
-      "summary": "Jensen Huang said to have had relationship with executive who reports to him",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "published_at": "2026-11-11T22:03:58+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "141",
-      "item_id": "hn:50459321",
-      "summary_type": "extractive",
-      "title_zh": "Jensen Huang said to have had relationship with executive who reports to him",
-      "summary_zh": "Jensen Huang said to have had relationship with executive who reports to him"
-    },
-    {
-      "title": "Tools for exploring the souls of large language models",
-      "summary": "Tools for exploring the souls of large language models",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
-      "published_at": "2026-11-11T20:45:50+00:00",
-      "tags": [
-        "tool",
-        "llm"
-      ],
-      "score": "30",
-      "item_id": "hn:50458434",
-      "summary_type": "extractive",
-      "title_zh": "Tools for exploring the souls of large language models",
-      "summary_zh": "Tools for exploring the souls of large language models"
     },
     {
       "title": "Emacs in the Age of Magic",
@@ -158,43 +268,27 @@
       "tags": [
         "ai"
       ],
-      "score": "131",
+      "score": "280",
       "item_id": "hn:50458208",
       "summary_type": "extractive",
       "title_zh": "Emacs in the Age of Magic",
       "summary_zh": "Emacs in the Age of Magic"
     },
     {
-      "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-      "summary": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
-      "published_at": "2026-11-11T19:47:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "46",
-      "item_id": "hn:50457669",
-      "summary_type": "extractive",
-      "title_zh": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-      "summary_zh": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality"
-    },
-    {
       "title": "The Utah Teapot",
-      "summary": "The Utah Teapot",
-      "full_text": "",
+      "summary": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=k-23LgrFcvs",
+      "full_text": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=k-23LgrFcvs",
       "source": "hacker news",
       "url": "https://graphics.cs.utah.edu/teapot/",
       "published_at": "2026-11-11T19:45:10+00:00",
       "tags": [
         "ai"
       ],
-      "score": "59",
+      "score": "175",
       "item_id": "hn:50457618",
       "summary_type": "extractive",
       "title_zh": "The Utah Teapot",
-      "summary_zh": "The Utah Teapot"
+      "summary_zh": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=k-23LgrFcvs"
     },
     {
       "title": "Gemini Decisions API",
@@ -204,10 +298,10 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "published_at": "2026-11-11T18:32:42+00:00",
       "tags": [
-        "tool",
-        "llm"
+        "llm",
+        "tool"
       ],
-      "score": "239",
+      "score": "503",
       "item_id": "hn:50456791",
       "summary_type": "extractive",
       "title_zh": "Gemini Decisions API",
@@ -223,7 +317,7 @@
       "tags": [
         "ai"
       ],
-      "score": "621",
+      "score": "911",
       "item_id": "hn:50456631",
       "summary_type": "extractive",
       "title_zh": "AWS emulator",
@@ -239,63 +333,15 @@
       "tags": [
         "ai"
       ],
-      "score": "392",
+      "score": "534",
       "item_id": "hn:50455394",
       "summary_type": "extractive",
       "title_zh": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
       "summary_zh": "A false smoke alarm almost drowned Jane Street's only NYC datacenter"
     },
     {
-      "title": "The hardest notes to find on the guitar",
-      "summary": "The hardest notes to find on the guitar",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
-      "published_at": "2026-11-11T16:05:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "48",
-      "item_id": "hn:50454995",
-      "summary_type": "extractive",
-      "title_zh": "The hardest notes to find on the guitar",
-      "summary_zh": "The hardest notes to find on the guitar"
-    },
-    {
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "summary": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings.Here&#x27;s a quick demo video: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=BFfbXAwRq98Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private.",
-      "full_text": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings.Here&#x27;s a quick demo video: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=BFfbXAwRq98Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private. Your meeting transcripts, call recordings",
-      "source": "hacker news",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "published_at": "2026-11-11T15:33:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "157",
-      "item_id": "hn:50454625",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "summary_zh": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings.Here&#x27;s a quick demo video: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=BFfbXAwRq98Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private."
-    },
-    {
-      "title": "Pharo in the Browser with WebAssembly",
-      "summary": "Pharo in the Browser with WebAssembly",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
-      "published_at": "2026-11-11T14:21:27+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "117",
-      "item_id": "hn:50453763",
-      "summary_type": "extractive",
-      "title_zh": "Pharo in the Browser with WebAssembly",
-      "summary_zh": "Pharo in the Browser with WebAssembly"
-    },
-    {
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "summary": "Hyper-Realistic Sand with WebGL2",
+      "title": "Hyper-realistic sand with WebGL2",
+      "summary": "Hyper-realistic sand with WebGL2",
       "full_text": "",
       "source": "hacker news",
       "url": "https://av.github.io/safe-sand/",
@@ -303,75 +349,11 @@
       "tags": [
         "ai"
       ],
-      "score": "293",
+      "score": "423",
       "item_id": "hn:50453288",
       "summary_type": "extractive",
-      "title_zh": "Hyper-Realistic Sand with WebGL2",
-      "summary_zh": "Hyper-Realistic Sand with WebGL2"
-    },
-    {
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "summary": "Can a Linear Program Do Weight-Space Programming?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nathan.rs/posts/weight-space-lp/",
-      "published_at": "2026-11-11T12:30:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "236",
-      "item_id": "hn:50452655",
-      "summary_type": "extractive",
-      "title_zh": "Can a Linear Program Do Weight-Space Programming?",
-      "summary_zh": "Can a Linear Program Do Weight-Space Programming?"
-    },
-    {
-      "title": "We need more goat sacrifices",
-      "summary": "We need more goat sacrifices",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
-      "published_at": "2026-11-11T12:29:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "183",
-      "item_id": "hn:50452652",
-      "summary_type": "extractive",
-      "title_zh": "We need more goat sacrifices",
-      "summary_zh": "We need more goat sacrifices"
-    },
-    {
-      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
-      "summary": "About TinfoilTinfoil: https:&#x2F;&#x2F;tinfoil.sh&#x2F; is a security research lab building an AI cloud for private, verifiable computation. Our customers include DuckDuckGo, Mozilla, financial institutions, AI labs and startups. Frontier labs, Google Deepmind, Trail of Bits, Redhat and Canonical, have also used us for research.As attacks on infrastructure grow more powerful, our goal is to bring state-of-the-art defenses to individuals and organizations as quickly as possible, without making t",
-      "full_text": "About TinfoilTinfoil: https:&#x2F;&#x2F;tinfoil.sh&#x2F; is a security research lab building an AI cloud for private, verifiable computation. Our customers include DuckDuckGo, Mozilla, financial institutions, AI labs and startups. Frontier labs, Google Deepmind, Trail of Bits, Redhat and Canonical, have also used us for research.As attacks on infrastructure grow more powerful, our goal is to bring state-of-the-art defenses to individuals and organizations as quickly as possible, without making t",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=50452404",
-      "published_at": "2026-11-11T12:00:35+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "1",
-      "item_id": "hn:50452404",
-      "summary_type": "extractive",
-      "title_zh": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
-      "summary_zh": "About TinfoilTinfoil: https:&#x2F;&#x2F;tinfoil.sh&#x2F; is a security research lab building an AI cloud for private, verifiable computation. Our customers include DuckDuckGo, Mozilla, financial institutions, AI labs and startups. Frontier labs, Google Deepmind, Trail of Bits, Redhat and Canonical, have also used us for research.As attacks on infrastructure grow more powerful, our goal is to bring state-of-the-art defenses to individuals and organizations as quickly as possible, without making t"
-    },
-    {
-      "title": "Using voltage glitching to unleash the A100 in my mining card",
-      "summary": "Using voltage glitching to unleash the A100 in my mining card",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-      "published_at": "2026-11-11T10:48:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "256",
-      "item_id": "hn:50451903",
-      "summary_type": "extractive",
-      "title_zh": "Using voltage glitching to unleash the A100 in my mining card",
-      "summary_zh": "Using voltage glitching to unleash the A100 in my mining card"
+      "title_zh": "Hyper-realistic sand with WebGL2",
+      "summary_zh": "Hyper-realistic sand with WebGL2"
     },
     {
       "title": "Tim Peters has died",
@@ -383,27 +365,11 @@
       "tags": [
         "ai"
       ],
-      "score": "811",
+      "score": "🔥 1.3k",
       "item_id": "hn:50450488",
       "summary_type": "extractive",
       "title_zh": "Tim Peters has died",
       "summary_zh": "https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Python&#x2F;s&#x2F;2Cm5dBcvQw"
-    },
-    {
-      "title": "The Apple Support Community will permanently close on November 20, 2026",
-      "summary": "The Apple Support Community will permanently close on November 20, 2026",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://discussions.apple.com/welcome",
-      "published_at": "2026-11-11T03:26:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "107",
-      "item_id": "hn:50449440",
-      "summary_type": "extractive",
-      "title_zh": "The Apple Support Community will permanently close on November 20, 2026",
-      "summary_zh": "The Apple Support Community will permanently close on November 20, 2026"
     },
     {
       "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
@@ -448,9 +414,9 @@
       "url": "http://arxiv.org/abs/2611.14514v1",
       "published_at": "2026-11-10T18:58:43Z",
       "tags": [
-        "agent",
         "llm",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.14514v1",
@@ -466,9 +432,9 @@
       "url": "http://arxiv.org/abs/2611.14493v1",
       "published_at": "2026-11-10T18:50:06Z",
       "tags": [
-        "agent",
         "llm",
         "paper",
+        "agent",
         "tool"
       ],
       "score": "📄",
@@ -485,9 +451,9 @@
       "url": "http://arxiv.org/abs/2611.14492v1",
       "published_at": "2026-11-10T18:49:47Z",
       "tags": [
-        "agent",
         "llm",
         "paper",
+        "agent",
         "tool"
       ],
       "score": "📄",
@@ -521,8 +487,8 @@
       "url": "http://arxiv.org/abs/2611.14432v1",
       "published_at": "2026-11-10T18:06:16Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.14432v1",
@@ -571,9 +537,9 @@
       "url": "http://arxiv.org/abs/2611.14419v1",
       "published_at": "2026-11-10T17:58:12Z",
       "tags": [
-        "agent",
         "llm",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.14419v1",
@@ -605,9 +571,9 @@
       "url": "http://arxiv.org/abs/2611.14413v1",
       "published_at": "2026-11-10T17:53:44Z",
       "tags": [
-        "tool",
         "llm",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.14413v1",
@@ -623,8 +589,8 @@
       "url": "http://arxiv.org/abs/2611.14407v1",
       "published_at": "2026-11-10T17:50:15Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.14407v1",
@@ -658,8 +624,8 @@
       "url": "http://arxiv.org/abs/2611.14383v1",
       "published_at": "2026-11-10T17:37:22Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.14383v1",
@@ -675,9 +641,9 @@
       "url": "http://arxiv.org/abs/2611.14382v1",
       "published_at": "2026-11-10T17:37:13Z",
       "tags": [
-        "tool",
         "llm",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.14382v1",
@@ -693,9 +659,9 @@
       "url": "http://arxiv.org/abs/2611.14356v1",
       "published_at": "2026-11-10T17:16:47Z",
       "tags": [
-        "agent",
         "llm",
         "paper",
+        "agent",
         "tool"
       ],
       "score": "📄",
@@ -729,9 +695,9 @@
       "url": "http://arxiv.org/abs/2611.14333v1",
       "published_at": "2026-11-10T16:56:16Z",
       "tags": [
-        "tool",
         "llm",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.14333v1",
@@ -747,8 +713,8 @@
       "url": "http://arxiv.org/abs/2611.14328v1",
       "published_at": "2026-11-10T16:53:27Z",
       "tags": [
-        "paper",
-        "vision"
+        "vision",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.14328v1",
@@ -757,84 +723,116 @@
       "summary_zh": "Stochastic diffusion samplers often require substantially more neural function evaluations (NFEs) than deterministic samplers to achieve comparable sample quality. Although higher-order discretization accelerates deterministic sampling, its benefits for stochastic sampling remains unclear. We establish matching upper and worst-case lower bounds showing that stochastic samplers with higher-order approximations remain first-order convergent, even with exact score functions."
     },
     {
-      "title": "The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico",
-      "summary": "The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico",
-      "full_text": "",
+      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+      "summary": "Aircad is a professional CAD system running in the browser with deep AI integration. It includes professional grade drafting and documentation tools, NURBS-based solid modeling, and a lot more. You can make professional quality design documents with it.",
+      "full_text": "Aircad is a professional CAD system running in the browser with deep AI integration. It includes professional grade drafting and documentation tools, NURBS-based solid modeling, and a lot more. You can make professional quality design documents with it. It is all integrated behind a scripting API that can do anything you can do in the interface and also perform complex modeling operations efficiently. It reads and writes file formats like DXF, DWG, STEP, and 3DM.I built Aircad because I was frus",
       "source": "hacker news",
-      "url": "https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation",
-      "published_at": "2026-11-10T10:41:26+00:00",
+      "url": "https://aircad.com",
+      "published_at": "2026-11-10T15:01:19+00:00",
       "tags": [
         "ai"
       ],
-      "score": "34",
-      "item_id": "hn:50438435",
+      "score": "67",
+      "item_id": "hn:50441350",
       "summary_type": "extractive",
-      "title_zh": "The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico",
-      "summary_zh": "The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico"
+      "title_zh": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+      "summary_zh": "Aircad is a professional CAD system running in the browser with deep AI integration. It includes professional grade drafting and documentation tools, NURBS-based solid modeling, and a lot more. You can make professional quality design documents with it."
     },
     {
-      "title": "A Brief History of Sierra Online (2017)",
-      "summary": "A Brief History of Sierra Online (2017)",
+      "title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+      "summary": "Legocam: My Lego webcam from 2000, working on a modern Mac",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
-      "published_at": "2026-11-10T02:12:48+00:00",
+      "url": "https://blog.benjamin.ie/legocam",
+      "published_at": "2026-11-10T11:46:09+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "42",
+      "item_id": "hn:50438958",
+      "summary_type": "extractive",
+      "title_zh": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+      "summary_zh": "Legocam: My Lego webcam from 2000, working on a modern Mac"
+    },
+    {
+      "title": "Jane Street: Socratic Tutor",
+      "summary": "Jane Street: Socratic Tutor",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "published_at": "2026-11-10T10:18:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "472",
+      "item_id": "hn:50438261",
+      "summary_type": "extractive",
+      "title_zh": "Jane Street: Socratic Tutor",
+      "summary_zh": "Jane Street: Socratic Tutor"
+    },
+    {
+      "title": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
+      "summary": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "http://blog.nozomi.space/posts/sw2_dock/",
+      "published_at": "2026-11-09T20:54:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "82",
+      "item_id": "hn:50431971",
+      "summary_type": "extractive",
+      "title_zh": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
+      "summary_zh": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock"
+    },
+    {
+      "title": "A live tree of systemd jobs on the boot console",
+      "summary": "A live tree of systemd jobs on the boot console",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://codeberg.org/wvhulle/bootvine",
+      "published_at": "2026-11-09T13:02:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "222",
+      "item_id": "hn:50425017",
+      "summary_type": "extractive",
+      "title_zh": "A live tree of systemd jobs on the boot console",
+      "summary_zh": "A live tree of systemd jobs on the boot console"
+    },
+    {
+      "title": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
+      "summary": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s",
+      "published_at": "2026-11-08T20:04:36+00:00",
       "tags": [
         "ai"
       ],
       "score": "17",
-      "item_id": "hn:50435240",
+      "item_id": "hn:50416606",
       "summary_type": "extractive",
-      "title_zh": "A Brief History of Sierra Online (2017)",
-      "summary_zh": "A Brief History of Sierra Online (2017)"
+      "title_zh": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
+      "summary_zh": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)"
     },
     {
-      "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-      "summary": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-      "full_text": "",
+      "title": "Show HN: Build a PC in 3D in the Browser",
+      "summary": "I&#x27;ve been building this over the past few years. I left my job working on Google Earth to make a 3D PC builder. We have quite a few users so it&#x27;s able to fund our team but I realized I never shared on HN!",
+      "full_text": "I&#x27;ve been building this over the past few years. I left my job working on Google Earth to make a 3D PC builder. We have quite a few users so it&#x27;s able to fund our team but I realized I never shared on HN!",
       "source": "hacker news",
-      "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
-      "published_at": "2026-11-09T22:15:13+00:00",
+      "url": "https://www.buildcores.com",
+      "published_at": "2026-11-08T17:45:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "36",
-      "item_id": "hn:50433042",
+      "score": "17",
+      "item_id": "hn:50415379",
       "summary_type": "extractive",
-      "title_zh": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-      "summary_zh": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding"
-    },
-    {
-      "title": "Making the Iron Giant Live",
-      "summary": "Making the Iron Giant Live",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://animationobsessive.substack.com/p/making-the-iron-giant-live",
-      "published_at": "2026-11-09T07:26:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "5",
-      "item_id": "hn:50422216",
-      "summary_type": "extractive",
-      "title_zh": "Making the Iron Giant Live",
-      "summary_zh": "Making the Iron Giant Live"
-    },
-    {
-      "title": "Optimizing Reference Deletions in Git",
-      "summary": "Optimizing Reference Deletions in Git",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://nayak.im/posts/optimizing-reference-deletion/",
-      "published_at": "2026-11-08T19:37:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "18",
-      "item_id": "hn:50416365",
-      "summary_type": "extractive",
-      "title_zh": "Optimizing Reference Deletions in Git",
-      "summary_zh": "Optimizing Reference Deletions in Git"
+      "title_zh": "Show HN: Build a PC in 3D in the Browser",
+      "summary_zh": "I&#x27;ve been building this over the past few years. I left my job working on Google Earth to make a 3D PC builder. We have quite a few users so it&#x27;s able to fund our team but I realized I never shared on HN!"
     }
   ]
 }

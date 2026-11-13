@@ -1,7 +1,120 @@
 {
-  "updated_at": "2026-11-12T23:27:41.388222+00:00",
+  "updated_at": "2026-11-13T06:19:32.448666+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "Scientists claim the universe is twice as old as believed",
+      "summary": "Scientists claim the universe is twice as old as believed",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+      "published_at": "2026-11-13T05:13:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "5",
+      "item_id": "hn:50478635",
+      "summary_type": "extractive",
+      "title_zh": "Scientists claim the universe is twice as old as believed",
+      "summary_zh": "Scientists claim the universe is twice as old as believed"
+    },
+    {
+      "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+      "summary": "I&#x27;m a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms.",
+      "full_text": "I&#x27;m a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms. \nThe idea is to automatise orders of selling and buying between pharmacies and their suppliers. \nSince 12 November, PharmA2A is live on GH. \nIs anyone of you is using A2A in real life ?",
+      "source": "hacker news",
+      "url": "https://github.com/pharma2a/pharma2a",
+      "published_at": "2026-11-13T04:58:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "4",
+      "item_id": "hn:50478543",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+      "summary_zh": "I&#x27;m a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms."
+    },
+    {
+      "title": "IceWM",
+      "summary": "IceWM",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ice-wm.org/",
+      "published_at": "2026-11-13T04:54:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "44",
+      "item_id": "hn:50478515",
+      "summary_type": "extractive",
+      "title_zh": "IceWM",
+      "summary_zh": "IceWM"
+    },
+    {
+      "title": "Switcher (2004)",
+      "summary": "Switcher (2004)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://folklore.org/Switcher.html",
+      "published_at": "2026-11-13T03:14:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "71",
+      "item_id": "hn:50477714",
+      "summary_type": "extractive",
+      "title_zh": "Switcher (2004)",
+      "summary_zh": "Switcher (2004)"
+    },
+    {
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "summary": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "published_at": "2026-11-13T03:08:08+00:00",
+      "tags": [
+        "agent",
+        "tool"
+      ],
+      "score": "36",
+      "item_id": "hn:50477649",
+      "summary_type": "extractive",
+      "title_zh": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "summary_zh": "Brave Search API now accepts agentic payments via the x402 protocol"
+    },
+    {
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "summary": "Nvidia employees petition to bring back Jensen Huang",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "published_at": "2026-11-13T02:16:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "355",
+      "item_id": "hn:50477231",
+      "summary_type": "extractive",
+      "title_zh": "Nvidia employees petition to bring back Jensen Huang",
+      "summary_zh": "Nvidia employees petition to bring back Jensen Huang"
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "summary": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "published_at": "2026-11-12T23:06:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "180",
+      "item_id": "hn:50475713",
+      "summary_type": "extractive",
+      "title_zh": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "summary_zh": "Edge0-145B: Frontier AI Capabilities on Your Own Computer"
+    },
     {
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "summary": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
@@ -12,11 +125,27 @@
       "tags": [
         "ai"
       ],
-      "score": "75",
+      "score": "246",
       "item_id": "hn:50474883",
       "summary_type": "extractive",
       "title_zh": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "summary_zh": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs"
+    },
+    {
+      "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+      "summary": "Hey guys. I recently watched the latency reports for my local voice assistant, which show a waveform plus silero probability for voice activity. I noticed silero lags visibly on the speech off signal.There had to be a method to get this signal closer to what I felt is optimal.",
+      "full_text": "Hey guys. I recently watched the latency reports for my local voice assistant, which show a waveform plus silero probability for voice activity. I noticed silero lags visibly on the speech off signal.There had to be a method to get this signal closer to what I felt is optimal. My idea was to use a 10 ms energy detector with a threshold that adapts to environment or room noise. Which worked amazingly well. It created more false positives but in my speculative generation pipeline that would not ma",
+      "source": "hacker news",
+      "url": "https://github.com/KoljaB/RealtimeVAD",
+      "published_at": "2026-11-12T21:30:57+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "13",
+      "item_id": "hn:50474586",
+      "summary_type": "extractive",
+      "title_zh": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+      "summary_zh": "Hey guys. I recently watched the latency reports for my local voice assistant, which show a waveform plus silero probability for voice activity. I noticed silero lags visibly on the speech off signal.There had to be a method to get this signal closer to what I felt is optimal."
     },
     {
       "title": "Foundation Models framework",
@@ -29,7 +158,7 @@
         "llm",
         "tool"
       ],
-      "score": "80",
+      "score": "181",
       "item_id": "hn:50474361",
       "summary_type": "extractive",
       "title_zh": "Foundation Models framework",
@@ -45,59 +174,43 @@
       "tags": [
         "ai"
       ],
-      "score": "45",
+      "score": "147",
       "item_id": "hn:50474311",
       "summary_type": "extractive",
       "title_zh": "AI is turning Apple's app review process into a nightmare for synth developers",
       "summary_zh": "AI is turning Apple's app review process into a nightmare for synth developers"
     },
     {
-      "title": "Jensen Huang Third Affair Allegations Revealed",
-      "summary": "Jensen Huang Third Affair Allegations Revealed",
+      "title": "Announcement: Conductor Is Back",
+      "summary": "Announcement: Conductor Is Back",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-huang-had-a-third-affair-with-another-nvidia-employee-report-says/",
-      "published_at": "2026-11-12T20:36:59+00:00",
+      "url": "https://twitter.com/charlieholtz/status/2120973052024598620",
+      "published_at": "2026-11-12T20:37:55+00:00",
       "tags": [
         "ai"
       ],
-      "score": "41",
-      "item_id": "hn:50473868",
+      "score": "26",
+      "item_id": "hn:50473888",
       "summary_type": "extractive",
-      "title_zh": "Jensen Huang Third Affair Allegations Revealed",
-      "summary_zh": "Jensen Huang Third Affair Allegations Revealed"
+      "title_zh": "Announcement: Conductor Is Back",
+      "summary_zh": "Announcement: Conductor Is Back"
     },
     {
-      "title": "Data centers need power – lower income, rural residents pay the price",
-      "summary": "Data centers need power – lower income, rural residents pay the price",
-      "full_text": "",
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "summary": "https:&#x2F;&#x2F;www.forbes.com&#x2F;sites&#x2F;alisondurkee&#x2F;2026&#x2F;11&#x2F;12&#x2F;jensen-...",
+      "full_text": "https:&#x2F;&#x2F;www.forbes.com&#x2F;sites&#x2F;alisondurkee&#x2F;2026&#x2F;11&#x2F;12&#x2F;jensen-...",
       "source": "hacker news",
-      "url": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
-      "published_at": "2026-11-12T19:53:54+00:00",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "published_at": "2026-11-12T19:51:33+00:00",
       "tags": [
         "ai"
       ],
-      "score": "155",
-      "item_id": "hn:50473231",
+      "score": "200",
+      "item_id": "hn:50473190",
       "summary_type": "extractive",
-      "title_zh": "Data centers need power – lower income, rural residents pay the price",
-      "summary_zh": "Data centers need power – lower income, rural residents pay the price"
-    },
-    {
-      "title": "Distributed Ray Tracer",
-      "summary": "Hey HN, I&#x27;m Julius, I&#x27;m a backend engineer at Hatchet and created this demo to show off some of Hatchet&#x27;s new features, primarily durable streams and serverless endpoints. Those, however, are just background details that made this significantly easier to scale. By distributing the rendering across many different nodes, orchestrated using Hatchet, it makes it possible to render quite high fidelity scenes fairly quickly.",
-      "full_text": "Hey HN, I&#x27;m Julius, I&#x27;m a backend engineer at Hatchet and created this demo to show off some of Hatchet&#x27;s new features, primarily durable streams and serverless endpoints. Those, however, are just background details that made this significantly easier to scale. By distributing the rendering across many different nodes, orchestrated using Hatchet, it makes it possible to render quite high fidelity scenes fairly quickly. All of this would be possible on a single machine, but would b",
-      "source": "hacker news",
-      "url": "https://ray.hatchet.run",
-      "published_at": "2026-11-12T19:06:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "30",
-      "item_id": "hn:50472505",
-      "summary_type": "extractive",
-      "title_zh": "Distributed Ray Tracer",
-      "summary_zh": "Hey HN, I&#x27;m Julius, I&#x27;m a backend engineer at Hatchet and created this demo to show off some of Hatchet&#x27;s new features, primarily durable streams and serverless endpoints. Those, however, are just background details that made this significantly easier to scale. By distributing the rendering across many different nodes, orchestrated using Hatchet, it makes it possible to render quite high fidelity scenes fairly quickly."
+      "title_zh": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "summary_zh": "https:&#x2F;&#x2F;www.forbes.com&#x2F;sites&#x2F;alisondurkee&#x2F;2026&#x2F;11&#x2F;12&#x2F;jensen-..."
     },
     {
       "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
@@ -109,7 +222,7 @@
       "tags": [
         "ai"
       ],
-      "score": "165",
+      "score": "256",
       "item_id": "hn:50472490",
       "summary_type": "extractive",
       "title_zh": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
@@ -125,15 +238,15 @@
       "tags": [
         "ai"
       ],
-      "score": "292",
+      "score": "571",
       "item_id": "hn:50472038",
       "summary_type": "extractive",
       "title_zh": "Rust 1.100",
       "summary_zh": "Rust 1.100"
     },
     {
-      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
-      "summary": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "summary": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
       "full_text": "",
       "source": "hacker news",
       "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
@@ -141,11 +254,11 @@
       "tags": [
         "ai"
       ],
-      "score": "121",
+      "score": "165",
       "item_id": "hn:50471761",
       "summary_type": "extractive",
-      "title_zh": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
-      "summary_zh": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution"
+      "title_zh": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "summary_zh": "Turning a 22-year-old Postgres type-confusion primitive into RCE"
     },
     {
       "title": "Service degradation on Microsoft 365",
@@ -157,27 +270,11 @@
       "tags": [
         "ai"
       ],
-      "score": "392",
+      "score": "698",
       "item_id": "hn:50471731",
       "summary_type": "extractive",
       "title_zh": "Service degradation on Microsoft 365",
       "summary_zh": "https:&#x2F;&#x2F;www.abc.net.au&#x2F;news&#x2F;2026-11-13&#x2F;microsoft-outage-affe...https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;sysadmin&#x2F;comments&#x2F;1xuje83&#x2F;microsoft...https:&#x2F;&#x2F;downdetector.com&#x2F;status&#x2F;microsoft-365&#x2F;"
-    },
-    {
-      "title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
-      "summary": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-      "published_at": "2026-11-12T18:14:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "141",
-      "item_id": "hn:50471621",
-      "summary_type": "extractive",
-      "title_zh": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
-      "summary_zh": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company"
     },
     {
       "title": "Show HN: Kapso – Iterative learning from enterprise data",
@@ -189,7 +286,7 @@
       "tags": [
         "ai"
       ],
-      "score": "32",
+      "score": "43",
       "item_id": "hn:50471281",
       "summary_type": "extractive",
       "title_zh": "Show HN: Kapso – Iterative learning from enterprise data",
@@ -197,51 +294,19 @@
     },
     {
       "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "summary": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "full_text": "",
+      "summary": "https:&#x2F;&#x2F;x.com&#x2F;simpsoka&#x2F;status&#x2F;2115254318161182876",
+      "full_text": "https:&#x2F;&#x2F;x.com&#x2F;simpsoka&#x2F;status&#x2F;2115254318161182876",
       "source": "hacker news",
       "url": "https://github.com/simpsoka/zigzag",
       "published_at": "2026-11-12T17:02:42+00:00",
       "tags": [
         "ai"
       ],
-      "score": "261",
+      "score": "443",
       "item_id": "hn:50470488",
       "summary_type": "extractive",
       "title_zh": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "summary_zh": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app"
-    },
-    {
-      "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-      "summary": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
-      "published_at": "2026-11-12T16:59:26+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "64",
-      "item_id": "hn:50470445",
-      "summary_type": "extractive",
-      "title_zh": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-      "summary_zh": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request"
-    },
-    {
-      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-      "summary": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-      "published_at": "2026-11-12T16:29:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "260",
-      "item_id": "hn:50469994",
-      "summary_type": "extractive",
-      "title_zh": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-      "summary_zh": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep"
+      "summary_zh": "https:&#x2F;&#x2F;x.com&#x2F;simpsoka&#x2F;status&#x2F;2115254318161182876"
     },
     {
       "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
@@ -253,27 +318,11 @@
       "tags": [
         "ai"
       ],
-      "score": "100",
+      "score": "117",
       "item_id": "hn:50468944",
       "summary_type": "extractive",
       "title_zh": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
       "summary_zh": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS"
-    },
-    {
-      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-      "summary": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
-      "published_at": "2026-11-12T15:14:52+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "76",
-      "item_id": "hn:50468720",
-      "summary_type": "extractive",
-      "title_zh": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-      "summary_zh": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux"
     },
     {
       "title": "Abandoned Quake 4 expansion finished by modders and now playable",
@@ -285,7 +334,7 @@
       "tags": [
         "ai"
       ],
-      "score": "230",
+      "score": "256",
       "item_id": "hn:50467618",
       "summary_type": "extractive",
       "title_zh": "Abandoned Quake 4 expansion finished by modders and now playable",
@@ -301,7 +350,7 @@
       "tags": [
         "ai"
       ],
-      "score": "176",
+      "score": "207",
       "item_id": "hn:50467460",
       "summary_type": "extractive",
       "title_zh": "Talking Zen 6 with Mike Clark at AMD In-Depth",
@@ -317,27 +366,11 @@
       "tags": [
         "ai"
       ],
-      "score": "119",
+      "score": "138",
       "item_id": "hn:50467439",
       "summary_type": "extractive",
       "title_zh": "Libreagi – Save OSS Models",
       "summary_zh": "Libreagi – Save OSS Models"
-    },
-    {
-      "title": "Electric ship batteries promise compact, cooler power",
-      "summary": "Electric ship batteries promise compact, cooler power",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://spectrum.ieee.org/electric-ship-batteries",
-      "published_at": "2026-11-12T14:06:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "58",
-      "item_id": "hn:50467305",
-      "summary_type": "extractive",
-      "title_zh": "Electric ship batteries promise compact, cooler power",
-      "summary_zh": "Electric ship batteries promise compact, cooler power"
     },
     {
       "title": "Our software engineering interviews are changing a little",
@@ -349,7 +382,7 @@
       "tags": [
         "ai"
       ],
-      "score": "152",
+      "score": "206",
       "item_id": "hn:50467297",
       "summary_type": "extractive",
       "title_zh": "Our software engineering interviews are changing a little",
@@ -365,7 +398,7 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 2.7k",
+      "score": "🔥 3.2k",
       "item_id": "hn:50467087",
       "summary_type": "extractive",
       "title_zh": "Jensen Huang resigns",
@@ -381,43 +414,202 @@
       "tags": [
         "ai"
       ],
-      "score": "34",
+      "score": "64",
       "item_id": "hn:50466410",
       "summary_type": "extractive",
       "title_zh": "Adapting CPython for Yk",
       "summary_zh": "Adapting CPython for Yk"
     },
     {
-      "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
-      "summary": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
+      "title": "SwarmSafe-Delta: Isolating Message Effects on LLM Agent Safety",
+      "summary": "When a tool-using LLM agent team violates policy, aggregate outcomes do not reveal whether an upstream message changed the executor's action. We introduce SwarmSafe-Delta, a paired executable protocol that freezes upstream computation, varies real, hidden, and format-matched placebo delivery, and scores a single committed action against deterministic benign and risky policy states under preassigned budgets.\n  Across four models and constructed optional tasks, real delivery at $N=4$ produces 21.4",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://pron.github.io/posts/correctness-and-complexity",
-      "published_at": "2026-11-12T10:28:26+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.16123v1",
+      "published_at": "2026-11-12T00:17:32Z",
       "tags": [
-        "ai"
+        "paper",
+        "agent",
+        "llm",
+        "tool"
       ],
-      "score": "347",
-      "item_id": "hn:50465352",
+      "score": "📄",
+      "item_id": "arxiv:2611.16123v1",
       "summary_type": "extractive",
-      "title_zh": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
-      "summary_zh": "Why writing correct software is hard and why math (alone) won’t help us (2016)"
+      "title_zh": "SwarmSafe-Delta: Isolating Message Effects on LLM Agent Safety",
+      "summary_zh": "When a tool-using LLM agent team violates policy, aggregate outcomes do not reveal whether an upstream message changed the executor's action. We introduce SwarmSafe-Delta, a paired executable protocol that freezes upstream computation, varies real, hidden, and format-matched placebo delivery, and scores a single committed action against deterministic benign and risky policy states under preassigned budgets.\n  Across four models and constructed optional tasks, real delivery at $N=4$ produces 21.4"
     },
     {
-      "title": "Words of warning about radiocarbon dating medieval human bones",
-      "summary": "Words of warning about radiocarbon dating medieval human bones",
+      "title": "ADAPT: Agentic Diff-Aware Patch Testing for Pull Requests",
+      "summary": "Modern software development relies on pull requests (PRs) that introduce small, targeted code changes. Once merged, these changes should be protected by focused tests that exercise the behavior the PR introduces, yet developers often submit PRs without such tests, leaving the new behavior unguarded against future regressions. Most test generation techniques target entire software units and optimize objectives such as code coverage rather than the behavior a change introduces, and prior diff-awar",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.16114v1",
+      "published_at": "2026-11-11T23:48:27Z",
+      "tags": [
+        "paper",
+        "agent",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.16114v1",
+      "summary_type": "extractive",
+      "title_zh": "ADAPT: Agentic Diff-Aware Patch Testing for Pull Requests",
+      "summary_zh": "Modern software development relies on pull requests (PRs) that introduce small, targeted code changes. Once merged, these changes should be protected by focused tests that exercise the behavior the PR introduces, yet developers often submit PRs without such tests, leaving the new behavior unguarded against future regressions. Most test generation techniques target entire software units and optimize objectives such as code coverage rather than the behavior a change introduces, and prior diff-awar"
+    },
+    {
+      "title": "Trained on What Screen Readers Cannot Read: Accessibility Debt in the GUI Corpora Behind Computer-Use Agents",
+      "summary": "Computer-use agents learn to operate mobile interfaces from corpora of captured screens and accessibility trees. The same trees are what a screen reader consumes, so an agent trained on them inherits whatever labelling gaps the underlying applications carry. This paper measures one of those gaps, content-description coverage, in two Android corpora: Rico, collected in 2017, and AndroidControl, collected in 2024.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.16107v1",
+      "published_at": "2026-11-11T23:28:30Z",
+      "tags": [
+        "paper",
+        "agent",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.16107v1",
+      "summary_type": "extractive",
+      "title_zh": "Trained on What Screen Readers Cannot Read: Accessibility Debt in the GUI Corpora Behind Computer-Use Agents",
+      "summary_zh": "Computer-use agents learn to operate mobile interfaces from corpora of captured screens and accessibility trees. The same trees are what a screen reader consumes, so an agent trained on them inherits whatever labelling gaps the underlying applications carry. This paper measures one of those gaps, content-description coverage, in two Android corpora: Rico, collected in 2017, and AndroidControl, collected in 2024."
+    },
+    {
+      "title": "Show Your Work in Swahili: Reinforcement Learning for Native-Language Mathematical Reasoning",
+      "summary": "We present Fikiria, a two-stage SFT+GRPO recipe for Swahili mathematical reasoning. Its reward multiplies a format gate by a weighted sum of answer accuracy and the ChrF\\texttt{++} similarity of the Swahili reasoning to an in-language reference chain of thought, so that training targets the surface fidelity of the reasoning trace and not only the final answer. We train on a 2.3k-problem Swahili dataset created by translating GSM8K with GPT-4.1 and filtering with SSA-COMET.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.16104v1",
+      "published_at": "2026-11-11T23:25:01Z",
+      "tags": [
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.16104v1",
+      "summary_type": "extractive",
+      "title_zh": "Show Your Work in Swahili: Reinforcement Learning for Native-Language Mathematical Reasoning",
+      "summary_zh": "We present Fikiria, a two-stage SFT+GRPO recipe for Swahili mathematical reasoning. Its reward multiplies a format gate by a weighted sum of answer accuracy and the ChrF\\texttt{++} similarity of the Swahili reasoning to an in-language reference chain of thought, so that training targets the surface fidelity of the reasoning trace and not only the final answer. We train on a 2.3k-problem Swahili dataset created by translating GSM8K with GPT-4.1 and filtering with SSA-COMET."
+    },
+    {
+      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "summary": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.nature.com/articles/s40494-026-02958-x",
-      "published_at": "2026-11-11T22:18:37+00:00",
+      "url": "https://github.com/jjba23/sift",
+      "published_at": "2026-11-11T23:09:27+00:00",
       "tags": [
         "ai"
       ],
-      "score": "48",
-      "item_id": "hn:50459508",
+      "score": "38",
+      "item_id": "hn:50460263",
       "summary_type": "extractive",
-      "title_zh": "Words of warning about radiocarbon dating medieval human bones",
-      "summary_zh": "Words of warning about radiocarbon dating medieval human bones"
+      "title_zh": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "summary_zh": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp"
+    },
+    {
+      "title": "Subsurface schematisation from sparse CPT data using the tabular foundation model TabPFN",
+      "summary": "Subsurface schematisation supports geotechnical decisions but remains challenging because sparse site-investigation data leave substantial gaps in information about ground conditions. This study explores TabPFN, a foundation model pretrained on general synthetic tabular data, for this task. Using only grid coordinates and soil behaviour type index observations from sparse cone penetration tests (CPTs), we first reconstruct two-dimensional sections without geotechnical fine-tuning or predefined l",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.16088v1",
+      "published_at": "2026-11-11T22:57:25Z",
+      "tags": [
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.16088v1",
+      "summary_type": "extractive",
+      "title_zh": "Subsurface schematisation from sparse CPT data using the tabular foundation model TabPFN",
+      "summary_zh": "Subsurface schematisation supports geotechnical decisions but remains challenging because sparse site-investigation data leave substantial gaps in information about ground conditions. This study explores TabPFN, a foundation model pretrained on general synthetic tabular data, for this task. Using only grid coordinates and soil behaviour type index observations from sparse cone penetration tests (CPTs), we first reconstruct two-dimensional sections without geotechnical fine-tuning or predefined l"
+    },
+    {
+      "title": "Agentic Computational Algebra",
+      "summary": "We explore the use of AI agents for solving computational problems in algebra. For the problems we consider, the main challenge is not correctness but \\emph{time}: general-purpose algorithms are guaranteed to provide correct solutions but can be prohibitively slow, while reformulations that exploit special structure often allow solving a problem much faster. We propose to use this setting to evaluate how effectively agents discover and exploit structure within and across tasks to reduce computat",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.16073v1",
+      "published_at": "2026-11-11T22:32:22Z",
+      "tags": [
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.16073v1",
+      "summary_type": "extractive",
+      "title_zh": "Agentic Computational Algebra",
+      "summary_zh": "We explore the use of AI agents for solving computational problems in algebra. For the problems we consider, the main challenge is not correctness but \\emph{time}: general-purpose algorithms are guaranteed to provide correct solutions but can be prohibitively slow, while reformulations that exploit special structure often allow solving a problem much faster. We propose to use this setting to evaluate how effectively agents discover and exploit structure within and across tasks to reduce computat"
+    },
+    {
+      "title": "Tokenized Reward Systems for Federated Learning: The Privacy vs. Fairness Tradeoff",
+      "summary": "Federated learning (FL) systems increasingly rely on blockchain based reward mechanisms to incentivize participation while preserving data privacy. We design and empirically evaluate two complementary Solidity smart contracts for FL reward distribution: the first one that allocates rewards proportionally to a publicly disclosed quality score, and a privacy preserving variant that hides individual quality scores behind a zero-knowledge (ZK) proof of a threshold condition. Both contracts mint a no",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.16065v1",
+      "published_at": "2026-11-11T22:21:23Z",
+      "tags": [
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.16065v1",
+      "summary_type": "extractive",
+      "title_zh": "Tokenized Reward Systems for Federated Learning: The Privacy vs. Fairness Tradeoff",
+      "summary_zh": "Federated learning (FL) systems increasingly rely on blockchain based reward mechanisms to incentivize participation while preserving data privacy. We design and empirically evaluate two complementary Solidity smart contracts for FL reward distribution: the first one that allocates rewards proportionally to a publicly disclosed quality score, and a privacy preserving variant that hides individual quality scores behind a zero-knowledge (ZK) proof of a threshold condition. Both contracts mint a no"
+    },
+    {
+      "title": "Human Capital in Context: What Employment Survival Reveals About Worker-Firm Match",
+      "summary": "There is no best worker in general, only a best worker for a particular firm. We develop a measure of worker-firm match quality that treats fit as a property of the pair, learned from the survival of employment relationships. A two-tower neural network embeds workers, from their career histories and current positions, and firms, from their characteristics and business descriptions, into a common space, and match quality is the cosine similarity of the two vectors.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.16058v1",
+      "published_at": "2026-11-11T22:13:36Z",
+      "tags": [
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.16058v1",
+      "summary_type": "extractive",
+      "title_zh": "Human Capital in Context: What Employment Survival Reveals About Worker-Firm Match",
+      "summary_zh": "There is no best worker in general, only a best worker for a particular firm. We develop a measure of worker-firm match quality that treats fit as a property of the pair, learned from the survival of employment relationships. A two-tower neural network embeds workers, from their career histories and current positions, and firms, from their characteristics and business descriptions, into a common space, and match quality is the cosine similarity of the two vectors."
+    },
+    {
+      "title": "Pyramidal Columns Acting as Attention Heads",
+      "summary": "Can the functional architecture of a Transformer attention head be given a biological construction? More specifically, could a suitable group of pyramidal columns in posterior temporal language regions (PTLRs) constitute the biological construction of a neuromorphic mechanical realization of an attention head, under a mathematical instantiation that need not coincide with its standard Transformer instantiation? This paper investigates this hypothesis by examining possible correspondences between",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.16057v1",
+      "published_at": "2026-11-11T22:13:12Z",
+      "tags": [
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.16057v1",
+      "summary_type": "extractive",
+      "title_zh": "Pyramidal Columns Acting as Attention Heads",
+      "summary_zh": "Can the functional architecture of a Transformer attention head be given a biological construction? More specifically, could a suitable group of pyramidal columns in posterior temporal language regions (PTLRs) constitute the biological construction of a neuromorphic mechanical realization of an attention head, under a mathematical instantiation that need not coincide with its standard Transformer instantiation? This paper investigates this hypothesis by examining possible correspondences between"
+    },
+    {
+      "title": "Scaling public input on AI policy with pluralistic agents",
+      "summary": "AI is being deployed across a vast range of application domains, cultural environments, and human stakeholders. Safe and responsible AI development requires continuously accounting for diverse perspectives. We develop and test pluralistic agents, AI agent representatives that deliberate on behalf of individuals to align AI systems with diverse human perspectives.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.16028v1",
+      "published_at": "2026-11-11T21:35:06Z",
+      "tags": [
+        "paper",
+        "agent",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.16028v1",
+      "summary_type": "extractive",
+      "title_zh": "Scaling public input on AI policy with pluralistic agents",
+      "summary_zh": "AI is being deployed across a vast range of application domains, cultural environments, and human stakeholders. Safe and responsible AI development requires continuously accounting for diverse perspectives. We develop and test pluralistic agents, AI agent representatives that deliberate on behalf of individuals to align AI systems with diverse human perspectives."
     },
     {
       "title": "Relax: JIT compiler for Rust to reduce build times",
@@ -429,362 +621,203 @@
       "tags": [
         "ai"
       ],
-      "score": "92",
+      "score": "142",
       "item_id": "hn:50458849",
       "summary_type": "extractive",
       "title_zh": "Relax: JIT compiler for Rust to reduce build times",
       "summary_zh": "Relax: JIT compiler for Rust to reduce build times"
     },
     {
-      "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
-      "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what deter",
+      "title": "Runtime Analysis of Cartesian Genetic Programming on Max: A Proven Exponential Speedup",
+      "summary": "Genetic Programming (GP) is a search paradigm inspired from natural evolution for the automated discovery of expressions, functions, and computer programs. Cartesian GP (CGP) is a flavor of GP that uses a graph-based model to encode candidate programs, as contrasted to the conventional Tree-based GP (TGP). Since its inception two decades ago, CGP has predominantly been analyzed empirically, thus little is known regarding its theoretical performance guarantees.",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14519v1",
-      "published_at": "2026-11-10T18:59:54Z",
+      "url": "http://arxiv.org/abs/2611.16013v1",
+      "published_at": "2026-11-11T21:13:49Z",
       "tags": [
-        "llm",
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.14519v1",
-      "summary_type": "extractive",
-      "title_zh": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
-      "summary_zh": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what deter"
-    },
-    {
-      "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
-      "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardized annotations and the heterogeneity of existing datasets limit the development of robust foundation models. In this work, we introduce a novel approach to building a multi-domain foundation model for le sion detection by",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14518v1",
-      "published_at": "2026-11-10T18:59:17Z",
-      "tags": [
-        "llm",
         "paper"
       ],
       "score": "📄",
-      "item_id": "arxiv:2611.14518v1",
+      "item_id": "arxiv:2611.16013v1",
       "summary_type": "extractive",
-      "title_zh": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
-      "summary_zh": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardized annotations and the heterogeneity of existing datasets limit the development of robust foundation models. In this work, we introduce a novel approach to building a multi-domain foundation model for le sion detection by"
+      "title_zh": "Runtime Analysis of Cartesian Genetic Programming on Max: A Proven Exponential Speedup",
+      "summary_zh": "Genetic Programming (GP) is a search paradigm inspired from natural evolution for the automated discovery of expressions, functions, and computer programs. Cartesian GP (CGP) is a flavor of GP that uses a graph-based model to encode candidate programs, as contrasted to the conventional Tree-based GP (TGP). Since its inception two decades ago, CGP has predominantly been analyzed empirically, thus little is known regarding its theoretical performance guarantees."
     },
     {
-      "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
-      "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternative the evidence supports. To recover that alternative, we introduce Contrastive Discovery, which replaces the single hypothesis with a contrast set, a scientific question paired with mutually exclusiv",
+      "title": "Iris-Z: Scaling One Generative Model Past Specialist Geometry Models",
+      "summary": "Language moved from many task-specific models to one unified model: a single generative model with a single generative training task that handles all of them within the same backbone, and keeps improving with data, parameters and compute. We believe the bitter lesson applies just as much to computer vision, 3D and spatial understanding, in the end to visual intelligence: the effort should go into general architectures that solve all these tasks in a unified way, and into scaling them, rather tha",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14514v1",
-      "published_at": "2026-11-10T18:58:43Z",
-      "tags": [
-        "llm",
-        "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.14514v1",
-      "summary_type": "extractive",
-      "title_zh": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
-      "summary_zh": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternative the evidence supports. To recover that alternative, we introduce Contrastive Discovery, which replaces the single hypothesis with a contrast set, a scientific question paired with mutually exclusiv"
-    },
-    {
-      "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
-      "summary": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based LLM judging, text-only LLM judging with red-teaming, and deterministic heuristics), applied to two analytics agents in a controlled research setting using frozen execution traces. Phase 1 quantifies e",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14493v1",
-      "published_at": "2026-11-10T18:50:06Z",
-      "tags": [
-        "llm",
-        "paper",
-        "agent",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.14493v1",
-      "summary_type": "extractive",
-      "title_zh": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
-      "summary_zh": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based LLM judging, text-only LLM judging with red-teaming, and deterministic heuristics), applied to two analytics agents in a controlled research setting using frozen execution traces. Phase 1 quantifies e"
-    },
-    {
-      "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
-      "summary": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrace, which turns an SOP and a few logged agent runs into a reusable workflow in which code, not an LLM, selects the next step.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14492v1",
-      "published_at": "2026-11-10T18:49:47Z",
-      "tags": [
-        "paper",
-        "llm",
-        "agent",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.14492v1",
-      "summary_type": "extractive",
-      "title_zh": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
-      "summary_zh": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrace, which turns an SOP and a few logged agent runs into a reusable workflow in which code, not an LLM, selects the next step."
-    },
-    {
-      "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
-      "summary": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore the space of research ideas and what limits their progress. We introduce Re-Search, which adapts the format of Twenty Questions to research ideation: given only the research problem of a published paper, a model must rediscover the paper's core idea by asking yes-or-no questions.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14487v1",
-      "published_at": "2026-11-10T18:47:22Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.14487v1",
-      "summary_type": "extractive",
-      "title_zh": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
-      "summary_zh": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore the space of research ideas and what limits their progress. We introduce Re-Search, which adapts the format of Twenty Questions to research ideation: given only the research problem of a published paper, a model must rediscover the paper's core idea by asking yes-or-no questions."
-    },
-    {
-      "title": "One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge",
-      "summary": "We describe our solution for the 2026 BEHAVIOR Challenge: 100 long-horizon household tasks in the OmniGibson simulator. We placed 9th on the final leaderboard, the only independent team in the top 10. The core of the solution is a single vision-language-action (VLA) model, one checkpoint for all 100 tasks, built on our 1st-place 2025 solution, which is based on $π_{0.5}$.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14432v1",
-      "published_at": "2026-11-10T18:06:16Z",
+      "url": "http://arxiv.org/abs/2611.16010v1",
+      "published_at": "2026-11-11T21:08:37Z",
       "tags": [
         "paper",
         "vision"
       ],
       "score": "📄",
-      "item_id": "arxiv:2611.14432v1",
+      "item_id": "arxiv:2611.16010v1",
       "summary_type": "extractive",
-      "title_zh": "One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge",
-      "summary_zh": "We describe our solution for the 2026 BEHAVIOR Challenge: 100 long-horizon household tasks in the OmniGibson simulator. We placed 9th on the final leaderboard, the only independent team in the top 10. The core of the solution is a single vision-language-action (VLA) model, one checkpoint for all 100 tasks, built on our 1st-place 2025 solution, which is based on $π_{0.5}$."
+      "title_zh": "Iris-Z: Scaling One Generative Model Past Specialist Geometry Models",
+      "summary_zh": "Language moved from many task-specific models to one unified model: a single generative model with a single generative training task that handles all of them within the same backbone, and keeps improving with data, parameters and compute. We believe the bitter lesson applies just as much to computer vision, 3D and spatial understanding, in the end to visual intelligence: the effort should go into general architectures that solve all these tasks in a unified way, and into scaling them, rather tha"
     },
     {
-      "title": "Two Communities, One Problem: Branch-and-Bound vs. A* for Resource-Constrained Project Scheduling",
-      "summary": "Branch-and-Bound (B&amp;B) and $A^*$ are popular exact search methods originating from Operations Research and Artificial Intelligence, respectively. Although the two methods share fundamental search principles, their different ways of exploring the search space can lead to substantially different computational performance. We investigate these differences using the Resource-Constrained Project Scheduling Problem (RCPSP) as an exemplary problem setting.",
+      "title": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents",
+      "summary": "GPT-6 Astra can drive a robot arm directly through a fixed harness, and scores of such robot-use agents on RoboDojo have risen quickly since. Reported systems differ in harness and test subset and often change several designs at once, so it is hard to tell which choices produce the gains. We take these designs apart and test them in one framework, along the harness around the model, the action interface, the reuse of experience and the scene geometry given to the model.",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14426v1",
-      "published_at": "2026-11-10T18:03:17Z",
+      "url": "http://arxiv.org/abs/2611.16009v1",
+      "published_at": "2026-11-11T21:08:31Z",
       "tags": [
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.14426v1",
-      "summary_type": "extractive",
-      "title_zh": "Two Communities, One Problem: Branch-and-Bound vs. A* for Resource-Constrained Project Scheduling",
-      "summary_zh": "Branch-and-Bound (B&amp;B) and $A^*$ are popular exact search methods originating from Operations Research and Artificial Intelligence, respectively. Although the two methods share fundamental search principles, their different ways of exploring the search space can lead to substantially different computational performance. We investigate these differences using the Resource-Constrained Project Scheduling Problem (RCPSP) as an exemplary problem setting."
-    },
-    {
-      "title": "Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications",
-      "summary": "Time-Series Foundation Models (TSFMs) are increasingly used in sensor applications, where sampling frequency (SF) varies across sensors, devices, and operating modes (e.g., power saving). Ideally, TSFMs must remain effective during such SF changes, provided the SF retains task-critical bandwidth. In this paper, we stress-test 4 prominent TSFMs: MOMENT, Chronos-2, Moirai-MoE, and TimesFM, to quantify their SF-invariance and investigate whether their behavior tracks the resulting loss of informati",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14425v1",
-      "published_at": "2026-11-10T18:01:23Z",
-      "tags": [
-        "llm",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.14425v1",
-      "summary_type": "extractive",
-      "title_zh": "Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications",
-      "summary_zh": "Time-Series Foundation Models (TSFMs) are increasingly used in sensor applications, where sampling frequency (SF) varies across sensors, devices, and operating modes (e.g., power saving). Ideally, TSFMs must remain effective during such SF changes, provided the SF retains task-critical bandwidth. In this paper, we stress-test 4 prominent TSFMs: MOMENT, Chronos-2, Moirai-MoE, and TimesFM, to quantify their SF-invariance and investigate whether their behavior tracks the resulting loss of informati"
-    },
-    {
-      "title": "Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning",
-      "summary": "Formal world models can support planning, verification, and safety reasoning, but constructing them from open-ended natural-language situations is difficult, particularly in multi-agent settings where several formalizations may be plausible. We study whether five LLMs can generate such world models as partially observable stochastic games and whether mechanical validity is sufficient to establish that the resulting model faithfully represents the intended decision problem. We introduce a benchma",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14419v1",
-      "published_at": "2026-11-10T17:58:12Z",
-      "tags": [
-        "llm",
+        "paper",
         "agent",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.14419v1",
-      "summary_type": "extractive",
-      "title_zh": "Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning",
-      "summary_zh": "Formal world models can support planning, verification, and safety reasoning, but constructing them from open-ended natural-language situations is difficult, particularly in multi-agent settings where several formalizations may be plausible. We study whether five LLMs can generate such world models as partially observable stochastic games and whether mechanical validity is sufficient to establish that the resulting model faithfully represents the intended decision problem. We introduce a benchma"
-    },
-    {
-      "title": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model",
-      "summary": "Local decoding usually fixes one weight precision for the whole generation. We study a different allocation: store 8-bit weights, decode with their top 4 bits, and redo a step at 8 bits only when the low-precision output distribution looks uncertain (entropy above a threshold or a small top-two margin). Quantization is simulated, the model is Qwen3-0.6B, and the benchmark is GSM8K.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14418v1",
-      "published_at": "2026-11-10T17:57:51Z",
-      "tags": [
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.14418v1",
-      "summary_type": "extractive",
-      "title_zh": "Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model",
-      "summary_zh": "Local decoding usually fixes one weight precision for the whole generation. We study a different allocation: store 8-bit weights, decode with their top 4 bits, and redo a step at 8 bits only when the low-precision output distribution looks uncertain (entropy above a threshold or a small top-two margin). Quantization is simulated, the model is Qwen3-0.6B, and the benchmark is GSM8K."
-    },
-    {
-      "title": "Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models",
-      "summary": "Local language models can save memory by storing weights in fewer bits, and they can reduce sensitivity to the order of answer options by averaging a few reorderings. We ask whether the first makes the second worse, and which is the cheaper way to spend a fixed budget. On Qwen3-0.6B and Qwen3-1.7B with simulated round-to-nearest weight quantization (8, 6, 4 and 3 bits, fp16 reference), read from the logits of the letters A to D on ARC-Easy, ARC-Challenge, MMLU and HellaSwag (300 items each), 6 b",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14413v1",
-      "published_at": "2026-11-10T17:53:44Z",
-      "tags": [
         "llm",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.16009v1",
+      "summary_type": "extractive",
+      "title_zh": "JustRUA: A Controlled Study of GPT-6 Robot-Use Agents",
+      "summary_zh": "GPT-6 Astra can drive a robot arm directly through a fixed harness, and scores of such robot-use agents on RoboDojo have risen quickly since. Reported systems differ in harness and test subset and often change several designs at once, so it is hard to tell which choices produce the gains. We take these designs apart and test them in one framework, along the harness around the model, the action interface, the reuse of experience and the scene geometry given to the model."
+    },
+    {
+      "title": "Fit-LRP: Fitting Linear Relaxations to Polytopes for Neural Network Verification over Non-Convex Regions",
+      "summary": "State-of-the-art neural network verifiers evaluate linear relaxations over axis-aligned bounding boxes. However, verification domains in cyber-physical systems are rarely boxes. Reachability specifications, obstacle-avoidance constraints, and neural Lyapunov certificates typically yield oblique or non-convex polyhedral regions, over which box-based bounds become extremely loose.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.16003v1",
+      "published_at": "2026-11-11T21:05:13Z",
+      "tags": [
         "paper",
         "tool"
       ],
       "score": "📄",
-      "item_id": "arxiv:2611.14413v1",
+      "item_id": "arxiv:2611.16003v1",
       "summary_type": "extractive",
-      "title_zh": "Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models",
-      "summary_zh": "Local language models can save memory by storing weights in fewer bits, and they can reduce sensitivity to the order of answer options by averaging a few reorderings. We ask whether the first makes the second worse, and which is the cheaper way to spend a fixed budget. On Qwen3-0.6B and Qwen3-1.7B with simulated round-to-nearest weight quantization (8, 6, 4 and 3 bits, fp16 reference), read from the logits of the letters A to D on ARC-Easy, ARC-Challenge, MMLU and HellaSwag (300 items each), 6 b"
+      "title_zh": "Fit-LRP: Fitting Linear Relaxations to Polytopes for Neural Network Verification over Non-Convex Regions",
+      "summary_zh": "State-of-the-art neural network verifiers evaluate linear relaxations over axis-aligned bounding boxes. However, verification domains in cyber-physical systems are rarely boxes. Reachability specifications, obstacle-avoidance constraints, and neural Lyapunov certificates typically yield oblique or non-convex polyhedral regions, over which box-based bounds become extremely loose."
     },
     {
-      "title": "Causal Concept Explanations for Deep Neural Models",
-      "summary": "Concept-based explanations in neural models are important for the development, certification, and adoption of autonomous systems. Yet, interpretability remains correlational. Without methods to guide and quantify causal relationships between explanations, a concept explanation can be provided without being necessary or sufficient for the observed output thereby appearing correct while misleading.",
+      "title": "What Roles Do System Prompts Really Assign? Validating and Steering Occupational Role Vectors in LLMs",
+      "summary": "Applications built on large language models assign the model a role through its system prompt, intending to shape how it responds for their use case. We introduce a validation framework for extracting and injecting occupational role vectors, activation-level directions that capture how someone in a given occupational role would distinctively respond to a task or question. We validate these vectors through two complementary lenses, on Qwen2.5-7B-Instruct and Llama-3.1-8B-Instruct.",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14407v1",
-      "published_at": "2026-11-10T17:50:15Z",
+      "url": "http://arxiv.org/abs/2611.15989v1",
+      "published_at": "2026-11-11T20:43:45Z",
       "tags": [
+        "paper",
+        "llm",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.15989v1",
+      "summary_type": "extractive",
+      "title_zh": "What Roles Do System Prompts Really Assign? Validating and Steering Occupational Role Vectors in LLMs",
+      "summary_zh": "Applications built on large language models assign the model a role through its system prompt, intending to shape how it responds for their use case. We introduce a validation framework for extracting and injecting occupational role vectors, activation-level directions that capture how someone in a given occupational role would distinctively respond to a task or question. We validate these vectors through two complementary lenses, on Qwen2.5-7B-Instruct and Llama-3.1-8B-Instruct."
+    },
+    {
+      "title": "DuoJEPA: Cross-Modal Translation Between Unaligned Self-Supervised Embedding Spaces",
+      "summary": "Learning from paired modalities is commonly equated with aligning them: two encoders are trained until the embeddings of a pair coincide in a shared space. We study whether cross-modal retrieval and classification can instead be obtained while the two encoders' own embedding spaces remain directly unaligned. DuoJEPA trains one encoder per modality with the self-supervised LeJEPA objective and appends to each encoder a single transformer layer that translates its embedding into the other encoder'",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.15968v1",
+      "published_at": "2026-11-11T20:10:52Z",
+      "tags": [
+        "paper",
+        "llm",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.15968v1",
+      "summary_type": "extractive",
+      "title_zh": "DuoJEPA: Cross-Modal Translation Between Unaligned Self-Supervised Embedding Spaces",
+      "summary_zh": "Learning from paired modalities is commonly equated with aligning them: two encoders are trained until the embeddings of a pair coincide in a shared space. We study whether cross-modal retrieval and classification can instead be obtained while the two encoders' own embedding spaces remain directly unaligned. DuoJEPA trains one encoder per modality with the self-supervised LeJEPA objective and appends to each encoder a single transformer layer that translates its embedding into the other encoder'"
+    },
+    {
+      "title": "Spec-Driven PBT: Deriving Semantic Invariants from Code Specifications for Agentic Property-based Testing",
+      "summary": "Software is increasingly written by AI agents that produce an implementation from a natural language specification, a practice known as agentic coding. Code is now produced faster than it can be reviewed, and has been shown to exhibit its own characteristic failure patterns. Property-based testing (PBT), a long-standing technique in which invariant properties of a program are checked against many generated inputs, has recently been revisited with LLM agents authoring the properties, thereby remo",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.15920v1",
+      "published_at": "2026-11-11T19:16:05Z",
+      "tags": [
+        "paper",
         "agent",
-        "paper"
+        "llm"
       ],
       "score": "📄",
-      "item_id": "arxiv:2611.14407v1",
+      "item_id": "arxiv:2611.15920v1",
       "summary_type": "extractive",
-      "title_zh": "Causal Concept Explanations for Deep Neural Models",
-      "summary_zh": "Concept-based explanations in neural models are important for the development, certification, and adoption of autonomous systems. Yet, interpretability remains correlational. Without methods to guide and quantify causal relationships between explanations, a concept explanation can be provided without being necessary or sufficient for the observed output thereby appearing correct while misleading."
+      "title_zh": "Spec-Driven PBT: Deriving Semantic Invariants from Code Specifications for Agentic Property-based Testing",
+      "summary_zh": "Software is increasingly written by AI agents that produce an implementation from a natural language specification, a practice known as agentic coding. Code is now produced faster than it can be reviewed, and has been shown to exhibit its own characteristic failure patterns. Property-based testing (PBT), a long-standing technique in which invariant properties of a program are checked against many generated inputs, has recently been revisited with LLM agents authoring the properties, thereby remo"
     },
     {
-      "title": "Blurring the Block Boundaries: Overlapping Block Denoising for Efficient Diffusion Language Models",
-      "summary": "Diffusion Language Models (DLMs) have emerged as effective alternatives to autoregressive models for latency-critical tasks, enabling faster token generation. Recent advances employ block diffusion with self-editing capabilities, where each block refines tokens iteratively before advancing to the next one. Yet each block is only as fast as its slowest token, and the next block cannot start before it.",
+      "title": "HeriKGQA: Grounded Knowledge-Graph Question Answering over Cultural Heritage Sensor Data",
+      "summary": "Cultural heritage sites are increasingly monitored by sensor networks, but querying their data requires database expertise. Large Language Models (LLMs) offer a natural-language interface, yet over raw sensor records they lose track of which sensor, site, and time each value belongs to, and silently miscompute. We present HeriKGQA, a knowledge-graph question-answering method that confines the LLM to interpreting questions and phrasing answers, leaving computation to SPARQL and deterministic code",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14387v1",
-      "published_at": "2026-11-10T17:40:24Z",
+      "url": "http://arxiv.org/abs/2611.15904v1",
+      "published_at": "2026-11-11T19:09:13Z",
       "tags": [
-        "llm",
         "paper",
-        "vision"
+        "llm"
       ],
       "score": "📄",
-      "item_id": "arxiv:2611.14387v1",
+      "item_id": "arxiv:2611.15904v1",
       "summary_type": "extractive",
-      "title_zh": "Blurring the Block Boundaries: Overlapping Block Denoising for Efficient Diffusion Language Models",
-      "summary_zh": "Diffusion Language Models (DLMs) have emerged as effective alternatives to autoregressive models for latency-critical tasks, enabling faster token generation. Recent advances employ block diffusion with self-editing capabilities, where each block refines tokens iteratively before advancing to the next one. Yet each block is only as fast as its slowest token, and the next block cannot start before it."
+      "title_zh": "HeriKGQA: Grounded Knowledge-Graph Question Answering over Cultural Heritage Sensor Data",
+      "summary_zh": "Cultural heritage sites are increasingly monitored by sensor networks, but querying their data requires database expertise. Large Language Models (LLMs) offer a natural-language interface, yet over raw sensor records they lose track of which sensor, site, and time each value belongs to, and silently miscompute. We present HeriKGQA, a knowledge-graph question-answering method that confines the LLM to interpreting questions and phrasing answers, leaving computation to SPARQL and deterministic code"
     },
     {
-      "title": "An Energy-Based Perspective on Machine Learning",
-      "summary": "Energy-based models (EBMs) define a distribution through a scalar energy, $p_θ(x)\\propto\\exp(-E_θ(x))$, and are usually presented as one model family among many. This tutorial has a broader goal: beyond introducing EBMs, it uses them as a single lens that connects the different aspects of machine learning. Any EBM is specified by three choices, the energy, which determines what the model represents; the inference procedure, which samples from or optimizes the energy; and the learning method, whi",
+      "title": "Reward-Driven Collider Physics Challenges for Self-Improving Agentic AI via Reinforcement Learning",
+      "summary": "Recent advances in agentic AI have demonstrated the potential to automate complex high-energy physics (HEP) workflows. We focus on the regime of HEP tasks where frontier models still struggle to provide correct and complete solutions, and introduce an open-ended optimization task format with continuous, automatically evaluated rewards. Unlike conventional benchmarks focused on task completion, these tasks target reinforcement learning (RL) environments to generate agentic improvement on state- o",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14383v1",
-      "published_at": "2026-11-10T17:37:22Z",
+      "url": "http://arxiv.org/abs/2611.15885v1",
+      "published_at": "2026-11-11T19:00:41Z",
       "tags": [
         "paper",
-        "tool"
+        "agent"
       ],
       "score": "📄",
-      "item_id": "arxiv:2611.14383v1",
+      "item_id": "arxiv:2611.15885v1",
       "summary_type": "extractive",
-      "title_zh": "An Energy-Based Perspective on Machine Learning",
-      "summary_zh": "Energy-based models (EBMs) define a distribution through a scalar energy, $p_θ(x)\\propto\\exp(-E_θ(x))$, and are usually presented as one model family among many. This tutorial has a broader goal: beyond introducing EBMs, it uses them as a single lens that connects the different aspects of machine learning. Any EBM is specified by three choices, the energy, which determines what the model represents; the inference procedure, which samples from or optimizes the energy; and the learning method, whi"
+      "title_zh": "Reward-Driven Collider Physics Challenges for Self-Improving Agentic AI via Reinforcement Learning",
+      "summary_zh": "Recent advances in agentic AI have demonstrated the potential to automate complex high-energy physics (HEP) workflows. We focus on the regime of HEP tasks where frontier models still struggle to provide correct and complete solutions, and introduce an open-ended optimization task format with continuous, automatically evaluated rewards. Unlike conventional benchmarks focused on task completion, these tasks target reinforcement learning (RL) environments to generate agentic improvement on state- o"
     },
     {
-      "title": "Cognitive Mapping of Learning by Thinking Mechanisms in Large Language Models",
-      "summary": "Large language models (LLMs) increasingly exhibit capabilities that resemble human Learning by Thinking (LbT), the acquisition of new insight through internal processes such as explanation and reasoning, without new external input. A systematic account of the cognitive mechanisms behind these capabilities, and of their limits, remains underdeveloped. This paper proposes a Cognitive LbT Framework that maps four mechanisms (Reflective Reasoning, Synthetic Memory Formation, Internal Simulation, and",
+      "title": "Food Critic: An Agentic Visualization System for Auditable Restaurant-Safety Reasoning",
+      "summary": "Generative AI agents are increasingly being embedded into visualization systems that can search data, invoke tools, summarize evidence, and produce recommendations. However, when agents rely solely on their own knowledge, the visualization problem is not only whether the agent provides a useful answer, but also whether users can inspect how that answer is grounded. We present Food Critic, an agentic visualization system for diners' restaurant decision support that integrates public health inspec",
       "full_text": "",
       "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14382v1",
-      "published_at": "2026-11-10T17:37:13Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.14382v1",
-      "summary_type": "extractive",
-      "title_zh": "Cognitive Mapping of Learning by Thinking Mechanisms in Large Language Models",
-      "summary_zh": "Large language models (LLMs) increasingly exhibit capabilities that resemble human Learning by Thinking (LbT), the acquisition of new insight through internal processes such as explanation and reasoning, without new external input. A systematic account of the cognitive mechanisms behind these capabilities, and of their limits, remains underdeveloped. This paper proposes a Cognitive LbT Framework that maps four mechanisms (Reflective Reasoning, Synthetic Memory Formation, Internal Simulation, and"
-    },
-    {
-      "title": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
-      "summary": "Rapidly evolving LLM architectures and heterogeneous mobile hardware make supporting new models in on-device inference engines a recurring and costly system challenge. Each model may require coordinated changes across conversion, graph construction, operators, and hardware backends. Existing coding agents often miss these cross-layer dependencies and struggle to diagnose failures across host--device execution paths.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14356v1",
-      "published_at": "2026-11-10T17:16:47Z",
+      "url": "http://arxiv.org/abs/2611.15843v1",
+      "published_at": "2026-11-11T18:57:07Z",
       "tags": [
         "paper",
-        "llm",
+        "vision",
         "agent",
         "tool"
       ],
       "score": "📄",
-      "item_id": "arxiv:2611.14356v1",
+      "item_id": "arxiv:2611.15843v1",
       "summary_type": "extractive",
-      "title_zh": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
-      "summary_zh": "Rapidly evolving LLM architectures and heterogeneous mobile hardware make supporting new models in on-device inference engines a recurring and costly system challenge. Each model may require coordinated changes across conversion, graph construction, operators, and hardware backends. Existing coding agents often miss these cross-layer dependencies and struggle to diagnose failures across host--device execution paths."
+      "title_zh": "Food Critic: An Agentic Visualization System for Auditable Restaurant-Safety Reasoning",
+      "summary_zh": "Generative AI agents are increasingly being embedded into visualization systems that can search data, invoke tools, summarize evidence, and produce recommendations. However, when agents rely solely on their own knowledge, the visualization problem is not only whether the agent provides a useful answer, but also whether users can inspect how that answer is grounded. We present Food Critic, an agentic visualization system for diners' restaurant decision support that integrates public health inspec"
     },
     {
-      "title": "CLADE: Category-Level Answering from Deficient Evidence in Retrieval-Augmented Language Models",
-      "summary": "Retrieval-augmented systems often retrieve passages that are accurate and relevant but state the answer at a coarser level of granularity than the question requires. For example, a question may ask which specific disease a drug treats (familial hyperlipidemia), while the retrieved passage mentions the broader disease family (hyperlipidemia). Prior work on context sufficiency treats such coarse passages simply as insufficient.",
+      "title": "Before Pixels: Speed-Minder",
+      "summary": "Before Pixels: Speed-Minder",
       "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14355v1",
-      "published_at": "2026-11-10T17:16:06Z",
+      "source": "hacker news",
+      "url": "https://unsung.aresluna.org/before-pixels-speed-minder/",
+      "published_at": "2026-11-11T15:40:05+00:00",
       "tags": [
-        "llm",
-        "paper"
+        "ai"
       ],
-      "score": "📄",
-      "item_id": "arxiv:2611.14355v1",
+      "score": "22",
+      "item_id": "hn:50454700",
       "summary_type": "extractive",
-      "title_zh": "CLADE: Category-Level Answering from Deficient Evidence in Retrieval-Augmented Language Models",
-      "summary_zh": "Retrieval-augmented systems often retrieve passages that are accurate and relevant but state the answer at a coarser level of granularity than the question requires. For example, a question may ask which specific disease a drug treats (familial hyperlipidemia), while the retrieved passage mentions the broader disease family (hyperlipidemia). Prior work on context sufficiency treats such coarse passages simply as insufficient."
-    },
-    {
-      "title": "AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models",
-      "summary": "Users often complain that AI assistants such as ChatGPT are getting worse. Some versions do change, but human evaluation leaves a second possibility untested: the people judging may change. We separate the two on Chatbot Arena, a public platform where people compare answers from two anonymous large language models (LLMs) and pick the better one or say both are bad.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14333v1",
-      "published_at": "2026-11-10T16:56:16Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.14333v1",
-      "summary_type": "extractive",
-      "title_zh": "AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models",
-      "summary_zh": "Users often complain that AI assistants such as ChatGPT are getting worse. Some versions do change, but human evaluation leaves a second possibility untested: the people judging may change. We separate the two on Chatbot Arena, a public platform where people compare answers from two anonymous large language models (LLMs) and pick the better one or say both are bad."
-    },
-    {
-      "title": "Forward-Value Discretization: Faster Stochastic Diffusion Sampling Without High-Order Approximation",
-      "summary": "Stochastic diffusion samplers often require substantially more neural function evaluations (NFEs) than deterministic samplers to achieve comparable sample quality. Although higher-order discretization accelerates deterministic sampling, its benefits for stochastic sampling remains unclear. We establish matching upper and worst-case lower bounds showing that stochastic samplers with higher-order approximations remain first-order convergent, even with exact score functions.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.14328v1",
-      "published_at": "2026-11-10T16:53:27Z",
-      "tags": [
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.14328v1",
-      "summary_type": "extractive",
-      "title_zh": "Forward-Value Discretization: Faster Stochastic Diffusion Sampling Without High-Order Approximation",
-      "summary_zh": "Stochastic diffusion samplers often require substantially more neural function evaluations (NFEs) than deterministic samplers to achieve comparable sample quality. Although higher-order discretization accelerates deterministic sampling, its benefits for stochastic sampling remains unclear. We establish matching upper and worst-case lower bounds showing that stochastic samplers with higher-order approximations remain first-order convergent, even with exact score functions."
+      "title_zh": "Before Pixels: Speed-Minder",
+      "summary_zh": "Before Pixels: Speed-Minder"
     },
     {
       "title": "Safety in Algae Home Experiments",
@@ -796,43 +829,11 @@
       "tags": [
         "ai"
       ],
-      "score": "20",
+      "score": "34",
       "item_id": "hn:50439283",
       "summary_type": "extractive",
       "title_zh": "Safety in Algae Home Experiments",
       "summary_zh": "Safety in Algae Home Experiments"
-    },
-    {
-      "title": "Beyond the compiler: Making IBM i run modified native code",
-      "summary": "Beyond the compiler: Making IBM i run modified native code",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/",
-      "published_at": "2026-11-10T08:20:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "6",
-      "item_id": "hn:50437505",
-      "summary_type": "extractive",
-      "title_zh": "Beyond the compiler: Making IBM i run modified native code",
-      "summary_zh": "Beyond the compiler: Making IBM i run modified native code"
-    },
-    {
-      "title": "A live tree of systemd jobs on the boot console",
-      "summary": "A live tree of systemd jobs on the boot console",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://codeberg.org/wvhulle/bootvine",
-      "published_at": "2026-11-09T13:02:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "348",
-      "item_id": "hn:50425017",
-      "summary_type": "extractive",
-      "title_zh": "A live tree of systemd jobs on the boot console",
-      "summary_zh": "A live tree of systemd jobs on the boot console"
     }
   ]
 }

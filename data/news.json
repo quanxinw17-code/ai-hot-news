@@ -1,70 +1,199 @@
 {
-  "updated_at": "2026-11-15T06:05:13.754199+00:00",
+  "updated_at": "2026-11-15T18:43:58.797845+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Show HN: Gawain – Require type hints on all Python variables",
-      "summary": "Yes, i really hate &quot;dict[str, ANY]&quot;",
-      "full_text": "Yes, i really hate &quot;dict[str, ANY]&quot;",
-      "source": "hacker news",
-      "url": "https://github.com/matheuzgomes/gawain",
-      "published_at": "2026-11-15T04:39:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "21",
-      "item_id": "hn:50504072",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Gawain – Require type hints on all Python variables",
-      "summary_zh": "Yes, i really hate &quot;dict[str, ANY]&quot;"
-    },
-    {
-      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "summary": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "summary": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "published_at": "2026-11-15T04:09:11+00:00",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "published_at": "2026-11-15T17:53:31+00:00",
       "tags": [
         "ai"
       ],
-      "score": "13",
-      "item_id": "hn:50503930",
+      "score": "16",
+      "item_id": "hn:50509023",
       "summary_type": "extractive",
-      "title_zh": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "summary_zh": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP"
+      "title_zh": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "summary_zh": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can"
     },
     {
-      "title": "Osint Case Studies",
-      "summary": "Osint Case Studies",
+      "title": "Emacs Is My Browser",
+      "summary": "Emacs Is My Browser",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://osintsearch.org/blog/osint-case-studies",
-      "published_at": "2026-11-15T03:33:41+00:00",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "published_at": "2026-11-15T15:21:21+00:00",
       "tags": [
         "ai"
       ],
-      "score": "13",
-      "item_id": "hn:50503731",
+      "score": "90",
+      "item_id": "hn:50507553",
       "summary_type": "extractive",
-      "title_zh": "Osint Case Studies",
-      "summary_zh": "Osint Case Studies"
+      "title_zh": "Emacs Is My Browser",
+      "summary_zh": "Emacs Is My Browser"
     },
     {
-      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-      "summary": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "title": "All AI-generated code should be Open Source",
+      "summary": "All AI-generated code should be Open Source",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
-      "published_at": "2026-11-15T03:05:54+00:00",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "published_at": "2026-11-15T14:46:58+00:00",
       "tags": [
         "ai"
       ],
-      "score": "43",
-      "item_id": "hn:50503588",
+      "score": "663",
+      "item_id": "hn:50507303",
       "summary_type": "extractive",
-      "title_zh": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-      "summary_zh": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt"
+      "title_zh": "All AI-generated code should be Open Source",
+      "summary_zh": "All AI-generated code should be Open Source"
+    },
+    {
+      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+      "summary": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+      "published_at": "2026-11-15T14:31:52+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "66",
+      "item_id": "hn:50507206",
+      "summary_type": "extractive",
+      "title_zh": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+      "summary_zh": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)"
+    },
+    {
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "summary": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://prog21.dadgum.com/116.html",
+      "published_at": "2026-11-15T13:44:16+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "123",
+      "item_id": "hn:50506894",
+      "summary_type": "extractive",
+      "title_zh": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "summary_zh": "Things That Turbo Pascal Is Smaller Than (2011)"
+    },
+    {
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "summary": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "published_at": "2026-11-15T13:15:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "262",
+      "item_id": "hn:50506719",
+      "summary_type": "extractive",
+      "title_zh": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "summary_zh": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use"
+    },
+    {
+      "title": "A NES emulator written in Odin",
+      "summary": "A NES emulator written in Odin",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://lucypero.com/lucynes.html",
+      "published_at": "2026-11-15T12:51:47+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "72",
+      "item_id": "hn:50506588",
+      "summary_type": "extractive",
+      "title_zh": "A NES emulator written in Odin",
+      "summary_zh": "A NES emulator written in Odin"
+    },
+    {
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "summary": "Understanding Positional Embeddings in Modern LLMs",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "published_at": "2026-11-15T12:14:06+00:00",
+      "tags": [
+        "tool",
+        "llm"
+      ],
+      "score": "138",
+      "item_id": "hn:50506376",
+      "summary_type": "extractive",
+      "title_zh": "Understanding Positional Embeddings in Modern LLMs",
+      "summary_zh": "Understanding Positional Embeddings in Modern LLMs"
+    },
+    {
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "summary": "https:&#x2F;&#x2F;wallhop.io&#x2F;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;11&#x2F;15&#x2F;us&#x2F;pol...",
+      "full_text": "https:&#x2F;&#x2F;wallhop.io&#x2F;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;11&#x2F;15&#x2F;us&#x2F;pol...",
+      "source": "hacker news",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "published_at": "2026-11-15T11:40:51+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "292",
+      "item_id": "hn:50506180",
+      "summary_type": "extractive",
+      "title_zh": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "summary_zh": "https:&#x2F;&#x2F;wallhop.io&#x2F;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;11&#x2F;15&#x2F;us&#x2F;pol..."
+    },
+    {
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "summary": "Why did some Apollo missions carry a grenade launcher?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "published_at": "2026-11-15T09:06:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "169",
+      "item_id": "hn:50505271",
+      "summary_type": "extractive",
+      "title_zh": "Why did some Apollo missions carry a grenade launcher?",
+      "summary_zh": "Why did some Apollo missions carry a grenade launcher?"
+    },
+    {
+      "title": "Book list for streetfighting computer scientists",
+      "summary": "Book list for streetfighting computer scientists",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+      "published_at": "2026-11-15T07:08:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "108",
+      "item_id": "hn:50504718",
+      "summary_type": "extractive",
+      "title_zh": "Book list for streetfighting computer scientists",
+      "summary_zh": "Book list for streetfighting computer scientists"
+    },
+    {
+      "title": "Disk encryption on NetBSD – achieving secrecy",
+      "summary": "Disk encryption on NetBSD – achieving secrecy",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://netbsd.org/~nia/disk-encrypt/",
+      "published_at": "2026-11-15T05:29:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "87",
+      "item_id": "hn:50504277",
+      "summary_type": "extractive",
+      "title_zh": "Disk encryption on NetBSD – achieving secrecy",
+      "summary_zh": "Disk encryption on NetBSD – achieving secrecy"
     },
     {
       "title": "My favourite modern NES games",
@@ -76,27 +205,11 @@
       "tags": [
         "ai"
       ],
-      "score": "14",
+      "score": "179",
       "item_id": "hn:50503465",
       "summary_type": "extractive",
       "title_zh": "My favourite modern NES games",
       "summary_zh": "My favourite modern NES games"
-    },
-    {
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "summary": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-      "published_at": "2026-11-15T02:00:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "161",
-      "item_id": "hn:50503255",
-      "summary_type": "extractive",
-      "title_zh": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "summary_zh": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches"
     },
     {
       "title": "Court denies motion to dismiss DRAM price fixing case",
@@ -108,43 +221,27 @@
       "tags": [
         "ai"
       ],
-      "score": "25",
+      "score": "413",
       "item_id": "hn:50502988",
       "summary_type": "extractive",
       "title_zh": "Court denies motion to dismiss DRAM price fixing case",
       "summary_zh": "Court denies motion to dismiss DRAM price fixing case"
     },
     {
-      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-      "summary": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "title": "The Telephone Changed the World",
+      "summary": "The Telephone Changed the World",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://bobbiec.github.io/jamaican-font.html",
-      "published_at": "2026-11-15T00:56:45+00:00",
+      "url": "https://lithub.com/how-the-telephone-changed-the-world/",
+      "published_at": "2026-11-14T22:56:09+00:00",
       "tags": [
         "ai"
       ],
-      "score": "23",
-      "item_id": "hn:50502839",
+      "score": "36",
+      "item_id": "hn:50501887",
       "summary_type": "extractive",
-      "title_zh": "Show HN: A custom font based on the Jamaican flag alphabet",
-      "summary_zh": "Show HN: A custom font based on the Jamaican flag alphabet"
-    },
-    {
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "summary": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-      "published_at": "2026-11-14T22:26:30+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "389",
-      "item_id": "hn:50501631",
-      "summary_type": "extractive",
-      "title_zh": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "summary_zh": "Nvidia deliberately kept GPU prices high through circular financing deals"
+      "title_zh": "The Telephone Changed the World",
+      "summary_zh": "The Telephone Changed the World"
     },
     {
       "title": "How did Woz write the Apple 1 BASIC before building the computer?",
@@ -156,7 +253,7 @@
       "tags": [
         "ai"
       ],
-      "score": "166",
+      "score": "286",
       "item_id": "hn:50501594",
       "summary_type": "extractive",
       "title_zh": "How did Woz write the Apple 1 BASIC before building the computer?",
@@ -172,7 +269,7 @@
       "tags": [
         "ai"
       ],
-      "score": "993",
+      "score": "🔥 1.5k",
       "item_id": "hn:50500963",
       "summary_type": "extractive",
       "title_zh": "SpaceX catches the Starship to end Flight 15",
@@ -188,7 +285,7 @@
       "tags": [
         "ai"
       ],
-      "score": "265",
+      "score": "404",
       "item_id": "hn:50499038",
       "summary_type": "extractive",
       "title_zh": "A family tree of software job titles",
@@ -204,7 +301,7 @@
       "tags": [
         "ai"
       ],
-      "score": "743",
+      "score": "955",
       "item_id": "hn:50499017",
       "summary_type": "extractive",
       "title_zh": "Lovable apps expose passport details and more than 200K private messages",
@@ -220,107 +317,43 @@
       "tags": [
         "ai"
       ],
-      "score": "225",
+      "score": "267",
       "item_id": "hn:50497892",
       "summary_type": "extractive",
       "title_zh": "PyPI's redesigned project pages with clearer security signals are now live",
       "summary_zh": "PyPI's redesigned project pages with clearer security signals are now live"
     },
     {
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "summary": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "title": "Semicircle Packing",
+      "summary": "Semicircle Packing",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "published_at": "2026-11-14T15:04:15+00:00",
+      "url": "https://rorz.io/writing/semicircle-packing",
+      "published_at": "2026-11-13T14:42:57+00:00",
       "tags": [
         "ai"
       ],
-      "score": "213",
-      "item_id": "hn:50497589",
+      "score": "84",
+      "item_id": "hn:50484234",
       "summary_type": "extractive",
-      "title_zh": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "summary_zh": "Show HN: DeepSeek V3 in ~200 lines of pure Jax"
+      "title_zh": "Semicircle Packing",
+      "summary_zh": "Semicircle Packing"
     },
     {
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "summary": "Hey HN readers!I&#x27;m snipedbywifi (https:&#x2F;&#x2F;gitlab.com&#x2F;snipedbywifi), and i&#x27;ve been working on terminactory. Please try it out if you&#x27;d like to play a cozy factory game while waiting for long agent tasks to finish!The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it?",
-      "full_text": "Hey HN readers!I&#x27;m snipedbywifi (https:&#x2F;&#x2F;gitlab.com&#x2F;snipedbywifi), and i&#x27;ve been working on terminactory. Please try it out if you&#x27;d like to play a cozy factory game while waiting for long agent tasks to finish!The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game. Me and the modern 5.5 claude models made a base for the game tha",
+      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+      "summary": "After my last trash clock (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49930439), I wanted to see how low I could go. My latest clock is built mainly from empty drink cartons, plus a few skewers, some paper straws, a piece of string, some nuts as weights, and lots of hot glue. It has a pendulum, an escapement, and hands for seconds, minutes, and hours, and runs for about an hour.The design of the gears and escapement was AI-assisted: Claude built me interactive browser tools that generat",
+      "full_text": "After my last trash clock (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49930439), I wanted to see how low I could go. My latest clock is built mainly from empty drink cartons, plus a few skewers, some paper straws, a piece of string, some nuts as weights, and lots of hot glue. It has a pendulum, an escapement, and hands for seconds, minutes, and hours, and runs for about an hour.The design of the gears and escapement was AI-assisted: Claude built me interactive browser tools that generat",
       "source": "hacker news",
-      "url": "https://gitlab.com/snipedbywifi/terminactory",
-      "published_at": "2026-11-14T14:05:54+00:00",
+      "url": "https://www.niklasroy.com/carton-clock/",
+      "published_at": "2026-11-13T12:00:18+00:00",
       "tags": [
         "ai"
       ],
-      "score": "151",
-      "item_id": "hn:50497132",
+      "score": "51",
+      "item_id": "hn:50482279",
       "summary_type": "extractive",
-      "title_zh": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "summary_zh": "Hey HN readers!I&#x27;m snipedbywifi (https:&#x2F;&#x2F;gitlab.com&#x2F;snipedbywifi), and i&#x27;ve been working on terminactory. Please try it out if you&#x27;d like to play a cozy factory game while waiting for long agent tasks to finish!The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it?"
-    },
-    {
-      "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "summary": "Advancing science and engineering with Antigravity's /teamwork",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "published_at": "2026-11-14T13:20:43+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "188",
-      "item_id": "hn:50496811",
-      "summary_type": "extractive",
-      "title_zh": "Advancing science and engineering with Antigravity's /teamwork",
-      "summary_zh": "Advancing science and engineering with Antigravity's /teamwork"
-    },
-    {
-      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-      "summary": "Project Zero will disclose vulnerabilities 90 days after reporting",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-      "published_at": "2026-11-14T11:13:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "220",
-      "item_id": "hn:50496051",
-      "summary_type": "extractive",
-      "title_zh": "Project Zero will disclose vulnerabilities 90 days after reporting",
-      "summary_zh": "Project Zero will disclose vulnerabilities 90 days after reporting"
-    },
-    {
-      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
-      "summary": "One Man's Quest to Create the Perfect Whiskey Glass",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-      "published_at": "2026-11-13T17:37:32+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "20",
-      "item_id": "hn:50486880",
-      "summary_type": "extractive",
-      "title_zh": "One Man's Quest to Create the Perfect Whiskey Glass",
-      "summary_zh": "One Man's Quest to Create the Perfect Whiskey Glass"
-    },
-    {
-      "title": "500 Lines or Less A 3D Modeller",
-      "summary": "500 Lines or Less A 3D Modeller",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
-      "published_at": "2026-11-13T13:47:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "35",
-      "item_id": "hn:50483431",
-      "summary_type": "extractive",
-      "title_zh": "500 Lines or Less A 3D Modeller",
-      "summary_zh": "500 Lines or Less A 3D Modeller"
+      "title_zh": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+      "summary_zh": "After my last trash clock (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49930439), I wanted to see how low I could go. My latest clock is built mainly from empty drink cartons, plus a few skewers, some paper straws, a piece of string, some nuts as weights, and lots of hot glue. It has a pendulum, an escapement, and hands for seconds, minutes, and hours, and runs for about an hour.The design of the gears and escapement was AI-assisted: Claude built me interactive browser tools that generat"
     },
     {
       "title": "The Evolving Story of How Chemistry Became Biology",
@@ -332,27 +365,43 @@
       "tags": [
         "ai"
       ],
-      "score": "20",
+      "score": "95",
       "item_id": "hn:50482222",
       "summary_type": "extractive",
       "title_zh": "The Evolving Story of How Chemistry Became Biology",
       "summary_zh": "The Evolving Story of How Chemistry Became Biology"
     },
     {
-      "title": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
-      "summary": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
+      "title": "Chasing an audio artifact on power loss",
+      "summary": "Chasing an audio artifact on power loss",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://boldentrance.com/astro-spiral-the-greatest-car-stunt/",
-      "published_at": "2026-11-12T23:04:23+00:00",
+      "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
+      "published_at": "2026-11-12T23:11:25+00:00",
       "tags": [
         "ai"
       ],
-      "score": "22",
-      "item_id": "hn:50475692",
+      "score": "41",
+      "item_id": "hn:50475759",
       "summary_type": "extractive",
-      "title_zh": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
-      "summary_zh": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt"
+      "title_zh": "Chasing an audio artifact on power loss",
+      "summary_zh": "Chasing an audio artifact on power loss"
+    },
+    {
+      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+      "summary": "Handwritten 200-year-old dismissal notice found on roof tile",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
+      "published_at": "2026-11-12T21:27:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "59",
+      "item_id": "hn:50474529",
+      "summary_type": "extractive",
+      "title_zh": "Handwritten 200-year-old dismissal notice found on roof tile",
+      "summary_zh": "Handwritten 200-year-old dismissal notice found on roof tile"
     },
     {
       "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
@@ -363,8 +412,8 @@
       "published_at": "2026-11-12T18:59:06Z",
       "tags": [
         "paper",
-        "agent",
-        "tool"
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17323v1",
@@ -381,8 +430,8 @@
       "published_at": "2026-11-12T18:58:22Z",
       "tags": [
         "paper",
-        "agent",
-        "tool"
+        "tool",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17316v1",
@@ -398,8 +447,8 @@
       "url": "http://arxiv.org/abs/2611.17313v1",
       "published_at": "2026-11-12T18:57:48Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17313v1",
@@ -415,8 +464,8 @@
       "url": "http://arxiv.org/abs/2611.17309v1",
       "published_at": "2026-11-12T18:56:56Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17309v1",
@@ -432,8 +481,8 @@
       "url": "http://arxiv.org/abs/2611.17298v1",
       "published_at": "2026-11-12T18:55:09Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17298v1",
@@ -449,8 +498,8 @@
       "url": "http://arxiv.org/abs/2611.17297v1",
       "published_at": "2026-11-12T18:55:06Z",
       "tags": [
-        "llm",
-        "paper"
+        "paper",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17297v1",
@@ -466,9 +515,9 @@
       "url": "http://arxiv.org/abs/2611.17294v1",
       "published_at": "2026-11-12T18:54:42Z",
       "tags": [
+        "paper",
         "tool",
-        "agent",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17294v1",
@@ -484,9 +533,9 @@
       "url": "http://arxiv.org/abs/2611.17280v1",
       "published_at": "2026-11-12T18:51:05Z",
       "tags": [
-        "vision",
+        "paper",
         "llm",
-        "paper"
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17280v1",
@@ -502,10 +551,10 @@
       "url": "http://arxiv.org/abs/2611.17267v1",
       "published_at": "2026-11-12T18:45:58Z",
       "tags": [
+        "paper",
         "tool",
         "llm",
-        "agent",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17267v1",
@@ -522,30 +571,14 @@
       "published_at": "2026-11-12T18:28:08Z",
       "tags": [
         "paper",
-        "llm",
-        "tool"
+        "tool",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17241v1",
       "summary_type": "extractive",
       "title_zh": "Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery",
       "summary_zh": "Modern automated heuristic discovery (AHD) systems increasingly rival hand-crafted heuristics by leveraging Large Language Models (LLMs) to iteratively mutate and refine solutions. A natural assumption is that more powerful and more expensive models consistently yield better heuristics. We challenge this empirically: across multiple NP-hard combinatorial optimization problems, we find no consistent advantage for larger, costlier models."
-    },
-    {
-      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-      "summary": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
-      "published_at": "2026-11-12T18:28:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "129",
-      "item_id": "hn:50471874",
-      "summary_type": "extractive",
-      "title_zh": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-      "summary_zh": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)"
     },
     {
       "title": "When Both Sides Adapt: The Challenges of Evaluating Interactive LLM Systems",
@@ -555,9 +588,9 @@
       "url": "http://arxiv.org/abs/2611.17239v1",
       "published_at": "2026-11-12T18:26:51Z",
       "tags": [
+        "paper",
         "tool",
-        "llm",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17239v1",
@@ -573,9 +606,9 @@
       "url": "http://arxiv.org/abs/2611.17235v1",
       "published_at": "2026-11-12T18:23:56Z",
       "tags": [
+        "paper",
         "tool",
-        "llm",
-        "paper"
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17235v1",
@@ -591,9 +624,9 @@
       "url": "http://arxiv.org/abs/2611.17220v1",
       "published_at": "2026-11-12T18:16:37Z",
       "tags": [
-        "agent",
+        "paper",
         "llm",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17220v1",
@@ -609,8 +642,8 @@
       "url": "http://arxiv.org/abs/2611.17214v1",
       "published_at": "2026-11-12T18:10:46Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17214v1",
@@ -626,8 +659,8 @@
       "url": "http://arxiv.org/abs/2611.17199v1",
       "published_at": "2026-11-12T18:02:53Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17199v1",
@@ -679,8 +712,8 @@
       "url": "http://arxiv.org/abs/2611.17161v1",
       "published_at": "2026-11-12T17:39:14Z",
       "tags": [
-        "ai",
-        "paper"
+        "paper",
+        "ai"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17161v1",
@@ -697,8 +730,8 @@
       "published_at": "2026-11-12T17:21:12Z",
       "tags": [
         "paper",
-        "llm",
-        "tool"
+        "tool",
+        "llm"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.17128v1",
@@ -725,116 +758,85 @@
       "summary_zh": "Enforcement defenses against prompt injection, such as CaMeL, Progent, IPIGuard and DRIFT, ask the agent's own model to write a security artifact (a program, a privilege policy, a dependency graph or a constraint list) that code then enforces. We ask whether small language model (SLM) agents can be trusted to write these artifacts. Across 15 open-weight models, 13 of them between 1.7B and 12B parameters, they cannot: the policies, graphs and constraints that the agent's model writes admit attack"
     },
     {
-      "title": "Testing a trash can Faraday cage",
-      "summary": "Testing a trash can Faraday cage",
+      "title": "20 Years of Pyrolog",
+      "summary": "20 Years of Pyrolog",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
-      "published_at": "2026-11-12T14:04:27+00:00",
+      "url": "https://pypy.org/posts/2026/11/20-years-of-pyrolog.html",
+      "published_at": "2026-11-12T14:15:28+00:00",
       "tags": [
         "ai"
       ],
-      "score": "72",
-      "item_id": "hn:50467278",
+      "score": "43",
+      "item_id": "hn:50467539",
       "summary_type": "extractive",
-      "title_zh": "Testing a trash can Faraday cage",
-      "summary_zh": "Testing a trash can Faraday cage"
+      "title_zh": "20 Years of Pyrolog",
+      "summary_zh": "20 Years of Pyrolog"
     },
     {
-      "title": "Oxford Molecular Motors",
-      "summary": "Oxford Molecular Motors",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "summary": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
-      "published_at": "2026-11-11T17:06:08+00:00",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "published_at": "2026-11-12T05:29:24+00:00",
       "tags": [
-        "ai"
+        "llm",
+        "vision"
       ],
-      "score": "32",
-      "item_id": "hn:50455732",
+      "score": "132",
+      "item_id": "hn:50463399",
       "summary_type": "extractive",
-      "title_zh": "Oxford Molecular Motors",
-      "summary_zh": "Oxford Molecular Motors"
+      "title_zh": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "summary_zh": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]"
     },
     {
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "summary": "Seagate's new hybrid drive raises some old questions",
+      "title": "How to read codes from (many) IR remote controls with as little code as possible",
+      "summary": "How to read codes from (many) IR remote controls with as little code as possible",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "published_at": "2026-11-11T14:32:09+00:00",
+      "url": "https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html",
+      "published_at": "2026-11-11T20:09:34+00:00",
       "tags": [
         "ai"
       ],
-      "score": "90",
-      "item_id": "hn:50453901",
+      "score": "35",
+      "item_id": "hn:50457979",
       "summary_type": "extractive",
-      "title_zh": "Seagate's new hybrid drive raises some old questions",
-      "summary_zh": "Seagate's new hybrid drive raises some old questions"
+      "title_zh": "How to read codes from (many) IR remote controls with as little code as possible",
+      "summary_zh": "How to read codes from (many) IR remote controls with as little code as possible"
     },
     {
-      "title": "The Sicilian Citrus Family Tree",
-      "summary": "The Sicilian Citrus Family Tree",
+      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
+      "summary": "Notes on Mathematics for Engineers (1959) [pdf]",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
-      "published_at": "2026-11-11T01:52:00+00:00",
+      "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+      "published_at": "2026-11-11T12:25:42+00:00",
       "tags": [
         "ai"
       ],
-      "score": "54",
-      "item_id": "hn:50448895",
+      "score": "19",
+      "item_id": "hn:50452621",
       "summary_type": "extractive",
-      "title_zh": "The Sicilian Citrus Family Tree",
-      "summary_zh": "The Sicilian Citrus Family Tree"
+      "title_zh": "Notes on Mathematics for Engineers (1959) [pdf]",
+      "summary_zh": "Notes on Mathematics for Engineers (1959) [pdf]"
     },
     {
-      "title": "Generative AI uses more energy on non-English text",
-      "summary": "Generative AI uses more energy on non-English text",
+      "title": "Open-Source HF Communications for Remote Communities and Experimenters",
+      "summary": "Open-Source HF Communications for Remote Communities and Experimenters",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "published_at": "2026-11-10T15:07:28+00:00",
+      "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
+      "published_at": "2026-11-11T11:11:22+00:00",
       "tags": [
         "ai"
       ],
-      "score": "196",
-      "item_id": "hn:50441444",
+      "score": "69",
+      "item_id": "hn:50452037",
       "summary_type": "extractive",
-      "title_zh": "Generative AI uses more energy on non-English text",
-      "summary_zh": "Generative AI uses more energy on non-English text"
-    },
-    {
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "summary": "Why get an expensive Pi when I have an old phone?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "published_at": "2026-11-10T14:16:05+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "533",
-      "item_id": "hn:50440709",
-      "summary_type": "extractive",
-      "title_zh": "Why get an expensive Pi when I have an old phone?",
-      "summary_zh": "Why get an expensive Pi when I have an old phone?"
-    },
-    {
-      "title": "Reverse engineering a vintage diode-transistor logic chip",
-      "summary": "Reverse engineering a vintage diode-transistor logic chip",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
-      "published_at": "2026-11-08T19:03:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "106",
-      "item_id": "hn:50416011",
-      "summary_type": "extractive",
-      "title_zh": "Reverse engineering a vintage diode-transistor logic chip",
-      "summary_zh": "Reverse engineering a vintage diode-transistor logic chip"
+      "title_zh": "Open-Source HF Communications for Remote Communities and Experimenters",
+      "summary_zh": "Open-Source HF Communications for Remote Communities and Experimenters"
     }
   ]
 }

@@ -1,358 +1,454 @@
 {
-  "updated_at": "2026-11-16T06:03:37.774124+00:00",
+  "updated_at": "2026-11-16T21:54:17.842779+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
-      "summary": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+      "title": "Spamhaus new email sender requirements in November",
+      "summary": "Spamhaus new email sender requirements in November",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
-      "published_at": "2026-11-16T04:53:06+00:00",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "published_at": "2026-11-16T21:47:19+00:00",
       "tags": [
         "ai"
       ],
-      "score": "20",
-      "item_id": "hn:50514180",
+      "score": "3",
+      "item_id": "hn:50523784",
       "summary_type": "extractive",
-      "title_zh": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
-      "summary_zh": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update"
+      "title_zh": "Spamhaus new email sender requirements in November",
+      "summary_zh": "Spamhaus new email sender requirements in November"
     },
     {
-      "title": "Stop Filming in Log",
-      "summary": "Stop Filming in Log",
+      "title": "BugMeNot Has Closed",
+      "summary": "BugMeNot Has Closed",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
-      "published_at": "2026-11-16T04:37:03+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:50514093",
-      "summary_type": "extractive",
-      "title_zh": "Stop Filming in Log",
-      "summary_zh": "Stop Filming in Log"
-    },
-    {
-      "title": "Tell HN: HN is being scraped for emails to scam",
-      "summary": "I know that many folks here post their personal emails in the Who&#x27;s for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or their bots&#x2F;agents) as well. I use unique emails for every site, so I immediately knew that the late AWS payments email sent to my HN email were fake. There were other tells, but I want to remind everyone to be vigilant!",
-      "full_text": "I know that many folks here post their personal emails in the Who&#x27;s for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or their bots&#x2F;agents) as well. I use unique emails for every site, so I immediately knew that the late AWS payments email sent to my HN email were fake. There were other tells, but I want to remind everyone to be vigilant! HN is public but even social media sites where you supposedly can make you",
-      "source": "hacker news",
-      "url": "https://news.ycombinator.com/item?id=50513451",
-      "published_at": "2026-11-16T02:53:30+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "56",
-      "item_id": "hn:50513451",
-      "summary_type": "extractive",
-      "title_zh": "Tell HN: HN is being scraped for emails to scam",
-      "summary_zh": "I know that many folks here post their personal emails in the Who&#x27;s for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or their bots&#x2F;agents) as well. I use unique emails for every site, so I immediately knew that the late AWS payments email sent to my HN email were fake. There were other tells, but I want to remind everyone to be vigilant!"
-    },
-    {
-      "title": "Qwen4-Max",
-      "summary": "Qwen4-Max",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://qwen.ai/blog?id=qwen4-max",
-      "published_at": "2026-11-16T02:14:44+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "308",
-      "item_id": "hn:50513215",
-      "summary_type": "extractive",
-      "title_zh": "Qwen4-Max",
-      "summary_zh": "Qwen4-Max"
-    },
-    {
-      "title": "Universal XSS in uBlock Origin from website-driven element picker",
-      "summary": "Universal XSS in uBlock Origin from website-driven element picker",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://iter.ca/post/ubo-uxss/",
-      "published_at": "2026-11-16T02:04:48+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "223",
-      "item_id": "hn:50513160",
-      "summary_type": "extractive",
-      "title_zh": "Universal XSS in uBlock Origin from website-driven element picker",
-      "summary_zh": "Universal XSS in uBlock Origin from website-driven element picker"
-    },
-    {
-      "title": "Coles hit by a cybersecurity incident",
-      "summary": "Coles hit by a cybersecurity incident",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.colesgroup.com.au/updates/",
-      "published_at": "2026-11-16T01:14:35+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "83",
-      "item_id": "hn:50512824",
-      "summary_type": "extractive",
-      "title_zh": "Coles hit by a cybersecurity incident",
-      "summary_zh": "Coles hit by a cybersecurity incident"
-    },
-    {
-      "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
-      "summary": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
-      "published_at": "2026-11-16T00:03:12+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "25",
-      "item_id": "hn:50512296",
-      "summary_type": "extractive",
-      "title_zh": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
-      "summary_zh": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones"
-    },
-    {
-      "title": "What's Next for Nvidia?",
-      "summary": "What's Next for Nvidia?",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-      "published_at": "2026-11-15T23:55:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "172",
-      "item_id": "hn:50512235",
-      "summary_type": "extractive",
-      "title_zh": "What's Next for Nvidia?",
-      "summary_zh": "What's Next for Nvidia?"
-    },
-    {
-      "title": "Mini.nvim Is Now on Tangled",
-      "summary": "Mini.nvim Is Now on Tangled",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://tangled.org/nvim-mini.org/mini.nvim",
-      "published_at": "2026-11-15T23:55:41+00:00",
+      "url": "https://www.bugmenot.com/",
+      "published_at": "2026-11-16T21:32:17+00:00",
       "tags": [
         "ai"
       ],
       "score": "51",
-      "item_id": "hn:50512231",
+      "item_id": "hn:50523601",
       "summary_type": "extractive",
-      "title_zh": "Mini.nvim Is Now on Tangled",
-      "summary_zh": "Mini.nvim Is Now on Tangled"
+      "title_zh": "BugMeNot Has Closed",
+      "summary_zh": "BugMeNot Has Closed"
     },
     {
-      "title": "Old Bitly links are being hijacked",
-      "summary": "Old Bitly links are being hijacked",
+      "title": "My Quest to push native Three.js quality match AAA Game Engines",
+      "summary": "My Quest to push native Three.js quality match AAA Game Engines",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-      "published_at": "2026-11-15T22:11:43+00:00",
+      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "published_at": "2026-11-16T21:07:43+00:00",
       "tags": [
         "ai"
       ],
-      "score": "239",
-      "item_id": "hn:50511395",
+      "score": "31",
+      "item_id": "hn:50523291",
       "summary_type": "extractive",
-      "title_zh": "Old Bitly links are being hijacked",
-      "summary_zh": "Old Bitly links are being hijacked"
+      "title_zh": "My Quest to push native Three.js quality match AAA Game Engines",
+      "summary_zh": "My Quest to push native Three.js quality match AAA Game Engines"
     },
     {
-      "title": "WebGL Flight Simulator with seed generated terrain",
-      "summary": "WebGL Flight Simulator with seed generated terrain",
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "summary": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://baron.by.dai.studio/",
-      "published_at": "2026-11-15T20:20:05+00:00",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "published_at": "2026-11-16T20:48:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "113",
-      "item_id": "hn:50510296",
+      "score": "32",
+      "item_id": "hn:50523025",
       "summary_type": "extractive",
-      "title_zh": "WebGL Flight Simulator with seed generated terrain",
-      "summary_zh": "WebGL Flight Simulator with seed generated terrain"
+      "title_zh": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "summary_zh": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case"
     },
     {
-      "title": "Handwriting, as a Font",
-      "summary": "Handwriting, as a Font",
+      "title": "Caltech professor no longer grades homework's because everyone uses AI",
+      "summary": "Caltech professor no longer grades homework's because everyone uses AI",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ductus.sorenblank.com",
-      "published_at": "2026-11-15T19:42:13+00:00",
+      "url": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
+      "published_at": "2026-11-16T20:47:53+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:50523022",
+      "summary_type": "extractive",
+      "title_zh": "Caltech professor no longer grades homework's because everyone uses AI",
+      "summary_zh": "Caltech professor no longer grades homework's because everyone uses AI"
+    },
+    {
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "summary": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "published_at": "2026-11-16T20:43:36+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "9",
+      "item_id": "hn:50522980",
+      "summary_type": "extractive",
+      "title_zh": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "summary_zh": "Carnegie Mellon is putting computer science courses on YouTube for free"
+    },
+    {
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "summary": "Hi HN! We’re Arsh and Max, founders of Axonnic (https:&#x2F;&#x2F;axonnic.com). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare.",
+      "full_text": "Hi HN! We’re Arsh and Max, founders of Axonnic (https:&#x2F;&#x2F;axonnic.com). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots.Here’s a demo video: https:&#x2F;&#x2F;youtube.com&#x2F;shorts&#x2F;xBrocTc9cfAWe’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video o",
+      "source": "hacker news",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "published_at": "2026-11-16T20:29:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "21",
+      "item_id": "hn:50522776",
+      "summary_type": "extractive",
+      "title_zh": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "summary_zh": "Hi HN! We’re Arsh and Max, founders of Axonnic (https:&#x2F;&#x2F;axonnic.com). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare."
+    },
+    {
+      "title": "Chemistry Is Geometry",
+      "summary": "Chemistry Is Geometry",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "published_at": "2026-11-16T20:22:18+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "10",
+      "item_id": "hn:50522643",
+      "summary_type": "extractive",
+      "title_zh": "Chemistry Is Geometry",
+      "summary_zh": "Chemistry Is Geometry"
+    },
+    {
+      "title": "Rust changed me as a developer",
+      "summary": "Rust changed me as a developer",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "published_at": "2026-11-16T20:16:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "59",
+      "item_id": "hn:50522563",
+      "summary_type": "extractive",
+      "title_zh": "Rust changed me as a developer",
+      "summary_zh": "Rust changed me as a developer"
+    },
+    {
+      "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+      "summary": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+      "published_at": "2026-11-16T19:29:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "33",
+      "item_id": "hn:50521870",
+      "summary_type": "extractive",
+      "title_zh": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+      "summary_zh": "How to Intercept HTTP/3 Traffic: QUIC and Qpack"
+    },
+    {
+      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+      "summary": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "published_at": "2026-11-16T18:31:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "574",
+      "item_id": "hn:50521045",
+      "summary_type": "extractive",
+      "title_zh": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+      "summary_zh": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle"
+    },
+    {
+      "title": "Software is breaking down at a systemic level",
+      "summary": "Software is breaking down at a systemic level",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+      "published_at": "2026-11-16T18:17:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "281",
+      "item_id": "hn:50520866",
+      "summary_type": "extractive",
+      "title_zh": "Software is breaking down at a systemic level",
+      "summary_zh": "Software is breaking down at a systemic level"
+    },
+    {
+      "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+      "summary": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
+      "published_at": "2026-11-16T17:52:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "59",
+      "item_id": "hn:50520518",
+      "summary_type": "extractive",
+      "title_zh": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+      "summary_zh": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself"
+    },
+    {
+      "title": "Aristotle Expands into Rust",
+      "summary": "Aristotle Expands into Rust",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+      "published_at": "2026-11-16T17:34:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "78",
+      "item_id": "hn:50520270",
+      "summary_type": "extractive",
+      "title_zh": "Aristotle Expands into Rust",
+      "summary_zh": "Aristotle Expands into Rust"
+    },
+    {
+      "title": "Grazing sheep in fields with solar arrays",
+      "summary": "Grazing sheep in fields with solar arrays",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "published_at": "2026-11-16T17:27:46+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "165",
+      "item_id": "hn:50520182",
+      "summary_type": "extractive",
+      "title_zh": "Grazing sheep in fields with solar arrays",
+      "summary_zh": "Grazing sheep in fields with solar arrays"
+    },
+    {
+      "title": "Jolt – Clojure that speaks C",
+      "summary": "Jolt – Clojure that speaks C",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://jolt-lang.net/",
+      "published_at": "2026-11-16T16:23:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "68",
+      "item_id": "hn:50519345",
+      "summary_type": "extractive",
+      "title_zh": "Jolt – Clojure that speaks C",
+      "summary_zh": "Jolt – Clojure that speaks C"
+    },
+    {
+      "title": "Nvidia was in trouble before the Jensen Huang mess",
+      "summary": "Nvidia was in trouble before the Jensen Huang mess",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "published_at": "2026-11-16T15:24:09+00:00",
       "tags": [
         "ai"
       ],
       "score": "209",
-      "item_id": "hn:50509972",
+      "item_id": "hn:50518567",
       "summary_type": "extractive",
-      "title_zh": "Handwriting, as a Font",
-      "summary_zh": "Handwriting, as a Font"
+      "title_zh": "Nvidia was in trouble before the Jensen Huang mess",
+      "summary_zh": "Nvidia was in trouble before the Jensen Huang mess"
     },
     {
-      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-      "summary": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "title": "A 512 KiB binary message teaching chess without a shared language",
+      "summary": "A 512 KiB binary message teaching chess without a shared language",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://bruceroettgers.eu/blog/protomaps/",
-      "published_at": "2026-11-15T19:26:22+00:00",
+      "url": "https://artemlegotin.com/golden-board/",
+      "published_at": "2026-11-16T14:38:54+00:00",
       "tags": [
         "ai"
       ],
-      "score": "259",
-      "item_id": "hn:50509837",
+      "score": "42",
+      "item_id": "hn:50518068",
       "summary_type": "extractive",
-      "title_zh": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-      "summary_zh": "Protomaps: Self-hosting map tiles has gotten cheap and easy"
+      "title_zh": "A 512 KiB binary message teaching chess without a shared language",
+      "summary_zh": "A 512 KiB binary message teaching chess without a shared language"
     },
     {
-      "title": "Eclipse Mosquitto – An open source MQTT broker",
-      "summary": "Eclipse Mosquitto – An open source MQTT broker",
+      "title": "The Active Directory Era Is Finally Over",
+      "summary": "The Active Directory Era Is Finally Over",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/eclipse-mosquitto/mosquitto",
-      "published_at": "2026-11-15T18:36:40+00:00",
+      "url": "https://infisical.com/blog/active-directory-machine-identity",
+      "published_at": "2026-11-16T14:15:31+00:00",
       "tags": [
         "ai"
       ],
-      "score": "83",
-      "item_id": "hn:50509416",
+      "score": "106",
+      "item_id": "hn:50517815",
       "summary_type": "extractive",
-      "title_zh": "Eclipse Mosquitto – An open source MQTT broker",
-      "summary_zh": "Eclipse Mosquitto – An open source MQTT broker"
+      "title_zh": "The Active Directory Era Is Finally Over",
+      "summary_zh": "The Active Directory Era Is Finally Over"
     },
     {
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "summary": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "summary": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-      "published_at": "2026-11-15T18:36:10+00:00",
+      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "published_at": "2026-11-16T13:39:07+00:00",
       "tags": [
         "ai"
       ],
-      "score": "473",
-      "item_id": "hn:50509411",
+      "score": "742",
+      "item_id": "hn:50517488",
       "summary_type": "extractive",
-      "title_zh": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "summary_zh": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests"
+      "title_zh": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "summary_zh": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings"
     },
     {
-      "title": "Crows make decisions faster than we can",
-      "summary": "Crows make decisions faster than we can",
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "summary": "Microsoft blames monster email outage on software defect introduced in July fix",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "published_at": "2026-11-15T17:53:31+00:00",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "published_at": "2026-11-16T13:18:22+00:00",
       "tags": [
         "ai"
       ],
-      "score": "205",
-      "item_id": "hn:50509023",
+      "score": "131",
+      "item_id": "hn:50517321",
       "summary_type": "extractive",
-      "title_zh": "Crows make decisions faster than we can",
-      "summary_zh": "Crows make decisions faster than we can"
+      "title_zh": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "summary_zh": "Microsoft blames monster email outage on software defect introduced in July fix"
     },
     {
-      "title": "Clice v1.0 Released: Welcome to Modern C++",
-      "summary": "Clice v1.0 Released: Welcome to Modern C++",
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "summary": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ykiko.me/en/articles/2105384023094834022/",
-      "published_at": "2026-11-15T17:22:32+00:00",
+      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "published_at": "2026-11-16T11:39:31+00:00",
       "tags": [
         "ai"
       ],
-      "score": "124",
-      "item_id": "hn:50508715",
+      "score": "278",
+      "item_id": "hn:50516473",
       "summary_type": "extractive",
-      "title_zh": "Clice v1.0 Released: Welcome to Modern C++",
-      "summary_zh": "Clice v1.0 Released: Welcome to Modern C++"
+      "title_zh": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "summary_zh": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)"
     },
     {
-      "title": "Emacs Is My Browser",
-      "summary": "Emacs Is My Browser",
+      "title": "Coffeehouses and the Rise of Science [pdf]",
+      "summary": "Coffeehouses and the Rise of Science [pdf]",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "published_at": "2026-11-15T15:21:21+00:00",
+      "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+      "published_at": "2026-11-16T11:03:16+00:00",
       "tags": [
         "ai"
       ],
-      "score": "195",
-      "item_id": "hn:50507553",
+      "score": "171",
+      "item_id": "hn:50516245",
       "summary_type": "extractive",
-      "title_zh": "Emacs Is My Browser",
-      "summary_zh": "Emacs Is My Browser"
+      "title_zh": "Coffeehouses and the Rise of Science [pdf]",
+      "summary_zh": "Coffeehouses and the Rise of Science [pdf]"
     },
     {
-      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "summary": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "title": "Squircles",
+      "summary": "Squircles",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://prog21.dadgum.com/116.html",
-      "published_at": "2026-11-15T13:44:16+00:00",
+      "url": "https://linebender.org/wiki/curves/squircle/",
+      "published_at": "2026-11-16T07:55:10+00:00",
       "tags": [
         "ai"
       ],
-      "score": "219",
-      "item_id": "hn:50506894",
+      "score": "64",
+      "item_id": "hn:50515151",
       "summary_type": "extractive",
-      "title_zh": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "summary_zh": "Things That Turbo Pascal Is Smaller Than (2011)"
+      "title_zh": "Squircles",
+      "summary_zh": "Squircles"
     },
     {
-      "title": "The MacBook Pro's OLED PWM problem",
-      "summary": "The MacBook Pro's OLED PWM problem",
+      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "summary": "Interpreting claims that a theorem is correct because it was checked in Lean",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "published_at": "2026-11-15T13:15:22+00:00",
+      "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+      "published_at": "2026-11-16T07:38:19+00:00",
       "tags": [
         "ai"
       ],
-      "score": "451",
-      "item_id": "hn:50506719",
+      "score": "277",
+      "item_id": "hn:50515058",
       "summary_type": "extractive",
-      "title_zh": "The MacBook Pro's OLED PWM problem",
-      "summary_zh": "The MacBook Pro's OLED PWM problem"
+      "title_zh": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "summary_zh": "Interpreting claims that a theorem is correct because it was checked in Lean"
     },
     {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "summary": "https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233",
-      "full_text": "https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233",
-      "source": "hacker news",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "published_at": "2026-11-14T21:22:24+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.6k",
-      "item_id": "hn:50500963",
-      "summary_type": "extractive",
-      "title_zh": "SpaceX catches the Starship to end Flight 15",
-      "summary_zh": "https:&#x2F;&#x2F;x.com&#x2F;SpaceX&#x2F;status&#x2F;2121316300702056595https:&#x2F;&#x2F;youtu.be&#x2F;jHlpfNSpBmw?t=3233"
-    },
-    {
-      "title": "1900s How do you Wash a Kimono?",
-      "summary": "1900s How do you Wash a Kimono?",
+      "title": "How to make almost anything",
+      "summary": "How to make almost anything",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints",
-      "published_at": "2026-11-13T22:03:41+00:00",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "published_at": "2026-11-16T05:50:37+00:00",
       "tags": [
         "ai"
       ],
-      "score": "41",
-      "item_id": "hn:50490583",
+      "score": "806",
+      "item_id": "hn:50514470",
       "summary_type": "extractive",
-      "title_zh": "1900s How do you Wash a Kimono?",
-      "summary_zh": "1900s How do you Wash a Kimono?"
+      "title_zh": "How to make almost anything",
+      "summary_zh": "How to make almost anything"
+    },
+    {
+      "title": "Smallest possible nopert polyhedra: the Septopert",
+      "summary": "Smallest possible nopert polyhedra: the Septopert",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/tom7/noperts/blob/main/septopert.md",
+      "published_at": "2026-11-14T15:22:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "50",
+      "item_id": "hn:50497746",
+      "summary_type": "extractive",
+      "title_zh": "Smallest possible nopert polyhedra: the Septopert",
+      "summary_zh": "Smallest possible nopert polyhedra: the Septopert"
+    },
+    {
+      "title": "OOS – an open operating system for the Rigol Scopes",
+      "summary": "OOS – an open operating system for the Rigol Scopes",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
+      "published_at": "2026-11-13T21:36:59+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "121",
+      "item_id": "hn:50490159",
+      "summary_type": "extractive",
+      "title_zh": "OOS – an open operating system for the Rigol Scopes",
+      "summary_zh": "OOS – an open operating system for the Rigol Scopes"
     },
     {
       "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
@@ -447,9 +543,9 @@
       "url": "http://arxiv.org/abs/2611.18514v1",
       "published_at": "2026-11-13T18:30:58Z",
       "tags": [
+        "llm",
         "paper",
         "tool",
-        "llm",
         "agent"
       ],
       "score": "📄",
@@ -466,9 +562,9 @@
       "url": "http://arxiv.org/abs/2611.18513v1",
       "published_at": "2026-11-13T18:29:51Z",
       "tags": [
+        "llm",
         "paper",
-        "tool",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.18513v1",
@@ -501,9 +597,9 @@
       "url": "http://arxiv.org/abs/2611.18494v1",
       "published_at": "2026-11-13T18:05:33Z",
       "tags": [
+        "llm",
         "paper",
         "tool",
-        "llm",
         "agent"
       ],
       "score": "📄",
@@ -572,9 +668,9 @@
       "url": "http://arxiv.org/abs/2611.18471v1",
       "published_at": "2026-11-13T17:44:01Z",
       "tags": [
+        "llm",
         "paper",
         "tool",
-        "llm",
         "agent"
       ],
       "score": "📄",
@@ -582,22 +678,6 @@
       "summary_type": "extractive",
       "title_zh": "Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation",
       "summary_zh": "LLM-based verifiers are increasingly used to evaluate agent executions, but their reliability is typically measured under a single representation of the trajectory. In deployed agent systems, the same execution may be exposed through composed tools, delegation boundaries, or compacted histories, changing what execution evidence is directly observable to the verifier. It therefore remains unclear whether correct verifier judgments persist across such abstraction boundaries."
-    },
-    {
-      "title": "A quest to create the perfect whiskey glass",
-      "summary": "A quest to create the perfect whiskey glass",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-      "published_at": "2026-11-13T17:37:32+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "59",
-      "item_id": "hn:50486880",
-      "summary_type": "extractive",
-      "title_zh": "A quest to create the perfect whiskey glass",
-      "summary_zh": "A quest to create the perfect whiskey glass"
     },
     {
       "title": "Typing Matters: Muscle, Language and Typing Behaviour in Live Keystroke Decoding from sEMG",
@@ -692,9 +772,9 @@
       "url": "http://arxiv.org/abs/2611.18419v1",
       "published_at": "2026-11-13T16:59:46Z",
       "tags": [
+        "llm",
         "paper",
-        "tool",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.18419v1",
@@ -710,9 +790,9 @@
       "url": "http://arxiv.org/abs/2611.18417v1",
       "published_at": "2026-11-13T16:58:35Z",
       "tags": [
+        "llm",
         "paper",
-        "tool",
-        "llm"
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.18417v1",
@@ -721,117 +801,36 @@
       "summary_zh": "Multimodal continual instruction tuning requires multimodal large language models to sequentially acquire new capabilities without catastrophic forgetting. Mixture-of-experts (MoE) architectures offer a promising way to mitigate task interference through expert specialization and combination. However, while existing MoE-based methods avoid overwriting shared parameters by allocating separate experts for each task, this progressive expansion incurs severe cross-task redundancy and linear paramete"
     },
     {
-      "title": "Artificial Intelligence for the Z80",
-      "summary": "Artificial Intelligence for the Z80",
+      "title": "The origins of the placenta",
+      "summary": "The origins of the placenta",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.dfsantos.com/en/libro-ia-z80",
-      "published_at": "2026-11-13T15:50:43+00:00",
+      "url": "https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta",
+      "published_at": "2026-11-13T15:53:09+00:00",
       "tags": [
         "ai"
       ],
-      "score": "18",
-      "item_id": "hn:50485275",
+      "score": "15",
+      "item_id": "hn:50485327",
       "summary_type": "extractive",
-      "title_zh": "Artificial Intelligence for the Z80",
-      "summary_zh": "Artificial Intelligence for the Z80"
+      "title_zh": "The origins of the placenta",
+      "summary_zh": "The origins of the placenta"
     },
     {
-      "title": "Do we still have to denormalize? Have your schema and search it too",
-      "summary": "Do we still have to denormalize? Have your schema and search it too",
+      "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
+      "summary": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.paradedb.com/blog/joins",
-      "published_at": "2026-11-13T15:31:50+00:00",
+      "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
+      "published_at": "2026-11-10T18:03:14+00:00",
       "tags": [
         "ai"
       ],
-      "score": "47",
-      "item_id": "hn:50484998",
+      "score": "27",
+      "item_id": "hn:50443844",
       "summary_type": "extractive",
-      "title_zh": "Do we still have to denormalize? Have your schema and search it too",
-      "summary_zh": "Do we still have to denormalize? Have your schema and search it too"
-    },
-    {
-      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
-      "summary": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
-      "published_at": "2026-11-13T06:58:41+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "29",
-      "item_id": "hn:50479405",
-      "summary_type": "extractive",
-      "title_zh": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
-      "summary_zh": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation"
-    },
-    {
-      "title": "What happens if you write a TCP stack in Python? (2014)",
-      "summary": "What happens if you write a TCP stack in Python? (2014)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/",
-      "published_at": "2026-11-12T15:47:33+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "11",
-      "item_id": "hn:50469342",
-      "summary_type": "extractive",
-      "title_zh": "What happens if you write a TCP stack in Python? (2014)",
-      "summary_zh": "What happens if you write a TCP stack in Python? (2014)"
-    },
-    {
-      "title": "Simple 8085 Computer",
-      "summary": "Simple 8085 Computer",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.hackster.io/mit41301/simple-8085-computer-9fe156",
-      "published_at": "2026-11-12T14:18:04+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "13",
-      "item_id": "hn:50467599",
-      "summary_type": "extractive",
-      "title_zh": "Simple 8085 Computer",
-      "summary_zh": "Simple 8085 Computer"
-    },
-    {
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "summary": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "published_at": "2026-11-12T05:29:24+00:00",
-      "tags": [
-        "vision",
-        "llm"
-      ],
-      "score": "394",
-      "item_id": "hn:50463399",
-      "summary_type": "extractive",
-      "title_zh": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "summary_zh": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]"
-    },
-    {
-      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
-      "summary": "Notes on Mathematics for Engineers (1959) [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
-      "published_at": "2026-11-11T12:25:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "89",
-      "item_id": "hn:50452621",
-      "summary_type": "extractive",
-      "title_zh": "Notes on Mathematics for Engineers (1959) [pdf]",
-      "summary_zh": "Notes on Mathematics for Engineers (1959) [pdf]"
+      "title_zh": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
+      "summary_zh": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future"
     }
   ]
 }

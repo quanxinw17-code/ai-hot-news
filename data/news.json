@@ -1,7 +1,120 @@
 {
-  "updated_at": "2026-11-16T21:54:17.842779+00:00",
+  "updated_at": "2026-11-17T07:40:40.620034+00:00",
   "count": 50,
   "items": [
+    {
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "summary": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://support.apple.com/en-us/149699",
+      "published_at": "2026-11-17T02:17:04+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "96",
+      "item_id": "hn:50526560",
+      "summary_type": "extractive",
+      "title_zh": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "summary_zh": "If an App Asks for Full Disk Access or System and App Protection Override"
+    },
+    {
+      "title": "Mem Is Shutting Down",
+      "summary": "Mem Is Shutting Down",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+      "published_at": "2026-11-17T02:13:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "48",
+      "item_id": "hn:50526537",
+      "summary_type": "extractive",
+      "title_zh": "Mem Is Shutting Down",
+      "summary_zh": "Mem Is Shutting Down"
+    },
+    {
+      "title": "Why 3dfx 1 cards had such a washed out color output?",
+      "summary": "Why 3dfx 1 cards had such a washed out color output?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+      "published_at": "2026-11-17T00:16:24+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "91",
+      "item_id": "hn:50525575",
+      "summary_type": "extractive",
+      "title_zh": "Why 3dfx 1 cards had such a washed out color output?",
+      "summary_zh": "Why 3dfx 1 cards had such a washed out color output?"
+    },
+    {
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "summary": "Optimizely compromised, served malware on Zoom, GitLab",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "published_at": "2026-11-16T23:00:34+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "279",
+      "item_id": "hn:50524767",
+      "summary_type": "extractive",
+      "title_zh": "Optimizely compromised, served malware on Zoom, GitLab",
+      "summary_zh": "Optimizely compromised, served malware on Zoom, GitLab"
+    },
+    {
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "summary": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "published_at": "2026-11-16T22:58:20+00:00",
+      "tags": [
+        "tool",
+        "agent"
+      ],
+      "score": "517",
+      "item_id": "hn:50524736",
+      "summary_type": "extractive",
+      "title_zh": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "summary_zh": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use"
+    },
+    {
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "summary": "How to Break into Security, Ptacek Edition (2012)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "published_at": "2026-11-16T22:19:23+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "101",
+      "item_id": "hn:50524225",
+      "summary_type": "extractive",
+      "title_zh": "How to Break into Security, Ptacek Edition (2012)",
+      "summary_zh": "How to Break into Security, Ptacek Edition (2012)"
+    },
+    {
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "summary": "https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50524260",
+      "full_text": "https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50524260",
+      "source": "hacker news",
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "published_at": "2026-11-16T22:14:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "234",
+      "item_id": "hn:50524165",
+      "summary_type": "extractive",
+      "title_zh": "United Airlines experiencing a widespread system outage, airline says",
+      "summary_zh": "https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50524260"
+    },
     {
       "title": "Spamhaus new email sender requirements in November",
       "summary": "Spamhaus new email sender requirements in November",
@@ -12,15 +125,15 @@
       "tags": [
         "ai"
       ],
-      "score": "3",
+      "score": "96",
       "item_id": "hn:50523784",
       "summary_type": "extractive",
       "title_zh": "Spamhaus new email sender requirements in November",
       "summary_zh": "Spamhaus new email sender requirements in November"
     },
     {
-      "title": "BugMeNot Has Closed",
-      "summary": "BugMeNot Has Closed",
+      "title": "BugMeNot has closed",
+      "summary": "BugMeNot has closed",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.bugmenot.com/",
@@ -28,11 +141,27 @@
       "tags": [
         "ai"
       ],
-      "score": "51",
+      "score": "482",
       "item_id": "hn:50523601",
       "summary_type": "extractive",
-      "title_zh": "BugMeNot Has Closed",
-      "summary_zh": "BugMeNot Has Closed"
+      "title_zh": "BugMeNot has closed",
+      "summary_zh": "BugMeNot has closed"
+    },
+    {
+      "title": "OpenCode Browse",
+      "summary": "OpenCode Browse",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://opencode.ai/product/browse",
+      "published_at": "2026-11-16T21:20:37+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "219",
+      "item_id": "hn:50523459",
+      "summary_type": "extractive",
+      "title_zh": "OpenCode Browse",
+      "summary_zh": "OpenCode Browse"
     },
     {
       "title": "My Quest to push native Three.js quality match AAA Game Engines",
@@ -44,7 +173,7 @@
       "tags": [
         "ai"
       ],
-      "score": "31",
+      "score": "133",
       "item_id": "hn:50523291",
       "summary_type": "extractive",
       "title_zh": "My Quest to push native Three.js quality match AAA Game Engines",
@@ -60,27 +189,11 @@
       "tags": [
         "ai"
       ],
-      "score": "32",
+      "score": "124",
       "item_id": "hn:50523025",
       "summary_type": "extractive",
       "title_zh": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
       "summary_zh": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case"
-    },
-    {
-      "title": "Caltech professor no longer grades homework's because everyone uses AI",
-      "summary": "Caltech professor no longer grades homework's because everyone uses AI",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
-      "published_at": "2026-11-16T20:47:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "33",
-      "item_id": "hn:50523022",
-      "summary_type": "extractive",
-      "title_zh": "Caltech professor no longer grades homework's because everyone uses AI",
-      "summary_zh": "Caltech professor no longer grades homework's because everyone uses AI"
     },
     {
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
@@ -92,7 +205,7 @@
       "tags": [
         "ai"
       ],
-      "score": "9",
+      "score": "🔥 1.2k",
       "item_id": "hn:50522980",
       "summary_type": "extractive",
       "title_zh": "Carnegie Mellon is putting computer science courses on YouTube for free",
@@ -108,15 +221,15 @@
       "tags": [
         "ai"
       ],
-      "score": "21",
+      "score": "40",
       "item_id": "hn:50522776",
       "summary_type": "extractive",
       "title_zh": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
       "summary_zh": "Hi HN! We’re Arsh and Max, founders of Axonnic (https:&#x2F;&#x2F;axonnic.com). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare."
     },
     {
-      "title": "Chemistry Is Geometry",
-      "summary": "Chemistry Is Geometry",
+      "title": "Chemistry is Actually Geometry",
+      "summary": "Chemistry is Actually Geometry",
       "full_text": "",
       "source": "hacker news",
       "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
@@ -124,11 +237,11 @@
       "tags": [
         "ai"
       ],
-      "score": "10",
+      "score": "201",
       "item_id": "hn:50522643",
       "summary_type": "extractive",
-      "title_zh": "Chemistry Is Geometry",
-      "summary_zh": "Chemistry Is Geometry"
+      "title_zh": "Chemistry is Actually Geometry",
+      "summary_zh": "Chemistry is Actually Geometry"
     },
     {
       "title": "Rust changed me as a developer",
@@ -140,75 +253,361 @@
       "tags": [
         "ai"
       ],
-      "score": "59",
+      "score": "252",
       "item_id": "hn:50522563",
       "summary_type": "extractive",
       "title_zh": "Rust changed me as a developer",
       "summary_zh": "Rust changed me as a developer"
     },
     {
-      "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
-      "summary": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+      "title": "Latent Lattice Language Models",
+      "summary": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains. We introduce the Lattice of Latents, a set of per-layer horizontal latent streams that run recurrently along time, alongside the vertical residual stream that flows through depth.",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
-      "published_at": "2026-11-16T19:29:17+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21608v1",
+      "published_at": "2026-11-16T18:59:38Z",
       "tags": [
-        "ai"
+        "llm",
+        "paper"
       ],
-      "score": "33",
-      "item_id": "hn:50521870",
+      "score": "📄",
+      "item_id": "arxiv:2611.21608v1",
       "summary_type": "extractive",
-      "title_zh": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
-      "summary_zh": "How to Intercept HTTP/3 Traffic: QUIC and Qpack"
+      "title_zh": "Latent Lattice Language Models",
+      "summary_zh": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains. We introduce the Lattice of Latents, a set of per-layer horizontal latent streams that run recurrently along time, alongside the vertical residual stream that flows through depth."
     },
     {
-      "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
-      "summary": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+      "summary": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward as reading.",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-      "published_at": "2026-11-16T18:31:30+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21605v1",
+      "published_at": "2026-11-16T18:59:04Z",
       "tags": [
-        "ai"
+        "vision",
+        "paper",
+        "agent"
       ],
-      "score": "574",
-      "item_id": "hn:50521045",
+      "score": "📄",
+      "item_id": "arxiv:2611.21605v1",
       "summary_type": "extractive",
-      "title_zh": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
-      "summary_zh": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle"
+      "title_zh": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+      "summary_zh": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward as reading."
     },
     {
-      "title": "Software is breaking down at a systemic level",
-      "summary": "Software is breaking down at a systemic level",
+      "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
+      "summary": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search can provide a reusable memory when combined with environment detection and failure-driven search. The Evolutionary Neuroplastic Agent (ENA) evolves small neural networks without gradients, archives selected policies by detected dynamic regime, and retrieves them through Bayesian pol",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
-      "published_at": "2026-11-16T18:17:17+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21598v1",
+      "published_at": "2026-11-16T18:58:20Z",
       "tags": [
-        "ai"
+        "tool",
+        "paper",
+        "agent"
       ],
-      "score": "281",
-      "item_id": "hn:50520866",
+      "score": "📄",
+      "item_id": "arxiv:2611.21598v1",
       "summary_type": "extractive",
-      "title_zh": "Software is breaking down at a systemic level",
-      "summary_zh": "Software is breaking down at a systemic level"
+      "title_zh": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
+      "summary_zh": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search can provide a reusable memory when combined with environment detection and failure-driven search. The Evolutionary Neuroplastic Agent (ENA) evolves small neural networks without gradients, archives selected policies by detected dynamic regime, and retrieves them through Bayesian pol"
     },
     {
-      "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
-      "summary": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+      "title": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
+      "summary": "Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions. LLMs can propose detailed exercises, but plausible descriptions do not guarantee deployable software or verifiable objectives. We present ScenarioForge, which turns high-level requirements into resource-grounded topologies, services, traffic, segmentation, and challenge chains, then instantiates and va",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
-      "published_at": "2026-11-16T17:52:23+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21579v1",
+      "published_at": "2026-11-16T18:49:56Z",
       "tags": [
-        "ai"
+        "llm",
+        "tool",
+        "vision",
+        "paper"
       ],
-      "score": "59",
-      "item_id": "hn:50520518",
+      "score": "📄",
+      "item_id": "arxiv:2611.21579v1",
       "summary_type": "extractive",
-      "title_zh": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
-      "summary_zh": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself"
+      "title_zh": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
+      "summary_zh": "Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions. LLMs can propose detailed exercises, but plausible descriptions do not guarantee deployable software or verifiable objectives. We present ScenarioForge, which turns high-level requirements into resource-grounded topologies, services, traffic, segmentation, and challenge chains, then instantiates and va"
+    },
+    {
+      "title": "When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents",
+      "summary": "Large language model (LLM) applications increasingly act as agents that select and invoke external tools. The Model Context Protocol (MCP) standardizes this interaction by allowing clients to compose tools advertised by multiple servers. However, tool metadata used for discovery and selection is not, by itself, necessarily bound to a verified provider identity.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21577v1",
+      "published_at": "2026-11-16T18:49:37Z",
+      "tags": [
+        "llm",
+        "tool",
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21577v1",
+      "summary_type": "extractive",
+      "title_zh": "When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents",
+      "summary_zh": "Large language model (LLM) applications increasingly act as agents that select and invoke external tools. The Model Context Protocol (MCP) standardizes this interaction by allowing clients to compose tools advertised by multiple servers. However, tool metadata used for discovery and selection is not, by itself, necessarily bound to a verified provider identity."
+    },
+    {
+      "title": "Severe but Harmless: Stress-Testing Shift Severity for Frozen Time-Series Forecasters",
+      "summary": "Zero-shot time-series foundation models (TSFMs) have become attractive alternatives to task-specific models because they handle diverse downstream tasks, including anomaly detection and forecasting, without per-series training. However, time-series data undergo distribution shifts, and the dissimilarity between two regimes is commonly scored with statistical measures such as Wasserstein-1, where a higher score is read as a more severe shift. In systematic experiments using three established seve",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21562v1",
+      "published_at": "2026-11-16T18:40:35Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21562v1",
+      "summary_type": "extractive",
+      "title_zh": "Severe but Harmless: Stress-Testing Shift Severity for Frozen Time-Series Forecasters",
+      "summary_zh": "Zero-shot time-series foundation models (TSFMs) have become attractive alternatives to task-specific models because they handle diverse downstream tasks, including anomaly detection and forecasting, without per-series training. However, time-series data undergo distribution shifts, and the dissimilarity between two regimes is commonly scored with statistical measures such as Wasserstein-1, where a higher score is read as a more severe shift. In systematic experiments using three established seve"
+    },
+    {
+      "title": "TRACE: Topological Representations for Anomaly detection through Contrastive Embeddings",
+      "summary": "Intrusion detectors must recognize evolving malicious behavior even when confirmed attack labels are scarce or incomplete. We present TRACE, a topology-aware graph contrastive learning framework for label-efficient intrusion detection. TRACE learns from benign system-activity graphs by combining message-passing and topological representations, then assigns anomaly scores in the same projected embedding space optimized by the contrastive objective.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21548v1",
+      "published_at": "2026-11-16T18:31:11Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21548v1",
+      "summary_type": "extractive",
+      "title_zh": "TRACE: Topological Representations for Anomaly detection through Contrastive Embeddings",
+      "summary_zh": "Intrusion detectors must recognize evolving malicious behavior even when confirmed attack labels are scarce or incomplete. We present TRACE, a topology-aware graph contrastive learning framework for label-efficient intrusion detection. TRACE learns from benign system-activity graphs by combining message-passing and topological representations, then assigns anomaly scores in the same projected embedding space optimized by the contrastive objective."
+    },
+    {
+      "title": "Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests",
+      "summary": "Language models increasingly write the explanations people receive when a rule system denies their request. If several rules deny the request independently, an explanation can name a true reason and still leave the person denied after they fix it. We call the missing property recourse validity: changing what the explanation cites, without changing what was asked for, can flip the decision.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21545v1",
+      "published_at": "2026-11-16T18:30:11Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21545v1",
+      "summary_type": "extractive",
+      "title_zh": "Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests",
+      "summary_zh": "Language models increasingly write the explanations people receive when a rule system denies their request. If several rules deny the request independently, an explanation can name a true reason and still leave the person denied after they fix it. We call the missing property recourse validity: changing what the explanation cites, without changing what was asked for, can flip the decision."
+    },
+    {
+      "title": "SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents",
+      "summary": "We introduce SciResearch-Eval, an interactive benchmark of scientific judgment built on a standard laboratory problem: measuring a material's thermal properties by heating it and fitting a heat-conduction simulator. An agent designs its own experiments, uses a supplied simulator that may be under-resolved or physically wrong, and reports each property with a 95% interval. To our knowledge it is the first benchmark to combine agent-designed experiments, a deliberately flawed simulator, and proper",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21541v1",
+      "published_at": "2026-11-16T18:27:09Z",
+      "tags": [
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21541v1",
+      "summary_type": "extractive",
+      "title_zh": "SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents",
+      "summary_zh": "We introduce SciResearch-Eval, an interactive benchmark of scientific judgment built on a standard laboratory problem: measuring a material's thermal properties by heating it and fitting a heat-conduction simulator. An agent designs its own experiments, uses a supplied simulator that may be under-resolved or physically wrong, and reports each property with a 95% interval. To our knowledge it is the first benchmark to combine agent-designed experiments, a deliberately flawed simulator, and proper"
+    },
+    {
+      "title": "Optimistic Verifiers Get Hacked: Reward Hacking Under an Exact Process Oracle",
+      "summary": "Reinforcement learning from verifiable rewards inherits whatever its verifier gets wrong. Outside mathematics and code the verifier is a proxy, a rubric, a learned judge or a hand-written checker, and its distance from the true objective is never measured, so a rising reward cannot be told apart from a hack. We build a setting where the true reward is exactly computable at the process level: executable authorization policies over 124,416 contexts admit an oracle that lists every minimal sufficie",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21538v1",
+      "published_at": "2026-11-16T18:25:42Z",
+      "tags": [
+        "ai",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21538v1",
+      "summary_type": "extractive",
+      "title_zh": "Optimistic Verifiers Get Hacked: Reward Hacking Under an Exact Process Oracle",
+      "summary_zh": "Reinforcement learning from verifiable rewards inherits whatever its verifier gets wrong. Outside mathematics and code the verifier is a proxy, a rubric, a learned judge or a hand-written checker, and its distance from the true objective is never measured, so a rising reward cannot be told apart from a hack. We build a setting where the true reward is exactly computable at the process level: executable authorization policies over 124,416 contexts admit an oracle that lists every minimal sufficie"
+    },
+    {
+      "title": "Procedure without Judgment: What Small Language Models Learn under an Exact Verifier",
+      "summary": "When an authorization policy blocks an agent's tool call, the audit log should name the facts that forced the decision and nothing more. For an executable policy over an enumerable context space this minimal sufficient reason can be computed exactly, so an explanation is scored against ground truth rather than a proxy for it. We use that exactness to ask what a model can learn from a verifier that has no error in it.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21529v1",
+      "published_at": "2026-11-16T18:20:09Z",
+      "tags": [
+        "llm",
+        "tool",
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21529v1",
+      "summary_type": "extractive",
+      "title_zh": "Procedure without Judgment: What Small Language Models Learn under an Exact Verifier",
+      "summary_zh": "When an authorization policy blocks an agent's tool call, the audit log should name the facts that forced the decision and nothing more. For an executable policy over an enumerable context space this minimal sufficient reason can be computed exactly, so an explanation is scored against ground truth rather than a proxy for it. We use that exactness to ask what a model can learn from a verifier that has no error in it."
+    },
+    {
+      "title": "Algorithm Distillation for Safe In-Context Reinforcement Learning",
+      "summary": "Safe in-context reinforcement learning (Safe ICRL) asks a policy with fixed parameters to improve on an unseen constrained task from its interaction history while aiming to keep its cost within a budget. Prior work studied Safe ICRL on five benchmarks in three families: a grid world with a hidden goal and obstacles (DarkRoom), continuous navigation where goals and hazards stay invisible until reached (PointGoal, CarGoal), and locomotion with a hidden velocity limit (HalfCheetah, Ant). Safe Algor",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21524v1",
+      "published_at": "2026-11-16T18:16:28Z",
+      "tags": [
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21524v1",
+      "summary_type": "extractive",
+      "title_zh": "Algorithm Distillation for Safe In-Context Reinforcement Learning",
+      "summary_zh": "Safe in-context reinforcement learning (Safe ICRL) asks a policy with fixed parameters to improve on an unseen constrained task from its interaction history while aiming to keep its cost within a budget. Prior work studied Safe ICRL on five benchmarks in three families: a grid world with a hidden goal and obstacles (DarkRoom), continuous navigation where goals and hazards stay invisible until reached (PointGoal, CarGoal), and locomotion with a hidden velocity limit (HalfCheetah, Ant). Safe Algor"
+    },
+    {
+      "title": "Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety",
+      "summary": "When AI agents relay information to one another, an output can preserve an injected instruction's effect on downstream agents even after its wording changes, yet legitimate quotation and template reuse can produce high textual overlap with the source, so text-similarity guardrails that attempt to flag the former risk conflating these two cases. We test this distinction using DonkeyRail, a public classifier combining BLEU, ROUGE-L, and METEOR features, deployed in a controlled three-agent email r",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21520v1",
+      "published_at": "2026-11-16T18:13:01Z",
+      "tags": [
+        "tool",
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21520v1",
+      "summary_type": "extractive",
+      "title_zh": "Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety",
+      "summary_zh": "When AI agents relay information to one another, an output can preserve an injected instruction's effect on downstream agents even after its wording changes, yet legitimate quotation and template reuse can produce high textual overlap with the source, so text-similarity guardrails that attempt to flag the former risk conflating these two cases. We test this distinction using DonkeyRail, a public classifier combining BLEU, ROUGE-L, and METEOR features, deployed in a controlled three-agent email r"
+    },
+    {
+      "title": "Lazy-MOSAIC: Accelerating Skill-Centric Manipulation Planning with Learned Skill-Effect World Models",
+      "summary": "Long-horizon manipulation tasks require a robot to perform a sequence of physical interactions with its environment, typically combining several different skills. Planning such behaviors efficiently is challenging: given a library of parameterized skills, solutions lie in a vast hybrid space of skill sequences and their parameters, and evaluating each candidate skill's feasibility and effect with a high-fidelity world model such as a physics simulator is computationally expensive. MOSAIC, a rece",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21517v1",
+      "published_at": "2026-11-16T18:10:52Z",
+      "tags": [
+        "tool",
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21517v1",
+      "summary_type": "extractive",
+      "title_zh": "Lazy-MOSAIC: Accelerating Skill-Centric Manipulation Planning with Learned Skill-Effect World Models",
+      "summary_zh": "Long-horizon manipulation tasks require a robot to perform a sequence of physical interactions with its environment, typically combining several different skills. Planning such behaviors efficiently is challenging: given a library of parameterized skills, solutions lie in a vast hybrid space of skill sequences and their parameters, and evaluating each candidate skill's feasibility and effect with a high-fidelity world model such as a physics simulator is computationally expensive. MOSAIC, a rece"
+    },
+    {
+      "title": "The CYBER-BRIDGE project: An AI-Powered Platform for Cross-Border Cybersecurity, Compliance and Forensics in the EU",
+      "summary": "Cross-border cyber attacks on European SMEs and critical-infrastructure operators expose a structural cyber-resilience gap: cybersecurity (threat sharing, detection, response), compliance (framework assessment, certification) and digital forensics (cross-jurisdictional evidence) are jointly regulated by NIS2, the CRA, GDPR and the LED, yet their tooling evolved in silos and rarely interoperates across Member States. The EU-funded CYBER-BRIDGE project integrates the three domains under one archit",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21497v1",
+      "published_at": "2026-11-16T18:00:19Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21497v1",
+      "summary_type": "extractive",
+      "title_zh": "The CYBER-BRIDGE project: An AI-Powered Platform for Cross-Border Cybersecurity, Compliance and Forensics in the EU",
+      "summary_zh": "Cross-border cyber attacks on European SMEs and critical-infrastructure operators expose a structural cyber-resilience gap: cybersecurity (threat sharing, detection, response), compliance (framework assessment, certification) and digital forensics (cross-jurisdictional evidence) are jointly regulated by NIS2, the CRA, GDPR and the LED, yet their tooling evolved in silos and rarely interoperates across Member States. The EU-funded CYBER-BRIDGE project integrates the three domains under one archit"
+    },
+    {
+      "title": "Differentiable Exact Learning",
+      "summary": "We introduce a framework for differentiable exact learning that couples an unbounded external environment to a state-tracking neural controller, which we train on policy-trajectory observations (PTOs): expert behavior traces that expose observations and actions while hiding internal states. In addition to the learning framework, we introduce Differentiable Finite-State Transducers (DFSTs) which use multilinear updates, support log-parallel training, and emulate arbitrary finite-state controllers",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21486v1",
+      "published_at": "2026-11-16T17:55:09Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21486v1",
+      "summary_type": "extractive",
+      "title_zh": "Differentiable Exact Learning",
+      "summary_zh": "We introduce a framework for differentiable exact learning that couples an unbounded external environment to a state-tracking neural controller, which we train on policy-trajectory observations (PTOs): expert behavior traces that expose observations and actions while hiding internal states. In addition to the learning framework, we introduce Differentiable Finite-State Transducers (DFSTs) which use multilinear updates, support log-parallel training, and emulate arbitrary finite-state controllers"
+    },
+    {
+      "title": "RESILAGENT: A Three-Pillar Architecture for Cyber-Physical Resilience in Electrical Power and Energy Systems",
+      "summary": "Electrical Power and Energy Systems face hybrid threats that combine cyber intrusions, physical sabotage and climate-driven stress, and routinely outpace today's siloed monitoring stacks. We present RESILAGENT, a concept architecture organised around three operational pillars, Sensing &amp; Data Intelligence, Resilience Analytics &amp; Reporting, and Incident Response &amp; Recovery, mediated by a Cloud-based Orchestrator and exercised through a closed Detect-Simulate-Decide-Sign loop. The frame",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21480v1",
+      "published_at": "2026-11-16T17:51:46Z",
+      "tags": [
+        "vision",
+        "paper",
+        "agent"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21480v1",
+      "summary_type": "extractive",
+      "title_zh": "RESILAGENT: A Three-Pillar Architecture for Cyber-Physical Resilience in Electrical Power and Energy Systems",
+      "summary_zh": "Electrical Power and Energy Systems face hybrid threats that combine cyber intrusions, physical sabotage and climate-driven stress, and routinely outpace today's siloed monitoring stacks. We present RESILAGENT, a concept architecture organised around three operational pillars, Sensing &amp; Data Intelligence, Resilience Analytics &amp; Reporting, and Incident Response &amp; Recovery, mediated by a Cloud-based Orchestrator and exercised through a closed Detect-Simulate-Decide-Sign loop. The frame"
+    },
+    {
+      "title": "LynnReal-Hand: Unlocking World Interaction with Hand Control",
+      "summary": "Interactive video world models enable exploration through text and camera controls, yet direct object interaction requires finer control. Hands provide a natural interface, but translating continuous hand movements into coherent visual responses remains challenging because of complex hand-object dynamics and demanding real-time computation. To address these challenges, we introduce LynnReal-Hand, a hand-controlled video world model that unifies precise interaction modeling with efficient streami",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21479v1",
+      "published_at": "2026-11-16T17:51:44Z",
+      "tags": [
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21479v1",
+      "summary_type": "extractive",
+      "title_zh": "LynnReal-Hand: Unlocking World Interaction with Hand Control",
+      "summary_zh": "Interactive video world models enable exploration through text and camera controls, yet direct object interaction requires finer control. Hands provide a natural interface, but translating continuous hand movements into coherent visual responses remains challenging because of complex hand-object dynamics and demanding real-time computation. To address these challenges, we introduce LynnReal-Hand, a hand-controlled video world model that unifies precise interaction modeling with efficient streami"
+    },
+    {
+      "title": "Generative AI and the Crisis of Higher Education Assessments: Examining 'AI-Proofing' Strategies for College-Level Assessments",
+      "summary": "Higher education is confronting an academic-integrity challenge unlike any in its history. Students can now outsource homework, take-home assignments, and online examinations to large language models (LLMs) that complete them in seconds. Existing research on evaluating LLM performance on academic assessments has focused largely on standardized examinations, or on questions from college-level courses drawn from a single discipline.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21476v1",
+      "published_at": "2026-11-16T17:50:14Z",
+      "tags": [
+        "llm",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21476v1",
+      "summary_type": "extractive",
+      "title_zh": "Generative AI and the Crisis of Higher Education Assessments: Examining 'AI-Proofing' Strategies for College-Level Assessments",
+      "summary_zh": "Higher education is confronting an academic-integrity challenge unlike any in its history. Students can now outsource homework, take-home assignments, and online examinations to large language models (LLMs) that complete them in seconds. Existing research on evaluating LLM performance on academic assessments has focused largely on standardized examinations, or on questions from college-level courses drawn from a single discipline."
+    },
+    {
+      "title": "Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework",
+      "summary": "Network Intrusion Detection Systems (NIDSs) must incrementally adapt to emerging attacks, even when only a limited amount of labeled network traffic is available. Consequently, Few-Shot Class-Incremental Learning (FSCIL)-based NIDSs have gained growing attention. However, existing FSCIL-based NIDSs are highly vulnerable to label noise in newly-observed attack classes.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.21473v1",
+      "published_at": "2026-11-16T17:49:45Z",
+      "tags": [
+        "tool",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.21473v1",
+      "summary_type": "extractive",
+      "title_zh": "Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework",
+      "summary_zh": "Network Intrusion Detection Systems (NIDSs) must incrementally adapt to emerging attacks, even when only a limited amount of labeled network traffic is available. Consequently, Few-Shot Class-Incremental Learning (FSCIL)-based NIDSs have gained growing attention. However, existing FSCIL-based NIDSs are highly vulnerable to label noise in newly-observed attack classes."
     },
     {
       "title": "Aristotle Expands into Rust",
@@ -220,7 +619,7 @@
       "tags": [
         "ai"
       ],
-      "score": "78",
+      "score": "113",
       "item_id": "hn:50520270",
       "summary_type": "extractive",
       "title_zh": "Aristotle Expands into Rust",
@@ -236,75 +635,27 @@
       "tags": [
         "ai"
       ],
-      "score": "165",
+      "score": "258",
       "item_id": "hn:50520182",
       "summary_type": "extractive",
       "title_zh": "Grazing sheep in fields with solar arrays",
       "summary_zh": "Grazing sheep in fields with solar arrays"
     },
     {
-      "title": "Jolt – Clojure that speaks C",
-      "summary": "Jolt – Clojure that speaks C",
+      "title": "What is w2rt6byl5nf1opmc-a.com?",
+      "summary": "What is w2rt6byl5nf1opmc-a.com?",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://jolt-lang.net/",
-      "published_at": "2026-11-16T16:23:01+00:00",
+      "url": "https://jack.cab/blog/siterate",
+      "published_at": "2026-11-16T13:51:38+00:00",
       "tags": [
         "ai"
       ],
-      "score": "68",
-      "item_id": "hn:50519345",
+      "score": "325",
+      "item_id": "hn:50517602",
       "summary_type": "extractive",
-      "title_zh": "Jolt – Clojure that speaks C",
-      "summary_zh": "Jolt – Clojure that speaks C"
-    },
-    {
-      "title": "Nvidia was in trouble before the Jensen Huang mess",
-      "summary": "Nvidia was in trouble before the Jensen Huang mess",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-      "published_at": "2026-11-16T15:24:09+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "209",
-      "item_id": "hn:50518567",
-      "summary_type": "extractive",
-      "title_zh": "Nvidia was in trouble before the Jensen Huang mess",
-      "summary_zh": "Nvidia was in trouble before the Jensen Huang mess"
-    },
-    {
-      "title": "A 512 KiB binary message teaching chess without a shared language",
-      "summary": "A 512 KiB binary message teaching chess without a shared language",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://artemlegotin.com/golden-board/",
-      "published_at": "2026-11-16T14:38:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "42",
-      "item_id": "hn:50518068",
-      "summary_type": "extractive",
-      "title_zh": "A 512 KiB binary message teaching chess without a shared language",
-      "summary_zh": "A 512 KiB binary message teaching chess without a shared language"
-    },
-    {
-      "title": "The Active Directory Era Is Finally Over",
-      "summary": "The Active Directory Era Is Finally Over",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://infisical.com/blog/active-directory-machine-identity",
-      "published_at": "2026-11-16T14:15:31+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "106",
-      "item_id": "hn:50517815",
-      "summary_type": "extractive",
-      "title_zh": "The Active Directory Era Is Finally Over",
-      "summary_zh": "The Active Directory Era Is Finally Over"
+      "title_zh": "What is w2rt6byl5nf1opmc-a.com?",
+      "summary_zh": "What is w2rt6byl5nf1opmc-a.com?"
     },
     {
       "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
@@ -316,7 +667,7 @@
       "tags": [
         "ai"
       ],
-      "score": "742",
+      "score": "882",
       "item_id": "hn:50517488",
       "summary_type": "extractive",
       "title_zh": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
@@ -332,43 +683,27 @@
       "tags": [
         "ai"
       ],
-      "score": "131",
+      "score": "297",
       "item_id": "hn:50517321",
       "summary_type": "extractive",
       "title_zh": "Microsoft blames monster email outage on software defect introduced in July fix",
       "summary_zh": "Microsoft blames monster email outage on software defect introduced in July fix"
     },
     {
-      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-      "summary": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "title": "Do Repeat Yourself",
+      "summary": "Do Repeat Yourself",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-      "published_at": "2026-11-16T11:39:31+00:00",
+      "url": "https://arcentry.com/blog/do-repeat-yourself/",
+      "published_at": "2026-11-16T12:06:46+00:00",
       "tags": [
         "ai"
       ],
-      "score": "278",
-      "item_id": "hn:50516473",
+      "score": "79",
+      "item_id": "hn:50516689",
       "summary_type": "extractive",
-      "title_zh": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-      "summary_zh": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)"
-    },
-    {
-      "title": "Coffeehouses and the Rise of Science [pdf]",
-      "summary": "Coffeehouses and the Rise of Science [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
-      "published_at": "2026-11-16T11:03:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "171",
-      "item_id": "hn:50516245",
-      "summary_type": "extractive",
-      "title_zh": "Coffeehouses and the Rise of Science [pdf]",
-      "summary_zh": "Coffeehouses and the Rise of Science [pdf]"
+      "title_zh": "Do Repeat Yourself",
+      "summary_zh": "Do Repeat Yourself"
     },
     {
       "title": "Squircles",
@@ -380,457 +715,123 @@
       "tags": [
         "ai"
       ],
-      "score": "64",
+      "score": "177",
       "item_id": "hn:50515151",
       "summary_type": "extractive",
       "title_zh": "Squircles",
       "summary_zh": "Squircles"
     },
     {
-      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
-      "summary": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "title": "Test/verification technique effectiveness with Astra",
+      "summary": "Test/verification technique effectiveness with Astra",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
-      "published_at": "2026-11-16T07:38:19+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "277",
-      "item_id": "hn:50515058",
-      "summary_type": "extractive",
-      "title_zh": "Interpreting claims that a theorem is correct because it was checked in Lean",
-      "summary_zh": "Interpreting claims that a theorem is correct because it was checked in Lean"
-    },
-    {
-      "title": "How to make almost anything",
-      "summary": "How to make almost anything",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://pub.cba.mit.edu/863.26/site/",
-      "published_at": "2026-11-16T05:50:37+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "806",
-      "item_id": "hn:50514470",
-      "summary_type": "extractive",
-      "title_zh": "How to make almost anything",
-      "summary_zh": "How to make almost anything"
-    },
-    {
-      "title": "Smallest possible nopert polyhedra: the Septopert",
-      "summary": "Smallest possible nopert polyhedra: the Septopert",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/tom7/noperts/blob/main/septopert.md",
-      "published_at": "2026-11-14T15:22:30+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "50",
-      "item_id": "hn:50497746",
-      "summary_type": "extractive",
-      "title_zh": "Smallest possible nopert polyhedra: the Septopert",
-      "summary_zh": "Smallest possible nopert polyhedra: the Septopert"
-    },
-    {
-      "title": "OOS – an open operating system for the Rigol Scopes",
-      "summary": "OOS – an open operating system for the Rigol Scopes",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
-      "published_at": "2026-11-13T21:36:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "121",
-      "item_id": "hn:50490159",
-      "summary_type": "extractive",
-      "title_zh": "OOS – an open operating system for the Rigol Scopes",
-      "summary_zh": "OOS – an open operating system for the Rigol Scopes"
-    },
-    {
-      "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
-      "summary": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight-Space Programming (WSP).",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18553v1",
-      "published_at": "2026-11-13T18:58:08Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18553v1",
-      "summary_type": "extractive",
-      "title_zh": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
-      "summary_zh": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight-Space Programming (WSP)."
-    },
-    {
-      "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
-      "summary": "Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible for a single person to teleoperate multiple agents simultaneously. Round-Robin Behavior Cloning (R2BC) addresses this by letting a single demonstrator control one agent at a time while the others execute their current policies. However, the resulting imitation policies are limited by",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18543v1",
-      "published_at": "2026-11-13T18:50:05Z",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18543v1",
-      "summary_type": "extractive",
-      "title_zh": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
-      "summary_zh": "Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible for a single person to teleoperate multiple agents simultaneously. Round-Robin Behavior Cloning (R2BC) addresses this by letting a single demonstrator control one agent at a time while the others execute their current policies. However, the resulting imitation policies are limited by"
-    },
-    {
-      "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
-      "summary": "Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the resulting probability-flow ODE. In this work, we introduce a new framework for joint schedule/discretization design based on the analyticity properties of the (complexified) ODE trajectories, which in turn ensure good numerical behavior. Our formulation can be solved exactly via conformal mapping, y",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18542v1",
-      "published_at": "2026-11-13T18:49:36Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18542v1",
-      "summary_type": "extractive",
-      "title_zh": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
-      "summary_zh": "Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the resulting probability-flow ODE. In this work, we introduce a new framework for joint schedule/discretization design based on the analyticity properties of the (complexified) ODE trajectories, which in turn ensure good numerical behavior. Our formulation can be solved exactly via conformal mapping, y"
-    },
-    {
-      "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
-      "summary": "Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model that decides what it sees of its own interaction and what guidance it receives. Most existing approaches train under a hand-written harness that stays fixed throughout. However, an effective harness depends on the domain, the data and the model, and keeps changing as the model trains.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18533v1",
-      "published_at": "2026-11-13T18:45:49Z",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18533v1",
-      "summary_type": "extractive",
-      "title_zh": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
-      "summary_zh": "Agentic reinforcement learning (RL) increasingly relies on a harness, the scaffold around the model that decides what it sees of its own interaction and what guidance it receives. Most existing approaches train under a hand-written harness that stays fixed throughout. However, an effective harness depends on the domain, the data and the model, and keeps changing as the model trains."
-    },
-    {
-      "title": "Alignment by Socialization: Learning Tradeoffs Under Selection",
-      "summary": "Artificial intelligence (AI) agents are expected to complete tasks while following rules of conduct, but these objectives can conflict. We study how evolutionary selection shapes an agent's choices between them, and whether experience can make those choices reflect human judgments and withstand subsequent pressures. In our model, copies of an agent face a common uncertain reward state, and only those taking the rewarded action reproduce.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18531v1",
-      "published_at": "2026-11-13T18:43:24Z",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18531v1",
-      "summary_type": "extractive",
-      "title_zh": "Alignment by Socialization: Learning Tradeoffs Under Selection",
-      "summary_zh": "Artificial intelligence (AI) agents are expected to complete tasks while following rules of conduct, but these objectives can conflict. We study how evolutionary selection shapes an agent's choices between them, and whether experience can make those choices reflect human judgments and withstand subsequent pressures. In our model, copies of an agent face a common uncertain reward state, and only those taking the rewarded action reproduce."
-    },
-    {
-      "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
-      "summary": "Mechanistic Interpretability (MI) has made significant progress in explaining the internal computations of Large Language Models (LLMs); however, these advances have yet to demonstrate comparable success in explaining the decision-making processes of LLM-based agents. This paper examines the challenges MI tools face when applied to realistic agentic failures. We focus on one such failure: web agents hallucinating actions that are not available on a website.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18514v1",
-      "published_at": "2026-11-13T18:30:58Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18514v1",
-      "summary_type": "extractive",
-      "title_zh": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
-      "summary_zh": "Mechanistic Interpretability (MI) has made significant progress in explaining the internal computations of Large Language Models (LLMs); however, these advances have yet to demonstrate comparable success in explaining the decision-making processes of LLM-based agents. This paper examines the challenges MI tools face when applied to realistic agentic failures. We focus on one such failure: web agents hallucinating actions that are not available on a website."
-    },
-    {
-      "title": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
-      "summary": "This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant designed to function as a contextual companion for narrative reading on consumer hardware. Unlike conventional Large Language Model (LLM)-based systems that process documents/books online in an all-texts-at-once type of way, thereby risking narrative spoilers, MeReader confines both retrieval and generation to the reader's distinct position in the text. The system integrates a hybrid retrieval architect",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18513v1",
-      "published_at": "2026-11-13T18:29:51Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18513v1",
-      "summary_type": "extractive",
-      "title_zh": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
-      "summary_zh": "This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant designed to function as a contextual companion for narrative reading on consumer hardware. Unlike conventional Large Language Model (LLM)-based systems that process documents/books online in an all-texts-at-once type of way, thereby risking narrative spoilers, MeReader confines both retrieval and generation to the reader's distinct position in the text. The system integrates a hybrid retrieval architect"
-    },
-    {
-      "title": "Agentic AI for Discovering Fault-Tolerant Quantum Circuits",
-      "summary": "Scaling quantum computing toward practical quantum advantage is currently limited by the efficiency of circuits that operate on information encoded by quantum error-correcting codes. The full stack of quantum computing encompasses several tasks: preparation of logical code states, implementation of logical gates, logical routines on encoded qubits, etc. Yet, these circuits are largely designed by hand for individual cases, with some recent works incorporating machine learning for certain aspects",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18504v1",
-      "published_at": "2026-11-13T18:20:23Z",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18504v1",
-      "summary_type": "extractive",
-      "title_zh": "Agentic AI for Discovering Fault-Tolerant Quantum Circuits",
-      "summary_zh": "Scaling quantum computing toward practical quantum advantage is currently limited by the efficiency of circuits that operate on information encoded by quantum error-correcting codes. The full stack of quantum computing encompasses several tasks: preparation of logical code states, implementation of logical gates, logical routines on encoded qubits, etc. Yet, these circuits are largely designed by hand for individual cases, with some recent works incorporating machine learning for certain aspects"
-    },
-    {
-      "title": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
-      "summary": "Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathematical reasoning tasks that require decomposition, exact computation, tool use, and verification. We introduce \\textbf{ARCHER}: \\textbf{A}ction-trace \\textbf{R}einforcement for \\textbf{C}alculator-grounded \\textbf{H}ierarchical \\textbf{E}xecutable \\textbf{R}easoning, a two-stage framework for training small language models (SLMs) to produce executable and auditable reas",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18494v1",
-      "published_at": "2026-11-13T18:05:33Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18494v1",
-      "summary_type": "extractive",
-      "title_zh": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
-      "summary_zh": "Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathematical reasoning tasks that require decomposition, exact computation, tool use, and verification. We introduce \\textbf{ARCHER}: \\textbf{A}ction-trace \\textbf{R}einforcement for \\textbf{C}alculator-grounded \\textbf{H}ierarchical \\textbf{E}xecutable \\textbf{R}easoning, a two-stage framework for training small language models (SLMs) to produce executable and auditable reas"
-    },
-    {
-      "title": "TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents",
-      "summary": "Autonomous trading agents need controls that prevent problematic orders without making legitimate tasks impractical. We study this aspect of agentic compliance with TradeGauntlet, a replayable limit-order-book simulator that separates detection, prevention, and execution cost. In 1,680 simulated sessions with Claude Haiku 5.5 and Sonnet 5.5, all conduct alerts were self-matches.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18493v1",
-      "published_at": "2026-11-13T18:05:23Z",
-      "tags": [
-        "paper",
-        "llm",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18493v1",
-      "summary_type": "extractive",
-      "title_zh": "TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents",
-      "summary_zh": "Autonomous trading agents need controls that prevent problematic orders without making legitimate tasks impractical. We study this aspect of agentic compliance with TradeGauntlet, a replayable limit-order-book simulator that separates detection, prevention, and execution cost. In 1,680 simulated sessions with Claude Haiku 5.5 and Sonnet 5.5, all conduct alerts were self-matches."
-    },
-    {
-      "title": "Interactive Program Induction with Language Model Priors",
-      "summary": "Program induction refers to the process in which a learner aims to recover a program from a few given input-output examples. This paradigm broadens programming access by letting users demonstrate the rule-based behavior they want to apply to unseen data, instead of having to implement it themselves. However, recovering a program from finite input-output examples is fundamentally ambiguous, as a finite set of input-output examples is theoretically consistent with infinitely many programs whose ou",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18485v1",
-      "published_at": "2026-11-13T17:59:55Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18485v1",
-      "summary_type": "extractive",
-      "title_zh": "Interactive Program Induction with Language Model Priors",
-      "summary_zh": "Program induction refers to the process in which a learner aims to recover a program from a few given input-output examples. This paradigm broadens programming access by letting users demonstrate the rule-based behavior they want to apply to unseen data, instead of having to implement it themselves. However, recovering a program from finite input-output examples is fundamentally ambiguous, as a finite set of input-output examples is theoretically consistent with infinitely many programs whose ou"
-    },
-    {
-      "title": "From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration",
-      "summary": "AI-enabled remote patient monitoring is evolving beyond passive data collection toward agentic AI systems that interpret patient states, coordinate care, and initiate action across domestic and clinical settings. This structured scoping review finds that mature agentic care has not yet emerged: Most systems remain human led, while stronger decision-action coupling and embodied AI remain largely confined to prototypes and pilots. Healthcare robotics makes the transition from monitoring to action ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18484v1",
-      "published_at": "2026-11-13T17:59:40Z",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18484v1",
-      "summary_type": "extractive",
-      "title_zh": "From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration",
-      "summary_zh": "AI-enabled remote patient monitoring is evolving beyond passive data collection toward agentic AI systems that interpret patient states, coordinate care, and initiate action across domestic and clinical settings. This structured scoping review finds that mature agentic care has not yet emerged: Most systems remain human led, while stronger decision-action coupling and embodied AI remain largely confined to prototypes and pilots. Healthcare robotics makes the transition from monitoring to action "
-    },
-    {
-      "title": "Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation",
-      "summary": "LLM-based verifiers are increasingly used to evaluate agent executions, but their reliability is typically measured under a single representation of the trajectory. In deployed agent systems, the same execution may be exposed through composed tools, delegation boundaries, or compacted histories, changing what execution evidence is directly observable to the verifier. It therefore remains unclear whether correct verifier judgments persist across such abstraction boundaries.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18471v1",
-      "published_at": "2026-11-13T17:44:01Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18471v1",
-      "summary_type": "extractive",
-      "title_zh": "Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation",
-      "summary_zh": "LLM-based verifiers are increasingly used to evaluate agent executions, but their reliability is typically measured under a single representation of the trajectory. In deployed agent systems, the same execution may be exposed through composed tools, delegation boundaries, or compacted histories, changing what execution evidence is directly observable to the verifier. It therefore remains unclear whether correct verifier judgments persist across such abstraction boundaries."
-    },
-    {
-      "title": "Typing Matters: Muscle, Language and Typing Behaviour in Live Keystroke Decoding from sEMG",
-      "summary": "Surface electromyography (sEMG) from the wrists can recover typed text without a keyboard. It is usually posed as a signal-inference problem: characters are read out of the muscle signal and character error rate is reported offline. We argue that this framing removes most of the problem.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18464v1",
-      "published_at": "2026-11-13T17:33:20Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18464v1",
-      "summary_type": "extractive",
-      "title_zh": "Typing Matters: Muscle, Language and Typing Behaviour in Live Keystroke Decoding from sEMG",
-      "summary_zh": "Surface electromyography (sEMG) from the wrists can recover typed text without a keyboard. It is usually posed as a signal-inference problem: characters are read out of the muscle signal and character error rate is reported offline. We argue that this framing removes most of the problem."
-    },
-    {
-      "title": "When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support",
-      "summary": "Clinical world models expose language-model agents to predicted patient responses, but simulations can be unreliable for poorly supported treatments or unfamiliar hospitals. We introduce Support-Gated World-Model decision support, a lightweight extension of a propose--simulate--refine agent. A recurrent dynamics ensemble predicts short-horizon physiological responses to documented norepinephrine dose categories, while a behavior model estimates observational action support.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18458v1",
-      "published_at": "2026-11-13T17:28:25Z",
-      "tags": [
-        "paper",
-        "agent"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18458v1",
-      "summary_type": "extractive",
-      "title_zh": "When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support",
-      "summary_zh": "Clinical world models expose language-model agents to predicted patient responses, but simulations can be unreliable for poorly supported treatments or unfamiliar hospitals. We introduce Support-Gated World-Model decision support, a lightweight extension of a propose--simulate--refine agent. A recurrent dynamics ensemble predicts short-horizon physiological responses to documented norepinephrine dose categories, while a behavior model estimates observational action support."
-    },
-    {
-      "title": "Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles",
-      "summary": "Reliable use of large language models (LLMs) requires uncertainty estimates that separate ambiguity intrinsic to a prompt from genuine knowledge gaps. Bayesian and deep-ensemble methods deliver this aleatoric/epistemic decomposition in principle, but are computationally prohibitive at LLM scale and require white-box access. Existing black-box methods, in contrast, summarize to a single scalar that cannot make the distinction.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18453v1",
-      "published_at": "2026-11-13T17:26:39Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18453v1",
-      "summary_type": "extractive",
-      "title_zh": "Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles",
-      "summary_zh": "Reliable use of large language models (LLMs) requires uncertainty estimates that separate ambiguity intrinsic to a prompt from genuine knowledge gaps. Bayesian and deep-ensemble methods deliver this aleatoric/epistemic decomposition in principle, but are computationally prohibitive at LLM scale and require white-box access. Existing black-box methods, in contrast, summarize to a single scalar that cannot make the distinction."
-    },
-    {
-      "title": "Between Obligations and Evidence: A Participatory Study of Translating the EU AI Act into Technical Requirements",
-      "summary": "The EU AI Act imposes technical and organizational requirements for high-risk AI systems, but applying these requirements involves contextual choices about what to measure and what evidence supports a compliance claim. We investigate these challenges through a participatory workshop involving 32 researchers, policymakers, and practitioners from different disciplines, using realistic scenarios in healthcare, recruitment, and public transport to examine how regulatory obligations are interpreted, ",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18439v1",
-      "published_at": "2026-11-13T17:14:37Z",
-      "tags": [
-        "vision",
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18439v1",
-      "summary_type": "extractive",
-      "title_zh": "Between Obligations and Evidence: A Participatory Study of Translating the EU AI Act into Technical Requirements",
-      "summary_zh": "The EU AI Act imposes technical and organizational requirements for high-risk AI systems, but applying these requirements involves contextual choices about what to measure and what evidence supports a compliance claim. We investigate these challenges through a participatory workshop involving 32 researchers, policymakers, and practitioners from different disciplines, using realistic scenarios in healthcare, recruitment, and public transport to examine how regulatory obligations are interpreted, "
-    },
-    {
-      "title": "Towards Explainable Sleep Stage Classification using Single-Channel Electroencephalogram",
-      "summary": "Automated sleep staging has achieved strong bench- mark accuracy; however, clinical adoption remains limited due to a lack of interpretability. In this work, we fill the research gap by extending the SleepXAI sleep staging framework to systematically compare five different XAI methods. Further, attribution fidelity is evaluated using Spearman rank correlation with AASM-defined EEG frequency bands, serving as clinically grounded reference signals.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18434v1",
-      "published_at": "2026-11-13T17:13:23Z",
-      "tags": [
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18434v1",
-      "summary_type": "extractive",
-      "title_zh": "Towards Explainable Sleep Stage Classification using Single-Channel Electroencephalogram",
-      "summary_zh": "Automated sleep staging has achieved strong bench- mark accuracy; however, clinical adoption remains limited due to a lack of interpretability. In this work, we fill the research gap by extending the SleepXAI sleep staging framework to systematically compare five different XAI methods. Further, attribution fidelity is evaluated using Spearman rank correlation with AASM-defined EEG frequency bands, serving as clinically grounded reference signals."
-    },
-    {
-      "title": "LECAT: Measuring LLM Category Learning from Pretraining Data",
-      "summary": "Humans know that airplanes are fast, that this extends to red airplanes, but that it does not hold for broken airplanes. How do LLMs acquire category knowledge that humans learn and apply effortlessly? We introduce LeCat, a two-part framework to analyze LLM's Learning of Category knowledge.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18419v1",
-      "published_at": "2026-11-13T16:59:46Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18419v1",
-      "summary_type": "extractive",
-      "title_zh": "LECAT: Measuring LLM Category Learning from Pretraining Data",
-      "summary_zh": "Humans know that airplanes are fast, that this extends to red airplanes, but that it does not hold for broken airplanes. How do LLMs acquire category knowledge that humans learn and apply effortlessly? We introduce LeCat, a two-part framework to analyze LLM's Learning of Category knowledge."
-    },
-    {
-      "title": "CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning",
-      "summary": "Multimodal continual instruction tuning requires multimodal large language models to sequentially acquire new capabilities without catastrophic forgetting. Mixture-of-experts (MoE) architectures offer a promising way to mitigate task interference through expert specialization and combination. However, while existing MoE-based methods avoid overwriting shared parameters by allocating separate experts for each task, this progressive expansion incurs severe cross-task redundancy and linear paramete",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.18417v1",
-      "published_at": "2026-11-13T16:58:35Z",
-      "tags": [
-        "llm",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.18417v1",
-      "summary_type": "extractive",
-      "title_zh": "CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning",
-      "summary_zh": "Multimodal continual instruction tuning requires multimodal large language models to sequentially acquire new capabilities without catastrophic forgetting. Mixture-of-experts (MoE) architectures offer a promising way to mitigate task interference through expert specialization and combination. However, while existing MoE-based methods avoid overwriting shared parameters by allocating separate experts for each task, this progressive expansion incurs severe cross-task redundancy and linear paramete"
-    },
-    {
-      "title": "The origins of the placenta",
-      "summary": "The origins of the placenta",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta",
-      "published_at": "2026-11-13T15:53:09+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "15",
-      "item_id": "hn:50485327",
-      "summary_type": "extractive",
-      "title_zh": "The origins of the placenta",
-      "summary_zh": "The origins of the placenta"
-    },
-    {
-      "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
-      "summary": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
-      "published_at": "2026-11-10T18:03:14+00:00",
+      "url": "https://danluu.com/astra-testing/",
+      "published_at": "2026-11-16T07:33:51+00:00",
       "tags": [
         "ai"
       ],
       "score": "27",
-      "item_id": "hn:50443844",
+      "item_id": "hn:50515035",
       "summary_type": "extractive",
-      "title_zh": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
-      "summary_zh": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future"
+      "title_zh": "Test/verification technique effectiveness with Astra",
+      "summary_zh": "Test/verification technique effectiveness with Astra"
+    },
+    {
+      "title": "Atomic Nuked Veteran",
+      "summary": "Atomic Nuked Veteran",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/",
+      "published_at": "2026-11-16T06:29:54+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "38",
+      "item_id": "hn:50514680",
+      "summary_type": "extractive",
+      "title_zh": "Atomic Nuked Veteran",
+      "summary_zh": "Atomic Nuked Veteran"
+    },
+    {
+      "title": "Stop Filming in Log?",
+      "summary": "Stop Filming in Log?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "published_at": "2026-11-16T04:37:03+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "66",
+      "item_id": "hn:50514093",
+      "summary_type": "extractive",
+      "title_zh": "Stop Filming in Log?",
+      "summary_zh": "Stop Filming in Log?"
+    },
+    {
+      "title": "Nimony: A New Compiler for Nim",
+      "summary": "Nimony: A New Compiler for Nim",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://nimony.org/",
+      "published_at": "2026-11-16T01:05:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "7",
+      "item_id": "hn:50512779",
+      "summary_type": "extractive",
+      "title_zh": "Nimony: A New Compiler for Nim",
+      "summary_zh": "Nimony: A New Compiler for Nim"
+    },
+    {
+      "title": "The Fossils That Haunted Lovecraft",
+      "summary": "The Fossils That Haunted Lovecraft",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
+      "published_at": "2026-11-16T00:38:12+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "16",
+      "item_id": "hn:50512576",
+      "summary_type": "extractive",
+      "title_zh": "The Fossils That Haunted Lovecraft",
+      "summary_zh": "The Fossils That Haunted Lovecraft"
+    },
+    {
+      "title": "Why did modems have speakers? (2019)",
+      "summary": "Why did modems have speakers? (2019)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://retrocomputing.stackexchange.com/questions/11765",
+      "published_at": "2026-11-15T21:27:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "47",
+      "item_id": "hn:50510969",
+      "summary_type": "extractive",
+      "title_zh": "Why did modems have speakers? (2019)",
+      "summary_zh": "Why did modems have speakers? (2019)"
+    },
+    {
+      "title": "Formal Verification Is Not Verifiable",
+      "summary": "Formal Verification Is Not Verifiable",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+      "published_at": "2026-11-14T15:07:48+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "107",
+      "item_id": "hn:50497621",
+      "summary_type": "extractive",
+      "title_zh": "Formal Verification Is Not Verifiable",
+      "summary_zh": "Formal Verification Is Not Verifiable"
     }
   ]
 }

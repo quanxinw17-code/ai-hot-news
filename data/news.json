@@ -1,22 +1,134 @@
 {
-  "updated_at": "2026-11-18T20:20:47.282561+00:00",
+  "updated_at": "2026-11-19T07:03:40.901334+00:00",
   "count": 50,
   "items": [
     {
-      "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
-      "summary": "Search Browser – Minimalist WebKit browser with Chrome extension support",
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "summary": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://searchbrowser.app/",
-      "published_at": "2026-11-18T20:04:31+00:00",
+      "url": "https://kapteko.com/15-million-webservers/",
+      "published_at": "2026-11-19T05:56:36+00:00",
       "tags": [
         "ai"
       ],
-      "score": "5",
-      "item_id": "hn:50551398",
+      "score": "15",
+      "item_id": "hn:50556533",
       "summary_type": "extractive",
-      "title_zh": "Search Browser – Minimalist WebKit browser with Chrome extension support",
-      "summary_zh": "Search Browser – Minimalist WebKit browser with Chrome extension support"
+      "title_zh": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "summary_zh": "15M web servers on one VM – smoltcp, DPDK, AF_XDP"
+    },
+    {
+      "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+      "summary": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/Ri4dH/failtrace",
+      "published_at": "2026-11-19T01:30:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "24",
+      "item_id": "hn:50554941",
+      "summary_type": "extractive",
+      "title_zh": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+      "summary_zh": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL"
+    },
+    {
+      "title": "Unreal Tournament 2004 in the Browser",
+      "summary": "Unreal Tournament 2004 in the Browser",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://ut2004.dev/",
+      "published_at": "2026-11-19T01:29:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "134",
+      "item_id": "hn:50554935",
+      "summary_type": "extractive",
+      "title_zh": "Unreal Tournament 2004 in the Browser",
+      "summary_zh": "Unreal Tournament 2004 in the Browser"
+    },
+    {
+      "title": "Pushing WireGuard on macOS to 5 Gbit/s",
+      "summary": "Pushing WireGuard on macOS to 5 Gbit/s",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.firezone.dev/blog/apple-client-performance",
+      "published_at": "2026-11-18T23:57:01+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "30",
+      "item_id": "hn:50554076",
+      "summary_type": "extractive",
+      "title_zh": "Pushing WireGuard on macOS to 5 Gbit/s",
+      "summary_zh": "Pushing WireGuard on macOS to 5 Gbit/s"
+    },
+    {
+      "title": "We need smart people who give a shit",
+      "summary": "We need smart people who give a shit",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "published_at": "2026-11-18T23:53:49+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "438",
+      "item_id": "hn:50554045",
+      "summary_type": "extractive",
+      "title_zh": "We need smart people who give a shit",
+      "summary_zh": "We need smart people who give a shit"
+    },
+    {
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "summary": "Multiple vulnerabilities in Regexp and String case conversion",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "published_at": "2026-11-18T23:52:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "197",
+      "item_id": "hn:50554038",
+      "summary_type": "extractive",
+      "title_zh": "Multiple vulnerabilities in Regexp and String case conversion",
+      "summary_zh": "Multiple vulnerabilities in Regexp and String case conversion"
+    },
+    {
+      "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+      "summary": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
+      "published_at": "2026-11-18T23:49:13+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "48",
+      "item_id": "hn:50554009",
+      "summary_type": "extractive",
+      "title_zh": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+      "summary_zh": "Palo Alto Networks to Acquire Applied Compute for $4.5B"
+    },
+    {
+      "title": "Ergodicity: What Does It Mean?",
+      "summary": "Ergodicity: What Does It Mean?",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://leonlins.com/writing/ergodicity",
+      "published_at": "2026-11-18T23:32:11+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "15",
+      "item_id": "hn:50553852",
+      "summary_type": "extractive",
+      "title_zh": "Ergodicity: What Does It Mean?",
+      "summary_zh": "Ergodicity: What Does It Mean?"
     },
     {
       "title": "Sexp Matrix",
@@ -28,15 +140,15 @@
       "tags": [
         "ai"
       ],
-      "score": "3",
+      "score": "45",
       "item_id": "hn:50551359",
       "summary_type": "extractive",
       "title_zh": "Sexp Matrix",
       "summary_zh": "Sexp Matrix"
     },
     {
-      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
-      "summary": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+      "title": "DaisyRose-27B",
+      "summary": "DaisyRose-27B",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.radixark.com/blog/daisyrose-27b",
@@ -44,43 +156,63 @@
       "tags": [
         "ai"
       ],
-      "score": "9",
+      "score": "184",
       "item_id": "hn:50551046",
       "summary_type": "extractive",
-      "title_zh": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
-      "summary_zh": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1"
+      "title_zh": "DaisyRose-27B",
+      "summary_zh": "DaisyRose-27B"
     },
     {
-      "title": "Show HN: Poptato – App launcher, command runner, and fuzzy menu for Linux",
-      "summary": "Show HN: Poptato – App launcher, command runner, and fuzzy menu for Linux",
+      "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+      "summary": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We develop a trait theory of reviewer value to make it precise.",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/skorotkiewicz/poptato",
-      "published_at": "2026-11-18T19:18:25+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24932v1",
+      "published_at": "2026-11-18T18:55:07Z",
       "tags": [
+        "paper",
         "ai"
       ],
-      "score": "3",
-      "item_id": "hn:50550737",
+      "score": "📄",
+      "item_id": "arxiv:2611.24932v1",
       "summary_type": "extractive",
-      "title_zh": "Show HN: Poptato – App launcher, command runner, and fuzzy menu for Linux",
-      "summary_zh": "Show HN: Poptato – App launcher, command runner, and fuzzy menu for Linux"
+      "title_zh": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+      "summary_zh": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We develop a trait theory of reviewer value to make it precise."
     },
     {
-      "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
-      "summary": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+      "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+      "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus on the organizations that make up the AI supply chain: the complex network of actors that contribute to the development and deployment of AI.",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
-      "published_at": "2026-11-18T18:53:17+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24927v1",
+      "published_at": "2026-11-18T18:53:58Z",
       "tags": [
-        "ai"
+        "vision",
+        "paper",
+        "tool"
       ],
-      "score": "7",
-      "item_id": "hn:50550461",
+      "score": "📄",
+      "item_id": "arxiv:2611.24927v1",
       "summary_type": "extractive",
-      "title_zh": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
-      "summary_zh": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys"
+      "title_zh": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+      "summary_zh": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus on the organizations that make up the AI supply chain: the complex network of actors that contribute to the development and deployment of AI."
+    },
+    {
+      "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+      "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interaction needs, while using a single evolution agent to modify the harness and benchmark scores to select changes. This process often produces narrow patches and leads to benchmark-specific local optima.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24924v1",
+      "published_at": "2026-11-18T18:52:13Z",
+      "tags": [
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24924v1",
+      "summary_type": "extractive",
+      "title_zh": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+      "summary_zh": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interaction needs, while using a single evolution agent to modify the harness and benchmark scores to select changes. This process often produces narrow patches and leads to benchmark-specific local optima."
     },
     {
       "title": "Genie 4 is now available",
@@ -92,59 +224,311 @@
       "tags": [
         "ai"
       ],
-      "score": "89",
+      "score": "231",
       "item_id": "hn:50550415",
       "summary_type": "extractive",
       "title_zh": "Genie 4 is now available",
       "summary_zh": "Genie 4 is now available"
     },
     {
-      "title": "When Free Software Isn't Free Enough",
-      "summary": "When Free Software Isn't Free Enough",
+      "title": "Who are you? The Personal Imitation Game",
+      "summary": "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a specific individual in conversation rather than a generic human. Testing with 30 participants, we establish a human baseline and report the identity signals interrogators rely on: stylometric features, personality traits, and biographical facts. To demonstrate the framework, we design an LLM-based syste",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://foss.life/notes/2026/free-software-isnt-free-enough/",
-      "published_at": "2026-11-18T18:39:28+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24888v1",
+      "published_at": "2026-11-18T18:32:14Z",
       "tags": [
-        "ai"
+        "tool",
+        "paper",
+        "llm"
       ],
-      "score": "8",
-      "item_id": "hn:50550264",
+      "score": "📄",
+      "item_id": "arxiv:2611.24888v1",
       "summary_type": "extractive",
-      "title_zh": "When Free Software Isn't Free Enough",
-      "summary_zh": "When Free Software Isn't Free Enough"
+      "title_zh": "Who are you? The Personal Imitation Game",
+      "summary_zh": "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a specific individual in conversation rather than a generic human. Testing with 30 participants, we establish a human baseline and report the identity signals interrogators rely on: stylometric features, personality traits, and biographical facts. To demonstrate the framework, we design an LLM-based syste"
     },
     {
-      "title": "Scottish HTTP Codes",
-      "summary": "Scottish HTTP Codes",
+      "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
+      "summary": "Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of the network it connects to, is built, run, measured and revised until it satisfies its specification. Such an agent can be served from a cloud API or from an inference device on the premises.",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://underwood.network/http/scots.html",
-      "published_at": "2026-11-18T18:26:19+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24880v1",
+      "published_at": "2026-11-18T18:27:40Z",
       "tags": [
-        "ai"
+        "vision",
+        "agent",
+        "paper",
+        "tool"
       ],
-      "score": "169",
-      "item_id": "hn:50550062",
+      "score": "📄",
+      "item_id": "arxiv:2611.24880v1",
       "summary_type": "extractive",
-      "title_zh": "Scottish HTTP Codes",
-      "summary_zh": "Scottish HTTP Codes"
+      "title_zh": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
+      "summary_zh": "Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of the network it connects to, is built, run, measured and revised until it satisfies its specification. Such an agent can be served from a cloud API or from an inference device on the premises."
     },
     {
-      "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
-      "summary": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+      "title": "Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws",
+      "summary": "Large language models (LLMs) are used to explain clinical prediction models, on the promise that they can say what a model computes, find its faults and even reveal new knowledge in it. We tested the three promises where the answers could be checked. From the International Stroke Trial we trained four kinds of model (logistic regression, explainable boosting machine, gradient-boosted trees, neural network) for two outcomes on patients randomised earlier, planted one flaw in each of 24 copies (an",
       "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
-      "published_at": "2026-11-18T17:41:48+00:00",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24877v1",
+      "published_at": "2026-11-18T18:24:54Z",
       "tags": [
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24877v1",
+      "summary_type": "extractive",
+      "title_zh": "Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws",
+      "summary_zh": "Large language models (LLMs) are used to explain clinical prediction models, on the promise that they can say what a model computes, find its faults and even reveal new knowledge in it. We tested the three promises where the answers could be checked. From the International Stroke Trial we trained four kinds of model (logistic regression, explainable boosting machine, gradient-boosted trees, neural network) for two outcomes on patients randomised earlier, planted one flaw in each of 24 copies (an"
+    },
+    {
+      "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
+      "summary": "Rules govern how player actions change interactive worlds. Different rules create distinct gameplay experiences within similar scenes and action spaces. For customizable gameplay, generative world models must follow user-defined rules beyond real-world behaviors.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24869v1",
+      "published_at": "2026-11-18T18:20:39Z",
+      "tags": [
+        "vision",
+        "paper",
+        "tool"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24869v1",
+      "summary_type": "extractive",
+      "title_zh": "WorldRuler: Interactive World Modeling under Configurable Rules",
+      "summary_zh": "Rules govern how player actions change interactive worlds. Different rules create distinct gameplay experiences within similar scenes and action spaces. For customizable gameplay, generative world models must follow user-defined rules beyond real-world behaviors."
+    },
+    {
+      "title": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
+      "summary": "Visual agents that read dense documents must ration a finite observation budget across candidate regions, yet answer accuracy conflates where an agent looks, how it adapts to the reads that remain, and how it an?swers once observation stops. We introduce budget-paired counterfactual audits, an evaluation protocol that holds public evidence and region bindings fixed while perturbing only the remaining budget or de?clared task parameters, and credits every acquired history with exact continuation ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24867v1",
+      "published_at": "2026-11-18T18:20:12Z",
+      "tags": [
+        "vision",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24867v1",
+      "summary_type": "extractive",
+      "title_zh": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
+      "summary_zh": "Visual agents that read dense documents must ration a finite observation budget across candidate regions, yet answer accuracy conflates where an agent looks, how it adapts to the reads that remain, and how it an?swers once observation stops. We introduce budget-paired counterfactual audits, an evaluation protocol that holds public evidence and region bindings fixed while perturbing only the remaining budget or de?clared task parameters, and credits every acquired history with exact continuation "
+    },
+    {
+      "title": "Vibe-Trading: Towards Agent-Native Trading",
+      "summary": "Existing AI agents can retrieve information, call tools, run experiments, and produce multi-step outputs. Yet most are built around relatively static workflows and struggle to preserve reliable state as the environment changes. Financial trading makes this limitation especially consequential: prices, news, market conditions, portfolio positions, and available capital evolve continuously.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24845v1",
+      "published_at": "2026-11-18T18:07:57Z",
+      "tags": [
+        "tool",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24845v1",
+      "summary_type": "extractive",
+      "title_zh": "Vibe-Trading: Towards Agent-Native Trading",
+      "summary_zh": "Existing AI agents can retrieve information, call tools, run experiments, and produce multi-step outputs. Yet most are built around relatively static workflows and struggle to preserve reliable state as the environment changes. Financial trading makes this limitation especially consequential: prices, news, market conditions, portfolio positions, and available capital evolve continuously."
+    },
+    {
+      "title": "General progress substitutes for specific training data in language models",
+      "summary": "Language models acquire their capabilities from training data, and developers withhold data during training to keep models from learning capabilities that could be misused. How long this delays a capability, and how much data is needed to acquire it later, is unknown. Here we show that the general progress a model makes on the rest of its training data substitutes for the data that was withheld.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24844v1",
+      "published_at": "2026-11-18T18:07:55Z",
+      "tags": [
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24844v1",
+      "summary_type": "extractive",
+      "title_zh": "General progress substitutes for specific training data in language models",
+      "summary_zh": "Language models acquire their capabilities from training data, and developers withhold data during training to keep models from learning capabilities that could be misused. How long this delays a capability, and how much data is needed to acquire it later, is unknown. Here we show that the general progress a model makes on the rest of its training data substitutes for the data that was withheld."
+    },
+    {
+      "title": "Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving",
+      "summary": "World models are increasingly used in autonomous driving to predict how a scene evolves under the ego vehicle's actions, supporting counterfactual reasoning and model-based planning. However, existing evaluations focus on prediction fidelity and planning performance, and rarely verify that the predictions depend on the conditioning action. In this paper, we study action dependence in action-conditioned semantic forecasting, which predicts future semantic segmentation from past segmentations and ",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24840v1",
+      "published_at": "2026-11-18T18:06:20Z",
+      "tags": [
+        "vision",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24840v1",
+      "summary_type": "extractive",
+      "title_zh": "Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving",
+      "summary_zh": "World models are increasingly used in autonomous driving to predict how a scene evolves under the ego vehicle's actions, supporting counterfactual reasoning and model-based planning. However, existing evaluations focus on prediction fidelity and planning performance, and rarely verify that the predictions depend on the conditioning action. In this paper, we study action dependence in action-conditioned semantic forecasting, which predicts future semantic segmentation from past segmentations and "
+    },
+    {
+      "title": "A Foundation Model to Measure and Predict Human Behaviour",
+      "summary": "Large language models (LLMs) are increasingly used to infer psychological attributes, predict individual behaviour, and simulate human populations. However, despite generating plausible responses, they often misrepresent individuals and distort population statistics. Here we introduce Chiron, a foundation model to measure and predict human behaviour.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24830v1",
+      "published_at": "2026-11-18T17:59:08Z",
+      "tags": [
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24830v1",
+      "summary_type": "extractive",
+      "title_zh": "A Foundation Model to Measure and Predict Human Behaviour",
+      "summary_zh": "Large language models (LLMs) are increasingly used to infer psychological attributes, predict individual behaviour, and simulate human populations. However, despite generating plausible responses, they often misrepresent individuals and distort population statistics. Here we introduce Chiron, a foundation model to measure and predict human behaviour."
+    },
+    {
+      "title": "LAaDT-DSS: decision support for non-experts on rooftop PV, incentive and grid simulations under Turkish tariff rules",
+      "summary": "Rooftop photovoltaics raise three questions: should a household invest, which incentive costs the state least, and does the feeder stay within limits? Those who ask are rarely modellers. We present LAaDT-DSS, decision-support software that answers all three under Turkish tariff rules from one simulation core.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24810v1",
+      "published_at": "2026-11-18T17:45:52Z",
+      "tags": [
+        "tool",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24810v1",
+      "summary_type": "extractive",
+      "title_zh": "LAaDT-DSS: decision support for non-experts on rooftop PV, incentive and grid simulations under Turkish tariff rules",
+      "summary_zh": "Rooftop photovoltaics raise three questions: should a household invest, which incentive costs the state least, and does the feeder stay within limits? Those who ask are rarely modellers. We present LAaDT-DSS, decision-support software that answers all three under Turkish tariff rules from one simulation core."
+    },
+    {
+      "title": "Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning",
+      "summary": "Quantum Machine Learning (QML) has attracted increasing interest as a possible route to construct feature representations that are difficult to reproduce with classical models. However, near-term QML architectures based on trainable parametrized quantum circuits remain affected by limited hardware resources, noise, and severe optimization difficulties such as barren plateaus. In this work we propose Soft-MoQE, a Soft Mixture of Quantum Experts architecture that replaces variational quantum train",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24798v1",
+      "published_at": "2026-11-18T17:41:45Z",
+      "tags": [
+        "paper",
         "ai"
       ],
-      "score": "29",
-      "item_id": "hn:50549438",
+      "score": "📄",
+      "item_id": "arxiv:2611.24798v1",
       "summary_type": "extractive",
-      "title_zh": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
-      "summary_zh": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables"
+      "title_zh": "Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning",
+      "summary_zh": "Quantum Machine Learning (QML) has attracted increasing interest as a possible route to construct feature representations that are difficult to reproduce with classical models. However, near-term QML architectures based on trainable parametrized quantum circuits remain affected by limited hardware resources, noise, and severe optimization difficulties such as barren plateaus. In this work we propose Soft-MoQE, a Soft Mixture of Quantum Experts architecture that replaces variational quantum train"
+    },
+    {
+      "title": "Bias-Only Training Dynamics in ReLU Networks",
+      "summary": "Neural networks with randomly initialized, fixed weights and trainable biases are universal approximators, yet the dynamics of bias-only training remain largely unexplored. We study these dynamics in one-hidden-layer ReLU networks through activation codes, the binary patterns of active neurons that partition the input space into convex polyhedral regions. We show that the gradients with respect to the biases depend on each input only through its activation code, and hence the training dynamics c",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24797v1",
+      "published_at": "2026-11-18T17:41:18Z",
+      "tags": [
+        "paper",
+        "ai"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24797v1",
+      "summary_type": "extractive",
+      "title_zh": "Bias-Only Training Dynamics in ReLU Networks",
+      "summary_zh": "Neural networks with randomly initialized, fixed weights and trainable biases are universal approximators, yet the dynamics of bias-only training remain largely unexplored. We study these dynamics in one-hidden-layer ReLU networks through activation codes, the binary patterns of active neurons that partition the input space into convex polyhedral regions. We show that the gradients with respect to the biases depend on each input only through its activation code, and hence the training dynamics c"
+    },
+    {
+      "title": "Isabelle Pool Server: a pooled verification service for prover training and multi-agent proving",
+      "summary": "Isabelle Pool Server (IPS), a verification service with a pool of warm headless Isabelle sessions behind an HTTP API, with session leasing and reclamation, memory-aware admission control, and a time budget on every call. Its verification interface spans single-step execution, block-level proof checking and whole-theory builds, with checkpoints for cheap branching and backtracking, and a build from scratch as the final arbiter. The service runs as a single container with monitoring and is accessi",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24788v1",
+      "published_at": "2026-11-18T17:35:47Z",
+      "tags": [
+        "tool",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24788v1",
+      "summary_type": "extractive",
+      "title_zh": "Isabelle Pool Server: a pooled verification service for prover training and multi-agent proving",
+      "summary_zh": "Isabelle Pool Server (IPS), a verification service with a pool of warm headless Isabelle sessions behind an HTTP API, with session leasing and reclamation, memory-aware admission control, and a time budget on every call. Its verification interface spans single-step execution, block-level proof checking and whole-theory builds, with checkpoints for cheap branching and backtracking, and a build from scratch as the final arbiter. The service runs as a single container with monitoring and is accessi"
+    },
+    {
+      "title": "Learning Trajectories Leave Decodable Traces in Neural Network Weight Space and Internal Representations",
+      "summary": "Neural networks trained on the same task develop related weight-space structures, yet remain distinguishable after learning. Do these differences merely reflect alternative solutions, or do they preserve information about individual learning histories? We tested whether final weights reveal initialization, task order, and earlier trajectory states.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24782v1",
+      "published_at": "2026-11-18T17:27:55Z",
+      "tags": [
+        "vision",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24782v1",
+      "summary_type": "extractive",
+      "title_zh": "Learning Trajectories Leave Decodable Traces in Neural Network Weight Space and Internal Representations",
+      "summary_zh": "Neural networks trained on the same task develop related weight-space structures, yet remain distinguishable after learning. Do these differences merely reflect alternative solutions, or do they preserve information about individual learning histories? We tested whether final weights reveal initialization, task order, and earlier trajectory states."
+    },
+    {
+      "title": "Counterfactual World Models: JEPAs That Reason About \"What If\"",
+      "summary": "World models operate in a world they cannot fully observe. When a hidden disturbance, such as a current pushing a boat, changes the outcome of an action, a counterfactual question follows: what would have happened under a different action, subject to the same disturbance? Its answer separates bad decisions from bad luck.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24778v1",
+      "published_at": "2026-11-18T17:24:00Z",
+      "tags": [
+        "paper",
+        "ai"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24778v1",
+      "summary_type": "extractive",
+      "title_zh": "Counterfactual World Models: JEPAs That Reason About \"What If\"",
+      "summary_zh": "World models operate in a world they cannot fully observe. When a hidden disturbance, such as a current pushing a boat, changes the outcome of an action, a counterfactual question follows: what would have happened under a different action, subject to the same disturbance? Its answer separates bad decisions from bad luck."
+    },
+    {
+      "title": "LLM-Guided Cyber-Physical Attack Path Identification in Smart Grids",
+      "summary": "Identifying high-impact attack paths in cyber-physical power systems is critical for improving grid resilience. Existing methods typically rely on either structural topology analysis or simulation-based cascading-failure models. Topology-based approaches capture connectivity but lack adversarial reasoning, while simulation-driven methods are primarily suited for offline analysis and are less effective for rapid evaluation of evolving attack scenarios.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24765v1",
+      "published_at": "2026-11-18T17:16:56Z",
+      "tags": [
+        "tool",
+        "paper",
+        "llm"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24765v1",
+      "summary_type": "extractive",
+      "title_zh": "LLM-Guided Cyber-Physical Attack Path Identification in Smart Grids",
+      "summary_zh": "Identifying high-impact attack paths in cyber-physical power systems is critical for improving grid resilience. Existing methods typically rely on either structural topology analysis or simulation-based cascading-failure models. Topology-based approaches capture connectivity but lack adversarial reasoning, while simulation-driven methods are primarily suited for offline analysis and are less effective for rapid evaluation of evolving attack scenarios."
+    },
+    {
+      "title": "Horizontal Flow Matching for Single-Cell Spatiotemporal Dynamics",
+      "summary": "Learning the spatiotemporal dynamics of cells from spatial transcriptomics requires connecting snapshots of different cells acquired in different coordinate frames. A rotation or translation of a section can appear as cell movement and distort the inferred correspondence. We introduce horizontal flow matching, which learns changes in tissue organization, molecular state, and cell abundance up to shared rigid motion.",
+      "full_text": "",
+      "source": "arxiv",
+      "url": "http://arxiv.org/abs/2611.24764v1",
+      "published_at": "2026-11-18T17:16:53Z",
+      "tags": [
+        "vision",
+        "agent",
+        "paper"
+      ],
+      "score": "📄",
+      "item_id": "arxiv:2611.24764v1",
+      "summary_type": "extractive",
+      "title_zh": "Horizontal Flow Matching for Single-Cell Spatiotemporal Dynamics",
+      "summary_zh": "Learning the spatiotemporal dynamics of cells from spatial transcriptomics requires connecting snapshots of different cells acquired in different coordinate frames. A rotation or translation of a section can appear as cell movement and distort the inferred correspondence. We introduce horizontal flow matching, which learns changes in tissue organization, molecular state, and cell abundance up to shared rigid motion."
     },
     {
       "title": "CrossPoint Reader",
@@ -156,7 +540,7 @@
       "tags": [
         "ai"
       ],
-      "score": "42",
+      "score": "119",
       "item_id": "hn:50548991",
       "summary_type": "extractive",
       "title_zh": "CrossPoint Reader",
@@ -172,27 +556,11 @@
       "tags": [
         "ai"
       ],
-      "score": "35",
+      "score": "90",
       "item_id": "hn:50548660",
       "summary_type": "extractive",
       "title_zh": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
       "summary_zh": "Hi HN, we&#x27;re Shane, Sam, and Abhi.Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43103073. It got a few hundred upvotes; a couple of weeks later our downloads had doubled, and we were off to the races.Today we&#x27;re sharing Mastra Factory, the open-source software factory we built to help maintain Mastra itself.At Mastra, we now average nearly 4M downloads per week, and with Factory our te"
-    },
-    {
-      "title": "RFC 2675: IPv6 Jumbograms",
-      "summary": "RFC 2675: IPv6 Jumbograms",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.rfc-editor.org/info/rfc2675/",
-      "published_at": "2026-11-18T16:22:23+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "26",
-      "item_id": "hn:50548214",
-      "summary_type": "extractive",
-      "title_zh": "RFC 2675: IPv6 Jumbograms",
-      "summary_zh": "RFC 2675: IPv6 Jumbograms"
     },
     {
       "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
@@ -204,27 +572,11 @@
       "tags": [
         "ai"
       ],
-      "score": "88",
+      "score": "183",
       "item_id": "hn:50548161",
       "summary_type": "extractive",
       "title_zh": "Show HN: Take Voyager 1 apart, down to a single memory chip",
       "summary_zh": "Voyager 1 reached one light-day from Earth today.On the site you can:- see where both Voyagers are right now- open a nuclear battery to its 24 plutonium spheres- go into the data computer, down to a single memory chip- see how the Golden Record&#x27;s cover explains how to play it- watch how Voyager 1 was fixed by radio- see which dish on Earth is listening to them, liveI also made a 4-minute film from it: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=kpzsRo-c1_A"
-    },
-    {
-      "title": "SuperEMeans: Making e-means 3× faster",
-      "summary": "SuperEMeans: Making e-means 3× faster",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.lkuffo.com/superemeans/",
-      "published_at": "2026-11-18T16:09:50+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "35",
-      "item_id": "hn:50548038",
-      "summary_type": "extractive",
-      "title_zh": "SuperEMeans: Making e-means 3× faster",
-      "summary_zh": "SuperEMeans: Making e-means 3× faster"
     },
     {
       "title": "Seven new models at scalable price-performance",
@@ -236,7 +588,7 @@
       "tags": [
         "ai"
       ],
-      "score": "306",
+      "score": "511",
       "item_id": "hn:50548021",
       "summary_type": "extractive",
       "title_zh": "Seven new models at scalable price-performance",
@@ -252,7 +604,7 @@
       "tags": [
         "ai"
       ],
-      "score": "142",
+      "score": "184",
       "item_id": "hn:50548004",
       "summary_type": "extractive",
       "title_zh": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
@@ -268,7 +620,7 @@
       "tags": [
         "ai"
       ],
-      "score": "90",
+      "score": "200",
       "item_id": "hn:50547980",
       "summary_type": "extractive",
       "title_zh": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
@@ -284,59 +636,43 @@
       "tags": [
         "ai"
       ],
-      "score": "363",
+      "score": "640",
       "item_id": "hn:50547620",
       "summary_type": "extractive",
       "title_zh": "Inside Deutsche Bank",
       "summary_zh": "Inside Deutsche Bank"
     },
     {
-      "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
-      "summary": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
+      "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+      "summary": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://nginx2root.com/",
-      "published_at": "2026-11-18T15:24:17+00:00",
+      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+      "published_at": "2026-11-18T15:35:44+00:00",
       "tags": [
         "ai"
       ],
-      "score": "85",
-      "item_id": "hn:50547423",
+      "score": "166",
+      "item_id": "hn:50547583",
       "summary_type": "extractive",
-      "title_zh": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
-      "summary_zh": "NGINX2Root by Xint – From Nginx visitor to root of the server host"
+      "title_zh": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+      "summary_zh": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)"
     },
     {
       "title": "Unauthenticated remote code execution in Nginx",
-      "summary": "Unauthenticated remote code execution in Nginx",
-      "full_text": "",
+      "summary": "https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123633https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123007",
+      "full_text": "https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123633https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123007",
       "source": "hacker news",
       "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
       "published_at": "2026-11-18T15:19:55+00:00",
       "tags": [
         "ai"
       ],
-      "score": "706",
+      "score": "🔥 1.2k",
       "item_id": "hn:50547374",
       "summary_type": "extractive",
       "title_zh": "Unauthenticated remote code execution in Nginx",
-      "summary_zh": "Unauthenticated remote code execution in Nginx"
-    },
-    {
-      "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
-      "summary": "Poland says it thwarted false flag operation near border with Kaliningrad",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
-      "published_at": "2026-11-18T15:18:30+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "291",
-      "item_id": "hn:50547344",
-      "summary_type": "extractive",
-      "title_zh": "Poland says it thwarted false flag operation near border with Kaliningrad",
-      "summary_zh": "Poland says it thwarted false flag operation near border with Kaliningrad"
+      "summary_zh": "https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123633https:&#x2F;&#x2F;www.cve.org&#x2F;CVERecord?id=CVE-2026-123007"
     },
     {
       "title": "The x86 CPU: From 4004 to 486",
@@ -348,15 +684,15 @@
       "tags": [
         "ai"
       ],
-      "score": "105",
+      "score": "167",
       "item_id": "hn:50546967",
       "summary_type": "extractive",
       "title_zh": "The x86 CPU: From 4004 to 486",
       "summary_zh": "The x86 CPU: From 4004 to 486"
     },
     {
-      "title": "A Primer on Fourier Series",
-      "summary": "A Primer on Fourier Series",
+      "title": "A Primer on Fourier Series (2025)",
+      "summary": "A Primer on Fourier Series (2025)",
       "full_text": "",
       "source": "hacker news",
       "url": "https://arxiv.org/abs/2510.18203",
@@ -364,15 +700,15 @@
       "tags": [
         "ai"
       ],
-      "score": "81",
+      "score": "119",
       "item_id": "hn:50546922",
       "summary_type": "extractive",
-      "title_zh": "A Primer on Fourier Series",
-      "summary_zh": "A Primer on Fourier Series"
+      "title_zh": "A Primer on Fourier Series (2025)",
+      "summary_zh": "A Primer on Fourier Series (2025)"
     },
     {
-      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
-      "summary": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "summary": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
       "full_text": "",
       "source": "hacker news",
       "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
@@ -380,11 +716,11 @@
       "tags": [
         "ai"
       ],
-      "score": "184",
+      "score": "268",
       "item_id": "hn:50546914",
       "summary_type": "extractive",
-      "title_zh": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
-      "summary_zh": "'Human' Is Cambridge Dictionary's Word of the Year 2026"
+      "title_zh": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "summary_zh": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026"
     },
     {
       "title": "DNS resolvers are the wrong place to fight piracy",
@@ -396,446 +732,107 @@
       "tags": [
         "ai"
       ],
-      "score": "460",
+      "score": "650",
       "item_id": "hn:50545958",
       "summary_type": "extractive",
       "title_zh": "DNS resolvers are the wrong place to fight piracy",
       "summary_zh": "DNS resolvers are the wrong place to fight piracy"
     },
     {
-      "title": "Evidence (YC S21) Is Hiring",
-      "summary": "Evidence (YC S21) Is Hiring",
+      "title": "Codeberg.org Not Reachable",
+      "summary": "Codeberg.org Not Reachable",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
-      "published_at": "2026-11-18T12:00:16+00:00",
+      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+      "published_at": "2026-11-18T10:02:17+00:00",
       "tags": [
         "ai"
       ],
-      "score": "1",
-      "item_id": "hn:50545238",
+      "score": "300",
+      "item_id": "hn:50544261",
       "summary_type": "extractive",
-      "title_zh": "Evidence (YC S21) Is Hiring",
-      "summary_zh": "Evidence (YC S21) Is Hiring"
+      "title_zh": "Codeberg.org Not Reachable",
+      "summary_zh": "Codeberg.org Not Reachable"
     },
     {
-      "title": "Show HN: Type Fighter 2",
-      "summary": "Type Fighter II is an arcade inspired game for people learning to touch type.Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard.",
-      "full_text": "Type Fighter II is an arcade inspired game for people learning to touch type.Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard.",
-      "source": "hacker news",
-      "url": "https://typefighter2.com/",
-      "published_at": "2026-11-18T11:11:53+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "105",
-      "item_id": "hn:50544821",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Type Fighter 2",
-      "summary_zh": "Type Fighter II is an arcade inspired game for people learning to touch type.Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard."
-    },
-    {
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "summary": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "title": "Mosquitoes are Ladakh's latest tourists",
+      "summary": "Mosquitoes are Ladakh's latest tourists",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://calif.io/java4shell/",
-      "published_at": "2026-11-17T21:11:28+00:00",
+      "url": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists",
+      "published_at": "2026-11-18T06:08:25+00:00",
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.1k",
-      "item_id": "hn:50538240",
+      "score": "34",
+      "item_id": "hn:50542441",
       "summary_type": "extractive",
-      "title_zh": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "summary_zh": "Java4Shell: RCE in OpenJDK when processing Base64"
+      "title_zh": "Mosquitoes are Ladakh's latest tourists",
+      "summary_zh": "Mosquitoes are Ladakh's latest tourists"
     },
     {
-      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
-      "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution. To prevent this collapse, we introduce Ambient SFT, a principled framework for leveraging imperfect predictions to augment the fine-tuning set.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23229v1",
-      "published_at": "2026-11-17T18:59:37Z",
-      "tags": [
-        "paper",
-        "tool",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23229v1",
-      "summary_type": "extractive",
-      "title_zh": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
-      "summary_zh": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution. To prevent this collapse, we introduce Ambient SFT, a principled framework for leveraging imperfect predictions to augment the fine-tuning set."
-    },
-    {
-      "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
-      "summary": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F-theory constructions, wrapped M5-branes and exact worldsheet constructions. Its open-book benchmark inventory contains 1,073 items, including 499 with automatic finite-answer checking.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23225v1",
-      "published_at": "2026-11-17T18:58:40Z",
-      "tags": [
-        "paper"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23225v1",
-      "summary_type": "extractive",
-      "title_zh": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
-      "summary_zh": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F-theory constructions, wrapped M5-branes and exact worldsheet constructions. Its open-book benchmark inventory contains 1,073 items, including 499 with automatic finite-answer checking."
-    },
-    {
-      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
-      "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how they should self-improve?",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23219v1",
-      "published_at": "2026-11-17T18:57:10Z",
-      "tags": [
-        "agent",
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23219v1",
-      "summary_type": "extractive",
-      "title_zh": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
-      "summary_zh": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how they should self-improve?"
-    },
-    {
-      "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
-      "summary": "New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026, a U.S.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23216v1",
-      "published_at": "2026-11-17T18:56:42Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23216v1",
-      "summary_type": "extractive",
-      "title_zh": "Higher-Scoring Coding Models Did Not Get More Work Done",
-      "summary_zh": "New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026, a U.S."
-    },
-    {
-      "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
-      "summary": "Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state safety vulnerability} and introduce \\textbf{SceneSafetyBench}, comprising 375 image--question pairs spanning Initial, Medium, and Ultimate scene states and five visual presentations. Across eight VLMs, scene-state inputs elicit harmful assistance with attack success rates (ASRs) of 45.6--72.3\\%.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23206v1",
-      "published_at": "2026-11-17T18:48:02Z",
-      "tags": [
-        "paper",
-        "vision",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23206v1",
-      "summary_type": "extractive",
-      "title_zh": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
-      "summary_zh": "Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state safety vulnerability} and introduce \\textbf{SceneSafetyBench}, comprising 375 image--question pairs spanning Initial, Medium, and Ultimate scene states and five visual presentations. Across eight VLMs, scene-state inputs elicit harmful assistance with attack success rates (ASRs) of 45.6--72.3\\%."
-    },
-    {
-      "title": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
-      "summary": "Small language models that run on a laptop are attractive for writing signal-processing code offline, but they make systematic errors on digital signal processing (DSP) conventions. We apply supervised fine-tuning (SFT) to the Gemma 4 edge models E2B and E4B with 66 checked examples covering 11 signal-processing MATLAB subtasks, using low-rank adaptation (LoRA) and quantized LoRA (QLoRA) on the integrated GPU (iGPU) of a laptop, and deploy the 8-bit integer (int8) models with the adapters throug",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23205v1",
-      "published_at": "2026-11-17T18:47:37Z",
-      "tags": [
-        "paper",
-        "tool",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23205v1",
-      "summary_type": "extractive",
-      "title_zh": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
-      "summary_zh": "Small language models that run on a laptop are attractive for writing signal-processing code offline, but they make systematic errors on digital signal processing (DSP) conventions. We apply supervised fine-tuning (SFT) to the Gemma 4 edge models E2B and E4B with 66 checked examples covering 11 signal-processing MATLAB subtasks, using low-rank adaptation (LoRA) and quantized LoRA (QLoRA) on the integrated GPU (iGPU) of a laptop, and deploy the 8-bit integer (int8) models with the adapters throug"
-    },
-    {
-      "title": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents",
-      "summary": "AI agents increasingly collaborate across organizational boundaries, invoking tools and interacting with agents operated by independent entities. Although existing agent frameworks support planning and coordination, they lack a common mechanism for verifying cross-organizational agent identity, execution integrity, and authorization. We propose the Agent Trust Infrastructure (ATI), a framework-independent security architecture built on Public Key Infrastructure (PKI), Zero Trust Architecture (ZT",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23202v1",
-      "published_at": "2026-11-17T18:44:25Z",
-      "tags": [
-        "agent",
-        "paper",
-        "vision",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23202v1",
-      "summary_type": "extractive",
-      "title_zh": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents",
-      "summary_zh": "AI agents increasingly collaborate across organizational boundaries, invoking tools and interacting with agents operated by independent entities. Although existing agent frameworks support planning and coordination, they lack a common mechanism for verifying cross-organizational agent identity, execution integrity, and authorization. We propose the Agent Trust Infrastructure (ATI), a framework-independent security architecture built on Public Key Infrastructure (PKI), Zero Trust Architecture (ZT"
-    },
-    {
-      "title": "Structure--Residual Inductive Biases for Language Model Pretraining",
-      "summary": "Next-token prediction is relied upon to learn both predictive behavior and internal representations. We ask whether representation structure itself should be an explicit inductive bias. Motivated by the two-part coding view of Kolmogorov complexity, we study a structure--residual principle in which a representation separates structure from realization detail.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23197v1",
-      "published_at": "2026-11-17T18:38:27Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23197v1",
-      "summary_type": "extractive",
-      "title_zh": "Structure--Residual Inductive Biases for Language Model Pretraining",
-      "summary_zh": "Next-token prediction is relied upon to learn both predictive behavior and internal representations. We ask whether representation structure itself should be an explicit inductive bias. Motivated by the two-part coding view of Kolmogorov complexity, we study a structure--residual principle in which a representation separates structure from realization detail."
-    },
-    {
-      "title": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
-      "summary": "Goal recognition is the task of inferring an agent's intended goal from its observed behavior. Most existing work focuses on high-level symbolic recognition, abstracting away the continuous motion through which agents reach their goal. Methods that do reason over continuous trajectories rely on an explicit dynamics model that is hard to acquire and rarely transfers across settings.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23192v1",
-      "published_at": "2026-11-17T18:35:53Z",
-      "tags": [
-        "agent",
-        "paper",
-        "vision",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23192v1",
-      "summary_type": "extractive",
-      "title_zh": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
-      "summary_zh": "Goal recognition is the task of inferring an agent's intended goal from its observed behavior. Most existing work focuses on high-level symbolic recognition, abstracting away the continuous motion through which agents reach their goal. Methods that do reason over continuous trajectories rely on an explicit dynamics model that is hard to acquire and rarely transfers across settings."
-    },
-    {
-      "title": "Retrieval-Augmented Correction for Generalist Medical Image Segmentation",
-      "summary": "Automated segmentation is routinely used as the first step in quantitative image-based clinical workflows, where predicted masks are subsequently reviewed and corrected by human operators. Automated correction of the residual structural errors is currently addressed one anatomy at a time, so the number of trained correctors scales with the number of segmentation targets. We present GRACE, a retrieval-augmented refiner that edits an input mask under context drawn from a shared knowledge base of v",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23189v1",
-      "published_at": "2026-11-17T18:33:42Z",
-      "tags": [
-        "paper",
-        "vision"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23189v1",
-      "summary_type": "extractive",
-      "title_zh": "Retrieval-Augmented Correction for Generalist Medical Image Segmentation",
-      "summary_zh": "Automated segmentation is routinely used as the first step in quantitative image-based clinical workflows, where predicted masks are subsequently reviewed and corrected by human operators. Automated correction of the residual structural errors is currently addressed one anatomy at a time, so the number of trained correctors scales with the number of segmentation targets. We present GRACE, a retrieval-augmented refiner that edits an input mask under context drawn from a shared knowledge base of v"
-    },
-    {
-      "title": "Say Less, Hallucinate Less? Diagnosing and Restoring Object Coverage in Preference-Optimized Vision-Language Models",
-      "summary": "Preference optimization (PO) is the standard way to reduce object hallucination in large vision-language models. We find that four public PO checkpoints of LLaVA-1.5-7B also lower object coverage. They name fewer object categories, and their lower hallucination rates bring no significant gain in set-level object F1 on CHAIR.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23179v1",
-      "published_at": "2026-11-17T18:24:58Z",
-      "tags": [
-        "paper",
-        "vision",
-        "tool",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23179v1",
-      "summary_type": "extractive",
-      "title_zh": "Say Less, Hallucinate Less? Diagnosing and Restoring Object Coverage in Preference-Optimized Vision-Language Models",
-      "summary_zh": "Preference optimization (PO) is the standard way to reduce object hallucination in large vision-language models. We find that four public PO checkpoints of LLaVA-1.5-7B also lower object coverage. They name fewer object categories, and their lower hallucination rates bring no significant gain in set-level object F1 on CHAIR."
-    },
-    {
-      "title": "Inference after coding agents",
-      "summary": "Empirical research is changing rapidly as AI coding agents are becoming increasingly proficient in every step of it, from writing code to manipulating data. We argue that while the potential of coding agents for science is vast, their use in hypothesis testing poses a substantial threat to classical inference, as these agents enable a supercharged form of selective inference. In particular, we argue that coding agents carrying out empirical research introduce a new type of post-selection inferen",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23174v1",
-      "published_at": "2026-11-17T18:22:01Z",
-      "tags": [
-        "agent",
-        "paper",
-        "tool"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23174v1",
-      "summary_type": "extractive",
-      "title_zh": "Inference after coding agents",
-      "summary_zh": "Empirical research is changing rapidly as AI coding agents are becoming increasingly proficient in every step of it, from writing code to manipulating data. We argue that while the potential of coding agents for science is vast, their use in hypothesis testing poses a substantial threat to classical inference, as these agents enable a supercharged form of selective inference. In particular, we argue that coding agents carrying out empirical research introduce a new type of post-selection inferen"
-    },
-    {
-      "title": "Attribution Through the Decoder: Prediction-Space Explanations for Structured Outputs",
-      "summary": "Networks that predict angles, gaze directions, and rotations do not output these quantities directly: they emit raw coordinates that a fixed decoder, such as normalization, maps to the final prediction. Attribution methods are usually applied to the raw coordinates, so they can credit inputs for changes the decoder discards, such as rescaling a vector when only its direction matters. The resulting explanation can highlight inputs that have no effect on the prediction.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23161v1",
-      "published_at": "2026-11-17T18:13:50Z",
-      "tags": [
-        "paper",
-        "ai"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23161v1",
-      "summary_type": "extractive",
-      "title_zh": "Attribution Through the Decoder: Prediction-Space Explanations for Structured Outputs",
-      "summary_zh": "Networks that predict angles, gaze directions, and rotations do not output these quantities directly: they emit raw coordinates that a fixed decoder, such as normalization, maps to the final prediction. Attribution methods are usually applied to the raw coordinates, so they can credit inputs for changes the decoder discards, such as rescaling a vector when only its direction matters. The resulting explanation can highlight inputs that have no effect on the prediction."
-    },
-    {
-      "title": "Learning Stratified Policies for Inference-Time Objectives",
-      "summary": "Inference-time scaling improves the performance of large language models by sampling multiple responses and evaluating their collective utility. However, many existing approaches obtain these samples by repeatedly sampling from a single policy. In this work, we study if the sample budget at inference time can instead be allocated across a population of policies.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23154v1",
-      "published_at": "2026-11-17T18:06:12Z",
-      "tags": [
-        "paper",
-        "tool",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23154v1",
-      "summary_type": "extractive",
-      "title_zh": "Learning Stratified Policies for Inference-Time Objectives",
-      "summary_zh": "Inference-time scaling improves the performance of large language models by sampling multiple responses and evaluating their collective utility. However, many existing approaches obtain these samples by repeatedly sampling from a single policy. In this work, we study if the sample budget at inference time can instead be allocated across a population of policies."
-    },
-    {
-      "title": "Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance",
-      "summary": "The \"AI revolution\" has enabled teams across the technology industry to deliver software features at unprecedented velocity. While code evolves faster than ever, customer-facing documentation often struggles to stay up to speed. As users increasingly rely on LLM-based agents that consume documentation as their primary interface, the impact of this documentation gap worsens: stale information propagates and is treated as authoritative.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23142v1",
-      "published_at": "2026-11-17T17:59:13Z",
-      "tags": [
-        "agent",
-        "paper",
-        "tool",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23142v1",
-      "summary_type": "extractive",
-      "title_zh": "Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance",
-      "summary_zh": "The \"AI revolution\" has enabled teams across the technology industry to deliver software features at unprecedented velocity. While code evolves faster than ever, customer-facing documentation often struggles to stay up to speed. As users increasingly rely on LLM-based agents that consume documentation as their primary interface, the impact of this documentation gap worsens: stale information propagates and is treated as authoritative."
-    },
-    {
-      "title": "RSI-Prime: Training Models to Train Models",
-      "summary": "Enabling large language models (LLMs) to autonomously conduct training and improve target models is an important foundation for recursive self-improvement (RSI). As LLMs expand their role from being trained to conducting training, their model-training capability warrants dedicated study and systematic development. To this end, we construct RSI-Prime, a dataset for improving model-training capability, comprising 350 complete experimental trajectories across seven task categories.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23138v1",
-      "published_at": "2026-11-17T17:55:30Z",
-      "tags": [
-        "agent",
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23138v1",
-      "summary_type": "extractive",
-      "title_zh": "RSI-Prime: Training Models to Train Models",
-      "summary_zh": "Enabling large language models (LLMs) to autonomously conduct training and improve target models is an important foundation for recursive self-improvement (RSI). As LLMs expand their role from being trained to conducting training, their model-training capability warrants dedicated study and systematic development. To this end, we construct RSI-Prime, a dataset for improving model-training capability, comprising 350 complete experimental trajectories across seven task categories."
-    },
-    {
-      "title": "Natural Language Programming: Rethinking Language, Memory, and Cognition in the Era of Generative AI",
-      "summary": "Generative Artificial Intelligence is transforming the role of natural language in computational systems. In classical Natural Language Processing (NLP), language was treated as an object of computation: something to analyse, classify, translate, or generate. Large Language Models (LLMs) challenge this perspective, enabling natural language to function increasingly as an executable cognitive medium through which humans structure reasoning, orchestrate problem solving, and regulate hybrid human/A",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23106v1",
-      "published_at": "2026-11-17T17:27:01Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23106v1",
-      "summary_type": "extractive",
-      "title_zh": "Natural Language Programming: Rethinking Language, Memory, and Cognition in the Era of Generative AI",
-      "summary_zh": "Generative Artificial Intelligence is transforming the role of natural language in computational systems. In classical Natural Language Processing (NLP), language was treated as an object of computation: something to analyse, classify, translate, or generate. Large Language Models (LLMs) challenge this perspective, enabling natural language to function increasingly as an executable cognitive medium through which humans structure reasoning, orchestrate problem solving, and regulate hybrid human/A"
-    },
-    {
-      "title": "Hidden-State Similarity Predicts Re-Elicitation After Inoculation Prompting",
-      "summary": "Fine-tuning on narrow harmful tasks can cause emergent misalignment, where models generalize harmful behavior beyond the training distribution. Inoculation prompting can reduce this effect by explicitly eliciting the undesired behavior during training, but recent work shows that the behavior can reappear when evaluation prompts contain cues from the training context. We study what makes such prompts effective triggers.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23096v1",
-      "published_at": "2026-11-17T17:20:33Z",
-      "tags": [
-        "paper",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23096v1",
-      "summary_type": "extractive",
-      "title_zh": "Hidden-State Similarity Predicts Re-Elicitation After Inoculation Prompting",
-      "summary_zh": "Fine-tuning on narrow harmful tasks can cause emergent misalignment, where models generalize harmful behavior beyond the training distribution. Inoculation prompting can reduce this effect by explicitly eliciting the undesired behavior during training, but recent work shows that the behavior can reappear when evaluation prompts contain cues from the training context. We study what makes such prompts effective triggers."
-    },
-    {
-      "title": "What's in a Tree ? Hierarchical $n$-gram models as controlled approximators of language",
-      "summary": "Hierarchical models have been proposed as synthetic settings for studying language. However, their relevance to realistic language corpora remains underexplored. In this work, we introduce tree-grams, autoregressive generative $n$-gram models that build the conditional probability tensor $p(x_n \\mid x_{1:n-1})$ through a hierarchical composition of order-2 and order-3 tensors.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23093v1",
-      "published_at": "2026-11-17T17:14:01Z",
-      "tags": [
-        "paper",
-        "ai"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23093v1",
-      "summary_type": "extractive",
-      "title_zh": "What's in a Tree ? Hierarchical $n$-gram models as controlled approximators of language",
-      "summary_zh": "Hierarchical models have been proposed as synthetic settings for studying language. However, their relevance to realistic language corpora remains underexplored. In this work, we introduce tree-grams, autoregressive generative $n$-gram models that build the conditional probability tensor $p(x_n \\mid x_{1:n-1})$ through a hierarchical composition of order-2 and order-3 tensors."
-    },
-    {
-      "title": "BugGen 2.0: Rethinking the Roles of LLMs for Scalable RTL Bug Synthesis",
-      "summary": "AI-assisted RTL localization and debugging need ground-truth bug datasets with known locations and observable failures, while testbench grading uses injected bugs to measure detection capability. Creating such datasets at scale remains a major EDA challenge. BugGen 1.0 shows that Large Language Models (LLMs) can generate context-aware RTL mutations.",
-      "full_text": "",
-      "source": "arxiv",
-      "url": "http://arxiv.org/abs/2611.23091v1",
-      "published_at": "2026-11-17T17:11:54Z",
-      "tags": [
-        "paper",
-        "tool",
-        "llm"
-      ],
-      "score": "📄",
-      "item_id": "arxiv:2611.23091v1",
-      "summary_type": "extractive",
-      "title_zh": "BugGen 2.0: Rethinking the Roles of LLMs for Scalable RTL Bug Synthesis",
-      "summary_zh": "AI-assisted RTL localization and debugging need ground-truth bug datasets with known locations and observable failures, while testbench grading uses injected bugs to measure detection capability. Creating such datasets at scale remains a major EDA challenge. BugGen 1.0 shows that Large Language Models (LLMs) can generate context-aware RTL mutations."
-    },
-    {
-      "title": "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
-      "summary": "Hey HN, \nI built Emittr because, i frequently deal with air-gapped or locked-down systems where USB storage is disabled and third party software cannot be installed. Nobody blocks a physical keyboard, so i used the Linux Kernel&#x27;s USB gadget subsystem (ConfigFS at &#x2F;dev&#x2F;hidg0) to turn a rooted android phone to a real USB HID Keyboard and mouse. 1.",
-      "full_text": "Hey HN, \nI built Emittr because, i frequently deal with air-gapped or locked-down systems where USB storage is disabled and third party software cannot be installed. \nNobody blocks a physical keyboard, so i used the Linux Kernel&#x27;s USB gadget subsystem (ConfigFS at &#x2F;dev&#x2F;hidg0) to turn a rooted android phone to a real USB HID Keyboard and mouse. \n1. No installation on target device. It talks to motherboard USB controller, so it works in every locked down OS as well, BIOS, GRUB, etc.",
-      "source": "hacker news",
-      "url": "https://github.com/mr-anjaneyam/Emittr",
-      "published_at": "2026-11-16T14:18:15+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "19",
-      "item_id": "hn:50517840",
-      "summary_type": "extractive",
-      "title_zh": "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
-      "summary_zh": "Hey HN, \nI built Emittr because, i frequently deal with air-gapped or locked-down systems where USB storage is disabled and third party software cannot be installed. Nobody blocks a physical keyboard, so i used the Linux Kernel&#x27;s USB gadget subsystem (ConfigFS at &#x2F;dev&#x2F;hidg0) to turn a rooted android phone to a real USB HID Keyboard and mouse. 1."
-    },
-    {
-      "title": "The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter",
-      "summary": "The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter",
+      "title": "Camera Index",
+      "summary": "Camera Index",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://americanhandgunner.com/handguns/revolvers/the-first-revolver/",
-      "published_at": "2026-11-15T09:12:55+00:00",
+      "url": "https://www.cameraindex.co.uk/",
+      "published_at": "2026-11-17T11:35:33+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "20",
+      "item_id": "hn:50530088",
+      "summary_type": "extractive",
+      "title_zh": "Camera Index",
+      "summary_zh": "Camera Index"
+    },
+    {
+      "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
+      "summary": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+      "published_at": "2026-11-16T22:19:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "49",
+      "item_id": "hn:50524227",
+      "summary_type": "extractive",
+      "title_zh": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
+      "summary_zh": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover"
+    },
+    {
+      "title": "Logitech Harmony IR code online database archive",
+      "summary": "Logitech Harmony IR code online database archive",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/pickysysadmin/logitech-harmony-ir-archive",
+      "published_at": "2026-11-16T16:56:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "3",
+      "item_id": "hn:50519778",
+      "summary_type": "extractive",
+      "title_zh": "Logitech Harmony IR code online database archive",
+      "summary_zh": "Logitech Harmony IR code online database archive"
+    },
+    {
+      "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+      "summary": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
+      "published_at": "2026-11-16T14:59:54+00:00",
       "tags": [
         "ai"
       ],
       "score": "18",
-      "item_id": "hn:50505310",
+      "item_id": "hn:50518303",
       "summary_type": "extractive",
-      "title_zh": "The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter",
-      "summary_zh": "The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter"
+      "title_zh": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+      "summary_zh": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute"
     }
   ]
 }

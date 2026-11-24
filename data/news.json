@@ -1,26 +1,347 @@
 {
-  "updated_at": "2026-11-24T09:38:16.451463+00:00",
+  "updated_at": "2026-11-24T22:16:12.804342+00:00",
   "count": 50,
   "items": [
     {
-      "title": "I'm not excited about tech anymore",
-      "summary": "I'm not excited about tech anymore",
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "summary": "Heart attack and stroke risk detectable decades in advance",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore",
-      "published_at": "2026-11-24T07:46:12+00:00",
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "published_at": "2026-11-24T21:51:21+00:00",
       "tags": [
         "ai"
       ],
-      "score": "37",
-      "item_id": "hn:50625004",
+      "score": "5",
+      "item_id": "hn:50635271",
       "summary_type": "extractive",
-      "title_zh": "I'm not excited about tech anymore",
-      "summary_zh": "I'm not excited about tech anymore"
+      "title_zh": "Heart attack and stroke risk detectable decades in advance",
+      "summary_zh": "Heart attack and stroke risk detectable decades in advance"
     },
     {
-      "title": "2035 Came Early",
-      "summary": "2035 Came Early",
+      "title": "New York Ban AI Toys for 5 Years",
+      "summary": "New York Ban AI Toys for 5 Years",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+      "published_at": "2026-11-24T21:49:50+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "10",
+      "item_id": "hn:50635246",
+      "summary_type": "extractive",
+      "title_zh": "New York Ban AI Toys for 5 Years",
+      "summary_zh": "New York Ban AI Toys for 5 Years"
+    },
+    {
+      "title": "An unclassified CIA system was breached in a cyberattack",
+      "summary": "An unclassified CIA system was breached in a cyberattack",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+      "published_at": "2026-11-24T21:24:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "35",
+      "item_id": "hn:50634933",
+      "summary_type": "extractive",
+      "title_zh": "An unclassified CIA system was breached in a cyberattack",
+      "summary_zh": "An unclassified CIA system was breached in a cyberattack"
+    },
+    {
+      "title": "Working with AI",
+      "summary": "Working with AI",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "published_at": "2026-11-24T21:07:38+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "47",
+      "item_id": "hn:50634734",
+      "summary_type": "extractive",
+      "title_zh": "Working with AI",
+      "summary_zh": "Working with AI"
+    },
+    {
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "summary": "Hey HN, we’re Harshith, Param, and Vishnu and we&#x27;re building Versine (https:&#x2F;&#x2F;versine.com). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon.Versine is an MCP that sits in front of a wallet with a balance.",
+      "full_text": "Hey HN, we’re Harshith, Param, and Vishnu and we&#x27;re building Versine (https:&#x2F;&#x2F;versine.com). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon.Versine is an MCP that sits in front of a wallet with a balance. With it, your agent can do things like:- Send money to someone with your approval (via passkey in our app)- Send and reques",
+      "source": "hacker news",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "published_at": "2026-11-24T20:44:15+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "36",
+      "item_id": "hn:50634426",
+      "summary_type": "extractive",
+      "title_zh": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "summary_zh": "Hey HN, we’re Harshith, Param, and Vishnu and we&#x27;re building Versine (https:&#x2F;&#x2F;versine.com). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon.Versine is an MCP that sits in front of a wallet with a balance."
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "summary": "Ternary Bonsai 2.5 27B",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "published_at": "2026-11-24T20:08:03+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "180",
+      "item_id": "hn:50633922",
+      "summary_type": "extractive",
+      "title_zh": "Ternary Bonsai 2.5 27B",
+      "summary_zh": "Ternary Bonsai 2.5 27B"
+    },
+    {
+      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "summary": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+      "published_at": "2026-11-24T19:40:43+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "38",
+      "item_id": "hn:50633424",
+      "summary_type": "extractive",
+      "title_zh": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "summary_zh": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver"
+    },
+    {
+      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "summary": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://grafana.com/grafana/download",
+      "published_at": "2026-11-24T19:23:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "92",
+      "item_id": "hn:50633159",
+      "summary_type": "extractive",
+      "title_zh": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "summary_zh": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)"
+    },
+    {
+      "title": "Cloudflare hides shortcomings of the underlying infrastructure",
+      "summary": "Cloudflare hides shortcomings of the underlying infrastructure",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "published_at": "2026-11-24T19:03:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "125",
+      "item_id": "hn:50632883",
+      "summary_type": "extractive",
+      "title_zh": "Cloudflare hides shortcomings of the underlying infrastructure",
+      "summary_zh": "Cloudflare hides shortcomings of the underlying infrastructure"
+    },
+    {
+      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+      "summary": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+      "published_at": "2026-11-24T17:07:41+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "182",
+      "item_id": "hn:50631157",
+      "summary_type": "extractive",
+      "title_zh": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+      "summary_zh": "Microsoft declares 'Code Red' after historic outage, internal memos show"
+    },
+    {
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "summary": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "published_at": "2026-11-24T17:00:55+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "1",
+      "item_id": "hn:50631041",
+      "summary_type": "extractive",
+      "title_zh": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "summary_zh": "Weave (YC W25) is hiring ML, AI, product, & design engineers"
+    },
+    {
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "summary": "Active intrusion campaign against Check Point security management servers",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "published_at": "2026-11-24T16:32:17+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "235",
+      "item_id": "hn:50630594",
+      "summary_type": "extractive",
+      "title_zh": "Active intrusion campaign against Check Point security management servers",
+      "summary_zh": "Active intrusion campaign against Check Point security management servers"
+    },
+    {
+      "title": "Jetty Pro",
+      "summary": "Jetty Pro",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "published_at": "2026-11-24T16:23:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "232",
+      "item_id": "hn:50630462",
+      "summary_type": "extractive",
+      "title_zh": "Jetty Pro",
+      "summary_zh": "Jetty Pro"
+    },
+    {
+      "title": "The KL Divergence Is Never Negative, Except in PyTorch",
+      "summary": "The KL Divergence Is Never Negative, Except in PyTorch",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://arxiv.org/abs/2611.30835",
+      "published_at": "2026-11-24T15:50:22+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "72",
+      "item_id": "hn:50629962",
+      "summary_type": "extractive",
+      "title_zh": "The KL Divergence Is Never Negative, Except in PyTorch",
+      "summary_zh": "The KL Divergence Is Never Negative, Except in PyTorch"
+    },
+    {
+      "title": "A training engine for your local model, using your idle compute",
+      "summary": "A training engine for your local model, using your idle compute",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/sous-labs/songe",
+      "published_at": "2026-11-24T15:03:40+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "141",
+      "item_id": "hn:50629231",
+      "summary_type": "extractive",
+      "title_zh": "A training engine for your local model, using your idle compute",
+      "summary_zh": "A training engine for your local model, using your idle compute"
+    },
+    {
+      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+      "summary": "Splitting USB-C: USB 3 and USB 2 on one port",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "published_at": "2026-11-24T14:54:10+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "111",
+      "item_id": "hn:50629106",
+      "summary_type": "extractive",
+      "title_zh": "Splitting USB-C: USB 3 and USB 2 on one port",
+      "summary_zh": "Splitting USB-C: USB 3 and USB 2 on one port"
+    },
+    {
+      "title": "GTA 6 Running on Windows",
+      "summary": "GTA 6 Running on Windows",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+      "published_at": "2026-11-24T13:19:31+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "209",
+      "item_id": "hn:50627783",
+      "summary_type": "extractive",
+      "title_zh": "GTA 6 Running on Windows",
+      "summary_zh": "GTA 6 Running on Windows"
+    },
+    {
+      "title": "LLM agents work for their parent companies, not for you",
+      "summary": "LLM agents work for their parent companies, not for you",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "published_at": "2026-11-24T12:40:15+00:00",
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": "835",
+      "item_id": "hn:50627340",
+      "summary_type": "extractive",
+      "title_zh": "LLM agents work for their parent companies, not for you",
+      "summary_zh": "LLM agents work for their parent companies, not for you"
+    },
+    {
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "summary": "Worshipping at the altar of Brendan Gregg",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "published_at": "2026-11-24T10:50:14+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "206",
+      "item_id": "hn:50626413",
+      "summary_type": "extractive",
+      "title_zh": "Worshipping at the altar of Brendan Gregg",
+      "summary_zh": "Worshipping at the altar of Brendan Gregg"
+    },
+    {
+      "title": "Quad9 pulled their DNS service from France",
+      "summary": "Quad9 pulled their DNS service from France",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+      "published_at": "2026-11-24T08:33:14+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "305",
+      "item_id": "hn:50625384",
+      "summary_type": "extractive",
+      "title_zh": "Quad9 pulled their DNS service from France",
+      "summary_zh": "Quad9 pulled their DNS service from France"
+    },
+    {
+      "title": "Gödel Enigma",
+      "summary": "Gödel Enigma",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "published_at": "2026-11-24T08:16:02+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "23",
+      "item_id": "hn:50625265",
+      "summary_type": "extractive",
+      "title_zh": "Gödel Enigma",
+      "summary_zh": "Gödel Enigma"
+    },
+    {
+      "title": "2035 came early",
+      "summary": "2035 came early",
       "full_text": "",
       "source": "hacker news",
       "url": "https://fzakaria.com/2026/11/23/2035-came-early",
@@ -28,107 +349,27 @@
       "tags": [
         "ai"
       ],
-      "score": "163",
+      "score": "917",
       "item_id": "hn:50624497",
       "summary_type": "extractive",
-      "title_zh": "2035 Came Early",
-      "summary_zh": "2035 Came Early"
+      "title_zh": "2035 came early",
+      "summary_zh": "2035 came early"
     },
     {
-      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "summary": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "full_text": "",
+      "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+      "summary": "Previous thread: Leonida – PC Recompilation of the Xbox Version of GTA 6 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50595168",
+      "full_text": "Previous thread: Leonida – PC Recompilation of the Xbox Version of GTA 6 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50595168",
       "source": "hacker news",
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-      "published_at": "2026-11-24T05:15:22+00:00",
+      "url": "https://github.com/ItsNotRexed/Leonida/issues",
+      "published_at": "2026-11-24T02:08:09+00:00",
       "tags": [
         "ai"
       ],
-      "score": "71",
-      "item_id": "hn:50624061",
+      "score": "321",
+      "item_id": "hn:50622638",
       "summary_type": "extractive",
-      "title_zh": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "summary_zh": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years"
-    },
-    {
-      "title": "Drone Maps of Salvage Yards",
-      "summary": "Drone Maps of Salvage Yards",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://salvageyarddrone.wordpress.com/",
-      "published_at": "2026-11-24T04:00:28+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "80",
-      "item_id": "hn:50623515",
-      "summary_type": "extractive",
-      "title_zh": "Drone Maps of Salvage Yards",
-      "summary_zh": "Drone Maps of Salvage Yards"
-    },
-    {
-      "title": "Making a dumb TV just smart enough",
-      "summary": "Making a dumb TV just smart enough",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
-      "published_at": "2026-11-24T02:46:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "71",
-      "item_id": "hn:50622934",
-      "summary_type": "extractive",
-      "title_zh": "Making a dumb TV just smart enough",
-      "summary_zh": "Making a dumb TV just smart enough"
-    },
-    {
-      "title": "Rune: Rust VM for Emacs",
-      "summary": "Rune: Rust VM for Emacs",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/CeleritasCelery/rune",
-      "published_at": "2026-11-24T02:30:47+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "39",
-      "item_id": "hn:50622804",
-      "summary_type": "extractive",
-      "title_zh": "Rune: Rust VM for Emacs",
-      "summary_zh": "Rune: Rust VM for Emacs"
-    },
-    {
-      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-      "summary": "New York Bans Subscription and Post-Purchase Fees on Cars",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-      "published_at": "2026-11-24T02:27:02+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "340",
-      "item_id": "hn:50622774",
-      "summary_type": "extractive",
-      "title_zh": "New York Bans Subscription and Post-Purchase Fees on Cars",
-      "summary_zh": "New York Bans Subscription and Post-Purchase Fees on Cars"
-    },
-    {
-      "title": "The Power of GraphQL, Without GraphQL",
-      "summary": "The Power of GraphQL, Without GraphQL",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://cobalt27.dev/",
-      "published_at": "2026-11-24T00:03:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "54",
-      "item_id": "hn:50621466",
-      "summary_type": "extractive",
-      "title_zh": "The Power of GraphQL, Without GraphQL",
-      "summary_zh": "The Power of GraphQL, Without GraphQL"
+      "title_zh": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+      "summary_zh": "Previous thread: Leonida – PC Recompilation of the Xbox Version of GTA 6 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50595168"
     },
     {
       "title": "The search for a top dark matter candidate",
@@ -140,91 +381,11 @@
       "tags": [
         "ai"
       ],
-      "score": "45",
+      "score": "64",
       "item_id": "hn:50620831",
       "summary_type": "extractive",
       "title_zh": "The search for a top dark matter candidate",
       "summary_zh": "The search for a top dark matter candidate"
-    },
-    {
-      "title": "Freeing the iPod Nano 5G",
-      "summary": "Freeing the iPod Nano 5G",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
-      "published_at": "2026-11-23T23:03:13+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "105",
-      "item_id": "hn:50620721",
-      "summary_type": "extractive",
-      "title_zh": "Freeing the iPod Nano 5G",
-      "summary_zh": "Freeing the iPod Nano 5G"
-    },
-    {
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "summary": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "published_at": "2026-11-23T22:32:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "460",
-      "item_id": "hn:50620349",
-      "summary_type": "extractive",
-      "title_zh": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "summary_zh": "Stalwart is now a drop-in replacement for Microsoft Exchange"
-    },
-    {
-      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-      "summary": "Bored.com: Fun, interesting and cool websites to explore when bored",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.bored.com/",
-      "published_at": "2026-11-23T21:01:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "239",
-      "item_id": "hn:50619207",
-      "summary_type": "extractive",
-      "title_zh": "Bored.com: Fun, interesting and cool websites to explore when bored",
-      "summary_zh": "Bored.com: Fun, interesting and cool websites to explore when bored"
-    },
-    {
-      "title": "GPUI is getting its own repository",
-      "summary": "GPUI is getting its own repository",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/zed-industries/gpui",
-      "published_at": "2026-11-23T20:52:54+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "252",
-      "item_id": "hn:50619103",
-      "summary_type": "extractive",
-      "title_zh": "GPUI is getting its own repository",
-      "summary_zh": "GPUI is getting its own repository"
-    },
-    {
-      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "summary": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://arm.jonpalmisc.com/",
-      "published_at": "2026-11-23T19:17:55+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 1.0k",
-      "item_id": "hn:50617499",
-      "summary_type": "extractive",
-      "title_zh": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "summary_zh": "Per Arm's request, this site will be discontinued on 4 December 2026 :("
     },
     {
       "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
@@ -234,9 +395,9 @@
       "url": "http://arxiv.org/abs/2611.31228v1",
       "published_at": "2026-11-23T18:58:52Z",
       "tags": [
+        "llm",
         "agent",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.31228v1",
@@ -269,9 +430,9 @@
       "url": "http://arxiv.org/abs/2611.31215v1",
       "published_at": "2026-11-23T18:55:44Z",
       "tags": [
+        "llm",
         "vision",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.31215v1",
@@ -288,9 +449,9 @@
       "published_at": "2026-11-23T18:48:02Z",
       "tags": [
         "vision",
+        "tool",
         "agent",
-        "paper",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.31198v1",
@@ -322,8 +483,8 @@
       "url": "http://arxiv.org/abs/2611.31190v1",
       "published_at": "2026-11-23T18:42:54Z",
       "tags": [
-        "paper",
-        "tool"
+        "tool",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.31190v1",
@@ -339,10 +500,10 @@
       "url": "http://arxiv.org/abs/2611.31185v1",
       "published_at": "2026-11-23T18:38:53Z",
       "tags": [
-        "agent",
-        "paper",
         "llm",
-        "tool"
+        "tool",
+        "agent",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.31185v1",
@@ -358,8 +519,8 @@
       "url": "http://arxiv.org/abs/2611.31175v1",
       "published_at": "2026-11-23T18:32:04Z",
       "tags": [
-        "paper",
-        "llm"
+        "llm",
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.31175v1",
@@ -409,9 +570,9 @@
       "url": "http://arxiv.org/abs/2611.31160v1",
       "published_at": "2026-11-23T18:23:16Z",
       "tags": [
+        "tool",
         "agent",
-        "paper",
-        "tool"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.31160v1",
@@ -478,9 +639,9 @@
       "url": "http://arxiv.org/abs/2611.31129v1",
       "published_at": "2026-11-23T18:01:58Z",
       "tags": [
+        "llm",
         "vision",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.31129v1",
@@ -496,9 +657,9 @@
       "url": "http://arxiv.org/abs/2611.31117v1",
       "published_at": "2026-11-23T17:53:12Z",
       "tags": [
+        "llm",
         "agent",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.31117v1",
@@ -514,9 +675,9 @@
       "url": "http://arxiv.org/abs/2611.31115v1",
       "published_at": "2026-11-23T17:52:55Z",
       "tags": [
+        "llm",
         "agent",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.31115v1",
@@ -566,9 +727,9 @@
       "url": "http://arxiv.org/abs/2611.31105v1",
       "published_at": "2026-11-23T17:43:16Z",
       "tags": [
+        "llm",
         "agent",
-        "paper",
-        "llm"
+        "paper"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.31105v1",
@@ -577,260 +738,100 @@
       "summary_zh": "Updating an LLM adapter should not require replaying the full interaction history of every active session. Yet reusing key-value (KV) cache entries computed under an earlier version mixes model versions, while full-history re-prefill becomes increasingly costly as histories and session fleets grow. We introduce LiveLora, a model-runtime co-design for exact final-block KV cache migration."
     },
     {
-      "title": "Kagi Mail (public beta)",
-      "summary": "Kagi Mail (public beta)",
+      "title": "An Italian folding bicycle design that fits into a suitcase",
+      "summary": "An Italian folding bicycle design that fits into a suitcase",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://blog.kagi.com/kagi-mail-public-beta",
-      "published_at": "2026-11-23T17:17:01+00:00",
+      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
+      "published_at": "2026-11-23T12:40:08+00:00",
       "tags": [
         "ai"
       ],
-      "score": "422",
-      "item_id": "hn:50615481",
+      "score": "77",
+      "item_id": "hn:50610820",
       "summary_type": "extractive",
-      "title_zh": "Kagi Mail (public beta)",
-      "summary_zh": "Kagi Mail (public beta)"
+      "title_zh": "An Italian folding bicycle design that fits into a suitcase",
+      "summary_zh": "An Italian folding bicycle design that fits into a suitcase"
     },
     {
-      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "summary": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "title": "Calculate how many mesh radio nodes your city needs",
+      "summary": "Calculate how many mesh radio nodes your city needs",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://twitter.com/ylecun/status/2124550037912920090",
-      "published_at": "2026-11-23T17:07:26+00:00",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
+      "published_at": "2026-11-23T09:46:57+00:00",
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.6k",
-      "item_id": "hn:50615308",
+      "score": "38",
+      "item_id": "hn:50609483",
       "summary_type": "extractive",
-      "title_zh": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "summary_zh": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\""
+      "title_zh": "Calculate how many mesh radio nodes your city needs",
+      "summary_zh": "Calculate how many mesh radio nodes your city needs"
     },
     {
-      "title": "Ladybird is now in alpha",
-      "summary": "Ladybird is now in alpha",
+      "title": "The new set of problems for engineers to solve",
+      "summary": "The new set of problems for engineers to solve",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://ladybird.org/posts/alpha/",
-      "published_at": "2026-11-23T16:13:12+00:00",
+      "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
+      "published_at": "2026-11-22T23:42:53+00:00",
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.9k",
-      "item_id": "hn:50614249",
+      "score": "107",
+      "item_id": "hn:50605361",
       "summary_type": "extractive",
-      "title_zh": "Ladybird is now in alpha",
-      "summary_zh": "Ladybird is now in alpha"
+      "title_zh": "The new set of problems for engineers to solve",
+      "summary_zh": "The new set of problems for engineers to solve"
     },
     {
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "summary": "https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-board-reinstates-j...https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;11&#x2F;23&#x2F;nvidia-jensen-huang-congress...",
-      "full_text": "https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-board-reinstates-j...https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;11&#x2F;23&#x2F;nvidia-jensen-huang-congress...",
-      "source": "hacker news",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "published_at": "2026-11-23T14:00:18+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "🔥 2.5k",
-      "item_id": "hn:50611576",
-      "summary_type": "extractive",
-      "title_zh": "Nvidia Reinstates Jensen Huang as CEO",
-      "summary_zh": "https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-board-reinstates-j...https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;11&#x2F;23&#x2F;nvidia-jensen-huang-congress..."
-    },
-    {
-      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-      "summary": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding.To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks.Benchmarks (BF16 &#x2F; 3-bit &#x2F; 2.5-bit &#x2F; 2-bit):- DeepSWE: 39.8 &#x2F; 41.0 &#x2F; 41.9 &#x2F; 28.6- Terminal-Bench 2.1: 62.6 &#x2F; 63.8 &#x2F; 60.2 &#x2F; 52.4- AIME 25+26: 97.7 &#x2F; 98.3 &#x",
-      "full_text": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding.To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks.Benchmarks (BF16 &#x2F; 3-bit &#x2F; 2.5-bit &#x2F; 2-bit):- DeepSWE: 39.8 &#x2F; 41.0 &#x2F; 41.9 &#x2F; 28.6- Terminal-Bench 2.1: 62.6 &#x2F; 63.8 &#x2F; 60.2 &#x2F; 52.4- AIME 25+26: 97.7 &#x2F; 98.3 &#x",
-      "source": "hacker news",
-      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-      "published_at": "2026-11-23T13:42:38+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "169",
-      "item_id": "hn:50611402",
-      "summary_type": "extractive",
-      "title_zh": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-      "summary_zh": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding.To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks.Benchmarks (BF16 &#x2F; 3-bit &#x2F; 2.5-bit &#x2F; 2-bit):- DeepSWE: 39.8 &#x2F; 41.0 &#x2F; 41.9 &#x2F; 28.6- Terminal-Bench 2.1: 62.6 &#x2F; 63.8 &#x2F; 60.2 &#x2F; 52.4- AIME 25+26: 97.7 &#x2F; 98.3 &#x"
-    },
-    {
-      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-      "summary": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "title": "Cento fine foods has been sued for “tomato fraud”",
+      "summary": "Cento fine foods has been sued for “tomato fraud”",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/mikuta0407/win4wine",
-      "published_at": "2026-11-23T12:28:11+00:00",
+      "url": "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html",
+      "published_at": "2026-11-22T21:59:09+00:00",
       "tags": [
         "ai"
       ],
-      "score": "236",
-      "item_id": "hn:50610743",
+      "score": "72",
+      "item_id": "hn:50604355",
       "summary_type": "extractive",
-      "title_zh": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-      "summary_zh": "Win4wine – Run Windows Shell as the Linux Desktop on Wine"
+      "title_zh": "Cento fine foods has been sued for “tomato fraud”",
+      "summary_zh": "Cento fine foods has been sued for “tomato fraud”"
     },
     {
-      "title": "New material gets stronger the more it bends",
-      "summary": "New material gets stronger the more it bends",
+      "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+      "summary": "How a Mechanical Watch Keeps Time (Interactive 3D)",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/",
-      "published_at": "2026-11-23T11:12:33+00:00",
+      "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+      "published_at": "2026-11-22T13:21:25+00:00",
       "tags": [
         "ai"
       ],
-      "score": "27",
-      "item_id": "hn:50610170",
+      "score": "196",
+      "item_id": "hn:50599458",
       "summary_type": "extractive",
-      "title_zh": "New material gets stronger the more it bends",
-      "summary_zh": "New material gets stronger the more it bends"
+      "title_zh": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+      "summary_zh": "How a Mechanical Watch Keeps Time (Interactive 3D)"
     },
     {
-      "title": "Lowering Perplexity Without Scaling",
-      "summary": "Lowering Perplexity Without Scaling",
+      "title": "The Spray Bottle",
+      "summary": "The Spray Bottle",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
-      "published_at": "2026-11-23T04:33:50+00:00",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "published_at": "2026-11-22T11:16:30+00:00",
       "tags": [
         "ai"
       ],
-      "score": "46",
-      "item_id": "hn:50607512",
+      "score": "282",
+      "item_id": "hn:50598555",
       "summary_type": "extractive",
-      "title_zh": "Lowering Perplexity Without Scaling",
-      "summary_zh": "Lowering Perplexity Without Scaling"
-    },
-    {
-      "title": "Becoming a Magician",
-      "summary": "Becoming a Magician",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
-      "published_at": "2026-11-23T02:04:25+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "8",
-      "item_id": "hn:50606611",
-      "summary_type": "extractive",
-      "title_zh": "Becoming a Magician",
-      "summary_zh": "Becoming a Magician"
-    },
-    {
-      "title": "Nespresso's project to reduce grams of coffee per capsule",
-      "summary": "Nespresso's project to reduce grams of coffee per capsule",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
-      "published_at": "2026-11-22T23:57:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "310",
-      "item_id": "hn:50605479",
-      "summary_type": "extractive",
-      "title_zh": "Nespresso's project to reduce grams of coffee per capsule",
-      "summary_zh": "Nespresso's project to reduce grams of coffee per capsule"
-    },
-    {
-      "title": "Modernizing iperf/iperf3 and introducing fireperf",
-      "summary": "Modernizing iperf/iperf3 and introducing fireperf",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
-      "published_at": "2026-11-22T22:37:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "97",
-      "item_id": "hn:50604710",
-      "summary_type": "extractive",
-      "title_zh": "Modernizing iperf/iperf3 and introducing fireperf",
-      "summary_zh": "Modernizing iperf/iperf3 and introducing fireperf"
-    },
-    {
-      "title": "C++26 is done (again): ISO C++ meeting trip report",
-      "summary": "C++26 is done (again): ISO C++ meeting trip report",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
-      "published_at": "2026-11-22T15:59:59+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "126",
-      "item_id": "hn:50600838",
-      "summary_type": "extractive",
-      "title_zh": "C++26 is done (again): ISO C++ meeting trip report",
-      "summary_zh": "C++26 is done (again): ISO C++ meeting trip report"
-    },
-    {
-      "title": "Derivative Flipping",
-      "summary": "Derivative Flipping",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
-      "published_at": "2026-11-22T00:13:17+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "89",
-      "item_id": "hn:50594935",
-      "summary_type": "extractive",
-      "title_zh": "Derivative Flipping",
-      "summary_zh": "Derivative Flipping"
-    },
-    {
-      "title": "Ride the SQL curve from basics to mastery",
-      "summary": "Ride the SQL curve from basics to mastery",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://sqlride.com/",
-      "published_at": "2026-11-21T19:56:36+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "30",
-      "item_id": "hn:50593006",
-      "summary_type": "extractive",
-      "title_zh": "Ride the SQL curve from basics to mastery",
-      "summary_zh": "Ride the SQL curve from basics to mastery"
-    },
-    {
-      "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
-      "summary": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
-      "published_at": "2026-11-21T18:49:45+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "30",
-      "item_id": "hn:50592307",
-      "summary_type": "extractive",
-      "title_zh": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
-      "summary_zh": "Arctic: A Practical Lock-Free Adaptive Radix Tree"
-    },
-    {
-      "title": "How photos were transmitted by wire in the 1930s (2024)",
-      "summary": "How photos were transmitted by wire in the 1930s (2024)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s",
-      "published_at": "2026-11-20T21:47:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "59",
-      "item_id": "hn:50582698",
-      "summary_type": "extractive",
-      "title_zh": "How photos were transmitted by wire in the 1930s (2024)",
-      "summary_zh": "How photos were transmitted by wire in the 1930s (2024)"
+      "title_zh": "The Spray Bottle",
+      "summary_zh": "The Spray Bottle"
     }
   ]
 }

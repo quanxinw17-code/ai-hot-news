@@ -1,54 +1,167 @@
 {
-  "updated_at": "2026-11-27T21:01:21.883889+00:00",
+  "updated_at": "2026-11-28T07:29:08.062033+00:00",
   "count": 50,
   "items": [
     {
-      "title": "UK net migration at lowest level since 1997",
-      "summary": "UK net migration at lowest level since 1997",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "summary": "Unkernel: Real Linux kernel, compiled to WebAssembly",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.bbc.com/news/articles/cq36gj12n0l3o",
-      "published_at": "2026-11-27T20:38:19+00:00",
+      "url": "https://unkernel.dev",
+      "published_at": "2026-11-28T03:19:20+00:00",
       "tags": [
         "ai"
       ],
-      "score": "7",
-      "item_id": "hn:50671417",
+      "score": "165",
+      "item_id": "hn:50674218",
       "summary_type": "extractive",
-      "title_zh": "UK net migration at lowest level since 1997",
-      "summary_zh": "UK net migration at lowest level since 1997"
+      "title_zh": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "summary_zh": "Unkernel: Real Linux kernel, compiled to WebAssembly"
     },
     {
-      "title": "Spitting in the Face of Glaude",
-      "summary": "Spitting in the Face of Glaude",
+      "title": "Atari Homebrew Awards Cancelled",
+      "summary": "Atari Homebrew Awards Cancelled",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.tracingwoodgrains.com/p/spitting-in-the-face-of-glaude",
-      "published_at": "2026-11-27T20:27:21+00:00",
+      "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "published_at": "2026-11-28T02:03:25+00:00",
       "tags": [
         "ai"
       ],
-      "score": "3",
-      "item_id": "hn:50671320",
+      "score": "175",
+      "item_id": "hn:50673688",
       "summary_type": "extractive",
-      "title_zh": "Spitting in the Face of Glaude",
-      "summary_zh": "Spitting in the Face of Glaude"
+      "title_zh": "Atari Homebrew Awards Cancelled",
+      "summary_zh": "Atari Homebrew Awards Cancelled"
     },
     {
-      "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
-      "summary": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "summary": "Woman evicted after landlord's AI assistant told her she could delay rent",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
-      "published_at": "2026-11-27T20:25:15+00:00",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "published_at": "2026-11-28T01:32:56+00:00",
       "tags": [
         "ai"
       ],
-      "score": "17",
-      "item_id": "hn:50671301",
+      "score": "153",
+      "item_id": "hn:50673521",
       "summary_type": "extractive",
-      "title_zh": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
-      "summary_zh": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order"
+      "title_zh": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "summary_zh": "Woman evicted after landlord's AI assistant told her she could delay rent"
+    },
+    {
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "summary": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "published_at": "2026-11-27T23:06:29+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "312",
+      "item_id": "hn:50672565",
+      "summary_type": "extractive",
+      "title_zh": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "summary_zh": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster"
+    },
+    {
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "summary": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://tabernet.es/",
+      "published_at": "2026-11-27T23:00:30+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "92",
+      "item_id": "hn:50672521",
+      "summary_type": "extractive",
+      "title_zh": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "summary_zh": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs"
+    },
+    {
+      "title": "Source Control from Hell",
+      "summary": "Source Control from Hell",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://frantic.im/git/",
+      "published_at": "2026-11-27T22:06:44+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "84",
+      "item_id": "hn:50672142",
+      "summary_type": "extractive",
+      "title_zh": "Source Control from Hell",
+      "summary_zh": "Source Control from Hell"
+    },
+    {
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "summary": "9/UX: a Macintosh-inspired desktop for 9front",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://progrium.github.io/9ux/",
+      "published_at": "2026-11-27T21:48:14+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "112",
+      "item_id": "hn:50672008",
+      "summary_type": "extractive",
+      "title_zh": "9/UX: a Macintosh-inspired desktop for 9front",
+      "summary_zh": "9/UX: a Macintosh-inspired desktop for 9front"
+    },
+    {
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "summary": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://sessiongraph.ai/",
+      "published_at": "2026-11-27T21:07:34+00:00",
+      "tags": [
+        "agent",
+        "vision"
+      ],
+      "score": "45",
+      "item_id": "hn:50671651",
+      "summary_type": "extractive",
+      "title_zh": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "summary_zh": "SessionGraph: Visualize all your coding agent sessions in one interactive graph"
+    },
+    {
+      "title": "Quad9 Blocks Nginx2root.com",
+      "summary": "Quad9 Blocks Nginx2root.com",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://quad9.net/?url=nginx2root.com#domain-tester",
+      "published_at": "2026-11-27T21:03:56+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "24",
+      "item_id": "hn:50671619",
+      "summary_type": "extractive",
+      "title_zh": "Quad9 Blocks Nginx2root.com",
+      "summary_zh": "Quad9 Blocks Nginx2root.com"
+    },
+    {
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "summary": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://github.com/skeeto/prospero",
+      "published_at": "2026-11-27T20:23:14+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "56",
+      "item_id": "hn:50671275",
+      "summary_type": "extractive",
+      "title_zh": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "summary_zh": "Prospero: Bloat-free, native AI coding harness with ImGui"
     },
     {
       "title": "The AT&T Unix PC (3B1) VM",
@@ -60,7 +173,7 @@
       "tags": [
         "ai"
       ],
-      "score": "16",
+      "score": "78",
       "item_id": "hn:50670841",
       "summary_type": "extractive",
       "title_zh": "The AT&T Unix PC (3B1) VM",
@@ -71,48 +184,16 @@
       "summary": "Michael Nielsen took down his book on neural nets",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+      "url": "https://neuralnetworksanddeeplearning.com/",
       "published_at": "2026-11-27T19:31:01+00:00",
       "tags": [
         "ai"
       ],
-      "score": "136",
+      "score": "492",
       "item_id": "hn:50670757",
       "summary_type": "extractive",
       "title_zh": "Michael Nielsen took down his book on neural nets",
       "summary_zh": "Michael Nielsen took down his book on neural nets"
-    },
-    {
-      "title": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
-      "summary": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84",
-      "published_at": "2026-11-27T19:25:16+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "24",
-      "item_id": "hn:50670694",
-      "summary_type": "extractive",
-      "title_zh": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
-      "summary_zh": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84"
-    },
-    {
-      "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
-      "summary": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
-      "published_at": "2026-11-27T18:28:29+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "12",
-      "item_id": "hn:50670088",
-      "summary_type": "extractive",
-      "title_zh": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
-      "summary_zh": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]"
     },
     {
       "title": "Convex skills send the user's app idea to a remote server without telling them",
@@ -124,7 +205,7 @@
       "tags": [
         "ai"
       ],
-      "score": "117",
+      "score": "280",
       "item_id": "hn:50669765",
       "summary_type": "extractive",
       "title_zh": "Convex skills send the user's app idea to a remote server without telling them",
@@ -140,7 +221,7 @@
       "tags": [
         "ai"
       ],
-      "score": "281",
+      "score": "498",
       "item_id": "hn:50668145",
       "summary_type": "extractive",
       "title_zh": "Credit card skimming scripts using WebRTC found on popular shopping sites",
@@ -156,7 +237,7 @@
       "tags": [
         "ai"
       ],
-      "score": "135",
+      "score": "216",
       "item_id": "hn:50667989",
       "summary_type": "extractive",
       "title_zh": "False computer-checked proofs",
@@ -172,7 +253,7 @@
       "tags": [
         "ai"
       ],
-      "score": "290",
+      "score": "365",
       "item_id": "hn:50667726",
       "summary_type": "extractive",
       "title_zh": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
@@ -188,7 +269,7 @@
       "tags": [
         "ai"
       ],
-      "score": "30",
+      "score": "112",
       "item_id": "hn:50667371",
       "summary_type": "extractive",
       "title_zh": "Rayshader 1.0: Exit the Matrix",
@@ -204,75 +285,27 @@
       "tags": [
         "ai"
       ],
-      "score": "71",
+      "score": "116",
       "item_id": "hn:50667062",
       "summary_type": "extractive",
       "title_zh": "Making a 3D fantasy map like a 16th-Century atlas",
       "summary_zh": "Making a 3D fantasy map like a 16th-Century atlas"
     },
     {
-      "title": "Mental Health Resources and Political Engagement",
-      "summary": "Mental Health Resources and Political Engagement",
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "summary": "Paolo Soleri built a utopian eco-city in the Arizona desert",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
-      "published_at": "2026-11-27T13:01:02+00:00",
+      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+      "published_at": "2026-11-27T13:30:20+00:00",
       "tags": [
         "ai"
       ],
-      "score": "114",
-      "item_id": "hn:50666436",
+      "score": "32",
+      "item_id": "hn:50666724",
       "summary_type": "extractive",
-      "title_zh": "Mental Health Resources and Political Engagement",
-      "summary_zh": "Mental Health Resources and Political Engagement"
-    },
-    {
-      "title": "New York and California age gating rules go into effect in the new year",
-      "summary": "New York and California age gating rules go into effect in the new year",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-      "published_at": "2026-11-27T12:43:40+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "173",
-      "item_id": "hn:50666279",
-      "summary_type": "extractive",
-      "title_zh": "New York and California age gating rules go into effect in the new year",
-      "summary_zh": "New York and California age gating rules go into effect in the new year"
-    },
-    {
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "summary": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://eprint.iacr.org/2026/3020.pdf",
-      "published_at": "2026-11-27T12:08:51+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "191",
-      "item_id": "hn:50665968",
-      "summary_type": "extractive",
-      "title_zh": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "summary_zh": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]"
-    },
-    {
-      "title": "Kimi for Science: More scientific ideas, made possible",
-      "summary": "Kimi for Science: More scientific ideas, made possible",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.kimi.ai/news/kimi-for-science-program",
-      "published_at": "2026-11-27T12:03:11+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "173",
-      "item_id": "hn:50665920",
-      "summary_type": "extractive",
-      "title_zh": "Kimi for Science: More scientific ideas, made possible",
-      "summary_zh": "Kimi for Science: More scientific ideas, made possible"
+      "title_zh": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "summary_zh": "Paolo Soleri built a utopian eco-city in the Arizona desert"
     },
     {
       "title": "Claude sabotaging ML research tasks?",
@@ -285,7 +318,7 @@
         "paper",
         "llm"
       ],
-      "score": "464",
+      "score": "666",
       "item_id": "hn:50664325",
       "summary_type": "extractive",
       "title_zh": "Claude sabotaging ML research tasks?",
@@ -301,43 +334,11 @@
       "tags": [
         "ai"
       ],
-      "score": "632",
+      "score": "701",
       "item_id": "hn:50663595",
       "summary_type": "extractive",
       "title_zh": "Group chat where your AI talks behind your back",
       "summary_zh": "Group chat where your AI talks behind your back"
-    },
-    {
-      "title": "Buy Nothing Day – Friday November 27th 2026",
-      "summary": "Buy Nothing Day – Friday November 27th 2026",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://www.buynothingday.co.uk/",
-      "published_at": "2026-11-27T05:52:42+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "327",
-      "item_id": "hn:50663261",
-      "summary_type": "extractive",
-      "title_zh": "Buy Nothing Day – Friday November 27th 2026",
-      "summary_zh": "Buy Nothing Day – Friday November 27th 2026"
-    },
-    {
-      "title": "The need for a formally verifiable mainstream programming language",
-      "summary": "The need for a formally verifiable mainstream programming language",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "published_at": "2026-11-27T05:22:06+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "280",
-      "item_id": "hn:50663089",
-      "summary_type": "extractive",
-      "title_zh": "The need for a formally verifiable mainstream programming language",
-      "summary_zh": "The need for a formally verifiable mainstream programming language"
     },
     {
       "title": "Citroën Hydraulic System",
@@ -349,27 +350,11 @@
       "tags": [
         "ai"
       ],
-      "score": "41",
+      "score": "176",
       "item_id": "hn:50662313",
       "summary_type": "extractive",
       "title_zh": "Citroën Hydraulic System",
       "summary_zh": "Citroën Hydraulic System"
-    },
-    {
-      "title": "Hard Drive pricing has gotten bad",
-      "summary": "Hard Drive pricing has gotten bad",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "published_at": "2026-11-27T01:13:49+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "536",
-      "item_id": "hn:50661646",
-      "summary_type": "extractive",
-      "title_zh": "Hard Drive pricing has gotten bad",
-      "summary_zh": "Hard Drive pricing has gotten bad"
     },
     {
       "title": "AI made self-hosting fun again",
@@ -381,91 +366,75 @@
       "tags": [
         "ai"
       ],
-      "score": "🔥 1.0k",
+      "score": "🔥 1.1k",
       "item_id": "hn:50660180",
       "summary_type": "extractive",
       "title_zh": "AI made self-hosting fun again",
       "summary_zh": "AI made self-hosting fun again"
     },
     {
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "summary": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "title": "The Balatro Timeline",
+      "summary": "The Balatro Timeline",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "published_at": "2026-11-26T21:08:05+00:00",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "published_at": "2026-11-26T17:20:27+00:00",
       "tags": [
         "ai"
       ],
-      "score": "497",
-      "item_id": "hn:50659841",
+      "score": "266",
+      "item_id": "hn:50657346",
       "summary_type": "extractive",
-      "title_zh": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "summary_zh": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad"
+      "title_zh": "The Balatro Timeline",
+      "summary_zh": "The Balatro Timeline"
     },
     {
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "summary": "Company Culture = Slack Emoji ÷ √Headcount",
+      "title": "How WinHelp Files Work",
+      "summary": "How WinHelp Files Work",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "published_at": "2026-11-26T20:49:49+00:00",
+      "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+      "published_at": "2026-11-26T12:51:37+00:00",
       "tags": [
         "ai"
       ],
-      "score": "541",
-      "item_id": "hn:50659640",
+      "score": "29",
+      "item_id": "hn:50654773",
       "summary_type": "extractive",
-      "title_zh": "Company Culture = Slack Emoji ÷ √Headcount",
-      "summary_zh": "Company Culture = Slack Emoji ÷ √Headcount"
+      "title_zh": "How WinHelp Files Work",
+      "summary_zh": "How WinHelp Files Work"
     },
     {
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "summary": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "title": "Sydney Fire Ant Infestation",
+      "summary": "Sydney Fire Ant Infestation",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "published_at": "2026-11-26T17:47:45+00:00",
+      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+      "published_at": "2026-11-26T01:33:02+00:00",
       "tags": [
         "ai"
       ],
-      "score": "331",
-      "item_id": "hn:50657645",
+      "score": "40",
+      "item_id": "hn:50650253",
       "summary_type": "extractive",
-      "title_zh": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "summary_zh": "CTO of 'RansomwareHelp' indicted for wire fraud"
+      "title_zh": "Sydney Fire Ant Infestation",
+      "summary_zh": "Sydney Fire Ant Infestation"
     },
     {
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "summary": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "title": "Atlantic 1866: information and shipping in the age of the telegraph",
+      "summary": "Atlantic 1866: information and shipping in the age of the telegraph",
       "full_text": "",
       "source": "hacker news",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "published_at": "2026-11-26T17:36:47+00:00",
+      "url": "https://atlantic-1866.com/",
+      "published_at": "2026-11-25T20:55:26+00:00",
       "tags": [
         "ai"
       ],
-      "score": "520",
-      "item_id": "hn:50657530",
+      "score": "41",
+      "item_id": "hn:50647400",
       "summary_type": "extractive",
-      "title_zh": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "summary_zh": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays"
-    },
-    {
-      "title": "Intel One Mono font (2023)",
-      "summary": "Intel One Mono font (2023)",
-      "full_text": "",
-      "source": "hacker news",
-      "url": "https://github.com/intel/intel-one-mono",
-      "published_at": "2026-11-26T10:11:01+00:00",
-      "tags": [
-        "ai"
-      ],
-      "score": "577",
-      "item_id": "hn:50653667",
-      "summary_type": "extractive",
-      "title_zh": "Intel One Mono font (2023)",
-      "summary_zh": "Intel One Mono font (2023)"
+      "title_zh": "Atlantic 1866: information and shipping in the age of the telegraph",
+      "summary_zh": "Atlantic 1866: information and shipping in the age of the telegraph"
     },
     {
       "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
@@ -491,10 +460,10 @@
       "url": "http://arxiv.org/abs/2611.34934v1",
       "published_at": "2026-11-25T18:59:28Z",
       "tags": [
-        "tool",
-        "agent",
         "paper",
-        "llm"
+        "agent",
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.34934v1",
@@ -527,9 +496,9 @@
       "url": "http://arxiv.org/abs/2611.34920v1",
       "published_at": "2026-11-25T18:58:42Z",
       "tags": [
+        "paper",
         "tool",
-        "agent",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.34920v1",
@@ -545,10 +514,10 @@
       "url": "http://arxiv.org/abs/2611.34899v1",
       "published_at": "2026-11-25T18:51:36Z",
       "tags": [
-        "tool",
         "vision",
         "paper",
-        "llm"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.34899v1",
@@ -564,8 +533,8 @@
       "url": "http://arxiv.org/abs/2611.34887v1",
       "published_at": "2026-11-25T18:45:35Z",
       "tags": [
-        "tool",
-        "paper"
+        "paper",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.34887v1",
@@ -581,8 +550,8 @@
       "url": "http://arxiv.org/abs/2611.34875v1",
       "published_at": "2026-11-25T18:37:06Z",
       "tags": [
-        "agent",
-        "paper"
+        "paper",
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.34875v1",
@@ -614,9 +583,9 @@
       "url": "http://arxiv.org/abs/2611.34868v1",
       "published_at": "2026-11-25T18:33:07Z",
       "tags": [
-        "tool",
         "paper",
-        "llm"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.34868v1",
@@ -632,10 +601,10 @@
       "url": "http://arxiv.org/abs/2611.34864v1",
       "published_at": "2026-11-25T18:30:43Z",
       "tags": [
-        "tool",
         "vision",
         "paper",
-        "llm"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.34864v1",
@@ -651,9 +620,9 @@
       "url": "http://arxiv.org/abs/2611.34862v1",
       "published_at": "2026-11-25T18:29:36Z",
       "tags": [
-        "vision",
         "paper",
-        "llm"
+        "llm",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.34862v1",
@@ -686,9 +655,9 @@
       "url": "http://arxiv.org/abs/2611.34852v1",
       "published_at": "2026-11-25T18:25:30Z",
       "tags": [
+        "paper",
         "tool",
-        "agent",
-        "paper"
+        "agent"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.34852v1",
@@ -704,8 +673,8 @@
       "url": "http://arxiv.org/abs/2611.34843v1",
       "published_at": "2026-11-25T18:20:18Z",
       "tags": [
-        "vision",
-        "paper"
+        "paper",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.34843v1",
@@ -721,9 +690,9 @@
       "url": "http://arxiv.org/abs/2611.34841v1",
       "published_at": "2026-11-25T18:19:02Z",
       "tags": [
-        "vision",
         "paper",
-        "llm"
+        "llm",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.34841v1",
@@ -739,9 +708,9 @@
       "url": "http://arxiv.org/abs/2611.34831v1",
       "published_at": "2026-11-25T18:12:20Z",
       "tags": [
-        "tool",
         "paper",
-        "llm"
+        "llm",
+        "tool"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.34831v1",
@@ -790,8 +759,8 @@
       "url": "http://arxiv.org/abs/2611.34813v1",
       "published_at": "2026-11-25T18:01:22Z",
       "tags": [
-        "agent",
         "paper",
+        "agent",
         "vision"
       ],
       "score": "📄",
@@ -808,9 +777,9 @@
       "url": "http://arxiv.org/abs/2611.34811v1",
       "published_at": "2026-11-25T17:59:24Z",
       "tags": [
-        "vision",
         "paper",
-        "llm"
+        "llm",
+        "vision"
       ],
       "score": "📄",
       "item_id": "arxiv:2611.34811v1",
@@ -828,11 +797,43 @@
       "tags": [
         "ai"
       ],
-      "score": "27",
+      "score": "84",
       "item_id": "hn:50633531",
       "summary_type": "extractive",
       "title_zh": "Show HN: Analysis of Hacker News predictions since 2008",
       "summary_zh": "I&#x27;ve always been curious about market and technology predictions so I made HN Predictions.I made it (prompted) in Antigravity using Gemini 4 Neon (High) orchestrator, and it took about 4 to 6 hours. Everything is hosted on Google Cloud and uses Vertex API and various Gemini models (still experimenting and comparing costs vs effectiveness) to analyze and summarize texts. I primarily have it look at dedicated &quot;prediction&quot; threads where people discuss what they think will happen next"
+    },
+    {
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "summary": "Loom seamlessly combines weaving, knitting and braiding",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "published_at": "2026-11-24T18:10:45+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "39",
+      "item_id": "hn:50632052",
+      "summary_type": "extractive",
+      "title_zh": "Loom seamlessly combines weaving, knitting and braiding",
+      "summary_zh": "Loom seamlessly combines weaving, knitting and braiding"
+    },
+    {
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "summary": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "full_text": "",
+      "source": "hacker news",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+      "published_at": "2026-11-24T17:55:27+00:00",
+      "tags": [
+        "ai"
+      ],
+      "score": "80",
+      "item_id": "hn:50631823",
+      "summary_type": "extractive",
+      "title_zh": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "summary_zh": "Build your own amp modeler: $78 DIY pedal kit from TONE3000"
     }
   ]
 }
